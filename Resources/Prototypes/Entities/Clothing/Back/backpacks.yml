@@ -293,7 +293,7 @@
   description:
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Clothing/Back/Backpacks/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.1
   - type: Storage

@@ -5,9 +5,9 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Lime/Imported/Monolith/Structures/Windows/xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Windows/xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Windows/xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Windows/xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: IconSmooth
     key: walls

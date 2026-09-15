@@ -55,9 +55,9 @@
   description: A beret with the security department's insignia. For officers that are more inclined towards style than safety.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade

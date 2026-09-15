@@ -4,9 +4,9 @@
   name: shuttle window
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Windows/shuttle_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Windows/shuttle_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Windows/shuttle_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Windows/shuttle_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Repairable
     fuelCost: 15

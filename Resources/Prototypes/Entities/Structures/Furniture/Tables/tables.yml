@@ -9,9 +9,9 @@
   description: Pieces of metal that make the frame of a table.
   components:
   - type: Sprite
-    sprite: Structures/Furniture/Tables/frame.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/frame.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: full
   - type: Fixtures
     fixtures:
@@ -57,9 +57,9 @@
   components:
   - type: SpriteFade
   - type: Sprite
-    sprite: Structures/Furniture/Tables/frame.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/frame.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: full
   - type: Fixtures
     fixtures:
@@ -103,9 +103,9 @@
   components:
   - type: SpriteFade
   - type: Sprite
-    sprite: Structures/Furniture/Tables/frame.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/frame.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: full
   - type: Fixtures
     fixtures:
@@ -147,9 +147,9 @@
   description: A square piece of metal standing on four metal legs.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Furniture/Tables/generic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/generic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Furniture/Tables/generic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/generic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Damageable
     damageModifierSet: SteelMod
   - type: Destructible
@@ -180,9 +180,9 @@
   description: A square piece of metal standing on four metal legs. Extra robust.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Furniture/Tables/reinforced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/reinforced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Furniture/Tables/reinforced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/reinforced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Damageable
     damageModifierSet: PlasteelMod
   - type: Destructible
@@ -302,9 +302,9 @@
   description: A square piece of glass, standing on four metal legs. Extra robust.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Furniture/Tables/r_glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/r_glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Furniture/Tables/r_glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/r_glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: GlassTable
     climberDamage:
       types:
@@ -345,9 +345,9 @@
   description: A square piece of plasma glass, standing on four metal legs. Pretty!
   components:
   - type: Sprite
-    sprite: Structures/Furniture/Tables/plasma.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/plasma.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/plasma.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/plasma.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: GlassTable
     climberDamage:
       types:
@@ -449,9 +449,9 @@
   description: Play em' cowboy.
   components:
   - type: Sprite
-    sprite: Structures/Furniture/Tables/carpet.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/carpet.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/carpet.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/carpet.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Damageable
     damageModifierSet: WoodMod
   - type: Destructible
@@ -846,9 +846,9 @@
   description: Do not apply fire to this. Rumour says it burns easily.
   components:
   - type: Sprite
-    sprite: Structures/Furniture/Tables/counterwood.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/counterwood.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/counterwood.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/counterwood.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: WoodMod
@@ -881,9 +881,9 @@
   description: Looks like a good place to put a drink down.
   components:
   - type: Sprite
-    sprite: Structures/Furniture/Tables/countermetal.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/countermetal.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: Structures/Furniture/Tables/countermetal.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Furniture/Tables/countermetal.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: SteelMod

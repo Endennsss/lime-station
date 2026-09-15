@@ -27,7 +27,7 @@
     node: bulbLight
   - type: Sprite
     offset: 0, 1
-    sprite: Structures/Wallmounts/Lighting/strobe_light.rsi
+    sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/strobe_light.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     drawdepth: WallMountedItems
     layers:
     - map: ["enum.PoweredLightLayers.Base"]
@@ -77,7 +77,7 @@
   parent: AlwaysPoweredStrobeLight
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/Lighting/strobe_light.rsi
+    sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/strobe_light.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: empty
   - type: AmbientSound
     enabled: false

@@ -211,7 +211,7 @@
     itemIconStyle: BigAction
     priority: -20
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/empgrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/empgrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.ActionVisuals.Icon"]

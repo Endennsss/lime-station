@@ -8,9 +8,10 @@ const repo = process.cwd();
 const source = path.resolve(process.argv[2] ?? '.');
 const mode = process.argv[3] ?? '--audit';
 const root = 'Resources/Textures/';
-const monolith = process.argv.includes('--monolith');
-const provider = monolith ? 'Monolith' : 'Goob';
-const repositoryUrl = monolith ? 'https://github.com/Monolith-Station/Monolith' : 'https://github.com/Goob-Station/Goob-Station';
+const forge = process.argv.includes('--forge');
+const monolith = forge || process.argv.includes('--monolith');
+const provider = forge ? 'Forge' : monolith ? 'Monolith' : 'Goob';
+const repositoryUrl = forge ? 'https://github.com/Forge-Station/Monolith' : monolith ? 'https://github.com/Monolith-Station/Monolith' : 'https://github.com/Goob-Station/Goob-Station';
 const destination = `${root}_Lime/Imported/${provider}/`;
 const manifestPath = `${destination}import_manifest.json`;
 const franchisePath = /(?:^|[/_.-])(amongus|among_us|jojo|kirby|mario|sonic|zelda|omniman|helldivers?|pokemon|warhammer|cosplay|nazgul|goku|naruto|luffy|deltarune|undertale)(?:$|[/_.-])/i;
@@ -71,7 +72,9 @@ function* walk(directory) {
 
 if (mode === '--verify' || mode === '--verify-index') {
     const manifest = json(manifestPath);
-    const imported = manifest.assetManifests.flatMap(filename => json(path.resolve(repo, destination, filename)));
+    const removed = new Set(manifest.cleanup?.removedDestinations ?? []);
+    const imported = manifest.assetManifests.flatMap(filename => json(path.resolve(repo, destination, filename)))
+        .filter(asset => !removed.has(asset.destination));
     const index = mode === '--verify-index' ? new Map(git(repo, ['ls-files', '--stage', '--', destination])
         .trim().split('\n').map(line => { const [head, name] = line.split('\t'); return [name, head.split(' ')[1]]; })) : null;
     const objectFormat = index ? git(repo, ['rev-parse', '--show-object-format']).trim() : null;
@@ -163,16 +166,25 @@ for (const [directory, contents] of groups) {
 assets.sort((a, b) => a.source.localeCompare(b.source));
 const bindings = new Map(), airlockBindings = new Map();
 const normalize = filename => filename.replaceAll('_', '-');
-const localRsi = [...localFiles.keys()].filter(filename => filename.endsWith('.rsi/meta.json')).map(filename => filename.slice(0, -10));
+const localRsi = [...localFiles.keys()].filter(filename => filename.endsWith('.rsi/meta.json')
+    && fs.existsSync(path.join(repo, filename))).map(filename => filename.slice(0, -10));
 // Связываем исходные пути с уже подключёнными наборами Goob, не меняя их файлы.
-const previousAssets = monolith ? json('Resources/Textures/_Lime/Imported/Goob/import_manifest.json').assetManifests
-    .flatMap(filename => json('Resources/Textures/_Lime/Imported/Goob/' + filename)) : [];
+const previousAssets = monolith ? (forge ? ['Goob', 'Monolith'] : ['Goob']).flatMap(name => {
+    const base = `Resources/Textures/_Lime/Imported/${name}/`;
+    return json(base + 'import_manifest.json').assetManifests.flatMap(filename => json(base + filename));
+}).filter(asset => fs.existsSync(path.join(repo, asset.destination, 'meta.json'))) : [];
+const sameImages = (oldDirectory, nextDirectory) => {
+    const oldMeta = json(path.join(repo, oldDirectory, 'meta.json'));
+    return oldMeta.states.every(state => fs.existsSync(path.join(source, nextDirectory, state.name + '.png'))
+        && sha(path.join(repo, oldDirectory, state.name + '.png')) === sha(path.join(source, nextDirectory, state.name + '.png')));
+};
 for (const asset of assets) {
     asset.replaces = [];
     const matches = [...new Set([...localRsi.filter(directory => normalize(directory) === normalize(asset.source)),
         ...previousAssets.filter(previous => normalize(previous.source) === normalize(asset.source)).map(previous => previous.destination)])];
     for (const directory of matches) {
-        if (compatible(json(path.join(repo, directory, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))) {
+        if (compatible(json(path.join(repo, directory, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))
+            && (!forge || !sameImages(directory, asset.source))) {
             asset.replaces.push(directory.slice(root.length));
             bindings.set(directory.slice(root.length), asset.destination.slice(root.length));
         }
@@ -205,8 +217,14 @@ if (monolith) {
         'exo-resin': 'xeno_resin', 'exo-resin-borg': 'xenoborg',
     };
     // Предпочитаем художественные варианты Frontier, опубликованные в Monolith.
-    for (const asset of [...assets.filter(asset => !asset.source.includes('/_NF/')), ...assets.filter(asset => asset.source.includes('/_NF/'))]) {
-        const original = asset.source.replace(`${root}_NF/`, root);
+    const variants = forge ? [...assets].sort((a, b) => {
+        const rank = asset => asset.source.includes('/_Forge/') ? 3 : asset.source.includes('/_Corvax/') ? 2
+            : asset.source.includes('/_NF/') ? 1 : 0;
+        return rank(a) - rank(b);
+    }) : [...assets.filter(asset => !asset.source.includes('/_NF/')), ...assets.filter(asset => asset.source.includes('/_NF/'))];
+    for (const asset of variants) {
+        const original = forge ? asset.source.replace(/^Resources\/Textures\/_[^/]+\//, root)
+            : asset.source.replace(`${root}_NF/`, root);
         const candidates = [original, ...Object.entries(windowAliases)
             .filter(([, next]) => original === `${root}Structures/Windows/${next}.rsi`)
             .map(([old]) => `${root}Structures/Windows/${old}.rsi`)];
@@ -216,7 +234,8 @@ if (monolith) {
             const paths = [directory.slice(root.length), ...previousAssets.filter(previous => previous.source === directory)
                 .map(previous => previous.destination.slice(root.length))];
             for (const relative of paths) {
-                if (!compatible(json(path.join(repo, root, relative, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))) continue;
+                if (!compatible(json(path.join(repo, root, relative, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))
+                    || forge && sameImages(root + relative, asset.source)) continue;
                 bindings.set(relative, asset.destination.slice(root.length));
                 if (!asset.replaces.includes(relative)) asset.replaces.push(relative);
             }
@@ -283,7 +302,7 @@ function adaptAirlocks(text) {
         return updated;
     }).join('\n');
 }
-const edits = [], prototypeFiles = new Set();
+const edits = [], prototypeFiles = new Set(), connectionReferences = new Set();
 for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
     if (!filename.endsWith('.yml') && !filename.endsWith('.yaml')) continue;
     const before = fs.readFileSync(filename, 'utf8');
@@ -310,9 +329,16 @@ for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
                     `$1 ${sprite} # Lime-Edit - рама ЛКП Monolith$2`);
         }
     }
+    for (const match of after.matchAll(/(?:[_A-Za-z0-9.-]+\/)+[_A-Za-z0-9.-]+\.rsi/g))
+        connectionReferences.add(match[0].replace(/^Textures\//, ''));
     if (before.replaceAll('\r\n', '\n') !== after.replaceAll('\r\n', '\n')
         || before.includes(destination.slice(root.length))) prototypeFiles.add(filename);
     if (before !== after) edits.push({ filename: path.relative(repo, filename).replaceAll('\\', '/'), before, after });
+}
+if (forge) {
+    // Не создаём новую свалку: копируем только реально подключённые отличия Forge.
+    const retained = assets.filter(asset => connectionReferences.has(asset.destination.slice(root.length)));
+    assets.splice(0, assets.length, ...retained);
 }
 const summary = {
     commit, imported: assets.length, replacements: assets.filter(asset => asset.replacement).length,
@@ -339,6 +365,16 @@ if (mode === '--audit') {
     }
     console.log(JSON.stringify(summary));
 } else if (mode === '--plan') {
+    if (process.argv.includes('--copy-planned')) {
+        // Копирование выбранных исходных ресурсов вместе с планом, без повторного аудита.
+        for (const asset of assets) for (const filename of Object.keys(asset.sha256)) {
+            const target = path.resolve(repo, asset.destination, filename);
+            if (!target.startsWith(path.resolve(repo, destination) + path.sep)) throw new Error('unsafe-destination');
+            fs.mkdirSync(path.dirname(target), { recursive: true });
+            if (fs.existsSync(target) && sha(target) !== asset.sha256[filename]) throw new Error(`Refusing overwrite: ${target}`);
+            fs.copyFileSync(path.resolve(source, asset.source, filename), target);
+        }
+    }
     const planDir = path.resolve(process.argv[4]);
     if (planDir.startsWith(repo + path.sep)) throw new Error('plan-must-be-outside-repository');
     fs.mkdirSync(planDir, { recursive: true });

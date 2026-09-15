@@ -24,7 +24,7 @@
   - type: ClusterGrenadeVisuals
     state: base
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/clusterbang.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/clusterbang.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: base-0
 
 - type: entity
@@ -35,7 +35,7 @@
   suffix: Full
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/clusterbang.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/clusterbang.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.TriggerVisualLayers.Base"]
@@ -69,7 +69,7 @@
   description: Why use one grenade when you can use three at once!
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/clusterbomb.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/clusterbomb.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.TriggerVisualLayers.Base"]

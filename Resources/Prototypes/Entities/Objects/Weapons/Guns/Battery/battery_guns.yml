@@ -300,7 +300,7 @@
   description: A state of the art energy pistol favoured as a sidearm by the NT operatives.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Mono/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -315,7 +315,7 @@
     zeroVisible: false
   - type: Appearance
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Mono/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Gun
     selectedMode: SemiAuto
     availableModes:

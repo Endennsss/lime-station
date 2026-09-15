@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: EngineeringFoamGrenade
   icon:
-    sprite: Objects/Weapons/Grenades/metalfoam.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/metalfoam.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: icon
   product: CrateEngineeringFoamGrenade
   cost: 2500

@@ -1,0 +1,1212 @@
+[
+  {
+    "source": "Resources/Textures/_Forge/Clothing/Back/Backpacks/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Back/Backpacks/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by dreamlyjack for Forge (624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "624759a54417e7cd0d52d645742d8b0b15b9c54d478b8b77ebf28f4cbc21c5c5",
+      "icon.png": "84381f71dec0797657e15d0d15cc5188049e6902740416dcddc22011ea14df22",
+      "inhand-left.png": "64a274db87f342da0224dbd51d0fa68b8ff6c13b6bf8a54b889c3b372fe3f136",
+      "inhand-right.png": "fdfb2c73841d88e39503cfa14f4c54a92145516ddfb22bd6edea1b3592c01e5b",
+      "meta.json": "d27d58d7ff742d181df014ac8a1575161711705418f1f6cb51c401387b25e889"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/syndicate.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/syndicate.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Clothing/Head/Hats/beret_security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e and modified by Flareguy, Colors tweaked by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "d277665cbd0baa83af96456554286d330f38961cec37ebcc0d0dd4385dc08829",
+      "equipped-HELMET.png": "6a624315a933ef71a724ac7b9fba88b58450573763d45fb9e750482de2677682",
+      "icon.png": "4e53d71568a8184d0ea33452dd5fb197d4d18a087e91a6c9b8db5a3f61cfa161",
+      "inhand-left.png": "d5ec372e06d63e8cf3927ff4d2c5fd5d30ae3aef2a80e9719ed77c9d686faafb",
+      "inhand-right.png": "85351f830c9168220154fbbf1f19106ade0fa4086cf68ff0abd31e68b7dbd9ef",
+      "meta.json": "b55fa1ec8551758faaa3abb50d2f8bb0c0f2ba326ff93f5dac8111ae58c38dcc"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/beret_security.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hats/beret_security.rsi",
+      "_Lime/Imported/Monolith/Clothing/Head/Hats/beret_security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Clothing/Neck/Cloaks/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Neck/Cloaks/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "34d27d149d395691224337d9aed17fb3f33edc12db69e54bad82155863d83ff9",
+      "icon.png": "0a987358058a51b5be8baf3adad0b444f0973b260f85c5c3c8540eb050087652",
+      "inhand-left.png": "0d69f485e026e39c7153b3302e46615044eb031952791aa8f95f7b96a6d1c664",
+      "inhand-right.png": "5e285e2633cda19baa5da91dec56ca4a9d3d796a006dc372e69a57fdcf6f6366",
+      "meta.json": "8d45f2103649f1c4ff339ee6fcfd349998058b160ef386dd49a27d6661745d72"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/hos.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/Cloaks/hos.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/Cloaks/hos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Clothing/Neck/mantles/hosmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Neck/mantles/hosmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "7633cdd9fa47f965310c1937ab0511b8d65566910b59b2fda82a1e2298229895",
+      "equipped-NECK.png": "cd8991520b19e870a7783f0da89a15e07c06c20f788414f78ad921d988946b10",
+      "icon.png": "0bd533e5798acde4bc94f767792db97729ffead0ea6b2b4609fac5d3aa87de18",
+      "meta.json": "a9eec7ee2303c4df6ec3e9983e38afa8e87b0d799778ad1fde7bebdd2f4b98fd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/hosmantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/hosmantle.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/mantles/hosmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Clothing/OuterClothing/Armor/syndie-raid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/OuterClothing/Armor/syndie-raid.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by alzore_(Discord) for SS14 using the colors of the blood-red hardsuit,  Resomi state created by Huaqas (Github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-light-resomi.png": "43a2d4a89748a420e5ab03ded387e4557ad1210476b01deec31830c80ad4cac4",
+      "equipped-OUTERCLOTHING-light-vox.png": "72cc8ec3d8b442c5dfe123a48404c14977122f0b49a35f2a1298e017f62a28eb",
+      "equipped-OUTERCLOTHING-light.png": "2a66f9bef550123b576bc34a5e687c9157c56d5c29d9ee3d873afab21ce3e289",
+      "equipped-OUTERCLOTHING-resomi.png": "eda95f5ae1a54d015a3a4bdb97fcf2f1761dfe9086cacbda8c3a4dd2e4bce0d2",
+      "equipped-OUTERCLOTHING-vox.png": "920d7189ba449d3c9f283785894fe87220a4381d143da98b8d7436388de8a269",
+      "equipped-OUTERCLOTHING.png": "43e13d3326552ae91e101fc1f17a40c5a77d4be6314ee22100189863c8b5ffcc",
+      "icon.png": "d969dae00cdbb50cc234d29a3a2d5c07a078e1c2db2ef24d4928dad274d8d36e",
+      "inhand-left.png": "eda41f5c25ccdeff5e52ef370fd8e04ea0f332cae5481f8a43f52a21350ffad9",
+      "inhand-right.png": "fd9d012ec8496d5c9112ffa3ef42d6551944b091a5e85e011807a6ad731be3fd",
+      "light-overlay.png": "9faf56751b5a9e6800a670624038886b5ba1f474bc66968e340737644b62691a",
+      "meta.json": "c619c7f2f494eb675d031baa26850643a081ad429341f989127e96e9fecebdf1"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Armor/syndie-raid.rsi",
+      "_Lime/Imported/Goob/Clothing/OuterClothing/Armor/syndie-raid.rsi",
+      "_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/syndie-raid.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Specific/Syndicate/telecrystal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Specific/Syndicate/telecrystal.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by autsaider_m",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "inhand-left.png": "36349bbe03ff1fb2c68d81ba9b58b6f2fe5d60f7756b81ba37b744d5c4ffd6f2",
+      "inhand-right.png": "2c73f84801d0b3964208265938f5665bc9d0e3dff82037be0974250ca3823fee",
+      "meta.json": "1c7aa48321a5d277fbd9cc9fef6b24ecf96ad7d63479af90c2c279af77cbbd33",
+      "telecrystal.png": "bd76892d851609d96d360d8dd685992bae10ec9f427964ae3f79063f215a6ac3"
+    },
+    "replaces": [
+      "Objects/Specific/Syndicate/telecrystal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/clusterbang.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/clusterbang.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/29c0ed1b000619cb5398ef921000a8d4502ba0b6 and modified by Swept. Inhands by TiniestShark (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-0.png": "f4208a5d27ce147c6b104ff0133a16d07e3c0d86777a7a3831c21288d0080041",
+      "base-1.png": "8165888ea51642a277e21f017c5f1a995956e83e0d791d9c359432e3b9bec9c0",
+      "base-2.png": "42b6f2f43ef7d93bab8c2d63cbe3efff73067ea7ae71847b345ae3d59b25c51c",
+      "base-3.png": "a431b747940e74ee77d20ca3c600917e25ac6969df731a9bbca275db7acc9e36",
+      "icon.png": "3f057595d0f76eb54d03299c3b625408b9b42e6b3b7c24e18d2bc82ee1ecfb05",
+      "inhand-left.png": "f7c5a08dca63744e30518c0cd73d17c785851ff646d45840330963ae722031c5",
+      "inhand-right.png": "ceaceaeac3992861778b9ffeba51380f314552de58d482bc69a4f6123eb7bd85",
+      "meta.json": "1cd9206a405de0f249f921533cbd7afb6a480c117d91d9adaf05ce3cb6b7525f",
+      "primed.png": "edcb0b48f97cf6f6bf0315c37ffdb8ee85fbf7ef58459559f979421d5bc0f9be"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/clusterbang.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/clusterbomb.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/clusterbomb.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/29c0ed1b000619cb5398ef921000a8d4502ba0b6 and modified by Swept. Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-1.png": "da74f141a6efc872c58a6965b8db40ea24d582fb15b1acbe9db88a6b84a64a08",
+      "base-2.png": "4b5d92bc8f9d9e5193b8962fcc828fba09ebcbfd890ab724e78a78a112a6951f",
+      "icon.png": "b8ef2ebdd0f8b554ba856431d87af856679315a30a8db157451fd357b171735c",
+      "inhand-left.png": "5bece66afd37ea948535672c144da5847fea5c822909374ca0b1db3578341ee8",
+      "inhand-right.png": "5563e7972e32745a6806d2cf591d2d2ac4ee5b2fa7ed75397caab2e8cf13cda1",
+      "meta.json": "539f58d4792158fc74d7fb4cd56bd156c98abc37bb075686f6a7f8cbc3d78c01",
+      "primed.png": "bce0ad5ba3208b7aef06a84d475349710408844fa29838fa2d621110412e6ef3"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/clusterbomb.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/empgrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/empgrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "383f97f996e2c115e4be2d20a4d947fc13f397fea51f5fba1c1a5880f0fa3d10",
+      "icon.png": "6715718ada33f74f18d43ef4940b423e0ce316195d7f95d07af891bbb6b3f18d",
+      "inhand-left.png": "6e972792431d91b5c98cf25a66282c66315c1e9d55b805636b44f3a7e4405a5d",
+      "inhand-right.png": "ce3a57d55d2c8e51b0f77e91f4f8ff1c829135484a6b4a38f6981dac65f9a690",
+      "meta.json": "2ada7c7ad81b17f12279d245f2d3f6e2b0e8b9895aa384b67a99e3ee51a0e9a5",
+      "primed.png": "1246be8e18517896bc1e3e482791907e3662b2815844f41eb7abbe0a38bf2ad3"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/empgrenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/empgrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/flashbang.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/flashbang.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/d91390a4474e511279b6ee7525c5982266b9a858, created by K-Dynamic (github). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "fd149f162a32fedfe0d8865d1e40217d22ab5838faec77c086d1d3e3526fc43a",
+      "icon.png": "fbcd1f9844764176a623203fc49f05d14c359cb2f85171de967f1c49f6b537f1",
+      "inhand-left.png": "c929ff30b8faa8f980a8e1b645342225b40552bef32301a69798ae7c4fdb5399",
+      "inhand-right.png": "c1c88d68a557f7f0a36e3f7901b47402825eb3bf0ef1133df1f107c6af20d51a",
+      "meta.json": "1e4490b2c9dd9311cced406052ea78a621a5603bec54772f915e40550f53e4da",
+      "primed.png": "2f3017291623c813aac2abc983f77ab5e36e7d7fa2b0ce7ef1893d61ac927fc4"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/flashbang.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/flashbang.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/grenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/grenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/d91390a4474e511279b6ee7525c5982266b9a858. Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "0757450577cce4389f05e3dfd996d9c5171d976d16403b7e3f4f85aa8ecb7bbe",
+      "icon.png": "c024642cafc4c866897166d57ba2394fe0f5288e609c2f3d9355087880032572",
+      "inhand-left.png": "e32f582edefeed978dedcd70a2b19fd4d5cc8a1ecb2af5ee15387ca96c8ea6f0",
+      "inhand-right.png": "cb93a68222e1ef7400fe251d69027846cbe0bed362d8ee413becc5440a66bc13",
+      "meta.json": "14032e8006efe668d216aec6c6680f1870bb47986c2da599f4ad52588e977a7f",
+      "primed.png": "384e214e957f4f832e277246b7032b6540bbd2bfe2d128779f54a95bc32d0392"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/grenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/grenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/metalfoam.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/metalfoam.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "6f51ce13faee8d5098cc304e9cd9504aaa4b37ab38aa25d46cb361e1c3568c5d",
+      "icon.png": "67cd6f28fa36ad8c73037ee902db6977c726e38fd8d9778d818232ca6a44ddf2",
+      "inhand-left.png": "5bc3268eaafb011de3d79bf5aab6bdfe8d879937b71e95360b6a1c935a2afcec",
+      "inhand-right.png": "5ec1320071623c3e9817e08cc425859aba9b23eb100939984583d87db2639465",
+      "meta.json": "e301393d5e0c2705a1c1a2c94f0566c1f6d7898e09adad81f7ac1f2235194e6d",
+      "primed.png": "62f7d64a7e3b811d0cb0b549448be885322217872a0babc1d58f7e18af717853"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/metalfoam.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/metalfoam.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/modular.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/modular.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/29c0ed1b000619cb5398ef921000a8d4502ba0b6 and modified by Swept & ElectroSR. Inhands by TiniestShark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "complete.png": "a010b25c270fa5a8719fbc1d5b0b3f684ceecb93bf8e873d58737bc9338785cf",
+      "empty.png": "bee3b519813406594a0b648d747a99b6bb8b6d31480d05672a40e401196cdbd7",
+      "inhand-left.png": "cfb1be834bcad964973c3539cbeef1c404cd8a9d91a2c6be9de2a2cc6902cf2d",
+      "inhand-right.png": "c006ea88f253e0d545f861289aec3b50f685fa1a220f6cf0f825af06170b70e5",
+      "meta.json": "312272cb66cd64478b150dd6bb7e3fda3bd6d0fd7474149a64db8787b4626381",
+      "no-payload.png": "a010b25c270fa5a8719fbc1d5b0b3f684ceecb93bf8e873d58737bc9338785cf",
+      "no-trigger.png": "b161d5f46217b67fa26ecc61977b2e9e8380e7e2efa9cbbafc0e9dc5da95c2c9",
+      "primed.png": "35676aa98758e9db85203b7e5dad370f3bf97d686373e99987135ec6dfcd770c",
+      "wired.png": "99c1d8354c86041cca012b1e5a08fa7c6f234beefae3ab6d91dae331329579b1"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/modular.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/nukenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/nukenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "a8e037d2b0a91d7f76dfa4789837d31cb12b5abda0bf1a2849bfb2b60ade9180",
+      "inhand-left.png": "44f0a63f62523af5129dbfafb19236204c37192932c84988bc0a0f2af99dc259",
+      "inhand-right.png": "2d18770ba8cfa6d539ba7be77320c9175a1a5941ae6ca10c987cd6a857550c97",
+      "meta.json": "f95b9cbe6170455144bced568d1640d385119ad01d83d193a5f09cea836afbbe",
+      "primed.png": "50458834a9fb35cc4b0e16457abbda0c4e1e105df82aa42fb3b402a5b1856e69"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/nukenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/nukenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/pyrogrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/pyrogrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "8e70f5af724bf210595a22223fc396ea8af84c94c7073ed3a624db0dbfb3d03d",
+      "icon.png": "cfe8fceaff44e8133c7487f628acf3c39bbf453c9d46c2e700434604ecdb6ece",
+      "inhand-left.png": "6ec51b245445dae4768606f7c0cd1e8cd946cbfb502182b1d6fad82745cb4e2e",
+      "inhand-right.png": "ed6d5263da4b01217c1b9e925b7185d161eb3bf998afedeb4159b78ccd877b91",
+      "meta.json": "e301393d5e0c2705a1c1a2c94f0566c1f6d7898e09adad81f7ac1f2235194e6d",
+      "primed.png": "4df05f042058f13fa8dea0145729ec0fa930a3067dc564ba818c915fdcdb6697"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/pyrogrenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/pyrogrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/shrapnelgrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/shrapnelgrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "8fdb3e22d07f4c71e1ad4ae4b97919d43e93feff0822e5288ee7d62d42c984cf",
+      "icon.png": "3a15eb8853015c9142ae42ce9cd977d49aac930a6eb67ebfe9228569fc54be5a",
+      "inhand-left.png": "54cb736b18ce118200aae62b77eafe126552f729995b925a6eda072031c966a9",
+      "inhand-right.png": "5a9e6614a9907dc95c3c56411a5cd1ffc3417c8b9f4678cbad32c7b524bdc4b2",
+      "meta.json": "e301393d5e0c2705a1c1a2c94f0566c1f6d7898e09adad81f7ac1f2235194e6d",
+      "primed.png": "9df9eca227bd14544eb3414e74fa741dc6b5d6249cf982fcf6aad50034bebe12"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/shrapnelgrenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/shrapnelgrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/singularitygrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/singularitygrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "19cdf053f80be79dc41f0bdadde392c2fef81b5c5041491fda27953ada778023",
+      "inhand-left.png": "1ff5d184d0a4babb9f3b80ff5772c44410548b510d731984642144dc74d6b294",
+      "inhand-right.png": "e8c9f45a5a575d754a47e2e84c78dd08880e41c00c8534d514ccb405adf03f81",
+      "meta.json": "4c81430dacbed69fc6c339b5b54f351912867ce5b869c11afc79442f3cda4ad8",
+      "primed.png": "6cb7006c0e5eb6f389759686f3dff4d720a0c88a734c2104df3a6d852ef053c0"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/singularitygrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/stingergrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/stingergrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "555a9ec3c271dfbe591030f7599e0e548a89855a01af4fbf77fffa7c2bf039f6",
+      "icon.png": "cd7d403174e3b219edba197851e83f07943b32a996300ef91bb0ffcdfa4c1a0a",
+      "inhand-left.png": "a8bac57e211c90d45735fe9f5a0eb6d927dea11680348d7e759635b77aaf3c11",
+      "inhand-right.png": "9a6aa08d4beb9905d72314ec741610868a79c6c98b8b8cd0be63bda65410252a",
+      "meta.json": "e301393d5e0c2705a1c1a2c94f0566c1f6d7898e09adad81f7ac1f2235194e6d",
+      "primed.png": "8f27e705ea3dc05978cd6db3e791fe0d0254c4d91c95fdc3405847cb9058305a"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/stingergrenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/stingergrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/syndgrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/syndgrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "640283fad48ba2591f66b17279f96d1c9907a99d7a6ec2c36649436504af3bee",
+      "icon.png": "7284f11a9045f0824dd34ecbabdd1a8b5cdd23bbc354e48dcd7a3e35247db50b",
+      "inhand-left.png": "f9c27c803494af9f2934e12c3037cbe629411db8c3c035851fe12b7257c6e76c",
+      "inhand-right.png": "93c2b2fcbba07525a56f3df710937f17670f3bf2222456052b429a146d9c06bf",
+      "meta.json": "c8c134c3e1c8095b8ac190ef2c9a523145bbd585517a71e583be8dd5efd11c2b",
+      "primed.png": "48baa3a4452dabebabb048a507fff56b1c224a19d85da5d903cd2f334e43e1ad"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/syndgrenade.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Grenades/syndgrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Grenades/whiteholegrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/whiteholegrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by @mishutka09 (discord:1152277579206774854). Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "c6a50fa8c066f1afafd59a64a7207b7dea3d756a1c26e81f47ea6521ea61fe6e",
+      "inhand-left.png": "a6e0f366a33a8ede84f416102de312d6181d5a7a0ca5473a7028c5dbbbccf354",
+      "inhand-right.png": "e7562212ce297256c2a5e5150028438a2649621057fd6b7b8af59f37ee70fadb",
+      "meta.json": "8826ca122875ad22066ba202951213c602f0d13d1a5536d189a3d796c40aca48",
+      "primed.png": "fb14b064793008a570166ba974742c1e18b36daa8e1cb9060727be36f2622353"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/whiteholegrenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Guns/Shuttles/launcher.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Guns/Shuttles/launcher.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Autsaider",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "exp-2100g.png": "72442017ffd8de6d6af9171adac6dc594218466925b74eaacbba6ad09d9d187c",
+      "exp-320g.png": "9e1f06b111b7a46b65bcab25ac8a8067239ccbc5305077b1ccc882be6c821186",
+      "mag-0.png": "d006693f5339eb9d95432acfac5273c320d267e3b4b93b55871bd96723be972d",
+      "mag-1.png": "c4856f80bee4d7beea358d105e6115a3d542bab4372b16abf5520d26633191dc",
+      "mag-2.png": "bdaf39e8dd318c184d881924bb8f574433cd80dfdfa7f0c4c858799dc3fa1eae",
+      "mag-3.png": "c17fae8bfcac1c3151d4bd005b7c1373298d0c1102d8781c7c207e73a3a2dbb2",
+      "mag-4.png": "1dc898425c4dd706a4462ccab4c133ea4ce2afb4a1b52eee6ab04f01a8a9fc97",
+      "mag-5.png": "8580bd5143e34af9dc1d9fc212c7a83c2b473dfd7726a4f410d0100bee0c6eb5",
+      "mag-6.png": "b4eb15f5da9b2d8bbca55ebd134b46456fca4184961a5864be93463b76ede5a0",
+      "mag-7.png": "f93060fa36d145eb50663b75d1c7b1fdbadce5f14dd7b247d9e66d7f1d5fce9f",
+      "meta.json": "cdf0a154e2cab4b90e091efcc48cc7080b8681d1cb3b38965c489453f3465afe"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Shuttles/launcher.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Guns/SMGs/wt550.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Guns/SMGs/wt550.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/e1a3cbe9ba2e6e29b7f1cad1bb456b390aac936d/icons/obj/guns/projectile.dmi, backpack sprite by Peptide (copy of Atreides), and sprite modification by Jaсkal 298, backpack sling sprite edited by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-unshaded.png": "38c3891f7a5be3253b5391d525689766fceb729df4d433f1a8b5728d9227f6b8",
+      "base.png": "7c7c11e1b9479247883ca7eb4248d40578ed481650211bea77375745a179d727",
+      "equipped-BACKPACK.png": "d89bd0194c8ee061d443836cf26b06621814eeddd59a250152665067e2b517e3",
+      "equipped-SUITSTORAGE.png": "d89bd0194c8ee061d443836cf26b06621814eeddd59a250152665067e2b517e3",
+      "icon.png": "cf2cc8b89e5660a546498b399ba63f6cb6fd0ff74d593dfbdfb3d55c1756a672",
+      "inhand-left.png": "ccc2c377dbec5cd4ea6440fddbc25870004bc40f49d6da4cee1f5910fa8287cf",
+      "inhand-right.png": "99d9d6bbfe78527e69240d37e29bdd42eedd48380118379c429cd7da1faa500c",
+      "mag-0.png": "85e0d9a4d8fd8bff1f06c2ccba5c43e8515cafde9ec6a4ff7749ddc8870bdb70",
+      "mag-1.png": "0e6759d6e874eafb01a01b37015c77a29c0357a97929bdab64e768e42191a720",
+      "mag-2.png": "950ac4e2b3b1809372038becba600409efc60c3e1b31e8754e910a7549dd14ce",
+      "mag-3.png": "984c7adac1354a56dd97a5fc44062f893e533d467bb27c3ce9e159abbb0ac21e",
+      "mag-4.png": "3b1a5e592bd4ebf5725e88e880693ff3bf74f04f4107402b2826fa62116be837",
+      "mag-5.png": "61945f208c2af5ea37cc09894c30af22d57721f0a9e1294ba12b5611ef438caf",
+      "mag-unshaded-0.png": "7c5c02fa43a447204b901bd2aedcfdff1eb97c9437f0dbac0dd1e5936970bda4",
+      "mag-unshaded-1.png": "6ac5306a6a5e91ec21a39ba3bfb537842e67ebee5acc4883688e9e30758f0d1e",
+      "mag-unshaded-2.png": "97c810437609b8fc445fa2c581b6ac8f9780d683be1a38eb479ca2adcfbea770",
+      "mag-unshaded-3.png": "52068405df448aa9295129f90f021d05357235c8ac7aa20e31ba8e9e4df5817f",
+      "mag-unshaded-4.png": "2f2a27fc0fa26a77a312f33126c1c1e51d85b53e4ed745fbf50078e9748dba56",
+      "mag-unshaded-5.png": "31205c1e18c97a3a782400d9fdab9c78d7d8d2f7f6302f282b8168888e7f03c1",
+      "meta.json": "08bef049837a2e428c87fd5256c061d5f7d847bf415a57d9285a0108ecf0534c"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/wt550.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Melee/captain_sabre.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Melee/captain_sabre.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/555fa0ed9f380509156d94131bd8a3f1c1fee1cf, change on forge by Cirneishaia",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "5a80c531ec26e38393c49b8b1ed7b71f957921f232db604457f6c50064313011",
+      "inhand-left.png": "55d4c6a463056950c0dc0c2113563f5afaee4a9daa9991f8903bf8ad357eefc5",
+      "inhand-right.png": "6d434e9b96779cc38749c0d2fff5a00d77cef7646aca099d09b24cf432fdc22d",
+      "meta.json": "26649591885cdabf6191ac0e647b2e53fb289f2cadceb05a20f060fc646e98c2"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/captain_sabre.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Melee/combat_knife.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Melee/combat_knife.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from desertrose at https://github.com/DesertRose2/desertrose/pull/378/commits/9e081bd2a0d7614be5a9dabbca34886ce204105d, storage & inhand sprites by RiceMar1244, change on forge by Cirneishaia",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "037f8bdf0bb762ccb066ac884b010464e259144d3ffa585d4ea2a353fe72ac0d",
+      "icon.png": "5096edc731926098c9379ca5b569482e0f311a1e3ffb9de8935e2677b0c86092",
+      "inhand-left.png": "0897c5d154a1ce9bcd3412b3e6ef5379b1fabcb5f5eda9e7149be08ecf083c23",
+      "inhand-right.png": "79f68b488ac090abd1bb9e5688a7589de1db35e785b7f339aa1ad29af7ceb50b",
+      "meta.json": "5b6b471d9727ee81d3b436e4cd232b53a17123cb476cd287caf3e459ba23cd55",
+      "storage.png": "1e090dd69636dcabc153433098701b5ef12246a3b6ecacf87b47d0e0286b08b1"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/combat_knife.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Objects/Weapons/Melee/survival_knife.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Melee/survival_knife.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from desertrose at https://github.com/DesertRose2/desertrose/pull/378/commits/9e081bd2a0d7614be5a9dabbca34886ce204105d, storage & inhand sprites by RiceMar1244, change on forge by Cirneishaia",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "0a3f8209f7b5ef788da634832b8ad1baf9522362d361035d4113a2be0dc7951f",
+      "icon.png": "32c9303ec89075477ed358401f05fdc779569056c30df011baa1f3dd78e9ff2b",
+      "inhand-left.png": "ead9c941e7b123e8a771dc3c33a2d4c312dec054f38bfc0c8374460ec3e7b910",
+      "inhand-right.png": "f3dddc15be1ae3c6e704a1e09480c62306e9931e3b30b5663dcf7ac2d43b05c0",
+      "meta.json": "5b6b471d9727ee81d3b436e4cd232b53a17123cb476cd287caf3e459ba23cd55",
+      "storage.png": "78234b430b5fb151f5e53241c8664fa44afc58e7c857e1b07951554919cb8fe4"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/survival_knife.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/carpet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/carpet.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47f6d91b37609b940152de62befa931dba35adf0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "433bbae063f11eada0768bd5856e712d1c893edcfc6010fce1c98709b213d798",
+      "meta.json": "bf153fce7ac4d0e7e8f629f81f346ee7c5d0064c97a2d75b53cf0ae473135b8e",
+      "state_0.png": "003ef7689cfe66ee9e679ac8617be043fae73ed4050cf456589b38ed59a550bd",
+      "state_1.png": "e55921d252b6e9b42ae49e50ea91ac661dd8241b10e97df7da3637ff68a4aaac",
+      "state_2.png": "003ef7689cfe66ee9e679ac8617be043fae73ed4050cf456589b38ed59a550bd",
+      "state_3.png": "e55921d252b6e9b42ae49e50ea91ac661dd8241b10e97df7da3637ff68a4aaac",
+      "state_4.png": "5604777a3c6cace18860515b3998279e26d5184de0f676778238b2893a9af6a5",
+      "state_5.png": "a2a72d463b6edd8eaf915e2504c0cbb0c8e9a1bae6bf2c6754f6dc19e9c3067a",
+      "state_6.png": "5604777a3c6cace18860515b3998279e26d5184de0f676778238b2893a9af6a5",
+      "state_7.png": "83af93b444240a3f4020b53defb97cb1eb7918512bda7f43d744ee2743ac2a53"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/carpet.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/countermetal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/countermetal.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/discordia-space/CEV-Eris/blob/0b3ab17dbad632ddf738b63900ef8df1926bba47/icons/obj/tables.dmi and modified by Peptide90, Resprited by Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "333c0445fbab886fbc4fac1d26d63d3c1bd11112787266b80bfacfa0975ef262",
+      "meta.json": "11c44ea225f65d371b033259228687c1034968c6996dbe35ffd5f0953e0d8cea",
+      "state_0.png": "c3698301033477c9eef8641e0a4d600235af5948b3bb758cc44ab445389dc6d5",
+      "state_1.png": "268e8b28d30ebbde565f05382e735464c0790d020629882fa4a28b4f20e06383",
+      "state_2.png": "c3698301033477c9eef8641e0a4d600235af5948b3bb758cc44ab445389dc6d5",
+      "state_3.png": "268e8b28d30ebbde565f05382e735464c0790d020629882fa4a28b4f20e06383",
+      "state_4.png": "0d43e113584f1c96c9c7f6540ecd8770a87c309b17ff49a433fd6f995c7ce30c",
+      "state_5.png": "d09b19ec9df35a8926c4401e33232a6a9bd89817d59538c9e02b1d074e29a69d",
+      "state_6.png": "0d43e113584f1c96c9c7f6540ecd8770a87c309b17ff49a433fd6f995c7ce30c",
+      "state_7.png": "5d9762f1afa7c5e64ebdd105c828175fec6b0a7d62bc178033c73340ae115e98"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/countermetal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/counterwood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/counterwood.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite by Peptide based on wooden table, Resprited by Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "b7e4c2a4ff223f8246a6971943d9efea9a7ac39407877558f1de6f6feefa0ea0",
+      "meta.json": "f5463ff89a41abbc3f9168c5c444b4167853dc6f51034d11ba7bee28895fbbff",
+      "state_0.png": "d2ec79750ca7b4fb74c7f79c6b429dd02fd5b991b85c3bf54e1ce53bad2204e5",
+      "state_1.png": "368544a2a7ed7c71322986c237aa9d58708e98844a6a57dca94846a594e35d1b",
+      "state_2.png": "d2ec79750ca7b4fb74c7f79c6b429dd02fd5b991b85c3bf54e1ce53bad2204e5",
+      "state_3.png": "368544a2a7ed7c71322986c237aa9d58708e98844a6a57dca94846a594e35d1b",
+      "state_4.png": "871c868354bc9767a4b602cb77c2c327de7a5e83627620bd127a29dfc2d9b764",
+      "state_5.png": "5c00bb2102f7e56c299795b82bf3ed2db76a2e4452361c917fdf203e50b790a1",
+      "state_6.png": "871c868354bc9767a4b602cb77c2c327de7a5e83627620bd127a29dfc2d9b764",
+      "state_7.png": "17433d912863bfe08b3200a1d010c73d26a267bc50306644c4d05a1e0f88224e"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/counterwood.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/frame.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/frame.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/discordia-space/CEV-Eris/blob/0b3ab17dbad632ddf738b63900ef8df1926bba47/icons/obj/tables.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "6aa340f8eea7ec6cf9f5468868b66c92e3da5d70890ed781f3fffec535d18452",
+      "meta.json": "5ce65ef4f0fd862efa64f2347d87c1d1f11f39007ecf40821985202d11647bd4",
+      "state_0.png": "ef794a3adc215f9cfa81e683dc89e7884f953db192c4a70e71974a688b584d72",
+      "state_1.png": "2949c20f5c2be63699d11a65e092f843f41097a98d6185ed4530268ced2979db",
+      "state_2.png": "ef794a3adc215f9cfa81e683dc89e7884f953db192c4a70e71974a688b584d72",
+      "state_3.png": "2949c20f5c2be63699d11a65e092f843f41097a98d6185ed4530268ced2979db",
+      "state_4.png": "64f71e0b6df5f7763e825a9a2fb1afb2eeed652352280d2ee0f9e7562369db81",
+      "state_5.png": "233bc0a512a79689e60c3ad220e914ee6979ec2f55b8fbee5856713e4084aaa0",
+      "state_6.png": "64f71e0b6df5f7763e825a9a2fb1afb2eeed652352280d2ee0f9e7562369db81",
+      "state_7.png": "d825152c8f77cb322c782d51806a2188c82e78d7df73dc3bb1c881d2982875a2"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/frame.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/generic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/generic.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47f6d91b37609b940152de62befa931dba35adf0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "86283bb253242177be525e36f89b54be60a567c5f946b78c91ec2cbe2c3958dc",
+      "meta.json": "bf153fce7ac4d0e7e8f629f81f346ee7c5d0064c97a2d75b53cf0ae473135b8e",
+      "state_0.png": "2c972da15355dfa5696c70ae7ee51761d14162afe6ae8e063debfe4894855a54",
+      "state_1.png": "69848997c3ac38ecc9742fb55dee7b0fa4899a9b1bede47f33c6022f144efcfa",
+      "state_2.png": "2c972da15355dfa5696c70ae7ee51761d14162afe6ae8e063debfe4894855a54",
+      "state_3.png": "69848997c3ac38ecc9742fb55dee7b0fa4899a9b1bede47f33c6022f144efcfa",
+      "state_4.png": "757460aa5bb02818a6dd111387e4762339230046ca54801c94267e92325229ab",
+      "state_5.png": "00e263520a690bce52e9f7e361aaccb68e9d01b64608273beba7afe54d4fe135",
+      "state_6.png": "757460aa5bb02818a6dd111387e4762339230046ca54801c94267e92325229ab",
+      "state_7.png": "debff6b27bcec45e8aac597c460b093f0b66a5a11b94b371299d60e86c8e72ce"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/generic.rsi",
+      "_Lime/Imported/Monolith/Structures/Furniture/Tables/generic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/optable.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/optable.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TauCetiStation at https://github.com/TauCetiStation/TauCetiClassic/commit/2456d1ba6ff2a506d0a5073c882ed89b7b67695b",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "3628fa3b6a3059119280073ccd80e3b3c84ea228b7af26c4a16c1cc37db20597",
+      "operating_table.png": "b411a3b1bab60b8f4790eabd0878d42fba42c7eebe9577aafe8418407c17e86f"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/optable.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/plasma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/plasma.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47f6d91b37609b940152de62befa931dba35adf0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "09256cf190f9ae6efc8f2e2d8539ef8bc93f7e770cf71b1802091d9c0b33e734",
+      "meta.json": "bf153fce7ac4d0e7e8f629f81f346ee7c5d0064c97a2d75b53cf0ae473135b8e",
+      "state_0.png": "ac81b0b1c6f873999316862745d4b41fdbffc81ba103ebd855edd3567461183a",
+      "state_1.png": "eee16a30e2efaa968f90f28ea63bc55c012c096f8a627eff2d13cd555b40f981",
+      "state_2.png": "ac81b0b1c6f873999316862745d4b41fdbffc81ba103ebd855edd3567461183a",
+      "state_3.png": "eee16a30e2efaa968f90f28ea63bc55c012c096f8a627eff2d13cd555b40f981",
+      "state_4.png": "705821123cd8bbadea1da38311d674357ad886ba53eb221765775d616e024a36",
+      "state_5.png": "7f8aad9ce73c1315b30460eeca9595a280396ee38515e94269b8dcbba9856875",
+      "state_6.png": "705821123cd8bbadea1da38311d674357ad886ba53eb221765775d616e024a36",
+      "state_7.png": "865aa3a8584d4b31ce15dd28fac88ac0932036376cac072ec4a5a909fb0f55d5"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/plasma.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/r_glass.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/r_glass.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47f6d91b37609b940152de62befa931dba35adf0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "d498f36f75c9ae23ab63b1918b45c63f62756303ab06609a82a198a6643d8985",
+      "meta.json": "bf153fce7ac4d0e7e8f629f81f346ee7c5d0064c97a2d75b53cf0ae473135b8e",
+      "state_0.png": "3fa843325a319f224ef2286edd270ab57107e801df24ba9b187a8c1606124a99",
+      "state_1.png": "3ac59a0ac18403a9404a6917546878beb165f6a81d2749e709c00a8d8867bff2",
+      "state_2.png": "3fa843325a319f224ef2286edd270ab57107e801df24ba9b187a8c1606124a99",
+      "state_3.png": "3ac59a0ac18403a9404a6917546878beb165f6a81d2749e709c00a8d8867bff2",
+      "state_4.png": "a17e73493a8e3cce440c964dc33ca2cb18917b2eb175de11c10bd7536a52e34a",
+      "state_5.png": "01ca683394cb59aa011d461d6b338e30889cf7e390099e4d8d19f4f456dfe6aa",
+      "state_6.png": "a17e73493a8e3cce440c964dc33ca2cb18917b2eb175de11c10bd7536a52e34a",
+      "state_7.png": "e49732fe32ccae6f55ff2acf469bb9e479582e1369647aea49d7d2ab3fc336de"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/r_glass.rsi",
+      "_Lime/Imported/Monolith/Structures/Furniture/Tables/r_glass.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Furniture/Tables/reinforced.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/reinforced.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47f6d91b37609b940152de62befa931dba35adf0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "f9f01e0660569d2b987e5423bb51da391283912b088d31adfab3f6a473bb1428",
+      "meta.json": "bf153fce7ac4d0e7e8f629f81f346ee7c5d0064c97a2d75b53cf0ae473135b8e",
+      "state_0.png": "dcc8d1fcbb4d82992e6222c26029fb4cd218353f6fa865a6ff8653c9f47a12ef",
+      "state_1.png": "bad3fe7f750fa7fba3071b5b9c61136174fb12a5c2381bcc16343ca570cf1954",
+      "state_2.png": "dcc8d1fcbb4d82992e6222c26029fb4cd218353f6fa865a6ff8653c9f47a12ef",
+      "state_3.png": "bad3fe7f750fa7fba3071b5b9c61136174fb12a5c2381bcc16343ca570cf1954",
+      "state_4.png": "1210c39f2ca377f645973cd232367f39f7670f6f0306ac9160d70490c284642a",
+      "state_5.png": "f2332ff1a4d5a96c60c2aaef3de8ae763c03966d3cb2f2edc01a220c6b0fa433",
+      "state_6.png": "1210c39f2ca377f645973cd232367f39f7670f6f0306ac9160d70490c284642a",
+      "state_7.png": "debff6b27bcec45e8aac597c460b093f0b66a5a11b94b371299d60e86c8e72ce"
+    },
+    "replaces": [
+      "Structures/Furniture/Tables/reinforced.rsi",
+      "_Lime/Imported/Monolith/Structures/Furniture/Tables/reinforced.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TauCetiClassic at https://github.com/TauCetiStation/TauCetiClassic/commit/4cd82f305daa552760268644ee774ee31c5ffe5b, lights modified by github:Morb0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "draining.png": "60d9390ea4b084a3b27d743c5be29c604d646d824a0d9cbfa48c850c89874e69",
+      "icon-running.png": "1ffdafa439ea064511eba9f9fced11a8fb4fe0c7f6537bdcef33e2a5de3f85e0",
+      "icon.png": "3a894fff999f2fec568d991f5620c568f31f9fba5ea31375727c4b1c2ed98cc6",
+      "meta.json": "3b98192b59961f939382fefbda1832ab38ecfab591430507b72d3f126edb665c",
+      "unlit-full.png": "dbf7461b991134cdcd8ebdfd27274a39670c9e0c7e7dad90fa6aaca62417a484",
+      "unlit.png": "de8dfb0788c510412e47f302340618e6c85642ae1c37e8b906338462d9e4db69"
+    },
+    "replaces": [
+      "Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Forge/Structures/Walls/plastitanium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Walls/plastitanium.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by KREKS, small modify by v6st for Forge",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "08fefbce283e9338ec09086f9232ea5834a477dbb0a72c8c9c7bb227c0c6b131",
+      "meta.json": "337705d264dc414a4935e484f10789b8a9f6c34cffd19fc24a46f5f6c6ddaa71",
+      "plastitanium0.png": "a1c070f0e269ae2fdfcae6f3a99c01d90b20f2f0a325740b2bfb096bb70f1c1d",
+      "plastitanium1.png": "a0267bbea2a4fb581a5d2270f650b11ac91785e79f22c674a10e8935d3148946",
+      "plastitanium2.png": "a1c070f0e269ae2fdfcae6f3a99c01d90b20f2f0a325740b2bfb096bb70f1c1d",
+      "plastitanium3.png": "a0267bbea2a4fb581a5d2270f650b11ac91785e79f22c674a10e8935d3148946",
+      "plastitanium4.png": "860992149d98bda69c2abf440caa5c48309d9653ca628e0e1713e1a32817df60",
+      "plastitanium5.png": "0e31e9a9e3696974b76fcd201eb13566c417225d8d4ca909bf094f311e15c067",
+      "plastitanium6.png": "860992149d98bda69c2abf440caa5c48309d9653ca628e0e1713e1a32817df60",
+      "plastitanium7.png": "362b5b8b3cb3438bf5620821ad2610e74f0f4cb94e100e48696a765fb1a9ecab"
+    },
+    "replaces": [
+      "Structures/Walls/plastitanium.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/plastitanium.rsi",
+      "_Lime/Imported/Monolith/Structures/Walls/plastitanium.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Mono/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/27386/commits/4814da0f8e0d88f430c8b335e541e0a7734755a2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "4bf7b8c44ccf84af4f1940102ac83bb84d952148a09fcc77d0305cd87cf07530",
+      "icon.png": "1f253cbc4db6745d60a61f1a5eafcaaf4b2ae8f7cb8dbbac1d6be7891bedd7b2",
+      "inhand-left.png": "667b6d280e9ae9bef1823cc53f6ff6f73a0ae1dc9b56a728f5037aadd6703cf8",
+      "inhand-right.png": "99cba2583f2222a1e42c5bb82e424769c07d2edaad51137697e00d0e8234848d",
+      "mag-unshaded-1.png": "95fdb5b290012f60b7c5698a65bbbe51191d01a925616a0f0f6565b1ed00920a",
+      "mag-unshaded-2.png": "30c0adcf9a386b8c19cfc64004c04eb8a4acb8b303a2b5bab724e6eb05f92c80",
+      "mag-unshaded-3.png": "8be397cad9da68fb06d352ae9b2485232b68e95da22c2089e5bcddaf68ccd55f",
+      "mag-unshaded-4.png": "535803c9e826449f7091e8f01d0c5793b3791f023f5e4f146fdc4c50ab393b82",
+      "meta.json": "02ef55a37fe5acd95a675607f133d646ccd5274c613ebedc7a3cf591170abcdf"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/external.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "04ed632911ce16001485b2748e724d113a7547ecbbd600e770a26c71d090a1b2",
+      "bolted_unlit.png": "f416371ccff6237f0b6e917da67d16713fa0ddcfa3a5315258252051b22d85b4",
+      "closed.png": "f8e3036734a3787a814a4ec769b56e87fec580b11beba1d436e74efd09602b1e",
+      "closed_unlit.png": "b1ce2b4beb8ab247303f791f713af404f8316ee2e63d3bcfce8091d84242967b",
+      "closing.png": "962b24a85edd4c35f8153d2f845f51bf0d24d6483bb2a32d1164f03093b14f2a",
+      "closing_unlit.png": "b5c057bcfb5a4b94c6cca2410ad6beab756b3ff03cdd876daa64e831d15bbc7b",
+      "deny_unlit.png": "dd0270b489d56bba3f8956696d8ec08db5f970c1017262f4f32ece675f9ba91e",
+      "emergency_unlit.png": "859f2836d044737fc5967b1917f5486ac84c8a00bae0b87bad6c863cb8734240",
+      "meta.json": "9172ba9110707e29dd0cbfcdc5f6fdb652ce4310b14e4c4ba32073fbe2d35312",
+      "open.png": "ccc6f1b17ff366311a9521ba77d091bfea7dc7c57288b34a4553be2b53cb3946",
+      "opening.png": "30b9a4ee6864a704ccee50b6180a20ab5e282f978ac678fc7d0ea16c826cce56",
+      "opening_unlit.png": "84638c2c538ef02303e07fffb0d2d5fd904a280948b48ac5872afcfa66eea084",
+      "panel_closing.png": "697bddd46679bef73ead87be514e8eea213677e7917d08aa39bc66062561a48c",
+      "panel_open.png": "6ebe293fddf1a6b27479b092f8c4c1fba9a5a00807289abec6cbc44cc9677f43",
+      "panel_opening.png": "8244805b5ffdfc1af083a976d253ed4d2ccf245314f9b92ea54b60d25ca24351",
+      "sparks.png": "6ad0142c29904aa83142dc069466e381803d8d3ae25ff5e5ae32b73e8af6b3d3",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "b2a5e0adbd7549e2d82234964a01c6ddb00d621cf7a85ced25586126f8165ae5"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/external.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/external.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "04ed632911ce16001485b2748e724d113a7547ecbbd600e770a26c71d090a1b2",
+      "bolted_unlit.png": "f416371ccff6237f0b6e917da67d16713fa0ddcfa3a5315258252051b22d85b4",
+      "closed.png": "6b543fd5715d19e430a3dce5cfeb9c594cccd21b156b53da45a2972ed925b3d1",
+      "closed_unlit.png": "b1ce2b4beb8ab247303f791f713af404f8316ee2e63d3bcfce8091d84242967b",
+      "closing.png": "c592750032d548d97fc039be307084f57f03c71bbdc080a6ec7144ba4797805c",
+      "closing_unlit.png": "b5c057bcfb5a4b94c6cca2410ad6beab756b3ff03cdd876daa64e831d15bbc7b",
+      "deny_unlit.png": "dd0270b489d56bba3f8956696d8ec08db5f970c1017262f4f32ece675f9ba91e",
+      "emergency_unlit.png": "859f2836d044737fc5967b1917f5486ac84c8a00bae0b87bad6c863cb8734240",
+      "meta.json": "9172ba9110707e29dd0cbfcdc5f6fdb652ce4310b14e4c4ba32073fbe2d35312",
+      "open.png": "ccc6f1b17ff366311a9521ba77d091bfea7dc7c57288b34a4553be2b53cb3946",
+      "opening.png": "d3a99db0cd85bd4e73defa41feb4a13c097a1399a93873e79c6ab34f20c1e525",
+      "opening_unlit.png": "84638c2c538ef02303e07fffb0d2d5fd904a280948b48ac5872afcfa66eea084",
+      "panel_closing.png": "697bddd46679bef73ead87be514e8eea213677e7917d08aa39bc66062561a48c",
+      "panel_open.png": "6ebe293fddf1a6b27479b092f8c4c1fba9a5a00807289abec6cbc44cc9677f43",
+      "panel_opening.png": "8244805b5ffdfc1af083a976d253ed4d2ccf245314f9b92ea54b60d25ca24351",
+      "sparks.png": "6ad0142c29904aa83142dc069466e381803d8d3ae25ff5e5ae32b73e8af6b3d3",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "b2a5e0adbd7549e2d82234964a01c6ddb00d621cf7a85ced25586126f8165ae5"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/external.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/security.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/ and modified by TJohnson.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "3245ca650c0f0bb1f348c1e9a63382ff9b9b2001195c70d3aec5b3d63dff6c2b",
+      "bolted_unlit.png": "f150740e1956b106d005b43a86286b1240f4b92d536a62d18ab4ff7c646ed03a",
+      "closed.png": "eff8a61c8d5b8637808f7a656b3b840eac6d59dd4e62899b5fc54fc20c1e2108",
+      "closed_unlit.png": "c4ad6f94dfbb5c0436eec8a0f8224889af9105454cb089bbc1136c420a906442",
+      "closing.png": "730c61c97454eca8410ed875d68ddb42a77ff342a49885ed1941caa79a52d44c",
+      "closing_unlit.png": "962e4152a16da9c4dc346ee93d0bd08ac776f52de8d0471ecdc6e8ba90513718",
+      "deny_unlit.png": "0e889130f151db64205bafdd9172b535a491f0aa8c59d7fdbfd0464eb0f83cea",
+      "emergency_unlit.png": "4903bf444d1ff1419a5ee785441c11fd5282aec4b2812fc1c1c04a95197446df",
+      "meta.json": "be0526edc6750741bf8c3eb1e5f4151d4bcd1cb49d945558b966d586323cc4af",
+      "open.png": "9e95eae0bc787920c62a3907e8ad4f3ae93e7c8f20ea98c9fc89ff719f027168",
+      "opening.png": "e22ca0f21c01d26f87fd38105f24400385ceffca206efd79c97a29fa265156ad",
+      "opening_unlit.png": "2c0f01d127d379fbd4af6001e162faede3d8a1db7dec13e86203041b1816809d",
+      "panel_closing.png": "160dcd78ee93d821f2f25eb3cfada96afb3034c6786741cf9ace51d2a55fb6a5",
+      "panel_open.png": "8e284537a502c851e070eda462626e7d0fa279a0fa923e270cdfd80eaa227dfc",
+      "panel_opening.png": "7293c1dccb234431135654e67196dac76557239ff71e4ab8ce90fe60c410229e",
+      "sparks.png": "6ad0142c29904aa83142dc069466e381803d8d3ae25ff5e5ae32b73e8af6b3d3",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "a17dd7f92a9cfe0379b518b92ba52527c389c7e088440e139b9f2a9631c2634c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/intercom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/intercom.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/6bfe3b2e4fcbcdac9159dc4f0327a82ddf05ba7bi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "18ff0521bf09ab37e3a4018d962729e03b626db8d54c24ceff94a6454e136827",
+      "broadcasting.png": "04ff351da4c9717f316126dd943beddeb0d9589c3f2bae14ab571fdf1619aaf6",
+      "build.png": "8c1040f76dedf27d52c4d35982deb9ea6c04ab403239c3711a6235e60562599b",
+      "meta.json": "7fa75fb85a7cd353ede42e6bdd6abbd7a50a6aea277b8942fb1920ef56f2acac",
+      "panel.png": "830837e55c7fba32eed44c1f78524944093473d0f36f23133c55eea7c8cb088d",
+      "speaker.png": "6e621dd1d0fbc22359c17cb0eb41d774c6106d236386e317d798c151957a03b9",
+      "unshaded.png": "338fd4264e484e0ba56f14c3302458a9f586ee29c52309aac61d80e0316f2f2d"
+    },
+    "replaces": [
+      "Structures/Wallmounts/intercom.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/Lighting/emergency_light.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/emergency_light.rsi",
+    "category": "lights",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "juliang, modified by mirrorcult",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "669cf4a1a5cf8fe1faa0816478a2141810ed76a20f1e62a92a2b6175290e9170",
+      "emergency_light_off.png": "4d63a51ee31b87b8529d4c20bf3f687ad3955475a8d221e6880594943fa2efd5",
+      "emergency_light_on.png": "b6f74e122796fce5404ee3dd3d69355bf34779dc7aa9efcce60e69e6a5ea2527",
+      "meta.json": "72273ad901c6378f35741121e5c5e04849e456adfdbdb77338496f8e69bfc650"
+    },
+    "replaces": [
+      "Structures/Wallmounts/Lighting/emergency-light.rsi",
+      "_Lime/Imported/Monolith/Structures/Wallmounts/Lighting/emergency_light.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/Lighting/light_tube.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi",
+    "category": "lights",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from commit https://github.com/discordia-space/CEV-Eris/blob/2b969adc2dfd3e9621bf3597c5cbffeb3ac8c9f0/icons/obj/lighting.dmi and edited by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "991a9bc54c55e7d00872645d1101bbae6b917f2194b7915681132c22e19d585d",
+      "broken.png": "5e86599a869eca390dc3f406616297d6a580f35a044fdd44436df767bcdce930",
+      "burned.png": "27a15f28d1ebf5d7ddf99ae625dfc60aec1bb1735f400b6de9fca357da896333",
+      "empty.png": "82dd9bdff1575f4f83684f6dc2fddde78428ca660d253cf8cdf80876eeb7209e",
+      "glow.png": "3b3b2c697143b6eebe665c213cd3efd2be418dc9e4373b21d18815d837dc0ae6",
+      "meta.json": "e4e229b77fd45487170f23718cce864dba1da6ed6e820dae8116fbc37c656e3a"
+    },
+    "replaces": [
+      "Structures/Wallmounts/Lighting/light-tube.rsi",
+      "_Lime/Imported/Monolith/Structures/Wallmounts/Lighting/light_tube.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/Lighting/strobe_light.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/strobe_light.rsi",
+    "category": "lights",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "c29bae4c6e8fe384b1b9f258863542bc03215ce184f4b4699c7807dae02057ae",
+      "broken.png": "c463740b82d84f95ad4fb91c6673fdd8b7f67445d1a11f4cb6311cb6cebeab39",
+      "empty.png": "67d3ef679ee9ebc428141fe4322bdc91844c2aa5d76c18adb218357ea5baf2a0",
+      "glow.png": "9a17266f90199e46753bb24b5f34d625dfa918f343952b5bb9f09b2d40020ecd",
+      "meta.json": "362a8d25413155128cc499889b3ea99f474d14514471399c3e3640bab7d31ba5"
+    },
+    "replaces": [
+      "Structures/Wallmounts/Lighting/strobe_light.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/signalscreen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/signalscreen.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by brainfood1183 (Github) for Space Station 14 and modified by Flareguy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "e69b4e995b0af2e21be323826f158a181c27cbcaf4d552e187648eeaebf407a8",
+      "signalscreen.png": "c9b20a231bc2541e2331852fc9f3ecfd8c1f7587a4db5684d6e4832631f5da0b"
+    },
+    "replaces": [
+      "Structures/Wallmounts/signalscreen.rsi",
+      "_Lime/Imported/Monolith/Structures/Wallmounts/signalscreen.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/brick.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/brick.rsi",
+    "category": "walls",
+    "license": "CC0-1.0",
+    "copyright": "By ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "brick0.png": "ede60cdfe9a9c2f1fbf5c67e20be4e6209862b3c31a9adb53dad28b5da302631",
+      "brick1.png": "c7355635ce433d104397ae88f79de7f858387977a382bc72c1bfa0c33f000419",
+      "brick2.png": "1f58d7381df683d197444e56dd72ff94a87e8f866f49887f157d91f3cbc76d6e",
+      "brick3.png": "f2978295babc81ac1a28ca3f654cf231aa9cd498a163ed423eff1af8de29c6ad",
+      "brick4.png": "58a631bf4e71f78bac8de47747ba1c08193f5365250ce8a1145c009a16a4652d",
+      "brick5.png": "88ba87105106cf5b7504eaab788e351964826acc0444367aada66e2c1d5229d7",
+      "brick6.png": "8891de8c3989956da518e96413efb44736bbf908547bccbc8ca73db460c92fca",
+      "brick7.png": "d33d462d8af74a74e89b3283f954af3cc75c86e75024176b06ab9a7782f509d3",
+      "full.png": "b2dc3a0f7ed56037b0322c7a7037364b43cb7850859db646c4585e485aaae810",
+      "meta.json": "4db0d616ad8f87d9c1a6d7ca7d83b035403a00a73d7def91124618381872ff41"
+    },
+    "replaces": [
+      "Structures/Walls/brick.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/brick.rsi",
+      "_Lime/Imported/Monolith/Structures/Walls/brick.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/gold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/gold.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "18272614e3dc23559c2c1bbafd9608038801d52df4d4cec606cb551049ebf44e",
+      "gold0.png": "e716686e45253fd361fa4c5e3a6b79a16b2fa4fd944ddaed4c606e83632fd77a",
+      "gold1.png": "16c87ec4bfed73cfdf1c7ca74a59b900b4e7538950fe3737f9660412c566ded4",
+      "gold2.png": "e716686e45253fd361fa4c5e3a6b79a16b2fa4fd944ddaed4c606e83632fd77a",
+      "gold3.png": "16c87ec4bfed73cfdf1c7ca74a59b900b4e7538950fe3737f9660412c566ded4",
+      "gold4.png": "713c588f9b9ba61e56cfc4421f77c36c84455bedea887249c4d71c58f336741d",
+      "gold5.png": "b1982ae6379c397c79677cda3248700ff9609a3bdda1f6e5fc094b337422db4f",
+      "gold6.png": "713c588f9b9ba61e56cfc4421f77c36c84455bedea887249c4d71c58f336741d",
+      "gold7.png": "b1982ae6379c397c79677cda3248700ff9609a3bdda1f6e5fc094b337422db4f",
+      "meta.json": "8ff749f7df0e27f4ab478f3d4721ab218ff8c1f12ce2fb904e8dbd34171ac556"
+    },
+    "replaces": [
+      "Structures/Walls/gold.rsi",
+      "_Lime/Imported/Monolith/Structures/Walls/gold.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/mining.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/f743754ec3ef446c8172388431effa73aeddb7ff#diff-b429dd7fccbca60d740d4887c1077a178abf1efffe57e7ae2a0b607c8a9e2202. Modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "0eb1403732747c9f7dda2b5496be61eec351f09b74572117dea6e1c613f4bcfc",
+      "meta.json": "3d602f07c3aaf6eb87633b8f1349eb6e5c9d3632d3bd5dfa45e56ea7b8c60049",
+      "mining0.png": "e00529eb0e3ef05018d889166bae851a5c1a48d712b944f95cd6a89918315198",
+      "mining1.png": "e259e11ac1d16641c70860b575b857612409d765d67d67b817a7ac0c207b9ec0",
+      "mining2.png": "e00529eb0e3ef05018d889166bae851a5c1a48d712b944f95cd6a89918315198",
+      "mining3.png": "e259e11ac1d16641c70860b575b857612409d765d67d67b817a7ac0c207b9ec0",
+      "mining4.png": "781e41d128d0c33ad83874fd11debc6f1ecbaad6c567d09ca8afe28eb0b5dadf",
+      "mining5.png": "e495bc2cb2dd5f39ffcdc9cbc971de6c55a9609c681587d4c5beb104b8ccc89b",
+      "mining6.png": "781e41d128d0c33ad83874fd11debc6f1ecbaad6c567d09ca8afe28eb0b5dadf",
+      "mining7.png": "dfd581140b68fc3f9fe87676802f78b1b3d0d2b2d898ad3229819ef66380a1c4",
+      "miningB0.png": "6b3864afbfbc6dbae3c9fdf87fe95f9728be734b4090a93cfe30bcd1121ec638",
+      "miningB1.png": "c6ae9d586bef87bc720588869c17af0b0fd36fd15514ca8b3e7be68a4f071fd5",
+      "miningB2.png": "6b3864afbfbc6dbae3c9fdf87fe95f9728be734b4090a93cfe30bcd1121ec638",
+      "miningB3.png": "c6ae9d586bef87bc720588869c17af0b0fd36fd15514ca8b3e7be68a4f071fd5",
+      "miningB4.png": "c951a9c4010847a5775c366be6abb1e257fd005093a49de8abf7bd41235e72d8",
+      "miningB5.png": "464b07f1dc3340919b53b40244065aacdf9cc1194f68381316f8607804b6721c",
+      "miningB6.png": "c951a9c4010847a5775c366be6abb1e257fd005093a49de8abf7bd41235e72d8",
+      "miningB7.png": "5dcea5e179131adc5fd952c25feebe7f682f9193acd1b34e084fe34c71ff0763"
+    },
+    "replaces": [
+      "Structures/Walls/mining.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/mining.rsi",
+      "_Lime/Imported/Monolith/Structures/Walls/mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/plasma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/plasma.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "e641f5628c43469d36fe772812156eb4a2de82e3bd99fcd2df104b4dbaeb9470",
+      "meta.json": "8f2e695d4f1459069d704c585d499ccc148451afcd1a8f64d17ad6a566080bc6",
+      "plasma0.png": "d130d914d59ba0714493693a6269713d5c315a3b694dea55a8bbe4641bdb4f08",
+      "plasma1.png": "63daa53836949fb22149bd1a8c559067eb04f62b75b33836355e311ead04401d",
+      "plasma2.png": "d130d914d59ba0714493693a6269713d5c315a3b694dea55a8bbe4641bdb4f08",
+      "plasma3.png": "63daa53836949fb22149bd1a8c559067eb04f62b75b33836355e311ead04401d",
+      "plasma4.png": "516eff1685747e099cb41a434c49ce33fb84856da15a17f42025b49f962aa745",
+      "plasma5.png": "7a1716e506bc8e6ef3bd1c3caa82b078b6bc34fddf5a6166da25cdae8c05ebe7",
+      "plasma6.png": "516eff1685747e099cb41a434c49ce33fb84856da15a17f42025b49f962aa745",
+      "plasma7.png": "7a1716e506bc8e6ef3bd1c3caa82b078b6bc34fddf5a6166da25cdae8c05ebe7"
+    },
+    "replaces": [
+      "Structures/Walls/plasma.rsi",
+      "_Lime/Imported/Monolith/Structures/Walls/plasma.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/shuttle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/shuttle.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/9ddb8cf084e292571d4e9c79745db25befbd82fe/icons/turf/walls/shuttle_wall.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "f004b405ca080d61dd8d0823c9e7a7173ba0b0364b421dae2996cb5aed4a7593",
+      "meta.json": "5a2c84f65bb2318e2163d018480d50b1c7708802e8a8ac8d1652e879e55bd37b",
+      "shuttle_construct-0.png": "bb6bc7c2cc2f707659dcd85dab5028d873009927837cee6312638db0c2eac306",
+      "shuttle_construct-1.png": "c224f1d878d89d586c7fc6206ce3e35517f635029a999b2f3018b4e1770ee6ee",
+      "shuttle_construct-2.png": "38e87175c5621ed355ecc27778775f6e1ad6506cb68f45d2bdc873ed4fbbd13f",
+      "shuttle_construct-3.png": "050b99eef2bc6eb4175d571817720924936313f47b6c549eb03ac38dc1259fdb",
+      "shuttle_construct-4.png": "f5a9812d2ac7e68dca9c468c6202df3989a82514b3799af496299ec6f66cda72",
+      "shuttle_construct-5.png": "e109351425167a811735b4cc5e9ab31be8aa9d69f8a78e71ad34ab8df88e6abf",
+      "state0.png": "9b93586d2d5aa3f0b4d0e5acc9f6beeb0fe3d807b6d883e4c5c940ebcb6be6e2",
+      "state1.png": "490ce2fae6d1ef054a839670aaf42d86ad0e96b514342f291feca0feb943b048",
+      "state2.png": "9b93586d2d5aa3f0b4d0e5acc9f6beeb0fe3d807b6d883e4c5c940ebcb6be6e2",
+      "state3.png": "573309828eae16ff607960f035d35abac94fb6edbf3fab2d8ba7ca704a81e6e5",
+      "state4.png": "e894feb352ced98fa80c4e09f37bd9e2dc8815802bd2ada8eaded8cffced25b3",
+      "state5.png": "375ec11adbf23718a2667c63c9e4da5689b90040cb3283dcd2d20afbe198c95b",
+      "state6.png": "68f971765bfaa300785446ce49dab3a78578a5a185196944d0f9f509288cf07c",
+      "state7.png": "f41abe10d1e7c4ecb8d273c63b02520fb049b770be0be7ece767764e174661cf"
+    },
+    "replaces": [
+      "Structures/Walls/shuttle.rsi",
+      "_Lime/Imported/Monolith/Structures/Walls/shuttle.rsi"
+    ]
+  }
+]

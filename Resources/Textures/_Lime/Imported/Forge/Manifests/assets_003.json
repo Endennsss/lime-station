@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/basic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/basic.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi"
+    ],
+    "sha256": {
+      "assembly.png": "b82bf95595363b1e2d97e100ad5ac0a3ddaf9590e35b1859155428f542d53045",
+      "bolted_unlit.png": "f150740e1956b106d005b43a86286b1240f4b92d536a62d18ab4ff7c646ed03a",
+      "closed.png": "c50d1507b7f3ff90d6fe5b40ddbbf1ca6d000b9c7603ec64b0a59dc99b54b51b",
+      "closed_unlit.png": "c4ad6f94dfbb5c0436eec8a0f8224889af9105454cb089bbc1136c420a906442",
+      "closing.png": "931f855d2073e10134c3f0047e5485a7969775a08170df37dc42becc30e915a4",
+      "closing_unlit.png": "962e4152a16da9c4dc346ee93d0bd08ac776f52de8d0471ecdc6e8ba90513718",
+      "deny_unlit.png": "0e889130f151db64205bafdd9172b535a491f0aa8c59d7fdbfd0464eb0f83cea",
+      "emergency_unlit.png": "4903bf444d1ff1419a5ee785441c11fd5282aec4b2812fc1c1c04a95197446df",
+      "meta.json": "9172ba9110707e29dd0cbfcdc5f6fdb652ce4310b14e4c4ba32073fbe2d35312",
+      "open.png": "88d7c275659f7967b9257d682a1bd1612c44064b112a07cae0999339f98ecdd3",
+      "opening.png": "522940d7f8088aea70c0b1ed4d653d00bf492d56e983063cd4a91f73837ab1a9",
+      "opening_unlit.png": "2c0f01d127d379fbd4af6001e162faede3d8a1db7dec13e86203041b1816809d",
+      "panel_closing.png": "160dcd78ee93d821f2f25eb3cfada96afb3034c6786741cf9ace51d2a55fb6a5",
+      "panel_open.png": "8e284537a502c851e070eda462626e7d0fa279a0fa923e270cdfd80eaa227dfc",
+      "panel_opening.png": "7293c1dccb234431135654e67196dac76557239ff71e4ab8ce90fe60c410229e",
+      "sparks.png": "6ad0142c29904aa83142dc069466e381803d8d3ae25ff5e5ae32b73e8af6b3d3",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "a17dd7f92a9cfe0379b518b92ba52527c389c7e088440e139b9f2a9631c2634c"
+    }
+  }
+]

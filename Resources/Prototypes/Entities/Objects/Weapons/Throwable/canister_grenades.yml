@@ -71,7 +71,7 @@
   description: An emergency tool used for patching hull breaches with special quick-set metal foam. Almost as good as real floors!
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/metalfoam.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/metalfoam.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: TimerTrigger
     delay: 5
   - type: SmokeOnTrigger

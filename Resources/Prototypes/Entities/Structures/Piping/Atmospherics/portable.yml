@@ -22,7 +22,7 @@
         layer:
         - MachineLayer
   - type: Sprite
-    sprite: Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi
+    sprite: _Lime/Imported/Forge/Forge/Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     noRot: true
     layers:
     - state: icon

@@ -28,7 +28,7 @@
   id: GrenadeFlashBang
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/flashbang.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/flashbang.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: FlashOnTrigger
     keysIn:
     - timer
@@ -83,7 +83,7 @@
   id: SyndieMiniBomb
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/syndgrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/syndgrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.1
   - type: TimerTrigger
@@ -158,7 +158,7 @@
   description: Grenade that simulates the power of a singularity, pulling things in a heap.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/singularitygrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/singularitygrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: TimerTrigger
     delay: 3
     beepInterval: 0.46
@@ -230,7 +230,7 @@
   id: WhiteholeGrenade
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/whiteholegrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/whiteholegrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: TimerTrigger
     delay: 3
     beepInterval: 0.69
@@ -290,7 +290,7 @@
   id: NuclearGrenade
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/nukenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/nukenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: TimerTrigger
     delay: 5
   - type: ExplodeOnTrigger
@@ -313,7 +313,7 @@
   description: A grenade casing. Requires a trigger and a payload.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/modular.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/modular.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     layers:
     - state: empty
       map: [ "enum.ConstructionVisuals.Layer" ]
@@ -357,7 +357,7 @@
   id: EmpGrenade
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/empgrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/empgrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: EmpOnTrigger
     keysIn:
     - trigger
@@ -407,7 +407,7 @@
   id: GrenadeDummy
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/grenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/grenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: DeleteOnTrigger
     keysIn:
     - timer
@@ -434,7 +434,7 @@
   id: SyndieTrickyBomb
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Grenades/syndgrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/syndgrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: TimerTrigger
     delay: 5
   - type: EmitSoundOnTrigger

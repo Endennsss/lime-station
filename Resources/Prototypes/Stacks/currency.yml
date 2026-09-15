@@ -1,7 +1,7 @@
 - type: stack
   id: Telecrystal
   name: stack-telecrystal
-  icon: { sprite: /Textures/Objects/Specific/Syndicate/telecrystal.rsi, state: telecrystal }
+  icon: { sprite: /Textures/_Lime/Imported/Forge/Forge/Objects/Specific/Syndicate/telecrystal.rsi, state: telecrystal } # Lime-Edit - текстуры Forge с сохранением лицензии
   spawn: Telecrystal1
 
 - type: stack

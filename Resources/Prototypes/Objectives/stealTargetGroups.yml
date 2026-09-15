@@ -295,7 +295,7 @@
   id: CaptainSword
   name: steal-target-groups-captain-sword
   sprite:
-    sprite: Objects/Weapons/Melee/captain_sabre.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Melee/captain_sabre.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: icon
 
 #Thief structures

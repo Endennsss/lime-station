@@ -1,0 +1,4 @@
+# Lime-Edit - сохраняем исходные байты сторонней графики
+* -text
+**/*.rsi/meta.json -whitespace
+LICENSES/*.txt -whitespace

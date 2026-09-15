@@ -1,5 +1,11 @@
 # Текстуры Monolith для Lime Station
 
+После подключения Forge и уборки в checkout оставлены 630 используемых наборов.
+2 423 неподключённых набора удалены из рабочей копии и восстановимы из истории Git.
+Авторство, лицензии и исторические реестры сохранены; `import_manifest.json.cleanup`
+перечисляет удалённые ресурсы. Числа ниже и `connection_report.json` — снимки прежних
+операций, а не актуальный каталог оставшихся файлов. Неиспользуемой библиотеки больше нет.
+
 Источник: [Monolith-Station/Monolith](https://github.com/Monolith-Station/Monolith),
 коммит [ce8ff03774b9ae68530483298899f85068f0eb10](https://github.com/Monolith-Station/Monolith/tree/ce8ff03774b9ae68530483298899f85068f0eb10/Resources/Textures).
 

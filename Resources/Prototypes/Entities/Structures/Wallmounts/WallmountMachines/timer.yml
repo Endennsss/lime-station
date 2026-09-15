@@ -69,7 +69,7 @@
     rows: 1
   - type: Sprite
     drawdepth: WallMountedItems
-    sprite: _Lime/Imported/Monolith/Structures/Wallmounts/signalscreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Wallmounts/signalscreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     noRot: true
     state: signalscreen
   - type: Construction
@@ -107,7 +107,7 @@
   components:
   - type: Sprite
     drawdepth: WallMountedItems
-    sprite: _Lime/Imported/Monolith/Structures/Wallmounts/signalscreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Wallmounts/signalscreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: signalscreen
   - type: Construction
     graph: Timer

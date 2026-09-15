@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: ArmorySmg
   icon:
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/wt550.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Guns/SMGs/wt550.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateArmorySMG
   cost: 9000

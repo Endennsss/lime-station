@@ -10,7 +10,8 @@ if (output.startsWith(process.cwd() + path.sep)) throw Error('Патчи дол�
 const read = filename => fs.readFileSync(filename, 'utf8');
 const json = filename => JSON.parse(read(filename).replace(/^\uFEFF/, ''));
 const manifest = json(base + 'import_manifest.json');
-const assets = manifest.assetManifests.flatMap(name => json(base + name));
+const assets = manifest.assetManifests.flatMap(name => json(base + name))
+    .filter(asset => fs.existsSync(asset.destination + '/meta.json'));
 const goobBase = root + '_Lime/Imported/Goob/';
 const goob = json(goobBase + 'import_manifest.json').assetManifests.flatMap(name => json(goobBase + name));
 const byDestination = new Map([...goob, ...assets].map(asset => [asset.destination.slice(root.length), asset]));

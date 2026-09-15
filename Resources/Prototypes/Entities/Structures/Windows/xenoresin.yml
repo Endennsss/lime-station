@@ -5,8 +5,8 @@
   description: Transparent and hardened, yet slightly sticky to the touch.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Windows/xeno_resin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Windows/xeno_resin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Windows/xeno_resin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Windows/xeno_resin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IconSmooth
     base: xwindow

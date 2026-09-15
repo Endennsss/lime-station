@@ -81,7 +81,7 @@
   suffix: External
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: "assembly"
 
 - type: entity
@@ -90,7 +90,7 @@
   suffix: External, Glass
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: "assembly"
 
 #Public (Glass Airlock)

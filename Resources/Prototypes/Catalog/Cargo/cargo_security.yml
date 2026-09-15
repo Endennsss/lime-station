@@ -51,7 +51,7 @@
 - type: cargoProduct
   id: SecurityNonlethalThrowables
   icon:
-    sprite: Objects/Weapons/Grenades/stingergrenade.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/stingergrenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     state: icon
   product: CrateSecNonlethalThrowables
   cost: 2500

@@ -74,7 +74,7 @@
   description: A ceremonial weapon belonging to the captain of the station.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/captain_sabre.rsi
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Melee/captain_sabre.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: MeleeWeapon
     attackRate: 1.5
     damage:

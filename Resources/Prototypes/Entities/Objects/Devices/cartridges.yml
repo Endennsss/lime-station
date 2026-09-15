@@ -109,7 +109,7 @@
     - type: Cartridge
       programName: log-probe-program-name
       icon:
-        sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+        sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/security.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
         state: closed
     - type: LogProbeCartridge
     - type: GuideHelp
