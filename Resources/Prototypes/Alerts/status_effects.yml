@@ -1,7 +1,7 @@
 - type: alert
   id: Adrenaline
   icons:
-  - sprite: _Lime/Imported/Monolith/Mobs/Species/Human/organs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+  - sprite: Mobs/Species/Human/organs.rsi # Lime-Edit - штатные значки правой панели
     state: heart-on
   name: alerts-adrenaline-name
   description: alerts-adrenaline-desc
@@ -23,7 +23,7 @@
 - type: alert
   id: Stun
   icons:
-  - sprite: /Textures/_Lime/Imported/Monolith/Objects/Weapons/Melee/stunbaton.rsi #Should probably draw a proper icon # Lime-Edit - текстуры Monolith с сохранением лицензии
+  - sprite: /Textures/Objects/Weapons/Melee/stunbaton.rsi #Should probably draw a proper icon # Lime-Edit - штатные значки правой панели
     state: stunbaton_off
   name: alerts-stunned-name
   description: alerts-stunned-desc
