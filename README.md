@@ -63,7 +63,7 @@ dotnet run --project Content.Client/Content.Client.csproj --configuration Debug 
 - [Общие инструкции](AGENTS.md)
 - [Правила разработки](.agents/rules/)
 - [Навыки для подсистем SS14](.agents/skills/)
-- [Правила пулл-реквестов](.agents/rules/pull-request-format.md)
+- [Правила участия и пулл-реквестов](CONTRIBUTING.md)
 - [Шаблон пулл-реквеста](.github/PULL_REQUEST_TEMPLATE.md)
 
 Заголовки новых коммитов и PR оформляйте как `<type>: <описание на русском>`, например `fix: исправить отображение сообщений`. Типы и примеры перечислены в [правиле коммитов](.agents/rules/git-commit-format.md).
