@@ -1,43 +1,56 @@
-<!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
+<!-- Lime Station: правила оформления — .agents/rules/pull-request-format.md.
+Заголовок: <type>: <краткое описание на русском>. Не отмечайте невыполненные проверки. -->
 
-## About the PR
-<!-- What did you change? -->
+## Что изменено
 
-## Why / Balance
-<!-- Discuss how this would affect game balance or explain why it was changed. Link any relevant discussions or issues. -->
+<!-- Кратко опишите результат и связанные задачи. -->
 
-## Technical details
-<!-- Summary of code changes for easier review. -->
+## Зачем
 
-## Test plan
-<!--
-Describe how you tested the pull request, and how someone reviewing this PR can test it themselves.
--->
+<!-- Причина изменения; влияние на баланс, если применимо. -->
 
-## Media
-<!-- Attach media if the PR makes in-game changes (clothing, items, features, etc).
-Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
+## Технические детали
 
-## Requirements
-<!-- Confirm the following by placing an X in the brackets without spaces inside (for example: [X] ): -->
-- [ ] I have read and am following the [Pull Request and Changelog Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
-- [ ] I have tested this pull request and written instructions on how to test it
-- [ ] I have added media to this PR or it does not require an in-game showcase.
-<!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
+<!-- Основные решения, затронутые подсистемы. Для апстрима — источник, ревизии и решения конфликтов. -->
 
-## Breaking changes
-<!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them.
-This will be posted in #codebase-changes. -->
+## Проверки
 
-## Changelog
-<!-- Add a Changelog entry to make players aware of new features or changes that could affect gameplay.
-Make sure to read the guidelines and take this Changelog template out of the comment block in order for it to show up.
-Changelog must have a :cl: symbol, so the bot recognizes the changes and adds them to the game's changelog.
-Maps, admin and rule changes should include a category header above the :cl: as per the guidelines.-->
-<!--
+<!-- Фактически выполненные команды и результаты; шаги ручной проверки.
+Если проверки не выполнены, укажите причину и риск.
+Запуск до главного меню не подтверждает работу механики в игре. -->
+
+## Скриншоты или видео
+
+<!-- Для визуальных изменений приложите результат в игре.
+Если не применимо или не проверено в игре — явно укажите это. -->
+
+## Совместимость и риски
+
+<!-- Несовместимые изменения, миграции, известные ограничения и откат; либо «Не применимо». -->
+
+## Источники и лицензии
+
+<!-- При импорте ресурсов: репозиторий, точный коммит, авторы, индивидуальные лицензии,
+пути к атрибуции и реестру. Без сторонних ресурсов — «Не применимо». -->
+
+## Чек-лист
+
+- [ ] PR решает одну связную задачу, без случайных файлов и секретов.
+- [ ] Заголовок и описание соответствуют правилам Lime Station.
+- [ ] Выполненные и невыполненные проверки описаны честно.
+- [ ] Визуальные изменения показаны в игре либо отсутствие проверки указано.
+- [ ] Совместимость, риски и лицензии описаны, когда применимо.
+- [ ] При изменении правил/навыков обновлены мосты и выполнены обе проверки; либо это не применимо.
+
+## Список изменений для игроков
+
+<!-- Для изменений игрового опыта уберите комментарий вокруг блока ниже и заполните его.
+Для чисто технического PR укажите: «Не требуется: изменения не затрагивают игроков».
+Не изменяйте технический токен :cl: и английские типы записей.
+
 :cl:
-- add: Crowbars now randomly spawn in maintenance lockers.
-- remove: Crowbars no longer spawn in maintenance crates.
-- tweak: Crowbar spawn rates have been increased for tool lockers.
-- fix: Crowbars no longer accidentally spawn in microwaves.
+- add: Добавлено …
+- remove: Удалено …
+- tweak: Изменено …
+- fix: Исправлено …
 -->
