@@ -87,7 +87,7 @@
   id: MMI
   result: MMI
   icon:
-    sprite: Objects/Specific/Robotics/mmi.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Robotics/mmi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: mmi_off
   materials:
     Steel: 1000

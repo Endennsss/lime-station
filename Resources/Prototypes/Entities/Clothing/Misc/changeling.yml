@@ -35,7 +35,7 @@
   name: changeling flesh backpack
   components:
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/backpack.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
     size: Huge
@@ -75,7 +75,7 @@
   name: changeling flesh headset
   components:
   - type: Sprite
-    sprite: Clothing/Ears/Headsets/base.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
     size: Small
@@ -153,7 +153,7 @@
   name: changeling flesh mask
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gas.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
     size: Small
@@ -214,7 +214,7 @@
   name: changeling flesh vest
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Vests/vest.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/vest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
     size: Huge

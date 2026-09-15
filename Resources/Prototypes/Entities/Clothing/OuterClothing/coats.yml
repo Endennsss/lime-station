@@ -5,9 +5,9 @@
   description: A thick, well-worn WW2 leather bomber jacket.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/bomber.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/bomber.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/bomber.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/bomber.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: [ ClothingOuterArmorBase, ClothingOuterStorageBase, AllowSuitStorageClothing, BaseSecurityContraband ]
@@ -16,9 +16,9 @@
   description: An 20th-century trenchcoat with an armored underlay. Someone who wears this means serious business.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/detective.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/detective.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: EntityTableContainerFill
     containers:
       storagebase: !type:AllSelector
@@ -33,9 +33,9 @@
   description: Ah, your trusty coat. There's a few tears here and there, giving it a more timely look. Or at least, that's what you told yourself when you found out gettin' it repaired would set you back 200 spesos.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/detective_grey.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective_grey.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/detective_grey.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective_grey.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 
 - type: entity
@@ -56,9 +56,9 @@
   description: A gentle coat for a gentle man, or woman.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/gentlecoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/gentlecoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/gentlecoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/gentlecoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   abstract: true
@@ -95,9 +95,9 @@
   description: A greatcoat enhanced with a special alloy for some extra protection and style for those with a commanding presence.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/hos_trenchcoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/hos_trenchcoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterJacketToggleableBase
@@ -106,9 +106,9 @@
   description: A jensen coat.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/jensencoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/jensencoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/jensencoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/jensencoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHatHoodChaplainHood
 
@@ -129,9 +129,9 @@
   description: A comfy trench coat.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/trenchcoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/trenchcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/trenchcoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/trenchcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -144,9 +144,9 @@
   description: A suit that protects against minor chemical spills.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -164,9 +164,9 @@
   description: A suit that protects against minor chemical spills. Has an orange stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_chem.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_chem.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_chem.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_chem.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -184,9 +184,9 @@
   description: A suit that protects against bacteria and viruses. Has an green stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_viro.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_viro.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_viro.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_viro.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -204,9 +204,9 @@
   description: A suit that protects against minor chemical spills. Has an blue stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_gene.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_gene.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_gene.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_gene.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -224,9 +224,9 @@
   description: Custom made blue lab coat for the Chief Medical Officer, offers improved protection against chemical spills and minor cuts.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_cmo.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_cmo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_cmo.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_cmo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -246,9 +246,9 @@
   description: A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_sci.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_sci.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -266,9 +266,9 @@
   description: More like an eccentric coat than a labcoat. Helps pass off bloodstains as part of the aesthetic. Comes with red shoulder pads.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_robo.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_robo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_robo.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_robo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -286,9 +286,9 @@
   description: Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_rd.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_rd.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -307,9 +307,9 @@
   description: Yarr.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/pirate.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/pirate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/pirate.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/pirate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: [ClothingOuterArmorWarden, BaseSecurityContraband]
@@ -318,9 +318,9 @@
   description: A sturdy, utilitarian jacket designed to protect a warden from any brig-bound threats.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/warden.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/warden.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/warden.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/warden.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterStorageBase
@@ -340,9 +340,9 @@
   description: Meant for a clown of the cloth.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/clownpriest.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/clownpriest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/clownpriest.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/clownpriest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: [ClothingOuterStorageBase, BaseMajorContraband]
@@ -351,9 +351,9 @@
   description: Dogi is a type of traditional Japanese clothing. The dogi is made of heavy, durable fabric, it is practical in combat and stylish in appearance. It is decorated with intricate patterns and embroidery on the back.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/dogi.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/dogi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/dogi.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/dogi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -368,9 +368,9 @@
   description: A paramedic's trusty windbreaker, for all the space wind.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/windbreaker_paramedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/windbreaker_paramedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/windbreaker_paramedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/windbreaker_paramedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: [ClothingOuterStorageBase, BaseSyndicateContraband]
@@ -379,9 +379,9 @@
   description: The syndicate's coat is made of durable fabric, with gilded patterns.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/syndicate/coatsyndiecap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/syndicate/coatsyndiecap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: [BaseSyndicateContraband, ClothingOuterCoatHoSTrench] # BaseSyndicateContraband as first parent so contraband system takes that as priority, yeah I know
@@ -390,9 +390,9 @@
   description: The syndicate's armored coat is made of durable fabric, with gilded patterns.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecaparmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/syndicate/coatsyndiecaparmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecaparmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/syndicate/coatsyndiecaparmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterStorageBase
@@ -401,9 +401,9 @@
   description: The version of the medical gown, with elements of a bulletproof vest, looks strange, but your heart is protected.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/brigmedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/brigmedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/brigmedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/brigmedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -420,9 +420,9 @@
   description: A suit that protects against minor chemical spills. Has a purple collar and wrist trims.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -440,9 +440,9 @@
   description: A suit that protects against minor chemical spills. Has light blue sleeves and an orange waist trim.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -460,9 +460,9 @@
   description: And there he was...
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/space_asshole.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/space_asshole.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/space_asshole.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/space_asshole.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterStorageFoldableBase

@@ -1,0 +1,956 @@
+[
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Projectiles/rude_buster.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Projectiles/rude_buster.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Roudenn (Github), inspired by Deltarune",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "buster.png": "27a17c456eb093e99e68d8fcfa507dd124d7a181f027db07731a57c6b91ae4aa",
+      "meta.json": "edadd94eff2be2555751f8d4423ee97d3c9c9054f3281fc8e61f8be86d79d411"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Hydroponics/ashlog.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Hydroponics/ashlog.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/commit/1dbcf389b0ec6b2c51b002df5fef8dd1519f8068, inhands by mubururu_ (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "d30cff118ae2f6cd38eef446fbe6281ab2eeb0d7f60350222404520c9c0b17cc",
+      "produce-inhand-left.png": "049b6d50817d336e6900b0be7fe0a820dacf35b5322d456801e2dd9168b33d0a",
+      "produce-inhand-right.png": "05673cdb882611dbf42f21b026518f870238388547f3cb660bce04ba9a331b02",
+      "produce.png": "48680e24ef233d3b1043b97c0d22f1da319091f82c2c90aa1d19270438c0c3cd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Lavaland/hierophant_club.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Lavaland/hierophant_club.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from YogStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "hierophant_club.png": "327663e357b507d545de183e13d2eb9670aed67bf1dbc87f085832822be8b08c",
+      "hierophant_club_beacon.png": "dab0ed6d887b2db75fa6b732c009b9c641f6d343685494471227d2a3f211c9f5",
+      "hierophant_club_ready.png": "9264c23c4b2b73db67b782ea2110ff8f7e53eaacf2961f3ee3e1a07da71b8168",
+      "hierophant_club_ready_beacon.png": "7d4d08eb041e9facf154f1ad7a8d7509ae4985d5d2d1d1b87d0234cc042593a5",
+      "meta.json": "b8e00edda6304543bcf1b3e16725c1a2d50c60237b1e80a9105bc6fb142041d1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Lavaland/loot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Lavaland/loot.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "crystal.png": "7ac95872fdf3152503e9d4d2cecae29f86a9a39cc76d70ee7466e9527dfbb067",
+      "cursed_heart.png": "c5a54fe506839f41423fbcd5a75c2fab916c6f3bfa23edf971296a465ce1e62d",
+      "meta.json": "b304ac0fe66bd5bf3e5c51690cc5e1981650dda04b7e47271911d747fa9d702d",
+      "vavilon_book.png": "1ec7599c2a7df6d7c53a4c9309afeba6bb09bbe45ca789f78f398cd72d6045be"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Medical/luxmedipen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Medical/luxmedipen.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "tgstation at 986af32e22a88dae14fd147d812a5a4d27c1bc30",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "luxpen.png": "6b8d945ec30806778807af431d38635be6dbd9761b3067763c752ef9e8c9ac14",
+      "luxpen_empty.png": "2cf734173b31eccf9c96335614850049db563ac51ba840a9a64ecc84d08517bb",
+      "meta.json": "c49f43ce5ed1b589dc3ba6e17a68e3bfcc5ffd194876bba70d7838e2e1b409ab"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Medical/medipen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Medical/medipen.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "tgstation at 986af32e22a88dae14fd147d812a5a4d27c1bc30",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "9626adf8db431634dd30b01b2bf3225731eeb690836d301ae035bfbfeb58b609",
+      "survivalpen.png": "4f9aacd5a0ded1df70e9a58b1b7de960a57d9750880ef6d6f3a40efc4174c201",
+      "survivalpen_empty.png": "28e2e8eb69062ac6dff1d7b27c63d3db571b74af5afe58ad4d46eed22a29af26"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Mining/ore_bag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Mining/ore_bag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/782006a07ef7f16f70128489b3e78b210ee4bbbe, inhand sprites by  lzk228(discord 455630609641897984)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "4a20da1d55c0d38429ce9cd0d7071ff43a5a9ba60c7e18435355e3660f4c263b",
+      "inhand-left.png": "31d58e93f33fdd6f3bd7403264ee0ce0d779fb41ef59e92eb6bc898388fedbf0",
+      "inhand-right.png": "2d651e45ff7d3992ce8e3b0abfb3b567c582bbca7debb46a5af2997adbdbb693",
+      "meta.json": "11df3dc4e71acf056c08d1c28b188ca299b53fd0d51084c898692008fa92a537",
+      "orebag_off.png": "e241f1e40168a8db3eb0588668ef78c6d21657bba5146ec200d71e5f00fe0ec0",
+      "orebag_on.png": "0e1adbc50feecc0d46672ba57824f079bc81807f25f742a558c93eb1f276926c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Salvage/capsule.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Salvage/capsule.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/8d20615ba100e7744792b42b6a6c7f4ea6314b3f/icons/obj/mining.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "capsule.png": "80da3277909f32250ad8f351114f9c8991b0401044269843bd97bcc7b617612a",
+      "meta.json": "553fbb864f7c9e5f6f1fa7aaa2a57070767bd7b13a6a9ce5efea94ec8a87405a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Salvage/jaunter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Salvage/jaunter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at commit https://github.com/tgstation/tgstation/commit/9d69f972676bbdcb2087709370b3a354ab25cc5e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "00977b8c25a985c522effb56170aa8a0957b53cdd3926d6eaf8fc6c56e7d920a",
+      "meta.json": "706b9ed819d1d62f8a09307a78f5e57008ca472254595d62332752212222cb2d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Specific/Salvage/marker_beacon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Specific/Salvage/marker_beacon.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/b764f0e8c3004ad5e7726e7ff27a52a0c893beff/icons/obj/weapons/grenade.dmi, modified by spanky-spanky (GitHub), modified by Roudenn (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "632ab0f34b92554116a1b16a060ff1f5020719985d5e2bbbf8c1ad11d083f6a0",
+      "meta.json": "3a85a38bbca57d8cd13ab5334a5853d3f0e2cbb0993a97d577876d87ec92c5d1",
+      "unshaded.png": "fbf6e888ddec2f3455a893968723381cf79f1fb975c533166214ecba2e0bac55"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher_glaive-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher_glaive-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by alzore_ (discord) based on the proto-kinetic crusher glaive",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "c8556783d59cf3e18478adcce89c9523ba682eaaa8a80a4aed59fcca82177863",
+      "inhand-right.png": "fe675edf32544258668dab2fb0cd8c2ed8551e8ec3ca050fecad47c0e9b3c3af",
+      "meta.json": "d2f58d4f294a466d0f3263d0ab3753ccec27e48bb29c1f951920a35d5b841c69",
+      "wielded-inhand-left.png": "842eac317f51dc08b9e3203b2e081393fc23244ece1b8d78472857bc089bcbc8",
+      "wielded-inhand-right.png": "1b84c58f7e1d3074ca0d0c0236f23b45c56706cbe6f96b1ae1ad5d567ee81413"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher_glaive.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher_glaive.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/Citadel-Station-13/Citadel-Station-13-RP/blob/817e7c1f225876b45891e3f06908e6d032f0a8bc/icons/obj/mining.dmi and modified by alzore_ (discord). Back/Suit sprites by Redbookcase (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "2df202b15064cea649ecb85f83b90f378ea9829c2df55c830cb06ed22ffe7e16",
+      "equipped-SUITSTORAGE.png": "2df202b15064cea649ecb85f83b90f378ea9829c2df55c830cb06ed22ffe7e16",
+      "flashlight.png": "a2f7d514889674a7ead8fb7fd1f58a3fe47b7b5cc07f3e0a1b0922a9fd03be80",
+      "icon-lit.png": "d7762ad145a647c9d4924df10143b5c8a249ae4ecf567e6547a019eb124ec377",
+      "icon-uncharged.png": "4929df12ed46a5594cb828b4a39f0157340a09368e778098ad384fa3caa009e7",
+      "icon.png": "0d118504af6b2ff61f0774c03c3299576e0e67e0475a3c578a0f398334c0c9e9",
+      "meta.json": "cad593965a8ea4d98e483cfab6dd63f560bfa7c03a123d9e4f27077f34d73e23",
+      "upgrade-handle-lightweight.png": "8e59b8136bb9d484b88a64dfda94c6dec24c38d301ce97ba89de285b6dc9259f",
+      "upgrade-handle-range.png": "450daca8372ef9915da19fc6554b40bd6af917a0e0749250481e4a6bc170d4d3",
+      "upgrade-handle-weights.png": "ad2a24e7a30580234f74311e1ac6b88686ca59f96366cfa2cd80194ff978cec2",
+      "upgrade-ice-frost.png": "e7916eae7f7f81b20c18853caa812094032761b3ac3e9e3fe571ea14059aec52",
+      "upgrade-lava-aspect.png": "07b4db8496762b524211420e36098ebd1d413f526c575ded2ca59367b94fdee4",
+      "upgrade-marker.png": "81eaf053dcade145112367bcee2119c7c67c78b6200cb105fa74e92dae5090e0",
+      "upgrade-rude-buster.png": "a13a3f568e7ce3b91b48386a24d7526f7e7dea1a441ed2627064726997ea0a89",
+      "upgrade-sharpness.png": "a51e178c3d9f90648b465a85117b71cc97bfe6d16aaadd9a5a84a3d74c17e9a6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher_halberd-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher_halberd-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by alzore_ (discord) based on the proto-kinetic crusher",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "ba6dcdc58ff193da2e62fac94b3bf88f7a0fb6a99f018fc92bf58febbe467e83",
+      "inhand-right.png": "bf9a56ac9300000da34227fcd4cf088af8c0c8d516c59b6625657c55958d7a2f",
+      "meta.json": "f72f3315603f9a187b74e82bbf57137ab2d119345e7f79da432a7a8d1403303b",
+      "wielded-inhand-left.png": "437c8e3cc54fd26b861b19733959781764f6f942ebb17c09814ec2cc41659b70",
+      "wielded-inhand-right.png": "e392a951d1221df5ffac0b02589e1c5bd3669961f282fbfc6042c1c19b8de1be"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher_halberd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher_halberd.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "24f175dfcece09cb14e8bd11bbe4e05d4e0509e966042a8c169e121272778dab",
+      "equipped-SUITSTORAGE.png": "24f175dfcece09cb14e8bd11bbe4e05d4e0509e966042a8c169e121272778dab",
+      "flashlight.png": "28909cb7ff1d6a2c7b0bcf6951ba30129457e0757a792cd0aceecccd46432cb8",
+      "icon-lit.png": "effd0099e5d323bcbe7420d2bbc99538ef09e5ecf53697a1deceaf5e1819c510",
+      "icon-uncharged.png": "bb0e3b9956291d5083d311e216bbb644c2d487ce255c1e38710c13b3bf53b86e",
+      "icon.png": "bf358125ab14dcc0b4ebb8d440e5a87dbf22d2f5fe29f18598858280cdb1edaf",
+      "meta.json": "bf34ed29b9e68fb5a14a7219048def5917735de5d8bf21370c40d6b0af719936",
+      "upgrade-handle-lightweight.png": "858b2241c909220c33755eea8d5e5a45657c8a968e937c6b3308d0b2cc90552d",
+      "upgrade-handle-range.png": "95d1474efb9c09dec497ebd779319e09470406bbc33b3ed59cbfe90e16fc0b7c",
+      "upgrade-handle-weights.png": "a52412ec3a1906e3c6323aafdb5a9c297d354f94b784d482d10bbeedff34a764",
+      "upgrade-ice-frost.png": "5b0728b74837d0574806375e0f5ef72595fcd2d0916d0df600cca15cb45e9f96",
+      "upgrade-lava-aspect.png": "d104e1e6f12a1d330d2f31acb3ef68c7d6c50747f15fe4b3c346c463ab80be46",
+      "upgrade-marker.png": "7ecafdcc7a58831f9f8e73e377fbb2839fd4714965d481d0725e2c6067373471",
+      "upgrade-rude-buster.png": "e62b5b85e88f414f895874e20539aa893573669e6418558546245ae2cd7ef5f6",
+      "upgrade-sharpness.png": "dd8f06383363df8415edd190a3c73a92c29d97821217daf548306ae9fc971bc1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher_hammer-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher_hammer-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "b07985896d771ecf49979ab80b34c2dc39dc1651e53e4c418594c8f23d626617",
+      "inhand-right.png": "1429d676931da0915fce621325542055563beeed3be41b9a22b63f11ff2a519f",
+      "meta.json": "9d1fabc5b20ef060ca35b73cddfaa93789d94327ee9e25e0921ec9ba55ee7e70",
+      "wielded-inhand-left.png": "d5263cdd8c06869da319478122f01b6a6ac9b7bfd8718c6eba358203528d3d9a",
+      "wielded-inhand-right.png": "f6ecc838ff8a873652663c7ad26795b8834e159b6524ebc5f75790980fe765de"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher_hammer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher_hammer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "495f4a349368c79c4fe6b02e4a2deea55c331b777b8155dc1489866123a018c5",
+      "equipped-SUITSTORAGE.png": "495f4a349368c79c4fe6b02e4a2deea55c331b777b8155dc1489866123a018c5",
+      "flashlight.png": "96c5ad5feabe0fd71fc7a8f1583de9a6b6a978cb4bc85dd763a098038cf3362c",
+      "icon-lit.png": "effd0099e5d323bcbe7420d2bbc99538ef09e5ecf53697a1deceaf5e1819c510",
+      "icon-uncharged.png": "bb0e3b9956291d5083d311e216bbb644c2d487ce255c1e38710c13b3bf53b86e",
+      "icon.png": "095a5531b89a1a48a0bfa81fbe8bfcd934e0d19e5196752bfee03c16169e530e",
+      "meta.json": "e40d88f9fa3606df1c5f6f1356625b1eed7a3eb17839c0789de34362cf355505",
+      "upgrade-handle-lightweight.png": "249caa1d5ab69e467cae85605c95c62ec07735f4e1b2744bfffbbf95bec5fd91",
+      "upgrade-handle-range.png": "450daca8372ef9915da19fc6554b40bd6af917a0e0749250481e4a6bc170d4d3",
+      "upgrade-handle-weights.png": "fae7e393cc290d5d6ff1ff38f5150dcd2e0d12b95ff89dba3a0b54359ac3edb0",
+      "upgrade-ice-frost.png": "1b8e91f2a6bf9c817bcd5290edc591876a65af797366740ce75162e7224b3f71",
+      "upgrade-lava-aspect.png": "e24f91b030290702a5130e724a67bac817f4c4c0226bd6b944be92eb76eff52d",
+      "upgrade-marker.png": "86935cbb70e2425246870ae4954b9b292d747d9bef6a35d78c3549069948d5f1",
+      "upgrade-rude-buster.png": "de788ffed6c62cca1b2deeb7a065690723ccd21fa8ebc0b5b5d6d3e3e77e0ded",
+      "upgrade-sharpness.png": "77ae4d14976e8f61b0608639e8b5d33faaaddbfd3d26e11669503ea5b1f6646c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by alzore_ (discord) based on the proto-kinetic crusher",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "d539a06ba3a5c7f1110a8bdb9e4fcc615e64e17be91d3e87b7d22561f3ba895f",
+      "inhand-right.png": "a2137469c6a31b956c3dd0ebc20d53d78d5bca4b5695f282f02f537aae4266ed",
+      "meta.json": "f72f3315603f9a187b74e82bbf57137ab2d119345e7f79da432a7a8d1403303b",
+      "wielded-inhand-left.png": "ec9c09c77152ef7483109609489b4eb835c7477069f31efe67b2e5d06d0db648",
+      "wielded-inhand-right.png": "ae0274215025a0f182ecd15a17f79b3eb03f2067afc66f8f2665ad5876a9c715"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Crushers/crusher.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Crushers/crusher.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/Citadel-Station-13/Citadel-Station-13-RP/blob/817e7c1f225876b45891e3f06908e6d032f0a8bc/icons/obj/mining.dmi and modified by alzore_ (discord). Back/Suit sprites by Redbookcase (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "f66f60488905d3b6140670391eb6d501adf870b35e08d3bc34439ccf89ba6a36",
+      "equipped-SUITSTORAGE.png": "f66f60488905d3b6140670391eb6d501adf870b35e08d3bc34439ccf89ba6a36",
+      "flashlight.png": "3e6c2ef649afe88f952b6dc5b53c6261b39f92ede3ce801b8d969c3acdbb21c2",
+      "icon-lit.png": "68da89fabc359592001b24ac150fc5b41399c03f51b55f9fb3de97a4670bfeb5",
+      "icon-uncharged.png": "4929df12ed46a5594cb828b4a39f0157340a09368e778098ad384fa3caa009e7",
+      "icon.png": "3311275c31319064f1cd9e680fc948fc0edbeab28879972e9e4213eb5abbb415",
+      "meta.json": "d33771e38fbbd0ba575ec382b198bb13138d1c3292da33110f1407228c901b08",
+      "upgrade-handle-lightweight.png": "8e59b8136bb9d484b88a64dfda94c6dec24c38d301ce97ba89de285b6dc9259f",
+      "upgrade-handle-range.png": "450daca8372ef9915da19fc6554b40bd6af917a0e0749250481e4a6bc170d4d3",
+      "upgrade-handle-weights.png": "ad2a24e7a30580234f74311e1ac6b88686ca59f96366cfa2cd80194ff978cec2",
+      "upgrade-ice-frost.png": "badbb243cd48ae581603c33dfc08d95fab4fd28398eef6ec3aa1da20e36c53f3",
+      "upgrade-lava-aspect.png": "caf7ac3e9ceb1863cc88721045d0e797e74f424936e2fc444eb0e64c0386d8ea",
+      "upgrade-marker.png": "81eaf053dcade145112367bcee2119c7c67c78b6200cb105fa74e92dae5090e0",
+      "upgrade-rude-buster.png": "a13a3f568e7ce3b91b48386a24d7526f7e7dea1a441ed2627064726997ea0a89",
+      "upgrade-sharpness.png": "dd8f06383363df8415edd190a3c73a92c29d97821217daf548306ae9fc971bc1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Guns/Basic/kinetic_pistol.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Guns/Basic/kinetic_pistol.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "bayonet and animation-icon taken from https://github.com/Bubberstation/Bubberstation/pull/1332/commits/712c86db77c96657cd2b8cfaf6203d76f85f9649, rest made by ratyyy(github), animation-icon, icon.png, inhand-right.png, inhand-left.png, equipped-BELT.png, equipped-SUITSTORAGE.png modified by mironium_adt | Edited by PuroSlavKing (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "animation-icon.png": "14561e499de130116d6c02972481ecbfb85c4787d645106a5158154177bdd024",
+      "bayonet.png": "42644c3fa14ddda054f2f46f398d29728cdb8a0ae6a85bbd1ae80711a40ae5e0",
+      "equipped-BELT.png": "ab314f353bb735f410806a38a3d8e94789e982080ca722b59b854c5037b9e2b3",
+      "equipped-SUITSTORAGE.png": "ab314f353bb735f410806a38a3d8e94789e982080ca722b59b854c5037b9e2b3",
+      "flight-on.png": "c34d8b5f1378604c232bce6c407d4d4ce99e82ef267313f78da64e4531624a81",
+      "flight.png": "652bb6f33b0ba1f89f0059ff63cc18b1c634f4bdca8e9508fbfdd1f3ffd74534",
+      "icon.png": "74307d66ed2073ae364e1518e05ef3a3f4088d93d6a40e07135ab4be0e9de39c",
+      "inhand-left.png": "8404d697d5970ffe75991012620778819f800b68b75e31e7d018639778486a3f",
+      "inhand-right.png": "9ba23afa1b817423361d2e50791dfb6796b1f97857589cf9e002dbb5e254d2ea",
+      "meta.json": "5f17e75d1883206a5f613e79c6f733e4f52e769557bcd434a7f1eebb77cb8b0b",
+      "upgrade-space.png": "aee36c9ec448260c7749aa0087e85a2c40eca5474145a136bc477d0909d246f5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/hierophant_club-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/hierophant_club-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from Yogstation at ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "7c65fa5f0b3875fa364fa49eda2a5fffbcdd8b7e5fd2ef0522695a066e0a7b96",
+      "inhand-right.png": "149288a4e31799009a76a1e4767f30f9daabe2312a448e83ea145f6908279ef2",
+      "meta.json": "97474efe6471c6feca01fdf19cdce673781ad8efe8265db7877d5ac3dd11c0bc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/hierophant_club.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/hierophant_club.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from Yogstation at ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "01885d73201efcf56965aebba9df998408ee78266c99985d2abe476a091b04f0",
+      "equipped-SUITSTORAGE.png": "01885d73201efcf56965aebba9df998408ee78266c99985d2abe476a091b04f0",
+      "icon.png": "9264c23c4b2b73db67b782ea2110ff8f7e53eaacf2961f3ee3e1a07da71b8168",
+      "inhand-left.png": "149288a4e31799009a76a1e4767f30f9daabe2312a448e83ea145f6908279ef2",
+      "inhand-right.png": "7c65fa5f0b3875fa364fa49eda2a5fffbcdd8b7e5fd2ef0522695a066e0a7b96",
+      "meta.json": "addaf73bda94fa2966758cd54ff198df7fecf06ab61de73aa46552fa3dd1edef"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/ashwood_cudgel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/ashwood_cudgel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "bd5604f1cabb3f369e12325874cee2e7b14c66f3d84126616f6aebe687a506bd",
+      "icon.png": "56a7b9c6b8978b7bd7e6cd944c2373a77b1352b839a2fb8a9844ee063e5b19c4",
+      "inhand-left.png": "18f3d8243c7b49e581c9f58dab23792ae057f7f6c7265e7d310c5bcabf597688",
+      "inhand-right.png": "0f334cfdaf809e5c19be1f5b7029f6ee9eb4ccd90b9288b1a9b15da83b5ddb6d",
+      "meta.json": "76e270e3d8a02a9a705e93821df47817b1f74619b9c252c0282b4c84bc0043b6",
+      "wielded-inhand-left.png": "af853f37af806fee9b1b4e61eebe0d45783d65f2fc624fd48b4c7f3f82234f86",
+      "wielded-inhand-right.png": "f10f7b8a18ba7d3c6325c489a964f4fd2cd5ecc42096377543742e0f35ab78f2",
+      "world_icon.png": "1474b1dffb8b2f46b47298985492cb78952f729c36cca4e3ecea9f967eff46fc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/ashwood_pickaxe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/ashwood_pickaxe.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/29929/commits/8c0509a4725602d0be2e9a7b29b556a39fb5cca2, recolor by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "05df79b2dca4eb2f3b51530805f1b1220832d3f7a175bb668d984093e5a5f0bf",
+      "inhand-right.png": "6f2c71446ffa5ce81cd15660e289a038ba834bb520d9cc1a7b6a92615d2e5639",
+      "meta.json": "bd87000fb0d4862c643e99e86e3af682328eb9bc5228178f6bc8699a110de4de",
+      "pickaxe.png": "d94baa8a26bd76f9382ef6dd2be45da19a795f21811da94a1dfc93584554dbe4",
+      "wielded-inhand-left.png": "209201796fcf480fe08bffa82dbb9dc6d0af564b1755a7b7d3ff2f3f21031b36",
+      "wielded-inhand-right.png": "b3c1b0e97ecc0565c197994f091149510419b66cc17ea0b12716d754e0db1b52"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/bone_axe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/bone_axe.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Monkestation at https://github.com/Monkestation/Monkestation2.0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "44cf193c24b6443cf07150c4c8edeed93e14fa148650b812da1c35798f063b27",
+      "equipped-SUITSTORAGE.png": "44cf193c24b6443cf07150c4c8edeed93e14fa148650b812da1c35798f063b27",
+      "icon.png": "c4c2bbbde97f9b8a69f802c78c0dad7840d7de46efaadd09c2fa2cd27ca11b26",
+      "incomplete.png": "6244ebc31980519c5a4f820c04f360f36f8633e445e31e80b478076f3dc60155",
+      "inhand-left.png": "a59a67380bff218e16bf550594fea71aac820bbfd087de0e43898f423da6852b",
+      "inhand-right.png": "9fbe6427a3aea5598b27ae62d089880e31a1a7ee9d7f258dacab468c3f5f6e25",
+      "meta.json": "68497bc32f1da8e7aa5760088df8f2e08dfee6501583b46d66e40670b1a0d509",
+      "wielded-inhand-left.png": "be5156afe0d49aa1b04cb4d9bd116a4b1a8f867039b7b1916ccfb9249e3efdad",
+      "wielded-inhand-right.png": "34df459e034e73bd7f55d6b98e1181e196a7b973d0dd8b0e21532f61a7284a00"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/bone_dagger.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/bone_dagger.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Monkestation at https://github.com/Monkestation/Monkestation2.0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "039ae17d290dc94c10bedfbbcb8d412e224f2cde2ed3b9f3ebc46ff363c9c0bc",
+      "inhand-left.png": "10c5d899cc8061c159fcfd43d78ebcba641fed538ade84c544c28125df87f507",
+      "inhand-right.png": "8a8af6dbdefe062ad54bb8dd869b619569343c5c087aee1cc6916536a8248f2d",
+      "meta.json": "38b44ef45599392c1db2a55b028f6e4d87f14472f0f202c560c73b91a41966d3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/cudgel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/cudgel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "b06f040a70519d5b6084a2a9c1520490e0d07f4216fad620bfd1aa16ec8e455c",
+      "icon.png": "d9ddbbdec0b0266636e62b0677915bf31b4f2bca8d1895d190e5e974e631e10e",
+      "inhand-left.png": "e003d573807f0f9dec8b5fb0a8e9689a618e5a0d7f93b6b5ee67132b3c464b0e",
+      "inhand-right.png": "53566862f50d9ecd2aee789333e9608f056f9c41f506880590f8c925cc12f038",
+      "meta.json": "76e270e3d8a02a9a705e93821df47817b1f74619b9c252c0282b4c84bc0043b6",
+      "wielded-inhand-left.png": "cceeea93ed64db00cb58cc357781143933ec1eced3202b7058a0e9cb53d887f7",
+      "wielded-inhand-right.png": "3545a4c4a72a8760a3b0e86471e345593e631265830c27302d6d95e1f06e80bd",
+      "world_icon.png": "bd5017e629d63fb7b3fbe7ed0e2dc9914be00516b883d278239a5e6b07b99570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/diamond_pickaxe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/diamond_pickaxe.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/29929/commits/8c0509a4725602d0be2e9a7b29b556a39fb5cca2, recolor by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "7d61367565763e7c69e9728b1114a31cfb093ffdb8b9e498bb3765747afb434e",
+      "inhand-right.png": "21d7ac0de2834c16ab6f88567747d6eeb5d5fd3c29cff31e0417347d057045e5",
+      "meta.json": "bd87000fb0d4862c643e99e86e3af682328eb9bc5228178f6bc8699a110de4de",
+      "pickaxe.png": "e07a46ace047d2eb43c41b40c42d750a8533848edb404642c0b346bd25049c80",
+      "wielded-inhand-left.png": "20f32fddfdabed2975d3413998849e657cbcaad771cce1df62e3438543630b6a",
+      "wielded-inhand-right.png": "161e304d00b06e4e99050d3fa363554d431d867ebcab5f0bc6164772227eea74"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/katana_storage_64x.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/katana_storage_64x.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Storage sprite by RedBookcase on Github.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "blade.png": "22066f7264a6f5f307b9a71f34849ce64e7b67015fd85a97dc30cb555a638213",
+      "handle.png": "bec3c5093c38b39af8e77ccab37769597e0153c3dcc81d33b3a113a9ac33ba95",
+      "meta.json": "bc117deba46701799014215077c0ea6467c945f7127544fb03f512fb6f9ad588"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/katana.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/katana.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a9451f4d22f233d328b63490c2bcf64a640e42ff and modified by Jackal298, recolored by Aviu00",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "blade-equipped-BACKPACK.png": "15c48091fb8ad16d1b71c101b14322930f4584f33a536bb15a6624c8102fe2f8",
+      "blade-equipped-BELT.png": "87d411376d197177fec19ee6812c409bb3a35e5f6efd2e87d44b37f25a45c4f0",
+      "blade-inhand-left.png": "1d153c5deea835ec702f063f7a6386484e044f8015322895f17bc7f13f5764c3",
+      "blade-inhand-right.png": "5b702fa0dfbb53300981c9244a002ea1d30edcce102f180cd98b34824af09b0e",
+      "blade.png": "b1ab674214a2dfcea224c39ea13e5adc6083f1e6b31a722c8edd6b5b2a1c70f9",
+      "handle-equipped-BACKPACK.png": "06c475dce8b74c3ae725ef7511370db114d187e1caf77cc43fde5268be37f41d",
+      "handle-equipped-BELT.png": "7019d97c5adfd65e0705d247ef41df1e9a8ee916b00b7b16a83e0406e0a66e23",
+      "handle-inhand-left.png": "68467c53df59358694f41948317e2e7163968cfaf92ca8092421f3e365e00c48",
+      "handle-inhand-right.png": "fafbaf3113cdc1fb83d301198dcd32d348942968e5190eebd8a7c368be068f66",
+      "handle.png": "63446a49d8d1e66f4229ce042aa9023fdcba8f6994d92a436b999b33d882c5c4",
+      "meta.json": "afd3ee9dd98ab34d402afd76f1611b1ff2ebbe06b0604197fdaec9aaf1903e3b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/shadow_katana.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/shadow_katana.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a9451f4d22f233d328b63490c2bcf64a640e42ff and modified by Jackal298, recolored by Aviu00",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "2214b6a7d003fdc8a1685903bbdb28c53b24bf9eb423727341f9caaeae6154c8",
+      "equipped-BELT.png": "2c88c2c60fa33be7ab7240d841ae4ed0356541eadb7ee7028219fbfeb68b9a9c",
+      "icon.png": "13123350610d10f3290476b838741312f8e16224893c4b71fecde7de036d32db",
+      "inhand-left.png": "f8e65a62df423784cff4d429d89755c4eace2816ddabd4edbf1ab2b6ba6d14b2",
+      "inhand-right.png": "39a4b4ed8e3d74ed9b3bd81017a7ba26612fd5fae313a3ba9278babce5fc518f",
+      "meta.json": "46de856197a155210c1de605f96c3c3de1971fb4b576f332cbc21c26e47684b9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/spiked_cudgel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/spiked_cudgel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "0169caf0cab00f7bdeef67d83179737bdc02f028c6160fa43f696392a1d3af99",
+      "icon.png": "3d317ca02e60d5886eea923efa72b4e086b2d1e8f7ed5ea5bdc9f2a8d1851cbb",
+      "inhand-left.png": "8309286cb08d4e506bb7aaa751df55d6b3e9682e9827e26d86f9ba5bcd6ce733",
+      "inhand-right.png": "a7d35615e5b504b744022e0c1150dafc6e4295ea5a38b76c65a1ab2d0be9cafb",
+      "meta.json": "ab92ab77bbd53da2add47f8186ac5600ed6a4e0b3d5907b8bca1184e3afa5ce1",
+      "world_icon.png": "f60d828e350cc841c2dfafa03ecbf736fdf88673d4ba6b01c10180f54d364df3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Melee/wood_pickaxe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Melee/wood_pickaxe.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/29929/commits/8c0509a4725602d0be2e9a7b29b556a39fb5cca2, recolor by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "11c1a061bece86aef5efa28300bcec7960a3d328e05578b19e718686c557afea",
+      "inhand-right.png": "e301afd799bdca2a6ceba83c08f752a0bd314d779f4ea0f2cd100aaee487cd87",
+      "meta.json": "bd87000fb0d4862c643e99e86e3af682328eb9bc5228178f6bc8699a110de4de",
+      "pickaxe.png": "5855e63194b68b334c2506ecf26a124851eaa281476025f2ff904512dd65a66c",
+      "wielded-inhand-left.png": "05c6aa38cc64465eb5fc44412a68bc0eb468eae4301e152994d9233d308bf5be",
+      "wielded-inhand-right.png": "dfe3b0e05f4fb8937366519ae11063cb3b8ae12f57ae103e9ddb516de8242700"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Secondary/kinetic_claws-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Secondary/kinetic_claws-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "2d41723ba1bde2d418010b4634cad76019075c9aa2836ff9c7cf633702a66d78",
+      "inhand-left.png": "a45219879e7948391bf085c74d678082c680cee14c2eac523824e1c819afece9",
+      "inhand-right.png": "87738491bc7e629230b88186712cade84817d7943b870d6b6167ce1af4bf3699",
+      "meta.json": "5307656b29f6fd9d53454a7bb44e3fcefe29aff72b6dd1331970832e3d7d8334",
+      "wielded-inhand-left.png": "2d41723ba1bde2d418010b4634cad76019075c9aa2836ff9c7cf633702a66d78",
+      "wielded-inhand-right.png": "2d41723ba1bde2d418010b4634cad76019075c9aa2836ff9c7cf633702a66d78"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Secondary/kinetic_claws.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Secondary/kinetic_claws.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-lit.png": "0d417a4e5fa1dc94cc872254afab808b5105d72deb5163db3bb43048ba11802b",
+      "icon-uncharged.png": "e94a66d2d2d618b4b507a10690b957757ffacf6d2ec3ee4b12ea8c7c91054829",
+      "icon.png": "aab0896404f960ce5b06dcb2d3bc5a8fde311191647445f6ad9d1204ef057e99",
+      "meta.json": "14edb9497f93b229acef137fd2bb705964a6aab5bbd622bec009fda3e2c89616"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Secondary/kinetic_machete-inhands.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Secondary/kinetic_machete-inhands.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "0d3ec81ef75e2283254675fe891982cc8cbf19b999f9ee35c7e3207337b2189a",
+      "inhand-right.png": "b302e2674e9a181110fd12a2d03f6918c6e2cfef37d1dbce2ec6d00dd1133094",
+      "meta.json": "9fd23d5b63c8d698cc31b321e8eb7aa5abb8403e66bf8acb8de3c8c0db96a228"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Secondary/kinetic_machete.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Secondary/kinetic_machete.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fluffy frontier at commit https://github.com/Fluffy-Frontier/FluffySTG/pull/3293/commits/498811256ce8f64609c8c4195cec08801aed6147",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-lit.png": "8af27390099c406c22562c70c35e2ac0758d9b22d35002759e19d5b42823ada1",
+      "icon-uncharged.png": "42091aa3063d251a79b65d914370c0688bc6d2dedf17612cc8e662c3d42326f9",
+      "icon.png": "92bed5dd6f4d8dc7ca9199d232c74b11ffd0c874cbd69e74fb44dde68c3f5f42",
+      "meta.json": "14edb9497f93b229acef137fd2bb705964a6aab5bbd622bec009fda3e2c89616"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/upgrade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/upgrade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "6d8377a32c812426778ba698a46bba27a0f81417b062a3cc9e0ccf6c1feba372",
+      "display.png": "cfaf79fc829fbeafde806ef7308ef107cc4e910514cdd95793c9499d062622f2",
+      "meta.json": "311db4672b3effb5f0740fd7ef470bf849e69af6b5f1269295508f9e82800915",
+      "overlay-1.png": "7fd6cc804d32f9798a1b2d0f35a9413cf19574adb92f7fa1848d8ff7e365ec88",
+      "overlay-2.png": "7eb35aa3e939d01e7c915c81f832f98b9522af8fe6c874b865da4ca7620b5f66",
+      "overlay-3.png": "83c2b6b91ba8e19efa07048bdea882ee1182eccebf5b0571053b6ded5eb23a93"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Weapons/Upgrades/crusher.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Weapons/Upgrades/crusher.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae, edited and added states for rude buster and kinetic marker upgrades by Roudenn",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "3d0f83d76a4fa2cfc57d9f8c4a5444c9b53d6fa91ae5fd6a79e25c0dadd9f1cd",
+      "black-shard.png": "4c0bec921e2630f0fd2799956330b15b736404f0b6ef4817062757c801318343",
+      "handle-lightweight.png": "576cdcdda08c4f616e29aa2073cc467d077135fc4889c6f9f9a80c66668f7d75",
+      "handle-spikes.png": "51c2076a7fe89f3b59ce8bd4393327d5afe8e218d170ea079d260669efe2a442",
+      "handle-weights.png": "508dec0d0875e9175ebc1ae31af1bf403d93549be85bac7ab3a9d1518351d771",
+      "ice-shard.png": "0cd12561bd1b38fd246c0e3feb1fe06f77a0c9e0fad37e10f0f03b204167a476",
+      "kinetic-marker.png": "13413e1fe7071e2f4eb9ad9d7e73fffcbc21a9b519e62e9eb86c9f5eda840182",
+      "lava-shard.png": "a267316522a4f3d950f65de7151f6015961f0f516d445d016c0c0af19947b602",
+      "meta.json": "8cc2e94fc0c57c7a374b3ed4a64bbe29679ed24df200a7da428e329825321237",
+      "rude-buster.png": "848c5ff6c6c1ee43ec67b813bb5dbbcc1e85082143c48e6fd0501adeabcb5ec0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Structures/Walls/hierophant_temp.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Structures/Walls/hierophant_temp.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Yogstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "87c4d59d9c1d7bc589ac41d5f0bc5e4759227906f95c9b5acc7719673571915d",
+      "hierotemp0.png": "9c79aed1cb385d35413057cf1d718a3e719c6b44dfeac5a9f52d0cab7e0387b4",
+      "hierotemp1.png": "cacacd44fc7d22627607109692813b05eceabd63b53f01a5d0292653382ab22e",
+      "hierotemp2.png": "9c79aed1cb385d35413057cf1d718a3e719c6b44dfeac5a9f52d0cab7e0387b4",
+      "hierotemp3.png": "cacacd44fc7d22627607109692813b05eceabd63b53f01a5d0292653382ab22e",
+      "hierotemp4.png": "853cea5eecbbbdce8706e347d88687890445e0ac9b6c21bc33474556427d0e3d",
+      "hierotemp5.png": "7fc18a8214432abb0eba95bce8b20f546f9f9a4dee472f8a99e39247244729f2",
+      "hierotemp6.png": "853cea5eecbbbdce8706e347d88687890445e0ac9b6c21bc33474556427d0e3d",
+      "hierotemp7.png": "c58c9213d4cfc0c1f1e0b5413ccfdb6a767919fe112e8eb81b66762e8f6dd5ce",
+      "meta.json": "24b865f8ade699032cdbc608ba84249ca2429cbca533414f02ebfde4ee4119ce"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Structures/Walls/hierophant.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Structures/Walls/hierophant.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Yogstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "89ca7102f3a1bb8bc6249da564e6dd77be4925d7c44458139877a52b74c7b709",
+      "hierophant0.png": "7b4c19d6240dffebe647c4d73ea819f28b90222223fe8a886599f250edd5733e",
+      "hierophant1.png": "94aee168bc9e0cae935c02a96e7e8fc69483ac134f70efcb23fb52158268574f",
+      "hierophant2.png": "7b4c19d6240dffebe647c4d73ea819f28b90222223fe8a886599f250edd5733e",
+      "hierophant3.png": "94aee168bc9e0cae935c02a96e7e8fc69483ac134f70efcb23fb52158268574f",
+      "hierophant4.png": "c8e4a408425974f8a4b48fd939b1d1725774d3640549b628b3497bdd6a0d90f5",
+      "hierophant5.png": "7991b9c1254ebdd1484af333eab0c31a66e66ef842160bda675e9d888369731c",
+      "hierophant6.png": "c8e4a408425974f8a4b48fd939b1d1725774d3640549b628b3497bdd6a0d90f5",
+      "hierophant7.png": "bca0c86a22a1d21e7d649a463f8213ce97923917fe9f6331a1bffb0960c497a5",
+      "meta.json": "bfeca2e380a2edbc981d9b49d2f7bb5aae21bd2e75c215d98d036d831f566ab8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/arctic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/arctic.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Original work by TJohnson.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "fb2296f590a2af8e6e100ed137e72b0fe1896058ad6dcf696f4d6c46d71e61ae",
+      "icon.png": "cf9f0d8234a7eabfccb9c0e16bcea93969fd09214f3bb27de2701954e0df8472",
+      "inhand-left.png": "3b84c165f105840ee4b6472674e5d71d710dec027f402061c618f724f3c9c2d9",
+      "inhand-right.png": "913daf72faefa2b249378820c254a6aecac7e5b3a0c1c1b98a7fca9333fa4b78",
+      "meta.json": "885e8589e23ba7c86a5aecb66ef1896f838eb101ee1660ce52419b3a34d269d1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/black.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/black.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Based on https://github.com/DeltaV-Station/Delta-v/tree/7443161ab8f4144655f290e24879afe2ca3c7f71/Resources/Textures/_DV/Clothing/Neck/Misc/cwparctic.rsi, sprites by @bogus_0451 on discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "512eacef2b143f735bd997dc9d2cee719c5f3a12ce04caddef1369df9a0b4cf9",
+      "icon.png": "ffaa0dc73fb1a7fe345fe4e3baa92aee111368e4977b89f749347ac908450a9d",
+      "inhand-left.png": "6aad8f601c3ef9ccb93a470ecfc9c1a8a9c09c6c362833906c48e498d3926997",
+      "inhand-right.png": "29869115d0a58e505d014433b8095d0553856e4fd2d67a69482b3d20742a6f39",
+      "meta.json": "938369413e6bd08a5e1a352c12e28c4a4dd2542ecca665c7c50bdf2a92b76aa7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/blacksmall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/blacksmall.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078(313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "7d46945ec77f341c874bcf95092b861009aa5de93786924d133c3ebef2dc26e8",
+      "icon.png": "20f9900850b1d184f2aa7752058f951c83294650de0229107a3158425bb22d74",
+      "inhand-left.png": "afbae3dd6e00e3187ddfee498ebfeae7dc273b4f51d0539d9c17d3e2b19f722c",
+      "inhand-right.png": "83a39f780412ace57d5aef70e798cc303e7a119c7ef6e86033d596897c13bfc4",
+      "meta.json": "161a84e84a6c42f56232293084fccad813418f614cd6d79204472cc7152befed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/pinksmall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/pinksmall.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078(313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "a00df1cd8c9d6e9ec3f2cc07b779f85ef948bd766c5104b7780c9a32ba0caddb",
+      "icon.png": "f284ef0ac5636e959b623a798829ac7f75437c0d9aa296a5243986e5cc85ca5b",
+      "inhand-left.png": "46cf388a2a1b812bfa8c2f9d257f4c911b8c74fe7c705ebdc89e8930b0f4e0ff",
+      "inhand-right.png": "ff5363268ee5b5174bd411c761f64fa35f3c0b77c931a458bceb8120364b5124",
+      "meta.json": "161a84e84a6c42f56232293084fccad813418f614cd6d79204472cc7152befed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/purplesmall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/purplesmall.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078(313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "e20b76c5c810d88cb8edc14aaecc75f05b33a021a48d84f1df484e74308d6e7d",
+      "icon.png": "6e7e9e2a426f116e0be263a6b6594fea73419349da83658cda2449190e1f9390",
+      "inhand-left.png": "8ccde8d27d1eee732ee7c2ef2964e34bd0f1a4a2b261872db45d49602fbab4b9",
+      "inhand-right.png": "18b0fb9532321a1c39857ab89053811237efa8cd403d7b331830977f6b464c7a",
+      "meta.json": "161a84e84a6c42f56232293084fccad813418f614cd6d79204472cc7152befed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/redsmall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/redsmall.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078(313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "4255fea55d29d1594fefc7868d5d4dba5d400c175bebc94cafcc058ef46e7a17",
+      "icon.png": "80d65804e27ca9862976a31c0e37f0de426379293e2c174df9ac07ceb19a5e40",
+      "inhand-left.png": "496cba90974fad9e8fc0fb4e2506895434405cf221ec16b165af8c2c79fdba58",
+      "inhand-right.png": "91b05cf639f227a549edb4f5e054e52c0a4114106d1d110f3cf1e723c5720ee1",
+      "meta.json": "161a84e84a6c42f56232293084fccad813418f614cd6d79204472cc7152befed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Based on https://github.com/DeltaV-Station/Delta-v/tree/7443161ab8f4144655f290e24879afe2ca3c7f71/Resources/Textures/_DV/Clothing/Neck/Misc/cwparctic.rsi, sprites by @bogus_0451 on discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "8ec24f8ba2f16a8c81dd457758afd611ec913cc697316dc0a8aa3c32cf9a63d5",
+      "icon.png": "8d72533e6945bdacf3692c318a0e161eb480d313315f44066e273a6198e12279",
+      "inhand-left.png": "64aeb5f827f625b5362d1e415d101abd930db774ab28ac1555bf52092de6150a",
+      "inhand-right.png": "5a1362462fd70ea0bf5167e3ee933e5402e9a17396a50d956bd589cf08160a48",
+      "meta.json": "938369413e6bd08a5e1a352c12e28c4a4dd2542ecca665c7c50bdf2a92b76aa7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Neck/Ponchos/whitesmall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Clothing/Neck/Ponchos/whitesmall.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078(313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "9fa5b3ac4e5ed011bc717793d1ee5c6ea1e5a76249440d0d4fd7886d388db5a8",
+      "icon.png": "0bd45e45bc770e0676898ca6598a077a8f3a8f3b2e405de2901100e8f5a12478",
+      "inhand-left.png": "c4d1b2d0f0343cf3e3ff5ad0219cbebf6c19c3e153cd364e7ee3d5de037441ee",
+      "inhand-right.png": "024180b45bd1c71954bd33c0438d3817d6cebd72c813c885f3f717d28a156a4a",
+      "meta.json": "161a84e84a6c42f56232293084fccad813418f614cd6d79204472cc7152befed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/Devices/gates.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Objects/Devices/gates.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite timer made by Ilya246 for SS14, modified from Textures/Objects/Devices/gates.rsi.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "6bf0c7b416ab445683fb6c286dd088f5ec45c1f24514e703eba7a13a7dcfa9a1",
+      "timer.png": "0a20273e8f662d4762ac39abf572e0808fe553d21a0cb4ec9eb5336b48077e1a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/50cal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/50cal.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "756a4c6342968d6d38e9023aab8d972ceb8e0e86bbad181fb53fdda41f9c9aae",
+      "space_artillery.png": "ce88fee4debb43c510830c80d5a66500024d806435dfb1f00dd64ea53c842d3b"
+    },
+    "replaces": []
+  }
+]

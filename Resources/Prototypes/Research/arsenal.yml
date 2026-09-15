@@ -4,7 +4,7 @@
   id: SalvageWeapons
   name: research-technology-salvage-weapons
   icon:
-    sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   discipline: Arsenal
   tier: 1
@@ -18,7 +18,7 @@
   id: DraconicMunitions
   name: research-technology-draconic-munitions
   icon:
-    sprite: Objects/Weapons/Guns/Ammunition/Boxes/pistol.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Boxes/pistol.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: incendiarydisplay
   discipline: Arsenal
   tier: 1
@@ -123,7 +123,7 @@
   id: SpecialMeans
   name: research-technology-special-means
   icon:
-    sprite: Clothing/Back/Backpacks/electropack.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/electropack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   discipline: Arsenal
   tier: 1

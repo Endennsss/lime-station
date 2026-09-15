@@ -718,7 +718,7 @@
   id: PineappleSliceBurger
   name: food-sequence-burger-content-pineapple
   sprites:
-  - sprite: Objects/Specific/Hydroponics/pineapple.rsi
+  - sprite: _Lime/Imported/Goob/Objects/Specific/Hydroponics/pineapple.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: slice
   tags:
   - Fruit
@@ -728,7 +728,7 @@
   id: PineappleSlice
   name: food-sequence-content-pineapple
   sprites:
-  - sprite: Objects/Specific/Hydroponics/pineapple.rsi
+  - sprite: _Lime/Imported/Goob/Objects/Specific/Hydroponics/pineapple.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: slice
   tags:
   - Fruit
@@ -1203,14 +1203,14 @@
   id: Suppermatter
   name: food-sequence-content-suppermatter
   sprites:
-  - sprite: Objects/Consumable/Food/Baked/cake.rsi
+  - sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/cake.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: suppermatter-shard
 
 - type: foodSequenceElement
   id: SuppermatterBurger
   name: food-sequence-burger-content-suppermatter
   sprites:
-  - sprite: Objects/Consumable/Food/Baked/cake.rsi
+  - sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/cake.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: suppermatter-shard
 
 

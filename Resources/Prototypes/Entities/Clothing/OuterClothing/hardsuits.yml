@@ -9,9 +9,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has thermal shielding.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/atmospherics.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/atmospherics.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/atmospherics.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/atmospherics.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -46,9 +46,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has radiation shielding.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/engineering.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/engineering.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.04
     lowPressureMultiplier: 1000
@@ -82,9 +82,9 @@
   description: A lightweight hardsuit designed for industrial EVA in zero gravity.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/spatio.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/spatio.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/spatio.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/spatio.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.7
     lowPressureMultiplier: 1000
@@ -116,9 +116,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has reinforced plating for wildlife encounters.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/salvage.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/salvage.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/salvage.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/salvage.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -221,9 +221,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -256,9 +256,9 @@
   description: Special hardsuit of the guardian angel of the brig. It is the medical version of the security hardsuit.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/brigmedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/brigmedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/brigmedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/brigmedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.3
     lowPressureMultiplier: 1000
@@ -283,9 +283,9 @@
   description: A specialized riot suit geared to combat low pressure environments.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/security-warden.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/security-warden.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/security-warden.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/security-warden.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -314,9 +314,9 @@
   description: A formal armored spacesuit, made for the station's captain.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/capspace.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/capspace.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/capspace.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/capspace.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -350,9 +350,9 @@
   description: A special hardsuit that protects against hazardous, low pressure environments, made for the chief engineer of the station.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/engineering-white.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/engineering-white.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/engineering-white.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/engineering-white.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -388,9 +388,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Built with lightweight materials for easier movement.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/medical.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/medical.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.3
     lowPressureMultiplier: 1000
@@ -419,9 +419,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/rd.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/rd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/rd.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/rd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -464,9 +464,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/security-red.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/security-red.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/security-red.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/security-red.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.45
     lowPressureMultiplier: 1000
@@ -497,9 +497,9 @@
   categories: [ DoNotMap ]
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/luxury.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/luxury.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/luxury.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/luxury.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -530,13 +530,13 @@
   description: A heavily armored hardsuit designed for work in special operations. Property of Gorlex Marauders.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/syndicate.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
     - 0,0,3,3
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/syndicate.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.05
     lowPressureMultiplier: 1000
@@ -576,9 +576,9 @@
   description: A heavily armored and agile advanced hardsuit specifically designed for field medic operations.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/syndiemedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndiemedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/syndiemedic.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndiemedic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitSyndieMedic
   - type: Tag
@@ -594,9 +594,9 @@
   description: An elite version of the blood-red hardsuit, with improved radiation resistance and fireproofing. Property of Gorlex Marauders.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/syndieelite.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndieelite.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/syndieelite.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndieelite.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -638,9 +638,9 @@
   description: A bulked up version of the blood-red hardsuit, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/syndiecommander.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndiecommander.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/syndiecommander.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndiecommander.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.05
     lowPressureMultiplier: 1000
@@ -677,9 +677,9 @@
   description: A suit made by the cutting edge R&D department at cybersun to be hyper resilient.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/cybersun.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/cybersun.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/cybersun.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/cybersun.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.2
     lowPressureMultiplier: 1000
@@ -713,9 +713,9 @@
   description: A bizarre gem-encrusted suit that radiates magical energies.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/wizard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/wizard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/wizard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/wizard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.05
     lowPressureMultiplier: 1000
@@ -781,13 +781,13 @@
   description: A heavy space suit that provides some basic protection from the cold harsh realities of deep space.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/pirateeva.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/pirateeva.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
     - 0,0,3,3
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/pirateeva.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/pirateeva.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.7
   - type: Armor
@@ -815,13 +815,13 @@
   description: An ancient armored hardsuit, perfect for defending against space scurvy and toolbox-wielding scallywags.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/piratecaptain.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/piratecaptain.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
     - 0,0,3,3
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/piratecaptain.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/piratecaptain.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -853,9 +853,9 @@
   description: A protective hardsuit worn by the leader of an emergency response team.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertleader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
@@ -889,9 +889,9 @@
   description: A protective hardsuit worn by the engineers of an emergency response team.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertengineer.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
@@ -909,9 +909,9 @@
   description: A protective hardsuit worn by the medics of an emergency response team.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
@@ -927,9 +927,9 @@
   description: A protective hardsuit worn by the security officers of an emergency response team.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertsecurity.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
@@ -949,9 +949,9 @@
   description: A protective hardsuit worn by the janitors of an emergency response team.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/ERTSuits/ertjanitor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     size: Huge
     shape:
@@ -967,9 +967,9 @@
   description: An advanced hardsuit favored by commandos for use in special operations.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/deathsquad.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/deathsquad.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/deathsquad.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/deathsquad.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     shape:
     - 0,0,7,7
@@ -1008,9 +1008,9 @@
   description: A lightweight yet strong exosuit used for special cleanup operations.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/cburn.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/cburn.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/cburn.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/cburn.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -1045,9 +1045,9 @@
   description: A custom-made clown hardsuit.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000

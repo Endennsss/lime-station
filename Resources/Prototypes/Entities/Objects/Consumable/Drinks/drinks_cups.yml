@@ -150,7 +150,7 @@
   description: It looks like a cartoon beagle.
   components:
   - type: Sprite
-    sprite: Objects/Consumable/Drinks/mug_dog.rsi
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Drinks/mug_dog.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: DrinkBaseMug

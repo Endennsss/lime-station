@@ -15,7 +15,7 @@
     proto: BulletRocket
     deleteOnSpawn: true
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: rpg
   - type: StaticPrice
     price: 20
@@ -35,7 +35,7 @@
       proto: BulletWeakRocket
       deleteOnSpawn: true
     - type: Sprite
-      sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+      sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: frag
     - type: StaticPrice
       price: 20
@@ -64,7 +64,7 @@
   - type: CartridgeAmmo
     proto: BulletGrenadeBaton
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: baton
       map: ["enum.AmmoVisualLayers.Base"]
@@ -82,7 +82,7 @@
   - type: CartridgeAmmo
     proto: BulletGrenadeBlast
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: blast
       map: ["enum.AmmoVisualLayers.Base"]
@@ -100,7 +100,7 @@
   - type: CartridgeAmmo
     proto: BulletGrenadeFlash
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: flash
       map: ["enum.AmmoVisualLayers.Base"]
@@ -118,7 +118,7 @@
   - type: CartridgeAmmo
     proto: BulletGrenadeFrag
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: frag
       map: ["enum.AmmoVisualLayers.Base"]
@@ -136,7 +136,7 @@
   - type: CartridgeAmmo
     proto: BulletGrenadeCleanade
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: cleanade
       map: [ "enum.AmmoVisualLayers.Base" ]
@@ -154,7 +154,7 @@
   - type: CartridgeAmmo
     proto: BulletGrenadeEMP
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: emp
       map: ["enum.AmmoVisualLayers.Base"]
@@ -189,7 +189,7 @@
     proto: BulletCannonBall
     deleteOnSpawn: true
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: ball
 
 - type: entity
@@ -203,7 +203,7 @@
     proto: PelletGrapeshotSpread
     deleteOnSpawn: true
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: grapeshot
 
 - type: entity
@@ -217,5 +217,5 @@
     proto: PelletGlassSpread
     deleteOnSpawn: true
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: glassshot

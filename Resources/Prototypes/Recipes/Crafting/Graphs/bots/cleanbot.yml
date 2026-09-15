@@ -8,7 +8,7 @@
       steps:
       - tag: Bucket
         icon:
-          sprite: Objects/Tools/bucket.rsi
+          sprite: _Lime/Imported/Goob/Objects/Tools/bucket.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: icon
         name: construction-graph-tag-bucket
       - tag: ProximitySensor

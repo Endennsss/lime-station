@@ -64,7 +64,7 @@
 - type: cargoProduct
   id: JanitorialBiosuit
   icon:
-    sprite: Clothing/Head/Hoods/Bio/janitor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/Bio/janitor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   product: CrateJanitorBiosuit
   cost: 800

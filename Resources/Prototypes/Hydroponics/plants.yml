@@ -453,7 +453,7 @@
   name: pineapple plant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/pineapple.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Hydroponics/pineapple.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PlantData
     name: seeds-pineapple-name
     packetPrototype: PineappleSeeds

@@ -626,9 +626,9 @@
   components:
   - type: Item
     size: Tiny
-    sprite: Objects/Specific/Chemistry/pills_canister.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Chemistry/pills_canister.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/pills_canister.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Chemistry/pills_canister.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: pill_canister
   - type: Tag
     tags:

@@ -90,7 +90,7 @@
   id: UplinkEVASyndie
   name: uplink-eva-syndie-name
   description: uplink-eva-syndie-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Suits/eva_syndicate.rsi, state: icon }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Clothing/OuterClothing/Suits/eva_syndicate.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
   productEntity: ClothingBackpackDuffelSyndicateEVABundle
   cost:
     Telecrystal: 1
@@ -115,7 +115,7 @@
   id: UplinkHardsuitSyndie
   name: uplink-hardsuit-syndie-name
   description: uplink-hardsuit-syndie-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndicate.rsi, state: icon }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndicate.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
   productEntity: ClothingBackpackDuffelSyndicateHardsuitBundle
   discountCategory: veryRareDiscounts
   discountDownTo:
@@ -129,7 +129,7 @@
   id: UplinkClothingOuterArmorRaid
   name: uplink-syndie-raid-name
   description: uplink-syndie-raid-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Armor/syndie-raid.rsi, state: icon }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Clothing/OuterClothing/Armor/syndie-raid.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
   productEntity: ClothingBackpackSyndicateRaidBundle
   cost:
     Telecrystal: 8
@@ -145,7 +145,7 @@
   id: UplinkHardsuitSyndieElite
   name: uplink-hardsuit-syndieelite-name
   description: uplink-hardsuit-syndieelite-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndieelite.rsi, state: icon }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/syndieelite.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
   productEntity: ClothingBackpackDuffelSyndicateEliteHardsuitBundle
   cost:
     Telecrystal: 12

@@ -4,9 +4,9 @@
   parent: BaseItem
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
-    sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     size: Large
     shape:
     - 0,0,2,1
@@ -46,7 +46,7 @@
     capacity: 1
     count: 1
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     quickEquip: false
     slots:
     - suitStorage

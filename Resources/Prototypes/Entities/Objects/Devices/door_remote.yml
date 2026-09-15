@@ -15,7 +15,7 @@
     - mode: OpenClose
       tooltip: &TextOpenClose door-remote-open-close-text
       icon: &IconOpenClose
-        sprite: /Textures/Structures/Doors/Airlocks/Standard/airlock-base.rsi
+        sprite: /Textures/_Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
         state: assembly
     - mode: ToggleBolts
       tooltip: &TextToggleBolt door-remote-toggle-bolt-text

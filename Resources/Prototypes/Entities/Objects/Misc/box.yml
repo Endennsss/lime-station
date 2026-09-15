@@ -4,9 +4,9 @@
   id: BoxBase
   components:
   - type: Sprite
-    sprite: Objects/Storage/boxes.rsi
+    sprite: _Lime/Imported/Goob/Objects/Storage/boxes.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
-    sprite: Objects/Storage/boxes.rsi
+    sprite: _Lime/Imported/Goob/Objects/Storage/boxes.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     size: Large
     shape:
     - 0,0,2,2

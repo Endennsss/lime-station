@@ -101,7 +101,7 @@
 - type: cargoProduct
   id: ServiceBooks
   icon:
-    sprite: Objects/Misc/books.rsi
+    sprite: _Lime/Imported/Goob/Objects/Misc/books.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: book_icon
   product: CrateServiceBooks
   cost: 1000
@@ -111,7 +111,7 @@
 - type: cargoProduct
   id: ServiceGuidebooks
   icon:
-    sprite: Objects/Misc/books.rsi
+    sprite: _Lime/Imported/Goob/Objects/Misc/books.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: book_icon
   product: CrateServiceGuidebooks
   cost: 1300

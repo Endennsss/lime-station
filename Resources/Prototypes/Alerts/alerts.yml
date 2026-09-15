@@ -455,7 +455,7 @@
 - type: alert
   id: Prying
   icons:
-  - sprite: /Textures/Objects/Tools/crowbar.rsi
+  - sprite: /Textures/_Lime/Imported/Goob/Objects/Tools/crowbar.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   name: alerts-prying-name
   description: alerts-prying-desc

@@ -38,7 +38,7 @@
       steps:
       - tag: Multitool
         icon:
-          sprite: Objects/Tools/multitool.rsi
+          sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: icon
         name: construction-graph-tag-multitool
       - material: Cable

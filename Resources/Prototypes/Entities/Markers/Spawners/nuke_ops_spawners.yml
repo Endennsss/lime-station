@@ -178,7 +178,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Objects/Specific/Medical/firstaidkits.rsi
+    - sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: brutekit
   - type: EntityTableSpawner
     table: !type:NestedSelector
@@ -194,7 +194,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Objects/Specific/Medical/firstaidkits.rsi
+    - sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: burnkit
   - type: EntityTableSpawner
     table: !type:NestedSelector

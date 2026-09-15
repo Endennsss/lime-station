@@ -7,10 +7,10 @@
   components:
   - type: Emag
   - type: Sprite
-    sprite: Objects/Tools/emag.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/emag.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Tools/emag.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/emag.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     storedRotation: -90
 
 - type: entity

@@ -61,7 +61,7 @@
   description: A light emitting device.
   components:
   - type: Sprite
-    sprite: Objects/Misc/Lights/lamp.rsi
+    sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: lamp
         map: [ "base" ]
@@ -70,7 +70,7 @@
         visible: false
         map: [ "light" ]
   - type: Item
-    sprite: Objects/Misc/Lights/lamp.rsi
+    sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: HolidayVisuals
     holidays:
       festive:
@@ -123,11 +123,11 @@
       enum.HolidayVisuals.Holiday:
         base:
           festive:
-            sprite: Objects/Misc/Lights/lamp.rsi
+            sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
             state: christmaslamp
         light:
           festive:
-            sprite: Objects/Misc/Lights/lamp.rsi
+            sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
             state: christmaslamp-on
 
 - type: entity

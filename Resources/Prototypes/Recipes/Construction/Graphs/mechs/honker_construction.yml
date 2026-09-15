@@ -90,7 +90,7 @@
 
       - tag: ClownMask
         icon:
-          sprite: "Clothing/Mask/clown.rsi"
+          sprite: "_Lime/Imported/Goob/Clothing/Mask/clown.rsi" # Lime-Edit - текстуры Goob с сохранением лицензии
           state: "icon"
         name: construction-graph-tag-clown-mask
         doAfter: 1
@@ -101,7 +101,7 @@
 
       - tag: ClownShoes
         icon:
-          sprite: "Clothing/Shoes/Specific/clown.rsi"
+          sprite: "_Lime/Imported/Goob/Clothing/Shoes/Specific/clown.rsi" # Lime-Edit - текстуры Goob с сохранением лицензии
           state: "icon"
         name: construction-graph-tag-clown-shoes
         doAfter: 1

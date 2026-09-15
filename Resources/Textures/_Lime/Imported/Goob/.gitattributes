@@ -1,0 +1,6 @@
+# Lime-Edit - сохраняем исходные байты для проверки SHA-256 после checkout
+* -text
+
+# Исходное форматирование сторонних метаданных и текстов лицензий сохраняется
+**/*.rsi/meta.json -whitespace
+LICENSES/*.txt -whitespace

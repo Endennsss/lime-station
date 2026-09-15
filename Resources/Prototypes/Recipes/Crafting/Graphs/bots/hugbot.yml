@@ -8,7 +8,7 @@
       steps:
       - tag: BoxHug
         icon:
-          sprite: Objects/Storage/boxes.rsi
+          sprite: _Lime/Imported/Goob/Objects/Storage/boxes.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: box_hug
         name: construction-graph-tag-boxhug
       - tag: ProximitySensor

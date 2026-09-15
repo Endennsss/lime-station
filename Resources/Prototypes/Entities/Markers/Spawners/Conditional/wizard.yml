@@ -7,5 +7,5 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Clothing/Head/Hats/wizardhat.rsi
+    - sprite: _Lime/Imported/Goob/Clothing/Head/Hats/wizardhat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: icon

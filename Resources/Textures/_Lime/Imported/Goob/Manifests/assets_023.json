@@ -1,0 +1,940 @@
+[
+  {
+    "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/jackal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/ShitChap/Objects/Weapons/Nullrod/jackal.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken at commit https://github.com/Space-Stories/space-station-14/commit/9f417bc5b0e90d5d45ed7f0fd3dd84e070770672, resprite by VictorJob",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "7dd69f161bbe1ab61fa4e757aa33bcde6f1299824f079fcd1393605632c6d1a7",
+      "inhand-left.png": "f4fada1dff5dcf0d69ba08841bb07c5ec07986faea191c569c6056a51bf29bbe",
+      "inhand-right.png": "b7f9a69c931fe16adaa0f029acf034a298721c0b2c683c613db9ff1d22d607cf",
+      "meta.json": "c3d8c239c9b5169667116d31d7eb5bf0bbe6145f812b273f8bb2d6f010f37964"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/monkstaff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/ShitChap/Objects/Weapons/Nullrod/monkstaff.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/49264/commits/c9ddcd603adeab3822c2845f6be9dfb53452c119",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "a992dc367bbe83e996a6347f07c3bb8facce38e0f2bc2f8394e8fc1cef901e01",
+      "inhand-left.png": "94298ca08a9acb76e9fe3bb11ee72d697445865cc55b2d3255c833d5ee0ecebd",
+      "inhand-right.png": "883a57dd4e607ef599be6fbdd272f9d2534e62b5b1513afedaa9052e6a28603c",
+      "meta.json": "dde12935ca87c769b6980f2adb495895105649b0f16debe8969527db4b6d34ca",
+      "wielded-inhand-left.png": "86b76fe76ad1d6971b58ffde1c78358db9e90ba86847cd3b1370b96c0d2dbedf",
+      "wielded-inhand-right.png": "86b76fe76ad1d6971b58ffde1c78358db9e90ba86847cd3b1370b96c0d2dbedf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/nullrod.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/ShitChap/Objects/Weapons/Nullrod/nullrod.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station at https://paradisestation.org/wiki/index.php/Chaplain, Resprite by Invisible Snake",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "9ddc7820b56b72551583062ffa38042193bfb6bd4dbf6f51f0d46ff59be6f4fe",
+      "inhand-left.png": "54699f6bbf96d6a116aec56744a3d9913eac91bf1d50b7c8f6e0c71c17457ad8",
+      "inhand-right.png": "304b037fc10e9cd5b05c5124286179ba039110b101086840fa8ca06a8bb4325b",
+      "meta.json": "a5c88007c6a94ade15c8cfecbd7f31d5d105449f6629ef3cecd133cc03c07cbc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/ratvarian_spear.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/ShitChap/Objects/Weapons/Nullrod/ratvarian_spear.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c, equipped-BACKPACK and equipped-SUITSTORAGE made by Aviu00",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "871bcef6cce3c0622af5905e2e9fe79873a5ff56973b3eab3d3f490e6b392102",
+      "equipped-BELT.png": "41c5b6afe32fa80bf16ca5a9efdb933f89cd4a59c739cab123c22a928236c55e",
+      "equipped-SUITSTORAGE.png": "871bcef6cce3c0622af5905e2e9fe79873a5ff56973b3eab3d3f490e6b392102",
+      "icon.png": "387c7017559995a4ce5617998440785ff27047aede22c23b2dcad8fabc169891",
+      "inhand-left.png": "a877bb764523881852e08e40f1929900a97266e99e3563d1fe7f21fec697b841",
+      "inhand-right.png": "a8a9e22a7a85411b965b8c80836378dde5030b8219d7d861b96232ad6533c334",
+      "meta.json": "9f92f76de1da83f9bb4a164b5d4c98fc2331404e771c06d66fd7f7861bc2bc1e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/rosary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/ShitChap/Objects/Weapons/Nullrod/rosary.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at commit https://github.com/tgstation/tgstation/commit/6cdc0503d32e249125151e369edf951e93bccd1a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "27d292dc8b8b6b34344dd29a162dac85c6450ad83ee117e623f28cc344e1d4e9",
+      "inhand-left.png": "1a3003ce241a88837ba28e2439432f90301e4fe2692d8cff90021ae157622a6d",
+      "inhand-right.png": "a955dc26c3333bf263390b61e3d3cdd456eb5a908c18a8e614e55edaf5e36bbb",
+      "meta.json": "f17045c1adf16fd4eaebdbe1b8f1fc586a648be7469d6adba813f1633632801e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/uristhand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/ShitChap/Objects/Weapons/Nullrod/uristhand.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at commit https://github.com/tgstation/tgstation/commit/6cdc0503d32e249125151e369edf951e93bccd1a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f8cfed6933288b8081d84fcabf5e385b73b125565ecdd986fcbfba11bc80db25",
+      "inhand-left.png": "972a1e7a13c2689170d499f34d62fd4e91a50f87d2bc80cb89e2f6946417d84e",
+      "inhand-right.png": "d7544faa772274e52ae6d029090e151a65b55d691b576a6a093b23291b122620",
+      "meta.json": "f17045c1adf16fd4eaebdbe1b8f1fc586a648be7469d6adba813f1633632801e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Back/Backpacks/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Back/Backpacks/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by gabova, modified for goobstation by LuciferMkshelter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "a46cb0d210e88bb16dd1c092055e0ad18500768a9701e00d9e98be77ccbeed4f",
+      "icon.png": "8ffb204dcad578a040531d8dca81c8a4ceb58befc0153bbfe93e4b54bf94a587",
+      "inhand-left.png": "01527eb79c48f72eeeaf6a05239c4cd0bf6c0c7e3b41e91806b6bb137bac054a",
+      "inhand-right.png": "3ac9f96380db1a2e1fddcfa0f867d890cff92848fcdee718ab434861754a73da",
+      "meta.json": "84ad5c2af0535b5842d0bcad71334589b9652f184e3f9caf5314baa3eb226284"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Back/Duffels/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Back/Duffels/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "b10f1ddbfce3318ee52eff542caa7a00d3d711e17ee4879e2d854bf1a2ccd608",
+      "icon.png": "95261625c63c0aad359ed6995b76240120ce7e12c526f1e08a42852ce832bb7b",
+      "inhand-left.png": "d6f701effd0ffd442ac537b09b1adf2e7fb04a5582f5da0415dd654f3a71159d",
+      "inhand-right.png": "8f354b781bba66ac9b949f37f2f8d9ed2a4f8a518bbbe99198717209e8120e8b",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Belt/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Belt/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Velken, based on the Chem Bag sprites from ParadiseSS13/Paradise at https://github.com/ParadiseSS13/Paradise/blob/ebf9a7b5e89f5523c5e1c3d2692bf54dac322cae/icons/obj/chemical.dmi. equipped-BACKPACK modified from equipped-BELT by FairlySadPanda (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "cc7e2034561fb89ae74f41ec65d1fa41bb5edb77c4ce19cd212c592c149cb7ea",
+      "equipped-BELT.png": "3347705178dacf9ddcd0c65bb7f4cbb36e67bfee692f867f85f54c4ac5db0960",
+      "icon.png": "ff1e7d76d39dc10fdcf4eda904dd7aec186c679acf681a0bdd42535daa3f696d",
+      "inhand-left.png": "2c27afb1835365ab76eb99043916b4575d31cc8fca47129bd4064b2ed0e44dc3",
+      "inhand-right.png": "c4fa969ee430884683bd899d6a29204343ce920a4a657492eb7d1af01699897b",
+      "meta.json": "712aae00e2a0414f24977fe5640d9d7ffe2ea568cccc41786f95dd9c6b72b604"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Ears/Headsets/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Ears/Headsets/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alt-equipped-EARS.png": "a99262088ef190aef1ffb19ba0f06930a5ef82ef725d4deb88c6fa735978484f",
+      "icon_alt.png": "292d6b5b03723eedd3d4862580370bcd15c8c936ee9059eb8778cc3e4c145647",
+      "meta.json": "7dc82f354888a64ec9208a5d9bac792f7a2ab94035cc2a8bd400e0f41010c67b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Hands/surgery_gloves.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Hands/surgery_gloves.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from atmos.rsi, edited by LuciferMkshelter for goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "97ab63186952aa49e2a2ab45a5f22d9fe339c58728fab1b3a96c8b6776d5c013",
+      "icon.png": "7db56adc34b302de3ccf01a3bc9d12c6ae8c9194fb1a4b2c1e87f66ce244a726",
+      "inhand-left.png": "f1fbd1d76990d23315ac610dbb4b525ac0f098aad67350e9518fcb3e1185eb8e",
+      "inhand-right.png": "23993f89340346146d08ae604d6b2d03da09ec9ef9f17251c1df1b5a9d95ad59",
+      "meta.json": "ca4af893bee1639eeb9e3b65dbfc4a6b8cab518b61687fa3e6e5a42d7bc769e7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Head/Helmets/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Head/Helmets/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "e37a95016875f515deacd827fc3465acffd5093c207c3e8dee458c828b73006c",
+      "icon.png": "e4f05ce8665a217c6b9b7b26623110af3eed0906fd7bcbcee16be0388d8cf2b1",
+      "inhand-left.png": "24e1cd186d072baa379c61f772beb303ffa1f959544155283e976f32bdc3813d",
+      "inhand-right.png": "f1caf1a5b0b7e89a38fa0be4499d8cacbeac93de2a93d0114e1265156aec076a",
+      "meta.json": "86f3e2b65b6ca52978c63cd6faba2e4f18d37a90bedadd78f4723bd2da24f22b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/OuterClothing/Armor/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/OuterClothing/Armor/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from ParadiseStation, inhand sprites by LuciferMkshelter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "combat-equipped-OUTERCLOTHING.png": "75090090b9b762b648129a6bf8a7e99d353e4e44916bff5b984ac9f79e9c4270",
+      "combat-icon.png": "d7dfd9bb235f68be017314de6fa50f500259fcc237d87bb257136360e9157d73",
+      "equipped-OUTERCLOTHING.png": "6003b83c0291e0da535cef3ddc862869c1caf874637fb677cfab9e4a64c7f1bb",
+      "icon.png": "074b98d54155ae212936e64e716bfc51c7a6d34f00b825215427a59cf2850712",
+      "inhand-left.png": "64fdbe8d459fd0a846949586009ff63278455c7b6c70eb1179cca5cd5bffc66f",
+      "inhand-right.png": "9278242e33e5dd5491462987159696bff93900f896da950341942da5976303df",
+      "meta.json": "bdb9d11f7636b9299897087c7e36775be368ca760b1d15f4745f629560349884"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/OuterClothing/Coats/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/OuterClothing/Coats/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, modified by LuciferMkshelter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "8088cf212b28cbdd02f1d2bf23e45459329493275e013abf50e74d9d9f5be6d0",
+      "icon.png": "773d448c51b6c99d6c75a7d82b7200ad53b3e45c73ece7ef5910621376c76b33",
+      "meta.json": "cb36dbacc65b510e1ab5ef46f49468fb27827407fa8d4436f13bee0d729a8c93"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Clothing/Uniforms/Jumpsuit/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Clothing/Uniforms/Jumpsuit/abductor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "75cf5f24688638fcec82ecf5e29ca84df41103aa7ac364cffb7c28a8ddcddf54",
+      "icon.png": "a2871ca37602e190d5a9d06ede1147a30ff33901cf933351ffd9b9043a8b4ed0",
+      "inhand-left.png": "28341e95959e1afcb638365eefa782c90d0e2832234cfe86ff0e056b43bccf9a",
+      "inhand-right.png": "b2383450daa570023bd5b0f3dee1ebf8571b2613ccdabb4ad3caf02785b59658",
+      "meta.json": "1fa7f741c6d5afe5226afc5574f5969dd14da5c0fbdb6f23a69a81b6a807901a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Augments/arm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Augments/arm.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from /tg/ station at commit https://github.com/tgstation/tgstation/blob/c7e20fe50f0185e7f1898b518ac8715c47ac56b0/icons/obj/medical/organs/organs.dmi. strength.png modified from surgical.png by deltanedas (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "aa0ffaa2c899d7977498d2125514b80f85ffb222f87fad49ad88c37d50ccfa1f",
+      "base_cables.png": "fa1d2923d1c636bdec11a552bf56bf38be5cf094e38aa9b034e58aa57f64b5c5",
+      "botany.png": "6652651722525d5e90379d197170bfb41d86d6bc55bdfa46d4580c344b2a9198",
+      "engineering.png": "cd339f23e6eae3ea9826ec6bcb6b9e67756af3e6edf1c7aa09abab82cae15e18",
+      "meta.json": "c644c017dc8e163ccc05f0389e938d2d4fdd482510c73a34c46e9c6bab830a27",
+      "paperwork.png": "5df42736b4361e790ba8f9855f93a439a546fae096d910aca828d8fea9eee882",
+      "strength.png": "3984373b1a403116e00ff13954748dc69674732386f1c2255e7946ea0e7fdbee",
+      "surgical.png": "5fb9a5606b99dbda1f1b6d319a671e7d371a0b75921ba15ad12726614dcc6ff4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Augments/power.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Augments/power.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from /tg/ station at commit https://github.com/tgstation/tgstation/commit/02756c2bc2cf3000080d030955e994242bab39b5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "apc.png": "482899c92395c8e7af39e19ad76347c3e5a8a7255ebee3f13164e8798e80ab60",
+      "cell.png": "727b36e4d62ce17dc18df607cba236a4818093cf7cc5977ef39e01b75bb22ddb",
+      "incomplete_cell.png": "dd9b7980eb8442514338e26bbf54ee92aeaa7a6ee7182f52f24599d561f2ed08",
+      "incomplete_cell_cables.png": "014461c12d179433054a1505636f2d033f47633bd285fe48577b32b315cefc45",
+      "incomplete_charger.png": "53d1199bf04c041ad7f933609c267af6634dc44cb9429bb73caef64e706b5463",
+      "incomplete_charger_cables.png": "b56ecf4ffb51818c19a03e51c79372759b21385d270e2951a6690aac4d9978cb",
+      "meta.json": "0ea4bf3564c2d40ee0510002b4d5b063061758d3b90755c3cb017d248c43c7e7",
+      "station.png": "9436d5b808471d97108ff61d5784f28c21f6ee498cd94f41ef665799eb1ad63d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Misc/gizmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Misc/gizmo.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taked From tg station, animated by darkrell",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "6a4b8b1a2c6a3a961bef7fa2820eefff294ede9c1e94dc1c13064d922c3cfdbc",
+      "inhand-left.png": "0cc082672bade4592434cf5387bdcc0be9b86210dbbf4a318c77b4e689678463",
+      "inhand-right.png": "a4ff1b4baefa53abb5660d651d0459d46e2bb2aafaa383362ed91dd6a1e107e2",
+      "meta.json": "20815ac440e28aa8ab2ae811c35700ca52ecfba01b4af00b8fdb24f0a4fb603c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Misc/handcuffs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Misc/handcuffs.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "darkrell",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "body-overlay-2.png": "e42c97b277ccac4dcf57e3dc17039717e16865920a7bff8b1b8c8f118c2ff2b8",
+      "body-overlay-4.png": "6aa71012293bea3e27273975a837d9c816f9a3a4c937465b0ebaa66602083ad1",
+      "equipped-BELT.png": "e9f3e4e20508159d815e213ea4d5b9738921dad2790b2f5a19b456f6d24df225",
+      "handcuff.png": "7bff4ebb8405fa9d77d855c141bf98ff8ead797525b6bfecb2ab461ba62b0313",
+      "inhand-left.png": "bcbd0d96c3c718293701306a7daf9a86db6b8c1423b454e42f53e89ba6b86324",
+      "inhand-right.png": "4a2314b84cf025a4248f43f2e7c8b7467fd6f904bdeac461df41c279a7d58026",
+      "meta.json": "95fdc886d48500e901c307fb82c94f47ae1966128268697106efbdfe8d8926c2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Misc/tissue_sample.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Misc/tissue_sample.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Codersprite by deltanedas (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a63a125c89e8a55403933d2dbfd7da105d9b1cc75ededc411a68dc4f202402aa",
+      "xeno.png": "b0d825c5d3e698e880b2fe0857f2b9f084407410d22e9f53fd6e61cf9f86f4c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Abductor/crowbar.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Abductor/crowbar.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/199fffd989d6f7fd6ea9c5188c875137df4f34b8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "4e743d52e1aff87bae26b2b48d86ad6011638f93847b51c644ccb34401c7bd46",
+      "meta.json": "ccd8215fc91804c6e582e4e080ded05249fb750c2b1b523fe13e74a45e81b1a1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Abductor/multitool.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Abductor/multitool.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/199fffd989d6f7fd6ea9c5188c875137df4f34b8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "9fda7386d1849f8539f98915fde205288368cc787e75f93bc642957bfd92151e",
+      "meta.json": "40fb22e3796ba25228288c575e23e49dbd1fb44af589247fc9140e61fdcc957d",
+      "override-abductor.png": "ce89a54c63c65cfebdd1a28019ee8eccfdc40488536b50da7cfd951e33b2d3b6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Abductor/screwdriver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Abductor/screwdriver.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/199fffd989d6f7fd6ea9c5188c875137df4f34b8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "9a05c99cd2de731a61a32040c7c717e49b7d9d4cdd19e00531e5303a975ea2f8",
+      "meta.json": "710b8b7394493eacfb6b5135248060f726a413ced1ba929083a24ebe7464dbc5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Abductor/welder.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Abductor/welder.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/199fffd989d6f7fd6ea9c5188c875137df4f34b8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1287eeb68a0e3d1ef13dcdaa3bf0622bf1f05fb7652344efc461e2840da63661",
+      "inhand-left-flame.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "inhand-right-flame.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "meta.json": "6ffe661178d584e6d7544b2f0f3a59a3adf3c43507167d854d230df9e12d464c",
+      "welder_flame.png": "d16766d875983742ef7b50a5880271ec2b5f19c149a04e3a3d5e3c01b4a35971"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Abductor/wirecutters.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Abductor/wirecutters.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/199fffd989d6f7fd6ea9c5188c875137df4f34b8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "cae0d023d015c587a092c1dca13c1654c4dde7f4a0977010fbcc0f6f012b9b5a",
+      "meta.json": "8ae2651d6ad0e2d41a475aed9c08bd581cf2faf42fbb1eaa605feae79c851b53"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Abductor/wrench.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Abductor/wrench.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/199fffd989d6f7fd6ea9c5188c875137df4f34b8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor-equipped-BELT.png": "b6f4e774c382bdc03bd70674ffed3d7d541dcc42f22a7d49f6e71ba0c46fc2b5",
+      "abductor-inhand-left.png": "cb9caf28898f9860b33dde0110fa53c24a81a2af825ac1db849f345a7a9ebef3",
+      "abductor-inhand-right.png": "39ee8831dcc63a840ddfab40c3d048c6a103dfffae185b693c057798299a2c4b",
+      "abductor.png": "a376e0877f629edfe6496d27b7792d4f5ffe0b97dfc7695ba9fcd119157b01db",
+      "meta.json": "53fcf1f0c1854bf884af381e3118d6e009ae7e292729b769486306dee353d002"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/adv-retractor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/adv-retractor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "adv-retractor-on.png": "314d26ba3038ac82d35bc0e8f6dec52464dde6c913d421afc21cc10202ec92ef",
+      "adv-retractor.png": "ae8a107d11b718b4c42f9aa1af4192528090c548aefb0003608f36d417775245",
+      "hemostat-inhand-left.png": "05dae98578515a83db5f31bdf1d7fcb7dcc55a0edb13d23b214b5abaa3395e0c",
+      "hemostat-inhand-right.png": "a38b82b7d7c9fb8739f73324f2734fd2ddfcc738ec6e468f0a9fd143bca4e37e",
+      "meta.json": "5c368af34f7976f177956e8b37b204b523c4974021a9dfb98687ca197c5824a9",
+      "retractor-inhand-left.png": "0b871398a18099a24bb8623f354133ef32d5df85a560b6f9e0e4c37525ccacb7",
+      "retractor-inhand-right.png": "4651dc8af0b5da50100bc6e97d7b46ff716e943909d5ea2abbfc0071eb12f2de"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/bone-gel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/bone-gel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprite taken from Paradise Station at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "20f2a619d4326ac407b20990a1724368b1efc935690d5cb9dde69f5eeefaa3b4",
+      "bone-gel.png": "e23d9fafac2d54d2d01ed71ab6dd168522f15bed23643a16d1f190ec6e59fc5a",
+      "inhand-left.png": "8bfd9b78128bd254545995a390d2ff875119782cb7f4feaa98fe96fd8a15c5f6",
+      "inhand-right.png": "90e4b5c1a33d6376e09080eee55d9933b218ddbb750b76c885162dbc8ae9b623",
+      "meta.json": "9e9ca37a78d3f47e730d3f1d53259c18dcab610341b5eac6f5067e392d72b37c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/bonesetter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/bonesetter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor-inhand-left.png": "7ea4c5187ea0534fda7119a470fbd1cf3986d7efa5abb36b0bc423e0e0177b30",
+      "abductor-inhand-right.png": "f0e86acee2800bb5db82b9438414c953f913fbbb8e5c480508caf4d8b388e7be",
+      "abductor.png": "cf0e532c03bba6afd9b82d28da5c40e73b208e8ddfccbdd63b7f12feb98aed21",
+      "bonesetter.png": "8ca945369892b333be161abdd248f755fb03ab80120cdf6d307c4545e5c16485",
+      "inhand-left.png": "8218f5489a6c64df8a8d3c26dbd44dd4a27c487e38596320b6b797a72111c171",
+      "inhand-right.png": "c2a56309ef275be60b9d1e8b601eb8be7d2d843aa14a6f11a74bc617ea6bf029",
+      "meta.json": "157f8444c594b5df5adc7c0b0c6eb651b1fd94b8316a32a99e8520689edce8da"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor-inhand-left.png": "24ec4e54f4e0a9edc3417bcb8dbf8ee12b4d230ba012a57b4c44cad82c93cc98",
+      "abductor-inhand-right.png": "1ab08a10f506cce387a8217104c6276f37bee92f72398ef2b5993e3c20dc4a97",
+      "abductor.png": "12b6ec6b610e42a8425e2ce611cb8ca77bd9a5aa98dee6f88f10f4ba2fd8aaf3",
+      "cautery.png": "278b9f38dbbb0e150f344463957d026e142a61cced5ca58465f67079a6b74d91",
+      "inhand-left.png": "4cab16cbbb33ae88fa7f476129047dc6dbd7cda026d9023b9e80b06fd4e50de3",
+      "inhand-right.png": "ba92faffced255ab04bd5452915266c2c15ed9073634f836971000d63d292c04",
+      "meta.json": "6358388e957c141ccf5873cbc5c6e00cdfa63cf144121348e63629f9386fc696"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/circular-saw.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/circular-saw.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "1d201d1921564ad873c49cf881f2e22597d95e14f961b925cee47195b8cd91c5",
+      "circular-saw.png": "4677936fc796017161b3c419a0b655f17db0a481a92c109da24b243a1df27ebf",
+      "inhand-left.png": "4b084dd306ab509a06e97b466871b98005a2a4f3881a996c900621df8d3dbd24",
+      "inhand-right.png": "dd177d17ad5445c540006670493fbfd752bf4f5a6a96e38f03312511fee4aa89",
+      "meta.json": "898ea970d9c5104d17fde2a325cddeeb04d072eb571a20ba49666bec09feffec"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/drapes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/drapes.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "drapes.png": "18153c017377de043706022d190c068030f3860193e2d7c564a2aaaaafafee83",
+      "inhand-left.png": "1708fb5faf5a8fc1b1c18a4b24a0ebd10151c6b528d7f89d16df5cb5b0cd8804",
+      "inhand-right.png": "7b51c06d769c746cef002dad5fa80ea7335b43d28b4b99714c1e9ff68869e59b",
+      "meta.json": "f5f56823ec3181473f1a8441ed9544842009413d30dd6b406951fe9ce6dfa920"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/drill.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/drill.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor-inhand-left.png": "fe921ee90b54d085ebb6b3833a3bc394dbefbb80543af26beae81f5a8c7d179b",
+      "abductor-inhand-right.png": "d3cbdf8fd3665aab0007a14f0e8dd2207bd1ac2ebc8b926293820534ecd9655c",
+      "abductor.png": "fcafb826d5aeb65eb7a2252600b63c092b0076878585ce59b26c8b31860038e5",
+      "drill.png": "6055ccf487ad0a84de633e2accd9e2017f2432a22c47f21b041409f1896f2f6b",
+      "inhand-left.png": "37393af3635deb9154898b401c54bcaaa66ff7a4a468acd1becdf09b9476ef05",
+      "inhand-right.png": "770e386ab2b9d34df0b42054269fcc1aa4cb1bb0c454390acb7468b675ec5464",
+      "meta.json": "27a68f9c581750e4abcca8d2fb4402b7827b8496d8cd5648ae8742a854676f9a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/e-bone-gel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/e-bone-gel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken at https://github.com/tgstation/tgstation/commit/9d69f972676bbdcb2087709370b3a354ab25cc5e and modified by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bonegel-inhand-left.png": "eb1c42d70e12264d1803842eab66c32d59dbfccbe9887c265aeeb91d1356bf2e",
+      "bonegel-inhand-right.png": "ed2e029f14ccf99702967eb69dde0b379a25287888a60dff27d0eedbf7d753a4",
+      "bonesetter-inhand-left.png": "f313f0bcb540fadcf21ffa1f1dad405ec0092eb7643dd13aff537ef183ee59cc",
+      "bonesetter-inhand-right.png": "282120d056171afabb67904fb68ab27d677791012f844996498f6b37583ac1fb",
+      "e-bone-gel-on.png": "1e4a1efa5ff64bbceeaaee4b948aa5363bbd087a1a94b03ff701778b98d76fcb",
+      "e-bone-gel.png": "9c57a531233c016bec073cd5d62ca27e0d0cc7c233bce47d3b1037330e087149",
+      "meta.json": "6acd12e3e74bde410931dadd88b200712c5cecf356f857eeff9d3678848f9c4b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/e-cautery.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/e-cautery.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cautery-inhand-left.png": "752c9822a471acd959c52d5069ecbb7a41ee6e8df74081e68ca7e6835143f9d2",
+      "cautery-inhand-right.png": "4de0958d356a7aa98e1b490a66e04e7da27676781f77598a8777a6babf2aeba3",
+      "e-cautery-on.png": "c51e75b567b9d41ee9ba25f2077a10e5866e1c794630051edf2dc822f43f22b1",
+      "e-cautery.png": "52265b1777294b915e7786c116d4482b544e9eb92f6db1a0766e7257b4673adc",
+      "meta.json": "c6a4f7cfc1f16aa7a9b6e7e65d2496b747d4e7f5b808efa1eb9ac1137bffe98d",
+      "stitches-inhand-left.png": "69fb1b6cec014dda3eebf5fcad1ff4ae1656e2e8be940e6b576d822a172ed03e",
+      "stitches-inhand-right.png": "b233ed915e3f238a724c3928c18b6c761d9f09dff0223e225fdd1802997afa07"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/e-scalpel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/e-scalpel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Modified on state taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "drill-inhand-left.png": "aa327fd3faae140778d1f65a74b6bebee2a68bdfc6df091908eddbebd8326036",
+      "drill-inhand-right.png": "28ddccb85388faf0cb7c6174097e03524c3498c8f7172c83d08aa5da19d27a9a",
+      "e-scalpel-on.png": "e1e25d184aa41f1126583a348bf2da7789ba94f68ba498dd52b2519935c95b8c",
+      "e-scalpel.png": "2d051f6620e39456ebae091c94f96d1c28c66849196b0ae8943e8aba38a02ced",
+      "meta.json": "c1d52c686a7668f1c908a39f9beefe2c26c4c3e97e868bb01ef9f211334d6c15",
+      "scalpel-inhand-left.png": "47c3be6734c3a75357ddec7d6fafafb8d9c08c3725bdd4ce1e5631e0f5685c2d",
+      "scalpel-inhand-right.png": "2a034c8d27ae8c89bb95a1d9a6718d7ad695bae8f3e1e03c48cc25d924fa341b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/hemostat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/hemostat.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "e6ab72aac714c042c4fdf7c2f8bf5d002ae002ba9a266a92ac5006663cd57de9",
+      "hemostat.png": "522b2c2ce8b3263972ff0c9b6a1981417cadba38c2b8c6cc105ba0e96de83fc3",
+      "inhand-left.png": "683acbe832acbef88dcb181684f9a9197d79a4eb4a309dc6e3f8417b3739dfdb",
+      "inhand-right.png": "2d5f708a2354b3cbbfc3919a4c4213ba0cd8181b928dc6e422006c9f01a1463f",
+      "meta.json": "080dc2e1e871c227f47b3f29e2f89f43125849049c3c4360728d7d6db99ee90d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/manipulation.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/manipulation.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Aurorastation at https://github.com/Aurorastation/Aurora.3/commit/ac435b98e2d0a455ad319dca3bb9bfdc0cd8b051",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "insertion.png": "4efdba00c18135ecb4974705132e274aa680deca808dd6d0ad73f17d58434397",
+      "meta.json": "e33dea6068f94fd9489cbc5d24f7bc057804795a869d3eb2873a592c6b308d17"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/omnimed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/omnimed.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/commit/b7c3ac536391a3dfe3046f3b5197721af4564d90",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "evil-inhand-left.png": "7d7050e9d359d6ace0e41f5cbbae015d5242bfd4d80b52fce046a82d7929ee42",
+      "evil-inhand-right.png": "9def39b97e6e6128887145b67aeafd32b2cadbb9e57d24864e3f3e2e06b2b045",
+      "evil.png": "55fa0b6fd8f943ee2e1a332e40ad91f1e5d7c3d99002922873975fdec4cd5930",
+      "inhand-left.png": "c33c85e9660491f2570a35c9584fe0a70806b28ce1c30e7d5557e93f56277b70",
+      "inhand-right.png": "cf1576fa941ed1a19ac9bd07660cbe85f9d089cfb81f9fb0221e2d13a506d953",
+      "meta.json": "1ba30d008ce422e0d053ca6aebee12923747479012503be387ffaf21a3d68b4b",
+      "omnimed.png": "a45d08719e9ea9210c2b813dbe746e3dda56611adfd7af5c25032065e2ad5e7e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/retractor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/retractor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor.png": "2ff67ce5f4e696ed54374bc40e90f9f513f997064f3302a7b85de0df6c3868cd",
+      "inhand-left.png": "a634b303fc01bfb36727c30863ca70b50063f38e22a575c852efa0ec062f5971",
+      "inhand-right.png": "dc8444846c9c5941a12d28335296d41306a40763edde250d4a4588425407a0e4",
+      "meta.json": "845a1fe03ed269f4ed5f639099407e7f46107029877b83cecd14e6e34f042654",
+      "retractor.png": "aa7ad1cab41c4a518debfd607ee85cc30f49ea948d3dd8d8f1c467b002b948c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/scalpel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/scalpel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "abductor-inhand-left.png": "fc14318976e6e108bbee1111d0af6332f82501c15e5417d8cfb5a4a7342faf52",
+      "abductor-inhand-right.png": "dbe14d57e7377d56830577399eb3c3a160b279aad2f5e4cc7689c023fb2ad84d",
+      "abductor.png": "906e5f4f47c721d8e930c23dc41b8cd7e51d5904e3d4c5efa96c48ffcc7ebcba",
+      "inhand-left.png": "d0f67fc08941e7aea034360c18dc9057a7091184de920bb505571dbf2d969576",
+      "inhand-right.png": "cd8fde8efbe143629b577fc070563280e9c9356d1c6dfd63ae674d7267425464",
+      "meta.json": "381030942cdd8dc7b0fbcae677c20753558cbf7485d938f1c999243a0070c581",
+      "scalpel.png": "c82798a7e854d0e9f657cb95461bcb0d36bbc6c9ca597a736294d4d1e71c97f8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Weapons/Guns/Battery/alien.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Weapons/Guns/Battery/alien.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "2e81005f017300e30c1c127a2d16c6b2a5fe348da2412588fa4e009f88fa7f5f",
+      "icon.png": "6efdff546ef439721865bc35eb6eaa46b0c52699c6278b6fa84aa8c36bc41834",
+      "inhand-left.png": "da8b295723f4bf136d31776fdb769c9db349f05bddd54ae092b106740f36d5e1",
+      "inhand-right.png": "ba60f1b8ee9d0e6fc8cd77c338897c027b1c082a97b87c2a221b69a554e4ba76",
+      "mag-unshaded-0.png": "ab70929b598fe152b39f71653359dc366d13b03b85bebadc9b13294496112521",
+      "mag-unshaded-1.png": "e35e56c3768eb915aead68ace4ad47c6eeaaac177161c89510124c326d7d7cf8",
+      "mag-unshaded-2.png": "764bbc8b58918353dcffc2959eea69e98fc893afb65165babd071680f85da1b0",
+      "mag-unshaded-3.png": "6fd97e07d94f3781c8f0657b0e181cbf6746ce4d2c1723409200601d72748dc0",
+      "mag-unshaded-4.png": "49e0dc8877bb595b5109b23038dd016046b488242f2e8d23dab7e1b91fef887e",
+      "meta.json": "898da558e97ec6d711c1f989ccaa19dc79aca500046b60e733080b4191878583"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Weapons/Guns/Battery/decloner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Weapons/Guns/Battery/decloner.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/27386/commits/4814da0f8e0d88f430c8b335e541e0a7734755a2 backpack sprite by Peptide (copy of pulse rifle), backpack sling sprite edited by Boaz1111, wield sprites by RiceMar1244, modified by LuciferMkshelter, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "01a455030f30140f6b94e33a7252eb5bd06f1a01daabba46cfdea0554b2bf774",
+      "equipped-BACKPACK.png": "8a6e3c2c284eff37d6b02a2be8e33ea473f927bd34e06e5a9517dfeafee145db",
+      "equipped-SUITSTORAGE.png": "8a6e3c2c284eff37d6b02a2be8e33ea473f927bd34e06e5a9517dfeafee145db",
+      "icon.png": "881903f2cc7dba22dd6d3610d38fe67b5323a1c375b721ba039857df9bb595ac",
+      "inhand-left.png": "3066a24cc70f4fd1e72e04b5c4d0ed56425a3111615548a87e9d6273241ba06b",
+      "inhand-right.png": "13d24797d1d69cce565704a87701998b9d434f8cea5c948b31f4306203c3aab6",
+      "mag-unshaded-0.png": "54cb7d64dd333acc15d5840d3cdb3610b1b2104f490ea4cbe6bdf38af08a12f0",
+      "mag-unshaded-1.png": "e929de9608d168236d0d72214373410752bd8898df2713d97b6d11286bea27ca",
+      "mag-unshaded-2.png": "0199a8355084b3599707f038814cd4f98098626f99b02171fd7d003b49058b1a",
+      "mag-unshaded-3.png": "f3fa88cd70efd8877e57b59949d9beecb52c8d4d96aaeab44c90fc2da20a7691",
+      "mag-unshaded-4.png": "499ef587c051c270eea23cce52b8e7702cf218b571e979e34e93f93f91c104ab",
+      "meta.json": "258fc64c5b57f5159c62ce6c28479d919a0f418124c38266e4e7a669d5c0b4c1",
+      "wielded-inhand-left.png": "f774a187a9a6d63b8cde2937e9654e2ad8ed83d7420a158ffb59cb07f2a416b5",
+      "wielded-inhand-right.png": "a6d3f5e14582e7e2e55b44a8ab8bf6b317f01c369f28b0794f6322dd8aebc93d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Weapons/Guns/Projectiles/projectiles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Weapons/Guns/Projectiles/projectiles.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken and modified from cev-eris at https://github.com/discordia-space/CEV-Eris/tree/7ff8f28ea4de734f3cc3cb70f2d4e4b4263a988d modified by darkrell",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cbbolt.png": "175dfa4d5f0014e5ef6cdcaccc4cf805fa5e5cdd0837a4da3b0e7af20d331191",
+      "declone.png": "deef429bb8d323ca242c472c55c47ea2ed433a45617984e7529e9a5d11d98fde",
+      "impact.png": "ddf81fe014719d94436155677c3cb475bde5f07ae7093e1c7833105739c54c3b",
+      "meta.json": "6e301fe04e50d9e72d4ddd27c92d202066eb10d0c7b0b94f3293961b0752f666",
+      "muzzle.png": "65eaf645900c9ee3374904d01f674ecee084a9afba0525a3e468ed3a049ae1b2",
+      "sniperlaser.png": "02ad7e42c958aea47e7e1ad58f777d0440acfa409e2b52d89a1dd12c3333041e",
+      "trace.png": "e1d9679204b6943977fc79345a6e6e23afa784f4425580d18eefd966a75ab74f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Weapons/Melee/silencer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Weapons/Melee/silencer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken From Paradise Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "a616b64a434fc241d0e5ad47d1c3ea0e71825fa5c2dd648b3bb57485cda94f3b",
+      "inhand-left.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "inhand-right.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "meta.json": "f2fca7c2cab726f8cfa594cb0dc84db701f48ab752d5e1f227d140c5786f432a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Weapons/Melee/wonderprod.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Weapons/Melee/wonderprod.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taked From Paradise Station, animated by darkrell",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cuffs-equipped-BACKPACK.png": "81ae77c1672d0f95d0e93904a1fde96311b7941ced1aef154fe0137908648859",
+      "cuffs-equipped-SUITSTORAGE.png": "81ae77c1672d0f95d0e93904a1fde96311b7941ced1aef154fe0137908648859",
+      "cuffs-icon.png": "a6de2ab6260789bd5ee77ad5fadc34ea6548c5fe8cbebab1cf577ec9638603d0",
+      "cuffs-inhand-left.png": "10da6fcf4775035252f2e5a576c324746620afec9b159bbddc63c98e92573fef",
+      "cuffs-inhand-right.png": "9de825a9bf59556339e587b274187cbea6eb45c9e179ab7b4e8429cd73c0813a",
+      "damage-equipped-BACKPACK.png": "619d948a4b931e91bed237134b71e8076d528448b7d81975fa960d3d9dee31fa",
+      "damage-equipped-SUITSTORAGE.png": "619d948a4b931e91bed237134b71e8076d528448b7d81975fa960d3d9dee31fa",
+      "damage-icon.png": "3e4b0fb1f54a30275ab38bd981308fac70091e70ecc04f2123b9b95aa3ad9659",
+      "damage-inhand-left.png": "c67afe238c715ab8dc9a3eeb3e485de0bc4f53ec9e362c0f1661ffe4d861ed40",
+      "damage-inhand-right.png": "900c8a53d532aca6e103ae6c7a039c1a107a81fd118e9b0c245096fb760f5a04",
+      "icon.png": "1fe6d1ce4c831d50e0fd07388cd2ea66077e7cc9e38d4e50df1eada698c6e4e2",
+      "meta.json": "2e71370efe3fb1bda5076e819824ed6c32236402f549a75c20dbb8b611e4aac9",
+      "sleep-equipped-BACKPACK.png": "b67ab89693ea37b487cb114197a7a9894eb127fc670d9fbd3df7be4b74cc17ec",
+      "sleep-equipped-SUITSTORAGE.png": "b67ab89693ea37b487cb114197a7a9894eb127fc670d9fbd3df7be4b74cc17ec",
+      "sleep-icon.png": "e1f309d99cb9925546927a2e5bd414912ca6c6d1595587f3941950dabfe49b6d",
+      "sleep-inhand-left.png": "906c43c7148424037551135cf3b2477f4f1070969879990ef8ad556f1cfc8288",
+      "sleep-inhand-right.png": "de9df6077acd48007d22c06a72b4f8d57b95aa63ecefc6dfc3513c22f5cd5dd1",
+      "stun-equipped-BACKPACK.png": "5c2b5721ebf351308afb53a13d04b88c6e8a6c2d35ac1237fc8babc9869e291d",
+      "stun-equipped-SUITSTORAGE.png": "5c2b5721ebf351308afb53a13d04b88c6e8a6c2d35ac1237fc8babc9869e291d",
+      "stun-icon.png": "3579e785f70e0dffe40aafeec70f7a50c0959b6105fc7f3d1e744b2863ffe676",
+      "stun-inhand-left.png": "9f688ee7d0a0bab7da18c4bf28a91d34b3044725ca0e32ebf1d2812a8177c26e",
+      "stun-inhand-right.png": "6aca00bea2f22a3ef75aa8a5d2f72151c67de45624dc6a859eedb75d26539fed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Structures/Walls/abductor_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Structures/Walls/abductor_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taked From TG Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "43ee6dab4f301c226f8466fe7ee0a969ab5bc92191dd92ada48422d794fe4e6d",
+      "state0.png": "c451d95a5931833ea23816406919f20bb6c5f10214378365db63a1bbc6402c61",
+      "state1.png": "c4c45670a7697e6be6323ac480640ab973a8f40c526436961073d22db585021d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Structures/Walls/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Structures/Walls/abductor.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taked From TG Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "a076bb68c9f02758b91909c61a3e9ef0eb3a3a88fa71c75783300cb4dfaede96",
+      "meta.json": "696211d5bec427a902996a276b40d51bb54fde481a6e6dbec4c644843e39200b",
+      "state0.png": "eed2ac7e34917196bd05be7cbede0bc36a639757e6717c1f62f4078cf11298c3",
+      "state1.png": "23d7c1ab0c182771179abf82fcd365b2f944e0affeca71bf3f219ded6ef05a95",
+      "state2.png": "eed2ac7e34917196bd05be7cbede0bc36a639757e6717c1f62f4078cf11298c3",
+      "state3.png": "23d7c1ab0c182771179abf82fcd365b2f944e0affeca71bf3f219ded6ef05a95",
+      "state4.png": "bcddd185c35fd906970a087c523ce047949ca72ebfe1b3fb0161d2c2afa67afa",
+      "state5.png": "8b94e816b0b4c0795d5600d971e365450a9e2308f773512a158904ba79a43b6a",
+      "state6.png": "bcddd185c35fd906970a087c523ce047949ca72ebfe1b3fb0161d2c2afa67afa",
+      "state7.png": "0d5cd6ba09bcdf918026c0c3fda73e592c28453fc6052d7f9951497151ebc70f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Trauma/Clothing/Neck/bombcollar.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Trauma/Clothing/Neck/bombcollar.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by armok for traumastation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "ffc5472756dce97a4e220ba6d2a5543a09a43659f9bbe17cee8a0b8881f1efe1",
+      "icon.png": "6d08c91c33ed5c22baf85ae746f3f35a4063fc42be5acac2f09a3f11e7f59814",
+      "meta.json": "aa665e29071163ffb8471297be00eb414021276e3a1f5df030fde9ee153bdd2e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Trauma/Clothing/Neck/slayer_coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Trauma/Clothing/Neck/slayer_coat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "GraveSt0ne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "5dce85fe140cad95104cd08746a00e05eba7df7a1b7c78e40ff44f0bfb1b7112",
+      "icon.png": "7b46c2c7a73b81e158057dd676e56fcc16f30fed0cfc6032ba01d9bf5e458953",
+      "inhand-left.png": "e6dfbcaa2acedce85b46d5cb325241dcae27f4d4b153ca4a9d54b53bf5716d47",
+      "inhand-right.png": "c9ee3c6643416970ba435e1b549c5c823fba9fca869b27b601a1d77e5b1ebc5b",
+      "meta.json": "5675159d3e5c6a194e0265e4ab6a221291ba66a81ce8a9e37e462297acb4ef82"
+    },
+    "replaces": []
+  }
+]

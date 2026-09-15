@@ -9,13 +9,13 @@
             - tag: Sunglasses
               name: construction-graph-tag-sun-glasses
               icon:
-                sprite: Clothing/Eyes/Glasses/sunglasses.rsi
+                sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
                 state: icon
               doAfter: 5
             - tag: HudSecurity
               name: construction-graph-tag-security-hud
               icon:
-                sprite: Clothing/Eyes/Hud/sec.rsi
+                sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
                 state: icon
               doAfter: 5
             - material: Cable

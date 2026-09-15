@@ -13,13 +13,13 @@
       state: equipped-FEET
     - sprite: Clothing/Uniforms/Jumpsuits/Special/operative.rsi
       state: equipped-INNERCLOTHING
-    - sprite: Clothing/OuterClothing/Armor/security.rsi
+    - sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Armor/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: equipped-OUTERCLOTHING
     - sprite: Clothing/Hands/Gloves/Color/black.rsi
       state: equipped-HAND
-    - sprite: Clothing/Mask/gas.rsi
+    - sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: equipped-MASK
-    - sprite: Clothing/Head/Helmets/swat_syndicate.rsi
+    - sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: equipped-HELMET
   - type: ConditionalSpawner
     prototypes:

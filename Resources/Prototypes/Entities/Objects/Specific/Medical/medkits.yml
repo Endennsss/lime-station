@@ -5,7 +5,7 @@
   id: Medkit
   components:
   - type: Sprite
-    sprite: Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: firstaid
   - type: Storage
     maxItemSize: Small
@@ -13,7 +13,7 @@
     - 0,0,3,1
   - type: Item
     size: Large
-    sprite: Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     heldPrefix: firstaid
   - type: PhysicalComposition
     materialComposition:

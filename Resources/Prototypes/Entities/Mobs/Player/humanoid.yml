@@ -35,7 +35,7 @@
   suffix: ERTRole, Death Squad
   components:
     - type: Sprite
-      sprite: Clothing/OuterClothing/Hardsuits/deathsquad.rsi
+      sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/deathsquad.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: icon
     - type: RandomMetadata
       nameSegments:

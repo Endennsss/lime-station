@@ -5,7 +5,7 @@
   description: A stun prod for illegal incapacitation.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/stunprod.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Melee/stunprod.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: stunprod_off
       map: [ "enum.ToggleableVisuals.Layer" ]
@@ -59,7 +59,7 @@
     heldPrefix: off
     size: Normal
   - type: Clothing
-    sprite: Objects/Weapons/Melee/stunprod.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Melee/stunprod.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     quickEquip: false
     slots:
     - back

@@ -1,7 +1,7 @@
 - type: alert
   id: Magboots
   icons:
-  - sprite: /Textures/Clothing/Shoes/Boots/magboots.rsi
+  - sprite: /Textures/_Lime/Imported/Goob/Clothing/Shoes/Boots/magboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon-on
   name: alerts-magboots-name
   description: alerts-magboots-desc

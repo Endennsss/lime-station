@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: SecurityArmor
   icon:
-    sprite: Clothing/OuterClothing/Armor/bulletproof.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Armor/bulletproof.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   product: CrateSecurityArmor
   cost: 1750
@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: SecurityRestraints
   icon:
-    sprite: Objects/Misc/handcuffs.rsi
+    sprite: _Lime/Imported/Goob/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: handcuff
   product: CrateRestraints
   cost: 1000

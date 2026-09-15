@@ -55,9 +55,9 @@
   description: A beret with the security department's insignia. For officers that are more inclined towards style than safety.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade
@@ -359,9 +359,9 @@
   description: A brown fedora.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/brownfedora.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/brownfedora.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/brownfedora.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/brownfedora.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -415,9 +415,9 @@
   description: A stylish cap worn by the Head of Personnel. Shows paperwork who's in charge.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/hopcap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/hopcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/hopcap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/hopcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -434,9 +434,9 @@
   description: A stylish cap worn by the Head of Security. Shows the officers who's in charge.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/hoshat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/hoshat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/hoshat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/hoshat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -539,9 +539,9 @@
   description: A strange-looking red hat that most certainly belongs to a powerful magic-user.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/redwizard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/redwizard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/redwizard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/redwizard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -679,7 +679,7 @@
   description: "\"Perfect for winter in Siberia, da?\""
   components:
   - type: Clothing
-    sprite: Clothing/Head/Hats/ushanka.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/ushanka.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: RussianAccent
     relayAccent: true
   - type: Foldable
@@ -688,7 +688,7 @@
     foldedEquippedPrefix: up
     foldedHeldPrefix: up
   - type: Sprite
-    sprite: Clothing/Head/Hats/ushanka.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/ushanka.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
       map: [ "unfoldedLayer" ]
@@ -741,9 +741,9 @@
   description: A strange-looking violet hat that most certainly belongs to a powerful magic-user.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/violetwizard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/violetwizard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/violetwizard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/violetwizard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -819,9 +819,9 @@
   description: A strange-looking blue hat that most certainly belongs to a powerful magic-user.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/wizardhat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/wizardhat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/wizardhat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/wizardhat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -1177,11 +1177,11 @@
   description: A grand, stylish cap worn by the Captain. Shows the station who's in charge.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/capcap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/capcap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
-    sprite: Clothing/Head/Hats/capcap.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable

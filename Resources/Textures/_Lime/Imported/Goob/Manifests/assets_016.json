@@ -1,0 +1,1023 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Casings/smartgun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Casings/smartgun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base-spent.png": "9628bf5de62b51d4208bedf5034bd6da1f628e06d3895f0c179d2878dcbee7c9",
+      "base.png": "9628bf5de62b51d4208bedf5034bd6da1f628e06d3895f0c179d2878dcbee7c9",
+      "meta.json": "2ffd2e482ff843aaaa108e3ffccc49e210b4c9aeb2c0dc82cf78bab9e06b59ee"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Explosives/explosives.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/e1d495c3faf4642b6ec1c4be8acc7cd5bc51d785/icons/obj/ammo.dmi, edited by JoeHammad",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "apers-spent.png": "e013f48566c3ff0d5367c1212e8a128a6a3c0f35202a5d1e6a0377dc0ae4d561",
+      "apers.png": "ceab4732510102a659a7f98284361017697efd5e58ca973e78f3704063c2a8eb",
+      "meta.json": "18222248fd237408d1d38c6e2475f719970384c4424b2f5ad203ebcb4ff8446e",
+      "spent.png": "e013f48566c3ff0d5367c1212e8a128a6a3c0f35202a5d1e6a0377dc0ae4d561",
+      "teargas-spent.png": "e013f48566c3ff0d5367c1212e8a128a6a3c0f35202a5d1e6a0377dc0ae4d561",
+      "teargas.png": "9a29e47041e25b6d1482bf2ff65bf387b9f38611201207fb31ca3082e999614a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_lmg_bluespace.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_lmg_bluespace.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "09526a745ac7537405055627edac16f782048e77bdcfef10160c8b28be40da18",
+      "meta.json": "ba7f3ae78966a4160f835f0e655e66989653469b5b50e121daf48d704dabbfb2",
+      "o1.png": "584fc9c4d39203fb1e8db588c38a01be90c14cb8db76bd0e6cf287efd153878f",
+      "o2.png": "6e4f800d6c1274b0ce54780914e85485d067b82bedbb44607a0ddc8c82da09a0",
+      "o3.png": "48f9409270e1995df79327667cfc5c5fc30c39975b0012fa422c1ef995b3e793",
+      "o4.png": "1a77125c2abf7ad82094a5074b7e27a0053dc076f5311c99d90ab7884aa65d17"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_lmg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_lmg.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "77f9abc9cd14d2266b0273570f4ab1f744dfbb2e0c60a4bb5a9b1537f5f8eb8d",
+      "meta.json": "ba7f3ae78966a4160f835f0e655e66989653469b5b50e121daf48d704dabbfb2",
+      "o1.png": "1f966d3912b2586a5004f39af33dfed2b496d96958dc3a140e052caa13b545d3",
+      "o2.png": "fbfa3b12d644ab0fc9a074c7ad21ea814de05cf6de0217c222ff9798e4b5ccf0",
+      "o3.png": "6bb7c4795f0eddd7c3194aed49302353eeba9910b9c57ace88e34e112017afac",
+      "o4.png": "b29e694c4fb572bd9cdd1cdd5eed49fa1392e8a4b752f4f7edddabc8d3307686"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_bluespace.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_bluespace.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "b38501be3e6997f80d46fc3382b9388e69eaee7c81dcc0c52593ad7427e1d668",
+      "meta.json": "45604a68e3d85cb9a554a74d2e0ac38ec20a805f593381de8f1bdfc4aef70f02",
+      "o1.png": "6af2f51e363139e0cc49a0777add21c560661556b9f2266abc467932fd791207",
+      "o2.png": "7a215a00b31d47247a3d056ec923381aac9f161f643a74dd5df9c343035363c3",
+      "o3.png": "57bcd146b3a3a254652cb208e9e86e6855dc9effcd143b2ebf4d172f9d65ce45",
+      "o4.png": "dc8dcef285a65455519c96ec8a0406a0054d3acd2e2347f119b550addcf2123d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_ion.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_ion.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e38f2969c4f1585d711b1456165a63b78ce19f94c8eb7c05529bd825af8834b9",
+      "meta.json": "45604a68e3d85cb9a554a74d2e0ac38ec20a805f593381de8f1bdfc4aef70f02",
+      "o1.png": "ac33d5567fe7aee60367c790a8d4a1321d1560573463df91bff054fcb4dcb9cd",
+      "o2.png": "2f2a1d5e3526dfa82eeda7785180824172a215c2bfce1a34344d2bbde9868057",
+      "o3.png": "1e70b5488a559843579d7d9ac6b9f0f373fcbdd09734a363188ab50028ef0e98",
+      "o4.png": "63cc334aee1be16586939406b981a47cb06b2bb800e1f6aa79ce55ea8d63d7f0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_lethal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_lethal.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "bd930a500396c6999772bf92238598fab6593a55538e35044a05a405accd95a7",
+      "meta.json": "45604a68e3d85cb9a554a74d2e0ac38ec20a805f593381de8f1bdfc4aef70f02",
+      "o1.png": "c0b915e41c7b5ff6fa657ce299d9dcce4ca19c86dc4f97f68504d27a3ca01076",
+      "o2.png": "b896aafc34c0f2c9d14d7584a16d24ae555374f00243a7e2256c31ea292ff7b4",
+      "o3.png": "b00f52a2f5442ff366186ebe6d838c413be3ef80bcc99cfbd3ef9b40bff16761",
+      "o4.png": "c829c1c890d52bf9fc3ce2b3e3fd3811b3484f8afdd1930add8b34385dcedd05"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_overcharge.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_overcharge.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discrod",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1bebcf1991f13e907f595a02e024ec14892c038c5cbfded59f74fbaa8410815a",
+      "meta.json": "dea0006c79aafdc82b76f5b8b2a639b0836e39ef7a5efa7dcb49f5e8c588c6c0",
+      "o1.png": "22203eef1a3495b336c90fca494b0b841b226f6c0aa9f0236bf2ea77f0a5fe3e",
+      "o2.png": "23cf3ea63466ee5b33e8a83dbaa5958525c669255cfe2e0d6a6d34ff7e07c0ca",
+      "o3.png": "1ff503a7cd3e568fd7f3ae7817ce0902d3fe115cea8a4e2842fde1a5cdf42c54",
+      "o4.png": "2505c37995527a2b410fb085426a7ac9187beae7054f857e5c1b5367de87bda1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_xray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_pistol_xray.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "746e810a8825282959ae924d6c607a96731d6bdee24586f36e342b5583614ed3",
+      "meta.json": "45604a68e3d85cb9a554a74d2e0ac38ec20a805f593381de8f1bdfc4aef70f02",
+      "o1.png": "659ebe42dca0f117dd3b655750b750db169700fc3ed391486b727556b936d3a3",
+      "o2.png": "5b01caf78a9d9d507c7ab2d99595c9fb52899b8c854113ab0efb46213ff8faef",
+      "o3.png": "518189b76d85bdac2adff449afdd17b93b5634a83d0e4cabd5c1cffb82d1c667",
+      "o4.png": "a3f06d37570aa7b94cc9e6a0a7c60805c5527490adee201fadcced090ecc0194"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_revolver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_revolver.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bluespace.png": "a4b2733ef137bd9184678633bc763cdfd4ff7a48a80d36b1935b857e899b72a8",
+      "bluespace_charge.png": "ea652c9111082efc2508a9a35f1059b2b8b55e1b260727cf1f832a185abc9220",
+      "bluespace_research.png": "2d0fa4599af55f5ca4f5f647e9264146981b7bfd0ac0c0baad7450273a690431",
+      "ion.png": "e6763eaefc27702f294ac9fb86e0a9cd30cf8dfd8a685d8d93d1d6ea5b19a747",
+      "ion_charge.png": "b3f1d0324d8d3fd6de89838ee226585935e64a66f716fef3f8e75617f8d0ac1d",
+      "lethal.png": "13eb47c87d42d329e475de0789b159421dfee42e54b9270f2b69972805e49b78",
+      "lethal_charge.png": "a15f7aeef1bd2c863e4930119fc825a3e144107af12616cc36aa5a05feda08fd",
+      "meta.json": "4217407f6cd210b7ac632747a995eac7eea283b32a15531b994025c5d62c2958",
+      "overcharge.png": "7f48028a7101b1069c07c252e4d8bf605ee7c9cc60ce2198872b1e2fe3ef191c",
+      "overcharge_charge.png": "25cc1e9fa758a552817a8e90f94d64385c3b7f091103318eec531ae9034ed03e",
+      "xray.png": "7e5167f34ca6e02b95605ca4f1e7b8287e99eb3ea9593b1aae329cfd9ab62965",
+      "xray_charge.png": "480fe10ae51db6678e165fce91d6982c9cb9981a9512d283cee62c5e4b6c2cff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_bluespace.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_bluespace.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "01a1f9789a61b05c66c81d9f889863dfc0270f9177e66738175cf62b7a1930ee",
+      "meta.json": "0a727c0ca1743614f63b472a17ae29a07c2de31169d5fccaf140e20f99c6a329",
+      "o1.png": "73fabb71b96a5be1b0908ab44436857305b11fc01c3244c2bd45cff041f166c3",
+      "o2.png": "35d6a5d3407dbe11d21c8c009eeed01ecb3ff31eea6ed7c8d981aa0a9f436417",
+      "o3.png": "1435305b2466af3135431061b1e062595990fb4a5790f4cf94b6de75f170fca2",
+      "o4.png": "4707b4325f7404d22cca23d0dc2ac95d6240658750d77dff12daa97bfe4e2248"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_ion.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_ion.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e0722e2d0ae7047a787ed5b46854d81dde2f9d3041263a5276077d603000c9d9",
+      "meta.json": "0a727c0ca1743614f63b472a17ae29a07c2de31169d5fccaf140e20f99c6a329",
+      "o1.png": "35f6cafadcbda472fc134aae90a55204d2fbb12cccd105aeab7b420efef29f1d",
+      "o2.png": "02ffc9a3faf900847109f57c886eecb9a414d6c41f795146494e935e0538c9c0",
+      "o3.png": "b9b74d025b79d029a77c2833b8e2d7587256c3202ab3e1cb7d865a51a6239dc4",
+      "o4.png": "b2609e422ce97afc55a5ab68525c6c559f3edec100734e97615ee069effa1a0f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_lethal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_lethal.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "dd92a40e4942a1b93ea559b0f77ef16f035034bd23dc30b3adbde4e1948151e1",
+      "meta.json": "0a727c0ca1743614f63b472a17ae29a07c2de31169d5fccaf140e20f99c6a329",
+      "o1.png": "ba1c7aedfd9a89620748cde9dce7c8533a34372163537391d345fa55732ec946",
+      "o2.png": "e8fb4d32659751ac244276c2a25b615922a563e6a7ed52deda67e32ef0fc5700",
+      "o3.png": "aaefab56cc5b9e0ab2f0da9d7bb23287f1ed2a1dc5101021a080e0fbdf059f90",
+      "o4.png": "824478440c2884aa61ce3cb7b8b6d64e0316bd7486c96fe29896d3815f07a809"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_overcharge.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_overcharge.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f6fefc2c82b0f626f5f8da80354ccbe23375b379c3b628a554e1e2b57e848a35",
+      "meta.json": "0a727c0ca1743614f63b472a17ae29a07c2de31169d5fccaf140e20f99c6a329",
+      "o1.png": "9a4effbe23a497a3698009abf986dcbf1671d9a341024386dc03b6f20a999d6e",
+      "o2.png": "f1baeb98bd63daf7d73ec002dd2fcb67e9c832d96d9d784a357a53d6dd6f48cf",
+      "o3.png": "2106323669a7cbdfe8f42ea093403d4cd86928b06203a4e2ef76bb2b1b1d5381",
+      "o4.png": "0213d4d22aa90edbe4499c6f3e3b5e21f9e85441d151e8800cba0fe10161cfe9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_xray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_cell_rifle_xray.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "a6cda17a62964aee0eeb4db122899cc8dffc75f7f52f3777bd51fe7b4224f370",
+      "meta.json": "0a727c0ca1743614f63b472a17ae29a07c2de31169d5fccaf140e20f99c6a329",
+      "o1.png": "6899e440b843f45539d2e08b99d3fd4b74b748671a54af4530b96847fc710c2e",
+      "o2.png": "8f6126f5858a7f8463768216050bbbb7b4844d642d309790e27e9d38debf7bee",
+      "o3.png": "5df6d6833ac5b3e4516a4bbc963e9fa77a49fdc84f9e01c60ca3355bcfc9351e",
+      "o4.png": "2f1e36813a4edc83d63b1eca1a30fd375302844ef66c3345e01d1ed0741037de"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_speedloader.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energy_speedloader.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Wyvernrer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "disabling-empty.png": "94b02f1692ae6363429912cc91ebf6b9a46923b221a381595926feab65c7808a",
+      "icon-disabling.png": "45ca1a31ae03cf0070ca258c6ea60f8962a297316f9a85e6f676e58d2207d6fa",
+      "icon-lethal.png": "f064ff70f5b36db9f3d58ee51a33029255dcca15e9b64762d89f43ff9bd29051",
+      "lethal-empty.png": "283520fee71bbcd816a1a4bfa517f652fb435a77e542b2a403d0a556bb62b009",
+      "meta.json": "89ea85b9c4deecbefbe89e4ee4e29b97366b82f0acdff4294d5b4d0fe69df67c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energyriflemag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/energyriflemag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Creatorbot01. resprite from smart magazine sprite.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "erifle_disabler.png": "47d696a3045151830fd994c3cd4e44141ba92c6a509c5bb82622f2eeafd98117",
+      "erifle_ion.png": "2194ad91de18e4271007b3605cad2dbff1ab8f3e1227e65b32ffa03e4bc57985",
+      "erifle_lethal.png": "f2a92a164f7e813392f5f1c319c7f04682999f3bf3a2ae403747262bd3de1f5d",
+      "erifle_overcharge.png": "30f7002bdd247ad318c3b515a5f4cbc5f13589d05fe6a66391102d26d5293816",
+      "meta.json": "e157415c55e8b4eda4932ee46bc1559f8ebda08672b0aae87e18028d6caea98f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/heavy_rifle_mags.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/heavy_rifle_mags.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites made by a_person5660/ReggieTheRat",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "5c293b2d57f87b4ed5ade3ba73c07c73a7a4cb20c268b8920dcc4de55192dcd4",
+      "mag-1.png": "b1abfca32167f23e7ed2e22cf04c2b3f4e7d608908798d880fe8333b9fd7552f",
+      "meta.json": "ea39183576d295cc367c48e2a2a567684e13adaa985aff5210efe0d20dd3aa5a",
+      "red.png": "99ba1593ec253a412ebe94955e65d7c2ca4919c25ed59ccc621b59666648a0a0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/heavy_shotgun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/heavy_shotgun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from baystation12 at https://github.com/Baystation12/Baystation12/commit/2cc55fe15fc304ccccb835eb7aeff6ddc31e0e94",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "74660733a9fcdd591bffc6c4d392108fb1765b65b693b85f44d20c4f0bab9d06",
+      "base2.png": "0c858b735af6af1b8b6d19a42dfc7f65308ef633a921ae0276de487a5cbda72e",
+      "icon.png": "dcdccc62b971cbb55c6a6080727f870af7f71d1b9ff61cf373abc34972601e63",
+      "icon2.png": "29ab77f863381c0dda30ddc72d598fc6d41ffa4f9ce7cceff36bf5051deb2b37",
+      "mag-1.png": "0a4bf095e4eea62fc7f9451e46ae1270f6b198876aa2447113276f1a623b592c",
+      "mag-2.png": "07540525d83a136403412e2c86bae4e4fb6bc45b5f475f0da4446467c55bd975",
+      "mag-3.png": "825b4efbcd3b26fb7cf5d410f5b99f2621a5b9e302f7cb009d780b8e81c06abc",
+      "mag-4.png": "3ddc4e71b6ca6e5832e7a545940dc716c2737156179226a8435159eab060269f",
+      "mag-5.png": "1dd606216614b25e987bf13afb12e24a6953271579784d6912d791f9d174c475",
+      "meta.json": "01b79176b7b442098805c326823c67671bb8c2b85101a4bd20055ae0bd4d8bba"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/lever_rifle_mags.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/lever_rifle_mags.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "d6e640aa0e142c620c8041d2a9b2598eaee24c5ea302833fc57855628b2c12d1",
+      "mag-1.png": "61d993f6dcb733dc1a51c9c9fc063398148252fbc034428e590363ee89038504",
+      "mag-2.png": "a55387b292e1c9315269ef662d211d1b94271b76508f664eb4758d07e7f3daf9",
+      "mag-3.png": "2e7225244cd838d95b01e2b4a6b77e272b1e3039076b281202c31f7eac0f84bb",
+      "mag-4.png": "fb2c48065deed1b109e09519a4c4f7207a29e24c0d2fcdafa43551a0462f5428",
+      "mag-5.png": "b766bd0dc37e29b759ceee4cd0c500621de6e01568ad67f503da98a136b4b7eb",
+      "mag-6.png": "b83c62c49f2857c61b818146afaec6d7c73e0b3a67dc29f8b8774b533e20bcc1",
+      "mag-7.png": "c97cbff481556eca7ed82634f4539a204e5277911ef35e07f0c0be342a9a8b6b",
+      "mag-8.png": "e1d52c44f690b927b238066d43e5d841f0aafda37b9021bf280b58cba9512bc1",
+      "meta.json": "1693b7fb939faa2a30cda486cc7321a5a7b25c639575e86eff530bcac9f6302a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/M7S_magazine.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/M7S_magazine.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by JoeHammad",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "c0b74c5c96f6159a2d6c000d12a7388e742501c37ae87c3b33dedd9e5c0ee59f",
+      "icon.png": "998debc6a39a6d098d2a623c830935d76b27b2e11c04c5dc9346e533d96fef7c",
+      "mag-1.png": "94f3d520ef2020c3d3d6d4ec8cf262be4e50e11fb378d5f7e5479efa8bf69d81",
+      "meta.json": "522f59337e95b1cf3856df0fefdaa84d25712e3dda61dd1f12bb9cfa87b47892"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/nail_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/nail_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken at commit https://github.com/cmss13-devs/cmss13/commit/0525b5ada7da1afcd9b260e76d5fea01500d9c8d, modified by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "mag-0.png": "3a63288608144a937d5f82fb3a44c8d53dad69b36d05d97717f48937209b9199",
+      "mag-1.png": "6877c4e93c03031136e020121820149feb96ea6dacbce8cdacf87e68888fd819",
+      "mag-2.png": "3b69894becf859ebe53dcee40236b0e9b9fb8d7ae1c299ef52169d81a009dd58",
+      "mag-3.png": "76718a2f5226879bb286646cbebb34fc809e4d42995dc747c3ed11727474daaf",
+      "mag-4.png": "c2d2dd1c59f6aa31a0090e2cfd3ac588968f668e08138d4c0c5a5776195cc670",
+      "mag-5.png": "583e0cf506b32dba597a4ecf5a99b3f15a2427e141b75aff69b648f1fa1ade04",
+      "meta.json": "e4f5568188e1bce510ab24d666bdab368362a78cf6049e862e35b694ee6128f4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/smartgun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/smartgun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "7d8432f67daacaab3fd8808661b5e3f1ddd38cd41cdbceb1f1a359c09fabb66d",
+      "mag-1.png": "30d2d84c6df73a0ec865f60474c8d84c6bf2db46a21be50bd723cf2f28d36817",
+      "meta.json": "6da64eec93be1f0ddd1e709fd8248c237fdfc37be55df3fbf4098a3c32ee6929"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/sniper_rifle_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Magazine/sniper_rifle_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TG - https://github.com/tgstation/tgstation/pull/13612",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "2d38ef5dc655ad9117b107ed929f79fcaa4d056b4390a7fb19a14af27d432a78",
+      "mag-1.png": "6b56e792c9edbb30f25b22227345a13fa98ea7bf636c37dcd8838c89410b3a53",
+      "meta.json": "96cde383149a49092821a5c4294a5c92aa2a4665ed3811ab5e38df798e6fb198"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/cell_revolver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/cell_revolver.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taro_varne on Discord, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "7de70876e00ff5ca106c32efb9ef7f095ee8939bf0d3a6d86df0fc47942db5ad",
+      "equipped-SUITSTORAGE.png": "7de70876e00ff5ca106c32efb9ef7f095ee8939bf0d3a6d86df0fc47942db5ad",
+      "icon.png": "d79fde1efc029efc7a65890d3e856bb969bd87d0c24a9199b112755377e66973",
+      "inhand-left.png": "61a10e1958b2d9d1ef7f1f62fa5ad1cf044316927b7b6dd29971c8b4d87c65db",
+      "inhand-right.png": "3926d7716121d43e32e6d7740d7f99eba632b5129ce716c86cf9b260569dac3a",
+      "mag-0.png": "9605f24d453f8ad98cab6c39912a502668f4dab721f939217342f37925f8a84a",
+      "mag-1.png": "1716a159cee790e4e93e43b1371436cb697d3393b0b5d797b5bed758bba57600",
+      "meta.json": "1cf43ecb3616de3d75970422b1b4dc8387a570fc183678ebb8da02edb46f03f9",
+      "off.png": "7f6c730110fd4e6941cb3cfb9abf0c43c60f089835980930609a23d2445a2a48",
+      "on.png": "687e7c2d67d3ce5a844f8d648d4eb4fe8b59a974bfa06269614f19cf1a48ecd5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/cell_smg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/cell_smg.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by ReggieTheRat/a_person5660. inhand-left and inhand-right taken from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/e1a3cbe9ba2e6e29b7f1cad1bb456b390aac936d/icons/obj/guns/projectile.dmi, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "8392cd6ff0d06e19cfece064b97f4a55fcf1b3fe7f9225a6c885ee9bdad61737",
+      "equipped-BACKPACK.png": "f53c21870a48ef7d4a568d5f004b95645d717bb00d1f51e7cb1c14547ca08be6",
+      "equipped-SUITSTORAGE.png": "f53c21870a48ef7d4a568d5f004b95645d717bb00d1f51e7cb1c14547ca08be6",
+      "icon.png": "c2e2670115aa7a141e41ea4a009148c4c274f10e3b6a63c67a98e7db3f991a75",
+      "inhand-left.png": "35211f316ba39917fb108ec499ffd193e5afea80bcac18239f8a7ff5775c5075",
+      "inhand-right.png": "320805cec369cccb45750eaca4e94e3ecd64856195d2c5354d41e3d7455e9a23",
+      "mag-0.png": "7528bc77dfbb83fbfddf5cc797ece5934b64bb08c4227b05149716b2cd577240",
+      "mag-1.png": "e9c07abf69ab7b50c4d60841f0818fb5260733dfb206f37a637b5a96774be663",
+      "mag-2.png": "d055030c7eb2c7fa4ba0838a7a1835cc8314fda9c0a50aad326ff2be888d1d5b",
+      "mag-3.png": "906b748f9a41fab4f14424e2151c520aa91ce31659a7c741c4d3606fe2694d74",
+      "mag-4.png": "f1b092dc635119828a099677b4268a62e432051aa0161998dc59e3a59a429cdf",
+      "meta.json": "55b4a7644c0034ef26ca657a64a15098042b12ecb1739c17656ba8d5fc03e1c1",
+      "wielded-inhand-left.png": "8f10e587744aec9599a1bb762357ef61e1b49a8cab2b05f908d5bd4ca3a97800",
+      "wielded-inhand-right.png": "db2b5ed9bef1540bde68c5aefca350e07d14f9913071962e340d978ceaef256b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/cell_sniper_icon_48x.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/cell_sniper_icon_48x.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "c74bf4a1d599a5cce647ebad61e86be8c4303e4e0b121e0c4f51d4b3aac38225",
+      "icon.png": "dbb49fda0269b3633db79394a0eceeb1ef17f3da41187344c96a466311861cd1",
+      "mag-0.png": "f1ae2f7f94d1cea3e48228c70ab19e070d45144d982c84d7b9a0c97b272ea25c",
+      "mag-1.png": "c308b3af90fdd024a76f5775c3319db610315dbc5552fcff22168730d9a2a934",
+      "meta.json": "9cfe72dc6bcca1e922787604c34b0047aff32b5d584e1c5766b6b4b72090af50"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/cell_sniper.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/cell_sniper.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by wyvernrer on Discord, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "09c124dd34a59a6a9c07c33d648049ae6735ca549c0f46a6ba01377f3d329442",
+      "equipped-SUITSTORAGE.png": "09c124dd34a59a6a9c07c33d648049ae6735ca549c0f46a6ba01377f3d329442",
+      "inhand-left.png": "d17031f0afc50d25f6253d8629a46850f26bdb8f323eea62e56a5e3b764648f4",
+      "inhand-right.png": "64bcfa66ec401f1fef819dbd44666317f773b99f055c2e1cc540a10ddcc72c4e",
+      "meta.json": "bb017a02d039c0d268f3ace26910d10c9905f133302c6c6424e873a30240a8e4",
+      "wielded-inhand-left.png": "e85e9602579553910ea404bfb2186e621f7a1c0de4690722aa584dbe7bf4380f",
+      "wielded-inhand-right.png": "c02aac3291c0afa8b918a9886ec7936b5045c4d9336e7e24c995945017edf34f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/cutter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/cutter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit  https://github.com/tgstation/tgstation/commit/2b8b045d5a237147d736e3ba3c77c8cc5fb66cb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "203b3a3f3e5330573c017c4e66807590f9d4b39c9b61cf0f4b72585339e53ecc",
+      "inhand-left.png": "cde46a131dd1757ea89b327f604821e0df476eb5b493f6c6eb95774179f9a728",
+      "inhand-right.png": "6c3b48b14183306ba05c912e9b99afbf00d3d114fa6a7a9fb22cd0b388ffe477",
+      "meta.json": "30e37318109773c67800712af370b1a8ca3ec41bb28da21e5c5e32c6004b504c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/energy_lmg_icon_48x.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/energy_lmg_icon_48x.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by imasleeping on Discord, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "1e608f0aa2081d9f877485ea7c5ca525e36f082afae7aa95d3db463841466e67",
+      "icon.png": "ed899746c94d8103e9eb9193578d70d6e373a310f53b46599cb445d8aa24ba61",
+      "light.png": "538e6e400d8a91f4807fd392c95220bc6b829832bdb0344259704d23787582a5",
+      "meta.json": "1a584709d2983ff9b51fd1579968219002f024872f88cdd67663f20e714d9d63"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/energy_lmg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/energy_lmg.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by imasleeping on Discord, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "400576a321add2e029fb6cf3a014a219f61fdb8803ee716b381e00ce4e295f02",
+      "inhand-right.png": "b55c0e2ee4415901e6cf8f7a20751eb4df84c2c940ed2643a89c3d4a734eebb7",
+      "meta.json": "648ebf05206c56f45decc91a80d3a72ffd0a1fc6f02d198db0a3c6471816bc14",
+      "wielded-inhand-left.png": "f3b3e8010e1f69a84f5776e19de5180a2789ae212e7e2a34984d924423434078",
+      "wielded-inhand-right.png": "bfd5b44c35bdd9e05a19fccad8e0afbb97ada880384a5052340985fdaca88e8b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/energy_rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/energy_rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Creatorbot01 based on pulse rifle sprite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "eb939855ad1347765264e2693ed4b5331acdfb847f76ce06642dd10e24a45444",
+      "equipped-BACKPACK.png": "9ed746c418514a2b4dfca97c21b3167b93f313a3afb872159128118cd27ccf56",
+      "equipped-SUITSTORAGE.png": "9ed746c418514a2b4dfca97c21b3167b93f313a3afb872159128118cd27ccf56",
+      "icon.png": "7977074df9d0f8afe0b4b8bb01cb177f380de205dddf4ef826adae57c7785182",
+      "inhand-left.png": "63ec98777974df2e73f9b31e220540587616fb1a2ada1f7bcc05d7aeaac17baf",
+      "inhand-right.png": "305d6b47effaed99c70812933c2cb202d82c289e7969b56209a326fc3b48595a",
+      "mag-unshaded-0.png": "1ae55886377306838aea11df34491c598ff14998af0326ef054973d580b18e10",
+      "mag-unshaded-1.png": "6226c3675a8d14a1c1e69db7b0cb028f56b8995d8d6b0815b1f2f0697b6251bf",
+      "mag-unshaded-2.png": "f392386ed1d5692458e1c35001b0251a26eb6db26508e9cf04f518a8270cbce9",
+      "mag-unshaded-3.png": "413b4dccd86b133719685b2be39ecaca760a7ed47d6262110e908bcc27c19c3f",
+      "mag-unshaded-4.png": "7243f49d636a37884e20c3296303e69fdc1b5922271a6465c671f9dbd4e9942d",
+      "meta.json": "ce7d7b0065ea985997e7b39cf78b95535f8d95947be7d93d32e7c2138bd2cc71",
+      "wielded-inhand-left.png": "afa9c1ee2c81f2b9cc435d83fe77831ecb6750dd6bb9d4336793ca3c6bfbc5e9",
+      "wielded-inhand-right.png": "a8f85d09241b0e258c9b82d7eb1f5564c0063dbf439266ca2c097d476d0aab51"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/erevolver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/erevolver.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Icon, Base, and the mag-unshaded's taken from Paradise Station at commit https://github.com/ParadiseSS13/Paradise/pull/26498/commits/17c167b6648e8b67eb9c2f23f2f5b61e1a86f028 All other sprites are by Icepicked",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "9c1986991fd691dbe749c95c850f5293d3ac18f3a013987e0b0425e357bf3821",
+      "disabler-inhand-left.png": "3b446c082e6af63ce8371571e651660d1950e53e080be1bca5eb419ea3577a50",
+      "disabler-inhand-right.png": "61d22889560c9b2a93794d109ea1b884ab510ea3a88f96901fd995ae929eee3d",
+      "equipped-BACKPACK.png": "d43dcbda6a332ab9218ffcd24d62433496204f9933c0025fc961eb63a524cd9b",
+      "equipped-BELT.png": "38923744cf3456d52ff63965f9a6f7ed5ae4d5b2b043febe1b3ab64dec231949",
+      "equipped-SUITSTORAGE.png": "631c3bd10c27601ab81411eca99c67ba64145d2bb7cd9711db753982ce1d111d",
+      "icon.png": "4da0d841244612b97f1f277f2131f8443a869183b487290e049c4362e4aee577",
+      "lethal-inhand-left.png": "ece02e1adde341b68b71442d1440f2a1b059032286182aaddded7ed5486553cf",
+      "lethal-inhand-right.png": "0c9da310c554a95315371333289a64bc01cb63efda50fa1d56c8520f129732f9",
+      "mag-unshaded-0.png": "568ed3d8d5e86afd5ee8e87f37d71e5b2edc60b1291b6e2063ddaa1c5ae2d4bb",
+      "mag-unshaded-1.png": "e479d00e2f3b817ee0162911651cad871f4e8f830811479da19e15bc038eda1c",
+      "mag-unshaded-2.png": "ccf7170a5eab7325ccfb96676709b8f774278cd7fc93ce4908102493b2dbf5da",
+      "mag-unshaded-3.png": "156f866641e3c60a4c318680019d9f114e88347f2da5c4a5380323532a420600",
+      "mag-unshaded-4.png": "bf4cf8aa79df1d34503b0aa8ac8f97ca2cffc688b9643f2a2344bbebbb564684",
+      "meta.json": "3ee3b577ddba1aa02445ea51fb0635d8a90e722a4f1225059b09367f2f221ae1",
+      "mode-disabler.png": "d33420a07b420dd29edd941bbf4694ed90e9c3834a6dc4eea2662b4782165418",
+      "mode-lethal.png": "be61476f0976fb3c02ed99915f96349be6af7664b2192eb285b9d0c8e14ea6d0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Rosef, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "31bd31c40aaba551ddd9b5eb452545b83f08d2c7fbb92a0973fe347f6bc1ecef",
+      "equipped-SUITSTORAGE.png": "13774754c8d7e1eeecacb4786733ac9fbfd0efade1029bb323e4320bdf90d0bc",
+      "icon.png": "5b697ca6d991a8618504cb0afe0505b474db81712bd72f854dd8afaed5e29a52",
+      "inhand-left.png": "1d12800f246255e2feb79f0422cd9be271a68ed12b6ab0c7f10a5caf5cb69005",
+      "inhand-right.png": "303f3db99908d5fd731d3346514f193dede659e7d718e8153ac157ab357816e8",
+      "mag-unshaded-0.png": "81aa73d46e3b5030670a96d2c0bc37484df935e05405db1562da7616cbcce80b",
+      "mag-unshaded-1.png": "ffb58252d7ede1620292d65742104c47f5aee4ac5f8b7b0e9bfb8604fba97661",
+      "mag-unshaded-2.png": "d73b40753b527e6680ab7053ec56f6ad997dc5cc2f810b0516cdace60c42a9e8",
+      "mag-unshaded-3.png": "ba9bac8ae0b5713a7cb582aead27f120bc7116bb6baa217536f13986ea842e7b",
+      "mag-unshaded-4.png": "f99d09ebadf9ff0c95b51d09fa86973bf4ce337c6ebfc899aae6232414cf10ea",
+      "meta.json": "9be0b3416c39b6f972e922b19710ed2c009c4fa9e59ef8450da279839287e4b9",
+      "wielded-inhand-left.png": "794a145c5f02b33e42f12d4d762e1017e99f099bf0470b8c852746d953e5e009",
+      "wielded-inhand-right.png": "74e1c8a8e9797506ea33e01d1d5077788df21e874f752fd2cc573f23630437c4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/shotgun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/shotgun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Rosef, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "0d9b924b0bfc92fea528ce4949e3875b8fd1dfe17bac4a5a16b402ea3888c427",
+      "equipped-SUITSTORAGE.png": "992dc2e1c2fbd0664f0992c8c73aad015ea4feda24ee8b384de01a25afca9494",
+      "icon.png": "837b819d4a675f361c4e5602da65cd72c125d4978f07fed5b5c1489ac34500ff",
+      "inhand-left.png": "76d5ae59699fa3a61fe565fe8d43745216e49865b47466003248facce28a260e",
+      "inhand-right.png": "87a9a5bbdb6e41eeac83c865cacf5c8952511920becd92c7e49a20f520981752",
+      "mag-unshaded-0.png": "1f60742215ce1e1055f446b262cea2414ee6aaaccff222d402f5427e822c55cb",
+      "mag-unshaded-1.png": "19a2284c9219f1c7266bd609dbc06ed3539e6c0b565e4719a1b0ebb77f6f74f9",
+      "mag-unshaded-2.png": "ea9a3d4f1ebda19e7d96c0647f839de2cf293eff85b29d9e8e0b23d33aca2635",
+      "mag-unshaded-3.png": "83ce2eb4f167480a524d64b8f87ba8a9e100078f7bf6a8148a862dc67101b48f",
+      "mag-unshaded-4.png": "f0b8376beccefeca89797192857ebf4d2a7bc8ec5b7b3e7be2c1e0ab957cf733",
+      "meta.json": "8236f9b368dd7138bc6c5b02ca106c611d211e8789825508992b71558f3b9b88",
+      "wielded-inhand-left.png": "c220db5cc53ac7de7f4d34a031fa9669c60a82ed8226d728ece23845360a6b75",
+      "wielded-inhand-right.png": "ece224b4147a75fc904760e1a4995f2f5447eaf807ad7002f09c5748ab4a2080"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/sniper_icon_48x.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/sniper_icon_48x.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Rosef, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "a0a5384a842bb174eb068d0396fb53e491f5d638ae114c545162b8f17d06f9c5",
+      "icon.png": "4fed6743dcc9836ce7e488080dec5cd20931a039dce8298ad2dde20289dd7d7b",
+      "mag-unshaded-0.png": "ccbffe9063ab8d1b94c6c339185f90801dc228ae3dcaa07ed23085c5132042d1",
+      "mag-unshaded-1.png": "ecca1b9f8f46f616b6d467b59d4359c32ddaa4c14d3dab43100e28db9f97de09",
+      "mag-unshaded-2.png": "079927c55c444d3c5c21da444992f3506e779c9efc103f7cd3f6a6094b936250",
+      "mag-unshaded-3.png": "4e43c702785fbf192282cb51c5132cd3561f273e62fae1168e6ad0606542ad8a",
+      "mag-unshaded-4.png": "261ea7356af41506dd4ee51d381b205e14107d22bae777900aeedcdf064458e5",
+      "meta.json": "05626518db009723ac2d0db71a7af1d3a9953ac084ef43d68074ee210e5db055"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/sniper.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/sniper.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Rosef, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-SUITSTORAGE.png": "1c7b43ade4be5d661afcc0f7972c30bc25dba8b5a89abd63cc77d45fa995875c",
+      "inhand-left.png": "c5509958c23349e3b376942462693ae5c12c523d6a692aa17c6b4b2c5b40545b",
+      "inhand-right.png": "5fe351a6e61ab753f1412ff3b5225554cff8845c3f50553f7bc9588350e40bc6",
+      "meta.json": "9838a4196443ae47f0405db7ea75deae99f621924e9fabd3de96ab307c2a913e",
+      "wielded-inhand-left.png": "77d87a04b1a7840a908282e7558718d38a93da125146f5d7f1309c5b4af16a09",
+      "wielded-inhand-right.png": "8ddc623a1b3e3778b5dbbb05f30a6246a3af5bb3eb8f6dc2657005403cce18fc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/ion_rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/ion_rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Icon and base Taken from tgstation, In hand and suitstorage sprite taken from tempgun, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "ef2f7a8090789ee5aaa75bb3fef5a0c5bc17fbd16750a50658d4e8f463e9c082",
+      "equipped-SUITSTORAGE.png": "fc8b622de4330f353878bcce5a1360fff0f2a448fb0496e6941a96f4603e790b",
+      "icon.png": "368a10a1acd02cd1b5f44c193ac36aeb70f61813d6fe7cd433e073ee15ac6fb0",
+      "inhand-left.png": "a467eea1637c254f9bdbc623197e17a17f9fa8443564e89b661a46646c4c4281",
+      "inhand-right.png": "120b57558b9d860836dab9224746e84afbb6913249ce45d45b061959e3fc1739",
+      "mag-unshaded-0.png": "a4063883496f2d842d05a3031bb92f33122da17646feaa3fcbced24996453074",
+      "mag-unshaded-1.png": "a397a62d781260ffad3d559737c6b63164274b5cba9b3a09d83dbdff7321e9a6",
+      "mag-unshaded-2.png": "0e293d6b9bff2558b9a0be7e1862d79df76ca15862fa39f186f3f309f476a38d",
+      "mag-unshaded-3.png": "57c8c0e50b08f57ddc6a4c88dc09d944c04de363953fec5bb9f778c83ce16bed",
+      "mag-unshaded-4.png": "b54bcac2702064fe3dd5e76d9fc6387433167e4968bd5bb7446277fdb89b30d8",
+      "meta.json": "8a40c030d53122f9bfa0b558c2a5d3cce281a9501684aef1a5b8b3a50ef10d9d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/lawbringer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/lawbringer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Goonstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "38923744cf3456d52ff63965f9a6f7ed5ae4d5b2b043febe1b3ab64dec231949",
+      "icon.png": "640fe1883660bd0c6955adec94841556aa866540d607758bf061c5fd9dca2ef1",
+      "inhand-left.png": "a870f17354414e521d2eaed9ea87e727a2f6f97a28eeb0b96d4a4706c1e8c92e",
+      "inhand-right.png": "d63065786f70fb2a5e99d486f44d40e9e5eeef9b2ac06978b88207491952717d",
+      "meta.json": "2570b98ff3b9f32efef190ac619182f33f765433b8f455a359c5833b63d5a1b5",
+      "mode-inhand-left.png": "7b2d69f9974a0fc39bc29a9dffcc2ae37b1cd359587a4f8d85bffb209d555a5d",
+      "mode-inhand-right.png": "04897ec821b4ab3a79d2d09278e13641c5eae04118fff7fda0ecc3bca4d55dc8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/miniature_ebow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/miniature_ebow.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/1d0e3dde0f89e7926be32a3706883c3f003931f8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "a24c0f3fc0b25097c27cb9f47c5b007b57881b409cfeb25857183576061a93b0",
+      "equipped-BELT.png": "0fd7144ad25a515dd47a448f8052fb6be46e8830dc5df77f303d4b27ab9dfdd3",
+      "icon.png": "8ce6753db244b0fcf9e3c3d8c7af2ca03d3d69f4cef34085b4dfb6fdbd1695e4",
+      "inhand-left.png": "9ee57ebf68a68a5c1b167275e88803bc73894a2048fc63314c7583ebee609e46",
+      "inhand-right.png": "d68047f7d768469b43a9fe5e9704fee68f97889f16d4c05d15cc579cafa89442",
+      "mag-0.png": "7a85d2c698bb0b74e22ad4c7c202d6fc958a6d112b4f2fa2694e24b07950a93f",
+      "mag-1.png": "60b56451bf0f7f59ebd5ef51b3487ed9f87ab6794ffbae5f5712dad2417e841a",
+      "meta.json": "9010cb842593fe68b4aaf19f9bb5d77288e34ff5b614306ccf514df2c8762713"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/plasma_rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/plasma_rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/master/icons/obj/weapons/guns/energy.dmi, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "5879b6b87b953ff56579ba42b395e4d63ccb254f11f32e6f330c79812556b05d",
+      "equipped-BACKPACK.png": "c2a7054de96388119cd8b512e186c25dc1ef855916b72e348cbf3e42491cbdab",
+      "equipped-SUITSTORAGE.png": "c2a7054de96388119cd8b512e186c25dc1ef855916b72e348cbf3e42491cbdab",
+      "icon.png": "16fcfce1b253a4d8b8009dfa5ea670ede9a42c4a546a02ecef5c7877c0df6bef",
+      "inhand-left.png": "bbb8c7120655c51d1e9977262b2e9a8f95699ea0985dd2dc65374ddd27f34950",
+      "inhand-right.png": "db9161d9af79ea69b641dab88040ad4ab852033a84736ca7266e0a04636b1c55",
+      "mag-unshaded-0.png": "dd396247f1f0a69ff98acee455173a994bcbc5f4273d33e4d58e398a97b36172",
+      "mag-unshaded-1.png": "2cfda40556ddf941539e2293006af1210d937c1d3ab19fb6e9221b32e8a2b28b",
+      "mag-unshaded-2.png": "2ca8e68f0a6cc0cabce191e8ba6fd2de689981afb3a33027aa0ae00c5a04d4d6",
+      "mag-unshaded-3.png": "902e4e8ae790242da4b657929990bd5b1758ef6641ebc27c64ee1cf23c6e5ecc",
+      "mag-unshaded-4.png": "5497af1234e8c3be7f5adec8b2c0afca8cf04d21aa6fc586ab47390df01cd69d",
+      "meta.json": "b478d160af9813cb8078f1777a9dfb8919768add5b9e6b9f16bd5052f9ba2e92"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/super_cutter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/super_cutter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit  https://github.com/tgstation/tgstation/commit/2b8b045d5a237147d736e3ba3c77c8cc5fb66cb5, resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "34d1cf1f8df4929c25fa98ab3752684760b9da296bb674ef9a857eeea849a6bf",
+      "inhand-left.png": "06c34ef4a73315e8f07f6177a02881deb47bee15a74e30c005057fab2a80ab32",
+      "inhand-right.png": "2086448fd73025aaabb62542418798b23cb77d07ed3502a7e1b63fe1fdbcf9b1",
+      "meta.json": "fb0be0a9b8a1002008bc0455e82183a79d327a15bfd936a4493123a41d43c5cc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/tempgun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Battery/tempgun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station, Resprite by RedTerror.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "164e4bcf492bb65b72fa291c571a1edd82179da40ea2ab4e4e02d259803277a7",
+      "cooling-inhand-left.png": "a320d47225eff939fcdcd43b3c0980a6690d4ae0f959774b975b31ee161f9450",
+      "cooling-inhand-right.png": "51c263b63a79959938ce11b5613ac3f7a48cba65e595458da76a22bd801cece5",
+      "equipped-SUITSTORAGE.png": "b250219d9865223c269870e361a4dcd1a192c0fe8b94385d7dcc0e6b473857d3",
+      "heating-inhand-left.png": "923878c3565b5a85eb72a15db0e0637c3cb911dd838621bdfb11bc55dd53ac57",
+      "heating-inhand-right.png": "ecca69b8004bb7ff5099e182d47befb6dd52b0ad69b5db3a8317523003a66b06",
+      "icon.png": "83ee028faecce5cc49418a228b33c0cfab4692ae6ebddcecdd1402e6ac7c5773",
+      "mag-unshaded-0.png": "130151f0a8039e87268b9b0e338b3cd2f2023e63d6ecaf8bee8e22504787321b",
+      "mag-unshaded-1.png": "e49bb2a76aaef2d7f942a51bcc2defc9cc3d896d0a4473ead1608cac1c16acaf",
+      "mag-unshaded-2.png": "5ea1eae4264f58ff3729e9c88372b912b70e4db2861c421a8cb8d002e6de739a",
+      "mag-unshaded-3.png": "ab03b41f27cc154d50a76a7e66634109adfa8fb1dd97eb1f722911d4a2e1cada",
+      "mag-unshaded-4.png": "3b725ae97521a30eec9086476b0affafbaf4ec8e0a9bcea86747930065b8c535",
+      "meta.json": "b483e193459f47ae801a7b2cf3fef4475603e3a26f990f4ab67e393c6911fd10",
+      "mode-cooling.png": "b9d5ee14abaf781770fe861bd11ca392c368c050bcf8336e7583e14fd9351898",
+      "mode-heating.png": "5526b25a70423cc8a0dd065dbb25241c7a0f8aa5484a68c245f6e9e768664c2e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Bow/arrow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Bow/arrow.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "arrow taken from YogStation at https://github.com/yogstation13/Yogstation at b38f136e1e3b587de23956df450e6d320046bc2b; icon made by Aviu",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "arrow.png": "c52c8be7358bec3f06ca4d0e6823f6575293d31c19dec6752d8f2ecd1d668360",
+      "icon.png": "dafe2f44e48f5a34c0c546e6422be9a92f3aa1a28bdb8f58b0107598968de81d",
+      "meta.json": "c954bfac0db477e064c91c8afbd73271d467bc2f8d8b9ae0fc4e38f64ce6fc07"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Bow/hardlight_bow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Bow/hardlight_bow.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from YogStation at https://github.com/yogstation13/Yogstation at b38f136e1e3b587de23956df450e6d320046bc2b; wielded and worn sprites made by Aviu, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bow-folded.png": "8f9bfbfcb2bda0f515189199e1f12175bf682dfed5615ade306fc4a44c240207",
+      "bow.png": "5214dcd88e50464820a20fbd56067e86e9d5d17117a2e55b9f531f8cc6e6fffb",
+      "bowstring-equipped-BACKPACK.png": "34413fd44237ec04ad097a24858cc21fe10188f7adb731adb8dfb12deef712fc",
+      "folded-equipped-BACKPACK.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "folded-equipped-SUITSTORAGE.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "folded-inhand-left.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "folded-inhand-right.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "icon.png": "af0da16a3a480eace6b10e1cabc15fbfbdbdba84382c5bef3d7ae3ac7c54fb5e",
+      "inhand-left-bowstring.png": "c120e2d97510aae9ea17bb42e530ba985491b00f75246d4c2ffc8c14ee67a43a",
+      "inhand-right-bowstring.png": "d9bc5063d214f8cc388e521f2a58b93c5fd46963251bde52f32b4d838ae44212",
+      "meta.json": "5d2b9a3a7a8629928c9ab443d01830130f978e8624d331f606779c7808bb17dd",
+      "unfolded-equipped-BACKPACK.png": "736b6acc6926daab8dc7075ade50ed63d119951eb57a7c011e3ba2afb1b3a537",
+      "unfolded-equipped-SUITSTORAGE.png": "736b6acc6926daab8dc7075ade50ed63d119951eb57a7c011e3ba2afb1b3a537",
+      "unfolded-inhand-left.png": "f4f1802bc69270d0be95dbcca890c0ecc810040997d80165724dbe3786f7bc92",
+      "unfolded-inhand-right.png": "7767f5861f4d2d6a303799d61c7eb37f2b8c2cfa9ab7979b20bad0d98bdd8e37",
+      "unwielded-arrow.png": "e6d16241bd07b9365fe3d82b62952f21c13751cbe09817d7f752e7d5373734a3",
+      "wielded-arrow.png": "1dd00c02cb2495e352462e128e7846c4ee6dd8bc681497972d1680a325f73564",
+      "wielded-inhand-left-bowstring.png": "87fba8e282e0fb0f15464f8889a908be4d643b9937f8fa4a249757998d0f3811",
+      "wielded-inhand-left.png": "cef4878f5329962856037d76e887d625e5e21ba997e1100816ee33d570eff172",
+      "wielded-inhand-right-bowstring.png": "f9cfb71e620f2026eebf6c9b90b347cca233ecd73076cd979e870e99821489a2",
+      "wielded-inhand-right.png": "7e9c5f4460d08c2807c003d4ba595c7028fb2d37c560f66b14657492bc7e9079"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Cannons/dart_gun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Cannons/dart_gun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5, slightly modified by Mocho",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f36fe49a96a731aeb8fe29d27f8cff8dc2fd7c3e6be71cb5161112f1376b3730",
+      "meta.json": "ea15b105a96d22447ca6f4fe1bd019e5874bfa597c1c031002412b8a4f6c5574"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Cannons/rapid_syringe_gun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Cannons/rapid_syringe_gun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5, slightly modified by Mocho, backpack and suitstorage states by @ShootsTheMoon, further modified by LuciferMkshelter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "4833e06182c94da5c889175b2a48d8f635a6239ddf9ca6c5100eca826eeaf331",
+      "equipped-SUITSTORAGE.png": "4833e06182c94da5c889175b2a48d8f635a6239ddf9ca6c5100eca826eeaf331",
+      "icon.png": "462b42eed6e99cc0fe611c8a71d27eb58e28e9b091d7a4cc59ee5c2837caaf01",
+      "inhand-left.png": "e28c0d15a5ba1fc58aa6de6e224c11ef7de36bdc0b11bfdd6d69cf2ae945129b",
+      "inhand-right.png": "fc7e7512f6ea5124da36f1170a9230c52ab03c7ffea2eebbaa46f35aab01a541",
+      "meta.json": "78111778306fbfc8d2e4b8bc0bf07909f23fd077f11af4717d1fd363e54793c6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Cannons/syringe_gun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Cannons/syringe_gun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5, slightly modified by Mocho, backpack and suitstorage states by @ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "d5ed026075544e326ca54d489dd23a50254d69f00261ca429166f3baabf82c3f",
+      "equipped-SUITSTORAGE.png": "d5ed026075544e326ca54d489dd23a50254d69f00261ca429166f3baabf82c3f",
+      "icon.png": "2e207e815cd43a28c1ddce3a58c5973622c943078e6f1e533e7f368b0ae9aa46",
+      "inhand-left.png": "6d9cf44996d3e8008987a9665e51ac239e0a7a0f9e7472b92361e69648946692",
+      "inhand-right.png": "918ca92bea82c97e9537582ab69491c6a75f1c622150a1696e1adb5353033796",
+      "meta.json": "2bb3a251a8db4ebf5a1545f46e26e67cc1238e8d489cbf69887d931639847ad8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/ChronoLegionnaire/stasisgun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/ChronoLegionnaire/stasisgun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "92b5d8449340cb4e9007802c9c0071981bca6606f743c3d408ced3871a4c0cfe",
+      "icon.png": "3c92aa5668cd259536d908af027b75ff753f2f73343b2bc2ac21f6fc635ca12e",
+      "inhand-left.png": "7e86884c00f836b45d357eb38cd718726f86d3c7243093a9b25de1ced9b5169b",
+      "inhand-right.png": "e7941af052b5c0f33ab3e1e91f93265ab18b204ae9ea8b0ab17d38ff957f0ce9",
+      "meta.json": "3a44f4d58904fe0fd4558e423c324b3a48fac30c1df3da4058959bb26c4e82ac",
+      "wielded-inhand-left.png": "2995d7644d9e7a06402f49bc597da2b75f358d7e03596267340b7207d9779515",
+      "wielded-inhand-right.png": "d3fe06208f65de63833db0bb01b132713bccf65c2a3ae07ed7c51e787eee7ada"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Launchers/m172_icon_48x.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Launchers/m172_icon_48x.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TG station at https://github.com/tgstation/tgstation/pull/21818/commits/8959238828600d01ee7c8165a0dd29007570a454 storage, wielded inhands, and worn sprites by JoeHammad, Resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "93915200ddcec53bbafb7b4b8ce3c9e3b5392553c5faaa07a2c05e188256eaad",
+      "icon.png": "eeec6f1ae2e317fcf5e0ca52d1e6c4d4ca272cb529c82bb3bc7104e40e685492",
+      "mag-0.png": "f37c229c775994978773bf16103c6b90cd7adc3a4e325205092548bd1d41d601",
+      "mag-1.png": "c5abc7a352305c5c810a48b0d4411ea4fb20c842cbe126fae3ab6cef29ed7e64",
+      "meta.json": "5840a78c0917642ba3113acda66a2f66af83c7375bb74c9e44b67e0ca5e2c423"
+    },
+    "replaces": []
+  }
+]

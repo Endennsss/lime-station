@@ -128,7 +128,7 @@
     priority: -20
     useDelay: 1
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/backpack.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction
@@ -339,7 +339,7 @@
   components:
   - type: Action
   - type: Sprite
-    sprite: Objects/Weapons/Melee/shields.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Melee/shields.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: teleriot-icon
       map: ["enum.ActionVisuals.Icon"]
@@ -357,7 +357,7 @@
     clientExclusive: true
     temporary: true
   - type: Sprite
-    sprite: Objects/Tools/multitool.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction

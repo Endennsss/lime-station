@@ -5,7 +5,7 @@
   description: Holoparasite technology used to create a hard-light replica of any object around you. Disguise is destroyed when picked up or deactivated.
   components:
   - type: Sprite
-    sprite: /Textures/Objects/Devices/chameleon_projector.rsi
+    sprite: /Textures/_Lime/Imported/Goob/Objects/Devices/chameleon_projector.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
     - state: powered
@@ -114,7 +114,7 @@
   - type: Action
     itemIconStyle: BigAction
   - type: Sprite
-    sprite: Objects/Tools/wrench.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction

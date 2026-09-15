@@ -9,7 +9,7 @@
       - tag: Backpack
         name: construction-graph-tag-backpack
         icon:
-          sprite: Clothing/Back/Backpacks/backpack.rsi
+          sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: icon
         doAfter: 1
       - material: Cable

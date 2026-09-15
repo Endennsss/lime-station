@@ -32,7 +32,7 @@
 - type: cargoProduct
   id: CargoSalvageHardsuit
   icon:
-    sprite: Clothing/OuterClothing/Hardsuits/salvage.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Hardsuits/salvage.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   product: CrateSalvageHardsuit
   cost: 7500

@@ -101,7 +101,7 @@
       - state: inhand-right-light
         shader: unshaded
   - type: Sprite
-    sprite: Objects/Tools/seclite.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/seclite.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: seclite
       - state: seclite-overlay
@@ -116,12 +116,12 @@
     soundHit:
       collection: MetalThud
   - type: Item
-    sprite: Objects/Tools/seclite.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/seclite.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PointLight
     enabled: false
     radius: 8
   - type: Clothing
-    sprite: Objects/Tools/seclite.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/seclite.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     quickEquip: false
     slots:
       - Belt

@@ -1,0 +1,402 @@
+{
+  "repository": "https://github.com/Goob-Station/Goob-Station",
+  "commit": "05fe8b396eb0625c0e28a19534b5e82fef4cbc8f",
+  "policy": "Explicit permissive or CC-BY/CC-BY-SA/CC0 asset license; original bytes and attribution preserved. No Goob code imported.",
+  "summary": {
+    "commit": "05fe8b396eb0625c0e28a19534b5e82fef4cbc8f",
+    "imported": 2074,
+    "replacements": 457,
+    "replacedPaths": 458,
+    "airlockPaths": 43,
+    "prototypeFiles": 194,
+    "unchanged": 1397,
+    "excluded": 61,
+    "byCategory": {
+      "walls": {
+        "imported": 51,
+        "replacements": 13
+      },
+      "doors": {
+        "imported": 87,
+        "replacements": 42
+      },
+      "objects": {
+        "imported": 685,
+        "replacements": 79
+      },
+      "clothing": {
+        "imported": 1251,
+        "replacements": 323
+      }
+    },
+    "byLicense": {
+      "CC0-1.0": 43,
+      "CC-BY-3.0": 11,
+      "CC-BY-4.0": 0,
+      "CC-BY-SA-3.0": 1991,
+      "CC-BY-SA-4.0": 29,
+      "MIT": 0
+    },
+    "exclusions": {
+      "invalid-png": 4,
+      "license:CC-BY-NC-3.0": 2,
+      "license:CC-BY-NC-SA-3.0": 26,
+      "missing-copyright": 2,
+      "invalid-rsi-metadata": 6,
+      "third-party-franchise-review-required": 4,
+      "license:CC-BY-NC-SA-4.0": 11,
+      "license:CC-BY-NC-4.0": 6
+    }
+  },
+  "assetManifests": [
+    "Manifests/assets_001.json",
+    "Manifests/assets_002.json",
+    "Manifests/assets_003.json",
+    "Manifests/assets_004.json",
+    "Manifests/assets_005.json",
+    "Manifests/assets_006.json",
+    "Manifests/assets_007.json",
+    "Manifests/assets_008.json",
+    "Manifests/assets_009.json",
+    "Manifests/assets_010.json",
+    "Manifests/assets_011.json",
+    "Manifests/assets_012.json",
+    "Manifests/assets_013.json",
+    "Manifests/assets_014.json",
+    "Manifests/assets_015.json",
+    "Manifests/assets_016.json",
+    "Manifests/assets_017.json",
+    "Manifests/assets_018.json",
+    "Manifests/assets_019.json",
+    "Manifests/assets_020.json",
+    "Manifests/assets_021.json",
+    "Manifests/assets_022.json",
+    "Manifests/assets_023.json",
+    "Manifests/assets_024.json",
+    "Manifests/assets_025.json",
+    "Manifests/assets_026.json",
+    "Manifests/assets_027.json",
+    "Manifests/assets_028.json",
+    "Manifests/assets_029.json",
+    "Manifests/assets_030.json",
+    "Manifests/assets_031.json",
+    "Manifests/assets_032.json",
+    "Manifests/assets_033.json",
+    "Manifests/assets_034.json",
+    "Manifests/assets_035.json",
+    "Manifests/assets_036.json",
+    "Manifests/assets_037.json",
+    "Manifests/assets_038.json",
+    "Manifests/assets_039.json",
+    "Manifests/assets_040.json",
+    "Manifests/assets_041.json",
+    "Manifests/assets_042.json"
+  ],
+  "excluded": [
+    {
+      "source": "Resources/Textures/Clothing/Head/Hardsuits/syndieelite.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/performer.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-3.0"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/rainbow.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Plushies/lizard.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Grenades/foamdart.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/fireaxe.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/fireaxeflaming.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/web.rsi",
+      "category": "walls",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_EinsteinEngines/Objects/Devices/translator.rsi",
+      "category": "objects",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Head/Hats/propeller.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Head/Helmets/helldiver.rsi",
+      "category": "clothing",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/cmo.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/helldiver.rsi",
+      "category": "clothing",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/cmomantle.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Armor/helldiver.rsi",
+      "category": "clothing",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Coats/centcommjacket.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Coats/outcommjacket.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/performer.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpsuit/Centcom/centcomsuit_liaison.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpsuit/Centcom/golden_liaison.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpsuit/Centcom/outcommsuit.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Devices/makeshift_id.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Misc/quill.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Specific/Fishing/fishing_rod.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Specific/Fishing/golden_rod.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Specific/Fishing/goon_rod.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Specific/Fishing/makeshift_rod.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/machete.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/spring_machete.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Tools/sonic_screwdriver.rsi",
+      "category": "objects",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Battery/HeadOfSecurity/smg.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Shotguns/db_shotgun.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Shotguns/pump.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Shotguns/sawn.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Melee/fireaxe.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Melee/fireaxeflaming.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Melee/mjollnir.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Structures/Walls/directional.rsi",
+      "category": "walls",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Wraith/Objects/spirit_candle.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Harmony/Objects/Weapons/Guns/Shotguns/hushpup_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Materials/legion.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Materials/ore.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Materials/sticks.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Materials/watcher.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Tools/handdrill_super.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Weapons/Guns/Basic/kinetic_railgun.rsi",
+      "category": "objects",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Weapons/Guns/Basic/kinetic_repeater.rsi",
+      "category": "objects",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Lavaland/Objects/Weapons/Guns/Basic/kinetic_shotgun.rsi",
+      "category": "objects",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Cloaks/cogcloak.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Cloaks/cogcloak.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Cloaks/cogcloakicon.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/plasmashot.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/beesknees.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/ginandsonic.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/goldencat.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/pineappleblast.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/torpedojuice.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Robotics/borgmodule.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_ShitChap/Objects/Weapons/Nullrod/divinechainsaw.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/stitches.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Trauma/Objects/Weapons/Grenades/kudzugrenade.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    }
+  ]
+}

@@ -11,7 +11,7 @@
   id: Cardboard
   stackEntity: MaterialCardboard1
   name: materials-cardboard
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cardboard }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: cardboard } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#70736c"
   price: 0.025
 
@@ -20,7 +20,7 @@
   stackEntity: MaterialCloth1
   name: materials-cloth
   unit: materials-unit-roll
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cloth }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: cloth } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#e7e7de"
   price: 0.05
 
@@ -30,7 +30,7 @@
   name: materials-durathread
   # not exactly a sheet but its sprite suggests it cant be rolled like cloth
   unit: materials-unit-sheet
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: durathread }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: durathread } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#8291a1"
   price: 0.35 # 1-1 mix of plastic and cloth.
 
@@ -63,7 +63,7 @@
   stackEntity: MaterialWoodPlank1
   name: materials-wood
   unit: materials-unit-plank
-  icon: { sprite: Objects/Materials/materials.rsi, state: wood }
+  icon: { sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi, state: wood } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#966F33"
   price: 0.10 # $10 for 1 unit
 
@@ -107,7 +107,7 @@
   stackEntity: MaterialCotton1
   name: materials-cotton
   unit: materials-unit-boll
-  icon: { sprite: Objects/Materials/materials.rsi, state: cotton }
+  icon: { sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi, state: cotton } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#cccccc"
   price: 0.01 #Who knew cotton was infinitely more valuable than silk
 
@@ -116,7 +116,7 @@
   stackEntity: MaterialBones1
   name: materials-bones
   unit: materials-unit-piece
-  icon: { sprite: Objects/Materials/materials.rsi, state: bones }
+  icon: { sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi, state: bones } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#896f5e"
   price: 0
 
@@ -143,7 +143,7 @@
   stackEntity: MaterialDiamond1
   name: materials-diamond
   unit: materials-unit-piece
-  icon: { sprite: Objects/Materials/materials.rsi, state: diamond }
+  icon: { sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi, state: diamond } # Lime-Edit - текстуры Goob с сохранением лицензии
   color: "#80ffff"
   price: 20 # big diamond gaslit us so hard diamonds actually became extremely rare
 

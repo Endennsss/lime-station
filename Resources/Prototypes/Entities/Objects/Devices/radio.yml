@@ -38,7 +38,7 @@
     channels:
     - Security
   - type: Sprite
-    sprite: Objects/Devices/securityhandy.rsi
+    sprite: _Lime/Imported/Goob/Objects/Devices/securityhandy.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
-    sprite: Objects/Devices/securityhandy.rsi
+    sprite: _Lime/Imported/Goob/Objects/Devices/securityhandy.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     heldPrefix: walkietalkie

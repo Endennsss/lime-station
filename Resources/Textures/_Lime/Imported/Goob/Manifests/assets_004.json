@@ -1,0 +1,930 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "31ba88e8306b42e5d6404ca9786e8847db4a6004890c1a5618d1de6043e3d917",
+      "control.png": "b3f372187c0a2233ed3a8da1cb040346163a4f362bec90207c7fc9c8381f345e",
+      "equipped-BACKPACK-resomi.png": "3b6cd5721c898e65fd9f57ed66e069fbe8453f9f3199a5f53b4c62c248a60545",
+      "equipped-BACKPACK-sealed-resomi.png": "27c6d568a0ba3cabd8c890157d8a04e07b4aa51614b773b2e3169089b1066eac",
+      "equipped-BACKPACK-sealed.png": "5f4450aab3a9e9ed422b38b359b56b30ec0cf18a4f6bda9a46727cf2ce83fe24",
+      "equipped-BACKPACK.png": "942ebe790aacc8eae67313babca5364ed46b685766b361a3972b8093c44e5c5f",
+      "meta.json": "072d604c3533cbb62cdc8368c9426e1e21f5fb9330739147ac37d7e0a9b0d516"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, equipped-BACKPACK and equipped-BACKPACK-sealed pulled apart by JoeHammad",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "9c3af1eab5d68ed231fcba02880c4b6c3d5501a68f20a5d4e6204240a9c7a12c",
+      "control.png": "cddefe0db8e8c8a4657e503c79b6d2b3c184d23997fcaf605c1d554d41ac81c1",
+      "equipped-BACKPACK-resomi.png": "39cbb87428b0a7d4a8d47de492090d745cb72a1caf9503349f933103ad609fc3",
+      "equipped-BACKPACK-sealed-resomi.png": "c5a93663035e1ae9a6284b5d508c0b087554e894e841e3991421bdb8c30aa9b9",
+      "equipped-BACKPACK-sealed.png": "cb1abd52f8962ee294f2783093a9245557e3ac7b2a93233b2fa3ac79ead82b12",
+      "equipped-BACKPACK.png": "a78d193e1e594d8969f847a776c0c66dde20f49b711418f7c96f6ce9c7fbf597",
+      "meta.json": "9f0a24c2a5a470ab46d69b4f92e3f636623432149de1091f90367f74c0c4c5df"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "85fa55b7c4323743cd5532f52879de694fa786c1eed94046d13a2191ef3a0ccc",
+      "control.png": "35aaeb9e88f426a0566f6db91174aec613b3ba2d40df57c69e52129afaf26c50",
+      "equipped-BACKPACK-resomi.png": "f2222a0786e70e2d045aa8cdbe231091709a1be43fac3b84b6ce95ce8f1231a6",
+      "equipped-BACKPACK-sealed-resomi.png": "c4c6b34131a1679b1e81b973e5a76b557d03284303dbd27d1ba97b2a3852524f",
+      "equipped-BACKPACK-sealed.png": "c0c6cf075308ee2e70607ce69a70c5b9edcd12af2d14d2962e368983e16dc47a",
+      "equipped-BACKPACK.png": "23fb8521598ec9f63dff3683014d3cd320b351c349b21f0f8bf063e07c3c558e",
+      "meta.json": "181196d302fd79878d0bdf1e88044224c152272739a30efd56f4eab01ad60c3b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "e958be231d9add3a85f497b48bb1855ed9d1ecd69d03c6c1216c2d1cb2809e4b",
+      "control.png": "d74c7605fc2a512fd33a38718433fde8337d4c9a0336455481ce2702c207f1b3",
+      "equipped-BACKPACK-sealed.png": "bd1192dca5e2df08be774b6b0ab2cd1ef962eef6740ef9067e58a71f81aaed5a",
+      "equipped-BACKPACK.png": "af65217c7d5fc4266a40f2c45dabbd4d9fcd5a24112e1c65d27dd16360ba7c3c",
+      "meta.json": "b5ab517130f30c168507a2b17ead0ee23571879bdc8eefacaab7e78647c2b29d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "d3f193c7d0fe2a1af4c91958b4d394b018c35a969faa7c2c613330c288fdeec7",
+      "control.png": "aa2650fa44aa4814f6f8999a967eb15d8aa8f833736d9a5d0de0c83c3ce688ef",
+      "equipped-BACKPACK-sealed.png": "41d9bffbaf844184524a477bb0b2f859ebd2adb6290e2a3aae5c6ae74b63abd8",
+      "equipped-BACKPACK.png": "659d4c7d7ef532461a02da23a1eba51e03fe6c05f155a1c653b59e5714711841",
+      "meta.json": "b5ab517130f30c168507a2b17ead0ee23571879bdc8eefacaab7e78647c2b29d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "85fa55b7c4323743cd5532f52879de694fa786c1eed94046d13a2191ef3a0ccc",
+      "control.png": "4220f4dced76a7417bb0b511618fdfd54513c56d251dda350d51f396e6d57548",
+      "equipped-BACKPACK-sealed.png": "c0c6cf075308ee2e70607ce69a70c5b9edcd12af2d14d2962e368983e16dc47a",
+      "equipped-BACKPACK.png": "0826098fb93e25612bbd7396db435597d6112ec696629388c49706de0bb31b5f",
+      "meta.json": "b5ab517130f30c168507a2b17ead0ee23571879bdc8eefacaab7e78647c2b29d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "control-sealed.png": "ef7d21f1a8e9061036d5468709586ed24d964df25181d05863ff7220879d3536",
+      "control.png": "7ec27de290fd7e35197236deab1f65257b9bf74c6fc3843675d2cdf7e346f105",
+      "equipped-BACKPACK-sealed.png": "86683af608303519c5be775b930746218147b3d2c3cd13ff44975057980e67d2",
+      "equipped-BACKPACK.png": "d70ce62938cf358e96cd89f0408c374c04206d33644f295d8967cd46f6b7616c",
+      "meta.json": "b5ab517130f30c168507a2b17ead0ee23571879bdc8eefacaab7e78647c2b29d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Satchels/blueshield.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Satchels/blueshield.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, tweak by @DarkenedSynergy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "6d9da6da91d0ed38519f0dd549b71ac2ebde194e453b2225cd18a1af0f0a5c04",
+      "icon.png": "145ec1c3022d2f5270b5738df20a7dd9b03d25789367da7cc744c0a4a01b78e8",
+      "inhand-left.png": "08bf976850012203dfbdcdcc38f376dd31d60dc15ab6e79dc0848a5d9a1e334e",
+      "inhand-right.png": "b5056d680b9ef9d18faf4e639c98f34d11f1ef31d22978eadf4aaae078e8e17e",
+      "meta.json": "5185ad6a9917d1acf6380d7ba8212f0ad557af11bab09fa764dd3d21ec92b7eb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Satchels/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Satchels/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol, recolor by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "eb60ea5bfa3a4d5aa8a09cbb2248a615d50bff729d9b27ee090dea4c0ec21fab",
+      "icon.png": "563e984bb50abc33639f437918aa09ec34f480e4ca560264eeb2be50ce12eee7",
+      "inhand-left.png": "2b9f4bf6950cf5e80ae38e9917c6c3526de659d5642b2952f08c177d5e4e4a7c",
+      "inhand-right.png": "bf25f7a6d5fca81c133545044479f61c2cd7f52a888e35fdf5e5da72f994dca7",
+      "meta.json": "c1b702504b9f193ac02717e60cf50dda121e0486a371847d17b083f6de816061"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Satchels/nanorep.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Back/Satchels/nanorep.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by KingFroozy (Github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "3e21f7b5df24423c9a4f2b14ee5900bb13045308707d3c04255ccc9b2cfa01ae",
+      "icon.png": "b4a91eb20cfec61a849a63841050588a016a60da04377ebde24a12e65ebf44b5",
+      "inhand-left.png": "083d71698f98765657a1b9d652c43b232f32d29bab224b7a4feef344c9bd9c9b",
+      "inhand-right.png": "3be2834d2319bd91bf1f1f9d32a1a7abea91518218e84ceb9281ba43db05073b",
+      "meta.json": "8341c31ed24f977bbe791c2846dda97d151c7b710f10c0bed65782b10fd0b44c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/cmowebbing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/cmowebbing.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by emisse for ss14. Further modified by TJohnson",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT-vox.png": "b9dd26e2ae61d4418b34b6bcd6a3e401222a6af4d88f5687979bfab586e86375",
+      "equipped-BELT.png": "c7cc3334ed4eb29cf4fb8d0988237b63c407b16a2e460a05b328c4798fca0589",
+      "icon.png": "14a0e01e521ef5762d595d7e203c49bae2b7016a7e97aac19e73769192a6907b",
+      "inhand-left.png": "85d9338ba0a2792a1252ac81139dc2b1bfe5b13be9e94164d75e5cbee771299c",
+      "inhand-right.png": "b56c4e022cd30612f05d33de294aaa35b39edd5f8a23185618c98c1b8df0edfc",
+      "meta.json": "7fa70534f5faa2f059fe4131518002003eb23202833d3f42c6f7ce01aa339300"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/deathsquadwebbing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/deathsquadwebbing.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT-vox.png": "0609454a792a7fe35c745da3716f09a9336ae4fcba2c15c05d72c7ef95365c6b",
+      "equipped-BELT.png": "a45833e3b2b1f839fcb40f26e4c5bea1060b3cc2344100fb2d02db2dc2a08b42",
+      "icon.png": "52efa9882d29614e9af888ec491fc298a928a11e541c6116840f5634851d4cd1",
+      "inhand-left.png": "c0586900b02436c80a779cbe8b1007a34685ec4c38ce8cf2d41863d2a2ebb64b",
+      "inhand-right.png": "ca8c8d380fc20dbd826b7f82af829c52894d432dfb35ac5c6876c0b6789d6892",
+      "meta.json": "599a7a2a12712f1df0e931f2669ad31726c6c9ad0149edbabdc1c21bf43e330f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/evil_chem_bag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/evil_chem_bag.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original taken from ParadiseSS13/Paradise at https://github.com/ParadiseSS13/Paradise/blob/ebf9a7b5e89f5523c5e1c3d2692bf54dac322cae/icons/obj/chemical.dmi and rescaled by reapsnI, inhand sprites by lzk228(discord 455630609641897984), made evil by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "7888ea2d17a4ae4a861f56b38cdd7eb35ab656f9bbcb261ed441f39e4c738b0d",
+      "icon.png": "09e684ab48e92e30a061b8ffff702ee287d67f9d93b95b2e66dfa554a58775b1",
+      "inhand-left.png": "b1c9646b204901167218f2157251fe69289f8025e98488c4bb0a60895b67fa94",
+      "inhand-right.png": "c6a4bece8e0052102e935a8b187abbbf86b32f55b48fe75c8201549384bf1e53",
+      "meta.json": "dd6fccbea4d43b72a888b2d56d7d6de49093e9059b6fe84521081e53f17645e7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/geminiprojector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/geminiprojector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited as a placeholder by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "818a7c843f364e3e09ba8794fd0a0feb7324ec35ecf1cd60789825076626c03d",
+      "icon.png": "ab84676576d2759afe06ff5122a7b763aa4172a37136cc32688d12ff79b04c15",
+      "meta.json": "0c67db295cc4866b0e5f5aa579d0d591e9b22776495279878cfa46e4281702a2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/grenaderig.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/grenaderig.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Baystation 12 at https://scrubby.melonmesa.com/icon/search/swatbelt?codebase=bay, modified by JoeHammad",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "8751b26dfe56893843d24baf415e4cc847c250dc892e9c98aa5482d8981d2485",
+      "icon.png": "63e0d9d880869f10b08366e861f33a8e0cddb231adda1176fe2a3269cd52c7ba",
+      "meta.json": "89f739d766d9ee5726b662da9cc8abaae1267aca98c5c9a313842bb1603cfd0b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/hossheath.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/hossheath.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/555fa0ed9f380509156d94131bd8a3f1c1fee1cf, Modified by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "1629d7ea6f5ec6a3d8d5733e0e8190af3ab0d088a747ed83b40aed05b667dced",
+      "meta.json": "43c208782a4714bccd2a2131e20bc6ce092602d8263db6e6d60882289cec6a1e",
+      "sheath-sabre-equipped-BELT.png": "282188ddf119b34b8cbee117cfda8c26509f482a38a1bbace3fbb9ba623a7518",
+      "sheath-sabre.png": "fb1bb82101b9baf27f12f267528fc2ee9fffc8965fa8c5ff83dba07d9a9b0516",
+      "sheath.png": "9f8ed8d24244721adb646d41c74db098ab19c2818807e08686c9118574665148"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/judobelt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/judobelt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/7da09f5e7230369ec48d9e5d31bdddb3f95a6d8f/icons/mob/clothing/belt.dmi, https://github.com/ParadiseSS13/Paradise/blob/7da09f5e7230369ec48d9e5d31bdddb3f95a6d8f/icons/obj/clothing/belts.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "e8e08b22e08566336c3e0f0687aabe7085bbeaf4c88ddfbadf121b5edbf77fed",
+      "icon.png": "4e1d8cd9a7825524f661c7e7449c5ed414bdeccf6d32b741312426fd013578f7",
+      "meta.json": "7505b0079fa17aef8bf56da145da0f016e9cc655f48375851436de00d09f0230"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/whippingbelt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/whippingbelt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Made by Hardbassman",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "beating-inhand-left.png": "2d80dffd3a4aa6ce9694c0f38a7a0e6b6fa8628ba689be77f7d4cc188a97fe6c",
+      "beating-inhand-right.png": "d704521cf5fe5fff6e12693425ce9c213e3d0884c4cda7dd6c3646c12d388c1f",
+      "belt-beating.png": "d723cb348e732c4378eac484026331738c25966c0e028a11c4c5f0d6927ae579",
+      "belt-punishment.png": "4f433106d0f838e7748087fde9c20d376665e9129200d9aae165954476c90a7b",
+      "buckled-inhand-left.png": "a3addf3a14e8adb5627cd9f84d2e71ac41b1b7b8cdfe00b98cb23f6075402d49",
+      "buckled-inhand-right.png": "93511a5490dc8e650f4903f504a17a6b1f2c8b90e395838c5ab4558d8db90f77",
+      "equipped-BELT.png": "27bd532f8617ddd03f0eb587754d8cf721179be8507ae7116fa2dd58a5860154",
+      "icon.png": "80bd17aea9d4a181accd389415b0100d3567e2d947dd7bcc83563eefd501a808",
+      "meta.json": "672c54a3740028086ee1236a66588edfd69e36a1bac82239330a355d1696b8df",
+      "punishment-inhand-left.png": "c2c6293a3814501fa5d6bf0d55a1a54c3b10bdef716e303f1dbc1a6616dfdc95",
+      "punishment-inhand-right.png": "b2f73551eb4f53b4eeff9cf273814720d428804957d9f8e7f3e687839c48099b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/xenobag_holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/xenobag_holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by CcrispCrumbles for Goob Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "bbcda5e70ecb9a64f925ddd4c00d41ab68ddae35b5f63f93f4cc64cf51ba40a0",
+      "icon.png": "68060a7b2b369c46cecac1d3826aa483030c28585cf9c083b2c9224a9d288ae7",
+      "inhand-left.png": "9439aa217591a8e0f03a00dff6caae9067e7cdd9d2eb4b0d409f922f57701c87",
+      "inhand-right.png": "26a72d3557163be8440c1fba0a36800b6e455c5c942dac47d83bfb4b96697978",
+      "meta.json": "2598a4bd5c9bca8b1522403c9ec432ddf9ede01e164a1aa74abce3051d644a71"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/xenobag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Belt/xenobag.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TG station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "898e4754ac43378648bcb7c0adb39ffd33a11a3a84875886c92c3ceb90c3ce86",
+      "icon.png": "d15085a8d1fe89de81375a85c7bef2d77bd20fe68389354cd9d0f1275e27bf8d",
+      "meta.json": "b29b6bd4d458eeb0901aa735e411256eee55876238e7a0ed1cbef0431d9a4adb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/blueshield.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/blueshield.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428 // Icon Taken from Paradise at https://github.com/Henri215/Paradise/blob/27087670280de99e2fceb47194aad29a7b99b280/icons/obj/radio.dmi, slightly modified by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alt-equipped-EARS.png": "434bca36ba61a684b19984669907a09fd6f447b45582fcc028820e6ae11e6a6e",
+      "icon_alt.png": "1de3f69d18d14a61351d35388ac3b4de4b30b68743ef56b08576ba7a59833798",
+      "meta.json": "79e1f04f72811df30e2f87b1f2de835eaa76c2b2bf2f16ac6ec31cc7f7d31232"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EARS.png": "ddef7d5dc542142feb24d8fdccbe5faa9af0c2a394a7e6f23c25aa7acf22c7eb",
+      "icon.png": "fbb79fea787b5f2f8ce81e7ba4457b072cedb75cb47dc14497d0a89138bbe071",
+      "meta.json": "f979c4fd46bd91a589e60ec33ed151afd90fa3ea35ae27b05ba671421f65d59f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @ShootsTheMoon.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alt-equipped-EARS.png": "7198e26415690f3a6322edad9bc8aa9d45697fba9dbc78309411762c6cbc5820",
+      "icon_alt.png": "5020e7e0a56244f749ef034b2b860bc3defb0cf5d097f1fb45fd4e32d55b969e",
+      "meta.json": "a0aa37482bbc3c7c79351a289f56346c066ae9c15d65534cbcedd7932267d2f9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/radiohost.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/radiohost.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cmss13 at https://github.com/cmss13-devs/cmss13/blob/a767d448e1a73e7f96dea6bebc07deee8d54bdc2/icons/obj/items/radio.dmi and https://github.com/cmss13-devs/cmss13/blob/05eaa3484b1a35aa759300bcfc8f0119f009daae/icons/mob/humans/onmob/head_1.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alt-equipped-EARS.png": "02a963e3ca212738478a54efbbc09c2f615da1df0e4c9b8deca2f36da31601ab",
+      "icon_alt.png": "41954b3079dfcb369b08b81d1d5502d7864e5e81afd3974ee0eb5c93760ec884",
+      "meta.json": "52fe8b8df8e482f6d7b6f88e6aa627c02f003e74cfe8d393055a72fca5a9d091"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/warden.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/warden.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alt-equipped-EARS.png": "ebb1c572ece9ca76b0b1a5c21cce0e3d82a30432d2b134830e3b696d43e05059",
+      "icon_alt.png": "3f0830b6af82ac9a4b1356abcdaa19711d11ec8eec72e9aa0279fe9d00f06ea8",
+      "meta.json": "9cdec34daaa842f262f3d74ce1965275e90df086e1e94b92e121c2b5e241109e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/brokenglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/brokenglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited Badly by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES.png": "225c8f6865dba0509fb3319c16e9a4171b4ecd229d7c4c6781003791f95c3b0c",
+      "icon.png": "c55ac29669653d2ac194df28711e174482e9344d666aa4631b6de816de439447",
+      "inhand-left.png": "e1e851c77d00d23c9cc3051c619979294bc664000bef9af5fce7f5211619ad6e",
+      "inhand-right.png": "664815ff7ebe8f142ceffed6979276cf1f237af355dd8e09bc65937a1afce281",
+      "meta.json": "72bec51c51f8036e9b875bfc823fbd42e3b25fe44893691089aa6d065413cbed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/bsoglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/bsoglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/pull/26498/commits/17c167b6648e8b67eb9c2f23f2f5b61e1a86f028, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-moth.png": "7d7ebb5cf790e3569f2d1532615561757dcc183070d6b990d572d5d7418da558",
+      "equipped-EYES.png": "07ad4e02dbf2200641c7392101643c4f69347d9312d439bf0ce8307189f505f2",
+      "icon.png": "b8f75a227351bdb9d75f7f33c33b86ad1e409b2de554c5ba620d6ceb5905633a",
+      "inhand-left.png": "620740e4d07a89bf06519f9efb363cb64ebd53e11cf2cc122652e7c992a69755",
+      "inhand-right.png": "a769ec58da999f223b18f60c7213b3bd2ca582afef233efdb37cb5ded0674e89",
+      "meta.json": "3abe5bfa83c0f2961c9594ff1e95c86b125a03f86acf7b8a595cdd6d7d018a76"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/centcommglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/centcommglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Taro Verne, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-hamster.png": "faa726c4294cc7d83ee71240f5d43c0ad855ac6cf80c33b0ff37515e6c31f863",
+      "equipped-EYES-moth.png": "9041b32869fc0740e42e2990df199606af6541abdb2dcdd8ad2eb6390e51f8fa",
+      "equipped-EYES.png": "17e4d66ce14bc36964201f2ac4f6271c4e26a3d4948a053d248691d548e43bc3",
+      "icon.png": "108acde0b578d74b21d97ed9a69d822a8bba4a64d2561a623b70a91b7539429c",
+      "inhand-left.png": "c40c6b94ccb951738b4b5d643a8f863b33da96b83d86ba5b9434ac0d2f21652c",
+      "inhand-right.png": "d6436993f43386eef25cb263aee8dea4ad20a4d861b40b1ab2cf366171b13177",
+      "meta.json": "c57562bcc7b3992e3ec59b4060fd129d5a04ae8e1067b85027c65fe7ea7e45a0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by ShootsTheMoon, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-hamster.png": "3f76666b6b2a1a54dd61bb5e5493540d54abf1e51800432ada4b49f4e3f3d077",
+      "equipped-EYES-moth.png": "9974d19fca3d280ec1b321aa93dd2482d83578f5eb7107ab2e34b78ade67e174",
+      "equipped-EYES.png": "479f6ec5f82b2533f0a3fe8d894f537130210c8d8c06e0eb70c6a6ba3c6981db",
+      "icon.png": "4ecc8576ca2e2a2c55f51c33659e4baf5a797ab30f9411ad73e89b082671210e",
+      "inhand-left.png": "6da99f2bf8726d13fde4ff17a110430e666ddb73b9a98f1b042483f94f4f0a96",
+      "inhand-right.png": "d071ad2ec9059073918c1fa0ee3c4c3c9c3cb32916d6aee672cf4b60d44aa687",
+      "meta.json": "8869e3b69758238926c74031795ca15b3b091e33d4d78e26f6956560d47c5400"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/diagglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/diagglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Meddiag edit by Muppet, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-moth.png": "c0ab06b47575af803ad99c33220ecbd18bd605866b0ecfcda12f5324b10cc34b",
+      "equipped-EYES.png": "061aec3a3dc9ebac2fa4aeb4e4278fc23a232c9ef1037f281f99e8ac101ee581",
+      "icon.png": "7af8f70fd8510579f23a8df2a1a776981e9ef8724cc0d516d91027c3c1a2d705",
+      "inhand-left.png": "3a05f306e1368b0c1082a530c3152e3e5c6945e2575a917a77cc525fc624163b",
+      "inhand-right.png": "0a7b9e92358c509ad38d9cbcce9c80ca3fade2a4b468ddbe2e28aab3404253f2",
+      "meta.json": "f33c8014a9ef1578980131ef9d5646cd4119e28b0c3127ac19f94c1a19d41808"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/hos-expi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/hos-expi.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Taro Varne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES.png": "f9c73934c2930fc4d4668cc572021cbc1d9b0b2ec1d8b5783248704db5696144",
+      "icon.png": "328a6dbd54fccc7ad9b30fb58c0f24896f8427e50a9349f93a323fd9c9a1ab8d",
+      "inhand-left.png": "a04ebc55838f33ce7e6fd626b704f98b8729d30e121db0ca46e7acbf33b91323",
+      "inhand-right.png": "e09fd36f118567fd51abdfb812ef94dcd632cd839fbeb634d252eae30e41913b",
+      "meta.json": "1ed4a3f8f14506f7b9d1733510847070ae8e1db00e675d2c7286ab71ed26a438"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/meddiagglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/meddiagglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Secglasses edited by CreatorBot01, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-moth.png": "f0f2f6006308f8a4e75ce0e49e8393ab62cf433b243f51cf5ca7b744f03b80a9",
+      "equipped-EYES.png": "bf75834871476baaf24907e4e9cb3e0da19198810acba092d085ee988609daba",
+      "icon.png": "81ccbbe0b9e033be265a5e5e5cd9bc67f324bdc845c58d7e112c39e654758705",
+      "inhand-left.png": "c0066b4bf36f94e8440faa7cd91d633e8c89fdc9e1218d9a8f072bb2c380fd80",
+      "inhand-right.png": "060962f0d4a2210d4395452753c02c69a8d0eefc6d45b98cda58fed1f195658b",
+      "meta.json": "f545b0ae168d3ea26be6af51cdd1c93b1ff3f267714e4a99811cf77437bdd4f1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/medglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/medglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "resprite from security glasses by Creatorbot01, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-hamster.png": "c507bc1a89f4d91874e99c2541a4a68d16bacf668aef9db8d935fc57257b7b27",
+      "equipped-EYES-moth.png": "c0054b7b41adc68c062f113ebf1603f7f495e8213206999057e163fa61158e42",
+      "equipped-EYES.png": "c507bc1a89f4d91874e99c2541a4a68d16bacf668aef9db8d935fc57257b7b27",
+      "icon.png": "aeec8520ffb7bcd165b1abc041caa294dabdef20243855514c4ea32c15c37e0f",
+      "inhand-left.png": "7432eaf8608e356b3eced131757836a929de68e8e8d0d43e9c229727fc3b4839",
+      "inhand-right.png": "d78bf34d3f2cd826e447b8eb85ad5197ca36c557873fdecedc053b455c9ec665",
+      "meta.json": "fdda6430dd317989f0029bcff16aecb19bae2b29e9d5966ed3550c9b046f1f7b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/medsecglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Glasses/medsecglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "resprite from security glasses by Creatorbot01, Moth Secglasses edited by SomethingUnbearable",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-hamster.png": "268cd450b38191af89f5026be2fbc2b60396f22eafdd2550144b4f60e63eb8eb",
+      "equipped-EYES-moth.png": "b204659366add7618057485693a09a87bffc7479ded8601d88cf37c9da0917c4",
+      "equipped-EYES.png": "a2b46ee5e6889419ed55b669fbd8c7f3d0eab296db169f3dd7ea912c99b3054c",
+      "icon.png": "3ce5ae3dd94a7141625b430d7e69bb20a5a3c6b450334672c4ef378cb84ea522",
+      "inhand-left.png": "a25a51a7a17c4a2224a2a870047a5e02683dc600cda6090837a372b9dbacfb18",
+      "inhand-right.png": "455953c02a781b1ee28bd59bfbc0280ddc729eae1bfb86daebf5a0580240fc0d",
+      "meta.json": "fdda6430dd317989f0029bcff16aecb19bae2b29e9d5966ed3550c9b046f1f7b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Hud/chrono.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Hud/chrono.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES.png": "8f0e1e543d36875c07060afbe082b5d02ad7f15760634d52112b9085b170de6e",
+      "icon.png": "e5fa3836db1c6d7fb81a8919966aa2c15f7dba7a7a839859c8350479bbc0d08e",
+      "inhand-left.png": "5dcb842eae7a0e386286a28bf13b99ab936f0b3a2ea09254c321fc48fc254f93",
+      "inhand-right.png": "b66f7b4a30bcc9340ffd89135eb6035045478fe20528ccc443c0e307e47ebc33",
+      "meta.json": "a809fe89482fcf7447a24555036ce0b511543c51ca02d3695573f4e6f38ad71a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Hud/meddiag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Hud/meddiag.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Derby made the original, CreatorBot01 recolor it to make it look different to medsec hud",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES.png": "b5dc97799f019a6d72d069b6556bd34656f1abd998cfc1cb02d8620fd015fca9",
+      "icon.png": "8373af4817564b2008260c738f8e17f6a6650ea7d263aee2c7445b769f23135e",
+      "meta.json": "1a10e3c62c6debf46008f394de5bc79cabcd7a81a95ed0852979ac3d5ea8adaf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Hud/viro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Hud/viro.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Derby made the original, recolored by Ilya246",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES.png": "0d751fe69e37f4e77ceefca0067aca596111c40225224b7e6772b1208ff48a28",
+      "icon.png": "83fe098a6f3beb7a4eeb700fcb4fa738f78be021913613e94689b86820a9a495",
+      "meta.json": "2c3de07867d2c65f0b863d5757cef918957118527f536c939cd7579c733774c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/atmos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/atmos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, edited by SlamBamActionman",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "325af14401da3b7c9a340834dd2f881068f1bf8e9ab55f05017f3c74b9c29ed5",
+      "icon.png": "c9204d7aff39c754059db8dd857885b0087cbae6a0f891109181506267a5f8e8",
+      "inhand-left.png": "8d27ce6cbe6a08f0c48b36f5824ac5d143e11c8159026176875c60f084ceb399",
+      "inhand-right.png": "0c1fc3ba1cb60ddb3f7745bb22375feb3f91dfaf3cdee36b19d740a7dca358b4",
+      "meta.json": "3549c7d58e2b456a2d837f78281700998bbd2e67e6ad4416739af236eaa2ac42"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "683ff4e25d8156627e879d9aafdc1af3964b35909b166b06164df83226505063",
+      "icon.png": "293f2370071ecf2b52ebf07fd52e95ae172f29409cd63053928af3d9356bdd5a",
+      "meta.json": "708fd2425dfabe9f27830e39c4473dd602322180e6e6b3a07596d122bd25d7e8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/conquest.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/conquest.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "e7aae81e23389f9fac846204da7a1796dc20148eefb6337cbf2c8a6ee513f1c7",
+      "icon.png": "4e1c0f2f1f130428c2030b179eeefc7dddbe228b3fb65fb95bb098dfae32d161",
+      "meta.json": "708fd2425dfabe9f27830e39c4473dd602322180e6e6b3a07596d122bd25d7e8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "claws-equipped-HAND.png": "5be95a872f60deb7d77668082f1ab2946057fdfc75d5c6e072fc222b6254eef9",
+      "claws-inhand-left.png": "20c37588ab7f1d2a9db8b0cb9c429a7f961bd0651251a303b51b03bd79f1942e",
+      "claws-inhand-right.png": "8d04fd0869b9f5bd9ca92adf3ece4db3da7ca0141d5fc358df483ed768bb3354",
+      "gauntlet-equipped-HAND.png": "94feed53730b1d573b685015c2dd087b0f5cc14cc6d49df29f0d4406838fdf2b",
+      "gauntlet-inhand-left.png": "20c37588ab7f1d2a9db8b0cb9c429a7f961bd0651251a303b51b03bd79f1942e",
+      "gauntlet-inhand-right.png": "8d04fd0869b9f5bd9ca92adf3ece4db3da7ca0141d5fc358df483ed768bb3354",
+      "icon-on.png": "619534fb37a8063105bb04b57df368417c26617bab24c0aba6c5f851b3cd0053",
+      "icon.png": "4c2c89136e3d140e28392d56db9843ed6917082209673befe4b82e00e5ef2fa9",
+      "meta.json": "0226898ba9b907a0bdb347d503849a68ce68d65cf5a023ab463dd20de3100dda"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/goldtrim.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/goldtrim.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited (badly) by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "41589ff7e5a7aa5984ee8a0efde10480ce0c0785f047f73262e1f345e48ca46f",
+      "icon.png": "067c542fc7da4db480a7393f801ed4a49234859f423b64f972776bb4f3fa6e29",
+      "inhand-left.png": "f4a8a523812fcbf63c7c894984aa8b6444d4eb155f6f1a0b7d0d9773b1648f3c",
+      "inhand-right.png": "b4abe2d825d1b8f8e75efec0aa046422c32c15f75c8548636dc7cc94dd2dd652",
+      "meta.json": "39afb75a8fff6a66ffaf513b6edb4cf98ecdf4388b09b8a2fafe1f010f3d558b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/guerrilla.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/guerrilla.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/f5815719f552196589bb4e8eabca2bfaae56cfdc, icon and equipped-HAND edited by DeusMaldPr for goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "8217be3430e65678b476672b68a1c30382c542c4e5882e9ee041ebda8f0acc63",
+      "icon.png": "6f4804d3b998a7bd43035f03f53bc8627094b8fee09eafc0d083654fb6898e05",
+      "inhand-left.png": "fa76c53c9cfe9b5adcca446ede61165c83943a60a30094601585b3e6df308bcb",
+      "inhand-right.png": "6b3754fcf15cb2043669ab3db30473f08d28a8c72a929a6c8970dc6c9590eea9",
+      "meta.json": "e0349e546cca686ad286b94ac3b7dc84646d997eb5dafd235bc74e690690d7bc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/knuckleduster.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/knuckleduster.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station, equipped-HAND by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "brassknuckleduster.png": "c52c5d4fc5e8c1e389d5a1aa7c3f5ed3a14c3140223a590c1abc18b1f2706307",
+      "equipped-HAND.png": "998106b17660175582f7467d7752304f0ef019fa6d9dd13f79d7fac0a806ddf7",
+      "goldenknuckleduster.png": "1c25836f518a6768f2a346d9ae45c469242b7f50a3f518334a3544463575b3bd",
+      "knuckleduster.png": "f1c205de49d390287e74c2483f58ae40a6ecbe3523ad47db0b843de995aee431",
+      "meta.json": "3cd742ac28caebadbea9ef384e97955e0be32eca2a3be1d38b0223c3b478bbb7",
+      "syndicateknuckleduster.png": "46bbb37900f58d840f6ab25fc27c4dc7d2feb5fdfe701970f3551d7fcfaceec4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/kravgloves.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/kravgloves.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/bd91a1b962fe9bd38e346e9fafd4ebb10784fcb3/icons/mob/clothing/hands.dmi and https://github.com/ParadiseSS13/Paradise/blob/bd91a1b962fe9bd38e346e9fafd4ebb10784fcb3/icons/obj/clothing/gloves.dmi and https://github.com/ParadiseSS13/Paradise/blob/HEAD/icons/mob/clothing/hands.dmi ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND.png": "26a42ca8d6ed5571fb3d93bc16ab371e26b0dbbf3d7d348cf4d9b57ae1392d81",
+      "icon.png": "cd3ce254f28668a638ca901a9663b4cc001c88011186998cc07d22ba61c179cb",
+      "meta.json": "22376e43253cb65282d6cce0d9753c1aa8896951fc6d34e777f371b1246df187"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/atmostech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Modsuits/atmostech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-hydrakin.png": "ba6c771f3297da3448afc0a6b468840f18b343c9007a69787fb2420b7ec15b5c",
+      "equipped-HAND-resomi.png": "56adab6d2ccb3f39c102f443ed597d5dde1297608423671c9f69a759998582fe",
+      "equipped-HAND-sealed-hydrakin.png": "18edc4e459b18b2d41f0a453272e9002b2fa51fa25bd01f702120197157ba491",
+      "equipped-HAND-sealed-resomi.png": "6bb6fdf31a5bca9cbc739fa0a0c3e61edc3ae201a1c328ba0b8edfbcb0b62a79",
+      "equipped-HAND-sealed-vox.png": "b6e492fc3fa21475e2d47b21fad8fab14eb3440e4f8eddbe631d86d469d9c85d",
+      "equipped-HAND-sealed.png": "33ea67f665019e65854fb3eff6107e897ad58a532b8692d77c188c2f9901fb9f",
+      "equipped-HAND-vox.png": "241a4079dcf76a55bc71533073810a279c010e2ddf5f35f1ef74929d083a8ce6",
+      "equipped-HAND.png": "cc33a1136332594d2e6b39e3baa12199bac7732c18dab025f155fef551484764",
+      "gauntlets-sealed.png": "bae0fcd00da35e3e4bc6ec0da5b7f0d29ac2a44c132738071b1749aa1d596f5a",
+      "gauntlets.png": "3e755e23c7670781d90187b050ef8caa67a4e4b07ed8f988407f9a5092bd9c5d",
+      "meta.json": "37aeb5b7eeff33989a657340f1db338dc627eee7f659501d6fdf2598f67ecf26"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-hydrakin.png": "7ba93876f2bf9858bdd197efe1f755e67f613b2b02d02f824588ab61b1deff7a",
+      "equipped-HAND-resomi.png": "ae1963ac1d87f9af3c25e0995e11227f1bba2a3171aacca93b344139179bba41",
+      "equipped-HAND-sealed-hydrakin.png": "7ba93876f2bf9858bdd197efe1f755e67f613b2b02d02f824588ab61b1deff7a",
+      "equipped-HAND-sealed-resomi.png": "06df953423be4f048535fc021f2110a6c8f9204708592f10c78beb1e2719900c",
+      "equipped-HAND-sealed-vox.png": "c36534607696c7efa0e91cf6220732c4941373a23f74393281b44d5b1c32aee5",
+      "equipped-HAND-sealed.png": "d82d45e2a6576a110c4c6f07ee8b21c107c475d0600a85c84a8ad1c56c702de0",
+      "equipped-HAND-vox.png": "4d578a28249618000ab108a5bf26881c537666df7074874429f1ef51fd7b979a",
+      "equipped-HAND.png": "87a3d2edef58856fdbc606cf1fb4977f9ab0ba5d897238ed2b5edf4bc009d226",
+      "gauntlets-sealed.png": "749ac3a1654e8be6ad22c956e8c79bb9432f5c40022b4995bf4f85a2b01059e3",
+      "gauntlets.png": "43505e825403ff37536f790c169c561726e0e1958cb4cb73f48aebc8e9debf27",
+      "meta.json": "37aeb5b7eeff33989a657340f1db338dc627eee7f659501d6fdf2598f67ecf26"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-hydrakin.png": "2f3aff50db242dd78b8e3182131004671f9b364c95a29d0621e3be7170d62403",
+      "equipped-HAND-resomi.png": "7d77bc55d2de51348143810475822abbfb94f6f21b6f3356a14e2f7859a1b500",
+      "equipped-HAND-sealed-hydrakin.png": "9b43d9d1cf0af469340f007b91e723cebe35a9028dad839ce132610f76ab7a05",
+      "equipped-HAND-sealed-resomi.png": "9b4d0e06c7240270af793fe91fdc0010ad4b86fc556af8920bafee24c66c3feb",
+      "equipped-HAND-sealed-vox.png": "6638cfb1ff06dd0bb759a3b12266b3e20ab8596c18d4a03326228ac9bc4c59dd",
+      "equipped-HAND-sealed.png": "f8ff95bea015630516f45ce7835b2a715c6e7749fac00862db99145d67ed8a7a",
+      "equipped-HAND-vox.png": "f8d9e2434dc6b5b99f52090acb1490669c5ba48506e0d5d429d59f3462984307",
+      "equipped-HAND.png": "53c2d287e90444593f27fd668511b3ddd8d741780d6fd3589dfb80121de3f5a2",
+      "gauntlets-sealed.png": "8eb9304976cbaf13255c9722ee3a6c29c1d2a6b5f5d0cd17803372b67a6b45f5",
+      "gauntlets.png": "e2a2b9e763523d3fc42db521ebf3f71a9f3c483573382b7dc536d14d786b7dba",
+      "meta.json": "d167fdc330d7634ac5e891341d53114f38f5f423517a50e1336fe77b703c8b19"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-hydrakin.png": "a58c929294fba69554d6f217a6ab91e374a5eef06fc5437eb0d4189aa580a777",
+      "equipped-HAND-sealed-hydrakin.png": "67c86921be45a2fc93396f77666a78bd4a3231e4981e5ce499fdacc3bcc35aed",
+      "equipped-HAND-sealed-vox.png": "43387d48695992fabcb7f9349413b23ee671ba555b7a64caf30818629a12a24a",
+      "equipped-HAND-sealed.png": "ddcd856bba804012fd47ff490bf788be1b70afe1f32edf058657b41fc93d8873",
+      "equipped-HAND-vox.png": "13e590e08e01f69a45b737a42559c58f9ce229012bf7ae23802ffc0fa114a9d3",
+      "equipped-HAND.png": "c494bc9684a87a50e038c0ee017b0ad1eaba0d2147507a2abce64c32740344c5",
+      "gauntlets-sealed.png": "3917f606eaa34d1969c11105a745a52b0a6f9473d4cf9c2f7472d8bdb66e4587",
+      "gauntlets.png": "2dbfe45be064f6da1c5ed60050f32ee1cea87bf09db60527c005bc05f3789d13",
+      "meta.json": "92e2778c0e6d5250d62e6cf0c427ae7730b31c1a38cd9db5e7cefaed539f5eeb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Hands/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, sealed and unsealed equipped sprite edited manually by JoeHammad1844",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-hydrakin.png": "9ca8a08a91c2cda9365b72eed432a6f1eab42deecdad02112a986909a0b05592",
+      "equipped-HAND-sealed-hydrakin.png": "0577b0fa39fc955ade2bf2d05765d52cae646c8c47ae1910faee534c6cfb31f8",
+      "equipped-HAND-sealed-vox.png": "b1e4c0fdab6787a36b6e5bcf5c4b7f81c8967528ffedbcd381837b751d919817",
+      "equipped-HAND-sealed.png": "95f1ae11a3af7a8ec172facddc81bdf4708c7dcb3b92da017356a3213ff45ac2",
+      "equipped-HAND-vox.png": "508c794921d8c6306c3d738941e565e6b5323f63acd1e787dbe8a149645442ee",
+      "equipped-HAND.png": "c7ee479832e4339f588661ffc64e5852cc66051ea308008cc789f02e1381208b",
+      "gauntlets-sealed.png": "e7783bd34ea708b62549e78c5ea1af103e81b197d7fcb5cc5169ef080cbf2116",
+      "gauntlets.png": "69ee4e85a660f0afab7afac232a1de4dc1e5962193e85fd350efc9cb026a90e1",
+      "meta.json": "81f61f7933f26e3442b8f5739b655051d493ed07dd563161ea6b0ee50c4d9e8f"
+    },
+    "replaces": []
+  }
+]

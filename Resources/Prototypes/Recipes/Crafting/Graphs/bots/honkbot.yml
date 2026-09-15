@@ -8,7 +8,7 @@
       steps:
       - tag: HappyHonk
         icon:
-          sprite: Objects/Storage/Happyhonk/clown.rsi
+          sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: box
         name: construction-graph-tag-happy-honk-meal
       - tag: BikeHorn
@@ -41,7 +41,7 @@
       steps:
       - tag: CluwneHappyHonk
         icon:
-          sprite: Objects/Storage/Happyhonk/cluwne.rsi
+          sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: box
         name: construction-graph-tag-woeful-cluwne-meal
       - tag: CluwneHorn

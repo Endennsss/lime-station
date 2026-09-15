@@ -23,7 +23,7 @@
 - type: alert
   id: Stun
   icons:
-  - sprite: /Textures/Objects/Weapons/Melee/stunbaton.rsi #Should probably draw a proper icon
+  - sprite: /Textures/_Lime/Imported/Goob/Objects/Weapons/Melee/stunbaton.rsi #Should probably draw a proper icon # Lime-Edit - текстуры Goob с сохранением лицензии
     state: stunbaton_off
   name: alerts-stunned-name
   description: alerts-stunned-desc

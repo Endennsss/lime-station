@@ -8,7 +8,7 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: Clothing/Back/Backpacks/backpack.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: ChameleonClothing
       slot: [back]
       default: ClothingBackpack
@@ -30,13 +30,13 @@
     - NozzleBackTank
     - WhitelistChameleon
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/waterbackpack.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/waterbackpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
     size: Ginormous
   - type: Clothing
     slots: BACK
-    sprite: Clothing/Back/Backpacks/waterbackpack.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/waterbackpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ItemSlots
     slots:
       item:

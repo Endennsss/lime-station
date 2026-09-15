@@ -137,7 +137,7 @@
     proto: AiHeldIntellicard
     container: station_ai_mind_slot
   - type: Sprite
-    sprite: Objects/Devices/ai_card.rsi
+    sprite: _Lime/Imported/Goob/Objects/Devices/ai_card.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: base
     - state: full

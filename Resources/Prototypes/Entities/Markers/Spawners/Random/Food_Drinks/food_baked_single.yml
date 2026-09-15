@@ -9,7 +9,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Objects/Consumable/Food/Baked/pie.rsi
+    - sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: plain-slice
   - type: EntityTableSpawner
     table: !type:GroupSelector

@@ -5,7 +5,7 @@
   description: Fires low-damage kinetic bolts at a short range.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
     - state: animation-icon

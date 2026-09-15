@@ -206,7 +206,7 @@
   id: UplinkAcolyteArmor
   name: uplink-acolyte-armor-name
   description: uplink-acolyte-armor-desc
-  icon: { sprite: Clothing/OuterClothing/Armor/cult_armour.rsi, state: icon}
+  icon: { sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Armor/cult_armour.rsi, state: icon} # Lime-Edit - текстуры Goob с сохранением лицензии
   productEntity: ClothingBackpackDuffelAcolyteBundle
   discountCategory: veryRareDiscounts
   discountDownTo:

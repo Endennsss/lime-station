@@ -28,9 +28,9 @@
   description: Red gloves for competitive boxing.
   components:
   - type: Sprite
-    sprite: Clothing/Hands/Gloves/Boxing/boxingred.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Hands/Gloves/Boxing/boxingred.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Hands/Gloves/Boxing/boxingred.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Hands/Gloves/Boxing/boxingred.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-leather
     fiberColor: fibers-red
@@ -140,9 +140,9 @@
   description: Regal blue gloves, with a nice gold trim. Swanky.
   components:
   - type: Sprite
-    sprite: Clothing/Hands/Gloves/captain.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Hands/Gloves/captain.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Hands/Gloves/captain.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Hands/Gloves/captain.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Insulated
   - type: Fiber
     fiberMaterial: fibers-durathread
@@ -486,9 +486,9 @@
   description: High-quality rubber gloves, squeaky to do some cleaning!
   components:
   - type: Sprite
-    sprite: Clothing/Hands/Gloves/janitor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Hands/Gloves/janitor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Hands/Gloves/janitor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Hands/Gloves/janitor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-rubber
     fiberColor: fibers-yellow

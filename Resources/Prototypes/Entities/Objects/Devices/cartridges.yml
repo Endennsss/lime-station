@@ -21,7 +21,7 @@
   - type: Cartridge
     programName: notekeeper-program-name
     icon:
-      sprite:  Objects/Misc/books.rsi
+      sprite:  _Lime/Imported/Goob/Objects/Misc/books.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: book_icon
   - type: NotekeeperCartridge
 
@@ -109,7 +109,7 @@
     - type: Cartridge
       programName: log-probe-program-name
       icon:
-        sprite: Structures/Doors/Airlocks/Standard/security-base.rsi
+        sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
         state: closed
     - type: LogProbeCartridge
     - type: GuideHelp
@@ -132,7 +132,7 @@
   - type: Cartridge
     programName: wanted-list-program-name
     icon:
-      sprite: Objects/Misc/books.rsi
+      sprite: _Lime/Imported/Goob/Objects/Misc/books.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: icon_magnifier
   - type: WantedListCartridge
   - type: StealTarget

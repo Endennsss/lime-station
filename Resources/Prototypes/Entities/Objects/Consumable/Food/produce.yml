@@ -527,14 +527,14 @@
   name: bananium peel
   components:
   - type: Sprite
-    sprite: Objects/Materials/materials.rsi
+    sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: peel
   - type: Item
-    sprite: Objects/Materials/materials.rsi
+    sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     heldPrefix: peel
   - type: Slippery
   - type: Clothing
-    sprite: Objects/Materials/materials.rsi
+    sprite: _Lime/Imported/Goob/Objects/Materials/materials.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     equippedPrefix: peel
 
 - type: entity
@@ -847,7 +847,7 @@
       - ReagentId: JuicePineapple
         Quantity: 5
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/pineapple.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Hydroponics/pineapple.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     heldPrefix: produce
   - type: Produce
@@ -1360,7 +1360,7 @@
     flavors:
       - pineapple
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/pineapple.rsi
+    sprite: _Lime/Imported/Goob/Objects/Specific/Hydroponics/pineapple.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Extractable
     juiceSolution:
       reagents:

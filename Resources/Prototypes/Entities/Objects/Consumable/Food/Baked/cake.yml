@@ -10,7 +10,7 @@
     flavors:
       - sweet
   - type: Sprite
-    sprite: Objects/Consumable/Food/Baked/cake.rsi
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/cake.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Solution
     solution:
       reagents:

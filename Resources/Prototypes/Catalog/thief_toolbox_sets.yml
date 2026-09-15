@@ -3,7 +3,7 @@
   name: thief-backpack-category-chameleon-name
   description: thief-backpack-category-chameleon-description
   sprite:
-    sprite: Objects/Devices/chameleon_projector.rsi
+    sprite: _Lime/Imported/Goob/Objects/Devices/chameleon_projector.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   content:
   - ClothingBackpackChameleonFillAgent

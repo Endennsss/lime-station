@@ -1,0 +1,905 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/stasipen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/stasipen.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "4fd690bf997a169544d7c71ca0490a0ee335882ab16ca9528430119f5440ef82",
+      "stasipen.png": "f1f9036ef51ee9b21b583f7382677ed334f7ec1e71064863ca86193be402838f",
+      "stasipen_empty.png": "af13fbd2285603a128ae4a5862f6ccc7033c23da3228e4f673979c90f5928fe1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/syndicate_medigun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/syndicate_medigun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from Paradise station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "active_gun.png": "84da26554ac0930c8535fbf26787a89b7330544426c7298946e304779670debb",
+      "beam.png": "9c03e64d7becba00ae720781f62e77aa940fd122834f42296b4f0726fe107df8",
+      "beam_uber.png": "4f86c6f4bf6a5fd71304a7c4fd1c37a7047e2f2a4a05cc1b63928cbf889d2cd8",
+      "icon.png": "6721c5210ed25576eea937b24ebadbed2ba095f50d2bf856b3df4edc03cb4da1",
+      "meta.json": "14ceb9c391fa18f8b317ea487850df7d34d729b4eae46242aa20c0f321fb5f11"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/vial_bluespace.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/vial_bluespace.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "created by gnusnotutopia",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "9c15609210b9f39595544ec7b1a81692f3dee093b69a21263493dd86a402fe5d",
+      "meta.json": "b1dc509cb86c10293c499928ef18e14de19c1cfb373414ea5058558e52a44637"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Robotics/borgmodule.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Robotics/borgmodule.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Lollypop by SolsticeOfTheWinter (Lollypop Guy), PKA by Mocho",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-lollypop.png": "17b3612c340d5b984d9f26be15ac55d4e3d390290c9137261b4fbd567b1b2ec4",
+      "icon-pka.png": "03b20dbdee78cae74b6dc538f620f1980e76f1b53e576dc09427f1a572b54fcc",
+      "meta.json": "d682409959022c7dc3af6803f5caf405da9d65605b990dbfdd393d7dbc15fac4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Robotics/modsuit_parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Robotics/modsuit_parts.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots.png": "e97921c4dfec58c4e50e305a36a06860d6ac26c58860a09011e890144d536b4f",
+      "chestplate.png": "b576eda31a8031cdd73eeca7f17c5c43b30b89671c6f3c00982bee17cbfac304",
+      "gauntlets.png": "bd9fdd1a1ff61b668cf369c06b282b24c9cc0306543115b9f5ffc6285db8f3f2",
+      "helmet.png": "70523f937c5e4e4fa66a6c4e2434e6a8220dbcdfac0e8114fe5658c4830f3364",
+      "meta.json": "a135aff9e14cc54ebd4c4d0c5d1cad8c9e17156899712cd8d4a29e8da60cb426",
+      "mod-core-standard.png": "6bd6d23706be616c3f20665a833e069a1c5481a95c26ca2bce2b5993cb956f3a",
+      "shell-boots.png": "1edfa9d31d255272c9f71099e2281ba0bc8fc389396147937b34ecc2ca3c7c67",
+      "shell-chestplate.png": "55fcad7590cf95d17b856a208061c40cceb0ba24c603ade632c07499f5130d56",
+      "shell-core-secured.png": "9d9b2824a9d59038f06d8a1340a670f9a9060537ba68d58398d838819847f8eb",
+      "shell-core.png": "524ffca644565c8e9cfc4e0241b5466bb07446cd07bcdc62d0d623a7f0c350ec",
+      "shell-gauntlets.png": "0d6d9d8f7b0d4f45cdbc9c688eafa0b16ff34a2fa23de0f0810ca4da52d7beb0",
+      "shell-helmet.png": "b7283ea5ccd9409f35ef250f70145e6dc261a09d4ec24cb93a1e5eb886cfa3b6",
+      "shell-secured.png": "25e9675f198b289285b4681609c014251cce00b798b868dca9749cfd9b59b7df",
+      "shell.png": "f64b8f925db3d0a01228c78b60f1750c17c61dbcd4495ecbcbcc5d5c620f6711",
+      "standard-plating.png": "de1558784232a6b3e297e52177790b468b3c997e65902fe79e8d9a79e1944dcb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/blueshieldundetermined.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/blueshieldundetermined.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS, icon-alt modified by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-alt.png": "09974648ecd476195e92fa145a3083d6bd8fea9b6aa754399d985219ec7121ee",
+      "icon-open.png": "6fd08c8d54be32b01d90004ef4dbed16c1cb531a09eeedfa62f1fb9b57f42459",
+      "icon.png": "5ded91b5cb0ae6bb240f8aa8289640d18521e4cf185640f4f72eba351fbe6937",
+      "meta.json": "e12db26d68b4f8954a7ec33a68b3a6d24d45f09f26ebefe23ba3301296376266"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/bso_monitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/bso_monitor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/commit/ab4abf318f293a701754656dd4e9261eb70f8824#diff-9ab5c8a5e47ab7cfaeadd859a23e32b05de1fe839e99ea767fd7e340b6385d67, modified by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "cf0e7116bc3b4ecdb945099dcc0acbf842590e378ff4a8f45a00c0a772a54112",
+      "meta.json": "09e335cbb228bcd41e8e474eb1be1c57315f1a3731168cf352a09bfd4d3f9b40",
+      "scanner.png": "dbe9f5f088725e5b5561cd49617724d024c96f48658a05fe9c1257732e8b838b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/ertundetermined.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/ertundetermined.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "305e4af3ad93b491d6173ca40d191d9d39d9dd40e08fe3ae7b42ae2b98e95471",
+      "meta.json": "cc98e14adcf203689c132aa4561fb4df5ed82a4de25ef831c12177ec6e1902d9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/hosundetermined.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/hosundetermined.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited badly by SolsticeOfTheWinter. Please change this.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ea8be7d744bae836b6a7f9e6ffcca78edb6f9325cf62f0df4553319c6720d7a1",
+      "meta.json": "186b83b0b7413c0c709c17b522595210f926cb58f91a6edcd892ee917aa5d38f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/Obradinnclock.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/Obradinnclock.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited badly by fishbait.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "6793de3e9d30ae09f5fd80bc81c366353a9ae2b33271ed9074af0cdb30877dbc",
+      "meta.json": "e924ac80288f44f30cdd01d0d958ed7c5a4988b5bd342a22c03fd4f7450347f7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/panicbutton.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/panicbutton.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Taro Varne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "719b1e3e23df256591d3e10274bc2eb0037812d7cd4a27613fe43b1c96f354cb",
+      "inhand-left.png": "50cd0199e65942370dee982181dad745c4837a8ea8b02585fb5e9b534fb93a71",
+      "inhand-right.png": "e0a3867c3806352be94642210f9e2dd2b0dcff07bda848e1e42eedfd9b0ed51a",
+      "meta.json": "9226093e3c384c14c422178a6d1bbab5e6b02db1a4d1d1446350f381e1f1cb75"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Security/pepperspray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Security/pepperspray.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station at https://paradisestation.org/wiki/images/archive/a/ac/20170911015053%21Pepperspray.png",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "b5017eb5d8fc3e33911b94ef8f7a80821f36e9e05bed113246f60d70e49d6a1b",
+      "inhand-left.png": "6f770f7c51a82044f5e26e812ec517c7919f0ae2ec74b1f58daed1691560d818",
+      "inhand-right.png": "9d40a111bb44ef4103ae198d35bcec2f85b00e1499803c32fad82050e5b8b23a",
+      "meta.json": "2ef470120575b162b31a21aa19051ab3f357e9b0465c41cb667270cc85ebeb82"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Service/vending_machine_restock.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Service/vending_machine_restock.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original source: https://github.com/tgstation/tgstation/blob/master/icons/obj/vending_restock.dmi @ commit 014c44ef6279beb02a5f3e76824439fa57181c22 - Sweettoof by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "40dc8d93487808e968ac3a64d1df21b6687350eab37353e1bb1720f8e5e244d5",
+      "green_bit.png": "12f4dc9df94875f1a934e899f05a1a215718f2fbf8458995f7e216979f5ebcb6",
+      "inhand-left.png": "8a8f828f1cc4a28c55f2ea2bb110d7a831c8f15e9c28a31b8c7837415e24de82",
+      "inhand-right.png": "c5fcdb5e9b4fdfe026ed94226c66ad9ba99323d49987ed828463b5b7c931d678",
+      "meta.json": "e019b94ca34335c787edb588715251c416883a522fbac40dc91ebc667d309929",
+      "refill_sweettoof.png": "b8cda3bb0128a8be390c93cee4658c034e4c943f18ef478d85f88df3616e0c8b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/apron.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/apron.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Assripper",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "91f597628568c91bc6293f8c2922ce04b4f87aa4f6135264235bd2c2bb5d2c93",
+      "icon.png": "da4ffd5e3011aa1d38a54f2ecfb3475200e9e08c917cdfe96da6f00ea4b760c0",
+      "inhand-left.png": "29fcb29933b3962965eeb8636e4ff07ecf819649e7b866c5650cf8cd164d9153",
+      "inhand-right.png": "cae1ea7bfe2686b1b2f1345999e0c96b9aa397e179dec6002101f05229756cca",
+      "meta.json": "f125c3c7563bf6e04df8d97466b53f127e31da368b58d75087ecb21ec6678021"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/blood_apron.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/blood_apron.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Modified by loltart",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "0a739b115849a60a6affbf1c7373b662b10ddc14844068cbf72282f869c95d61",
+      "icon.png": "1d6acfab1b5450fb9e55ffe5f26e399f501fcd7a82bfbf0823c1266eb498c75d",
+      "meta.json": "03b8f97cc9ac4a5c93e5794acb3fcbe16efeeb4720af2457129c65a46b644905"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/hockymask/hockey_mask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/hockymask/hockey_mask.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Sprited by Hardbassman",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-reptilian.png": "8f4361e95f94bf0568119a27ea436a19ed1a8029f1a15d0de97718ac1bd4c9b0",
+      "equipped-MASK.png": "e1795651259b14c1cc63770770eb407395d8c69cdad1288e2722fa1555364e55",
+      "icon.png": "e73d755b0871a76e07df8730c92fa968e18558d45dcc4d8c7a15ac02c23f8d73",
+      "meta.json": "dd98a5cdc8249a2056c04e360927f3688647b0cf4e8872461653b956da141215"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/hockymask/hocky_coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/hockymask/hocky_coat.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Sprited by Hardbassman",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-resomi.png": "4a6fdf66dd6950d2d7df0655d9bf7a05130c3cc5ee3870095d894d7dfd31a29a",
+      "equipped-OUTERCLOTHING-vox.png": "2813a5a98a72e00b376064a405c46780a298a7be5aff784958e9780b9a162cf4",
+      "equipped-OUTERCLOTHING.png": "346fdebf530755b83666e30cf330afe7473d6c19f093d3c3f4a21cc40d06b59a",
+      "icon.png": "4aefae564b73b87c1666dcbf4329955c95fcef6ef80de8747df692da23fa85eb",
+      "inhand-left.png": "29a987be8590e1c76cedda845314f791e5827b41b46cc52dcf0c9d7d92358b20",
+      "inhand-right.png": "18455c69f7c4e09daf2eefb707373f0ffead53dfa42b735cfc216099cf4aa29f",
+      "meta.json": "c53fe92794b2d9ffb0bb4a5ea79846a7b0022c3430ec85a91f933e79afe7f269"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/hockymask/hocky_outfit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/hockymask/hocky_outfit.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Sprited by Hardbassman",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a15949e177c5a0123a680b2d720a73fff9221cd988165bc5bde21318741db848",
+      "icon.png": "c3f85126233e54715349872fca3daf5e5a6fd718c026668a9e52c5beccd6b6ea",
+      "inhand-left.png": "b5bd4fd9adf7e9e7886531e2240751f58e21f4d3d43ebcbe5014f830b2901d87",
+      "inhand-right.png": "0546bdb4eba08d84fefc8fe594f5271cd0dcd9a7b018a59169cb0eb5f9719a10",
+      "meta.json": "a812f1316ef0a10126a6f0522db1cc1a411939de5799bae3e2e2a4be013ae513"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/mask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/mask.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Assripper",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "aacae5e62eb6fc249589bbe49076a440b3c0d1eeb78823983fa47128f0c3df06",
+      "icon.png": "80d0fffc4a830f02e36fd59d62c2179d703f3469808e9b1ed5f649d166f87e2c",
+      "inhand-left.png": "234566da78692371ab6001dee9363ca8e33caf86da415a02d964646420bc290e",
+      "inhand-right.png": "a7964071b2db5b7b57c650fb23d891a8d2bc779d1d32c41afb31ef609211a449",
+      "meta.json": "98a7617569b296003e09fae4072f118099e7e4b9b00217fddacb66bbccf16e3a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/spring_apron.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/spring_apron.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Assripper, resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "edd2e062501496579eb868d82a53b6ea5477875fb54f6187e77a3286a3c8a12c",
+      "icon.png": "4cda3a9a23dbee7578cb4229341533cd15460cbdd11c25fa213e3787b4ca0369",
+      "locked-equipped-OUTERCLOTHING.png": "2b5be215136feec77617c6e5fa67ab52cf36c78f2933f81ebb2c70721ae07558",
+      "locked-icon.png": "ed6925db6be3dd5989dba0a90fb524c22103630e1c995d3b8a65789041a4f7ab",
+      "meta.json": "bb5f6d94551c1ada4dc46d0dbc8962cb71a6371949c6c44c9cc834498fbb0f4a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Slasher/spring_mask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Specific/Slasher/spring_mask.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Assripper, resprite by RedTerror",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "bb7744d7e97c1dae0d6861d863d72d3fff4936a993bee46dd85dc7d621981f4f",
+      "icon.png": "18a6218a808134cb0c3b1e4079e1ab5d030bc266853a6f18c12d3d63958de2d9",
+      "locked-equipped-HELMET.png": "929cc6a8ce9fa047f726c68387acd2d0a1d5f278d26d0635ec936998d3acb541",
+      "locked-icon.png": "c99f47994cd1e141ef9f33e405b5e88922c327ea62fc8a34489bf981ffb585ca",
+      "meta.json": "4bd7041cd44c77d92ff29343f227e9bf714e94d2318c89bbc48fe17d9f79e952"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Storage/binglecrate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Storage/binglecrate.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Sarahon (github) for Goobstation.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "ed4a57f4181a208ac96294b2431d53c93dc7095340d7113cd5bd94a884d82968",
+      "closed.png": "d64d5b5c82d335f35195246560ebc4d97add13eb54a0520e5115643d85550dd5",
+      "icon.png": "943b55cd3879a0d9cf28c4fdb2a439ca15c2d45d4e08aa3df7de0373bd92c9bc",
+      "meta.json": "9e8e0ebfed2bd5da60e0b64cfb8c1bc5015d67e1c6a468d89472619b63175ce0",
+      "open.png": "d93151e177cdf7164ad56724f394ab9579b1e280ffd8b48c8aa0efdc10fe65c8",
+      "sparking.png": "ae9c8adaad25016aefd43bf460a6934e1328a1c36519ae301fa2b75daa26abf4",
+      "welded.png": "7195b9ab7ffb356ee7f25b6c3aa19de2d90a44f01960b6f16b290ae50a89924a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Storage/boxes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Storage/boxes.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "brainrot made by piras314, the rest taken from tgstation at commit https://github.com/tgstation/tgstation/commit/cc65477c04f7403ca8a457bd5bae69a01abadbf0, encryptokey was taken from Baystation12 at https://github.com/infinitystation/Baystation12/blob/073f678cdce92edb8fcd55f9ffc9f0523bf31506/icons/obj/radio.dmi and modified by lapatison. boxwidetoy, shelltoy, swab, flare, inflatable, trashbag, magazine, holo and forensic created by potato1234x (github) for ss14 based on toys.rsi, mouth_swab.rsi, flare.rsi, inflatable_wall.rsi, trashbag.rsi, caseless_pistol_mag.rsi, guardians.rsi and bureaucracy.rsi respectively, candle and darts created by TheShuEd for ss14, throwing_knives and vials was drawn by Ubaser, evidence_markers by moomoobeef, nitrogentank modified from extendedtank by Errant, agrichemkit by Cerol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "box.png": "3dc75d8189e789401c1bf2df245acb466191efe2f3c5e2a86c455fcb208ea3f2",
+      "box_of_doom.png": "64f7944dbcfb9745c427ffc886e8689febb800c2ae5747f80562ad2fc76d589f",
+      "brainrot.png": "d220c47fbee820235a20d2fdcd27be9037c7b9afbb9be081bf6ab64970dc1799",
+      "inhand-left.png": "984be2cf2dc8740e671f18ba48244a2bab469b8c238db00163f97ef9f846fda2",
+      "inhand-right.png": "97f75012499b30a58c2ae8f598092f3b9d5f1e1a33caaaacb9a68860e0fff50b",
+      "meta.json": "e83c080fdc1e5463ade9016c9c672a978581f1941661b16a5e72a95ef0e40c8d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Storage/deterrentcase.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Storage/deterrentcase.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "d3279090d4b5a6b7d8597ef045cde9fea7f87c7f2da9c9c06a57e89b831dba75",
+      "meta.json": "d3324afc62d281ca840337765d72a6bcd8e359c5569e0ba1a8effeb29ca2ff55",
+      "open.png": "9e903aecb2ba3372eeb2d47d6d8571360f9a3e1250103796f99eafa90bb63a74"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tanks/chronojet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tanks/chronojet.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-SUITSTORAGE.png": "7b887eb9870ca57db5904e8e21a18c63ff01c0bfd3a258647a7fe71458ba5690",
+      "icon-on.png": "75374253caa79a59fd6a17cbf99a058e62bdc8dbdce5dce7b8100f8388a88791",
+      "icon.png": "551c12b3aa5029b47c122d3216570090eb800e22580ee6a7ee6f8fc5ab782142",
+      "meta.json": "ba4e2e64f81e51ab9f4de69deca11c6953e077c127b6370974b1f129d5706dcc",
+      "on-equipped-SUITSTORAGE.png": "b38705ef01e8c3a651c3f852529ecd50e6b62bd15a299e0dcd633df8ea3e7b76"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tanks/contractorpack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tanks/contractorpack.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/1592a112e3d33eec4a0704b518a138d5a976f455. Dog states modified from base states by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "b47db725603fadc766d0ef95be83596f5fb85f74b2cb60c29fc87f045c54fe85",
+      "equipped-SUITSTORAGE.png": "b47db725603fadc766d0ef95be83596f5fb85f74b2cb60c29fc87f045c54fe85",
+      "icon-on.png": "76625134d4a8b03c53aa6585111dbd1cec82d6e70c6651ebb95ed52bba4a8394",
+      "icon.png": "29758f841df9c09e6c3a81fe409de4ba6e05260a185a99e69a716b5d1b9f6a5d",
+      "inhand-left.png": "31e3667ad29ccce94a62be001c54ab5e089b0a7b0663bbb761f094830b083dcc",
+      "inhand-right.png": "f42ffe9f44dc5574f1449003e83b328034b05621c0cf880e4199375dc01f3240",
+      "meta.json": "e61fc73fd9d45811648b0959cd41d6d46d93a81138e1c7137b194f9d7525ab8c",
+      "on-equipped-BACKPACK.png": "e36b255095f4a0981dde39235a3a178c2fe6f7bd888692027f82c0c9a1449597",
+      "on-equipped-SUITSTORAGE.png": "e36b255095f4a0981dde39235a3a178c2fe6f7bd888692027f82c0c9a1449597"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tiles/bingle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tiles/bingle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "george gimmi self antag extrodinare",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bingletile.png": "484967dcb22cabdcbfed644ad7be35e6e9f16c1c4f8b1710350488cbacef5ffd",
+      "meta.json": "ac927d7347ea50a2993b17781dd41b8aafb5c8224bd55c5e3b87dc0d0318bec0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tiles/canvas.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tiles/canvas.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by NotSoDana, discord: dezzzix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "canvas-inhand-left.png": "35173a4958a242a3f95ef39e3ceb15313d1d05e292a347b6f641e6f8b2c0b1ad",
+      "canvas-inhand-right.png": "67d5a3b29fe4640d1a20cbeeccf05e792da8c0d900aea9d61d744611cbd99b09",
+      "canvas-tile.png": "29a459d7b39a0584639ecc18362f759f405450b7de5c70d2b8d591f1f15adab9",
+      "meta.json": "dceee600c0d8131b9034483a9a8ef29cc0ad4b1af014735545b84e51f4a7030d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/chemical_mixer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/chemical_mixer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From TG station https://github.com/tgstation/tgstation, edited (beaker) by UmbiMax",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chemical_mixer.png": "c4b8d1b8f3773170aac23059d1a5ec67a06026d7eb7b418bf31355ba17ee7cda",
+      "chemical_mixer_beaker.png": "efed6e162e04db86c4c09c6e325bdd0703cf611b35c306d4adf28fa477833da3",
+      "incomplete.png": "4e2641b8c791d0a45ed0069550f0efe6d8e597c7543824aecb13be53fec06a04",
+      "meta.json": "b085a691cf10bd245e9b26420fb3ba50cf2ee23ce62355ddbd5c4378cb76a83e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/doorjack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/doorjack.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made my Armok",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "316e6bb029bed26f6c9086ce58c78de39a5b805e99de76abbdebf0c387870d8c",
+      "inhand-left.png": "fab4c605a0420364d2e75319ca62299cd43f4ba77d75a717d89fb51aa6efe25d",
+      "inhand-right.png": "b43ebb5c97231d1263eaa8a3af59e339d53f527540e0e75822e0b70eb97db40f",
+      "meta.json": "acb2a5807bd9a67f1189c133f38f8dd3a890bb566fab23d33f69ca94c13d8677"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/executive_briefcase.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/executive_briefcase.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Theapug - https://discord.com/channels/1202734573247795300/1236697829171527841/1286255122007068742",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "3da71ef882456a302fff7850dc5dae994ab6af7ca7afe0f43d4df17af4f89314",
+      "icon_alt.png": "40838462479ecc0df05d52f314e378785766885132bc6a62d3abaad6216049d0",
+      "inhand-left.png": "b8f41cfb9e01cd4cc2b925eb8e46a1bb405ffbce622a31cbc186dbda01ae2e2e",
+      "inhand-right.png": "6ba49611fbe69559f69778dbb407ae0f89f952c3afe1efbdb97a4260a81d2dbe",
+      "meta.json": "b2bad856efa2c600b201a55a998923274021e4e4d2f78a43d5816bcc497ad456"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/handheld_fax.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/handheld_fax.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Theapug - https://discord.com/channels/1202734573247795300/1236697829171527841/1286255122007068742",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f72f89c641c0c27392fe170623134f9fa52b694f77faa45aba93538f5222e8e5",
+      "idle.png": "f72f89c641c0c27392fe170623134f9fa52b694f77faa45aba93538f5222e8e5",
+      "inhand-left.png": "f50788c6095dfefc40f296203aeb04c1439f183ec789be528294cfd05cf5e756",
+      "inhand-right.png": "f50788c6095dfefc40f296203aeb04c1439f183ec789be528294cfd05cf5e756",
+      "inserting.png": "0bb7bcf6eba003ab85f6338dcd34528595e4302a69d987aa32d359ffca06d3f2",
+      "meta.json": "c562d424d8a401b053cd07c8cc9642bf29bc8d36486f4dfc22155572b773b286",
+      "printing.png": "cb8db35bc9fc83e82c17ee32cf2459d0269a0409a36f3de1129de2ace62f6f73",
+      "scanner.png": "80b7cddad202f75dd1ae18e06de21d8022dbfbc9c01e09bbf488c2aec8e85335"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/lighters.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/lighters.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by SolsticeOfTheWinter, resprite by VictorJob",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "7d12ef4de9cef57b279c24cc3c6d3ca6930e816b0b6dfd4484a40382d72e89fb",
+      "icon_open.png": "773991f877ce5e1c2168e920b1cc3aa9c2a3971c3e4977593785595ad01d2d81",
+      "lighter_flame.png": "bff64056c14f9004e8b7eea5333e2e237eec9ab07429ccfb869c4518145f3c95",
+      "meta.json": "579c65d74529bad450bfffc87270d15996694ad2071ad4a2fda629d57074c5ab",
+      "zippo-inhand-left-flame.png": "ffc5e2d985471ffe3d50ad057ab5d0dce0e4b1963e3bf0f11c8c9b2974eb4d15",
+      "zippo-inhand-left.png": "d567793d090d8a95dbae328e7d75d28823403facc98e3bfb4894f662376f48d7",
+      "zippo-inhand-right-flame.png": "d3258c2edeed1adb36baee3c2e53d4b643b3fb5a00f795216a7ec46246a5742f",
+      "zippo-inhand-right.png": "32fcecdbb02405339b7301aa4fd5f5401632df4d82573b5f0ad170baf0d389ef",
+      "zippo_top.png": "ddce29855509dd9da7c62d9b8a5409530f7154912a2b222f9703d619f7a7e26e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/megaphones/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/megaphones/cargo.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg at https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_lefthand.dmi, https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_righthand.dmi and https://github.com/tgstation/tgstation/blob/master/icons/obj/devices/voice.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "a6bfea0e06f5a370571b51b1d3de09e0127501dbb7ad8441bcecec272d610e5e",
+      "inhand-left.png": "db4150a1aede8ebc5e03ff98bd1103469a3721fb87cb4ab6f510af4e0f790a26",
+      "inhand-right.png": "eca0a59d7a4202729abf1149767184789edce69d5188d182cdfbc25ff433fd1c",
+      "meta.json": "8f07ed109081c400ccdbe33006754b3c810278e5378d7670b2380f7d5dea902c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/megaphones/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/megaphones/clown.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg at https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_lefthand.dmi, https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_righthand.dmi and https://github.com/tgstation/tgstation/blob/master/icons/obj/devices/voice.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "0f9ef88f62a60f3b31c89ea17de5460b296cb6ee7c829ca32a18f17659d474f7",
+      "inhand-left.png": "9b8efef99a644013ba21ef18eea8cfe081dba28b8244d1d4f0325127a959fe2d",
+      "inhand-right.png": "2e661b71c0177a15b52c5136704046c6b02057bddd7991ddef09c579589de5fb",
+      "meta.json": "8f07ed109081c400ccdbe33006754b3c810278e5378d7670b2380f7d5dea902c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/megaphones/command.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/megaphones/command.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg at https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_lefthand.dmi, https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_righthand.dmi and https://github.com/tgstation/tgstation/blob/master/icons/obj/devices/voice.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f83996113ee32b6fb7fb5d651c4c3b4dfbd0ab1d3e0592c3bfbad598fb48569e",
+      "inhand-left.png": "5220e2a98949f777cdfd69436717329d9779d31363f244d108a794d096dbd18d",
+      "inhand-right.png": "f4a1536455f3cd156e1f173e7520e82263221859a3651b284d28bce200d59c3f",
+      "meta.json": "8f07ed109081c400ccdbe33006754b3c810278e5378d7670b2380f7d5dea902c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/megaphones/generic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/megaphones/generic.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg at https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_lefthand.dmi, https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_righthand.dmi and https://github.com/tgstation/tgstation/blob/master/icons/obj/devices/voice.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1c8805bf8829bc072e920f6090d3b5bc5fac3141cda8adc7025ebdd95ff65aa9",
+      "inhand-left.png": "8a979972e1bf7f01d985c6d351cff6c41850e8312f6fd3a41e6851bb3fb8a097",
+      "inhand-right.png": "d5df4934cc993371d8275ee04ab24e53d930d178562474b32ccbf1e1e1ddf4c6",
+      "meta.json": "8f07ed109081c400ccdbe33006754b3c810278e5378d7670b2380f7d5dea902c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/megaphones/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/megaphones/security.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg at https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_lefthand.dmi, https://github.com/tgstation/tgstation/blob/master/icons/mob/inhands/items/megaphone_righthand.dmi and https://github.com/tgstation/tgstation/blob/master/icons/obj/devices/voice.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "7061b6e3d80c48ca4b2cf47418ceb778623c9e1566454e56f050c899d5cddae1",
+      "inhand-left.png": "85df6c7478b7d2d8a1fab64ff601a58ef5bd2800f9b2372a0aa56aeb784316d0",
+      "inhand-right.png": "00878350ec673136a3fc46519128d0716ecd2343e8fe2ee54db8a8fcc59f8cea",
+      "meta.json": "8f07ed109081c400ccdbe33006754b3c810278e5378d7670b2380f7d5dea902c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/official_fax.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/official_fax.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Theapug - https://discord.com/channels/1202734573247795300/1236697829171527841/1286255122007068742",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "bd873c5cae024ee9f8e59c5f7a1847b440c4efbd78b8ce4eae2da3a3a10da117",
+      "idle.png": "bd873c5cae024ee9f8e59c5f7a1847b440c4efbd78b8ce4eae2da3a3a10da117",
+      "inserting.png": "d65794d6992e051019ccbd9ba6eee8b06421e95ddb7da5b461a4a458e9f3fc00",
+      "meta.json": "39fd76189f0eea9292bbd892d950a54e1ae374cb4f326dcf81f663d4cc5b20e2",
+      "printing.png": "3eabaf4fcc9318ee3833c264287498d8e692ac6e5b46aa3a66070eeb8890d9b7",
+      "scanner.png": "11aac523d1bea670cd921df674bf549365c633c5d1dac2e6b9bb0a0906d63430"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tools/rcd_chrono.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Tools/rcd_chrono.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ad4dd75b78d6c5b248d0de71a24eef0e60aaaf5a15cab146ba7d8a506f71675c",
+      "inhand-left.png": "69784cfcb01a6c0ed2f9ee014e0347b1ffaf7e3a73a23664d10b52ac52369472",
+      "inhand-right.png": "9e1247e04231e7913683493aa01e9cdc5c08e6309e0722cd4dce90fb396cd569",
+      "meta.json": "ebefdb2bc21a243bf977fa79b146dda0bffdb912a241cb0aba7ca34c050190fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Vehicles/broomstick.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Vehicles/broomstick.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By fizzoghoster (Discord), edited by Roudenn (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "c06a456727aa3f712fd5c525735c63ff4c23931ba68b2b482eb3425f44856170",
+      "inhand-right.png": "588365058150dfd4351d8577bcc735cebe685c61bafca3fa6e592b2710966aab",
+      "meta.json": "18e967b8eb9ad6130b242c6a1fa758f1710f97f0b83c28b7da9c5b5b0a20b620",
+      "vehicle.png": "4048939af05aac5ced92312f048bfb9725620b6da55cfd79ab2f9b32ce5c428c",
+      "vehicle_folded.png": "a9583f93e853cadb48e62b40f1edd3d3933aa8d45d1f819d9ec89c4d3a05ddde"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Vehicles/clowncar.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Vehicles/clowncar.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/blob/ae8ed395e11ff7c36a5292d173528f8686eb5b90/icons/obj/vehicles.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "clowncar.png": "00b506f43b7f0086c91b5753eab4c0e2edf28f1a2650946c154593db04b7909f",
+      "clowncar_fire.png": "c0459f80bd422216bf64a723fc95df9b46437c2902e0248e75155762ef53a8b3",
+      "clowncar_fromfire.png": "f9f428145cbd55a8e1e975c652a1c261185e7ddabb9de00cd7c87f40b8b35c94",
+      "clowncar_recoil.png": "8aab088941301f4fdae466700fd7310a3e58ba8018509805baa24b4ec091fa57",
+      "clowncar_tofire.png": "c46d0392037a3aded3e845caa79c5c49c44269ddba3c285ea4b54db5e9ec869d",
+      "meta.json": "f18477a8f4f64920629d3a187aa7c90291af90cf5dcafd8f8ddaffa2dd8ad395"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Vehicles/forklift.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Vehicles/forklift.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from goonstation at https://github.com/goonstation/goonstation/blob/d226c688516e6308521a9931578677744292476f/icons/obj/vehicles.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "forklift.png": "a913e6ce81950d11d7094e628deb6a746f7c1f1aec44df61cf86aea540037ec6",
+      "forklift1.png": "46cf8d6967b0bae4519e4d6eb7391ece7cd8b3aeb881cc8c536c1754ea393786",
+      "forklift_crate.png": "ad7dbf8540c880cf5956c97d792afba2506e0710cc08e3494021d7ff6a2dc233",
+      "forklift_crate2.png": "ad91b60a0328e3de9830f52db52aa592f393e4366b2f603d9f512d4686f9c6f7",
+      "forklift_crate3.png": "16c5a168e24a0b709826dfa336ffcb3a7ea580a8edea8d39b8bdb8c7b4e13104",
+      "forklift_crate4.png": "af1e38495f7b4799f0b8774b9028cefebf2796a5e918d663cd3b89ff3ec3db82",
+      "forklift_light.png": "5067faad02d720d6855a814e27bbb271081a2bc77f1e7a8d93c75ef00be6f7fd",
+      "forklift_panel.png": "4d976ccdd7080f6bd7faa07ac3a0f5ba36fa9708cfe6db242f565b4cdc07ce44",
+      "meta.json": "238173bfdeea49c9600a679800d4415c27e4d102abeb8b6d8bb613d94f6ad994"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Vehicles/hoverchair.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Vehicles/hoverchair.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Github: ItsMeThom",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "1d86d746bded3aa76a897033bae6a9702853fc03c843e3881bd1abd94ccc1672",
+      "vehicle.png": "52304dbc4da460c2e47d838a1854caa08f4776bad77d3fd1838f809236bae63c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Bombs/Molotov.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Bombs/Molotov.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by armok",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "72bf0ce1919068a57f7df893444f565c89b5f2566ab45b3f99e0ff18290cca9a",
+      "inhand-right.png": "954ac3d102d0bf5481899bc205daf145af1fca0fda2debe13c3b2bf85fa1c179",
+      "lit.png": "c26c24ac65b65a67090f4ff0188b085b5534ff73d3d37e4356d5dd46a8fc92ad",
+      "meta.json": "ff3cf2b13d59ff6354ce38243609babb5fc14cc53de86f64fb3dcd6f77ee2d39",
+      "unlit.png": "3c2e0f3c5236abbbf5ef88230b7b4c403adf0a49cfaf1477c7986e5c3cc5ff1b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Bombs/Pizzabomb.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Bombs/Pizzabomb.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/40d75cc340c63582fb66ce15bf75a36115f6bdaa , primed sprite made by _Rot on Discord for use in Harmony",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "box-inhand-left.png": "78e2d744601f198e2b7ced08364da32900285a5cf49c3759d048f89a9c0e6985",
+      "box-inhand-right.png": "cb695216dfff49de369438e4c3729b96b96e8c2fd729c652552a374f77dd1fbf",
+      "icon.png": "18f4cb5de375c682abcc0f7761f7922ea14768f85695186cc883bf46906cb71d",
+      "meta.json": "1b4ad5a66df4f9271ebe740f30c04eac96a163282ebbf5d150425faca53af37d",
+      "primed.png": "015fc6f545a9555d284a1b23d773d6f8be676a9c83183e5be453475380a6c4a3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/flesh_spike_hand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/flesh_spike_hand.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by https://github.com/VigersRay",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "0d3cb72b67f2cf9aa020515ca84590dee66644eb3a5de2ca2c34d553e65f6053",
+      "inhand-left.png": "16e2bd95d9a14d52811a47b0015169dd5e5d6be1ad507fd4153c9c9fb0e45b4e",
+      "inhand-right.png": "f30aba9b68749afd472e3478f08cd86baf4ca69f894a6f55a41cb046b0a6c7fb",
+      "meta.json": "01decd4e8bfd8b6ae4fb540e6358ddc5804d7759cdc877bd8dc6cf09ea3827c0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Grenades/beenades.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Grenades/beenades.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites lovingly handcrafted by BeeRobyn on discord (haha get it? BEErobyn?)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1332a567e95f5503fffc556403065d3a00f2ce982d62fe9ff7660ce25626de9e",
+      "meta.json": "f1e1c7f3fe505328d21e0b33aca68b2b2d935244b90c8673b87530a65dc19d94",
+      "primed.png": "d21d74b4cb001d4a49b7361eb25a9ae0780d0cd1b3b479d9c91a6105c911c93f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Cartridges/highcaliber-shell.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Cartridges/highcaliber-shell.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Gallaghin",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base-spent.png": "9986de67c214ef882056265717180fd79535dc5b34542e84394db7c8baeb0ee5",
+      "base.png": "6ce6ceb205c208206c85f9964243b0aebdf41af05502609e7fb07209e29d1d7f",
+      "beanbag-spent.png": "3c62b53c3f6c8335327ff6d9c23b321431148e00af82ccca196221cc30785a7a",
+      "beanbag.png": "0b82f96028de63e3edb4bca0e2abf5c1ee10ee933b5bcce30deb6ae76ba57110",
+      "depleted-uranium-spent.png": "cb41cc1882fed542d77d0c54aaa6655f957a95e2d4d532d17cc3de654c708704",
+      "depleted-uranium.png": "315aefc785d062096068ae47c1ff5f2389a5f1787ed0a3775cb55b082a5ff53a",
+      "emp-spent.png": "b6bbd32c993684610f656c2eebb49a0001af617eadfc32a27ca6a9964d8a3574",
+      "emp.png": "271a73d8696d8a1972f64c0d2b3f1e19b116d06d5f8dec73cda482fffb8b519e",
+      "flash-spent.png": "fef81f5b9568ef569490d5ae454f0d0bef510849f35bc60b18f334164264d254",
+      "flash.png": "8e74dcae26f82cfb02b92ed0b7eff0249145cded7e1e1d738e3802a4db27b71e",
+      "incendiary-spent.png": "b87d73fd7c93e686322db8791a9e454ea05e660bcd93746b64a364e1a1d60d21",
+      "incendiary.png": "a286278fda491b0f5e02a82945465c43061c6a745e81cd953b92e2e473ddb177",
+      "meta.json": "bc75d29afdbe643142783b2b02fa088cfd391bd838ac3252ac1c08173d291a52",
+      "practice-spent.png": "be8e285a32f6c963b15965b653856cf8767e10004ced85d0701fc8b63fc6bcf4",
+      "practice.png": "083298aaa1fd92445684367a32cb6ff78fe589f328f39b4f95d60cf62cc7ee68",
+      "slug-spent.png": "2ce08f52746a1ec70745ecb24c2d503386370a7148cfdd54abfbc6eee4b15569",
+      "slug.png": "af1edb3f2bfea96d701821b651e4a40a12bcf43f084e657d077414147d8a5893",
+      "snare-spent.png": "29ffe5bba8a278fc54f807069e4b23940b117edff7ebbe22e945a69665b9796b",
+      "snare.png": "417d79c2ff253d972568524ad046a7a2624ed24aa11ce941349b5437bbb4e18a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Weapons/Guns/Ammunition/Cartridges/magshot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Objects/Weapons/Guns/Ammunition/Cartridges/magshot.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from baystation12 at https://github.com/Baystation12/Baystation12/commit/2cc55fe15fc304ccccb835eb7aeff6ddc31e0e94",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "fshell-spent.png": "d2242f37611c4291476c2b60e9c4cf81f7db416af0e1dfeb8ec925ecbc9b86f7",
+      "fshell.png": "1af4bb8c1d54c076b49888cca4e64f2c4e315b17419d422dbe0e2ee7e17f9f32",
+      "gshell-spent.png": "6d4d165d788cd1e1772db55c273d6d2a2df51fbb057331410c4af6ba6e7db620",
+      "gshell.png": "2afcbdd8ba161fd25066657a8562fc2b37f1dfb1fff2f428d5f15ccc07cccd66",
+      "meta.json": "a0f98dd74eeb30ed4e11ca82064ec8c1f2869a575b7d542fb9c0ddaccb656f8a"
+    },
+    "replaces": []
+  }
+]

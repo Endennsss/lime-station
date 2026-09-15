@@ -1,0 +1,953 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083), edited by InfinityRedPanda(github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "75b70105a366339cb9fc0b4439bcea6e3818b19a9ddcf4553a69bbb4f608291f",
+      "equipped-INNERCLOTHING.png": "c2c3a2b9bbfeb06579c90c751553b8f14a0423c3cc95774124fdfb01621fb6e9",
+      "icon.png": "2e4f618c8651bda60aa258158ee55ddaf47979c56be7a65640b7a7372a2c68fe",
+      "inhand-left.png": "f272c3d78f87c135e8f8bcb67172ed5bd63740f323a759bcbfd294a7f0a5545d",
+      "inhand-right.png": "37d90c0936e083944cdccfffb3fecc16fc64025e4789fb8f56f42e0a527fc795",
+      "meta.json": "8c468a02d700560bd4d790efa1bd8bb43ebccc8dd5d50eea9df3ff8fd5230722"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cluwne.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cluwne.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by brainfood1183 (github) for ss14. In hand sprite scaled down by potato1234_x",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "95b43a726d57f5c99276ec9a9e2f39eab13e1b8bafb92fbd2215b9c6791c3d95",
+      "equipped-INNERCLOTHING.png": "4edb41ec7916b39aad5d51c628618a0f06692605efa3797b671dd36c4ce37d3b",
+      "icon.png": "1222cf7e29d2d4ce88a66a89034149fb58fe058174ff98466b917d28d3db2f9a",
+      "inhand-left.png": "db3aea63c31a5a5fef484a9082db872ff8285d3d63766686e02de7fd56031c3e",
+      "inhand-right.png": "d7fc8303f7d0c8d06188890406ce0a9c851ca0088ec3f5ee15ca6669e4bbceff",
+      "meta.json": "3e843d3db26bc04dcfb58c5e2d400467882fe4cf2f288f718886675a2082c19a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cmo_turtle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cmo_turtle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Borrowed from QM turtleneck at https://github.com/space-wizards/space-station-14/tree/master/Resources/Textures/Clothing/Uniforms/Jumpsuit/qmturtle.rsi and modified by Hanzdegloker (github) for space station 14, resprited from https://github.com/space-syndicate/space-station-14/commit/ea49d33ef6875a9cac4a328dc24d39771d61debd by Deenkaide (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "43c679f5941b2f697360bee3f69955a037c9407c794ce48751b2bcb05b76fd22",
+      "equipped-INNERCLOTHING.png": "fd976d14558d28054cea5f6ba184fb5030e2cec92dd8ad4a17b6b96e6c65accd",
+      "icon.png": "210bddedc10b29ae4a888ca608fa99a89ce66bcbc878aa9d097501ccda78e8c0",
+      "inhand-left.png": "0b2d000c22fa14a5c632ec84f0401af96b99d28d7dfc3ba5e8f5dbb26ef767a6",
+      "inhand-right.png": "f541f1f782f625462c4fa08c4ccb0515e5a52362470904a28389a1c351ff1deb",
+      "meta.json": "59fab873c8a20aaf0b8ab3a71b1fe6f4356ca2d597159ac36d7d28160ab93910"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cmo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "e4a14fb079c1e77596345aec8e2d7e9bd2f05f36fde042e78f4c2a15bee9e79c",
+      "equipped-INNERCLOTHING.png": "75948ea43a90008f0fe828bf96960e9833615066d4e0e8ccf1915aa11e04d532",
+      "icon.png": "31a4ea0d29571ddfdab67f7dc11545f2415afbc46658dfd6787334b19b170480",
+      "inhand-left.png": "bdbeb9c74a46cd74d602e25b8ba40b18d9d221632e0053bfa395b4def2c87889",
+      "inhand-right.png": "7b1c3bea828cf3a9240cd9548321dce6adb1077f9791caa6325e9e7ff678bf40",
+      "meta.json": "9fd4fad8c61adb10e51551c2d75b105a673f0f71a4805dc78bbc4f1a62e1edf1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/color.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/color.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/993de554ecfc30cc45f8340819c5a60ef1eee7e1 and modified for SS14 by Flareguy & P3MOIRA",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "29e3e780d0b87334ddccecab7a1a2186103ef0b37d276c57317bc7ecf1190669",
+      "icon.png": "86d670933f9b34293d4998d10959a0e61bbb231e7ecf59b40e2b92720e0fb82c",
+      "inhand-left.png": "cad7d52f4dcebf9b46709d207745218a8d40e3e1755924764ebb534325a6a7d9",
+      "inhand-right.png": "077c8ab92f6c7b55d0d6d95c03685b004c11537371afd21aed8740d642d43d07",
+      "meta.json": "d89fdc06a972cdeab20bf3b7be5400585408016724c9c5f8dc489166c98572aa",
+      "prisoner-equipped-INNERCLOTHING.png": "6b29d84b1fe1dc4dbfc0d152b62e34ac25a75acc4115f4115aa4a07fc2057beb",
+      "prisoner-icon.png": "5978f512d457379fb47eb1e490cf24bebeb78021eb65ae8fd659e580da9ea2f6",
+      "prisoner-inhand-left.png": "f1414a2d3fa0029b6e90137bb4d9dd33925954e9ae034709be1d5492e6e6b73d",
+      "prisoner-inhand-right.png": "cdabf55624417e6525666cc792b7d120f98b7d98ff72317275162b9bebdd2945",
+      "trinkets-equipped-INNERCLOTHING.png": "f90743a4d354fbeb2f95534fda1548b39e4f8ea796452ebe61f9474e75c16398",
+      "trinkets-icon.png": "6857e3bf4ab7225dd0651cbef778197e6da2014a9419682fbedb5b452a363ce6",
+      "trinkets-inhand-left.png": "24573ce2adcb8b11e53256409c502fa12365d59550114e846ae16f45e2855b98",
+      "trinkets-inhand-right.png": "19de7b1c23a28ec99386333c4553ae06ebe97c7efdd884d66fbcc2c0f8158fd8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/commandgeneric.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/commandgeneric.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made GoldenCan(github) based on medical taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite by GoldenCan(github) based on medical.rsi in hand sprite which was scaled down from the sprites from tgstation by potato1234_x. Monkey sprite made by GoldenCan(github) based on medical.rsi monkey sprite made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "b215cc464a02e8d878dfab9ce5fac1496c07d757646a58f2eccc74ce43a15a7d",
+      "equipped-INNERCLOTHING.png": "43b32ed10246822f75eba97d1be276ecfd078d079787d6841c807d17e92fb70f",
+      "icon.png": "8561435cdc36b65e6dc1026ba862fdff27e008ae5d5fa3e3fbcc4ab82786e9df",
+      "inhand-left.png": "5faf0533c23f19ac290777b2e88eb93907bd7d621b9516d06e2554a3cbf6cacc",
+      "inhand-right.png": "9ff0d43fc7adf4f6a55b6d897f57dfc5d3e0b2e841573d85b6af3c930ad4af44",
+      "meta.json": "59a65dd22a7300bdd67c75198a21695da6de01837358f8c376a268e3ae836599"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cossack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cossack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Tunguso4ka (github) for SS14, monkey made by brainfood1183 (github) for ss14, edited by Alekshhh",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "68e142d4ce7b71c71b5d54192d06c15cc91f54f01007bcbfb5dcea4a12840b55",
+      "equipped-INNERCLOTHING.png": "27b35060149c8ae74e7d54cf9de0885052ff73d9c66c805850bdbd211d2d4cbc",
+      "icon.png": "7d8bb15f65f0118bef1d92e18856e354ffb6b14bd0760a67f4c7c8c337fb2039",
+      "inhand-left.png": "64a87423252db67c55aab6a9af76d1d60db38dc4896dfaabb1bd4757edbe9a8f",
+      "inhand-right.png": "ae69db4f2787ce2850899a1cb2b191f009e3ac52a4d1e298a7b3fd241f594e9a",
+      "meta.json": "c838e49c63627f0c6ecfd8baf945b95c63474bd1709fae238f53841fa4554c8d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/curator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/curator.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47718914e47c6fbf23d6dc97f073a9daa11b23cb and modified by potato1234x (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "c8dde135e2de8d28fb99e95d2bf6fc91e3eec44f26055edb8dfc66a47ed862d9",
+      "equipped-INNERCLOTHING.png": "fc334922ab6b4a0394826f6b9e12b58ea7dbabb24acc76a19f1d21b77b2fcea5",
+      "icon.png": "09a9c96c30b9def0c707854737382e1024766833f1d89ddbf10d0a747e5ef944",
+      "inhand-left.png": "48d1647de49b0949403267bd52d92123ae80bde652f459dd4ac6e435f134785d",
+      "inhand-right.png": "0f3ba4079a2588385de8bd240fbc17da011b04c7975f0491e1b48155d9cb9fe9",
+      "meta.json": "aac2a5ccf13d69eaf261fb2f066f41fee12724d2a19fc405180218421930697c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Alekshhh (Github) for SS14, inspired by Kazuma Kiryu outfit, monkey made by brainfood1183 (github), monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "dde878f8315f45eae3a0cff64071fb905b30dc951ca280a3bb897e33aa7de35f",
+      "equipped-INNERCLOTHING.png": "4f5ad743b084c1ddd3eddb4b031dc4155c3a82653afbebbbda85a33037137b3a",
+      "icon.png": "fc4ea1cb0c1dd8190b248e44a61fe13940ec45ec03182c5f6e7322890621f633",
+      "inhand-left.png": "0ecdbf3fcc2117511c018ec3f55677c7aedf60d737fb4c1adccc15e3f5fe6dcc",
+      "inhand-right.png": "90b042599b348621ddce4337baed7c727150f8d84413dd1995af4cd95c6f10fd",
+      "meta.json": "48c7c3159cfa7543ed599c37d8aace38c5c8bb6abc6fda8c3f95806c74471a3d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by KEEYNy (Github) for Space Station 14. contacts: https://github.com/KEEYNy  discord: KEEYN#3805",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "9717966e799656952311ba73470cb814f584b12170ed317d0602bddac0169981",
+      "icon.png": "3884c70116c201d22cc7193f38c616ab321a417e61e770b8e3f1f6626dbbce70",
+      "inhand-left.png": "9c69452a8711fa582b4e95731d7b4d7e194d16c38b03c574e80a8f72a0fd1d04",
+      "inhand-right.png": "5cffb83f5eb2dcb0fd42497f35d093e6452c5a57590505a11b26444799299dac",
+      "meta.json": "9358e176feb964d8adc4c76d0fe811deb0464f941dfc87426eff41eadb02eab3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/detective_grey.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/detective_grey.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5ea6d8b4422027d0c22cb415d1f05a08bf39aaa0, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8515ff0758d269c3d576b050fc61b066752ea4717201a5499bb6be6111a53e1f",
+      "equipped-INNERCLOTHING.png": "0df32a46eb3d234ccabc54678b2ff89038f594747d5ddd9a9a706b2cc6dcaf83",
+      "icon.png": "400610f243b915a467d98d59870d4fda108d7d221ca6154547f509d3d5db6831",
+      "inhand-left.png": "95a782af39eaa082d382b98189d4fedd2aa54263acef4b3db21e796d015d3d63",
+      "inhand-right.png": "904a1bf8fbef33ef69a13d2e5d1b41e8b2fc2b70e6f7eb18fa517d17f0b0e539",
+      "meta.json": "4263f30651222f9fda1c802654c17ff67857ec435efbe7668ef507382082d8a9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/detective.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/detective.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5ea6d8b4422027d0c22cb415d1f05a08bf39aaa0, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "d304814aded10f4521e9fd8acee0b80f1d82a0bf34baf32d50fb5be1e32155ff",
+      "equipped-INNERCLOTHING.png": "50b1d1712ba8dba3abed10fba45b40a327d10df2bb5b86dd1a9e5fb75ea075f6",
+      "icon.png": "8d157430259a1161b41ad706c8fdb0d6657685f73f353e4bee0c880505defccf",
+      "inhand-left.png": "ffe1cc1ba393acb8b47802ac73010e093c37eb067da033c4f4a38f905240b667",
+      "inhand-right.png": "518a90365647032a7827d965dfa9700dc03f8b71082b10a23a96e7c14c606f7f",
+      "meta.json": "4263f30651222f9fda1c802654c17ff67857ec435efbe7668ef507382082d8a9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/engineering_hazard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/engineering_hazard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "cf3d186edb8d6be12b1ce3446e5967fdaf62e547cad0ac26e4e6f2f2264dbb10",
+      "equipped-INNERCLOTHING.png": "ff27a059fb76cd3053333a785228504832c00136b54d98796641a7170ffeeaef",
+      "icon.png": "6d1f2b84deac36a57ead1608919f9ee099053ae9a580b5a170b3c46936cc72f2",
+      "inhand-left.png": "5f402e715a5140d1ac6b51a603750d4dd8312a04ab7e6c366f420ce417273053",
+      "inhand-right.png": "6ce53ab81845ab268b8f58ee7cf65fc879beba09d91a274839d3702749f16c21",
+      "meta.json": "d5008cb1aa3bdca2f8d0b3811a1827b8b921f3aa7f235f8b6b386aec42eb78c4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "811325190e035fc6fa5fbbc7cbf760d5caaa828f8e3ebc127289f238946a3bcc",
+      "equipped-INNERCLOTHING.png": "7720bed0bfd5be1d485a62cee2294467832b80964fd284ce42fc0b757a4977c0",
+      "icon.png": "15a15da5708ee24516b7591218a552221a2e2389ca18ba8a09b7986d7cc96516",
+      "inhand-left.png": "5f402e715a5140d1ac6b51a603750d4dd8312a04ab7e6c366f420ce417273053",
+      "inhand-right.png": "6ce53ab81845ab268b8f58ee7cf65fc879beba09d91a274839d3702749f16c21",
+      "meta.json": "25d9e51458671e273e83f58931c1c7b8ad3fe43a3916f3763767feaa8e3d578a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_chaplain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ert_chaplain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGstation: https://github.com/tgstation/tgstation/blob/c838ba21dae97db345e0113f99596decd1d66039/icons/mob/clothing/under/security.dmi. Modified and recolored by Nairodian (github) for SS14, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "e6b01a9bf15eebdef950bba7bd5b0c9929a33f8219b493798c88dfeaef456e77",
+      "equipped-INNERCLOTHING.png": "a65f2ab639d0cc0530187bb87dac7d3fa2b14aba3d6a5dec37b7cbf87e857e0c",
+      "icon.png": "9eb8658bf3183e911e91d0600c416688afe1d3dfac9a97fb05e154ec785794d7",
+      "inhand-left.png": "e191bd41efc1873e4bc9c1597c68dfc3818fe3e5656a7d6b35ca0d70e8a13c9e",
+      "inhand-right.png": "365e8bb6a02981363b05490bd8bc2166947d2e11853f675b5558bb8aa078205b",
+      "meta.json": "bc9b58b703d2bed2b3268343cc3c6ed9d3f51601bd00898a5568c69d5407cdbf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ert_engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by discord:SOL(Артур)#8162, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "7c9ded929daa8094c2246eaca0383866d3730f8281bee6f5be20f5d924bbbf83",
+      "equipped-INNERCLOTHING.png": "48f6b92675116c080d0f66793109d5d71a28e9ec34434d41916b6d1f93c0a51b",
+      "icon.png": "56344b1dff5ee5dda9bd217e67b961b990aaa18568422eda8d94511b277c84d0",
+      "inhand-left.png": "b27ba0d94ae203c364f3da4ba71576821a04ce8fac48d74cc19ccef50fe76688",
+      "inhand-right.png": "facfd4710bbf4dabdd13331e2b460cbcf442eb5e6fe0c805e6387ddcdd39581b",
+      "meta.json": "74a306e7531efbce5b54921a19f43221c17589a05e5f5d53fa132280aeb67a56"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_janitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ert_janitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by discord:SOL(Артур)#8162, monkey made by brainfood1183 (github) for ss14, reptilian made by KREKS(1042144875602268200)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "3cfddefe0c790f05f481274ac13754646461b71c88b3f7b613f3baf7061888ec",
+      "equipped-INNERCLOTHING.png": "82f5d076511ee86ca21287d4494d45b6b18e809a6ed772cb5a6fc5dcba1162a0",
+      "icon.png": "956d75eac75adac2412fccef6ee849ee3bdfcebb47efc8c12c0869e25bc3037a",
+      "inhand-left.png": "961a3ed538e5ea7be41636d42f1946bd7cdb307ffcf42f79ffb03820ba1191d8",
+      "inhand-right.png": "c852bdaeac55e66f57030563951476ea0c19c5adecc9ff04f5f7e4701a7d12d8",
+      "meta.json": "ff671589439e6767a06bca2524d278a6a7aa47e2c9771786eb1969a61dc70074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_leader.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ert_leader.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by discord:SOL(Артур)#8162, monkey made by brainfood1183 (github) for ss14, reptilian made by KREKS(1042144875602268200)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "02c918013146a5dc30436ab235826d12dd83f0f3119840c3518dfdfea243646c",
+      "equipped-INNERCLOTHING.png": "6ec111492678f3b26b555d0ed33dc25e8049dc696d9a57d8a3f1b8744e3d78c3",
+      "icon.png": "b0172cbc509ff6fbc7e0106a4b0ca34effedfa5566bbdacddc227a2fc44e8efc",
+      "inhand-left.png": "c6fb154c7c9563648639d3b8fbbd3907335086eeae49b8fc3c1db77884943a50",
+      "inhand-right.png": "472a95042d36a186d119d1810a747ae21b8f9d4d82832f6ecb43357bd8380b06",
+      "meta.json": "ff671589439e6767a06bca2524d278a6a7aa47e2c9771786eb1969a61dc70074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_medic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ert_medic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by discord:SOL(Артур)#8162, monkey made by brainfood1183 (github) for ss14, reptilian made by KREKS(1042144875602268200)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "b2d95550a0d1b714bb7504188b08d71185bd5efa6dcd3d0c9d36c11e52491d3c",
+      "equipped-INNERCLOTHING.png": "45b5948f0df33e77444aa0820ba54adf9004712ce426b4d222fcb5631aa01b0b",
+      "icon.png": "72babeca28e13a1c0f456f77af8d0dd417deb2c5aa9d2817649cb6e6cc1ffe11",
+      "inhand-left.png": "64a199ee3338d6e50753b3b0d89dc72e0cd40647b1080745d01f2454746a7b1b",
+      "inhand-right.png": "2b036f653098929fb8808b6c12d1918d34268d99bf7e33bdce5c6004656e3b78",
+      "meta.json": "ff671589439e6767a06bca2524d278a6a7aa47e2c9771786eb1969a61dc70074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ert_security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by discord:SOL(Артур)#8162, monkey made by brainfood1183 (github) for ss14, reptilian made by KREKS(1042144875602268200)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "fdf4952da2b1ba8e4f0c9482e7b3b1d5d03be0fbfff39555c63c4168a4286b8c",
+      "equipped-INNERCLOTHING.png": "ea5927c7c89c9770d381001478de461733756fbddb77cd1e5cd077b57b627ba6",
+      "icon.png": "13b749448cd950dfd9afb7ab9202fc15651e24af14d23924f24afabdb99f46e0",
+      "inhand-left.png": "b1a7fab036e8ffc01fa3adc2a98821999d8e1663893e07a18679fe8cb11b8ab1",
+      "inhand-right.png": "5924fd9ab48e0d3db5652ec2465a2ca32200c6adc7bb2fe37a4b824c9e29baf3",
+      "meta.json": "ff671589439e6767a06bca2524d278a6a7aa47e2c9771786eb1969a61dc70074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from bartender outfit in SS14, edited by noctyrnal.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "c4cc8c5d88de8464d9542603deddb52c2307c2970e9bd8dffc5af559babc7f67",
+      "equipped-INNERCLOTHING.png": "53c90b1349ecab586aa6d51be360ec0ceeca75f3bf7627e62970e538142b64c5",
+      "icon.png": "17fa642a0728d3e5bb29449f548f3beda10466325b7093f070c70060be0760f0",
+      "inhand-left.png": "32d856dfe69d4bc3faa6505b90e027f07e86445e37fa7d3fa8ad105c7b7bd988",
+      "inhand-right.png": "2df7a47f6a8318fc989afff1d79f4ef829399d92d872e0e5db51847cc0a309c0",
+      "meta.json": "56d4bc0460f0a5317991cd16a24f294e38b8e012489918ad211fded899545564"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/flannel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/flannel.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by MrGreen06#0618 (discord), reptilian made by kuro(388673708753027083), resprited by DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "5ebd59f99192fa4c32dfee65a4d24fce2c94704a51eb4ba8b8dd3594bacf0e4f",
+      "equipped-INNERCLOTHING.png": "1f08f3004303a1f9e6fa362fd833f1f7025638386e50b378651efa725b4d3cbc",
+      "icon.png": "05f3c7479d70a82eb56cf7d219661d74943e6d159c897213d9a506e6907af8d6",
+      "inhand-left.png": "0290a3e11bcecf980c53a87de0952cc8721df10cd16b7ab3e33db94370415381",
+      "inhand-right.png": "e620a0852a3131469cc06ab006155a12c9a54ecdb5ca15132fcdcb9909cbcd34",
+      "meta.json": "9b653db7a73ad8845d3565fa3d48f514da6c0ff7b80ab2347e380fa84dbf36ba"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083), Resprited by Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "365b00d11c5d184c0c5dd37f5ac5ae313f46979c7bac918f4d2a1480a91ca166",
+      "equipped-INNERCLOTHING.png": "05e6c0a1801153af2ca2944d47f161685213014885746b56c07bf26f45098b49",
+      "icon.png": "72b723294931c27cc77dad01c0b25c657cf43bf353ce6089416c8892e0520fbe",
+      "inhand-left.png": "90a83cbda16e783cdff6cc53707aa3ece147bfad4bbe30026ac868ab6252531e",
+      "inhand-right.png": "1324c703a5bd8b9e36895707682ed39f060ba074755bbf89255ed910a42ec5af",
+      "meta.json": "566a4bdf1fb9ef5a1d006477f07c0f26014d41f7bfabda890df546faadba2a20"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/gladiator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/gladiator.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/46166/commits/b4b1dde442978f9d85d534437a32e5f2fbc3e89e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "2ad891c2256c949c8648b3436541efa91364d1229f15a180dc3d784427aa8649",
+      "icon.png": "08c37811e507a2db767dbb518f900dae4b64ee301f27c096f1c41e093c005c71",
+      "meta.json": "3c73dc27c551b2b7a1dee6f9bad3bbe0a02e56b6f1ee91055ffb76981c96e6c4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by ;3#1161, monkey derivative made by brainfoodd183 (github), reptilian made by SonicDC(821343860961706054), resprited by DreamlyJack(624946166152298517), fix sprite by DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "023bb52f807c30f94f9fdb8866159a1307d8451025b64bc03b3c85662057b5c6",
+      "equipped-INNERCLOTHING.png": "d9b24283f2de735a24e1f6a38600d7466b94cea79a077eb4ce181c8961ea059b",
+      "icon.png": "e770c7792b7d87fe408b8a755927f2c0ed432ad20c05088dc95d7fb74aecb4a0",
+      "inhand-left.png": "a2468d9681ec873b82acc86cd474f81b9fcc1c889beb8af6684e04784f1dba8c",
+      "inhand-right.png": "e69fbb0512f2566c0d77698ab8c21c394eea993790e9e2c028f6dd6a0b8001d4",
+      "meta.json": "03c01a32d18e3dd1abd08a192848556a0f5b5e5b812af85731bd1c38904095bc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by ;3#1161, monkey derivative made by brainfoodd183 (github), reptilian made by kuro(388673708753027083), resprited by DreamlyJack(624946166152298517), fix sprite by DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "c3e347f813fa3945c28f7bc08ade762cc392cfd165fea3f97cabd9f45d51039e",
+      "equipped-INNERCLOTHING.png": "b750e8c36c56887d6647df64d0f2f1381c817bcf5adc154381b041b676d11f03",
+      "icon.png": "08c285f056860af4d2f9e7d54d4b2c608ad1c84f4b47c8967539cf1144bfd0f6",
+      "inhand-left.png": "ae10054811abd5559e528351f1ba46daa7a1482a6d5dafa5fa0f15ae1a91e2fa",
+      "inhand-right.png": "044a66f7cbc530f4dbb61068d76bb5473fdaf78c7c5155d021a7ff7e50d900cd",
+      "meta.json": "a5012dd29957edbcce686ad339722ac9abeabe3753365aa8a0a8768ab0b274f1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaired.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaired.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by ;3#1161, monkey derivative made by brainfoodd183 (github), reptilian made by SonicDC(821343860961706054), resprited by DreamlyJack(624946166152298517), fix sprite by DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "e678d7b3112163c4b202ad26a12159e3fdbee77e5c5c5cdf3a2a2c37645691be",
+      "equipped-INNERCLOTHING.png": "a6c6df71ace15470c60849d9c7f1e549cdadaa4cd7561a3d4daf6afc8935c754",
+      "icon.png": "edc9eeeb73331bfb4e658aa935645e401c0ce24cbd21b269dc13528829778824",
+      "inhand-left.png": "e5180c51792022da185b4dca57d5c0fa72519695c369dc0fab2301216ae87dce",
+      "inhand-right.png": "0a763886c783d6dbfd995b20ae2f3bdc76838a891ae0003ee9566ee01d7bf364",
+      "meta.json": "03c01a32d18e3dd1abd08a192848556a0f5b5e5b812af85731bd1c38904095bc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by ;3#1161, monkey derivative made by brainfoodd183 (github), reptilian made by SonicDC(821343860961706054), resprited by DreamlyJack(624946166152298517), fix sprite by DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "ad48b045a99386c2c8e73b8334663e7e0531dbd0090961be8d98103572388f7d",
+      "equipped-INNERCLOTHING.png": "924581846d8abb93e73157410022e4adc56e62935c6ca9c5bcf0a05977de29ad",
+      "icon.png": "100927c954fd838a0a2fa6d1cfa9fdca856d9e18b736e93a67a493ace28e2485",
+      "inhand-left.png": "b452e6d5d798b4bbdaa1274db02b7db7456045851731fb52d366c3c5973b109e",
+      "inhand-right.png": "813d0fc43f797f232f8d16a3381f2ed9c9aaf49231dcc660e4f85f936e1deb41",
+      "meta.json": "03c01a32d18e3dd1abd08a192848556a0f5b5e5b812af85731bd1c38904095bc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "e69147a897bc442bc638a61c79cd3e452da64d2b4da60965417ba56e175c361b",
+      "equipped-INNERCLOTHING.png": "0b6203db72063fa1d91ef5b6b79f301d149eb093728a81cba9160c1353b21ebc",
+      "icon.png": "32ac54e9ef312c77edc0d3895aeddac14c37b8e5e7ee42dfa772df49ba40aff8",
+      "inhand-left.png": "fa842f7ae3a55772bc0f99d4c09222d6c2d2cad6b0400d49f04988197493577b",
+      "inhand-right.png": "42509bff43cebb9bb32db679c79590a08da4b5ff9858fdd04da961fb6894b04f",
+      "meta.json": "9fd4fad8c61adb10e51551c2d75b105a673f0f71a4805dc78bbc4f1a62e1edf1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_alt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos_alt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by SonicHDC (github) for ss14, edited by Deenkaide (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "cf7df41d3b7eaf70e86659e374ae25d42131a6acbc12ba6abfc444102281d6a5",
+      "equipped-INNERCLOTHING.png": "632b02282560761f672195e857972a978696d35bbdb169fa6fbe049f0425f464",
+      "icon.png": "df9ab74417601b2088495c437f8b091cb1824bb130b7fc11828545d8e19e3a99",
+      "inhand-left.png": "b808ed2d5b8f58414a5b81c4a880cd9650a0bf97b0a2ec50e63ff985e18f43d8",
+      "inhand-right.png": "cc8f56dfd24a4c3cec3c0f0a2f258e8f3012c1eb485feea24ba654f4f9666fdb",
+      "meta.json": "a0fc1cebbed309a0191e60a0df5044124b7a143db3e3f75971ecf1963612c63f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos_blue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/28d0be60aa8bbe1ca87a5d129487bb6f60839ac4. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "3c1b7b22f71130ec81fa5f8027726e9199cfab4a2f84b32d750d3459ea0d1297",
+      "equipped-INNERCLOTHING.png": "6b94c909a83d1b8775e7433b11ba977f390ba5099a0ca4063bfbcfea71c5ea49",
+      "icon.png": "9357f0226e24617866fc7a83d6dc442e3c1bb217fc29ada3992b414b3403838e",
+      "inhand-left.png": "ebc84029d1bcbd0b5de5bd4c17458c1bf2f71e97f694c0dfad21a2627b6f00f1",
+      "inhand-right.png": "99e00dde320e81bd3ac08e0d6c267c89fb4e9f1291a6399f1cd54c06910db230",
+      "meta.json": "8d3cdd91123c1df7fbe2ff7078e85331003543e777af95882ae6cd094a021e86"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_grey.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos_grey.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/28d0be60aa8bbe1ca87a5d129487bb6f60839ac4. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "9a4f9146af4ba72304df18dfeb311dd2bc3172cc3dbe316d595fbb1edec876ca",
+      "equipped-INNERCLOTHING.png": "c16079e4a1868bbf656d87dd42d106ec51bb2b2605f0646ddc51804d056fa8d6",
+      "icon.png": "4fb1052989b1617870da3e02f0e8e6dfbc9ca13c969052c64becf619bcb9d42f",
+      "inhand-left.png": "4e7f4f3806b453f2a364b208145d961a6c3e33f954a610c751a448d63df32683",
+      "inhand-right.png": "1256787be53ee16a74f406d299ec81dda75d7ada065d07d81eb2508406037584",
+      "meta.json": "8d3cdd91123c1df7fbe2ff7078e85331003543e777af95882ae6cd094a021e86"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_parade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos_parade.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "cbce28f7b61020f8b8a31c57e69ba34a3541a51c2959267ddd9392624b2d9130",
+      "equipped-INNERCLOTHING.png": "4634cb51f1775b3320e112047e6b56cc4d8e7a79a60ecfcb46296dbf1f75cb06",
+      "icon.png": "82e3206be4d801142c000dbcccc6888447335b51871701617037de91d0d005fe",
+      "inhand-left.png": "e70a0ec37f549a94ae6f9b99dd73d9c2786fc01c1a63aa992fe7efeef7d2af21",
+      "inhand-right.png": "b31ea659b29ab0f2fb3135613621ba459d3aeb0c6e7a9d62e72a1eda6acfe44e",
+      "meta.json": "66c540cc3f901093a3ee43eac28ad2d719f43d3f708f81831a83a737556d872e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "6f66d25ac201bb0724d20e077c7f8d2e2310a6f396bc8bc129df79346933a53a",
+      "equipped-INNERCLOTHING.png": "8be73aa03c76d5e6016abb306a1dbfe890fc5ce270e55c994f80a7c0537e3871",
+      "icon.png": "90894bb3e0aa39bc359283c20560c62b206d474df61f911120d5e6922e8af7f9",
+      "meta.json": "5be8eca421c990af6aa3ebb98559e7ab46f98188f8aba815fc4dee782c59e3ea",
+      "overlay-inhand-left.png": "a7572edb532c7696b597b5507b5a5f2d1da0e1bd0d7cb0bf8ba5a34b45321821",
+      "overlay-inhand-right.png": "1cc83b3c99ebd02e5e5892175524cdf899ed2abc20e64770c765ef59d2c82eb7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hosformal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hosformal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/commit/30892aa892a2be846592b068ab71c606e2f0c5b7, monkey made by brainfood1183 (github) for ss14, reptilian made by SonicDC(821343860961706054)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "b716ea3fcd12c4220bac205b77f0b5466d4f59cf7e60b438d9d88b6a4c7c8ba5",
+      "equipped-INNERCLOTHING.png": "c86ccf5c2f5841361af51fd93463b1786a8fc70c636a54bfd8e9a4cf55b65c4b",
+      "icon.png": "7131bb590024a0fb15a0f12b5baf4fef09e26ddc8007321c2de1daf73ad1ca25",
+      "inhand-left.png": "26fc15294973d20776b017e48d91cb58c5f80263c39f01ce0d2247e9da83784b",
+      "inhand-right.png": "5abc48ae9c6a911ea39e61c1dfbd7251a589d0a26c9763a446828c67ccdd732a",
+      "meta.json": "b50b8deed045d1f7722959100406681947f566c09c8d5ec759a929adf0c192f3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hydro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hydro.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "36c54dd7ecf4c25b3b9c72dc8128f80ee3c61d93ac7609e5ef45db3900d7b1e1",
+      "equipped-INNERCLOTHING.png": "890caa7ef116b3671935c8412551585ff4c7ee30fb802f4a1c11806861313c4b",
+      "icon.png": "87f473908c471f9598a3965a9d48873cd8cbdeccb58bab4f62aaa36f80ef751c",
+      "inhand-left.png": "8c468ece3df240fff017ea3a3e0713356e53e07b56408c4a05e9edc9d08f8b91",
+      "inhand-right.png": "957adaff8ee42b77e9b9658fbf5a426b9b9e13261f0913f33542ae8bb3133227",
+      "meta.json": "66c540cc3f901093a3ee43eac28ad2d719f43d3f708f81831a83a737556d872e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/janitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/janitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "1a5e2d9d7f6baa0abf7869e3978e654e5a9651c02caedb3390d7c8c46ecda368",
+      "equipped-INNERCLOTHING.png": "b76a4be1b423bac28be36009fbd3d1a602dc8e9356729049cc6d68c0b8a480b6",
+      "icon.png": "5b2510cfdafc294e25af13e3ad2de38da60e41654b1147e695b70fa8065087e9",
+      "inhand-left.png": "8288a9899fc51ea70578160eeeff206a3c742075fa6e67742acfe09bdc032560",
+      "inhand-right.png": "509993cf252cca3e465802616d1b85bfacf671d94c8dd6d97b02d24f6ac62d80",
+      "meta.json": "721ea2b06852b05853b89bac360cc795d88c14e187c8362237e7b8fe3d684bb1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/jester.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/jester.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, edited by Alekshhh",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "7d859933c612f5ff822a717e67785a54c1c47eef136545937ac7171450e1544f",
+      "equipped-INNERCLOTHING.png": "86881020993d12d44a03ceda26a12280a6a58a27bf16c656d39cb5375ea27533",
+      "icon.png": "cdfd1837a78a5dc86e56b8b425cd5eeaace427ea845199505c8ff84759f366e0",
+      "inhand-left.png": "b4042f50b650af58de6dc6a2a21ad4851245070547721489cb3d760a0d81ebe8",
+      "inhand-right.png": "162557ac61aed5b0e3ac54f034542c016dd9861eb0d26f6ebea01cea5af299c1",
+      "meta.json": "317d918e88255906dda75ecd9a3b074e4c202e9512840e51d51c1f09b14d001a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/jester2.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/jester2.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "207814aabe07fa4dedb11ca7a9927abbda2402a989f4226cb741dfec05ea7346",
+      "equipped-INNERCLOTHING.png": "18cb876924a3e3027afd5164001e981e304c5745a9846982eb4f9426d38725db",
+      "icon.png": "c4bdea543e66c054dfb303c2c82f225502d0e31f1142a88475fabdd46d9c7ff6",
+      "inhand-left.png": "2ae9fd2508f99c5b85ea75bbb3a49d438645b08585014de0cf8976cb07474426",
+      "inhand-right.png": "24fccb67dba2a8be00ffd985144bbc34adfddb56a96f270d8cf51ad7c4e3bace",
+      "meta.json": "ce8e3a521cdbfa56cc5ad1d7bbf8e54d89f1a863187770e8d8824ca7df084344"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/journalist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/journalist.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8 and inhand modified by emisse, monkey made by brainfood1183 (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "01a2f40c6fe275ef57fd7248861d279ad29dfac094c4b85b94b828bf420794bd",
+      "equipped-INNERCLOTHING.png": "73742846b091342d3df125b4c834d7fcb0f59e53f5527abdfb1f449720098683",
+      "icon.png": "aca336f9774bf4b1cb269815b135c88f5f9b869fd24d09756b11d65ce3844b2f",
+      "inhand-left.png": "978c74e91a76f44ff88df125bef024b5dfe2170c0d3dc63f1d0c044b661ee435",
+      "inhand-right.png": "06ce351d1b706bb3298d3e517d737027082cd17dd9e9dbd95524cc81a27298af",
+      "meta.json": "87a27b86c2ccd9c324d8307e9db698ae6342353c7c796fd870d56f1efb9a41e7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/kimono.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/kimono.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite by joestarguy, code by kxvvv",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "017253b78b5cf817014945bbe9672aa0e234de53cb123d2748333f333a4f4b47",
+      "icon.png": "28100a1909ad74fecba8e27c081754e9b6be49c63f8e8847974a953df7dd7da0",
+      "inhand-left.png": "d414fe2db7117be090cca10db8a7d6ff7b2d6a809aef9d074b407828e8888c8b",
+      "inhand-right.png": "9e7c025eaff9e240e7ee20636f510eceee82f05077647bd47a9d3391235adf7d",
+      "meta.json": "ab66997dec9d8fa74bfa6f8926c035431ed7d7b01db0bda5ede0a1bf088aff5f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "73f71915ce0e109c05eca4be84d400bc850e5e928c45acdc7013eca670a0aaa3",
+      "equipped-INNERCLOTHING.png": "2fd745a9f81b21c82678bd76c33450d0bdccb90a4869e2aa7465fdd3e54b341c",
+      "icon.png": "eda6e60e5169d79fcca8cd75092e4dc25bc36fa8c3c66dc2eba0800751888199",
+      "inhand-left.png": "70735def1fcaa3f534354319b348cc69f5be20f6fb71740899c09231c05197c8",
+      "inhand-right.png": "2e406c200faa158f24d109edfdccfc047ee9bc3c9b4b1a9aba18bc56811915b7",
+      "meta.json": "a3c1d2528ba7e185c4cc3db3ed310171d38e2f59c429f79552e06f4839d9bec8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "ca7ffd034aeaa1589bf866f08a49b0c4671df687c9e575a56b43ae29b6f0940b",
+      "equipped-INNERCLOTHING.png": "3acafa61c64bc707942e87d830ff76fa354d4d8551839c722bf994073baf5fe5",
+      "icon.png": "3e968ddeee91ac0439c9656b816ec5378e8f109f170bb12889526b9da6a95a62",
+      "inhand-left.png": "6d225c004aab66e1527b7a1e52bf31e3b8332ae9373431455b1e7766b0de2abe",
+      "inhand-right.png": "7664d691c3f1d485a63637d5956ca0e472eede06d55630ed56326e09261043e9",
+      "meta.json": "a3c1d2528ba7e185c4cc3db3ed310171d38e2f59c429f79552e06f4839d9bec8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyergood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/lawyergood.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/305131e20cfe53eb41de61db79a99aa12c2925b0, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "3b7d253bdea6b58620ea61eedc61cdfa124dd413d41bdffff2d849f4ee31a778",
+      "equipped-INNERCLOTHING.png": "17a5cbcc6112d007f4d9c77621b993cb821035a1ee40d55dc4b96de4949eeb10",
+      "icon.png": "151d0171819f9b223e732f6dbdde29f896577a65b7796525737ff877b1457b04",
+      "inhand-left.png": "e26b0f1d9d9bc6dfe65286ced3f2a8dbe2b2d2ccffe51ca700add5f5bc834d6c",
+      "inhand-right.png": "20a139ecb9303c1ebc57917f2358624eb221553544fa01ee72fd47a0577f594a",
+      "meta.json": "b42f54552a83f71b973186b19636be5aebef652ec91b4edc9396011d874ea58d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, inhands by github:Morb0, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "5d48d955fb5fe4577c34185e38027c0cae590001513fd7239d559e765ed21aeb",
+      "equipped-INNERCLOTHING.png": "5df201f84b8d9808d05342c785327dcbc4b7ac4d11960c31c0ad609891157925",
+      "icon.png": "776a88af047f591965188a3dfb6e0886d81c6c558bb3f350225cb8e366030632",
+      "inhand-left.png": "b823291b0233f5fcd006164144af6e97bf8c078e5122fce8acec3f57d67b4b9b",
+      "inhand-right.png": "a4c8dc3d7c5d4526661ff3baa3c8e33d2e1b56706452412d7affc56e37499f34",
+      "meta.json": "b93afa259c9850ff6886915222bb678eed25dcb54ed008fef4ec5e13182d504c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerred.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/lawyerred.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "460e1c9d7669ef2faea11ed058db6dbcc99f466437b388b6709e48ba7fa68bec",
+      "equipped-INNERCLOTHING.png": "528c0947ad07e89b5658fc011b3ff3747ab2bade8b880daaf8a2a4949ddadeb4",
+      "icon.png": "c5ba735cebc89ea15ebe7de8e4c70fb2e0095c065a21857fb6f4c51f73f38f54",
+      "inhand-left.png": "58c00b334f1d18a7c9bc0c4efc39a0327db43aa2c60f4bb07f64c2b69554d328",
+      "inhand-right.png": "99dd12b21f2a7c51a010657fa2ea7155a553d45d2551ffa3402ce02e8ccb73ea",
+      "meta.json": "a3c1d2528ba7e185c4cc3db3ed310171d38e2f59c429f79552e06f4839d9bec8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/librarian.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/librarian.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14, reptilian made by Hemo(269831232517308416)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "0fb974a2b1b9e403af503976e57556d5d905d9c5a5cb31624bfb01bd9bb79008",
+      "equipped-INNERCLOTHING.png": "a4986a522c5a40801e758864bcc3187a696692960ce0e04272f3ce6fb060884a",
+      "icon.png": "2847535dda6c0e183a0e3497db29a19a650129cbadb575b4e2088e4929b31919",
+      "inhand-left.png": "daaeb08394edb79dfbcf583d52fbf3ddc438cc0c8b3a981d77fe9958d31554de",
+      "inhand-right.png": "bed47b18515226ebd6d849777048b87bb6a20fe80b9a7c135ddddd511be41124",
+      "meta.json": "edad8cbfc371636acb2a148503ada2d8cdbf24be02b0129d5a9bf7dd1821a897"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/loungewear.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/loungewear.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Drawn by Ubaser",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a296570a9b1a3a5a8d378f0fbcc4ac4a2271853b226f95a1c3a8b6f2beb21366",
+      "icon.png": "bee5e0f8c5be045a39a158ff353a06f872b5dcdf68db2aa89c0cd615b6f8d904",
+      "inhand-left.png": "3524d577ad336e96dc9cd759417ae600a7064e747acc966c74ff5980aa601205",
+      "inhand-right.png": "5c1437ed9d3f5ffc002fa049d914539d796f1a977f72da528396ad799bc2728e",
+      "meta.json": "ee548fffd069122f3a51bf3dad856f93089c47728dae472b6affcf5002d44deb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14, reptilian made by kuro(388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8e21064b51c59c82ce6ce4ff74cfd9d21b4148623104122b5c80296ef43452a4",
+      "equipped-INNERCLOTHING.png": "063d7fd85486d4116f1c0534598b22ec4381b92ccad27eda0ad83b149a6175f4",
+      "icon.png": "ce402d8922fd00e5defc8c920e2bb2d9c24a8e0b370543c8910c20b68474e74d",
+      "inhand-left.png": "ab192d776a751c0d9b0589c654e9749dc9ff990ae7d0a15c0178acfb5da2abd5",
+      "inhand-right.png": "1195f62fad68769da8c3f60cdaec4d8b19990fb09f226f180945df35aaf85782",
+      "meta.json": "9fd4fad8c61adb10e51551c2d75b105a673f0f71a4805dc78bbc4f1a62e1edf1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/mercenary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/mercenary.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "modified sprite from Jackal298 based on the sprite from tgstation at commit https://github.com/tgstation/tgstation/commit/d7e905e4d5ab2b0a8ce210c6ad686aeeebbab426, monkey made by Jackal298 for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8ffdd49483832286c192d05b7af82e22adb7befea59f23638dae64e368aa3629",
+      "equipped-INNERCLOTHING.png": "9d6e68e73d23712e0c278409a1aee613125764c76b5b5604dfa755548b64f04d",
+      "icon.png": "0806fa5905d692684cf2b527ddcd3507ba593cf843ce1d8409f5e173aab03018",
+      "inhand-left.png": "d4b456d2df8f8ee2cfa0b7d3ed410812ce1ed04394a0e6dbe7aebf6a51638f17",
+      "inhand-right.png": "9972d76974a82152d899d0937e7065cd3e834ec6d2aab0b3cbfd615d852198a0",
+      "meta.json": "a55ad1587eb5022b90e2498af855f098c6b305efc4dbcab0a37ea1fb3219c2b4"
+    },
+    "replaces": []
+  }
+]

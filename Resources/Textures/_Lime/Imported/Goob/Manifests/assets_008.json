@@ -1,0 +1,968 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Wintercoats/secvestcoat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/OuterClothing/Wintercoats/secvestcoat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/77cff42b6c514e73881a885036be4b4dd2949f62. equipped-OUTERCLOTHING-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, equipped-OUTERCLOTHING-resomi made by Pofitlo",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-resomi.png": "c612d125e28775cb568760a00cc450421b627c3d39fbeeff2648ef888e2f8b86",
+      "equipped-OUTERCLOTHING-vox.png": "dfe761030110a39b8f0470b7707e98643df4686098173105ee83d5a1614b70bc",
+      "equipped-OUTERCLOTHING.png": "ed0f22ea073a8529a631f00f8f4191a4fa558158e63da4a235c149ec40a37d70",
+      "icon.png": "a7fcf3fd9a53197c8628c25dacf5eccb650fd1ce9f685a94cd3d338edf029350",
+      "inhand-left.png": "4002cf6510599da1ad1293b9f30272a8acc9374c695492de1ebb8c3c62d7da08",
+      "inhand-right.png": "ee606a56f830b774c40b86000c91cff6063f50a462951329b6174341390446aa",
+      "meta.json": "331ef853d06fb9be5a78836d58ac5e3abc803d4a9f0b0e7bc9800185d483656c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Wintercoats/seniorsecvestcoat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/OuterClothing/Wintercoats/seniorsecvestcoat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/77cff42b6c514e73881a885036be4b4dd2949f62. equipped-OUTERCLOTHING-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, equipped-OUTERCLOTHING-resomi made by Pofitlo",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-resomi.png": "034cecf699444e691845f8e8ecb575d7d8478f60bbebe62a9ed9d1ea57dbc294",
+      "equipped-OUTERCLOTHING-vox.png": "76a8c784e5e69781964fa021eee61d14177deebd17bc07cc225d7761d0741f91",
+      "equipped-OUTERCLOTHING.png": "f685a8e80374da5a13bc19b343712c4e94adaac119786017136426c1d0180c28",
+      "icon.png": "525eac8114feeb627787e4ea454a6a8bf089fc520a243e42cd83e2febcf95f93",
+      "inhand-left.png": "687b54f2a1d2a1ee778268a5b6e5070f2c1ea4d4a263dea12ceee1c15a8b588c",
+      "inhand-right.png": "c48703e52bd96632d59a652abce6ccde665f006e7c3c8a34643f651006165e2f",
+      "meta.json": "331ef853d06fb9be5a78836d58ac5e3abc803d4a9f0b0e7bc9800185d483656c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Wintercoats/trainer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/OuterClothing/Wintercoats/trainer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise station, Modified by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-vox.png": "b8cb7ff7fa409e20be39a411b2d25d63af51057549de4169b402d77aaf9e099d",
+      "equipped-OUTERCLOTHING.png": "44eda22a110825518a4074dfed11873f706d3a10914511208e1e1f85e6b16234",
+      "icon.png": "4a00392f9e65b0ed68b73769dd5c4c89ee405713e1129f0fc69d7225cff96ae9",
+      "meta.json": "89ace58182d7a05d0808ff2a392ebb1354082bdf4ef476f1b6e8c33a0976c68f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/advanced_jackboots.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/advanced_jackboots.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Taro Varne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "1e4d4135b6f1c0d32547d9dd750f338a58421d2051eb2b505175b5e70297df6d",
+      "equipped-FEET.png": "9c35a500a26d7a5a628cfbc2989a22fb56d48ca07285e9da5d53d0d5a4ca60d9",
+      "icon.png": "e644f249db717f36aae349bbeb85e5a836968d86c226eb37a58c800004473127",
+      "inhand-left.png": "fd20513785206a3aaa3912c4668370694abbbfae1dbf74eef973fb409017dc9b",
+      "inhand-right.png": "0c5082a35725eb1dd90b5f566605a0da40e00b4cab18bb170ff3e68f33306116",
+      "meta.json": "44d08c41b929a9f87e2d24891fb21e2561e29abf4719b41e9e179a36b7b51d54"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/breverb.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/breverb.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by yonsim (discord) 300389879530127361",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "170f1036ae2fa9cd5fef24e3f3ec359ccfbed52113959a08d9d0eecb8f7e2720",
+      "equipped-FEET.png": "f93f78251700f4364142e5a674a7ed755bd029f84b5256c8dd21fdc30bbd8ee7",
+      "icon.png": "7852885fc14c3a0da94fec8034da4c33a5f3f4497c8c3f6560009e0cacb075d8",
+      "inhand-left.png": "f96a0cadffc411a694e519eb82d1913342c3d7e72d9f4c1908f9f1fd7738bf14",
+      "inhand-right.png": "12afe6d17c3a509b35967711337465cd884e0a31faf147cb09162697cc6cefa3",
+      "meta.json": "0e7b8501fece434566816603ad3938bc510fa1e1f59a7547873d378e3ba78478"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/bso_snowjacks.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/bso_snowjacks.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Zethine",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-reptilian.png": "ec26b342d72e78e6b877fe6fbb283d98f6c6aafd3c31e68d56a9507b7576c43c",
+      "equipped-FEET-vox.png": "c3df4356b2673bf5e33e0ec208efb6ab8c2e3884a81e7b07404595b80caae194",
+      "equipped-FEET.png": "7c6f18f17652f974d3bb4e4e7a4b23a9174e0d09afdc30e036fd60b2f718b4e9",
+      "icon.png": "55f850dbb89dc748266d6f64b6c5062d292e26fc14c13f0a1afd57f302aa364a",
+      "inhand-left.png": "ff43b44639c71bbfdcd0c07c3f8de6337967540d013ddabc4cb3168d92d0f3f9",
+      "inhand-right.png": "4502271925df4cd968aa00fb41c2e36547a8fdba12ef2c707e0a081e7248e94d",
+      "meta.json": "f750289775e4f7d7946c9f48dccf4aa325e9f70b8502890b277b7bb8d8a30c85"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "c4d83f0f58e6c7f7eb6642c42b50adb967ec557a848d31229afe87a1b30b8d83",
+      "icon-on.png": "e8dc0698e729d1d0abda793398a112eb4aebedc524e8c95441218864ef2f189d",
+      "icon.png": "d737dd909ade9b0797bfede69fe2c9512fe46b56a6bb23af93274d49d1be0eef",
+      "inhand-left.png": "147f171726e1517ecbdd37cccf9d4f7ead96b4c0d0ea179d04084bf64c4635ab",
+      "inhand-right.png": "6f42c143ce9cc6557646fc649d83e06c8fdc14409e0fdcca0742de84b5c7946b",
+      "meta.json": "3affe1a443b99995799d7ebfbfb356c6f242d6c2401fb3b02b009b6cd849b04f",
+      "on-equipped-FEET.png": "901769acfe694de48a1c1647d5b7f7386907d813ca626087b8cfda130fdfd243",
+      "on-inhand-left.png": "f6e84ebeb727becd4097b96d9031896ada5644b7a3bcebdced521c685a510d07",
+      "on-inhand-right.png": "de83cebd73d2c05338be51afcccefe49d5519029c3354677b07a4e01c72fd166"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "afee5c8b3ed5280b032921a37fea27e7921822e1026d223e77d5365cbaf5b382",
+      "equipped-FEET.png": "3f611306a1be174de361ef6daa121e51237706511d95740e050ddf449f856ce0",
+      "icon-on.png": "e725df1bc17d243d242e8149ea36be0d9c3716a4ff15db9d350dac92957482f8",
+      "icon.png": "d34dacfbae02c059243f065756f99ba5a0691754dffe321e12aa340abdf0dd76",
+      "inhand-left.png": "87dbb2ec1694e16d1ad7af531fc8ca2292b302f5e268db1ce1cb088a7f476f51",
+      "inhand-right.png": "79b395de169c470642049c1abd18cef64ebc3b6d064021be989755b86be7a29e",
+      "meta.json": "904aa076f816df8fb7234086b70131bd3ee4bd18aab1049baaf3ffe1c8a07965",
+      "on-equipped-FEET-vox.png": "cf1f1e2752efd5abfd385400284679403e7c3df3970077320599dfe389a8a9b0",
+      "on-equipped-FEET.png": "6e193788f380f965edeb9fb804beac99f8c07c64ffdb1c5208ddc6637b942f28",
+      "on-inhand-left.png": "3a126987a0226526b5f7c0f2a1309dde04dca3377c70975098f6debb72c49bf1",
+      "on-inhand-right.png": "b44c7d3755466375f36d666e83166e283a41917a4a5873a6ca163c86b81689e3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/emergencyresponseteam.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/emergencyresponseteam.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Taro Varne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "327ff090db40a13bda84c7996b57a79c6fe95c5342b9012fe692ab9c97c3a3ed",
+      "equipped-FEET.png": "74595f9b4023d03ae74309454a40992a3e4bf7c7b14538bc10f255ba503a6e2e",
+      "icon-on.png": "447006eb0d4f3a9cb19978001416c3c2bcce96f8884840000272335e1ce7f45b",
+      "icon.png": "e2c6c4514fb057e2495b0293c4c02c94021e8df93c11019cea44df75f1555d79",
+      "inhand-left.png": "bc973b4a65619b2bd261c99cdd8b84e6f86bf195308324e6c309b4a048fe85b2",
+      "inhand-right.png": "51d9072508f78096c2ac24c11c44934d76839f3feca71ef0c3c5ee5ad1ce75db",
+      "meta.json": "d7a626301ed334976d97b6da4d7acf7035cb0bcf24cb91bc8ccceee97d2507c3",
+      "on-equipped-FEET-vox.png": "756ee29b217513a32ed890fee26a3482a62f0d8f0d4709e1e6052d8ae343f04c",
+      "on-equipped-FEET.png": "da6f033029f5f82ee9320be4498831e824e63af62a4f19d1d93122bbfc9eec00",
+      "on-inhand-left.png": "db7b22e2ab7791ee328e00f34d3674b3c44e39fda06e585e137cf29a9655fbf6",
+      "on-inhand-right.png": "1e66627b2659a8be71e2cb842df35a53d9150b2e324cd1a5994de71f96cf88d9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/jackgaloshes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/jackgaloshes.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by DeusMaldPr for Goobstation, spritemashed from jackboots.rsi at tgstation commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8 and https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi, and galoshes at commit https://github.com/tgstation/tgstation/commit/d0474ed3b3cc00d0e37fb4c6ec8c10009c178f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "d1bb66b6781b2fe6324a71ae2e05dbb37e2681a86ddbcdcc66197ecc85e90445",
+      "equipped-FEET.png": "cc8ecf54df0c7c4bf66e74da8b9ae9c0c0c2716bb8da53bbd646007b46c8ae41",
+      "icon.png": "78dea73eb3337751937af0bfc94c900423178e19d2517cfdcb759f04f77079d7",
+      "inhand-left.png": "e5161a3615ffa4c49732bd266f14c733e0f011198c2d77842f8079cd4ed71bfe",
+      "inhand-right.png": "1257eea96874f441c4f7a1ff1339b5457dda6fc1972abb0d9209a3dcaa43f89b",
+      "meta.json": "82913f1b80441c0583a940d267b88725a6674767941c7b79d043a537e9e4ce3b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/jordans.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/jordans.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by boxxie79",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "6e09d96a5f074e3f59dcc693d1ae69200e2d9d2aea197b240e9474e93b431239",
+      "equipped-FEET.png": "3ca7382a8542945edd0020cb3b99c19ccba1effc25ce1bdd5e26a257d2f34e70",
+      "icon-creased.png": "fc9142a61e23f51815f087b2db88c7bddd24bb807d7a549ab2b32b6dea1f55b4",
+      "icon-on.png": "4ad94128bdc44d7bdb0d4cba1771fd2df02ff01d7f9af26c7800c56ba0ba71c1",
+      "icon.png": "6d345a9bc2ee7ab94169b2416ad41677783983291f2b2aa30a2bdbdc8f5cc996",
+      "inhand-left.png": "94c6aebe27b628df5abd5d82fe77ab5dfb8c52818229795598ce15b5309a743c",
+      "inhand-right.png": "4b9d345f249fc340935c6defef883fa6ae1b80f1d031d6f02e456aaa85c36be2",
+      "meta.json": "850f40b2f3bc2c6fb137ae6434ef45bf8a66dc474b5b380bf0b4fafb31839826",
+      "on-equipped-FEET-vox.png": "8f61cf32b12786dc237bc8eb31fd941cc8e04a8f2da89a056b783bed59d59308",
+      "on-equipped-FEET.png": "5765640c262128f4dac345ed005d70a75985b13c03aab77c69b72b4f426c7a24",
+      "on-inhand-left.png": "06ca36a0ec835b60e3dc257c2c07cbfad6131216351d437ec93c25d33730a0f0",
+      "on-inhand-right.png": "4215ed4592344df8a1bb9756aa7dfaea08f55b5f9e771df255180b0ec57abe49"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/winterbootscargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/winterbootscargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by @mishutka09, fix digi sprites by DreamlyJack, Recolor by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "266231b7464083e7b2249edbdc75cfa57b95c84b9c07614f68b4e5a6d3e9ecd0",
+      "icon.png": "14e1bace900185bf80caad33e8e5bb67ef0fc2b094e85d47a66b180d9076f4e0",
+      "inhand-left.png": "f3796c635cf71fd4b21b3abef1c82884523033c3f0516c187cd26006618c7d79",
+      "inhand-right.png": "2543ba822d5f19bec94a1ec5e7692d769f07559a0b2e0b6e38e9af6042aeff6e",
+      "meta.json": "1ae88f607117e650a0a60f172e9434fdf467b709aa56c1f69a2f0c535596c4c6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/winterbootsjackboot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/winterbootsjackboot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by @mishutka09, fix digi sprites by DreamlyJack",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "480d94ee8226c0510b1e20a858de9a70c818ab1ff0869e04df8d0e1c53930e62",
+      "icon.png": "2753941488dcfa4b389e17520c8a396ad97843443a11eedbe195e5ac521174d6",
+      "inhand-left.png": "c19ef1cfff995febd6d27610b5c771fd5f5a0048b5c46b29ecde8424bb93c954",
+      "inhand-right.png": "febf89c99366138fe751427ee7acd43c3214d54d9f2721b73fe176db8d95447e",
+      "meta.json": "09b96601273e69b367df00061337a5a70cb845e4056fbc540fd77044d183d515"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/atmostech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/atmostech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "efad166b99ff22747fa14b9dbb51fc37c9c7e23bcad0dafa2b60e5401e977c12",
+      "boots.png": "79017a17b097eaad72ac61f375f245f19923724b151e05a7b1a24750b31fa5f3",
+      "equipped-FEET-hydrakin.png": "9cedefbcc93d578e19cbe2ea448bd7e7be54ec855fab8ee7e3958e504cc9405a",
+      "equipped-FEET-sealed-hydrakin.png": "b59cf0791f6bacbcff05c712372eb4252230e4a16915faf04bd0030de5931cd2",
+      "equipped-FEET-sealed-vox.png": "9588d69dea00d0a22705486e102c095c76d7d23f97fe8bc8c923ea88ba92aef8",
+      "equipped-FEET-sealed.png": "1c9e8459e92f63f790d43082d6a2c47efa0236a467b85953deb29a7fbd79de52",
+      "equipped-FEET-vox.png": "382fc7f0dccd44d6c9eb6d461a9dbb8096f06de4f657e8f46e4c842e97e4bf86",
+      "equipped-FEET.png": "8c64bbd60a131f30bbbe445c4a5d0b27146870f847f842a78d6e6d2708ac8280",
+      "meta.json": "c0621cb5802650cb844ea06914929325e0fde06d83cf1e8880e43a184edaeb7d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "8e645d866b1d30d22ac4f3ddb3d84b080627c473f4115a8e5ff27a5f241b8d21",
+      "boots.png": "3e89316fec9db3e207815ac349dd574235e092004eef3acc69f19005b577d6c3",
+      "equipped-FEET-hydrakin.png": "8b9edc709f81482348416f5f7bf99083e7afa34cac6012c7beb91ef7003469cf",
+      "equipped-FEET-sealed-hydrakin.png": "435198aac24a21d9f54c5aaed2920da47f4a20750b2225834f88e5409829f541",
+      "equipped-FEET-sealed-vox.png": "78398d17ce4b0dce3eaf6e880a46abb9cf8f58cf2d6eb042080b4866e418274c",
+      "equipped-FEET-sealed.png": "2e89246cc6c68ce2b582c0f3c81034555a532618054414157dee4cc5e243334a",
+      "equipped-FEET-vox.png": "612f0ead1f09a196ba65bd8adf19b7b8cdbb2e64e3ddebba4bcc7be68ecdc27e",
+      "equipped-FEET.png": "1fdc095bd1ae8fe3e88be5b4f1451f83084cee1d10da4f5fa5961c40784c5f7c",
+      "meta.json": "1eebf216d862801bb605939be1afdd322e29d57b839c0d66370110d1bf756010"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "32b28140a6fad0f59a7fe82055b66fa29dc167ee52e8ed4e36f68977798fa974",
+      "boots.png": "eaf47fe80a55733df9422a66cbad278f4e731c9cb9d1df79500867d77f078cd4",
+      "equipped-FEET-hydrakin.png": "958af99f6b7be7cc34d96de942643e11580abe487ff32ec136b4d2051296edf8",
+      "equipped-FEET-sealed-hydrakin.png": "fa008eda7079b1556cd7b40d22ed0856ccb30fa25d77244eee16d0804bf786aa",
+      "equipped-FEET-sealed-vox.png": "c82dbd68b0fc28ac85706fa8ceb71fd5d07e2a978d33959696d9c7eea3c4bdac",
+      "equipped-FEET-sealed.png": "dab6e1fc395a2b7ead3ef1f720e5ed86ec33b1688cf6d773fad0e9be38b5a5bd",
+      "equipped-FEET-vox.png": "7df96aeceedccd3d6eb532965590117fc4e4d53c8402c0444721855a7d87e481",
+      "equipped-FEET.png": "c594f3d7ae15d525f7f5692b9d7e73503c49e74b83513736ff673da1796cec04",
+      "meta.json": "43abc9f23e56fbdf3cf63cbd27f8017e5a093296213dbfda99353a34853ff76b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "803cd5a472b177bd3241a11864e5c4b60a7d8934997b1777348caf18c6ecdc5e",
+      "boots.png": "404740d10659317fc37d2b52873df4e4e9301db42dc39b99349848fb5c8d2d11",
+      "equipped-FEET-hydrakin.png": "91899b4b19f3f7ba955aa98d24b1ee527081f0f16a7d41b1d6dfff4006ff0cf5",
+      "equipped-FEET-sealed-hydrakin.png": "7290035037bb6a1b4162b6af55888b9f2e1b1dcc9605d8410447691ee2c0dafd",
+      "equipped-FEET-sealed-vox.png": "f480f9d3b4e19df697d3d51d9aa08f7b1c61211fe66f545440dad0800d1e6ac9",
+      "equipped-FEET-sealed.png": "5f12a6946fd3379909e9908885770769452c3c43781433d085126e746d0e3542",
+      "equipped-FEET-vox.png": "129dc963ec5a4ed543cf821e491e4964b68a677dbf295f1ab038a208a888f173",
+      "equipped-FEET.png": "fc3239b6326fbe8698e3ae2387a65c50e8a0173af9252a27237d242fc9ac7307",
+      "meta.json": "1eebf216d862801bb605939be1afdd322e29d57b839c0d66370110d1bf756010"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, equipped feet and equipped sealed ripped from a full suit sprite by JoeHammad",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "c5b68bc2981d0d67ef32d3dffca04f305970bcf9a547890ad70b4bf7f6fdb7e9",
+      "boots.png": "4cb92bf91b6ac5710f96e55e79fc7914f80d7baa138131bc372b7212873c121f",
+      "equipped-FEET-hydrakin.png": "69b183a4e7af1d6d7cc6cf214601510deaa44b7dd3012ddf02b7cea9bf32ca8c",
+      "equipped-FEET-sealed-hydrakin.png": "388f26a50c61c4ba8b6805546303880d2c872a237166cdf8d2118ca1a86a4240",
+      "equipped-FEET-sealed-vox.png": "005900f263317f3470b13b9d6eb5a0436fec984c53627707f5e018f17d81a8e6",
+      "equipped-FEET-sealed.png": "125c2ce46521738a1f0cd342a1e333a1f3c7b98a303b7e89f9fd2f5b95ab4264",
+      "equipped-FEET-vox.png": "968410a20924d8c43e665d62b6fac2e5c9aa1fe7819bdbc88723bd7f78d4c22b",
+      "equipped-FEET.png": "35f55460839d70ef798fd219c18fa580c26721ff205d03334b21c53dd1d7ca10",
+      "meta.json": "095a9e7df2ad24bff55fde5eb0fea013743c0d54f92d76068664ba5d4247ddd3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "a36838a7c321d748ab36a8d9d7e29dce30268f758259cd8e54509546f6cb922d",
+      "boots.png": "0a80c7aaa35a6cc1d90893c599d36c0987622bc79dfcb270fdf46870467c0b70",
+      "equipped-FEET-hydrakin.png": "8dfa83c6febdf5065889338ca96bba1e1d5d28312623f1be8f3292c9d8a531c1",
+      "equipped-FEET-sealed-hydrakin.png": "776fe2bb25fb43aaa0bea09ae19e9bdc6fd16a7674724565cb34403e6357314c",
+      "equipped-FEET-sealed-vox.png": "b5d038acd2192efef12e3f7261e90f53362f6c66d8a2ea311afa6a5184ebd835",
+      "equipped-FEET-sealed.png": "996397c5966839c443414ee03bad245bb800c8520e7c9d92d254a0d7d058f067",
+      "equipped-FEET-vox.png": "b5d038acd2192efef12e3f7261e90f53362f6c66d8a2ea311afa6a5184ebd835",
+      "equipped-FEET.png": "a0540996df697ad6ccfc04b210e77159ac6bc65cc6de07134f936a15d4638180",
+      "meta.json": "1eebf216d862801bb605939be1afdd322e29d57b839c0d66370110d1bf756010"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "e216b9395f2061f2ce5a4afc2cef743d38ca1376932169a690da20db5477da33",
+      "boots.png": "2b23187c10b5753c9c19d251bbf7a68dee8b5d0a6d6639afa68451ab6e64fec5",
+      "equipped-FEET-hydrakin.png": "0744fd6801c64d4c91ac4506bc7b21747ca89e12d88b77856d7a2651861a1ff9",
+      "equipped-FEET-sealed-hydrakin.png": "60bb71f6afc29eb5f119aba92e08d561e972e806e0e2712c32c191dd40fa13a6",
+      "equipped-FEET-sealed-vox.png": "f67952e3b8d91166389a780d3c8236797a348ec84d927159a5400d2f113255c9",
+      "equipped-FEET-sealed.png": "450615e1609ba40aa76964ad666b928bb846a6f98763257fe02b555b2c5ff44b",
+      "equipped-FEET-vox.png": "532d91b5eaeaef63b05101e6493fbee614ce4247bfc64b412068d5b5e0f7e485",
+      "equipped-FEET.png": "032fb44fdcfe3752bda15f893ee34e0ccbb7efd983040021d38c64df5ef3953f",
+      "meta.json": "1eebf216d862801bb605939be1afdd322e29d57b839c0d66370110d1bf756010"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "9cb40fc71581497d05d70255e9cf4c66a91981086615d917c980cea28eab2ef3",
+      "boots.png": "ffedc4091f3aff77bafdaa47e87edc4b59db5a0c73afdd08dff1cd30d681aea3",
+      "equipped-FEET-sealed.png": "8e47098adb1460664ad5b40be024ec44bc6d08200003689f2765bdf4131679dd",
+      "equipped-FEET-vox.png": "17e5bb2fbbcc0ca5ff5d50c3834a416422bd5a50f8412fe9d7b12daaa8cf23be",
+      "equipped-FEET.png": "88c039ff312ea4772d7af567cea5b80c12b25b8427dccca20c7626d8b450b03c",
+      "meta.json": "3b313196b6817408edce2782a4eec6002172f2c5c5a71a68993ea25d30669e51"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Specific/sandals.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Specific/sandals.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Aurorastation at commit https://github.com/Aurorastation/Aurora.3/commit/462115b50143c4e1d2722c08c1df66ad8f0ae087",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "f8e370e7c7057b1afc426e708c430d7123077c8fcaef446eab8cb00cdf60def4",
+      "icon.png": "65abd5c5fb53d020e8fc40ad5e930e29155e72a1c5f9e81aea5a5e147a613157",
+      "inhand-left.png": "b6f28e755676b7930f68524e6be3bbb64e6e86a1bb1a17b49ac3ac3728feab64",
+      "inhand-right.png": "ed13310136ee14476a744252020d5ec1295807616eb4f8e55ad3a7cb1fa1985f",
+      "meta.json": "03171bc7a84c5e40789ae40ffd12003e0529d2897ac70206ba3915c4693b8c3f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Specific/skateswizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Specific/skateswizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by P.O.I (Discord) for Goobstation's SS14 server",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "2c269ccad468f7623972faebf444a45b1750f59f7ba0689dfefcced26054c09a",
+      "icon.png": "ae3e69e4c1589ff82c5d22fcce67555b71163dd71c0236280911898858c5664e",
+      "inhand-left.png": "2cb074a6a5ad85dde996c8d857a7844e55b7a6fe0cb4706b1085efae8aaeca62",
+      "inhand-right.png": "5943c7d0e2537c7dc572aa6e83a45df6b92d20ef99a7a718f426ca989ff2a4e9",
+      "meta.json": "0687d39019ee1bbe703d2c9e2d3fe9618e6fa1a8d23f3d46ef74bdefa284a481"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/cargotech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/cargotech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/207695cbdab4cb8f81a25cdbb201a88a6851d78b , In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "f86996898db3bb6c543279a5f10e2067f7fdd6f3919298dd7042dbf0cc42a61a",
+      "equipped-INNERCLOTHING.png": "fc1393c73f654db0f515ceed81fbc602c59ebf48a4801015e369fa554b80dde2",
+      "folded-equipped-INNERCLOTHING-monkey.png": "f86996898db3bb6c543279a5f10e2067f7fdd6f3919298dd7042dbf0cc42a61a",
+      "folded-equipped-INNERCLOTHING.png": "3c5edcdc1d80ec64fd48465f8436de842fe79ab6e0c08ab3165fa1a5d09d5274",
+      "icon.png": "920a55c951fe8b8ad37e7d8ef9e2c8b3898ad3577bd35bd5ef3752a5fe454702",
+      "inhand-left.png": "b0e75211766abbc81c065c16a602e3ca1d613f5accfa0e97d8811d4acca15b6d",
+      "inhand-right.png": "ef0e673e784470f0e1f69205b98f97792f500c6b55ab10f01282cd9e7facc1ac",
+      "meta.json": "5560f3212ee39b5620e85aaeb6afe3012abd3db088d1867465515d286bbe943d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/mailman.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/mailman.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "4132346f3f3ebd1e094976cdc65911b0121e01b2e7ae8a508d6aa432db55edf6",
+      "icon.png": "8facef27bb8715451c8ad13f6cd5cefde02edc3493da62dc2fe9202a6f5e0f19",
+      "inhand-left.png": "4044042f678cdfa46bba2e3ba1c84353754aa553508b4f14f952c3e99244e8f4",
+      "inhand-right.png": "7a83bb1ec656b192586428a9cec4a4c10c50ea5938c225e9d68228f4677759ab",
+      "meta.json": "911d4ee678c5c576633f7f262cdbb7b22623e35a0af86676bb99f3cc9b18ddb6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/qm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/qm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/207695cbdab4cb8f81a25cdbb201a88a6851d78b , In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8bac6f4627a1b5a5def4f47aea179d5ae02eb41f5b2cdbed1cc5bdd8932c393a",
+      "equipped-INNERCLOTHING.png": "b77d7b7815262d34d27b1ada2c729986ad6568884ac883e55d850f3bd9c087fd",
+      "folded-equipped-INNERCLOTHING-monkey.png": "8bac6f4627a1b5a5def4f47aea179d5ae02eb41f5b2cdbed1cc5bdd8932c393a",
+      "folded-equipped-INNERCLOTHING.png": "6e5ac082762389d00eb41f0770552d6b4fb61aa8d48620d9f550d4cf2dfe7ab2",
+      "icon.png": "aee5584446ef8d3f5c0a1d5f757d8596883c9a9764c5f7becfbe7a3e5d801d4d",
+      "inhand-left.png": "b0e75211766abbc81c065c16a602e3ca1d613f5accfa0e97d8811d4acca15b6d",
+      "inhand-right.png": "ef0e673e784470f0e1f69205b98f97792f500c6b55ab10f01282cd9e7facc1ac",
+      "meta.json": "c1c3e5c5074558bf464f6de9629c4d1b3b8f8d04c077d8c860348a825d8a5e9f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/qmturtleskirt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/qmturtleskirt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/207695cbdab4cb8f81a25cdbb201a88a6851d78b , In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "705c8d1f7fbe3b72be2a039018556f78bc5fb0d9da56d5fca08bd599e94bb538",
+      "folded-equipped-INNERCLOTHING.png": "7980418cb5c638f2fef5031a6d8fce4599ee56b49189bd78be1d7ce163f10a91",
+      "icon.png": "96aeade13c6b61739ae7cfabd317e360b3fb713dcaab6dd4d03b82416d917108",
+      "inhand-left.png": "b0e75211766abbc81c065c16a602e3ca1d613f5accfa0e97d8811d4acca15b6d",
+      "inhand-right.png": "ef0e673e784470f0e1f69205b98f97792f500c6b55ab10f01282cd9e7facc1ac",
+      "meta.json": "d85984aebc998464e3cf57f15638f11813828645c1891f507da2a1afdc707799"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/207695cbdab4cb8f81a25cdbb201a88a6851d78b , In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "f7a836d1e7565a80155bc5730d10aebc64b1d414fa8e859120b90dc9a5e940c5",
+      "icon.png": "246e685b9bb2b96f75a91469023c3fb352a0662eb3ebca3e22b36983d3fc486e",
+      "meta.json": "d7adf2cccea3b970183c1937083b7ef420da93a6c00f39eaa9898ed291d3f045"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/shaft_miner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Cargo/shaft_miner.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/207695cbdab4cb8f81a25cdbb201a88a6851d78b , In hand sprite scaled down by potato1234_x, monkey made by SonicHDC (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "43466c047ff54ebd3ffbc33f3cd350c9a7d78f02ae1e134e71c6ef090ffeca29",
+      "equipped-INNERCLOTHING.png": "7c8fe4dae4b9b3addb8664f2a55fd3b4d5e196a22d86866043b607c19bf06f10",
+      "folded-equipped-INNERCLOTHING-monkey.png": "43466c047ff54ebd3ffbc33f3cd350c9a7d78f02ae1e134e71c6ef090ffeca29",
+      "folded-equipped-INNERCLOTHING.png": "1a686972dec09d22a979ed86bf0196d676207b30e55b3e3932a0227e1eb17e85",
+      "icon.png": "64df429fbba5b0726df564a6b2651320f26c28c681993cdbe7095348661ed093",
+      "inhand-left.png": "3879a4ce4558369514dc65b55569dfa9b19699feff806badf854fd29a4c400a2",
+      "inhand-right.png": "5c2689d91a6ffad40f96ea6d330039dc69fc41c9eea63b8c3d135670fedc4e0a",
+      "meta.json": "c1c3e5c5074558bf464f6de9629c4d1b3b8f8d04c077d8c860348a825d8a5e9f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/blueshield_officer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/blueshield_officer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station at commit https://github.com/ParadiseSS13/Paradise/pull/26498/commits/17c167b6648e8b67eb9c2f23f2f5b61e1a86f028",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "aa4f30d49a9decfb8624db4275089131fb4fa673ca3ab0427a256053998594d7",
+      "folded-equipped-INNERCLOTHING.png": "eb1e4df20e800043cd687210dd8f46a46e31dd3c8b4a8b07cbf84bdc07b68a26",
+      "icon.png": "b2bef18832495868c85f5a98cc17e29b8c70b34acb94ece68b24d7cecd058ddb",
+      "inhand-left.png": "52d5e842908c731f289a18c88003d6ad901baba5caf0ded8784edf8b62bf7614",
+      "inhand-right.png": "0ec8e70380bae543fbdb4135e1a778e354a814e044f591df94653e416f602da6",
+      "meta.json": "0cc9a9a62fa810abcf714be37ea754d70d6602a6ec15372f1c831ed94bb54c38"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/centcom_agent.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/centcom_agent.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Stitched together lovingly by BeeRobyn",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "2966d898f6806a9e64259e0b35a18950efe65263ebbe6ba492a3e18b25f72f69",
+      "icon.png": "c4eeca7724ba0df72d73b3b3cbe9676806395057f8d1c4275426632f8ef8fed9",
+      "inhand-left.png": "2dd646963ef18b39bc998e0adcd1e7fed90d36dd40bacd96ebc8d51daf2a633a",
+      "inhand-right.png": "247afef0e11af911b167a2647fc75af97dfe9a192cd63e7a25e2251d886f6a8b",
+      "meta.json": "36e17c96c36b7501874ad73556386ee86a85184e0c591202f25e9f9d1533c644"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/centcomm_pencilskirt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/centcomm_pencilskirt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprited by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-vox.png": "d7b907979f888d9caa1dd0aae82ec03c87ca12091f161a2ad3a50078ac8f6274",
+      "equipped-INNERCLOTHING.png": "d2aea9f5f0bc706726b220f7d9fd09387724abf7127390ebc7c88cbd0949bc61",
+      "icon.png": "799299b2b4f12d1af1d1ac5f1052338615df9f0f299e52976424623b3bf7fd25",
+      "meta.json": "f7c97f2e0e75ec28b30644154d6b651b443cfd512c8d1aec07f24ac86c3c6149"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/nanotrasen_representative.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/nanotrasen_representative.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise @ https://github.com/ParadiseSS13/Paradise/commit/14a7b74c2aad4002bf575687ed01321c8d66e5ff",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "f9d20a23887436c2a2b6d4098d2d7d49c4bdb17b01f30d6ed6aea45e7e9dd64c",
+      "equipped-INNERCLOTHING.png": "be2fafc27c2a20815ecfdd65dd55eb6b5b3fdfa4e01e30b2c558c02e27f3c9d5",
+      "icon.png": "c26efbea27e15c49f52d5d1de75b1ecca4429ad4730697798872a749368ed5b3",
+      "inhand-left.png": "81b7c026da6ecc34b106bf683e66d6be6651c4372826ff4247f9b438b69a5e24",
+      "inhand-right.png": "51ba5c286c127516d352fa5cd95c002608702df6a43fc30ed2974bf37d5b484f",
+      "meta.json": "9d543ab0a9c0f2c55fe1c04a8c293960807407be7b8738028803f68299a6ffa5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/trainer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Centcom/trainer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise station, Modified by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a315d4895a3c3cad386871d5c2830c83f1958278e40085c9f9a103c1f8e53b73",
+      "icon.png": "8d601d2ad516f7d886bf2a1687f65123efe3e694eeb2b80961821a806d6d0800",
+      "meta.json": "4bd2c49a1d798ba234eb5b84a2fa09dce8b0f9d99f735c67d7457da84848c43a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "monkey derivative derived by brainfood1183 (github) for ss14 from tgstation at commit https://github.com/tgstation/tgstation/commit/dd97a0e45d904fffadd9d2caad22aedd0d09f3ab then edited by Skarletto (github) and Ghagliiarghii (github). Other sprites taken from tgstation at https://github.com/tgstation/tgstation/pull/69842/commits/d8138946b0ed06fced522729ac8eaa0596864329 and edited by Skarletto (github), edited by Emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "51fed6eefcd7da4d37a574e291fb82e971febe2d942e056d75d7be60bb08ac46",
+      "equipped-INNERCLOTHING.png": "94d243b8938e19ddecdf75a3cde40c609c6db93adefc5207b40473a649545073",
+      "folded-equipped-INNERCLOTHING-monkey.png": "51fed6eefcd7da4d37a574e291fb82e971febe2d942e056d75d7be60bb08ac46",
+      "folded-equipped-INNERCLOTHING.png": "675f2643b3d184e2a8cb9bd7b1c438035b7cf2cad0e7ba4c0c0b6c941bc048d0",
+      "icon.png": "8ef1e531ff98ac9e507fba4d32deaa8de7ab4ed9dbb0494436ba89c493a78281",
+      "inhand-left.png": "a260cb77e4044ffd5769a00a1f30f89b6709d8f21f52461c8fa4e17d89880052",
+      "inhand-right.png": "2774e1cd204cec890082b2bc58de3bf4da156fbcd4cebf95ed04b6bc7b7e65d9",
+      "meta.json": "54ab3416f920e3a592c42618c066d75c3960ed1cda6b9ad56b7b185c482e84ee"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/hop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/hop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "45a334a3f96bba77ba08d8a9590a10558683addf7715b43085e723d97a9c8219",
+      "equipped-INNERCLOTHING.png": "3788a62f6a4917fe2b1016b0a18e5cc4f711a0694ad5d8ef8c9ec819611b3c4e",
+      "folded-equipped-INNERCLOTHING-monkey.png": "45a334a3f96bba77ba08d8a9590a10558683addf7715b43085e723d97a9c8219",
+      "folded-equipped-INNERCLOTHING.png": "e45583dd4e2a5c3acdf7b57c83d39d9fa6d0152d0962249b1b8cdc37e9509cc8",
+      "icon.png": "0d60941a3dce4ee9e7ccd9758e162352f871c179d804e09ee8f27e510033eb9f",
+      "inhand-left.png": "fa842f7ae3a55772bc0f99d4c09222d6c2d2cad6b0400d49f04988197493577b",
+      "inhand-right.png": "42509bff43cebb9bb32db679c79590a08da4b5ff9858fdd04da961fb6894b04f",
+      "meta.json": "c7d7927edeaf9bfbf89f55c0dae844463fb14a46e88376c2a16d9f87a92f0952"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/hydro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/hydro.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "47a14feeacac2b736426d53d4fe447e6c1821ca0c781f5bbb476f32456bffd94",
+      "equipped-INNERCLOTHING.png": "e9caeb4fbda9df9b2dffd47555f030bac1df2f572196cc685b48449ec0075805",
+      "folded-equipped-INNERCLOTHING-monkey.png": "47a14feeacac2b736426d53d4fe447e6c1821ca0c781f5bbb476f32456bffd94",
+      "folded-equipped-INNERCLOTHING.png": "0a9949d7610df59d6703e3dc2061893b96b5aef5752f1148133a6d273c5a87ed",
+      "icon.png": "22c463c5574e7c6d02df2d99184b49a300f5f84f7e3e8cd86564db9ff2e97803",
+      "inhand-left.png": "8c468ece3df240fff017ea3a3e0713356e53e07b56408c4a05e9edc9d08f8b91",
+      "inhand-right.png": "957adaff8ee42b77e9b9658fbf5a426b9b9e13261f0913f33542ae8bb3133227",
+      "meta.json": "c7d7927edeaf9bfbf89f55c0dae844463fb14a46e88376c2a16d9f87a92f0952"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/janitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/janitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, monkey derivative made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "a3300756363f5772e13cf0b71677d9e92b497e50d28cc98bf5cfdd7e0acc5d1f",
+      "equipped-INNERCLOTHING.png": "3e56e3e95e4bf636c58594defe3bef650f376b7175fcaa6a44708d0b970efd72",
+      "folded-equipped-INNERCLOTHING-monkey.png": "a3300756363f5772e13cf0b71677d9e92b497e50d28cc98bf5cfdd7e0acc5d1f",
+      "folded-equipped-INNERCLOTHING.png": "0b28dba73f7968553e3a5b33214bb5a326fe1be1dcd7768ec4ca059aaf2c40f6",
+      "icon.png": "0c7b0f3e2138aab750666b782f9de6bed71696660ba28f5b319789a9b7f13246",
+      "inhand-left.png": "8288a9899fc51ea70578160eeeff206a3c742075fa6e67742acfe09bdc032560",
+      "inhand-right.png": "509993cf252cca3e465802616d1b85bfacf671d94c8dd6d97b02d24f6ac62d80",
+      "meta.json": "dc5fa3595a126e448d47facc817f72b6baca1d0c85add894ced535e581ab94fb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14, Resprited by github:DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "c9fbd581860589f3396d0f3b00240c0b7ca142bbf129a1f80c9c87106b8b7c9c",
+      "equipped-INNERCLOTHING.png": "fe16328e48f49cb7ad30d8b7f240fbd02f00c3b4c21136cde4acd394ac4e2774",
+      "folded-equipped-INNERCLOTHING-monkey.png": "c9fbd581860589f3396d0f3b00240c0b7ca142bbf129a1f80c9c87106b8b7c9c",
+      "folded-equipped-INNERCLOTHING.png": "6599415661afff7d50b7d953011e9e5c7d68694290edbd9e33be1d266f5d7300",
+      "icon.png": "09a4dc80e98fdbbed7009a7e1723b776698b695561a4cdab330f951f5dec1259",
+      "inhand-left.png": "85b6cba6532c93273c905e701315ae8dbb2f2b605c952ec16f876682a3a3e4a9",
+      "inhand-right.png": "752b4510c3e190d21222b7b55790796004bd06adbd359f416a460edd09c9b09d",
+      "meta.json": "5d9c7e7ff8c7e1740aef5dd06d6751d977d03278946d24665a6f91b9d90dbebe"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/reporter_dress.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/reporter_dress.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, made by @ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "ecdfa5ba19e7f09bc35064259c194d47296f73d5ae7394231f596a2e84b164cc",
+      "equipped-INNERCLOTHING.png": "0a414a62c45273176fc7208f9514692168eb22315f2026e110286f53c782e3a2",
+      "icon.png": "6453b177f72be4aaf80ade3e673e97d06de516925623e7f1d06a640cdc159216",
+      "inhand-left.png": "96f9ebf873284c4b78394f85b8b46e3ce3781fd54831c401bbab9dee6a9b4ddb",
+      "inhand-right.png": "b259bdeef98c51b70f93e4fd47430917211b963425bda7f94c7bf8d0ee922bb5",
+      "meta.json": "12b1bf9cc8bf964010ff52617446bd8e796d57cbdf7a6b05ce1b2befdd639061"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/aqua.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/aqua.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "66fdc10cab2688c4348610a3bae491beadb108948da182e6e1290f23932b63d9",
+      "folded-equipped-INNERCLOTHING.png": "d2fe94bfac4980f90bb7ad7ee0f4abe27ec65834f9954f0620f0b8d7bb5c63bf",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/black.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/black.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "fa5bb5c3fcfd4360cf86cacb59bbaa6ec013a11707bad224b2762a7ed7c94133",
+      "folded-equipped-INNERCLOTHING.png": "83de1538f023a31c5637d5e6af4e2ca4d950f23e48ab640ca48a207cdfedd3eb",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/blue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "c7448003d0453c63445b4f9c3a048cd01867692eac6b774ff0dd757ffb37b46b",
+      "folded-equipped-INNERCLOTHING.png": "78ccb43fa83c3501d0569e02500366e8dc3855e2e936c06b762613ad2bf57f45",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/brown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/brown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "fd01322c71320ea5ad628359264f11a8ed0ae51589348819a9bd5b6acca9df3b",
+      "folded-equipped-INNERCLOTHING.png": "a50e89767b17edceec5ba7247a17cbb678de80091af9b88b37c63b43c30586f4",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/color.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/color.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/993de554ecfc30cc45f8340819c5a60ef1eee7e1 and modified by Flareguy & P3MOIRA, with the lower half of the jumpskirt taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by Flareguy for SS14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "eec75932b6824ea71144c6ad68655a926eff5778e07b1f1ff21a76dd05c8e939",
+      "folded-equipped-INNERCLOTHING.png": "ca4909bb40e95bf7aea42a1bb64c8cf21d92b666e3c218a131bb2b976c6c3f39",
+      "icon.png": "7ca8a913cf11e4c1c49f620ea4d4d65c9612ce38d3fdfcd0320f4226060cc4b0",
+      "inhand-left.png": "b0e75211766abbc81c065c16a602e3ca1d613f5accfa0e97d8811d4acca15b6d",
+      "inhand-right.png": "ef0e673e784470f0e1f69205b98f97792f500c6b55ab10f01282cd9e7facc1ac",
+      "meta.json": "ec1489b5d10da1f9af8a920427c8ae749a42ca80be33de8f084001b86f77a10a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/darkblue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/darkblue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "e6f4686cfb2eb9d5dbdad267e40f885075d497bee524a3b935790f5857f17fbc",
+      "folded-equipped-INNERCLOTHING.png": "d7baa57fa7d6fa181949a2c37c1586d1a4cc11510d35222255fcd612e2735ab9",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/darkgreen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/darkgreen.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "70104c1f4c3cb040badc1631a004cb58ee3155b6e5f5093f21fbd3e59a0eae6a",
+      "folded-equipped-INNERCLOTHING.png": "b619f31bdd22c9fda61f6d367db540ac3cf553fefa6df384d802d83d0be9b42c",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/darkred.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/darkred.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "78e057e2e1d96edeb65190a812b5596fc30728752fc2a0e70a8edd39dadcdea0",
+      "folded-equipped-INNERCLOTHING.png": "4d557e2aaad1d2f806df0106a58c5d78aa13c7d1f44af74c141ee75b7631de6e",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/green.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/green.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "0e2ae5be4e1ce0b2a55c60dd585ae49891a32167301ec03f0bed765a42962702",
+      "folded-equipped-INNERCLOTHING.png": "6283f9fb24c8ab8630d86efe16fc449b4dfd205076ae741f59b9aea19f3a9f52",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpskirt/color/grey.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Uniforms/Jumpskirt/color/grey.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/ade220d0cb13fab206f75e91ecfb31890937572a modified for SS14 by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "f1c43e576d301c068c148d923ad6e436e6b08d0e1f755230b4c1069b7a99f8ab",
+      "folded-equipped-INNERCLOTHING.png": "b4b24c43c33fc1f8f9b954ec1e00778e9c40dc9d4086edaf639b466d09eb29f1",
+      "meta.json": "87495d0df8351893c61e3da5e7d94d3e395437b9a3c5dd2321c763303154acb8"
+    },
+    "replaces": []
+  }
+]

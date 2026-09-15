@@ -19,7 +19,7 @@
   description: For laying down the shoreline beat.
   components:
   - type: Sprite
-    sprite: Objects/Fun/Instruments/otherinstruments.rsi
+    sprite: _Lime/Imported/Goob/Objects/Fun/Instruments/otherinstruments.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: seashell
   - type: Instrument
     program: 122
@@ -33,7 +33,7 @@
   description: A delightful little whistle in the shape of a bird. It sings beautifully.
   components:
   - type: Sprite
-    sprite: Objects/Fun/Instruments/otherinstruments.rsi
+    sprite: _Lime/Imported/Goob/Objects/Fun/Instruments/otherinstruments.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: birdtoy
   - type: Instrument
     program: 123
@@ -48,7 +48,7 @@
   description: Should anything ever go wrong...
   components:
   - type: Sprite
-    sprite: Objects/Fun/Instruments/otherinstruments.rsi
+    sprite: _Lime/Imported/Goob/Objects/Fun/Instruments/otherinstruments.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: red_phone
   - type: EmitSoundOnLand
     sound:
@@ -84,7 +84,7 @@
   description: Ch-ka-ch-ka-ch-ka-ch-ka-ch-ka-ch-ka...
   components:
   - type: Sprite
-    sprite: Objects/Fun/Instruments/otherinstruments.rsi
+    sprite: _Lime/Imported/Goob/Objects/Fun/Instruments/otherinstruments.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: helicopter
   - type: Instrument
     program: 125
@@ -99,7 +99,7 @@
   description: Seems like someone already used it all up...
   components:
   - type: Sprite
-    sprite: Objects/Fun/Instruments/otherinstruments.rsi
+    sprite: _Lime/Imported/Goob/Objects/Fun/Instruments/otherinstruments.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: cannedapplause
   - type: Instrument
     program: 126

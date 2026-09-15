@@ -27,7 +27,7 @@
   components:
   - type: Action
   - type: Sprite
-    sprite: Clothing/Mask/gas.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.ActionVisuals.Icon"]

@@ -187,7 +187,7 @@
   components:
   - type: Action
   - type: Sprite
-    sprite: Clothing/Ears/Headsets/base.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.ActionVisuals.Icon"]

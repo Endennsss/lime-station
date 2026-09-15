@@ -266,9 +266,9 @@
   description: Perfect for holding various equipment for medical emergencies.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/emt.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Belt/emt.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/emt.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Belt/emt.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingBeltStorageBase
@@ -405,9 +405,9 @@
   description: Can hold security gear like handcuffs and flashes.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Belt/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Belt/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.9
   - type: Storage

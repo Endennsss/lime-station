@@ -17,7 +17,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Boxes/anti_materiel.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/Boxes/anti_materiel.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: MagazineVisuals
     magState: mag
     steps: 4

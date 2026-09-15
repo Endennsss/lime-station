@@ -7,7 +7,7 @@
   - type: Item
     size: Normal
   - type: Sprite
-    sprite: Objects/Weapons/Throwable/bola.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Throwable/bola.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: EmitSoundOnThrow
     sound: /Audio/Weapons/bolathrow.ogg

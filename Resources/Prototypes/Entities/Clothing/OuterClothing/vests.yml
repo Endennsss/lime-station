@@ -8,7 +8,7 @@
   description: A high-visibility vest used in work zones.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Vests/hazard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/hazard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
     - state: icon-unshaded
@@ -19,7 +19,7 @@
       #Alpha doesn't work for unshaded, but for *shaded* it does, and by putting a shaded texture infront of the unshaded, we can dim the unshaded texture, effectively allowing brightness control.
       #I go further indepth on this in my PR, https://github.com/space-wizards/space-station-14/pull/37869
   - type: Clothing
-    sprite: Clothing/OuterClothing/Vests/hazard.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/hazard.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING
@@ -46,9 +46,9 @@
   description: A thick vest with a rubbery, water-resistant shell.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Vests/vest.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/vest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Vests/vest.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/vest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 #Tank Harness
 - type: entity

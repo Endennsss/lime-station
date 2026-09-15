@@ -1,0 +1,1013 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Head/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, vulp microwave looking sprite made by YERO, feroxi RedTerror. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-feroxi.png": "52cd1ff820ac2db45c4bd367375fae364d891d51afe95ce9891a1abea65d318a",
+      "equipped-HEAD-hydrakin.png": "f4bf5731333d5f6db0b447968226bb7b226d3a520db492bc66c967cd24dc6dc7",
+      "equipped-HEAD-sealed-feroxi.png": "95c3f607ad70b723bd58cd6b85a5e236abcb78f7cfcfa615f66f0fde6e2431ee",
+      "equipped-HEAD-sealed-hydrakin.png": "0bd44d1620a5e005e0d50688b0032c13fa10baa92a139f53b2386820886a8811",
+      "equipped-HEAD-sealed-vox.png": "3c8186aa345fd5308f4de1765b9b2b917050acca8b752f84a53b1d76264261a5",
+      "equipped-HEAD-sealed-vulpkanin.png": "36dadb8c9c89b3947f9cf786f27879066dd50427faf9f6566310fe0af64279c1",
+      "equipped-HEAD-sealed.png": "dcc36c76f518b1170dfc0079d86976aa5f0bc0c30689dc378414ec4e25f3f836",
+      "equipped-HEAD-vox.png": "16e210b6bc44f1b079f356b631b1257d6672bd934d21e3d13430a8cddaaa7f45",
+      "equipped-HEAD-vulpkanin.png": "fbe5f1ad2a94d2959a7b0fb407480bc53920ed95c04a3129bcca541c12745658",
+      "equipped-HEAD.png": "08ed057662934b4ae7f2917b35b6b01762143bc16a301cec69ef53b9df568a5b",
+      "helmet-sealed.png": "2f57a60dddbec9be25c5592d27fee455e2b12f0dad94d40bc81087ef6c2b82a7",
+      "helmet.png": "0197a96824b847819d2888a0e22d0a239260ba3bdcd4345baf98e3a86d2dba7f",
+      "meta.json": "ce8b9550a9ce1aebf4f171c157fe8085d46fb87329f87d70ad88a85f660d0f12"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Head/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, slightly edited my JoeHammad to have a blue visor, vulps sprites made by YERO, feroxi by RedTerror. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-feroxi.png": "161376b5420625d51e96843df9dc25911a702e9ae076377f0f8c6f0faa771455",
+      "equipped-HEAD-hydrakin.png": "afb9cfe9a7339fa5165d4e257c9cb2d0af3517f2c0a7756806f043f913d33494",
+      "equipped-HEAD-resomi.png": "2d52ad7d9f38894aae971040e94ec304d2b058f4b8a65ad8bc4e68fbe425c852",
+      "equipped-HEAD-sealed-feroxi.png": "abd86ceae9d3a817f4a60e713b026807cb28c184d427c86cd3770405f25e0133",
+      "equipped-HEAD-sealed-hydrakin.png": "f1fefed683f5834181e43680a1ab1b27ac193f6f1d5033720d25fcfa5c1d9e54",
+      "equipped-HEAD-sealed-resomi.png": "6c9f5f9c0fb1ac9913e8d9cdb84a6b59eb610589806f9a661dc347852df782d1",
+      "equipped-HEAD-sealed-vox.png": "8eb93efe978e4416f4a88b563e6532c3f03895a2978cd401f36df569b4acb1fb",
+      "equipped-HEAD-sealed-vulpkanin.png": "abd86ceae9d3a817f4a60e713b026807cb28c184d427c86cd3770405f25e0133",
+      "equipped-HEAD-sealed.png": "abd86ceae9d3a817f4a60e713b026807cb28c184d427c86cd3770405f25e0133",
+      "equipped-HEAD-vox.png": "69f1320f9fb670881d0cf6b5e49f2ac009590e50746dafe19696103b0db7502d",
+      "equipped-HEAD-vulpkanin.png": "2506d237f4fa80fdcd9d58f6030c4f4a89732d21a98eac43166c0f174065b925",
+      "equipped-HEAD.png": "2613349a67796dd7d2a00f02ac76b66e9b124b05f6591e5f65aa776d42091ce8",
+      "helmet-sealed.png": "82ceccd406ec7a9094873e48db18e9aeb2fe33a0e31b3bc4dd484cc8d3d67563",
+      "helmet.png": "0e5295ec34d305b322c108fb51ea36c99c8a999cddb427eecf17660be80fd276",
+      "meta.json": "f23deb856a542906da83ba5b665086f1561144444667206a7ef764157100310b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Head/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, vulp sprites made by YERO, feroxi by RedTerror. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-feroxi.png": "3e20b44adb0e00913381d92e327d8776abb16b0dccdda9413c4ba2a96d1a73f7",
+      "equipped-HEAD-hydrakin.png": "632e2400a752746fb8eb6eb8e4cb0a1ea3752bc89efb9d54520b34821040bcda",
+      "equipped-HEAD-sealed-feroxi.png": "c9f64116d4c2a66899f2981d1f63a3c03641b3dca795084f4e6b55d3f8025b0f",
+      "equipped-HEAD-sealed-hydrakin.png": "39d57d9cc01c9b66afc9b314ee7d3438780df6f302c8c0797cc232377fd16845",
+      "equipped-HEAD-sealed-resomi.png": "dec15bb8f9df6ebd78842bf0a1b991c81a1e44c40863f816e65f26e8bc2dddbe",
+      "equipped-HEAD-sealed-vox.png": "5f68c7dde64b3dc796885ee13177ef41c899e54409026e0394184aa0e3c2cc58",
+      "equipped-HEAD-sealed-vulpkanin.png": "62d2448215021d3edfc1e2b71d078f38cae62c24277fa5fec997c2d9dde8f31c",
+      "equipped-HEAD-sealed.png": "6e92919b636278a2da85d51972a29100c5c03ffa6a3ddd582cbcb5a23ba4ea3c",
+      "equipped-HEAD-vox.png": "665aff463bf24091327f842bfa1c1ced23bc819747c5a1255640ba2767fd57f8",
+      "equipped-HEAD-vulpkanin.png": "3e20b44adb0e00913381d92e327d8776abb16b0dccdda9413c4ba2a96d1a73f7",
+      "equipped-HEAD.png": "3e20b44adb0e00913381d92e327d8776abb16b0dccdda9413c4ba2a96d1a73f7",
+      "helmet-sealed.png": "9867c2a1520587c64a51ecbee82472c2f9b6fdcd892e41ae57a61107a5e1d574",
+      "helmet.png": "957e327f29df5a2ab27893a528566e2be721dca53b741b8b45abf7a995c2b5c3",
+      "meta.json": "de49c0b2c3d5b6ef133010fa8cf6e8b7b047565ff66c5bb67ebaab878ff31c55"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Soft/cargosoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Head/Soft/cargosoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/0db4c22804184aa6df58a23c55f6f27eeb69badd , inhands by Jvne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "71e441b90f367675afd39a3d346564c7a07aa7aedf8883281b9033e2082d877e",
+      "equipped-HELMET.png": "baf84a39c5a983932cb0fb07a717bd88dafe1521bcbc9d75da32d927ec8ebe2d",
+      "flipped-equipped-HELMET-hamster.png": "632e3a3c4a73f29d0e940858ef20bbb2c2a9e2b9cd2a3aa3c5e752fe4762ffde",
+      "flipped-equipped-HELMET.png": "2ebace5d5895bd6e5c339469f7e12c6a40575e36bdb659a3747800a099d851c2",
+      "flipped-inhand-left.png": "a6883f0400d7dafaf683a35eeeb8559553c21b5cc124e54b69649a1cb0e4ef85",
+      "flipped-inhand-right.png": "802d3d6eb8773ec5931b754b7b790035114dbc731f7b9b89d618ab8b5e6c49bb",
+      "icon.png": "3b04ec0865be52b49982e3abc35d7eb5a7a289294b3123b647d406a04013ef6b",
+      "icon_flipped.png": "fb2c5bcfbf6a3b688427027ed2cd0c53647b47211ae24f7576f5c6d80f8023e7",
+      "inhand-left.png": "35de6e2e5f806d409d4edb825bbabed7b8836c83c89ffb3edab85dd8d74dfbd5",
+      "inhand-right.png": "3ede2d27cbcac35517b595673b98ca60b4aa488833028fbf555cb1cfe2833767",
+      "meta.json": "0102390edd28501d5449c10726107e9fbb265af7b23505f55e28a439e38ad1b5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Voidsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Head/Voidsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Baystation12, flash on sprites bye JoeHammad - vox taken from headhardsuitssecurity.rsi, Vulp version made by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "7e1cba4c22fa37f8b6f11b01363915948301fdf613e642084f3481481ae6b5d4",
+      "icon.png": "ad797f9db3353f5845e068779e1a4d7299823e7cd1cae08796b5879a97990d7f",
+      "meta.json": "03e6af1fc86a8bbb9b7acfa94c377f2d6c8482647eb30f3bed04d7114dbacd69",
+      "off-equipped-HELMET-feroxi.png": "9ca5b8cdd7ab68d38fa2f2a257bf98ff8869c4cf013dacf18c29cf65e38cfd83",
+      "off-equipped-HELMET-hydrakin.png": "7e7615a6a1e7056f30de5a4378aff73ab6db6d79ba0505bb70faf390c149c717",
+      "off-equipped-HELMET-vox.png": "3d7ffe3310283ab57856b3f794234f8c5791f71d1f69cdefbc886b433d5e5a7e",
+      "off-equipped-HELMET-vulpkanin.png": "19496ddd1648ddb44d1136e6a7ffaecafc4af32c2135a3a7c3d7c384a8eb778a",
+      "off-equipped-HELMET.png": "1066d15fbe1c50756c8f5fa358f5c7860ebf66d4304800073a8326af202c9b91",
+      "on-equipped-HELMET-feroxi.png": "f3aaeb09f476f276bbbb1976b2be28b84d593b27b987c10a6c2fd2424346d8b2",
+      "on-equipped-HELMET-hydrakin.png": "5fe50b333cbc48b8725242f5b824232e294c9276fb21c994090916bb5a14a017",
+      "on-equipped-HELMET-vox.png": "3115346c9a336a77df7bc21d5155cc71f4ef717620608d561a020f98b1d2e914",
+      "on-equipped-HELMET-vulpkanin.png": "c262d9cca20ac650510d98117f0b6e100736f871a4c6052f6b90a039e125e555",
+      "on-equipped-HELMET.png": "d83decc86b239e9cf0293f373f71be81ebeef6a21d17b8af5e5ea5c1b9b12845"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Mask/bsoswat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Mask/bsoswat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by bobbble - https://github.com/Goob-Station/Goob-Station/commit/8160810185879db2d2352c1c8a77ed2321f4662e, Vox refit by 10KE, equipped-MASK-feroxi by RedTerror.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-feroxi.png": "f8f42ab096a3137b0a2daf2c3120216b280e4ed1f5c57038acbbeb54f86509fc",
+      "equipped-MASK-vox.png": "542dade061abd50bf614113ef3d1eaddecfb76cdc048cc4f7c1f9aa81a8b38b1",
+      "equipped-MASK.png": "5e295fdf5377223ab4cba0acc16599c1e3fcd6178ed2b41a76c1029ce1049e4b",
+      "icon.png": "dc02f3d1ad46e294143f73acee7aadf550f923c3bf1e829ad6629dd80676dd9a",
+      "inhand-left.png": "2c8b3124b6c6b667f9226be21ab41efd2049916d87e505f99adbb3f794c9a6dc",
+      "inhand-right.png": "3cbec28590b90e126af8980d1305636245ef1e026de4ceca2e9d300fb55e95c8",
+      "meta.json": "0c485d31e523ab8a5b1f617c71fc99834f4929f01207eeb81dd9d6424e62558c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Mask/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Mask/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK.png": "d310269a7849f0f0ce60d0403e91ebd74d065263f97c2a79d367451d797ba94d",
+      "icon.png": "84d12a89c0d9db2a20c585bd9b7e7b99a646a97bff35dcb46748a6e245b70046",
+      "inhand-left.png": "98d54a66a9e3ad09b1f7a0a0765998e6e17158f252dd1f2e93ae3aab0ed1eae6",
+      "inhand-right.png": "4e2f978b758c5f40cb40b55c77426d2a2debde4b89d4103544bb16216c615834",
+      "meta.json": "a77c8b10595f54ff930b049b3a57e2c67f7a140ce9e1febf317defa391183aaa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Mask/gashalf.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Mask/gashalf.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and modified by Flareguy. Modified by Aviu00, vulp sprites edited by YERO, equipped-MASK-feroxi by RedTerror.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-feroxi.png": "13166271119af0c6c5193cba8617c237835486223590e19a535d586dd115594d",
+      "equipped-MASK-hamster.png": "c56978af98682445bf59342d6a06ab85e7530d261d3c42d2e0aa3570ef2063ed",
+      "equipped-MASK-reptilian.png": "8f36cd2291c55c8693ee91ab6ebd495c3652a5ef016ce14c5cdfe3f2c83b505c",
+      "equipped-MASK-vox.png": "4a9191ef8bec8fc360a2664772f22d782c00b0e6c0d6de72239df65fef4d2e31",
+      "equipped-MASK-vulpkanin.png": "167d7efd94ae6c576775c314b72670f865524c26aa61a6dd3ec57e4f35cb7743",
+      "equipped-MASK.png": "c77ec232a039b4c96ec22c06cc94d45082497969047f96b71b80436d13ce07b9",
+      "icon.png": "e6a68c288754421202b7102ab40df799ef5c78160f6e08a1aa7cbc8a27dfdc8e",
+      "inhand-left.png": "e0b4ebd145130db2d5a67e82d71a5c28467b221b074613980e20675c29175dfb",
+      "inhand-right.png": "32557d8b60ad67d8d9b637466a9a25346fdcef9cca6a558214eb90caebebcf84",
+      "meta.json": "720999e0ae3cede5af3638df765690f8c7673515871e30075122771025045906"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Mask/securemuzzle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Mask/securemuzzle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Icon and equips taken from Paradise @ a720e68df6e4d50deb0625b8b2d89a0d8c23fc16. Inhands taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK.png": "a5ebd0e5e820ca981171fb971b5f2672a0a9641104cce4d39fd3d8425536685f",
+      "icon.png": "ff9ac64fcd02072ab549ac9b394ee4048f38c13946ed3c1dbd18ff54602e97d5",
+      "inhand-left.png": "771c986c54b3db0494965cb933a439764755f4293b03e5eb2a7e0f46feb80809",
+      "inhand-right.png": "a4f0ff3b9c6ec5d5ef2410ee1ca0f3cdcc6e15e6e6591d0c6b0b3956665ab64e",
+      "meta.json": "68ee96b87c85bcc41669f55ec016aa51b97afcc4476c1dc6fc4cd29f0718f2eb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/breverb.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/breverb.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by yonsim (discord) 300389879530127361",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "aed5019d44f2b931815db77c55f5cbc053b483088a027cb6d008efd581fbc9e9",
+      "equipped-NECK.png": "a5565bf9d144265f772375757e3b0e88006ada0062abbe6aa2b51424e2e8b58e",
+      "icon.png": "24ed999132ea64a17df5c41dab2f1b8726c8739a4c94e95e12d890497592322c",
+      "inhand-left.png": "983cc9dffb061309ead71369f91fe30088c3c1d9b26bf25a11c3510d41a88fa3",
+      "inhand-right.png": "38c1d6060f1d1cc48258a958c1564f536d137e556961710c1986c46616bfc28f",
+      "meta.json": "cbf05d2f63a6243336fbdd3c20d15629ec079a09900e8c0b22082139e71b5afc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/cap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/cap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by @seyriix, in-hand sprites by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "9a6e463c490015ab03702c1bbe36d0f3abd6878c0fa781360e48ea12b6a4efd5",
+      "icon.png": "35fdd86b65a854b94db90cc8fc390793bd1dcf93d26e10702445ef0b29c5d2e1",
+      "inhand-left.png": "6796c44c1d6b1eebf1061bb51f4cf9172d613deb5df279cebdd427feaed7bab9",
+      "inhand-right.png": "b3cdff3fde86a47b1192ac794ec5d3f9adfe131d80e82cc2ba7c9ebdab8912b8",
+      "meta.json": "d08b290584d09ada619431ee9994c40c735eb700441593600283335241a6c0c6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/carpcloak.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/carpcloak.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Zethine in Goobstation discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "3892546b4a0555714103fd862a9c81e075de9a129a363c7fdb444d10c01a2cf3",
+      "icon.png": "69d7eddb31829440f2b6932ebb8b4e23b327b2c7d7664f1826d282c7e7cf8459",
+      "inhand-left.png": "683c7fae70647e4c8e91bf9627d8c5b03971e9ac2fd967ddb93dc5bd38e6dde3",
+      "inhand-right.png": "4d43265479079be83b07edabc9256f594538940dc4452262076574e9abf8a3d0",
+      "meta.json": "419ec2ca55bf4582392b18e7eeff4503348c63e3f53a686f43341a50427d7e7d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/carpcloakalt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/carpcloakalt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Zethine in Goobstation discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "83ea8e15a631e913739c50c46267d80cae49fe14a7caedccb7956231a8527002",
+      "icon.png": "dabbc29a0f07ffe63f4157c26b504b78fa3c1b4e98bc497cb6e188d011afe089",
+      "inhand-left.png": "04bcd518bf8d5323d117d7415f1a966fa0d6195285f0a209d266ae801c0df563",
+      "inhand-right.png": "e29b099b4419a8f2ef9cb58557976baeb68b7c653e7dd6af666a01891eb7cbb1",
+      "meta.json": "419ec2ca55bf4582392b18e7eeff4503348c63e3f53a686f43341a50427d7e7d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/cchighcommand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/cchighcommand.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix, in-hand sprites by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "14e620470cb1672108da9c849881066b4c357fda62ae180649a60bde9091f2c9",
+      "icon.png": "f51e6699d0524627e7cf6ff23a5094dad4de330a64427dca5a663cf97fb2b297",
+      "inhand-left.png": "5fd220aa168492dee92bc67a3f3a0cab471e15978e1f2544259df0a3ecc971de",
+      "inhand-right.png": "e2c0496a5e935e18a10a9729235e9968e96395b03927eec9fafd24e69774ab79",
+      "meta.json": "86681244610528b678743378cb467510822c9b886c1d9202da1891a7e5a2551d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/centcom_poncho.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/centcom_poncho.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix, in-hand sprites by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "8eac428f97d1f52b6c4a6a0cec2091e37aa1cb1b74477bd2d15523333daab7e0",
+      "icon.png": "c081b877d012e59984844b079508eb74a9db41962c36246c246cb0a6edac10cb",
+      "inhand-left.png": "5fd220aa168492dee92bc67a3f3a0cab471e15978e1f2544259df0a3ecc971de",
+      "inhand-right.png": "e2c0496a5e935e18a10a9729235e9968e96395b03927eec9fafd24e69774ab79",
+      "meta.json": "86681244610528b678743378cb467510822c9b886c1d9202da1891a7e5a2551d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/ChiefEngineer/greence.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/ChiefEngineer/greence.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "fa744a3e8930b080c487092257c0e2bf49a289f38a2d3fa3e24399e36866d716",
+      "icon.png": "268bd0d6a62999837e447dbaaf18457cc1dfb7986b895b17130dbfc3c982a4d2",
+      "inhand-left.png": "ec6342e277c765bdf29fb2823545914ef27e6e9eb5d0f6f43cb806fa9581922c",
+      "inhand-right.png": "fbcccbf1b1f8b53ed829cf9b9339f4148d347a23bdd14536b9d7947e2d0085af",
+      "meta.json": "2ac592eb36bd6d2842df79ecd4aa4f2ca40ef3be9040e072a2d5fc7d16a96a3e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/ChiefEngineer/whitece.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/ChiefEngineer/whitece.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "bba78aafe4d0f9c1974885c6d485466f21faeed8d02feaac23a89185020678ce",
+      "icon.png": "0b8d260fb219e214276d08f862de1b63a9a3faa5af94ae33daa0208a804a69b5",
+      "inhand-left.png": "3c07548aa1e11de3ab241161657687ceaab0719896811abf5f45c45dca149798",
+      "inhand-right.png": "f6bd5150b73d67177d28e379348180ff7b545d1d960359b2c19e6e1c2b895e55",
+      "meta.json": "2ac592eb36bd6d2842df79ecd4aa4f2ca40ef3be9040e072a2d5fc7d16a96a3e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/goldcentcom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/goldcentcom.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "2447239cc5f81190922640dc13d15f314ff8c93db6b789372cef334baac5eeb6",
+      "icon.png": "26518565de4e4ea1d511388f8e261c15238be32e1d666ab703f893af750589c9",
+      "meta.json": "eb0d99f446acfff86c856f4d10f7fb0c988b37ee6b82fa8b889743269a8623fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/highcmdcape.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/highcmdcape.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix, in-hand sprites by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "677fc6504d1706bf068f18ec56649d8c8c8e0bf8ec4e5f33590917352883118c",
+      "icon.png": "92e8ac0f73fc078510b985532f123aa639db16cd79bb837cf9a39ee11143c07a",
+      "inhand-left.png": "5fd220aa168492dee92bc67a3f3a0cab471e15978e1f2544259df0a3ecc971de",
+      "inhand-right.png": "e2c0496a5e935e18a10a9729235e9968e96395b03927eec9fafd24e69774ab79",
+      "meta.json": "86681244610528b678743378cb467510822c9b886c1d9202da1891a7e5a2551d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/hop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/hop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, sprites updated by JORJ949",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "6325480540301603605e8161e3f145602352674b08936f1094e0d8bf073a9f48",
+      "icon.png": "22a42419ef9379cff8e89e9371ddd4faba4ae885e6a46666bdaeb020a9c96ebb",
+      "inhand-left.png": "cbfcd4984d5768b60b99417579053888bfa1aac553220a50db567ba65ed51f1c",
+      "inhand-right.png": "4f97aa8e85d5768b1c758a371277a1d2633871787e3e93208fc6494a05336acf",
+      "meta.json": "19b905453af7a06ad23c0a428b353ca4e4ad3a721d75f2616aa8e4a7c34a4f5f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, sprites updated by JORJ949",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "47d70911f75d59f819f108e6d400fc501e86c9fdaec5165a04310d470c020f0a",
+      "icon.png": "b0af733ece67d739fd6c6eb955262597c277f6d744483d93862c08e6560695e2",
+      "inhand-left.png": "0d69f485e026e39c7153b3302e46615044eb031952791aa8f95f7b96a6d1c664",
+      "inhand-right.png": "5e285e2633cda19baa5da91dec56ca4a9d3d796a006dc372e69a57fdcf6f6366",
+      "meta.json": "7b531d1e4fa5071a56ec89036964dec92ca9b89ce6926d5a1f9e4048f547e473"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/outcommcloak.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/outcommcloak.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "recolour of the CC cloak {Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, colors edited by noctyrnal (github)} discord: Valniae (bbalint105)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "b3eda1ad128c67706bbb16f1b9156efad111882bf276a4ab0f5090b913dc8e31",
+      "icon.png": "3ab939102205664dd197934f459b8bb9fb340b6779c1881e82560245e071b94a",
+      "inhand-left.png": "0781ff86658861dfdedb04289fcea752040b45ad46c0eaff7f5dfc0769ea8708",
+      "inhand-right.png": "b4ac0424759f33cf52c088b3f47692c3a22f594e56a021d7778b148df163ac7d",
+      "meta.json": "2cd9e3202143fdd2fca863b5eaec724505106d30df0951af5c421a07416aff7f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/qm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/qm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by @seyriix, in-hand sprites by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "3a85f0414dc89817db6b073d145364a30ce38370c12ac297b17ce0b03eac80fb",
+      "icon.png": "10ede52b9cfdb861cb2a97f6a392420eab663c76505bdc698084cf75e0ec0781",
+      "inhand-left.png": "27316a1acce240ee997d62c78684177409666beb2f33cb350128fc184dc52835",
+      "inhand-right.png": "83d97c562dae5eb4f7ca51811dcf4414db59fd90deba59fed049ef48ede5478b",
+      "meta.json": "d08b290584d09ada619431ee9994c40c735eb700441593600283335241a6c0c6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/rd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/rd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "60758a8b6f57dd628ef7cdd0560c8b63b7366fb2519e222f3fcd6c1b3d9c292d",
+      "icon.png": "e4cc5a1b9079a6b064a78f8f6dbce69dec636f9fffbbfba8f4b7470f8e9eb297",
+      "inhand-left.png": "50b2b02467ac21a97d1c539987f1cc0bd39806711328677bb23054be20df6638",
+      "inhand-right.png": "d9f45769fb7c1a339c25c5feb8482b72fc78df467c0eb45635228ef078ca4588",
+      "meta.json": "2ac592eb36bd6d2842df79ecd4aa4f2ca40ef3be9040e072a2d5fc7d16a96a3e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/sanabi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/sanabi.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by fizzoghoster",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "497546cc8d9e00ec5ccb237a3fbc6d9b67f18c5716bcd778668947254871cbe0",
+      "icon.png": "905a61e3ffddefd86000aeffaa68eb913e49d7f7eb940c4a1c9c176ea2742df7",
+      "inhand-left.png": "253d09b8e601aaff7bd790026409d61a5a0e2fc3f435579e31e3e10ca910e0a2",
+      "inhand-right.png": "d487a96a499730d028f95b03f2f07d60686a8005e61b28352fd0c0fd89ce7de2",
+      "meta.json": "cd42a4edb064fbb4cc08032fbd9dce47382566a99778e13318f53f198a310c3f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/Veterancap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/Veterancap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, colors edited by Skarletto (github), recolored by infinityPandaRed",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "aura-equipped-NECK.png": "efd2b93f1b425b6e55d8768aab3145c28204c2574c29dc0d43fbfdd54bd4e003",
+      "auraless-equipped-NECK.png": "4e666100e4a8b212611bc9642ba2daa146ddc534c1c5f6e9da7365bf18ab123f",
+      "icon.png": "f04631db3dea3db6f7bbc530fcf207301bba88e40bdcf41ebffa5dfa18296fed",
+      "inhand-left.png": "6796c44c1d6b1eebf1061bb51f4cf9172d613deb5df279cebdd427feaed7bab9",
+      "inhand-right.png": "b3cdff3fde86a47b1192ac794ec5d3f9adfe131d80e82cc2ba7c9ebdab8912b8",
+      "meta.json": "e8cd40e02825f6b73bd73d54763d897f2d3f75dbd33ab80184c5982622607fbb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/bso.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/bso.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cloakblack-equipped-NECK.png": "83a7f2d7fabe43e014c85888b95411cf0ee2fda7f766e56dd6887f6d1e2aeccb",
+      "cloakblack-icon.png": "4a60766b97aef6ccd461056c328ee69c353509f4bd191c1ab71fe1ba07d2f7de",
+      "cloakblackmantle-equipped-NECK.png": "e2ba3470493fbf819ad33837963ac4a8954841643335370f6fb2b83dbfa06c50",
+      "cloakwhite-equipped-NECK.png": "4375efe6e9a01c66aed103b8b2084a047e6be01869e95b74196c7fb7b7c5da10",
+      "cloakwhite-icon.png": "8c12dd0ce080796956ffbecc6586816ed7c0df6f6ba9d22aa0651fc837ef9699",
+      "cloakwhitemantle-equipped-NECK.png": "1b7524dd592da2e868bf49a2931b578ea20934ace25a5bf1fa7651e4ab50db57",
+      "cloakwhitemantle-icon.png": "96b5e57467930b57b235112428338e2459fd681f9a8dd1fc90aa96820aa82dbe",
+      "icon.png": "c5bf1da05126f0550e5cdebfda946f34c59d67b9d2f366ca73d0654aa6eacfa0",
+      "inhand-left.png": "5608ae1dae0b5e89878602bcdf7986483d3a4d709046795d3870ae1d3ba6cb62",
+      "inhand-right.png": "671645dc9a197d182eefdf4025950cbc863ad59909451b8e276bcedf3c7ed27f",
+      "mantle-equipped-NECK.png": "2011e101fda71e1f14865fbae259a8a6e3193ad2e4c5f51969ca681b32f031f2",
+      "mantle-icon.png": "8d1e4636318bd1003ca897ff98974a23108038b8e1809d16f03cde39a2cae3a6",
+      "meta.json": "b7bbc2f2e341053d2e4317841044c82e01e5d32aef8b9fc5e27df07fcf3bf1c9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/cap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/cap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "98255cfe91a9703ee85df12467a98ba1522bd1ec14e4781509a24420f52bfc09",
+      "cloak-equipped-NECK.png": "da889bb0cb5b661f86d954ccd6fe970a4d720a4972f077d6447c1fbe1aabbca7",
+      "cloak-icon.png": "bfd80e46f3dac68a1fa5940b6f750e82d28e0c7753df5a56762a47e61a1bff06",
+      "icon.png": "4c5992432145f32083d99a5652bcde01a901f78c3934bb9eb66e2f1af00a87f0",
+      "inhand-left.png": "85c81ea99df38ac5289bc91eb42c9431b126492fa5039d86b89d568423aa4b03",
+      "inhand-right.png": "8dab33d1c5f6c9b2df86b5ab58ed37a64b24d67ae6e33d2f586637123cd18989",
+      "mantle-equipped-NECK.png": "dcecc0e091fb460eedc11f25f1cf8f6609a98b755f05be4bcf4ecd1e6664c088",
+      "mantle-icon.png": "9c9da97393997ba9d729aa78aeecb7defa10c388faf8571e503a7807eb524c3f",
+      "meta.json": "5bac248c43f397626c588f564f0791fd1f9ca060580dc7de5ec1ff0f05f48e79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/ChiefEngineer/greence.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/ChiefEngineer/greence.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "3d73ea46039f177c0a1f2d0477d1126680c29c7518f4e9b77ff6188dbb9ddf52",
+      "cloak-equipped-NECK.png": "9058815d2d6a0c1123337bcc935b743037f56cf47b09054bf47871abcfdff9df",
+      "cloak-icon.png": "305fa96706b8d48486a25a77432c244c9dc8029c4a73b76a5f53652c1ee5f3bb",
+      "icon.png": "6421156334e0774d4934c21a4e31c0e8d483d00db9d64bac8e0186b1ba0c22c0",
+      "inhand-left.png": "264163a61ec3173fc8a04930e792de0902788db9a17bdc1e37365c2f30afb6ea",
+      "inhand-right.png": "8d4903609434ca80d261f1f88b94deeb0c6a4bbbf1cffed9e266a381925450bd",
+      "mantle-equipped-NECK.png": "a9365dc5f2965179f39b493aea15f7e2ba8a22c0fc137932496f943dca9246fe",
+      "mantle-icon.png": "158385af45bf473a8e25a55d55cd151fd4666ce28bed86670f69ee5a47564b79",
+      "meta.json": "5bac248c43f397626c588f564f0791fd1f9ca060580dc7de5ec1ff0f05f48e79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/ChiefEngineer/whitece.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/ChiefEngineer/whitece.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord), colours edited by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "f70c56529ad5e865981ad1937170d3e2f9aab60d044db1c9d8edcf41479f2634",
+      "cloak-equipped-NECK.png": "16aeec41e7e655cbc2af3beb3c4a345be716bf0f778ecbecfdfb0bd081a2e216",
+      "cloak-icon.png": "ca1e7dbaf3571d63447c022327465b91254b803dc22e5aea6b345bc63335a5ac",
+      "icon.png": "2f31f8985c4faa74e59d19146b17f28a70fb00bc1522a5b355dfc1acd3904828",
+      "inhand-left.png": "d3940e11495ff05a4b55070815f90ae8fccd3581043ac0437eab802a10795263",
+      "inhand-right.png": "e7a31643b69b830315712f6c3e21ceb988ecea1565a2cefcaf723c5b9998d14f",
+      "mantle-equipped-NECK.png": "d319c8ec78d8475348e06388c8df3c9497b3160d0aa9df31e7fca04ef165f5a0",
+      "mantle-icon.png": "d9cc02dab3a5e9e7acc0d355ad7d4d87f36bc8ecbb2e48ea39e067f30167c03d",
+      "meta.json": "c456093c46c3109e8b71192778c54e851491e57a656ce5b505f448055e266631"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/cmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/cmo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord), colours adjusted by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "all-equipped-NECK.png": "b829e0136e3d9a579b131b0cd56f8c0cd91aaaa06136a60be61f37e1e7315e47",
+      "cloak-equipped-NECK.png": "333a293307d4fc50d82d37e3708cd71804d6524d5e1c12f3051e94e483923dd7",
+      "cloak-icon.png": "ebca608784c602c0c29e07bfb81baa4fbf52965eccf51dab623bca64f2a62ecf",
+      "cloakmantle-equipped-NECK.png": "ffe29bfda07a14f63267d4b0d13078800f840563deff9497a6db216a3a984eb1",
+      "cloakmantle-icon.png": "5959c2a25b86765c4bd735c85b9ece35345c215025ba3fcd6b882c2fb44a8523",
+      "cloakwings-equipped-NECK.png": "e83dbb73cd2153a49af906e9064e62df0e77141160eeaa22e8d1560117898102",
+      "cloakwings-icon.png": "447fded122c4e1cd246fd6b86fa60fd534f823738f2b7847b8dc58f89f1ab065",
+      "icon.png": "4436d4170240aa70f8ea2744cd0db66b3742bae2af69d6ab645f3940a65bb5df",
+      "inhand-left.png": "510fff7442e37ea6c1eeb9925ec8848770e73d4e05fff02c16945b2876e1eb3b",
+      "inhand-right.png": "d47a4413996376b5e30ff567b94421f2c256010820795bb62a4aee2782c8e8d3",
+      "mantle-equipped-NECK.png": "43f1dcd994473cf492e7ce53650341309bc99e50acc7230f5a56bb5b17d05a50",
+      "mantle-icon.png": "14ba60102a0f81b18b756a3b1377e31385106d838c81acd5f65fe2979b4b3343",
+      "mantlewings-equipped-NECK.png": "b12d8801eae9fe4860b8407f0aa66d0fda2b06740fa1922e16eef2f268ab5fbe",
+      "mantlewings-icon.png": "a5afc4b2a7d19e1e0a06a5835e0d1db6001e7aa852555ff08ebeedce6076b52e",
+      "meta.json": "e03d21eb8558efd660af1b1e9b806c0c26e0e6ffe6d133ba382efed7a75a654b",
+      "wings-equipped-NECK.png": "436f65ac727b113a03d9c87e0ccd9d14439dbc0046be1f4b76c05ca5e01d1811",
+      "wings-icon.png": "50d5390984d6b323e0d76c1ae533dea5a923d19808c649762dbe67a6a7c9587d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/hop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/hop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "0a34eb27d3d5bc271d4033b56baffda5484283d62d07c8af9f90d97b0eead076",
+      "cloak-equipped-NECK.png": "11457b1e6e4d02aa29eec4d28f57ce0afb2afe1c116c6603a00e1ad7c6370844",
+      "cloak-icon.png": "3470c7ff2419d795f301b99ac90c4b33f1a39a58cb24c5dcb2ab8818aea92875",
+      "icon.png": "66024150d1736e2b37af9ce3709226ad5945411fce10ac0387bdb8b14f70ce69",
+      "inhand-left.png": "2947ba61c76c2147dc5534639adffdbede565268f4282d5d5f811327b0a95386",
+      "inhand-right.png": "0f9e0d05b07cd7332135a48c1b087464550ab9a13d51cb4bfc438e84dd00c648",
+      "mantle-equipped-NECK.png": "3f1dced5c8c9aaad057a117f2b26342c40741c8ba1cbaaf8f0aa9cba746ac313",
+      "mantle-icon.png": "643f0c4fd2ff5b4f60d1f338baf77e65137dba378f9436ce4481ed5de6600edb",
+      "meta.json": "5bac248c43f397626c588f564f0791fd1f9ca060580dc7de5ec1ff0f05f48e79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "c7c8fe6e0a69a00449debb2dc411867ea29a0a4c7f83159284a7de34fcaa134a",
+      "cloak-equipped-NECK.png": "8676fc86be68b340a37681eb00b40162a719899f5d8dc1765dff37a16ec2f48c",
+      "cloak-icon.png": "5fb7a0ec221c81aa4e4ad4beb71b61a8d51623e30470ae207ee20ac4a96abdfd",
+      "icon.png": "5b4da0c603244eecba52553ca7f75d64aa9fb3bead832d2eb602d1007d3530b0",
+      "inhand-left.png": "fb5f29ffc27d1ef1571fffd9513213d97039fe22feebabaf339d193f8fd4aba5",
+      "inhand-right.png": "3d23cd551ebc4e08cfa51265e096f703788252820beaae6b4acc8c28ed49affc",
+      "mantle-equipped-NECK.png": "81e9e78feef02cc3b6f0056aa45ffa82c7f7938684c6ba39cc5a17c5dd2cf563",
+      "mantle-icon.png": "cc0a3de21c01ab20b3281f28bf99d3d0ae25b5dedc440ad534c25f9ba741e0d6",
+      "meta.json": "5bac248c43f397626c588f564f0791fd1f9ca060580dc7de5ec1ff0f05f48e79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/ntr.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/ntr.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "d1344bf3de87b63381abc53ff0c87f475f24c13f65e006a39f04d4efc92d711d",
+      "cloak-equipped-NECK.png": "891f3e21ed79727ed73019466b61a7e0cfdf4e5436c4d91a41e6a6bb455d76c9",
+      "cloak-icon.png": "79c2895304bf4b2f6bcc6fb8e1ce09865075e669820f2c534a7b3d5cd1172a75",
+      "icon.png": "57d6a79147d7ed3982ed9df49404932d4fa8047c54f8984fd75b103668ddb0ff",
+      "inhand-left.png": "57f39f0e19bf5598f78f1cc518a39f0ccf5a8d0104b40065f1f7f32d1318ae1a",
+      "inhand-right.png": "1363934ac913a9698671dc9f2242dbb82c554d220da67fe4a92f0b7fea1c6983",
+      "mantle-equipped-NECK.png": "8825a16b370ba9cc4dadff1068c4710197cfc37281c02b27d46b6de4020836b4",
+      "mantle-icon.png": "0c25618e7f50f7eeb0d04cf310fcbb0a627521fbfbe52fd8de0506905b5a7655",
+      "meta.json": "5bac248c43f397626c588f564f0791fd1f9ca060580dc7de5ec1ff0f05f48e79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/qm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/qm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both-equipped-NECK.png": "a38b618277e7d2eacb138f86ed62cd83d932e38c4f53705ca5e623bc91274fad",
+      "cloak-equipped-NECK.png": "26e02c4314918826f4fef255dfdd1087af66d9201304b228ce80c98cc971db83",
+      "cloak-icon.png": "f26fea030135ba6ea46c1172b4eb779512225c18e0fa7cb658208faceacd0e77",
+      "icon.png": "58e80c67ff21e4c3b8b5f317940b923d3a291753a5f02457cc0a5fa1b41ff0b2",
+      "inhand-left.png": "6fe0a21b282545dfe5bda2d6a67ae3ef9456827a096b1cb1af9ee9e486d7b661",
+      "inhand-right.png": "338f8ab4820ceaf1d303113101b6862a9363f7f6af7ab16911544c57e4f7d213",
+      "mantle-equipped-NECK.png": "c02979fd89be0809d1b6330d09f5e78af485ed9eeae872cc2712608c7e5652b1",
+      "mantle-icon.png": "e221b6f26252e2a5ad7866bf5acb474f6137a219bc6c76349aea5cde757b7c89",
+      "meta.json": "5bac248c43f397626c588f564f0791fd1f9ca060580dc7de5ec1ff0f05f48e79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/rd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/rd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "all-equipped-NECK.png": "76112bb3a88d3ec2fc4d85141a37de8403c8df8e10184d242c15c3274ad0a47a",
+      "cloak-equipped-NECK.png": "e30c751ef501c9378a344da425b12540f50a414bafb181601df8c1686f70acd9",
+      "cloak-icon.png": "8e6a685b0e96408b1f158167cfdb2a81f75f41dbf21e0df8172fb2cffee0bebf",
+      "cloakmantle-equipped-NECK.png": "a6bb4a46408b9b3b77180834de8923901c3b3524259e058304443de85b6d85ce",
+      "cloakmantle-icon.png": "cdfd158a2548bbd56c7b148dde68db2cb50303314854b31d0badeb5c9059e786",
+      "cloakwings-equipped-NECK.png": "a1e0a66e4b7e85a3605482635812b58a4d42f3287bfcff554873bbdfbc80cdf7",
+      "cloakwings-icon.png": "13c2f6c5515b8d6efa4fcddd4aa03cbedbcf27e04befb613862886bdbeb40bb8",
+      "icon.png": "1fb17ffbe8b364ed168ec69091f75f88b3a40d43b1f6250595fc6e79ac4bae75",
+      "inhand-left.png": "e973b3adc49aa54cc09aed10bf0c7e5de7af23c067057182f54b19019170fcf7",
+      "inhand-right.png": "09363a355931c9ba084cf8347c7d2c8bcb7e8b0f6213df2ce1e10331b421bef2",
+      "mantle-equipped-NECK.png": "dd11b7392e90dccc6359c146b6f521b2b3cb1771a74a0a631cabad54b3a104e3",
+      "mantle-icon.png": "85d7c279d8f726a491a75a1acf964ebce874e0ed3dd6f893dc50d7486d0dc74e",
+      "mantlewings-equipped-NECK.png": "7147a025c9f8618490acf3e4aedb51fa595f15868936f462974529c65ffa234e",
+      "mantlewings-icon.png": "23bd7e4e988acdc76eac84d001f0ed93d37df78699d6ba01a81bf397eb4aa191",
+      "meta.json": "9338ec9afbafbfbeda23a851c84ff611dfba3bcbb25b562917f5cf07c16c456c",
+      "wings-equipped-NECK.png": "3241f1192a88441db923f5cdbdfa2ff58b24ff472dc6c6cd5a1207d9190b34b9",
+      "wings-icon.png": "82b1a3fcaa62028582f9ee7ac2e745492aaec7a780c9aa65b378008da0730760"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/salvager.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/salvager.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "altcloak-equipped-NECK.png": "2a80d407457e36eaa476f58a064274a484e3d6e40f1f1886280013ad6e83c61d",
+      "altcloak-icon.png": "01cc82c24a7cc28c1db831f51a1bb4d0ec7e57ff332ded4dbf4b72e22e22faec",
+      "altcloakmantle-equipped-NECK.png": "82d3b8d6881cc3e4691cac11fba302cfc1fcbde555b24e514188f62e53d761b4",
+      "altcloakmantle-icon.png": "6cfe443c9fa8166ebb349a359c5c001f23604c4580a51fd71b6cc92a515ab8bd",
+      "both-equipped-NECK.png": "0c9cc3c00cdc70b4e12b854bddc586b85d15556a330a7942fe7b6a5f758fae41",
+      "cloak-equipped-NECK.png": "b2b0196e87e771edece0a794396fc1f930df29458e8de8045e37f1274f8b2f3b",
+      "cloak-icon.png": "a7d4a8961e687c47bd16d6b60d1778d5cfb6b20bae649177bcc04cd485a795a0",
+      "icon.png": "4df9aec69506ce9ff0d1ec3f0689456b0904335db23b55a40aaa1f3bd71a0ef8",
+      "inhand-left.png": "2f22d71f0c04df0f1ffc813dbf9492fed027aa7e374763ed28999bfbba6d51ec",
+      "inhand-right.png": "b7504abd21bacf0bed77ec65ec8992650568430ee45cb550d47e49d671318e1a",
+      "mantle-equipped-NECK.png": "42c4bf0f25e0f5b1f5c37c37a75078162371171953e80bfe99edfc888c14c030",
+      "mantle-icon.png": "b709fe09455b6cf9484087cc37d4c930741e8b66b58994baf76ad6aef814a9f3",
+      "meta.json": "1025eecef2fea13142949bd554c9a5a66156c682d24287eabeea87bda81d49be"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Ensembles/trans.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Ensembles/trans.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by wyvernrer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "all-equipped-NECK.png": "fe83467f0f089d2c781f9a27f6deac4b027c30f124caa2293761d53707958e02",
+      "cloak-equipped-NECK.png": "504f3367ac0b404e6c3df486da224cc832c2f09a8528403b5e88ed9c4c30b880",
+      "cloak-icon.png": "4495bc079df29a190fd3779349ed8e8b14f03ec0de8c7d1e1b55a0717242150a",
+      "cloakJewelry-equipped-NECK.png": "48ddc425f870c33f76da4fb23583e7e37b46a68abb9aabc71fdd5f517bb64132",
+      "cloakSash-equipped-NECK.png": "2d293e7bce84a02d935080422f64cd36b3cbf0b0b608b864211758712b90c4b3",
+      "cloakSash-icon.png": "156637071e05f80d17d8a40bb39d005f222c69e65490cd89d75152cd775a4b33",
+      "cloakSashL-equipped-NECK.png": "33e8709abd8ff4e158fffd861d65f2687c69379d2c620bcc2b97698efed31ce4",
+      "cloakSashL-icon.png": "cdb446a28ec186416bedbc8a8d2914d05a5cc6a55d44b2183b7c8a9f2c6a06df",
+      "icon.png": "cdb446a28ec186416bedbc8a8d2914d05a5cc6a55d44b2183b7c8a9f2c6a06df",
+      "inhand-left.png": "95e861ab66a9e9859de4383c404b0966f56fc4aea85ddcaae9a08d57df85293b",
+      "inhand-right.png": "c4496fca52dd5a3bfe416e18876fac70daede3c2e1a8dca06e1f1239857788e8",
+      "meta.json": "bf477a689eac77c71684d819e4027f7854c3547aa6de0437e20d11119499f2c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/bsomantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/bsomantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://discord.com/channels/1202734573247795300/1282475354723713080/1282475354723713080",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "c65df3206913617d5c3ec8828a5b1f10802f62578fdadfdc8d4f80feb9859135",
+      "equipped-NECK.png": "3c16054bfad42ef3c30d07db5657b5f366f1595692574dc3be055fb65370a5bb",
+      "icon.png": "3d1b3944893ea9ea3a89b7bb14bd7d45833457ff6f731f2cf64ac4777ebaf592",
+      "meta.json": "f78a0a8d3dfa698552e101d0fb787008a7e46acd9c2bb19651f280e74e3b42ef"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/capmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/capmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "main sprite by @seyriix, vox sprite by Emisse (github) for ss14 and vox sprite edited by Skarletto (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "e70175f903219792d1aa882946b164ad9b7bc63ac572c688fd2eaad6e789a6e2",
+      "equipped-NECK.png": "6ffa0f32c98c6f9ae03d8ff55f29bf62527a15422db4809d114892c14fc8f93b",
+      "icon.png": "af7c3d3750413911d3a1de3ccf4ea9a9ae2c4d5939f5becfa3b2a541d52b3e88",
+      "meta.json": "dfc21486d5fbd8d405de17d970eb98e60149945caef681800b6c5183103f41dd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/ChiefEngineer/orangecemantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/ChiefEngineer/orangecemantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "ccca0a454c556a1d9e41a52b2c0cdb4d59eba108215b1589a2791db752ec68d5",
+      "equipped-NECK.png": "b1aab430eee07f2a49f168fcfc22cd3167c922a79279dc5568e9883de8b24eb9",
+      "icon.png": "77247d5a52eb1aa4fab727334536d8ef9eed5e76fa00d8593b0d769e85cf91fd",
+      "meta.json": "2508e1010b131619fb60d0850a2bf552b15d193f7e69904ff5b510a6180e224c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/ChiefEngineer/whitecemantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/ChiefEngineer/whitecemantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "f517ed433672ba2476e69a39ccba738e7438657651650dc638f9df6ce8a00a12",
+      "equipped-NECK.png": "7f9e65a2dbd92486fc0d01b9080ce3cb93986143b90424137d5023da9d506f3d",
+      "icon.png": "935cbf1dbcb7f285711fd3572197801366a33002a5c1a22253837037c20bdb68",
+      "meta.json": "2508e1010b131619fb60d0850a2bf552b15d193f7e69904ff5b510a6180e224c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/epaulettes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/epaulettes.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "327ec25983c8012e71df4a55ea098e6794675e4d13961ffdf20031511ffaebfe",
+      "icon.png": "dc2a00c7f411acaebba4f2b68556f075dee6433eb15e0c421790eb124de0bc5a",
+      "meta.json": "b09fca788c34825e1b2e64791bb33b7cb73c07d5011572f436b43e17e36ca1fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/hopmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/hopmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "4f91c297f24ec5052406b90960065f4f75fb14fbf2977aeb4f544cd2863168b9",
+      "equipped-NECK.png": "a1881df4a3b70e5f165204f7e2cfd3703436f9175c2742f52e493214f69144cd",
+      "icon.png": "b7fa2d3df27c78a00c9b2acf3fcefb51a325f59e29431716c65de41fbd958176",
+      "meta.json": "fdc955e5765ba70a3a551023dc81185be6990caeb4d56d28d84d212c95e6b94d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/hosmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/hosmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "3aae85069c356229e209cdf4898c8468029228b9b365e46b2c2f4a53d735d01e",
+      "equipped-NECK.png": "adabfd0838a8f44edd2a4ba869082f1feb5df175fef02f51e2b3119f2a3e3dee",
+      "icon.png": "f4b0c94e5fdfb62343cb8e7dcde47bf31639d636f5ea1589ceabc4543675451e",
+      "meta.json": "fdc955e5765ba70a3a551023dc81185be6990caeb4d56d28d84d212c95e6b94d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/qmmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/qmmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Ubaser, edited by @seyriix",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "84afd0f5b1a60b1d33e73a0c93ec51769912ec6458c5d66624505ed08e4d3bb4",
+      "equipped-NECK.png": "2c8cbcccfba95d8b8560f879d9609835adde9a2ccbac31487ee45b0d9fa1bffe",
+      "icon.png": "214666a09221e8c6cfbb149a778281c8aa7f7daaa88cc4eecbb06795a56e1d8d",
+      "meta.json": "ba06773bef2d819e3d0ffa39157cb70eb7fd2fa993e878b350711e2c7d98082b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/rdmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/rdmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by @seyriix, vox sprite made by emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-vox.png": "a0a07b69c90e44d2b0d4b45b7ac778c560e3501c562843f15e045ffe4e2fda47",
+      "equipped-NECK.png": "c895d4821ea41f7e7bbf5e767d2a12be533f960b778046451a12c8041ee8c93f",
+      "icon.png": "2be8077a9d457b14840cbefde3d49ea06519eff2bec4ffea4ebe7dc842609c15",
+      "meta.json": "09083f3a3c2b9d4936cf2d89df6211e46e59cf24fbf1dc0aff65729cbb857833"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Mantle/veteran_security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Mantle/veteran_security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Vlagded (Telegram) ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "9806d85de703aac96bd50e6d86326fd2d34b1b76bbc109385dfd358875f8c4e5",
+      "icon.png": "dec237dd796e3d284149e15911b155a52ed037ab2f401f1bd99aca462f050206",
+      "inhand-left.png": "64f58b8f9fb98ece06a0b34ae1cd1b24c538a3061c8ac5e9be4fe0cc7e064419",
+      "inhand-right.png": "51f544f4b798cb0bbc72dc93a63e9b306a4adac2dfbf9e5a48fd975898b87eb7",
+      "meta.json": "5ae3409821a2acd4987154bdc1df27f1effa920a71e02746e8664952540e1385"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Medals/mimemedal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Medals/mimemedal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by AsikKEsel, edited by Andheisking",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "8f8d3fa43d30beb94ebded84a82189e8bac89b5821ff858670c868ed5777da11",
+      "icon.png": "3a30c4e07b75827dbaebec0c798960f9b74c84426502c3b736de5f24881f07ff",
+      "meta.json": "74e5e7351a4ce91dd6b6dd94f13fbb4a27320c9e0af646cb7bb82747c3aef438"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Misc/fellforitaward.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Clothing/Neck/Misc/fellforitaward.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @nerdyyyy__ on Goobstation discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "9405412282ac68390f499fb95698002e180fb2b5952871319e83b00bf4025075",
+      "icon.png": "91b732962acca65f0b2d90e1fc0549fce5cee845e49e63c87398da8e9e888de1",
+      "inhand-left.png": "491c85a3754e9c74619b425cb7d8bfa2f6b10aafba4f35b623dbb1585aa23931",
+      "inhand-right.png": "21656b848204754f24d4fed5a5f963a2a627b9928c72c46e62e51397ec2d3e55",
+      "meta.json": "0850c51137ffcdaa179386e6c4be674dea6bd62ce93fe150a82013ab13d8aeb8"
+    },
+    "replaces": []
+  }
+]

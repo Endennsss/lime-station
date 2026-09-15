@@ -296,17 +296,17 @@
     - 0,0,4,3
     inhandVisuals:
       left:
-        - sprite: Objects/Storage/Briefcases/briefcase_brown.rsi
+        - sprite: _Lime/Imported/Goob/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: inhand-left
         - state: inhand-left-muzzle
       right:
-        - sprite: Objects/Storage/Briefcases/briefcase_brown.rsi
+        - sprite: _Lime/Imported/Goob/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: inhand-right
         - state: inhand-right-muzzle
   - type: Sprite
     sprite: Objects/Weapons/Guns/SMGs/briefcase.rsi
     layers:
-    - sprite: Objects/Storage/Briefcases/briefcase_brown.rsi
+    - sprite: _Lime/Imported/Goob/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: icon
     - state: icon-muzzle
       map: ["enum.GunVisualLayers.Base"]

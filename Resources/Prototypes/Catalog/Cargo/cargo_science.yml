@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: ScienceBiosuit
   icon:
-    sprite: Clothing/Head/Hoods/Bio/scientist.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/Bio/scientist.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   product: CrateScienceBiosuit
   cost: 800

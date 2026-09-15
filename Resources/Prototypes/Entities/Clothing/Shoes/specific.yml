@@ -32,9 +32,9 @@
   description: "The prankster's standard-issue clowning shoes. Damn they're huge!"
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Specific/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Specific/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: FootstepModifier
     footstepSoundCollection:
       collection: FootstepClown
@@ -109,9 +109,9 @@
   description: Specialised non-slip rubber boots, designed to reduce janitorial workplace accidents; a tider's treasure.
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Specific/galoshes.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/galoshes.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Specific/galoshes.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/galoshes.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: NoSlip
   - type: SlowedOverSlippery
     slowdownModifier: 0.7
@@ -145,9 +145,9 @@
   description: When you want to turn up the heat.
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Specific/swat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/swat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Specific/swat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/swat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingShoesBaseButcherable
@@ -244,16 +244,16 @@
   components:
   - type: Sprite
     state: "icon"
-    sprite: Clothing/Shoes/Specific/large_clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/large_clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Specific/large_clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/large_clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     clothingVisuals:
       shoes:
       - state: equipped-FEET
         offset: "0, -0.02"
   - type: Item
     size: Small
-    sprite: Clothing/Shoes/Specific/large_clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/large_clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ClothingSpeedModifier
     walkModifier: 0.8
     sprintModifier: 0.8
@@ -265,15 +265,15 @@
   description: "Get your skates on!"
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Specific/skates.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/skates.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Specific/skates.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/skates.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     clothingVisuals:
       shoes:
       - state: equipped-FEET
         offset: "0, -0.04"
   - type: Item
-    sprite: Clothing/Shoes/Specific/skates.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Shoes/Specific/skates.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ClothingSpeedModifier
     walkModifier: 1.1
     sprintModifier: 1.1

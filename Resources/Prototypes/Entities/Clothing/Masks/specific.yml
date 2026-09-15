@@ -8,9 +8,9 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: Clothing/Mask/gas.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: Clothing
-      sprite: Clothing/Mask/gas.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: ChameleonClothing
       slot: [mask]
       default: ClothingMaskGas

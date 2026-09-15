@@ -28,7 +28,7 @@
   - type: BallisticAmmoProvider
     proto: CartridgeMagnum
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: base
         map: [ "enum.GunVisualLayers.Base" ]
@@ -58,7 +58,7 @@
   - type: BallisticAmmoProvider
     proto: null
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: base
         map: [ "enum.GunVisualLayers.Base" ]
@@ -92,7 +92,7 @@
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumPractice
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: base
         map: [ "enum.GunVisualLayers.Base" ]
@@ -125,7 +125,7 @@
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumAP
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: base
         map: [ "enum.GunVisualLayers.Base" ]
@@ -158,7 +158,7 @@
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumUranium
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Guns/Ammunition/SpeedLoaders/Magnum/magnum_speed_loader.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: base
         map: [ "enum.GunVisualLayers.Base" ]

@@ -10,7 +10,7 @@
     tags:
     - Donut
   - type: Sprite
-    sprite: Objects/Consumable/Food/Baked/donut.rsi
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donut.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Solution
     solution:
       reagents:
@@ -19,7 +19,7 @@
       - ReagentId: Sugar
         Quantity: 3
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/donut.rsi
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donut.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     size: Tiny
 
 - type: entity

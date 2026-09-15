@@ -1,0 +1,894 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Clothing/OuterClothing/psywizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Clothing/OuterClothing/psywizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at https:https://github.com/ParadiseSS13/Paradise/commit/e3bc7e3fd7787cc772353295a56f087fc1c37312. Inhand sprites made by Armok.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "aef06d8735c0574ef50b672eedf4db90dd242b704ac356b0224fd0b6792844ab",
+      "icon.png": "68f496cb3babbdcbd504df407dc7f56d82132e07e4650bff6af600c0df2f40c7",
+      "inhand-left.png": "01f337489ceb6f079e0f61b2baaad84caee9130a4b8d942f51b489a6dab27334",
+      "inhand-right.png": "0b8bb8e12b46ef6fdb9f1f260e625dd00a329e38a1fe279ef0bf779c151ff163",
+      "meta.json": "513b7d33fc26f91d58350f7ea5c7a9c0eb6c25da49cbec17e47ba2e148493f5f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Clothing/OuterClothing/tapewizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Clothing/OuterClothing/tapewizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c. Inhand sprites by Armok.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "a939ee1293e5d8d1e6937eafabebfe948afaa3434559c0e3057218c90fc3071a",
+      "icon.png": "630cd93a865c7071b11b7f13fb7b8c5149f7edc5c1b2d0d5d8bda7b3fcc38766",
+      "inhand-left.png": "6cfcd2753bf2aedf2d62282558b66e6241b4f68fc9e033dd4cdf64d837facad5",
+      "inhand-right.png": "85620b4788a2e6c3354ae0b51558a421a9cbac3c3d4362525cdbabf829a43117",
+      "meta.json": "062ab809f2f794ac423a288018742e8c61e8022e27f816677e831418fa6bb054"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Clothing/OuterClothing/yellowwizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Clothing/OuterClothing/yellowwizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c. Inhand sprites made by Armok.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "7c74d2518a5876b410b5a66eae53c9b57ffb04eec68d9a4a4c6805b4a0c03065",
+      "icon.png": "ffbc36e753f1c5e37353439366369ea0c0a7a1901bf5acb0a1da0c1fed776678",
+      "inhand-left.png": "84194e672ddeb06347f7f70995ad9ec20422551169609be80f6eb1161583a570",
+      "inhand-right.png": "53bf82f4db2a8707f185526d4561dee7e870613085a25b18f618e101f23e3735",
+      "meta.json": "1e7f2c3b67ccf1acdc1da12db81834443290150ba76991e2747f89b5e7a5d197"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Clothing/Shoes/crimson.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Clothing/Shoes/crimson.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by OnsenCapy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "b042becae66f851a3974d8a83428e782d53e3670316efc12b451f3caca7b2d85",
+      "icon.png": "0d874a9b05711d9010af13365defa2d08e1cb9742662d77196565f0439deab14",
+      "meta.json": "01421f04868587dad2b9e835b0fcde6fa49b8e391b6eacb0a9eac30325d24cab"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/evermug.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/evermug.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at https:https://github.com/ParadiseSS13/Paradise/commit/e3bc7e3fd7787cc772353295a56f087fc1c37312",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "84e3acd452c6cbd7ae49efc2fc36948bc90003438bf61dfbd2715c31ad53f868",
+      "meta.json": "a935d0ddace1aa08ace928f4e4c0129194203c05744d624980da361be01e4d5c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/scroll.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/scroll.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "3265131e65beb9fa23787bf4fc4ae982527318b75a63c44dcf907d9b849d41c0",
+      "inhand-left.png": "3accf795cf6eedf4682a2960ffdc6261ec15a8644a41807cbd0a0b26e2eef372",
+      "inhand-right.png": "f65356f8ffd0f121c8205691253fb3c2aae1c38dbe484858301dd6f5432e3e86",
+      "meta.json": "6a99322ac511ca1d8f5171b2e30340069d7d5e3aeb8895d99b47a22a41877fe1",
+      "scroll.png": "75cbde8827e3f044162805c8237b8cdccd8d66f236809f6916223c359934ee1d",
+      "scroll2.png": "b8b924c4cd7dc67d55733ab54a01a9f79f55385ddfd195dc3671b54e994109c7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/scrying_orb.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/scrying_orb.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at https:https://github.com/ParadiseSS13/Paradise/commit/e3bc7e3fd7787cc772353295a56f087fc1c37312",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "5d55892d1ed61d6af2b6491d0806ac65d39a5be34be8052c8b55c776b68227fd",
+      "meta.json": "c9ad4815bfd1b68c79b32e135700b925832b0c55c33d79bd4aa90c9e035a636b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/trap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/trap.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "dde7e381849c61662f3c01b161f8ace4934b127cca19af0bfbca6bdaa47e8a89",
+      "meta.json": "06282baccf010b4de568da36e1d27ab161c59431e84547c1c62e2349b84fb437"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/vials.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/vials.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/ParadiseSS13/Paradise/commit/171c0d2d6cbcce67e5f1f09a741933ef1e7a1751",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "60dde7786389303fde5a7252e6c7f79bc513ef52812d24fe49e6721cbad36b7e",
+      "vial.png": "14614c6c78eea8a6be76692ea2acb9099f485fbff22a406e288dae88543d236d",
+      "vialtickles.png": "f1734754fe4132f12865f788ade1d859127c8ddd7efda4c3fd4f358f726ca83b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/arcane_barrage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/arcane_barrage.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "87ccca0f76536caf0726da5b6139dc2c757a5de40da442a3f37e8a01e003e729",
+      "inhand-left.png": "56e89d0cb9ec868e72d00ef5d1fbe12dc68415233f135b28165fa393183455dc",
+      "inhand-right.png": "415fb9274c19e65df7f99eb32de0759938ec50a525af1890e07d9d0009bc128b",
+      "meta.json": "b6b1fc9227e839e1bf1a88086aefd478d275a5b16c07583f9f040cb2b0cabdd1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/broom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/broom.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e6b3ee0ca532d47084c2b1d11020a438b767f5686231c2bc7ce8c28ea012329d",
+      "inhand-left.png": "d8744b447dc9021c418da660c2a578b8bcadbfae9f7dc80a613eda1b4062cc92",
+      "inhand-right.png": "605c75f35cb30939ee2c9cafa1a121b28a706f8dce5b9dcc4bb343d1f97c8695",
+      "meta.json": "3c2a8e1c9ee4ab6f7ee7da224ab93881492b96a3697a437236b5f9267c4ad4df"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/enchanted_rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/enchanted_rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from InterBay13 at https://github.com/AndySok/InterBay13/commit/84824582fe1381d9ea6282b9da407994ab8ab509 and modified, backpack sling sprite edited by Boaz1111, wield sprites taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "cd75129d70bbd7a4e1f857292cf0c6d16ecfde3b058306a91ccfb2bea17b797c",
+      "equipped-BACKPACK.png": "ea945a82ca624eeb3ca698c1094b3dbafb1dd341565d2ec24c9974c95eee5019",
+      "equipped-SUITSTORAGE.png": "ea945a82ca624eeb3ca698c1094b3dbafb1dd341565d2ec24c9974c95eee5019",
+      "inhand-left.png": "f5d2102a55cc7bc35a682afe833b452af0f2713aa38444f1c76fd94eb36f058f",
+      "inhand-right.png": "79827404cc9ce7fddfbd0d696100d23c5cbd37eb0336202a68fe0219d840f763",
+      "meta.json": "39a4571a702f383e82bd71ab0e1119f815135382c7c710d6c8438beedb553776",
+      "wielded-inhand-left.png": "eac8e93e6f1c6fa5e9bbc92e78fbd98e62d99aeb42c578243f984e8b933ead49",
+      "wielded-inhand-right.png": "965051074d8153a3228d50871183f2f8eb404c034078d2cf4d127b4f6f04ebe5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/hfrequency.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/hfrequency.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "cc921a8d8e51e628c4e251dcee269559acc45fd8b6cf46fe9a73ff1ee497df02",
+      "icon.png": "c19daea0f2e57f8a280b62a82436bcfceeda5dafdec9a20bf8819098eb4d18c5",
+      "inhand-left.png": "85f205c018a43193ff8aecdcc759f1f64107531b4f3bb7990f1e9469265b0504",
+      "inhand-right.png": "853f64d50ea3e4bac8d4cef45e1b8d2221772a304193fe643dab7788cb235fff",
+      "meta.json": "4fe43291139b1f4eedd3fa84f24f3da88779afafd2b8e17eee22e2997239bd11"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/smhalberd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/smhalberd.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at https://github.com/ParadiseSS13/Paradise/commit/e3bc7e3fd7787cc772353295a56f087fc1c37312. inhand-left, inhand-right and equipped-BACKPACK made by Armok",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "ab6fd0c7dd8a51818369caefc0799af660f0599abfa17474e549ad1d12f37cac",
+      "icon.png": "2e064c13f3df4e15cf2abb33316ddc8b5b9876af91c3f4606fece28fc0f7dc9e",
+      "inhand-left.png": "60ec07b28da81b888d16cac52508618878e661f88c9b075a3e6453ab9a1a0ad8",
+      "inhand-right.png": "b25d33c9b921495d349d0c2b704e84249b661efeb77be571180e772586b08f0c",
+      "meta.json": "892394d62bdd09e5b3b713bad315245f4ba1cf9866ab6aaa7c675fc09e6e2755",
+      "wielded-inhand-left.png": "c63b7a3fcdc10ad8bf89a9381a6f8539d2d75a7bac3b147bc476211fd0d3529a",
+      "wielded-inhand-right.png": "9737357974b613415bbc8c993168d616f96861363952f04d74e6ce727d800bc3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/spellblade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/spellblade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "4c4a0aead17a1cddd26d440723eee39c6484b3748d735b3a29046a51acd667b6",
+      "icon.png": "b75de30af912cd26daf2961b54fa77242cef4f436d34ccaacde13a6cb367e49a",
+      "inhand-left.png": "0dee679842fbac4f153f741b66e0b70ff85c5e14eb79d55e5fc3cef019d1a767",
+      "inhand-right.png": "4d7a5fdaa72fcb7b1d8714a25e58d1efcabf3584107d51a518e01eedaede9632",
+      "meta.json": "23f4dff6418923cdbf1d4199b84df473f0296861edab99bc9d75c35cb4b1bc80"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/animation.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/animation.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "313ee4f2c5876b1072aa4374f6b1687486a4c4c863a826eb92d8d2f6e453ff49",
+      "meta.json": "005c4ec70b90a0a47ea9d6c968eeafea82f8636d4d2f78fa1c29a958c61d732d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/change.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/change.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "change-inhand-left.png": "0585f4eb8ecebd09b397ea45b29dd3d99b99b0d0f9e4878148743537a6a8e655",
+      "change-inhand-right.png": "5d24b930b669b7f2ae4ea08eecd9732497b09b43e190e68c05a4c92419ee68ca",
+      "change.png": "e3420cea84704f69c7658577fa38cc9a2c23585d88ad81a0db91cf0692e0d95a",
+      "equipped-BACKPACK.png": "45ad634b9a472cc750105662699cec5208bfb516bd0146dbb3f39052c65ecf7c",
+      "meta.json": "a84dafa71accd733c11da316b36eea1f004f905892d56e337c60b53e197da168"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/chaos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/chaos.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chaos-inhand-left.png": "d201c0c80f586a00253be2844374d18a2f8231b2ab81decd6a8eb3f84724669d",
+      "chaos-inhand-right.png": "8ada4049aa65d3c39a1a76b2b2e8a01d9d1b7d4c3ff83961917e8c6baa6249a3",
+      "chaos.png": "106129546d2e7fdfd5f5102d32def8737694737deaa113497a655bd1ab3483f2",
+      "equipped-BACKPACK.png": "766c25c2f593bd683d6a78cca1586d3d2a843359e01e452e6b3f1b777eb6a669",
+      "meta.json": "6eed3ce9ecbe4c714bbf707481270687daab7b9263c421bcedb1a7368884d527"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/door.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "door-inhand-left.png": "d344ecc04898b8081cca064b995712e3ab96562de43f2a2f5a5efc0ab884479a",
+      "door-inhand-right.png": "c4706c5983ce7a716c76f03a673fb60f66d9e64f65743807de3db15a104ed2fe",
+      "door.png": "84df6f8453e83b8544fce7177ecad5c202424d2cd5a0d92b3b7cc0a2a988adb1",
+      "equipped-BACKPACK.png": "87f2cbcf50e19caadc6ab3ea153f84c71906d02eee6585c8d14ba11ce92fff5d",
+      "meta.json": "8113051c6da67135087ec5b9c6b9c7054f388f0fdeb01326c07672004325fbcc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/healing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/healing.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "3522f003b9f70dd1925278c1189d49fc0bf958383a8f9eb3002443e114e5fb62",
+      "healing-inhand-left.png": "813d4dd907c8b78ad5532597da3827b491a7ba24295ed9eafe7b71b874a210f7",
+      "healing-inhand-right.png": "37c113e2224364ff89bb560ca6179e5e5cfabb814bbee8872c822c68050de556",
+      "healing.png": "4e428964e1e264e63578b01a814e23832f5692df608c82ba8318fb872d123e54",
+      "meta.json": "7f4163d127dea5f053734eed7b600fed1a93247adfa9d72bbb06ac68fc9016fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/locker.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/locker.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "e121ff821491d432b977168849a6fe1f95c58c472e5257e816d04c0fa34fb1cf",
+      "locker-effect.png": "c2902cffab5c89e72a17e9e8f0c55c6d52834079609c02df2a30516c9b1b02d4",
+      "locker-inhand-left.png": "8e6bf36c659a0ae3b507fa795d8692baf8934dc0a90d111e979244743e1fdbf4",
+      "locker-inhand-right.png": "bd9b46ccfb5dd3e2cc33f9f44b8ce6b4e7e8519227987e517b75ccc91f648611",
+      "locker.png": "a97fc0a8710a650b6e4b09b4146993823b70061e998231df9f09d2886f791831",
+      "meta.json": "3893c77c113cb19b77ba5811dac61670b5a7527b7a2990b364e9cd123046c474"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Staves/slipping.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Staves/slipping.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at https:https://github.com/ParadiseSS13/Paradise/commit/e3bc7e3fd7787cc772353295a56f087fc1c37312",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "ac4ade5ec6e8d3b2dfdbbc5d94f205e9c5afe872ddb8f7ed41f3f0e2a9c47107",
+      "meta.json": "299b6be98f63985f0aa796b3b0eb6997098bfb94d7c7153bdea238a3e165ad00",
+      "slipping-inhand-left.png": "15fd4e599b0cbb0e502a96a1727f087e0b0c7f961cf3b24d4082fc722e48c126",
+      "slipping-inhand-right.png": "a0ac6c265636289db10d67fc115a4429e71dc03922bbb65c38df8dd2afc97646",
+      "slipping.png": "31ba3c99be025f3784fd258f075c8483efe15be23cd965ec074bd8310409314f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/tapestaff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/tapestaff.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "92ba6775f8158dd5fae74978b39dc2beb2f6e3242e9aa827a30d68c59ff3bf03",
+      "inhand-left.png": "943b591f1e7e2ad1c10ad9966f6ddd2157a4a071916f4bd11ebe0165e9e0248e",
+      "inhand-right.png": "842e5f4f9b2c6a60985e9c95054b694abb5825565da12f0d994220aa5dc6d840",
+      "meta.json": "3c2a8e1c9ee4ab6f7ee7da224ab93881492b96a3697a437236b5f9267c4ad4df"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/thrown_lightning.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/thrown_lightning.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "56935ac3514140c80941381776b5279eda6a1f61910e2c472c6ef32b926b390e",
+      "meta.json": "06282baccf010b4de568da36e1d27ab161c59431e84547c1c62e2349b84fb437"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wizard/Objects/Weapons/Wands/wand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wizard/Objects/Weapons/Wands/wand.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/80ab61c8c7741e1d95e5f168357a9e6e61b38f2c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "basic-inhand-left.png": "2f8d5581c852548b0f2ccce488ede29310ad485a9d1fb82b4765c0d4a854daa9",
+      "basic-inhand-right.png": "7c0ca0b8a8a471b2cf9b64d250a934b661056479f5565aca7c1aa93463257022",
+      "basic.png": "e03df75e7baad14e706f4a7c2feffd736e2738b12fb162b807e2d87510ff0fb3",
+      "icon.png": "617b0e5cf692892d4cdd1ef9c53fd401d05911c6bd5475db3bfa909b62e027a1",
+      "meta.json": "d0c75b28295341aad4c8f4bfa5cb04b48befb914407f011233c2d4ca04aa4909",
+      "mode-inhand-left.png": "5047b8d91b83c48265ea19f4dc2af39bcc91c11bf12ad4a886821d23de728e87",
+      "mode-inhand-right.png": "ce32226ce9b7f601bfc72174c830ae381029250ae7d867c2b429c0113f76bc5e",
+      "mode.png": "076c5e5a7086b97787dd2cc8cb161d5de4dd5e413d7d3003f6999852d57d3569"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wraith/Objects/ectoplasm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wraith/Objects/ectoplasm.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Goonstation https://wiki.ss13.co/File:WraithIconPoltergeistCreateEctoplasm.png",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ectoplasmaGoon.png": "05dfa1ea2064b9b243d109617cbf58e9fbbac216fd8b429c2d9ebf9c049e8496",
+      "meta.json": "63da88d9cc1652c09c7e70f874aa91fc4e1a92b4048cb96370c4f498668b1ba1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wraith/Objects/Line/tentacle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wraith/Objects/Line/tentacle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Goonstation https://github.com/goonstation/goonstation/blob/55eb154fe1f0d19ced59a1e13259d0a021ca8195/icons/obj/projectiles.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "end_tentacle.png": "2c95be446ff053b69279bd341b29df72764ddfa040e1eba8abc0345048d5258f",
+      "meta.json": "52ce9e77e48770973cfd6c32379b3b74d7e039b78b07768f9690f2714b6448de",
+      "mid_tentacle.png": "e17127ea05d035f6bc37fda19f4e780179aee531ca45cffb9e7c9d4f94aa82b7",
+      "start_tentacle.png": "d3a79f9abc674d26ac7e8d752d5454fef6bccf6f7d2e5ddfa4ab9548952a3e94"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wraith/Objects/ratden.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wraith/Objects/ratden.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Goonstation13 https://github.com/goonstation/goonstation/blob/55eb154fe1f0d19ced59a1e13259d0a021ca8195/icons/obj/objects.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "fc32b977c142cb7cbd8c6ed631e3a3d90e14222f364e0d01a55ccc207e68912a",
+      "ratden.png": "856f0ef1987f72a6ca9074a5859eca2fcb5fd0d720850f15ba1b60301cfe4d2a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Wraith/Objects/ritualcircle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Goobstation/Wraith/Objects/ritualcircle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Goonstation13 https://github.com/goonstation/goonstation/blob/55eb154fe1f0d19ced59a1e13259d0a021ca8195/icons/obj/wraith_objects.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "harbinger_circle_1.png": "6f994bbb6b4cdc48d3af175dbd57fce4e6f04aef9eb300b8f6ca8c33ba26d2e6",
+      "harbinger_circle_2.png": "eb4bc30399a5302016ce29c9f6023c25e7b24cb9f2e33f9852763015e954efd9",
+      "harbinger_circle_3.png": "09e428b4219927182f35b6aa17b5bd56266595cc692ddc13b53f53cbf513bbfd",
+      "harbinger_circle_4.png": "dd46509efb0d3725aa21d826acff465dc912babce7954ff700914ea8ebf6eef4",
+      "harbinger_circle_5.png": "8cb991efe3af794c12bfef69e13201404fc8d11567a780d6339845c5e383904d",
+      "harbinger_circle_inact.png": "554d8c13dc8df71fc8869002688e14190fe468b2abbb92dc0d0cb02e12bd28ce",
+      "meta.json": "ba401f2d1fefdd75b4140619a0097eaad93dc98b312889e22a219df6b0360a56"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Harmony/Objects/Weapons/Guns/Shotguns/hushpup.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Harmony/Objects/Weapons/Guns/Shotguns/hushpup.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/ at commit fb2d71495bfe81446159ef528534193d09dd8d34, bolt-open modified from icon.png by Flareguy, all sprites modified by Halycon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bolt-open.png": "911e8e63e72fb5c1a9a290074e1cdce732f108c233ab683b1be22dc871dfe8aa",
+      "equipped-BACKPACK.png": "a9aa9c4e959e26083fe7421b99762947669a69044a1a35b8411905b5fed257dc",
+      "equipped-SUITSTORAGE.png": "1ad9878794bbc44dca2dac4e83a07678ca7a9186470cbc3c9c919b4a3ef249f9",
+      "icon.png": "97bc2d0c58a1aefbf503971a7ab662f02396d56790b2dde152f0ed8785e9b1f0",
+      "meta.json": "314cd2cac04cf2158de785c6e78f8f4a6324f0e0cc9e8893a8ef79bac410d979"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Clothing/Head/Hardsuits/ancient_armor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Clothing/Head/Hardsuits/ancient_armor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @sturm3046 (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "8dd3dae6ccdcd2895c0b26c325c73b67ff3dd07674df5c47cde32a5da2f5d831",
+      "icon.png": "062e2245f8fd37b6c451a87d28332f8f5b5efa60489dd6048c7d8d5311d444e3",
+      "meta.json": "a790aa3916911ed3f0b2738366270d0c883b80d3615e5eb9007a7076d4f692da"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Clothing/OuterClothing/Hardsuits/ancient_armor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Clothing/OuterClothing/Hardsuits/ancient_armor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @sturm3046 (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "b8def9a945b0e821ef1965492a5869e92e4f61d0138feb9f46b1598424facb86",
+      "icon.png": "261ba23fd6430c9665b4383d651e5c875865e42e43fbc231dee23c57ac4db11f",
+      "inhand-left.png": "7a8625a8e2214f847427ea89c7042f37a6d2ccad7d1fa653a413722ad29e23a0",
+      "inhand-right.png": "d89ddd87771b3ea8c58da526940159c9338045e0b09cc75292ddfe0816e15b29",
+      "meta.json": "f94e6fdb543c085d4511df26c9d89c4c694e4203327585e9d90e7dd4eb35bc8f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Consomable/flora.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Consomable/flora.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from BandaStation ss220 https://github.com/ss220club/BandaStation/blob/master/icons/obj/mining_zones/ash_flora.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "fruiting_cactus.png": "f6a0f2798aa35b1927fb4cd1760e38589b97cd7aead1aedf6d2fc5bd5e836b64",
+      "meta.json": "947aaea3f19fde29330a04bcaffbafbd8de973486bfb03a0eee7946f1c41d944",
+      "seraka_cap.png": "a127175bdda14623d9afba02bde04f928577a0e7c4d13ac511eb10766681519e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Misc/bush.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Misc/bush.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "bush 1-3 made by @sturm3046 (Discord), bush 4-7 made by Jaraten for Engenia project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bush1.png": "7f71e242a88195c7a8678581323640e6f329ee43ffc6afea5893d0c02ca09ccb",
+      "bush2.png": "b0e9eb6f2c4093d1000d0adc27f756144fc1bd1ebff4a042c5235ecb47996774",
+      "bush3.png": "46aeda83ea6245f004e2b91f5ac50087b14019b7eb8f44794656794706d4971c",
+      "bush4.png": "bafeda0c8b0524fc11545f99f3ba2ccb7b477bc7e1a691585d265a2f6a4a1bab",
+      "bush5.png": "9baa4eebb8d971ac8bf0b069099f243d69c331d325e7ead84a34e99cee6f4c10",
+      "bush6.png": "f1b281d904d9943c1808c6ede5645c8cbe355511385722390ac45ae0dbf8ed21",
+      "bush7.png": "4c58f99f68f6f7a52c522febeeb4ff6cc6627ef15bb1cc12f928015ea1c176b2",
+      "meta.json": "08b5869fd6602e34993dce4e446b13b4fef48f372268a8ac82261f8f91661dc7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Misc/dark_sprouts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Misc/dark_sprouts.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "4ecdee2894216cae5507cd70149895390703a6185a2e85e5606c7a86c3264e55",
+      "sprout1.png": "21c6d27e5f0bef24265d4696a8476c3d4efe28bd9283d78a3b8a70c969862821",
+      "sprout2.png": "fbf4ba8cff2a0bc4e00006f68cb69cab8f954f10aceba1c57bd33b3b19391374",
+      "sprout3.png": "92eae1075f500da7df24a3396859de7abb261d7bf9355bc27d28e33e326a6bc2",
+      "sprout4.png": "6abf9ec80138c6aa41969a14c507f729ec539f76b17454acf81de182b2b4252a",
+      "sprout5.png": "dc3d0407875f0db62d53973052af02694b0f268a875a01662b23a1a70d6948b0",
+      "sprout6.png": "e5a802beeeea10d859f229c8dd0952a045150b4aeec4ad5fe3d558bc4f939817"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Misc/light_sprouts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Misc/light_sprouts.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "4ecdee2894216cae5507cd70149895390703a6185a2e85e5606c7a86c3264e55",
+      "sprout1.png": "106d0e0867be92aff2037c6351fb2f5afd9825762cbab443ec26ec603a07b3f9",
+      "sprout2.png": "16015887f037aed217e5fff46b36b4240bf3ff4af52146100c2aabad450fac9d",
+      "sprout3.png": "e75f2b48c8615984bb317554b47e660b01b88d144e6804e2798bfd762be7ce58",
+      "sprout4.png": "00e50bee3db0c4e187927fd52383e42c9a957359d9c8479f8c3f8657ec53f8eb",
+      "sprout5.png": "1b99c69b96f1773967c8992277fde62a1fcc6f77af7a42ba1ebc0cbe34c7a82b",
+      "sprout6.png": "8e5d2c2a0e25ac8eda78197f95a32a16a98139abb52f9d9c250b7ac36b5f5c58"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Misc/moss_light.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Misc/moss_light.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by jaraten (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "1a00aa5fb345fa3b5a144602cf59d02bd9ed833dbdaf2c8786064518a21d8c28",
+      "meta.json": "ad2f90bab1041c799d7697d769c485d7c02b50a92cec4053c96242a53db7d004",
+      "moss0.png": "26fe041d19c066199fd5a28cfa1cbba47a990afb27896444792f18ef18af3fe5",
+      "moss1.png": "63b08caf02b38fe8ae6f9b376cde9f2742ead92fadafeb2af4ade0fd13b6f7a7",
+      "moss2.png": "4c175cca387512786d6d43ad78920e952741a8158bf310a4cc7300b65303e976",
+      "moss3.png": "cfb4a392f50b748056e5594d34de251d8cc443ffd10cc87712e98b314492b325",
+      "moss4.png": "00fb484acb1f3975671e2bdcebb9f1188ffb5bfaca9698edbd6952e60e87a7e0",
+      "moss5.png": "9d8a95c2bbe74d3eb7e721c2dddf3e7d9702e0e2da9d25391b37be8f5931079e",
+      "moss6.png": "879b08f1e2584be68156b433d06e75c962790a8d67b0dedebd3212632712834d",
+      "moss7.png": "90bc8588000bf6f7252baf9108373c047cacc0e8eed4bd51a5c1936754912ac0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Misc/yellow_flowers.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Misc/yellow_flowers.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "flowers1.png": "764481b1b7090c9cf6b5b288c3cf645cc01d180cbd24c12e3887b6e0e7418cec",
+      "flowers2.png": "9067578d3ee4439915f69c9b1a90394ffea811f7bb6baf9212be3858acef464a",
+      "flowers3.png": "84a57dbac83e6bc04bf36d7c11986ee98b01b839b812e2f69ba77a59847389e7",
+      "meta.json": "08d348a0eb44b37d115ce8348e448240fd11d608e2c15800dbb23c17803dd14b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Plants/fruiting_cactus.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Plants/fruiting_cactus.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from BandaStation ss220 https://github.com/ss220club/BandaStation/blob/master/icons/obj/mining_zones/ash_flora.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cactus1.png": "4eb720626b43c3919a83e549933302313e59033769721889e0d49a24e8789682",
+      "cactus1p.png": "b2ad455636b238da25c03c40a33ddddb7eed4b27ddde8c2a1b58a035c2f898cd",
+      "cactus2.png": "2a4316f61ae6218f3c4c864ddc16447bb53b94521cbcaa4d2cb3fe5b471229a7",
+      "cactus2p.png": "27b8e09f7d5d0c71c86ed48940492bf07bce6f142614089647bd29ae42c23f56",
+      "cactus3.png": "b2b1b4b0c616d807cc1f7eca6c1a5142f03d8c5fb85d0698835b80889050b820",
+      "cactus3p.png": "0afa1e14071a542a398e9ad1fa46459c980165029fe246823e54cac096db8c30",
+      "cactus4.png": "d1868c48cd4f7f3da520c74489228c30c0b9dc7624362566ed770c0ce979b088",
+      "cactus4p.png": "cb90d8c1a8f4cf9af92e24b43b5e382787d21458682b3527d12901d996cf7df6",
+      "meta.json": "04bea26205572137bee7590779a2e5c3a0e7a12674b04be1eb700498c4c6986f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Plants/lavashroom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Plants/lavashroom.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @sturm3046 (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "b43c28343bbe26e771b8924bdd79d16a7ada5528d0abd0c6dc7403071fd6db08",
+      "shroom1.png": "efa92a0e55f6b11a795ea7383e0b6510e0af4f2df557668e6847fbaa7f0c309c",
+      "shroom2.png": "9f489f7e1e7509774bdb2bdc6e8f5cc82e8b23bf775b2f4b8594d4319ab0f6fe",
+      "shroom3.png": "a3aa61f8b7caacca6956c9e5234f21d34a3ec268514bc38dea5b618bb0ec9afd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Plants/seraka_mushroom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Plants/seraka_mushroom.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from BandaStation ss220 https://github.com/ss220club/BandaStation/blob/master/icons/obj/mining_zones/ash_flora.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c0e98d298ab176015fc727bb0525761fce7c79a1cbe750764bc2b4165cfa69ed",
+      "seraka_mushroom1.png": "0dc8c4c4ae2c11e9b5f26128dd4d6ad2b7fa8417f5270357712c0c55a7dd6afc",
+      "seraka_mushroom1p.png": "87ad36c690734d74332ba3cff32bb34af01bbc5825c6f65b43fc11458bfd72dd",
+      "seraka_mushroom2.png": "1d710fd202a2ae16e9611e4254755e4f9e082ed7682fa0928334323ed2d852ea",
+      "seraka_mushroom2p.png": "ed9cf4c96e42b0b746ff6f46b67342c5f534621a4ad04e32c6296fdd55c4c78b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Trees/ashtree_pale.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Trees/ashtree_pale.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a0d60bd38b403bf4143c1b838a54f9a3ba600b9358b545b4371be69fcb9e1c10",
+      "tree1.png": "4c71241d33934b3778fa4efb7722400c8205c71deccdf5062cc3640d71847f0c",
+      "tree2.png": "158a9674000b21d398772dd7231bb0671807429a5f91788b445086e8d60b3447"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Flora/Trees/ashtree.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Flora/Trees/ashtree.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @nyaxe (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ashtree01.png": "e88b76934291b85a6a0f9f16ec60c5903894ce1753859821e87d4a2d88310769",
+      "ashtree02.png": "ddd4d88848263d5bb5bf65a2b93a37eacbee8b9264b6d332b9656c4e3f11e418",
+      "ashtree03.png": "667bd4610e4e1a605e40fdd90f85c3c967486f60485f3338011f5ac1b228c935",
+      "ashtree04.png": "719a44286ff6343593d3bc703ccece408cd6ca3e8932a31f5628650b56a6ed3d",
+      "ashtree05.png": "f8079e10d71b097d73fd74023669c73d4d0cc5a4f7a4770554bd989d4a50b3fc",
+      "meta.json": "1231e98543635c73e8479f89b3059fe96120412340a109103e24424cb6dc788f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Rocks/medium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Rocks/medium.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "0dbfbe3b5f5a3d9fbd65625c19af4b1b4b3bb7156347adda01020b419c8d10a2",
+      "rock1.png": "72ad361bc5073630c654c6ecda5fa633b6c7a0e1978ae777dc19729331edc3fe",
+      "rock2.png": "564b18763aa05c5691fb147bb6239c3dde997c3490f1c9a651b2547b5a730db8",
+      "rock3.png": "354f2f7bd0b31fed299274959deb1eca3c097c18eba67c26741bb504edd133a7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Decoration/Rocks/small.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Decoration/Rocks/small.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "ff699ccad7b61d707c9cc96e77747a9d1a75aca8fa6ea5945a5d39bd3deb7d48",
+      "rock1.png": "b566bc68506aae75392fbc2e950fff7d95de1099942bb184f28061d8fc39d6ac",
+      "rock2.png": "999cb17e4420f0a6c1ce7ead247bde1729c6393cb8167fedec3dbd1e0bdeea5e",
+      "rock3.png": "b520a54770b20c0336ea7236379e6ec30252a44f816d7674cffc77af558fd8b1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Devices/pda.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Devices/pda.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "pda-shaftminer recolored from original pda-miner by Rouden",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "id_overlay.png": "828928d06bdd95cc50ae1fa0325d5a3a100dbe3fe67961bf56c0d0e3c1d62652",
+      "insert_overlay.png": "be971761c2e569e22c4b844eca2e0ac82510016ba69b7a5c35651cfcc795ee27",
+      "light_overlay.png": "2d740df75bfb167f94747d11f8f8e489adbc35cadb64fa0c29ceb28818edf6d3",
+      "meta.json": "aff7f901e564f4d97d97be8fa23797c85abda81586f701bf3c4b04097836dacc",
+      "pda-shaftminer.png": "c9ae13635d259987717feb1d5e999c2bb4731e96647bf2d03b6778bac7154558",
+      "pda.png": "680a791970d9d6550a7088296b452016ee74885d686f1d03bf723bb73696b915"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Devices/unique_teleporters.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Devices/unique_teleporters.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Renee - https://discord.com/channels/1202734573247795300/1288192265319223387/1288254493020131368, recolored by Roudenn",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "fdd077a782b33c61fc8322f3acc84feaff8c2e9991a2433e24e7601c8d39ee81",
+      "salvage.png": "83713939cb3277ba3ed9c588686569353ea5109950948c5e62db21e37dd98820",
+      "shaft-miner.png": "224f2fa4a778c1864972d14cb292fbd320a29075586c5a973be4b299d9c9e926"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Materials/ashwood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Materials/ashwood.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24 , wood sprite modified by MisterMecky, wood_2 and wood_3 made by MisterMecky based on wood sprite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "0b5b14a4c381aaee0faf8fa9c39270f417bbffa26132256487a7975d7d9c6685",
+      "wood-inhand-left.png": "0c974f63fc4e3f3b7c0058cbfbd46fd54b0e75bfbe58a12c1e9487cd1a9f7b46",
+      "wood-inhand-right.png": "30886d778ef90c1424ed89e02292c9e78efe71f3c71dd11da67e699006ccb51b",
+      "wood.png": "2e5104a12c0f8fbfe71515f0aa48edc531a41cfc9e4521d5aecd54511ab02509",
+      "wood_2.png": "461e164e2b792ce39ab4f66c3d8368904f13092ced9c51fb3655870dca723b17",
+      "wood_3.png": "8fbdee062009ae33633d0059aad68d32fcab7da551e071addddc5367723f4007"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Materials/biomaterial.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Materials/biomaterial.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Jaraten for Engenia Project",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "dark_1.png": "8dc5b372465c0d56bafb5dc07070e54104eb60ffae41fd122d66905f210092c5",
+      "dark_2.png": "5db3ffb6fbb40a8fb48ea3d50740988c5729a1c257013705d44c399ec737b2c4",
+      "dark_3.png": "ae00381214d003262d721fec234ac8ef8fae40325ac6d6576ac5ef64a779e7bd",
+      "light_1.png": "82f216205ca8b5321924c436847880024c6bd93338bb5a8b98ed3fc2acfec79d",
+      "light_2.png": "5b8d3c2a6a6c5066f51cef8d0ec48a3fcff56fcd1b0b9cba10d1bf288d00ca5e",
+      "light_3.png": "d7b621f4936e1c933001c9d8bc19b6d8841ee26abf7581059f4a5e71d93dd5a0",
+      "meta.json": "4ac66598fca47ea25549200700bbc6e0ee4bc629e1e24aba82b967aaa200c886"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Lavaland/Objects/Misc/id_cards.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Lavaland/Objects/Misc/id_cards.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d917f4c2a088419d5c3aec7656b7ff8cebd1822e idlavashaftminer made by Roudenn (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "default-inhand-left.png": "8b269c1cb35ee0f47ae9c9ff839de1a606c64b3ab8fbaa29cdd1353ac40a592f",
+      "default-inhand-right.png": "5f37fd18d6b77a39718241ba49638185e12505499a8906419bb8e65aed5ddc4b",
+      "default.png": "4ceaa7ef1c6c5985963b9aa7691e37c8c4208cdbb6e4d3b65c37bed9bebea0e0",
+      "idlavashaftminer.png": "f30a06b5707c641b05d8b62b2ad271efd6ce4164773c526c4b8a596616b9205f",
+      "meta.json": "8fe803bf9277e9d0b2a5009b52de39fc160e0dc6fdb65be4a28e6ae7bf32e0d7"
+    },
+    "replaces": []
+  }
+]

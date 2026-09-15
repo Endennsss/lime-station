@@ -11,7 +11,7 @@
     tags:
     - Wirecutter
   - type: Sprite
-    sprite: Objects/Tools/wirecutters.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/wirecutters.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: cutters
       map: [ "enum.DamageStateVisualLayers.Base" ]
@@ -35,7 +35,7 @@
       - enum.DamageStateVisualLayers.Base:
           cutters: Rainbow
   - type: Item
-    sprite: Objects/Tools/wirecutters.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/wirecutters.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     storedRotation: -90
   - type: ToolTileCompatible
   - type: PhysicalComposition
@@ -58,13 +58,13 @@
     tags:
     - Screwdriver
   - type: Sprite
-    sprite: Objects/Tools/screwdriver.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/screwdriver.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: screwdriver
         map: [ "enum.DamageStateVisualLayers.Base" ]
       - state: screwdriver-screwybits
   - type: Item
-    sprite: Objects/Tools/screwdriver.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/screwdriver.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     storedRotation: -90
   - type: MeleeWeapon
     wideAnimationRotation: -90
@@ -102,12 +102,12 @@
     tags:
     - Wrench
   - type: Sprite
-    sprite: Objects/Tools/wrench.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Tools/wrench.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     storedSprite:
-      sprite: Objects/Tools/wrench.rsi
+      sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: storage
   - type: MeleeWeapon
     wideAnimationRotation: 135
@@ -141,7 +141,7 @@
     sound:
       path: /Audio/Items/multitool_drop.ogg
   - type: Sprite
-    sprite: Objects/Tools/multitool.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
     - state: green-unlit
@@ -149,7 +149,7 @@
   - type: Item
     size: Small
   - type: Clothing
-    sprite: Objects/Tools/multitool.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     quickEquip: false
     slots:
     - Belt
@@ -248,10 +248,10 @@
     tags:
     - Powerdrill
   - type: Sprite
-    sprite: Objects/Tools/drill.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: drill_screw
   - type: Item
-    sprite: Objects/Tools/drill.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     size: Small
   - type: Tool
     qualities:
@@ -266,7 +266,7 @@
     entries:
       - behavior: [ Screwing ]
         sprite:
-          sprite: Objects/Tools/drill.rsi
+          sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: drill_screw
         useSound: !type:SoundPathSpecifier
           path: /Audio/Items/drill_use.ogg
@@ -278,7 +278,7 @@
             volume: -5
       - behavior: [ Anchoring ]
         sprite:
-          sprite: Objects/Tools/drill.rsi
+          sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
           state: drill_bolt
         useSound: !type:SoundPathSpecifier
           path: /Audio/Items/drill_use.ogg
@@ -333,12 +333,12 @@
   - type: LimitedCharges
     maxCharges: 30
   - type: Sprite
-    sprite: Objects/Tools/rcd.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
     size: Normal
   - type: Clothing
-    sprite: Objects/Tools/rcd.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     quickEquip: false
     slots:
     - Belt
@@ -394,10 +394,10 @@
   components:
   - type: RCDAmmo
   - type: Sprite
-    sprite: Objects/Tools/rcd.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: ammo
   - type: Item
-    sprite: Objects/Tools/rcd.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     heldPrefix: ammo
   - type: PhysicalComposition
     materialComposition:
@@ -479,7 +479,7 @@
   description: A large tool for digging and moving dirt.
   components:
   - type: Sprite
-    sprite: Objects/Tools/shovel.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: 45
@@ -490,7 +490,7 @@
       collection: MetalThud
   - type: Item
     size: Normal
-    sprite: Objects/Tools/shovel.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: PhysicalComposition
     materialComposition:
       Steel: 100
@@ -506,14 +506,14 @@
   description: A tool used to shape and flatten dough.
   components:
   - type: Sprite
-    sprite: Objects/Tools/rolling_pin.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Tools/rolling_pin.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     size: Small
     storedRotation: -45
   - type: Clothing
-    sprite: Objects/Tools/rolling_pin.rsi
+    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     quickEquip: false
     slots:
     - Belt

@@ -5,7 +5,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Objects/Decoration/present.rsi
+    sprite: _Lime/Imported/Goob/Objects/Decoration/present.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: present
 
@@ -452,7 +452,7 @@
   description: Carefully folded, taped, and tied with a bow. Then ceremoniously ripped apart and tossed on the floor.
   components:
   - type: Sprite
-    sprite: Objects/Decoration/present.rsi
+    sprite: _Lime/Imported/Goob/Objects/Decoration/present.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
       - state: unwrapped
   - type: Tag

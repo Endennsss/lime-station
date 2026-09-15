@@ -5,9 +5,9 @@
   description: A face-covering mask that can be connected to an air supply.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gas.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gas.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IngestionBlocker
   - type: IdentityBlocker
@@ -29,9 +29,9 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: Clothing/Mask/gassecurity.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gassecurity.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gassecurity.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gassecurity.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -47,9 +47,9 @@
   description: A close-fitting tactical mask that can be connected to an air supply.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gassyndicate.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gassyndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gassyndicate.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gassyndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: FlashImmunity
   - type: EyeProtection
   - type: Armor
@@ -67,9 +67,9 @@
   description: Improved gas mask utilized by atmospheric technicians. It's flameproof!
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gasatmos.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gasatmos.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gasatmos.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gasatmos.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -82,9 +82,9 @@
   description: Nanotrasen cut corners and repainted a spare atmospheric gas mask, but don't tell anyone.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gascaptain.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gascaptain.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gascaptain.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gascaptain.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IngestionBlocker
 
@@ -95,9 +95,9 @@
   description: Oooh, gold and green. Fancy! This should help as you sit in your office.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gascentcom.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gascentcom.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gascentcom.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gascentcom.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IngestionBlocker
 
@@ -108,9 +108,9 @@
   description: A military-grade gas mask that can be connected to an air supply.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/gasexplorer.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gasexplorer.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/gasexplorer.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/gasexplorer.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -128,9 +128,9 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: Clothing/Mask/medical.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/medical.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IngestionBlocker
   - type: Tag
@@ -151,9 +151,9 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: Clothing/Mask/medicalsecurity.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/medicalsecurity.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/medicalsecurity.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/medicalsecurity.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -171,9 +171,9 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: Clothing/Mask/breath.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/breath.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/breath.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/breath.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IngestionBlocker
   - type: Tag
@@ -196,9 +196,9 @@
   components:
   - type: Appearance
   - type: Sprite
-    sprite: Clothing/Mask/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IdentityBlocker
   - type: Tag
@@ -220,7 +220,7 @@
     foldedEquippedPrefix: opened
     foldedHeldPrefix: opened
   - type: Sprite
-    sprite: Clothing/Mask/clown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     layers:
     - state: icon
       map: [ "unfoldedLayer" ]
@@ -242,9 +242,9 @@
   name: banana clown wig and mask
   components:
   - type: Sprite
-    sprite: Clothing/Mask/clown_banana.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown_banana.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/clown_banana.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown_banana.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Construction
     graph: BananaClownMask
     node: mask
@@ -264,9 +264,9 @@
   description: A debatably oxymoronic but protective mask and wig.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/clown_security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown_security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/clown_security.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/clown_security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -326,9 +326,9 @@
   description: A sterile mask designed to help prevent the spread of diseases.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/sterile.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/sterile.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/sterile.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/sterile.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: IngestionBlocker
   - type: Item
     size: Tiny
@@ -349,9 +349,9 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: Clothing/Mask/muzzle.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/muzzle.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/muzzle.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/muzzle.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     equipDelay: 3
     unequipDelay: 3
   - type: IngestionBlocker
@@ -371,9 +371,9 @@
   description: A bad omen.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/plaguedoctormask.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/plaguedoctormask.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/plaguedoctormask.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/plaguedoctormask.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: BreathMask
   - type: IngestionBlocker
   - type: IdentityBlocker
@@ -404,9 +404,9 @@
   description: A elite issue Security gas mask.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/swat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/swat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/swat.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/swat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -432,9 +432,9 @@
   description: Slightly outdated, but reliable military-style gas mask.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/merc.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/merc.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/merc.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/merc.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -450,9 +450,9 @@
   description: The gas mask of the elite squad of the ERT.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/ert.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/ert.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/ert.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/ert.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -478,9 +478,9 @@
   description: A unique gas mask for the NT's most elite squad.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/squadron.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/squadron.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/squadron.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/squadron.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: HideLayerClothing
     slots:
     - Hair
@@ -617,9 +617,9 @@
   description: Stylish neck gaiter for your neck, can protect from the cosmic wind?...
   components:
   - type: Sprite
-    sprite: Clothing/Mask/neckgaiter.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/neckgaiter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/neckgaiter.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/neckgaiter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: IdentityBlocker
     coverage: MOUTH
   - type: Tag
@@ -632,9 +632,9 @@
   name: red neck gaiter
   components:
   - type: Sprite
-    sprite: Clothing/Mask/neckgaiterred.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/neckgaiterred.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/neckgaiterred.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/neckgaiterred.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskClownBase
@@ -718,9 +718,9 @@
   description: A close-fitting nano-enhanced mask that acts both as an air filter and a post-modern fashion statement.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/ninja.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/ninja.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Mask/ninja.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/ninja.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Item
     storedRotation: -90
   - type: EyeProtection
@@ -734,10 +734,10 @@
   description: A gas mask with built in welding goggles and face shield. Looks like a skull, clearly designed by a nerd.
   components:
   - type: Sprite
-    sprite: Clothing/Mask/welding-gas.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/welding-gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   - type: Clothing
-    sprite: Clothing/Mask/welding-gas.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Mask/welding-gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: StaticPrice
     price: 100
   - type: Tag

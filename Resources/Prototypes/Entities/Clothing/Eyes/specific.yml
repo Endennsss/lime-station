@@ -9,9 +9,9 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: Clothing/Eyes/Glasses/sunglasses.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: Clothing
-      sprite: Clothing/Eyes/Glasses/sunglasses.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: ChameleonClothing
       slot: [eyes]
       default: ClothingEyesGlassesSunglasses

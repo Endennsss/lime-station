@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: SecurityRiot
   icon:
-    sprite: Clothing/OuterClothing/Armor/riot.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Armor/riot.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: icon
   product: CrateSecurityRiot
   cost: 7500

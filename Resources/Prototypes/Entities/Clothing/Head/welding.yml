@@ -34,9 +34,9 @@
   description: A head-mounted face cover designed to protect the wearer completely from space-arc eye.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Welding/welding.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/welding.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Welding/welding.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/welding.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - HamsterWearable
@@ -50,9 +50,9 @@
   description: A painted welding helmet, this one has flames on it.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Welding/flame_welding_mask.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/flame_welding_mask.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Welding/flame_welding_mask.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/flame_welding_mask.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: WeldingMaskBase
@@ -61,9 +61,9 @@
   description: A painted welding helmet, this one has blue flames on it.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Welding/blue_flame_welding_mask.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/blue_flame_welding_mask.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Welding/blue_flame_welding_mask.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/blue_flame_welding_mask.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: WeldingMaskBase
@@ -72,6 +72,6 @@
   description: A welding helmet, painted in crimson.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Welding/paintedwelding.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/paintedwelding.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Welding/paintedwelding.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Head/Welding/paintedwelding.rsi # Lime-Edit - текстуры Goob с сохранением лицензии

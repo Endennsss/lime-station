@@ -59,9 +59,9 @@
   description: Green-tinted goggles using a proprietary polymer that provides protection from eye damage of all types.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/meson.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/meson.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/meson.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/meson.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: EyeProtection
   - type: IdentityBlocker
     coverage: EYES
@@ -138,9 +138,9 @@
   description: A pair of black sunglasses. Doesn't block light well, more of an accessory than something useful.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/sunglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/sunglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Tag
     tags:
     - HamsterWearable
@@ -172,9 +172,9 @@
   description: Upgraded sunglasses that provide flash immunity and a security HUD.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/secglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/secglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/secglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/secglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5
@@ -200,9 +200,9 @@
   description: Upgraded sunglasses that provide flash immunity and show ID card status.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/commandglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/commandglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5
@@ -258,9 +258,9 @@
   description: Goggles that can scan the chemical composition of a solution.
   components:
     - type: Sprite
-      sprite: Clothing/Eyes/Glasses/science.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: Clothing
-      sprite: Clothing/Eyes/Glasses/science.rsi
+      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     - type: SolutionScanner
     - type: IdentityBlocker
       coverage: EYES
@@ -276,9 +276,9 @@
   description: An advanced visor protecting a ninja's eyes from flashing lights.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/ninjavisor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/ninjavisor.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: FlashImmunity
 
 - type: entity
@@ -290,7 +290,7 @@
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/noir.rsi
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/sunglasses.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: IdentityBlocker
     coverage: EYES
   - type: FlashImmunity

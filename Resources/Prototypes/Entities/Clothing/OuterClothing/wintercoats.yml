@@ -266,9 +266,9 @@
   name: clown winter coat
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatclown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coatclown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatclown.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coatclown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
@@ -355,9 +355,9 @@
   description: A sturdy, utilitarian winter coat designed to protect a head of security from any brig-bound threats and hypothermic events.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coathosarmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coathosarmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHatHoodWinterHOS
   - type: ContainerContainer
@@ -719,9 +719,9 @@
   description: A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHatHoodWinterWarden
   - type: ContainerContainer
@@ -787,9 +787,9 @@
   description: "The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool."
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHatHoodWinterSyndie
 ##############################################################
@@ -825,9 +825,9 @@
   description: An oversized, plasticine space tuxedo that'll have people asking "do you know me?"
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/WinterCoats/coatnomi.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coatnomi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/WinterCoats/coatnomi.rsi
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/WinterCoats/coatnomi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
 
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSlicingRefinable]

@@ -21,41 +21,43 @@
           "/Audio/Weapons/smash.ogg"
   - type: InteractionOutline
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/airlock-base.rsi
+    sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    snapCardinals: true # Lime-Edit - ориентация исходного набора
     layers:
     - state: closed
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
-      shader: unshaded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseUnlit"]
-      visible: true
+      shader: unshaded
+      visible: false
     - state: welded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
-      shader: unshaded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseBolted"]
+      shader: unshaded
     - state: emergency_unlit
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
       shader: unshaded
     - state: panel_open
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
     - state: electrified_ai
       sprite: Interface/Misc/ai_hud.rsi
+      map: ["enum.ElectrifiedLayers.HUD"]
       shader: unshaded
       visible: false
-      map: ["enum.ElectrifiedLayers.HUD"]
     - state: electrified
       sprite: Effects/electricity.rsi
+      map: ["enum.ElectrifiedLayers.Sparks"]
       shader: unshaded
       visible: false
-      map: ["enum.ElectrifiedLayers.Sparks"]
     - state: sparks
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseEmagging"]
       shader: unshaded
       visible: false
@@ -97,7 +99,7 @@
     fuel: 5
     time: 3
   - type: Airlock
-    openUnlitVisible: true
+    openUnlitVisible: false # Lime-Edit - старые RSI не содержат open_unlit
   - type: NavMapDoor
   - type: DoorBolt
   - type: Appearance
@@ -238,7 +240,48 @@
   - type: Occluder
     enabled: false
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/airlock-base.rsi
+    sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    snapCardinals: true # Lime-Edit - ориентация исходного набора
+    layers:
+    - state: closed
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.DoorVisualLayers.Base"]
+    - state: closed_unlit
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.DoorVisualLayers.BaseUnlit"]
+      shader: unshaded
+      visible: false
+    - state: welded
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.WeldableLayers.BaseWelded"]
+    - state: bolted_unlit
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.DoorVisualLayers.BaseBolted"]
+      shader: unshaded
+    - state: emergency_unlit
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
+      shader: unshaded
+    - state: panel_open
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+    - state: electrified_ai
+      sprite: Interface/Misc/ai_hud.rsi
+      map: ["enum.ElectrifiedLayers.HUD"]
+      shader: unshaded
+      visible: false
+    - state: electrified
+      sprite: Effects/electricity.rsi
+      map: ["enum.ElectrifiedLayers.Sparks"]
+      shader: unshaded
+      visible: false
+    - state: sparks
+      sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Glass/basic.rsi
+      map: ["enum.DoorVisualLayers.BaseEmagging"]
+      shader: unshaded
+      visible: false
+  - type: Airlock
+    openUnlitVisible: false # Lime-Edit - освещение соответствует выбранным RSI
   - type: Fixtures
     fixtures:
       fix1:

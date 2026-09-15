@@ -4,7 +4,7 @@
   parent: BaseMediumStack
   id: Diamond
   name: stack-diamond
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: diamond }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: diamond } # Lime-Edit - текстуры Goob с сохранением лицензии
   spawn: MaterialDiamond1
 
 - type: stack

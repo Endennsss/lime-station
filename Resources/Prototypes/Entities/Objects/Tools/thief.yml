@@ -72,7 +72,7 @@
   parent: ToolboxThief
   components:
   - type: Sprite
-    sprite: Clothing/Back/Satchels/smuggler.rsi
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/smuggler.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
     state: folded
   - type: Item
     storedRotation: 90

@@ -2,26 +2,26 @@
   parent: BaseMediumStack
   id: Cloth
   name: stack-cloth
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cloth }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: cloth } # Lime-Edit - текстуры Goob с сохранением лицензии
   spawn: MaterialCloth1
 
 - type: stack
   parent: BaseMediumStack
   id: Durathread
   name: stack-durathread
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: durathread }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: durathread } # Lime-Edit - текстуры Goob с сохранением лицензии
   spawn: MaterialDurathread1
 
 - type: stack
   parent: BaseMediumStack
   id: Cotton
   name: stack-cotton
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cotton }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: cotton } # Lime-Edit - текстуры Goob с сохранением лицензии
   spawn: MaterialCotton1
 
 - type: stack
   parent: BaseMediumStack
   id: Pyrotton
   name: stack-pyrotton
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: pyrotton }
+  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Materials/materials.rsi, state: pyrotton } # Lime-Edit - текстуры Goob с сохранением лицензии
   spawn: MaterialPyrotton1
