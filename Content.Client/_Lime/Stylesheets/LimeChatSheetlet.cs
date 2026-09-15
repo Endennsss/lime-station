@@ -15,6 +15,24 @@ public sealed class LimeChatSheetlet : Sheetlet<PalettedStylesheet>
     public const string ChatText = "LimeChatText";
     public const string SpeechText = "LimeSpeechText";
 
+    public static string FormatChatMarkup(string message)
+    {
+        // Стандартный italic-тег выбирает старый шрифт независимо от стиля чата.
+        return message
+            .Replace("[italic]", "[font=\"NotoSansDisplayItalic\"]", StringComparison.Ordinal)
+            .Replace("[/italic]", "[/font]", StringComparison.Ordinal);
+    }
+
+    public static string FormatSpeechMarkup(string message)
+    {
+        // Внешний курсив эмоций задаётся стилем пузыря, а не старым шрифтом тега.
+        const string start = "[italic]";
+        const string end = "[/italic]";
+        return message.StartsWith(start, StringComparison.Ordinal) && message.EndsWith(end, StringComparison.Ordinal)
+            ? message[start.Length..^end.Length]
+            : message;
+    }
+
     public override StyleRule[] GetRules(PalettedStylesheet sheet, object config)
     {
         var fonts = new NotoFontFamilyStack(ResCache, "Display");

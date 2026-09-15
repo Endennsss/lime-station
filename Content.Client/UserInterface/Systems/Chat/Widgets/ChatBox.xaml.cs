@@ -116,7 +116,7 @@ public partial class ChatBox : UIWidget
     {
         var formatted = new FormattedMessage(3);
         formatted.PushColor(color);
-        formatted.AddMarkupOrThrow(message);
+        formatted.AddMarkupOrThrow(Content.Client._Lime.Stylesheets.LimeChatSheetlet.FormatChatMarkup(message)); // Lime-Edit - курсив эмоций использует шрифт чата.
         formatted.Pop();
         Contents.AddMessage(formatted, tagsAllowed: null);
     }

@@ -191,7 +191,7 @@ namespace Content.Client.Chat.UI
             var msg = new FormattedMessage();
             if (fontColor != null)
                 msg.PushColor(fontColor.Value);
-            msg.AddMarkupOrThrow(message);
+            msg.AddMarkupOrThrow(Content.Client._Lime.Stylesheets.LimeChatSheetlet.FormatSpeechMarkup(message)); // Lime-Edit - внешнее начертание задаётся стилем пузыря.
             return msg;
         }
 
