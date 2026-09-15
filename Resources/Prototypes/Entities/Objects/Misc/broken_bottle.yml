@@ -17,7 +17,7 @@
     soundHit:
       path: /Audio/Weapons/bladeslice.ogg
   - type: Sprite
-    sprite: Objects/Misc/broken_bottle.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/broken_bottle.rsi # Lime-Edit - графика Monolith
     state: icon
   - type: DamageOtherOnHit
     damage:

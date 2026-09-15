@@ -67,9 +67,9 @@
   id: LowPressure
   category: Pressure
   icons:
-  - sprite: /Textures/Interface/Alerts/pressure.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pressure.rsi # Lime-Edit - графика Monolith
     state: lowpressure1
-  - sprite: /Textures/Interface/Alerts/pressure.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pressure.rsi # Lime-Edit - графика Monolith
     state: lowpressure2
   maxSeverity: 2
   name: alerts-low-pressure-name
@@ -79,9 +79,9 @@
   id: HighPressure
   category: Pressure
   icons:
-  - sprite: /Textures/Interface/Alerts/pressure.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pressure.rsi # Lime-Edit - графика Monolith
     state: highpressure1
-  - sprite: /Textures/Interface/Alerts/pressure.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pressure.rsi # Lime-Edit - графика Monolith
     state: highpressure2
   maxSeverity: 2
   name: alerts-high-pressure-name
@@ -99,11 +99,11 @@
   id: Cold
   category: Temperature
   icons:
-  - sprite: /Textures/Interface/Alerts/temperature.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi # Lime-Edit - графика Monolith
     state: cold1
-  - sprite: /Textures/Interface/Alerts/temperature.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi # Lime-Edit - графика Monolith
     state: cold2
-  - sprite: /Textures/Interface/Alerts/temperature.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi # Lime-Edit - графика Monolith
     state: cold3
   maxSeverity: 3
   name: alerts-too-cold-name
@@ -113,11 +113,11 @@
   id: Hot
   category: Temperature
   icons:
-  - sprite: /Textures/Interface/Alerts/temperature.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi # Lime-Edit - графика Monolith
     state: hot1
-  - sprite: /Textures/Interface/Alerts/temperature.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi # Lime-Edit - графика Monolith
     state: hot2
-  - sprite: /Textures/Interface/Alerts/temperature.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi # Lime-Edit - графика Monolith
     state: hot3
   maxSeverity: 3
   name: alerts-too-hot-name
@@ -175,7 +175,7 @@
   id: HumanCrit
   category: Health
   icons:
-  - sprite: /Textures/Interface/Alerts/human_critical.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_critical.rsi # Lime-Edit - графика Monolith
     state: critical
   name: alerts-crit-name
   description: alerts-crit-desc
@@ -184,7 +184,7 @@
   id: HumanDead
   category: Health
   icons:
-  - sprite: /Textures/Interface/Alerts/human_dead.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_dead.rsi # Lime-Edit - графика Monolith
     state: dead
   name: alerts-dead-name
   description: alerts-dead-desc
@@ -193,15 +193,15 @@
   id: HumanHealth
   category: Health
   icons:
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health0
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health1
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health2
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health3
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health4
   name: alerts-health-name
   description: alerts-health-desc
@@ -297,11 +297,11 @@
   category: Internals
   clickEvent: !type:ToggleInternalsAlertEvent
   icons:
-  - sprite: /Textures/Interface/Alerts/internals.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/internals.rsi # Lime-Edit - графика Monolith
     state: internal0
-  - sprite: /Textures/Interface/Alerts/internals.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/internals.rsi # Lime-Edit - графика Monolith
     state: internal1
-  - sprite: /Textures/Interface/Alerts/internals.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/internals.rsi # Lime-Edit - графика Monolith
     state: internal2
   name: alerts-internals-name
   description: alerts-internals-desc
@@ -322,7 +322,7 @@
   id: Peckish
   category: Hunger
   icons:
-  - sprite: /Textures/Interface/Alerts/hunger.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/hunger.rsi # Lime-Edit - графика Monolith
     state: peckish
   name: alerts-hunger-name
   description: alerts-hunger-desc
@@ -331,19 +331,19 @@
   id: Stamina
   category: Stamina
   icons:
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina0
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina1
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina2
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina3
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina4
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina5
-  - sprite: /Textures/Interface/Alerts/stamina.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi # Lime-Edit - графика Monolith
     state: stamina6
   name: alerts-stamina-name
   description: alerts-stamina-desc
@@ -354,7 +354,7 @@
   id: Starving
   category: Hunger
   icons:
-  - sprite: /Textures/Interface/Alerts/hunger.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/hunger.rsi # Lime-Edit - графика Monolith
     state: starving
   name: alerts-starving-name
   description: alerts-starving-desc
@@ -363,7 +363,7 @@
   id: Thirsty
   category: Thirst
   icons:
-  - sprite: /Textures/Interface/Alerts/thirst.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/thirst.rsi # Lime-Edit - графика Monolith
     state: thirsty
   name: alerts-thirsty-name
   description: alerts-thirsty-desc
@@ -372,7 +372,7 @@
   id: Parched
   category: Thirst
   icons:
-  - sprite: /Textures/Interface/Alerts/thirst.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/thirst.rsi # Lime-Edit - графика Monolith
     state: parched
   name: alerts-parched-name
   description: alerts-parched-desc
@@ -401,27 +401,27 @@
 - type: alert
   id: Bleed
   icons:
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed0
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed1
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed2
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed3
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed4
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed5
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed6
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed7
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed8
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed9
-  - sprite: /Textures/Interface/Alerts/bleed.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi # Lime-Edit - графика Monolith
     state: bleed10
   name: alerts-bleed-name
   description: alerts-bleed-desc
@@ -463,7 +463,7 @@
 - type: alert
   id: Debug1
   icons:
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health0
   name: Debug1
   description: Debug
@@ -471,7 +471,7 @@
 - type: alert
   id: Debug2
   icons:
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health1
   name: Debug2
   description: Debug
@@ -479,7 +479,7 @@
 - type: alert
   id: Debug3
   icons:
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health2
   name: Debug3
   description: Debug
@@ -487,7 +487,7 @@
 - type: alert
   id: Debug4
   icons:
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health3
   name: Debug4
   description: Debug
@@ -495,7 +495,7 @@
 - type: alert
   id: Debug5
   icons:
-  - sprite: /Textures/Interface/Alerts/human_alive.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi # Lime-Edit - графика Monolith
     state: health4
   name: Debug5
   description: Debug
@@ -503,7 +503,7 @@
 - type: alert
   id: Debug6
   icons:
-  - sprite: /Textures/Interface/Alerts/human_critical.rsi
+  - sprite: /Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_critical.rsi # Lime-Edit - графика Monolith
     state: critical
   name: Debug6
   description: Debug

@@ -6,7 +6,7 @@
   suffix: Wall broken
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/station-map.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/station_map.rsi # Lime-Edit - графика Monolith
     offset: 0, -0.25
     drawdepth: WallMountedItems
     layers:
@@ -41,7 +41,7 @@
   - type: Appearance
   - type: StationMap
   - type: Sprite
-    sprite: Structures/Wallmounts/station-map.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/station_map.rsi # Lime-Edit - графика Monolith
     offset: 0, -0.25
     layers:
     - state: base
@@ -49,7 +49,7 @@
       shader: unshaded
       map: [ "enum.PowerDeviceVisualLayers.Powered" ]
   - type: Icon
-    sprite: Structures/Wallmounts/station-map.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/station_map.rsi # Lime-Edit - графика Monolith
     state: base
   - type: GenericVisualizer
     visuals:
@@ -114,7 +114,7 @@
   - type: WallMount
     arc: 360
   - type: Sprite
-    sprite: Structures/Wallmounts/station-map.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/station_map.rsi # Lime-Edit - графика Monolith
     offset: 0, -0.25
     layers:
     - state: frame0

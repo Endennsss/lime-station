@@ -2038,7 +2038,7 @@
     energy: 2.0 # reduced energy since the color is pure white
     color: "#FFFFFF"
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/pride.rsi
+    sprite: _Lime/Imported/Monolith/DV/Structures/Machines/VendingMachines/pride.rsi # Lime-Edit - графика Monolith
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]

@@ -21,10 +21,10 @@
   description: A surgical tool used to cauterize open wounds.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Medical/Surgery/cautery.rsi
+    sprite: _Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi # Lime-Edit - графика Monolith
     state: cautery
   - type: Item
-    sprite: Objects/Specific/Medical/Surgery/cautery.rsi
+    sprite: _Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi # Lime-Edit - графика Monolith
     storedRotation: 90
   - type: MeleeWeapon
     damage:

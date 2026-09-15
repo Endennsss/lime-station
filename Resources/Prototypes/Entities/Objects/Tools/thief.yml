@@ -46,7 +46,7 @@
   parent: [ BaseItem, BaseMinorContraband ]
   components:
   - type: Sprite
-    sprite: Objects/Tools/Toolboxes/toolbox_thief.rsi
+    sprite: _Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_thief.rsi # Lime-Edit - графика Monolith
     state: icon
   - type: ThiefUndeterminedBackpack
     possibleSets:

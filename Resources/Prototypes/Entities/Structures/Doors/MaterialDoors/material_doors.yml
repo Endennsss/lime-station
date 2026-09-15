@@ -72,7 +72,7 @@
   name: plasma door
   components:
   - type: Sprite
-    sprite: Structures/Doors/MaterialDoors/plasma-door.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/MineralDoors/plasma_door.rsi # Lime-Edit - графика Monolith
   - type: Construction
     graph: DoorGraph
     node: plasmaDoor
@@ -99,7 +99,7 @@
   name: gold door
   components:
   - type: Sprite
-    sprite: Structures/Doors/MaterialDoors/gold-door.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/MineralDoors/gold_door.rsi # Lime-Edit - графика Monolith
   - type: Construction
     graph: DoorGraph
     node: goldDoor
@@ -120,7 +120,7 @@
   name: silver door
   components:
   - type: Sprite
-    sprite: Structures/Doors/MaterialDoors/silver-door.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/MineralDoors/silver_door.rsi # Lime-Edit - графика Monolith
   - type: Construction
     graph: DoorGraph
     node: silverDoor
@@ -143,7 +143,7 @@
   name: wooden door
   components:
   - type: Sprite
-    sprite: Structures/Doors/MaterialDoors/wood-door.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/MineralDoors/wood_door.rsi # Lime-Edit - графика Monolith
   - type: Door
     openSound:
       path: /Audio/Effects/door_open.ogg
@@ -173,7 +173,7 @@
   name: paper door
   components:
   - type: Sprite
-    sprite: Structures/Doors/MaterialDoors/paper-door.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/MineralDoors/paper_door.rsi # Lime-Edit - графика Monolith
   - type: Door
     openSound:
       path: /Audio/Effects/paperdoor_openclose.ogg

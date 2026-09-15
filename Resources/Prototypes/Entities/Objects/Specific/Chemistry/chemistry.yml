@@ -7,14 +7,14 @@
     tags:
     - GlassBeaker
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/beaker.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi # Lime-Edit - графика Monolith
     layers:
       - state: beaker
       - state: beaker1
         map: ["enum.SolutionContainerLayers.Fill"]
         visible: false
   - type: Item
-    sprite: Objects/Specific/Chemistry/beaker.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi # Lime-Edit - графика Monolith
   - type: MeleeWeapon
     soundNoDamage:
       path: "/Audio/Effects/Fluids/splat.ogg"
@@ -104,14 +104,14 @@
     tags:
     - GlassBeaker
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/beaker.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi # Lime-Edit - графика Monolith
     layers:
       - state: beaker
       - state: beaker1
         map: ["enum.SolutionContainerLayers.Fill"]
         visible: false
   - type: Item
-    sprite: Objects/Specific/Chemistry/beaker.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi # Lime-Edit - графика Monolith
   - type: MeleeWeapon
     soundNoDamage:
       path: "/Audio/Effects/Fluids/splat.ogg"
@@ -277,7 +277,7 @@
   - type: Spillable
     solution: beaker
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/beaker_large.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker_large.rsi # Lime-Edit - графика Monolith
     layers:
       - state: beakerlarge
       - state: beakerlarge1
@@ -285,7 +285,7 @@
         visible: false
   - type: Item
     size: Normal
-    sprite: Objects/Specific/Chemistry/beaker_large.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker_large.rsi # Lime-Edit - графика Monolith
   - type: Appearance
   - type: SolutionContainerVisuals
     maxFillLevels: 6
@@ -322,7 +322,7 @@
   - type: Spillable
     solution: beaker
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/beaker_bluespace.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker_bluespace.rsi # Lime-Edit - графика Monolith
     layers:
       - state: beakerbluespace
   - type: SolutionContainerVisuals
@@ -337,7 +337,7 @@
   id: Dropper
   components:
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/dropper.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/dropper.rsi # Lime-Edit - графика Monolith
     layers:
       - state: dropper
       - state: dropper1
@@ -360,7 +360,7 @@
   - type: Spillable
     solution: injector
   - type: Item
-    sprite: Objects/Specific/Chemistry/dropper.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/dropper.rsi # Lime-Edit - графика Monolith
     size: Tiny
   - type: Appearance
   - type: SolutionContainerVisuals
@@ -383,14 +383,14 @@
   description: State-of-the-art hydraulic dropper built for cyborgs.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/dropper.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/dropper.rsi # Lime-Edit - графика Monolith
     layers:
       - state: borgdropper
       - state: dropper1
         map: ["enum.SolutionContainerLayers.Fill"]
         visible: false
   - type: Item
-    sprite: Objects/Specific/Chemistry/dropper.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/dropper.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   name: syringe
@@ -569,11 +569,11 @@
   description: It's not a suppository.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/pills.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/pills.rsi # Lime-Edit - графика Monolith
     state: pill
   - type: Item
     size: Tiny
-    sprite: Objects/Specific/Chemistry/pills.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/pills.rsi # Lime-Edit - графика Monolith
   - type: Pill
   - type: Edible
     delay: 0.6
@@ -626,9 +626,9 @@
   components:
   - type: Item
     size: Tiny
-    sprite: _Lime/Imported/Goob/Objects/Specific/Chemistry/pills_canister.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/pills_canister.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Specific/Chemistry/pills_canister.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/pills_canister.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: pill_canister
   - type: Tag
     tags:

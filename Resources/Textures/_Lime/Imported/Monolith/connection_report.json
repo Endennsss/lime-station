@@ -1,0 +1,3630 @@
+{
+  "sourceCommit": "ce8ff03774b9ae68530483298899f85068f0eb10",
+  "activeRsi": 658,
+  "prototypeFileCount": 318,
+  "byCategory": {
+    "clothing": 359,
+    "doors": 59,
+    "lights": 3,
+    "objects": 120,
+    "other": 31,
+    "power": 6,
+    "structures": 37,
+    "walls": 23,
+    "windows": 20
+  },
+  "policy": "Existing objects only. Complete RSI compatibility or explicitly adapted airlock layers. No foreign mechanics imported.",
+  "references": [
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/atmospherics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/atmospherics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/backpack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/backpack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/brigmedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/brigmedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/cargo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/cargo.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/chemistry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/chemistry.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/cluwne.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/cluwne.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/electropack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/electropack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/engineering.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/engineering.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ertchaplain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertchaplain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ertclown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertclown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/erteng.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/erteng.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ertjanitor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertjanitor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ertleader.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertleader.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ertmed.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertmed.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ertsec.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertsec.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/genetics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/genetics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/hydroponics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/hydroponics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/ian.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ian.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/medical.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/medical.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/merc.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/merc.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/mime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/mime.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/salvage.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/salvage.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/science.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/science.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/syndicate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Backpacks/virology.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/virology.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/atmospherics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/atmospherics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/brigmedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/brigmedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/cargo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/cargo.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/chemistry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/chemistry.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/duffel.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/duffel.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/engineering.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/engineering.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/genetics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/genetics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/hydroponics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/hydroponics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/medical.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/medical.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/mime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/mime.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/salvage.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/salvage.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/science.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/science.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/syndicate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Duffels/virology.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/virology.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/atmospherics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/atmospherics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/brigmedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/brigmedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/cargo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/cargo.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/chemistry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/chemistry.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/engineering.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/engineering.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/genetics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/genetics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/hydroponics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/hydroponics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/leather.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/leather.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/medical.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/medical.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/mime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/mime.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/salvage.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/salvage.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/satchel.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/satchel.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/science.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/science.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Back/Satchels/virology.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/virology.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/emt.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/emt.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/holster.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/holster.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/mercwebbing.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/mercwebbing.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/militarywebbing.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/militarywebbing.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/militarywebbingmed.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/militarywebbingmed.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/securitywebbing.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/securitywebbing.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Belt/syndieholster.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Belt/syndieholster.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/base.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/cargo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/cargo.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/centcom.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/centcom.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/command.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/command.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/engineering.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/engineering.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/freelance.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/freelance.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/medical.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/medical.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/medicalscience.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/medicalscience.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/mining.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/mining.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/robotics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/robotics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/science.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/science.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/service.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/service.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Ears/Headsets/syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Ears/Headsets/syndicate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Glasses/jensen.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Glasses/jensen.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Glasses/ninjavisor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Glasses/ninjavisor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Glasses/outlawglasses.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Glasses/outlawglasses.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/beerpatch.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/beerpatch.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/diag.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/diag.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/diagpatch.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/diagpatch.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/medonion.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/medonion.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/medonionbeer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/medonionbeer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/medsec.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/medsec.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/medsecengi.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/medsecengi.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Eyes/Hud/omni.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Eyes/Hud/omni.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/Color/black.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/Color/black.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/Color/color.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/Color/color.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/Color/yellow.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/Color/yellow.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/combat.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/combat.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/fingerless.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/fingerless.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/fingerlessinsuls.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/fingerlessinsuls.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/forensic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/forensic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/hop.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/hop.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/janitor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/janitor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/latex.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/latex.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/leather.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/leather.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/mercbattle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/mercbattle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/mercfingerless.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/mercfingerless.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/nitrile.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/nitrile.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/powerglove.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/powerglove.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/robohands.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/robohands.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Hands/Gloves/spaceninja.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Hands/Gloves/spaceninja.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hardsuits/paramedhelm.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/paramedhelm.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hats/beret_security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/beret_security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hats/brownfedora.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/brownfedora.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hats/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hats/hopcap.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/hopcap.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hats/hoshat.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/hoshat.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hats/ushanka.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/ushanka.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Helmets/bone_helmet.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/bone_helmet.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Helmets/cult.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/cult.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Helmets/swat_syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/swat_syndicate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Helmets/swat.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/swat.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Helmets/syndie-raid.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/syndie-raid.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/Bio/janitor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/janitor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/Bio/scientist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/scientist.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/chaplain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/chaplain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/cult.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/cult.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/goliathcloak.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/goliathcloak.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/nun.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/nun.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/rad.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/rad.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Hoods/voidcloak.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/voidcloak.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Misc/chickenhead.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/chickenhead.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Misc/performer-wig.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/performer-wig.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Misc/skubhead.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/skubhead.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Soft/cargosoft.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Soft/cargosoft.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Head/Soft/secsoft.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Soft/secsoft.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Cloaks/cap.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Cloaks/capcloakformal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/capcloakformal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Cloaks/hop.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/hop.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Cloaks/hos.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/hos.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/capmantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/capmantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/cemantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/cemantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/cmomantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/cmomantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/hopmantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/hopmantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/hosmantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/hosmantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/mantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/mantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/qmmantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/qmmantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/mantles/rdmantle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/rdmantle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/black.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/black.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/brown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/brown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/centcom.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/centcom.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/lightblue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/lightblue.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/orange.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/orange.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/purple.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/purple.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/syndiegreen.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/syndiegreen.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Neck/Scarfs/syndiered.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Scarfs/syndiered.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Armor/armor_reflec.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/armor_reflec.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Armor/bone_armor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/bone_armor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Armor/bulletproof.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/bulletproof.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Armor/centcomm_carapace.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/centcomm_carapace.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Armor/riot.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/riot.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Armor/syndie-raid.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Armor/syndie-raid.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Coats/detective_grey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/detective_grey.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Coats/detective.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/detective.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Coats/labcoat_rd.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_rd.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Coats/labcoat_sci.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_sci.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Misc/ghostsheet.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Misc/ghostsheet.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Misc/skubbody.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Misc/skubbody.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Suits/chicken.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Suits/chicken.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/OuterClothing/Vests/detvest.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/OuterClothing/Vests/detvest.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/jackboots.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/jackboots.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/magboots-advanced.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-advanced.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/magboots-science.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-science.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/magboots-syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-syndicate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/magboots.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterboots.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterboots.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootscargo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootscargo.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootsengi.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsengi.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootsmed.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsmed.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootssci.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssci.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootssec.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssec.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootssyndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssyndicate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootsweb.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsweb.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/workboots.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Boots/workboots.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Misc/duck-slippers.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Misc/duck-slippers.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Specific/clown_banana.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Specific/clown_banana.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Specific/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Specific/clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Specific/galoshes.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Specific/galoshes.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Specific/large_clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Specific/large_clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Specific/skates.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Specific/skates.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Specific/swat.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Shoes/Specific/swat.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/atmosf.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/atmosf.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/bartender.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/bartender.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/brigmedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/brigmedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/capformaldress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/capformaldress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/cargotech.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cargotech.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/ce_turtle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/ce_turtle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/ce.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/ce.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/centcomformaldress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/centcomformaldress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/chaplain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chaplain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/chef.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chef.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/chemistry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chemistry.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/cmo_turtle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cmo_turtle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/cmo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cmo.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/curator.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/curator.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/detective_grey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/detective_grey.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/detective.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/detective.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/dresswestern.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/dresswestern.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/elegantdress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/elegantdress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/engineering.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/engineering.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/genetics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/genetics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hop.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hop.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hos_alt.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hos_alt.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hos_parade.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hos_parade.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hos.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hos.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hydro.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hydro.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/janimaid.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janimaid.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/janitor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janitor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerblack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerblack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerblue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerblue.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyergood.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyergood.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerpurple.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerpurple.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerred.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerred.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/librarian.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/librarian.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/medical.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/medical.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/mime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/mime.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/musician.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/musician.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/olddress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/olddress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/operative_s.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/operative_s.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/paramedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/paramedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/psychologist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/psychologist.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/qm.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qm.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/rnd.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/rnd.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/roboticist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/roboticist.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/scientist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/scientist.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/security_grey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/security_grey.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_engineer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_engineer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_officer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_officer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_physician.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_physician.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_researcher.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_researcher.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/skirtoflife.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/skirtoflife.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/stripeddress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/stripeddress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/tacticalmaid.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/tacticalmaid.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/tacticool_s.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/tacticool_s.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/turtledress.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/turtledress.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/virology.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/virology.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/warden.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/warden.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/web.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/web.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ancient.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ancient.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/bartender_purple.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/bartender_purple.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/brigmedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/brigmedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/capformal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/capformal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/captain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/captain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/casual.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ce_syndie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ce_syndie.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ce_turtle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ce_turtle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/centcom_agent.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/centcom_agent.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/centcom_officer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/centcom_officer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/centcom_official.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/centcom_official.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/centcomformal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/centcomformal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/chaplain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/chaplain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/chef.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/chef.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/clown_banana.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/clown_banana.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/clown.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cluwne.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cluwne.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cmo_turtle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cmo_turtle.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/cossack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cossack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/curator.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/curator.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/deathsquad.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/deathsquad.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/detective_grey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/detective_grey.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/detective.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/detective.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_chaplain.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ert_chaplain.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_engineer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ert_engineer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_janitor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ert_janitor.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_leader.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ert_leader.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_medic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ert_medic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ert_security.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ert_security.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/flannel.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/flannel.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/genetics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/genetics.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/gladiator.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/gladiator.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaired.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaired.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_alt.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos_alt.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_blue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos_blue.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_grey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos_grey.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos_parade.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos_parade.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hos.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/hosformal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hosformal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/jester.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/jester.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/jester2.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/jester2.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/journalist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/journalist.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/kimono.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/kimono.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyergood.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyergood.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/lawyerred.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerred.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/librarian.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/librarian.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/loungewear.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/loungewear.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/mercenary.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/mercenary.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/mime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/mime.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/monastic_robe_dark.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/monastic_robe_dark.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/monastic_robe_light.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/monastic_robe_light.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/musician.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/musician.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/nanotrasen.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/nanotrasen.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/ninja.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ninja.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/operative.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/operative.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/overalls.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/overalls.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/paramedic_syndie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/paramedic_syndie.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/paramedic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/paramedic.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/pirate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/pirate.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/psychologist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/psychologist.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/punpun.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/punpun.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/pyjamasyndicateblack.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/pyjamasyndicateblack.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/pyjamasyndicatepink.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/pyjamasyndicatepink.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/pyjamasyndicatered.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/pyjamasyndicatered.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/qm.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/qm.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/qmformal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/qmformal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/recruit_nt.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/recruit_nt.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/recruit_syndie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/recruit_syndie.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/repairman_nt.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/repairman_nt.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/repairman_syndie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/repairman_syndie.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/reporter.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/reporter.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/rnd.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/rnd.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/safari.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/safari.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/scientist_formal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/scientist_formal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/security_blue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/security_blue.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/security_grey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/security_grey.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/security_trooper.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/security_trooper.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_engineer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_engineer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_officer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_officer.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_physician.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_physician.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/syndieformal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/syndieformal.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/tacticool.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/tacticool.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/virology.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/virology.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/warden.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/warden.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/web.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/web.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/procedural.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Uniforms/procedural.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/bleed.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/human_alive.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/human_critical.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_critical.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/human_dead.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_dead.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/hunger.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/hunger.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/internals.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/internals.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/pressure.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pressure.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/stamina.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/temperature.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Crescent/Interface/Alerts/thirst.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/thirst.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Decals/bricktile.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Decals/bricktile.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Decals/ss14sign.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Decals/ss14sign.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_DV/Mobs/Customization/Vulpkanin/hair.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Mobs/Customization/Vulpkanin/hair.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/beaker_bluespace.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker_bluespace.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/beaker_large.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker_large.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/beaker.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/bottle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/bottle.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/dropper.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/dropper.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/pills_canister.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/pills_canister.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Specific/Chemistry/pills.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/pills.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_DV/Structures/Machines/VendingMachines/pride.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Structures/Machines/VendingMachines/pride.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Effects/atmospherics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Effects/atmospherics.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_blue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_blue.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_gold.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_gold.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_green.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_green.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_red.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_red.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_syn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_syn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_thief.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_thief.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Impstation/Objects/Tools/Toolboxes/toolbox_yellow.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Impstation/Objects/Tools/Toolboxes/toolbox_yellow.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Interface/Actions/actions_fakemindshield.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Interface/Actions/actions_fakemindshield.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Markers/cross.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Markers/cross.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Aliens/Xenos/purple_snake.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Aliens/Xenos/purple_snake.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Animals/kobold.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Animals/kobold.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Animals/monkey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Animals/monkey.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Animals/mouse.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Animals/mouse.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Animals/parrot.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Animals/parrot.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Customization/slime_parts.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Ghosts/ghost_human.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Pets/Smile/smile_displacement.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Pets/Smile/smile_displacement.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Species/Human/organs.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Species/Human/organs.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Species/Reptilian/parts.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Species/Reptilian/parts.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Species/Vox/displacement.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Species/Vox/displacement.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Species/Vox/organs.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Species/Vox/organs.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Species/Vox/parts.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mobs/Species/Vox/parts.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Vests/elitevest.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/OuterClothing/Vests/elitevest.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Misc/fleshkudzu.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/Misc/fleshkudzu.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Ammunition/Casings/capgun_casing.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Ammunition/Casings/capgun_casing.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/energy_shotgun.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Battery/energy_shotgun.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/pulse_carbine.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Battery/pulse_carbine.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/pulse_rifle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Battery/pulse_rifle.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/holding.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/holding.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Duffels/holding.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Duffels/holding.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Satchels/holding.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Satchels/holding.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Misc/pwig.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Shoes/Boots/moonboots.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Shoes/Boots/moonboots.rsi",
+      "category": "clothing"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/Aliens/Carps/holo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/Carps/holo.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/Aliens/Carps/magic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/Carps/magic.rsi",
+      "category": "other"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Misc/fire_extinguisher.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Misc/fire_extinguisher.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Misc/stock_parts.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Misc/stock_parts.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Medical/firstaidkits.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Medical/healing_toolbox.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Specific/Medical/healing_toolbox.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Mining/ore_bag_holding.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Specific/Mining/ore_bag_holding.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Briefcases/briefcase_brown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Storage/Briefcases/briefcase_brown.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Happyhonk/clown.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/clown.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Happyhonk/cluwne.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/cluwne.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Happyhonk/mime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/mime.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Happyhonk/nukie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/nukie.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/medalcase.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Storage/medalcase.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Tools/multitool.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Tools/rcd.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Tools/wrench.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Melee/e_shield.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Objects/Weapons/Melee/e_shield.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Decoration/banner.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/jukebox.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/jukebox.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Shuttles/gyroscope.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Shuttles/gyroscope.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/labels.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Storage/Crates/labels.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/piratechestgrey.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Storage/Crates/piratechestgrey.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Walls/solid.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Walls/solid.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/plasma_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/plasma_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/plastitanium_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/plastitanium_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/reinforced_plasma_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/reinforced_plasma_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/reinforced_uranium_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/reinforced_uranium_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/reinforced_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/reinforced_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/tinted_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/tinted_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/uranium_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/uranium_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Windows/window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Windows/window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/absintheglass.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/absintheglass.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/cola.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/cola.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/dr_gibb.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/dr_gibb.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/energy_drink.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/energy_drink.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/fourteen_loko.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/fourteen_loko.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/lean.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/lean.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/lemon-lime-cranberry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/lemon-lime-cranberry.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/lemon-lime.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/lemon-lime.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/purple_can.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/purple_can.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/pwrgame.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/pwrgame.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/robustnukie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/robustnukie.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/rootbeer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/rootbeer.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/shamblersjuice.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/shamblersjuice.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/sodawater.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/sodawater.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/sol_dry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/sol_dry.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/space_mountain_wind.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/space_mountain_wind.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/space-up.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/space-up.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/starkist.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/starkist.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/tonic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/tonic.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Food/Baked/pie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/Baked/pie.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Food/bowl.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/bowl.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Food/noodles.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/noodles.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/TrashDrinks/broken_bottle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/broken_bottle.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Devices/communication.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Devices/communication.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Devices/hand_teleporter.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Devices/hand_teleporter.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Devices/pinpointer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/bananiumhorn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/bananiumhorn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/bikehorn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/cluwnehorn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/cluwnehorn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Darts/dart_blue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/Darts/dart_blue.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Darts/dart_purple.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/Darts/dart_purple.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Darts/dart_red.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/Darts/dart_red.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Darts/dart_yellow.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/Darts/dart_yellow.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/glue.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/glue.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/goldbikehorn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/goldbikehorn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Instruments/bike_horn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/Instruments/bike_horn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Instruments/guitar.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/Instruments/guitar.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/sharkplush.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/sharkplush.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/toys.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Fun/toys.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Materials/ingots.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Materials/ingots.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Materials/parts.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Materials/parts.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Materials/Sheets/glass.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Materials/Sheets/glass.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Materials/Sheets/metal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Materials/Sheets/metal.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Misc/handcuffs.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Misc/handcuffs.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Misc/ice_crust.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Misc/ice_crust.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Misc/Lights/lampgreen.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Misc/Lights/lampgreen.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Power/AME/ame_jar.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Power/AME/ame_jar.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Power/portable_recharger.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Power/portable_recharger.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Chemistry/chem_bag.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Chemistry/chem_bag.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/cherry.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/corn.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/eggy.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/eggy.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/Equipment/plant_bag.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/Equipment/plant_bag.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/garlic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/garlic.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/koibean.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/koibean.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/lily.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/lily.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/poppy.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Hydroponics/soybeans.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Hydroponics/soybeans.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Library/Equipment/books_bag.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Library/Equipment/books_bag.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Mech/mecha.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Mech/ripley_construction.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Mech/ripley_construction.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Specific/Medical/defibsmall.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Medical/defibsmall.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Tools/bucket.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/bucket.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Tools/emag.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/emag.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Tools/geiger.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/geiger.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Tools/hand_labeler.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/hand_labeler.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Tools/rolling_pin.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Tools/shovel.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/shovel.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Bombs/hot_potato.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Bombs/hot_potato.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Battery/laser_retro.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/laser_retro.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Launchers/grappling_gun.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Launchers/grappling_gun.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/LMGs/l6.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/LMGs/l6.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Pistols/cobra.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/cobra.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Pistols/mk58.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/mk58.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Projectiles/magic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Revolvers/python.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Revolvers/python.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/foam_rifle_inhand_64x.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Rifles/foam_rifle_inhand_64x.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/foam_rifle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Rifles/foam_rifle.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/SMGs/c20r.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/c20r.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/SMGs/wt550.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/wt550.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Snipers/hristov.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Snipers/hristov.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/stunbaton.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Melee/stunbaton.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/stunprod.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Melee/stunprod.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+      "category": "objects"
+    },
+    {
+      "source": "Resources/Textures/Structures/catwalk.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/catwalk.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/dispensers.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/dispensers.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-exo-xenoborg.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-exo-xenoborg.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-exo.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-exo.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/airlock-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/airlock-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/airlock-maints.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/airlock-maints.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/cargo-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/cargo-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/cargo-mining.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/cargo-mining.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/cargo-salvage.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/cargo-salvage.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/centcomm-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/centcomm-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/command-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/command-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/engineering-atmos.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/engineering-atmos.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/engineering-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/engineering-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/medical-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/medical-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/medical-chem.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/medical-chem.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/medical-viro.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/medical-viro.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/science-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/science-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/security-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/security-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/service-botany.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/service-botany.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/shuttle-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/shuttle-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/shuttle-syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/shuttle-syndicate.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/syndicate-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/syndicate-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-hatch-maints.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-hatch-maints.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-hatch-syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-hatch-syndicate.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-hatch.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-hatch.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-maints.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-maints.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-vault.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-vault.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/cargo-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/cargo-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/cargo-mining.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/cargo-mining.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/cargo-salvage.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/cargo-salvage.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/centcomm-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/centcomm-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/command-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/command-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/engineering-atmos.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/engineering-atmos.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/engineering-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/engineering-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/exo-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/exo-xenoborg.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-xenoborg.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/medical-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/medical-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/medical-chem.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/medical-chem.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/medical-viro.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/medical-viro.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/science-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/science-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/security-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/security-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/service-botany.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/service-botany.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/service-freezer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/service-freezer.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/shuttle-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/shuttle-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/shuttle-syndicate.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/shuttle-syndicate.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/syndicate-base.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/syndicate-base.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/edge_door_hazard.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/MineralDoors/gold_door.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/gold_door.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/MineralDoors/paper_door.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/paper_door.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/MineralDoors/plasma_door.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/plasma_door.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/MineralDoors/silver_door.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/silver_door.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/MineralDoors/wood_door.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/wood_door.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/secret_door.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/secret_door.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Shutters/shutters_radiation.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Shutters/shutters_radiation.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Shutters/shutters_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Shutters/shutters_window.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Doors/Shutters/shutters.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Shutters/shutters.rsi",
+      "category": "doors"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/Altars/Gods/nanotrasen.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/Altars/Gods/nanotrasen.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/furniture.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/furniture.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/Tables/generic.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/Tables/generic.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/Tables/glass.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/Tables/glass.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/Tables/r_glass.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/Tables/r_glass.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/Tables/reinforced.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/Tables/reinforced.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/Tables/wood.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Furniture/Tables/wood.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/arcade.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/arcade.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/cryogenics.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/cryogenics.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/fax_machine.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/fax_machine.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/microwave_syndie.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/microwave_syndie.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/microwave.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/microwave.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/mixer.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/mixer.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/parts.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/parts.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/station_map.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Machines/station_map.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Piping/Atmospherics/Portable/portable_sheater.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Piping/Atmospherics/Portable/portable_sheater.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Piping/Atmospherics/pump_alt1.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Piping/Atmospherics/pump_alt2.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Piping/Atmospherics/pump.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/plastic_flaps.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/plastic_flaps.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Power/apc.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Power/apc.rsi",
+      "category": "power"
+    },
+    {
+      "source": "Resources/Textures/Structures/Power/cable_terminal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Power/cable_terminal.rsi",
+      "category": "power"
+    },
+    {
+      "source": "Resources/Textures/Structures/Power/Cables/hv_cable.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Power/Cables/hv_cable.rsi",
+      "category": "power"
+    },
+    {
+      "source": "Resources/Textures/Structures/Power/Cables/lv_cable.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Power/Cables/lv_cable.rsi",
+      "category": "power"
+    },
+    {
+      "source": "Resources/Textures/Structures/Power/Generation/ame.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Power/Generation/ame.rsi",
+      "category": "power"
+    },
+    {
+      "source": "Resources/Textures/Structures/Power/Generation/Singularity/generator.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Power/Generation/Singularity/generator.rsi",
+      "category": "power"
+    },
+    {
+      "source": "Resources/Textures/Structures/Storage/Crates/cage.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Storage/Crates/cage.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Storage/tanks.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Storage/tanks.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/defib_cabinet.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/defib_cabinet.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/extinguisher_cabinet.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/extinguisher_cabinet.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/fireaxe_cabinet.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/fireaxe_cabinet.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/flags.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/flags.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/Lighting/emergency_light.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/Lighting/emergency_light.rsi",
+      "category": "lights"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/Lighting/light_small.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/Lighting/light_small.rsi",
+      "category": "lights"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/Lighting/light_tube.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/Lighting/light_tube.rsi",
+      "category": "lights"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/shotgun_cabinet.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/shotgun_cabinet.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/signalscreen.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/signalscreen.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Wallmounts/turret_controls.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Wallmounts/turret_controls.rsi",
+      "category": "structures"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/brass.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/brass.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/brick.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/brick.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/gold.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/gold.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/grille-diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/grille-diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/grille-new.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/grille-new.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/mining_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/mining_diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/plasma.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plasma.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/plastitanium_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plastitanium_diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/plastitanium.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plastitanium.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/railing.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/railing.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/reinforced_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/reinforced_diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/shuttle_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/shuttle_diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/shuttle.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/shuttle.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/silver.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/silver.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/solid_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/solid_diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/solid_rust.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/solid_rust.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/uranium.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/uranium.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/web.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/web.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/wood.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/wood.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/xeno.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/xeno.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/xenoborg_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/xenoborg_diagonal.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/xenoborg.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/xenoborg.rsi",
+      "category": "walls"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/cracks_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/cracks_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/plasma_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/plasma_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/plastitanium_window_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/plastitanium_window_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/reinforced_plasma_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_plasma_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/reinforced_uranium_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_uranium_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/reinforced_window_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_window_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/shuttle_window_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/shuttle_window_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/shuttle_window.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/shuttle_window.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/uranium_window_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/uranium_window_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/window_diagonal.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/window_diagonal.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/xeno_resin.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/xeno_resin.rsi",
+      "category": "windows"
+    },
+    {
+      "source": "Resources/Textures/Structures/Windows/xenoborg.rsi",
+      "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/xenoborg.rsi",
+      "category": "windows"
+    }
+  ],
+  "prototypeFiles": [
+    "Resources/Prototypes/Actions/crit.yml",
+    "Resources/Prototypes/Actions/internals.yml",
+    "Resources/Prototypes/Actions/types.yml",
+    "Resources/Prototypes/Alerts/alerts.yml",
+    "Resources/Prototypes/Alerts/magboots.yml",
+    "Resources/Prototypes/Alerts/status_effects.yml",
+    "Resources/Prototypes/Atmospherics/gases.yml",
+    "Resources/Prototypes/Body/Animals/animal.yml",
+    "Resources/Prototypes/Body/base_organs.yml",
+    "Resources/Prototypes/Body/species_appearance.yml",
+    "Resources/Prototypes/Body/Species/human.yml",
+    "Resources/Prototypes/Body/Species/moth.yml",
+    "Resources/Prototypes/Body/Species/reptilian.yml",
+    "Resources/Prototypes/Body/Species/vox.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_armory.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_emergency.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_engineering.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_engines.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_food.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_fun.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_janitorial.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_livestock.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_materials.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_medical.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_science.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_security.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_service.yml",
+    "Resources/Prototypes/Catalog/Cargo/cargo_space.yml",
+    "Resources/Prototypes/Catalog/thief_toolbox_sets.yml",
+    "Resources/Prototypes/Catalog/UplinkCatalog/allies.yml",
+    "Resources/Prototypes/Catalog/UplinkCatalog/chemicals.yml",
+    "Resources/Prototypes/Catalog/UplinkCatalog/implants.yml",
+    "Resources/Prototypes/Catalog/UplinkCatalog/weaponry.yml",
+    "Resources/Prototypes/Catalog/UplinkCatalog/wearables.yml",
+    "Resources/Prototypes/Chemistry/mixing_types.yml",
+    "Resources/Prototypes/Decals/bricktile_dark.yml",
+    "Resources/Prototypes/Decals/bricktile_steel.yml",
+    "Resources/Prototypes/Decals/bricktile_white.yml",
+    "Resources/Prototypes/Decals/ss14sign.yml",
+    "Resources/Prototypes/Entities/Clothing/Back/backpacks.yml",
+    "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+    "Resources/Prototypes/Entities/Clothing/Back/satchel.yml",
+    "Resources/Prototypes/Entities/Clothing/Back/specific.yml",
+    "Resources/Prototypes/Entities/Clothing/Belt/belts.yml",
+    "Resources/Prototypes/Entities/Clothing/Belt/job.yml",
+    "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+    "Resources/Prototypes/Entities/Clothing/Ears/headsets.yml",
+    "Resources/Prototypes/Entities/Clothing/Ears/specific.yml",
+    "Resources/Prototypes/Entities/Clothing/Eyes/glasses.yml",
+    "Resources/Prototypes/Entities/Clothing/Eyes/hud.yml",
+    "Resources/Prototypes/Entities/Clothing/Hands/colored.yml",
+    "Resources/Prototypes/Entities/Clothing/Hands/gloves.yml",
+    "Resources/Prototypes/Entities/Clothing/Hands/specific.yml",
+    "Resources/Prototypes/Entities/Clothing/Head/eva-helmets.yml",
+    "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+    "Resources/Prototypes/Entities/Clothing/Head/helmets.yml",
+    "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+    "Resources/Prototypes/Entities/Clothing/Head/misc.yml",
+    "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+    "Resources/Prototypes/Entities/Clothing/Misc/changeling.yml",
+    "Resources/Prototypes/Entities/Clothing/Neck/cloaks.yml",
+    "Resources/Prototypes/Entities/Clothing/Neck/mantles.yml",
+    "Resources/Prototypes/Entities/Clothing/Neck/scarfs.yml",
+    "Resources/Prototypes/Entities/Clothing/OuterClothing/armor.yml",
+    "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+    "Resources/Prototypes/Entities/Clothing/OuterClothing/misc.yml",
+    "Resources/Prototypes/Entities/Clothing/OuterClothing/suits.yml",
+    "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+    "Resources/Prototypes/Entities/Clothing/Shoes/magboots.yml",
+    "Resources/Prototypes/Entities/Clothing/Shoes/misc.yml",
+    "Resources/Prototypes/Entities/Clothing/Shoes/specific.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/cargo.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/centcomm.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/civilian.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/color_dress.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/command.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/engineering.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/medical.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/science.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/security.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/service.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpskirts/special.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/cargo.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/centcomm.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/civilian.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/command.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/engineering.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/medical.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/science.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/security.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/service.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/ship_vs_ship.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/Jumpsuits/special.yml",
+    "Resources/Prototypes/Entities/Clothing/Uniforms/random_suit.yml",
+    "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+    "Resources/Prototypes/Entities/Effects/sparks.yml",
+    "Resources/Prototypes/Entities/Markers/marker_base.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Conditional/timed.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/human.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/jobs.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/mechs.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Mobs/animals.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Mobs/carp.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Mobs/hostile.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Mobs/pets.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/nuke_ops_spawners.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/altars.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/arcade.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/cables.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/Department/medical.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/Food_Drinks/drinks_soda.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/Food_Drinks/food_baked_single.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/Food_Drinks/food_baked_whole.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/maintenance.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/materials.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/Salvage/spawners.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/Random/toy.yml",
+    "Resources/Prototypes/Entities/Markers/Spawners/rooms.yml",
+    "Resources/Prototypes/Entities/Mobs/Customization/Markings/slime.yml",
+    "Resources/Prototypes/Entities/Mobs/Customization/Markings/Vulpkanin/vulpkanin_hair.yml",
+    "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+    "Resources/Prototypes/Entities/Mobs/NPCs/carp.yml",
+    "Resources/Prototypes/Entities/Mobs/NPCs/pets.yml",
+    "Resources/Prototypes/Entities/Mobs/NPCs/scurret.yml",
+    "Resources/Prototypes/Entities/Mobs/NPCs/xeno.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/admin_ghost.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/dragon.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/jaunt_mobs.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/observer.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/ShuttleRoles/roles.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/ShuttleRoles/spawners.yml",
+    "Resources/Prototypes/Entities/Mobs/Player/silicon.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks_cans.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks_cups.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks_metamorphic.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/bowl.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Food/noodles.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Food/produce.yml",
+    "Resources/Prototypes/Entities/Objects/Consumable/Food/soup.yml",
+    "Resources/Prototypes/Entities/Objects/Devices/chameleon_projector.yml",
+    "Resources/Prototypes/Entities/Objects/Devices/geiger.yml",
+    "Resources/Prototypes/Entities/Objects/Devices/hand_teleporter.yml",
+    "Resources/Prototypes/Entities/Objects/Devices/pinpointer.yml",
+    "Resources/Prototypes/Entities/Objects/Devices/radio.yml",
+    "Resources/Prototypes/Entities/Objects/Devices/Syndicate_Gadgets/reinforcement_teleporter.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/darts.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_misc.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_string.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/Plushies/plushies.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/sound_maker.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/toys.yml",
+    "Resources/Prototypes/Entities/Objects/Fun/weapons.yml",
+    "Resources/Prototypes/Entities/Objects/Magic/immovable_rod.yml",
+    "Resources/Prototypes/Entities/Objects/Materials/ingots.yml",
+    "Resources/Prototypes/Entities/Objects/Materials/parts.yml",
+    "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+    "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/briefcases.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/broken_bottle.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/fire_extinguisher.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/fluff_lights.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/handcuffs.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/ice_crust.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/kudzu.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/machine_parts.yml",
+    "Resources/Prototypes/Entities/Objects/Misc/medalcase.yml",
+    "Resources/Prototypes/Entities/Objects/Power/antimatter_jar.yml",
+    "Resources/Prototypes/Entities/Objects/Power/portable_recharger.yml",
+    "Resources/Prototypes/Entities/Objects/Shields/shields.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Cargo/cargo_pallet.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Chemistry/chem_bag.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Chemistry/chemistry-bottles.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Chemistry/chemistry.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Hydroponics/seeds.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Hydroponics/tools.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Librarian/books_bag.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Mech/mech_construction.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Mech/mechs.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Medical/defib.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Medical/medkits.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Medical/surgery.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/Salvage/ore_bag_holding.yml",
+    "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/bucket.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/emag.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/hand_labeler.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/thief.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/toolbox.yml",
+    "Resources/Prototypes/Entities/Objects/Tools/tools.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Bombs/funny.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/shotgun.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/toy.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Launchers/launchers.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/LMGs/lmgs.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Pistols/pistols.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/Energy/kinetic.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/Misc/anomalous.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/Misc/magic.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/Misc/specific.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/Misc/toy.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Revolvers/revolvers.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/SMGs/smgs.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Guns/Snipers/snipers.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Melee/stunprod.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/Melee/weapon_toolbox.yml",
+    "Resources/Prototypes/Entities/Objects/Weapons/security.yml",
+    "Resources/Prototypes/Entities/Structures/catwalk.yml",
+    "Resources/Prototypes/Entities/Structures/Decoration/banners.yml",
+    "Resources/Prototypes/Entities/Structures/Dispensers/chem.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/base_assembly.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/base_structureairlocks.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/highsec.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Airlocks/shuttle.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Firelocks/firelock.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/MaterialDoors/material_doors.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/SecretDoor/secret_door.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door.yml",
+    "Resources/Prototypes/Entities/Structures/Doors/Shutter/shutters.yml",
+    "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+    "Resources/Prototypes/Entities/Structures/Furniture/beds.yml",
+    "Resources/Prototypes/Entities/Structures/Furniture/dresser.yml",
+    "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+    "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/chem_master.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/Computers/arcades.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/Computers/frame.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/fax_machine.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/frame.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/jukebox.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/Medical/cryo_pod.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/microwave.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/multipart.yml",
+    "Resources/Prototypes/Entities/Structures/Machines/vending_machines.yml",
+    "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/binary.yml",
+    "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/portable.yml",
+    "Resources/Prototypes/Entities/Structures/plastic_flaps.yml",
+    "Resources/Prototypes/Entities/Structures/Power/apc.yml",
+    "Resources/Prototypes/Entities/Structures/Power/cable_terminal.yml",
+    "Resources/Prototypes/Entities/Structures/Power/cables.yml",
+    "Resources/Prototypes/Entities/Structures/Power/Generation/ame.yml",
+    "Resources/Prototypes/Entities/Structures/Power/Generation/Singularity/generator.yml",
+    "Resources/Prototypes/Entities/Structures/Shuttles/thrusters.yml",
+    "Resources/Prototypes/Entities/Structures/Storage/Crates/base_structurecrates.yml",
+    "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+    "Resources/Prototypes/Entities/Structures/Storage/storage.yml",
+    "Resources/Prototypes/Entities/Structures/Storage/Tanks/tanks.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/Signs/flags.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/turret_controls.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/station_map.yml",
+    "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/timer.yml",
+    "Resources/Prototypes/Entities/Structures/Walls/girders.yml",
+    "Resources/Prototypes/Entities/Structures/Walls/grille.yml",
+    "Resources/Prototypes/Entities/Structures/Walls/railing.yml",
+    "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/plasma.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/reinforced.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/rplasma.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/ruranium.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/shuttle.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/uranium.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/window.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/xenoborg.yml",
+    "Resources/Prototypes/Entities/Structures/Windows/xenoresin.yml",
+    "Resources/Prototypes/Hydroponics/plants.yml",
+    "Resources/Prototypes/Magic/event_spells.yml",
+    "Resources/Prototypes/Magic/mindswap_spell.yml",
+    "Resources/Prototypes/Objectives/changeling.yml",
+    "Resources/Prototypes/Objectives/ninja.yml",
+    "Resources/Prototypes/Objectives/stealTargetGroups.yml",
+    "Resources/Prototypes/Objectives/traitor.yml",
+    "Resources/Prototypes/Parallaxes/test.yml",
+    "Resources/Prototypes/Reagents/Consumable/Drink/alcohol.yml",
+    "Resources/Prototypes/Reagents/Materials/glass.yml",
+    "Resources/Prototypes/Reagents/Materials/metals.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/clothing/clown_banana.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/clothing/medsec_hud.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/fun/bananium_horn.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/machines/machine.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/mechs/honker_construction.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/tools/bell.yml",
+    "Resources/Prototypes/Recipes/Construction/Graphs/tools/logic_gate.yml",
+    "Resources/Prototypes/Recipes/Cooking/food_sequence_element.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/bots/cleanbot.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/bots/firebot.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/bots/honkbot.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/bots/medibot.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/bots/mimebot.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/improvised/firebomb.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/improvised/flowerwreath.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/improvised/petbag.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/improvised/scraphelmet.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/repaired_xenoborg_pinpointer.yml",
+    "Resources/Prototypes/Recipes/Crafting/Graphs/toys.yml",
+    "Resources/Prototypes/Recipes/Lathes/biogen.yml",
+    "Resources/Prototypes/Research/arsenal.yml",
+    "Resources/Prototypes/Research/civilianservices.yml",
+    "Resources/Prototypes/Research/experimental.yml",
+    "Resources/Prototypes/Research/industrial.yml",
+    "Resources/Prototypes/Roles/Jobs/Service/mime.yml",
+    "Resources/Prototypes/Stacks/ore_refined.yml",
+    "Resources/Prototypes/Stacks/other.yml",
+    "Resources/Prototypes/Stacks/Sheets/glass.yml",
+    "Resources/Prototypes/Stacks/Sheets/metal.yml",
+    "Resources/Prototypes/Stacks/Specific/science.yml",
+    "Resources/Prototypes/tool_qualities.yml"
+  ],
+  "unconnectedRsi": 2395
+}

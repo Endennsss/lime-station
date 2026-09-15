@@ -52,7 +52,7 @@
   id: NonlethalAmmunition
   name: research-technology-nonlethal-ammunition
   icon:
-    sprite: Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi
+    sprite: _Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi # Lime-Edit - графика Monolith
     state: beanbag
   discipline: Arsenal
   tier: 1

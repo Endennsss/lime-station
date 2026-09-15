@@ -226,7 +226,7 @@
   id: BluespaceChemistry
   name: research-technology-bluespace-chemistry
   icon:
-    sprite: Objects/Specific/Chemistry/beaker_bluespace.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker_bluespace.rsi # Lime-Edit - графика Monolith
     state: beakerbluespace
   discipline: CivilianServices
   tier: 3

@@ -147,10 +147,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/grille.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/grille-new.rsi # Lime-Edit - графика Monolith
     state: broken
   - type: Icon
-    sprite: Structures/Walls/grille.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/grille-new.rsi # Lime-Edit - графика Monolith
     state: broken
   - type: RCDDeconstructable
     cost: 6

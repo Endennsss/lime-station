@@ -170,9 +170,9 @@
   description: A synthetic armor vest. This one has added webbing and heat resistant fibers.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/elitevest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Mono/Clothing/OuterClothing/Vests/elitevest.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Vests/elitevest.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Mono/Clothing/OuterClothing/Vests/elitevest.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:

@@ -651,7 +651,7 @@
   description: Big and safe to have by your side if you want to discover the world below the surface of the ocean.
   components:
   - type: Sprite
-    sprite: Objects/Fun/Plushies/shark.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/sharkplush.rsi # Lime-Edit - графика Monolith
     state: blue
   - type: EmitSoundOnUse
     sound: &PlushieSharkSound
@@ -689,7 +689,7 @@
   description: Hehe shonk :)
   components:
   - type: Sprite
-    sprite: Objects/Fun/Plushies/shark.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/sharkplush.rsi # Lime-Edit - графика Monolith
     state: pink
   - type: Item
     heldPrefix: pink
@@ -709,7 +709,7 @@
   description: A quiet, reserved kind of shonk. Loves to ride the grey tide.
   components:
   - type: Sprite
-    sprite: Objects/Fun/Plushies/shark.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/sharkplush.rsi # Lime-Edit - графика Monolith
     state: grey
   - type: Item
     heldPrefix: grey

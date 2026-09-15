@@ -9,7 +9,7 @@
       - CartridgeCap
   - type: CartridgeAmmo
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Casings/capgun_casing.rsi
+    sprite: _Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Ammunition/Casings/capgun_casing.rsi # Lime-Edit - графика Monolith
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]

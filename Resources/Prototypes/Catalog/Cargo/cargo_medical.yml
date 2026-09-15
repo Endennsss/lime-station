@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: MedicalChemistrySupplies
   icon:
-    sprite: Objects/Specific/Chemistry/beaker.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi # Lime-Edit - графика Monolith
     state: beaker
   product: CrateChemistrySupplies
   cost: 1750

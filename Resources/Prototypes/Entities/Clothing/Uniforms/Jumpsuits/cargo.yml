@@ -23,9 +23,9 @@
   description: 'What can brown do for you?'
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Cargo/qm.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/qm.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Cargo/qm.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/qm.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband]
@@ -45,6 +45,6 @@
   description: Inspired by the quartermasters of military's past, the perfect outfit for supplying a formal occasion.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Cargo/qmformal.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/qmformal.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Cargo/qmformal.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/qmformal.rsi # Lime-Edit - графика Monolith

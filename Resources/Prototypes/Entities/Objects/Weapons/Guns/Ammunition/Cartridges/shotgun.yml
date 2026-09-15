@@ -11,7 +11,7 @@
     soundEject:
       collection: ShellEject
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi
+    sprite: _Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi # Lime-Edit - графика Monolith
     layers:
       - state: base
         map: [ "enum.AmmoVisualLayers.Base" ]

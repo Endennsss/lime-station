@@ -32,5 +32,5 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Objects/Weapons/Guns/Battery/energy_shotgun.rsi
+    - sprite: _Lime/Imported/Monolith/Mono/Objects/Weapons/Guns/Battery/energy_shotgun.rsi # Lime-Edit - графика Monolith
       state: icon

@@ -14,9 +14,9 @@
   description: It's made of a special fiber that gives special protection against biohazards. It has a virologist rank stripe on it.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/virology.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/virology.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/virology.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/virology.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -25,9 +25,9 @@
   description: It's made of a special fiber that gives special protection against biohazards. It has a geneticist rank stripe on it.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/genetics.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/genetics.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/genetics.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/genetics.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband, ClothingUniformFoldableBase]
@@ -45,9 +45,9 @@
   description: It's a turtleneck worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/cmo_turtle.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cmo_turtle.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/cmo_turtle.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cmo_turtle.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase]
@@ -65,9 +65,9 @@
   description: It's got a plus on it, that's a good thing right?
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/paramedic.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/paramedic.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/paramedic.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/paramedic.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -76,6 +76,6 @@
   description: A sign of skill and prestige within the medical department.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/senior_physician.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_physician.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuits/Medical/senior_physician.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_physician.rsi # Lime-Edit - графика Monolith

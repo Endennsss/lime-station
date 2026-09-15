@@ -208,22 +208,22 @@
   name: firelock
   components:
     - type: Sprite
-      sprite: Structures/Doors/Misc/edge_door_hazard.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi # Lime-Edit - графика Monolith
       snapCardinals: false
       layers:
       - state: closed
         map: [ "enum.DoorVisualLayers.Base" ]
       - state: closed_unlit
         shader: unshaded
-        sprite: Structures/Doors/Misc/edge_door_hazard.rsi
+        sprite: _Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi # Lime-Edit - графика Monolith
         map: [ "enum.DoorVisualLayers.BaseUnlit" ]
         visible: false
       - state: welded
-        sprite: Structures/Doors/Misc/edge_door_hazard.rsi
+        sprite: _Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi # Lime-Edit - графика Monolith
         map: [ "enum.WeldableLayers.BaseWelded" ]
       - state: bolted_unlit
         shader: unshaded
-        sprite: Structures/Doors/Misc/edge_door_hazard.rsi
+        sprite: _Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi # Lime-Edit - графика Monolith
         map: [ "enum.DoorVisualLayers.BaseBolted" ]
         visible: false
       - state: panel_open
@@ -232,12 +232,12 @@
       - state: pressure_unlit
         visible: false
         shader: unshaded
-        sprite: Structures/Doors/Misc/edge_door_hazard.rsi
+        sprite: _Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi # Lime-Edit - графика Monolith
         map: [ "enum.FirelockVisualLayersPressure.Base" ]
       - state: temperature_unlit
         visible: false
         shader: unshaded
-        sprite: Structures/Doors/Misc/edge_door_hazard.rsi
+        sprite: _Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi # Lime-Edit - графика Monolith
         map: [ "enum.FirelockVisualLayersTemperature.Base" ]
     - type: Airtight
       airBlocked: false

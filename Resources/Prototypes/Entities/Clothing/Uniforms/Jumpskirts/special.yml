@@ -5,9 +5,9 @@
   description: Uniform for elite syndicate operatives performing tactical operations in deep space.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirts/Special/operative_s.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/operative_s.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirts/Special/operative_s.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/operative_s.rsi # Lime-Edit - графика Monolith
   - type: StaticPrice
     price: 500
 
@@ -18,9 +18,9 @@
   description: Uniform for subpar operative LARPers performing tactical insulated glove theft in deep space.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirts/Special/tacticool_s.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/tacticool_s.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirts/Special/tacticool_s.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/tacticool_s.rsi # Lime-Edit - графика Monolith
   # Too cool for sensors to be on
   - type: SuitSensor
     randomMode: false
@@ -33,9 +33,9 @@
   description: "The syndicate's uniform is made in an elegant style, it's even a pity to do dirty tricks in this."
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirts/Special/syndieformaldress.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirts/Special/syndieformaldress.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -44,9 +44,9 @@
   description: It is assumed that the best maids should have designer suits.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirts/Special/tacticalmaid.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/tacticalmaid.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirts/Special/tacticalmaid.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/tacticalmaid.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseSlicingRefinable]
@@ -55,9 +55,9 @@
   description: Makes it clear that you are one with the webs.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirts/Special/web.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/web.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirts/Special/web.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/web.rsi # Lime-Edit - графика Monolith
   - type: ToolRefinable
     refineResult:
     - id: MaterialWebSilk1

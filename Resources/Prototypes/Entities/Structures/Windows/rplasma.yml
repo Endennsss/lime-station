@@ -131,7 +131,7 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: Structures/Windows/window-diagonal-plasma-reinf.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Windows/reinforced_plasma_diagonal.rsi # Lime-Edit - графика Monolith
     state: state0
   - type: Tag
     tags:
@@ -142,7 +142,7 @@
     key: walls
     base: state
   - type: Icon
-    sprite: Structures/Windows/window-diagonal-plasma-reinf.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Windows/plasma_diagonal.rsi # Lime-Edit - графика Monolith
     state: state0
   - type: Fixtures
     fixtures:

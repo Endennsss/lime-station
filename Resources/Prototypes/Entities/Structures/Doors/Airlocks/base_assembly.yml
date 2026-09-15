@@ -8,7 +8,7 @@
   - type: Clickable
   - type: InteractionOutline
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Doors/Airlocks/Standard/basic.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-base.rsi # Lime-Edit - основа шлюза Monolith
     state: "assembly"
   - type: Physics
   - type: Fixtures

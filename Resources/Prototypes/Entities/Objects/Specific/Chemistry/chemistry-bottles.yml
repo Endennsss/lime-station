@@ -14,7 +14,7 @@
       Glass: 25
   - type: SpaceGarbage
   - type: Sprite
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/bottle.rsi # Lime-Edit - графика Monolith
     layers:
     - state: bottle-1
     - state: bottle-1-1
@@ -51,7 +51,7 @@
         type: TransferAmountBoundUserInterface
   - type: Item
     size: Tiny
-    sprite: Objects/Specific/Chemistry/beaker.rsi
+    sprite: _Lime/Imported/Monolith/DV/Objects/Specific/Chemistry/beaker.rsi # Lime-Edit - графика Monolith
   - type: Spillable
     solution: drink
   - type: MeleeWeapon

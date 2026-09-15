@@ -117,7 +117,7 @@
   description: SHARK TORNADO!
   components:
   - type: Sprite
-    sprite: Objects/Fun/Plushies/shark.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/sharkplush.rsi # Lime-Edit - графика Monolith
     state: blue
     rotation: 90
     noRot: false

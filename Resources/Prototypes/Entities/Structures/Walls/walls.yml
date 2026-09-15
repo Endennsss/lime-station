@@ -751,9 +751,9 @@
       - *SoundMetalSlam
       - *SpawnSteel
   - type: Sprite
-    sprite: Structures/Walls/exo.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
   - type: Icon
-    sprite: Structures/Walls/exo.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
   - type: IconSmooth
     key: walls
     base: solid
@@ -771,9 +771,9 @@
   name: reinforced exodermis
   components:
   - type: Sprite
-    sprite: Structures/Walls/exo.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
   - type: Icon
-    sprite: Structures/Walls/exo.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
     state: rgeneric
   - type: Damageable
     damageModifierSet: PlasteelStaticMod
@@ -813,9 +813,9 @@
   name: mechadermis wall
   components:
   - type: Sprite
-    sprite: Structures/Walls/exo-borg.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xenoborg.rsi # Lime-Edit - графика Monolith
   - type: Icon
-    sprite: Structures/Walls/exo-borg.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xenoborg.rsi # Lime-Edit - графика Monolith
   - type: IconSmooth
     key: walls
     base: xenoborg
@@ -828,10 +828,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/exo-borg-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xenoborg_diagonal.rsi # Lime-Edit - графика Monolith
     state: state0
   - type: Icon
-    sprite: Structures/Walls/exo-borg-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/xenoborg_diagonal.rsi # Lime-Edit - графика Monolith
     state: state0
 
 - type: entity
