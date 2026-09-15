@@ -4,6 +4,8 @@ using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Shared.Enums;
 using Robust.Shared.Prototypes;
+using Robust.Shared.Graphics.RSI;
+using Robust.Client.Utility;
 
 namespace Content.Client._Lime.Shaders.Bloom;
 
@@ -15,6 +17,7 @@ public sealed class LimeLampBloomOverlay : Overlay
 
     private static readonly ProtoId<ShaderPrototype> HaloShader = "LimeLampHalo";
     private static readonly ProtoId<ShaderPrototype> CoreShader = "LimeLampCore";
+    private static readonly ProtoId<ShaderPrototype> ItemShader = "LimeItemBloom";
 
     private readonly EntityLookupSystem _lookup;
     private readonly TransformSystem _transform;
@@ -22,7 +25,10 @@ public sealed class LimeLampBloomOverlay : Overlay
     private readonly EntityQuery<PointLightComponent> _lights;
     private readonly EntityQuery<SpriteComponent> _sprites;
     private readonly HashSet<Entity<LimeLampBloomComponent>> _lamps = new();
-    private readonly HashSet<Entity<LimeEmissiveBloomComponent>> _emissive = new();
+    private readonly HashSet<Entity<SpriteComponent>> _visibleSprites = new();
+    private readonly EntityQuery<LimeEmissiveBloomComponent> _emissiveQuery;
+    private readonly EntityQuery<LimeLampBloomComponent> _lampQuery;
+    private readonly ShaderInstance _itemBloom;
     private readonly ShaderInstance _halo;
     private readonly ShaderInstance _core;
 
@@ -38,6 +44,9 @@ public sealed class LimeLampBloomOverlay : Overlay
         _sprite = _entity.System<SpriteSystem>();
         _lights = _entity.GetEntityQuery<PointLightComponent>();
         _sprites = _entity.GetEntityQuery<SpriteComponent>();
+        _emissiveQuery = _entity.GetEntityQuery<LimeEmissiveBloomComponent>();
+        _lampQuery = _entity.GetEntityQuery<LimeLampBloomComponent>();
+        _itemBloom = _prototype.Index(ItemShader).InstanceUnique();
         _halo = _prototype.Index(HaloShader).InstanceUnique();
         _core = _prototype.Index(CoreShader).Instance();
         ZIndex = (int) Content.Shared.DrawDepth.DrawDepth.Effects;
@@ -52,11 +61,11 @@ public sealed class LimeLampBloomOverlay : Overlay
     {
         var handle = args.WorldHandle;
         _lamps.Clear();
-        _emissive.Clear();
+        _visibleSprites.Clear();
         // Поиск только у камеры; коллекции переиспользуются для всех кадров.
         var bounds = args.WorldAABB.Enlarged(2f);
         _lookup.GetEntitiesIntersecting(args.MapId, bounds, _lamps);
-        _lookup.GetEntitiesIntersecting(args.MapId, bounds, _emissive);
+        _lookup.GetEntitiesIntersecting(args.MapId, bounds, _visibleSprites);
         try
         {
             foreach (var lamp in _lamps)
@@ -77,20 +86,24 @@ public sealed class LimeLampBloomOverlay : Overlay
                 handle.DrawTextureRect(texture, Box2.CenteredAround(lamp.Comp.MaskOffset, size), color.WithAlpha(intensity));
             }
 
-            foreach (var emissive in _emissive)
+            foreach (var entry in _visibleSprites)
             {
-                if (!_sprites.TryComp(emissive, out var sprite) || !sprite.Visible || sprite.ContainerOccluded)
+                var sprite = entry.Comp;
+                if (!sprite.Visible || sprite.ContainerOccluded || _lampQuery.HasComp(entry) || sprite.PostShader != null)
                     continue;
-                handle.SetTransform(_transform.GetWorldMatrix(emissive));
-                foreach (var key in emissive.Comp.Layers)
+                _emissiveQuery.TryComp(entry, out var settings);
+                if (settings != null)
                 {
-                    if (!_sprite.TryGetLayer((emissive, sprite), key, out var layer, false) || !layer.Visible)
-                        continue;
-                    var layerBounds = _sprite.GetLocalBounds(layer);
-                    var center = sprite.Offset + layerBounds.Center * sprite.Scale;
-                    var size = layerBounds.Size * Vector2.Abs(sprite.Scale);
-                    var color = sprite.Color * layer.Color * emissive.Comp.Color;
-                    DrawHalo(handle, center, size, emissive.Comp.Radius, 0.5f, color.WithAlpha(Strength * Math.Clamp(emissive.Comp.Strength, 0f, 2f) * 0.25f));
+                    foreach (var key in settings.Layers)
+                        if (_sprite.TryGetLayer(entry.AsNullable(), key, out var layer, false))
+                            DrawItemLayer(handle, entry, layer, args.Viewport.Eye!.Rotation, settings);
+                }
+                else
+                {
+                    // Нативные unshaded-слои включают индикаторы, энергооружие и предметы в руках.
+                    foreach (var spriteLayer in sprite.AllLayers)
+                        if (spriteLayer is SpriteComponent.Layer layer && layer.ShaderPrototype == SpriteSystem.UnshadedId)
+                            DrawItemLayer(handle, entry, layer, args.Viewport.Eye!.Rotation, null);
                 }
             }
         }
@@ -99,6 +112,54 @@ public sealed class LimeLampBloomOverlay : Overlay
             handle.UseShader(null);
             handle.SetTransform(Matrix3x2.Identity);
         }
+    }
+
+    private void DrawItemLayer(DrawingHandleWorld handle, Entity<SpriteComponent> entry,
+        SpriteComponent.Layer layer, Angle eyeRotation, LimeEmissiveBloomComponent? settings)
+    {
+        if (!layer.Visible || layer.Blank || layer.CopyToShaderParameters != null)
+            return;
+        var strength = settings?.Strength ?? 1.1f;
+        var radius = settings?.Radius ?? 1.3f;
+        if (!float.IsFinite(strength) || !float.IsFinite(radius) || strength <= 0f || radius <= 0f)
+            return;
+        var sprite = entry.Comp;
+        var rotation = _transform.GetWorldRotation(entry);
+        var angle = (rotation + eyeRotation).Reduced().FlipPositive();
+        var state = layer.ActualState;
+        var direction = state == null ? RsiDirection.South : SpriteComponent.Layer.GetDirection(state.RsiDirections, angle);
+        layer.GetLayerDrawMatrix(direction, out var layerMatrix);
+        if (sprite.EnableDirectionOverride && state != null)
+            direction = sprite.DirectionOverride.Convert(state.RsiDirections);
+        direction = direction.OffsetRsiDir(layer.DirOffset);
+        var texture = state?.GetFrame(direction, layer.AnimationFrame) ?? layer.Texture;
+        if (texture == null)
+            return;
+
+        // Используем те же стратегии поворота, что и нативный рендер спрайта, без изменения его слоёв.
+        var renderRotation = sprite.NoRotation ? -eyeRotation : rotation - (sprite.SnapCardinals ? angle.RoundToCardinalAngle() : Angle.Zero);
+        if (sprite.GranularLayersRendering)
+            renderRotation = layer.RenderingStrategy switch
+            {
+                LayerRenderingStrategy.Default => rotation,
+                LayerRenderingStrategy.NoRotation => -eyeRotation,
+                LayerRenderingStrategy.SnapToCardinals => rotation - angle.RoundToCardinalAngle(),
+                _ => renderRotation
+            };
+        var matrix = layerMatrix * sprite.LocalMatrix * Matrix3Helpers.CreateTransform(_transform.GetWorldPosition(entry), renderRotation);
+        handle.SetTransform(matrix);
+        var pixels = (Vector2)texture.Size;
+        var atlasPixels = texture is AtlasTexture atlas ? (Vector2)atlas.SourceTexture.Size : pixels;
+        var blur = Math.Clamp(radius * 4f, 2f, 9f);
+        const float padding = 6f; // Радиус ядра свёртки в пикселях; пустые поля не увеличиваем.
+        _itemBloom.SetParameter("uvScale", pixels / atlasPixels);
+        _itemBloom.SetParameter("sourcePixels", pixels);
+        _itemBloom.SetParameter("paddingPixels", padding);
+        _itemBloom.SetParameter("blurPixels", blur);
+        handle.UseShader(_itemBloom);
+        var color = sprite.Color * layer.Color * (settings?.Color ?? Color.White);
+        handle.DrawTextureRect(texture, Box2.CenteredAround(Vector2.Zero, (pixels + new Vector2(padding * 2f)) / EyeManager.PixelsPerMeter),
+            color.WithAlpha(color.A * Strength * Math.Clamp(strength, 0f, 2f)));
     }
 
     private void DrawHalo(DrawingHandleWorld handle, Vector2 center, Vector2 coreSize, float radius, float softness, Color color)
@@ -115,8 +176,9 @@ public sealed class LimeLampBloomOverlay : Overlay
     protected override void DisposeBehavior()
     {
         _halo.Dispose();
+        _itemBloom.Dispose();
+        _visibleSprites.Clear();
         _lamps.Clear();
-        _emissive.Clear();
         base.DisposeBehavior();
     }
 }

@@ -8,3 +8,8 @@
   kind: canvas
   light_mode: unshaded
   blend_mode: add
+
+- type: shader
+  id: LimeItemBloom
+  kind: source
+  path: /Textures/_Lime/Shaders/item_bloom.swsl
