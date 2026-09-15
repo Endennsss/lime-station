@@ -28,9 +28,9 @@
     offset: 0, -0.25
     layers:
     - state: base
-      sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - корпус ЛКП Monolith
+      sprite: Structures/Wallmounts/apc.rsi # Lime-Edit - единая штатная графика ЛКП
     - state: panel
-      sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - корпус ЛКП Monolith
+      sprite: Structures/Wallmounts/apc.rsi # Lime-Edit - единая штатная графика ЛКП
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
       visible: false
     - state: display-charging
@@ -143,7 +143,7 @@
     mode: SnapgridCenter
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - рама ЛКП Monolith
+    sprite: Structures/Wallmounts/apc.rsi # Lime-Edit - единая штатная графика ЛКП
     state: frame
   - type: Construction
     graph: APC

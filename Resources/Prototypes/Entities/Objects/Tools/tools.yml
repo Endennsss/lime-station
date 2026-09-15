@@ -102,12 +102,12 @@
     tags:
     - Wrench
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: Objects/Tools/wrench.rsi # Lime-Edit - согласованный штатный набор ключа
     state: icon
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: Objects/Tools/wrench.rsi # Lime-Edit - согласованный штатный набор ключа
     storedSprite:
-      sprite: _Lime/Imported/DeadSpace/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: Objects/Tools/wrench.rsi # Lime-Edit - согласованный штатный набор ключа
       state: storage
   - type: MeleeWeapon
     wideAnimationRotation: 135

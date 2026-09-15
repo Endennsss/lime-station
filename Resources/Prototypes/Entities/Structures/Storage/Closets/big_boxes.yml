@@ -55,7 +55,7 @@
               max: 2
     - type: Sprite
       noRot: true
-      sprite: _Lime/Imported/DeadSpace/Structures/Storage/closet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+      sprite: Structures/Storage/closet.rsi # Lime-Edit - сохраняем старую графику шкафов
       layers:
       - state: cardboard
         map: ["enum.StorageVisualLayers.Base"]
