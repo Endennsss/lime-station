@@ -4,6 +4,10 @@
   id: FlashlightLantern
   description: It lights the way to freedom.
   components:
+  - type: LimeEmissiveBloom # Lime-Edit - ореол включённого фонаря
+    layers: [light]
+    strength: 0.7
+    radius: 0.45
   - type: Tag
     tags:
     - Flashlight

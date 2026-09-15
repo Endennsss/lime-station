@@ -4,6 +4,11 @@
   id: HandHeldMassScanner
   description: A hand-held mass scanner.
   components:
+  - type: LimeEmissiveBloom # Lime-Edit - свечение питаемого экрана
+    layers: [lime-screen]
+    color: "#75C5DD"
+    strength: 0.5
+    radius: 0.3
   - type: Item
     sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/handheld_mass_scanner.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Sprite
@@ -14,7 +19,7 @@
       - state: scanner
         shader: unshaded
         visible: false
-        map: [ "enum.PowerDeviceVisualLayers.Powered" ]
+        map: [ "enum.PowerDeviceVisualLayers.Powered", lime-screen ] # Lime-Edit - ключ свечения
   - type: RadarConsole
     maxRange: 256
     followEntity: true

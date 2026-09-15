@@ -5,6 +5,9 @@
   name: glowstick
   description: Useful for raves and emergencies.
   components:
+  - type: LimeEmissiveBloom # Lime-Edit - ореол активного химического света
+    layers: [lime-glow]
+    radius: 0.4
   - type: SpaceGarbage
   - type: ExpendableLight
     glowDuration: 900 # time in seconds
@@ -21,7 +24,7 @@
     layers:
     - map: [ enum.ExpendableLightVisualLayers.Base ]
       state: glowstick_base
-    - map: [ enum.ExpendableLightVisualLayers.Glow ]
+    - map: [ enum.ExpendableLightVisualLayers.Glow, lime-glow ] # Lime-Edit - ключ свечения
       state: glowstick_glow
       visible: false
       shader: unshaded

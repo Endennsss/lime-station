@@ -137,6 +137,11 @@
   id: Multitool
   description: An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
   components:
+  - type: LimeEmissiveBloom # Lime-Edit - слабое свечение индикатора
+    layers: [lime-indicator]
+    color: "#65DC80"
+    strength: 0.5
+    radius: 0.25
   - type: EmitSoundOnLand
     sound:
       path: /Audio/Items/multitool_drop.ogg
@@ -145,6 +150,7 @@
     layers:
     - state: icon
     - state: green-unlit
+      map: [lime-indicator] # Lime-Edit - ключ анимированного индикатора
       shader: unshaded
   - type: Item
     size: Small
