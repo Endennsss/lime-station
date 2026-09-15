@@ -214,6 +214,7 @@ namespace Content.Client.Chat.UI
             var label = new RichTextLabel
             {
                 MaxWidth = SpeechMaxWidth,
+                OutlineThicknessOverride = 0f,
                 StyleClasses = { Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - шрифт и отсутствие обводки задаются стилем.
             };
 
@@ -221,7 +222,7 @@ namespace Content.Client.Chat.UI
 
             var panel = new PanelContainer
             {
-                StyleClasses = { "speechBox", speechStyleClass },
+                StyleClasses = { "speechBox", speechStyleClass, Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechBox },
                 Children = { label },
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleBackgroundOpacity))
             };
@@ -245,6 +246,7 @@ namespace Content.Client.Chat.UI
                 var label = new RichTextLabel
                 {
                     MaxWidth = SpeechMaxWidth,
+                    OutlineThicknessOverride = 0f,
                     StyleClasses = { Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - шрифт и отсутствие обводки задаются стилем.
                 };
 
@@ -252,7 +254,7 @@ namespace Content.Client.Chat.UI
 
                 var unfanciedPanel = new PanelContainer
                 {
-                    StyleClasses = { "speechBox", speechStyleClass },
+                    StyleClasses = { "speechBox", speechStyleClass, Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechBox },
                     Children = { label },
                     ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleBackgroundOpacity)),
                 };
@@ -263,6 +265,7 @@ namespace Content.Client.Chat.UI
             {
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleSpeakerOpacity)),
                 Margin = new Thickness(2, 0, 2, 0),
+                OutlineThicknessOverride = 0f,
                 StyleClasses = { Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - единая типографика заголовка сообщения.
             };
 
@@ -271,6 +274,7 @@ namespace Content.Client.Chat.UI
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleTextOpacity)),
                 MaxWidth = SpeechMaxWidth,
                 Margin = new Thickness(2, 0, 2, 0),
+                OutlineThicknessOverride = 0f,
                 StyleClasses = { "bubbleContent", Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - читаемый текст без обводки.
             };
 
@@ -281,7 +285,7 @@ namespace Content.Client.Chat.UI
             //As for below: Some day this could probably be converted to xaml. But that is not today. -Myr
             var mainPanel = new PanelContainer
             {
-                StyleClasses = { "speechBox", speechStyleClass },
+                StyleClasses = { "speechBox", speechStyleClass, Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechBox },
                 Children = { bubbleContent },
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleBackgroundOpacity)),
                 HorizontalAlignment = HAlignment.Center,
@@ -291,7 +295,7 @@ namespace Content.Client.Chat.UI
 
             var headerPanel = new PanelContainer
             {
-                StyleClasses = { "speechBox", speechStyleClass },
+                StyleClasses = { "speechBox", speechStyleClass, Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechBox },
                 Children = { bubbleHeader },
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.ChatFancyNameBackground) ? ConfigManager.GetCVar(CCVars.SpeechBubbleBackgroundOpacity) : 0f),
                 HorizontalAlignment = HAlignment.Center,

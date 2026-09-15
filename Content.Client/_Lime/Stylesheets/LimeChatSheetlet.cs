@@ -1,5 +1,6 @@
 using Content.Client.Stylesheets;
 using Content.Client.Stylesheets.Fonts;
+using Robust.Client.Graphics;
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 using static Content.Client.Stylesheets.StylesheetHelpers;
@@ -14,6 +15,7 @@ public sealed class LimeChatSheetlet : Sheetlet<PalettedStylesheet>
 {
     public const string ChatText = "LimeChatText";
     public const string SpeechText = "LimeSpeechText";
+    public const string SpeechBox = "LimeSpeechBox";
 
     public static string FormatChatMarkup(string message)
     {
@@ -36,12 +38,16 @@ public sealed class LimeChatSheetlet : Sheetlet<PalettedStylesheet>
     public override StyleRule[] GetRules(PalettedStylesheet sheet, object config)
     {
         var fonts = new NotoFontFamilyStack(ResCache, "Display");
+        var speechBox = new StyleBoxFlat(sheet.SecondaryPalette.Background.WithAlpha(0.85f));
         return
         [
             E<OutputPanel>().Class(ChatText).Font(fonts.GetFont(13)),
+            E<LineEdit>().Class(ChatText).Font(fonts.GetFont(13)),
             E<RichTextLabel>().Class(SpeechText)
                 .Font(fonts.GetFont(13))
                 .Prop(Label.StylePropertyFontOutlineThickness, 0f),
+            E<PanelContainer>().Class("speechBox", SpeechBox)
+                .Panel(speechBox),
             E<PanelContainer>().Class("speechBox", "emoteBox")
                 .ParentOf(E<RichTextLabel>().Class(SpeechText))
                 .Font(fonts.GetFont(13, FontKind.Italic)),
