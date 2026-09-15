@@ -7,10 +7,10 @@
   components:
   - type: Emag
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/emag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Tools/emag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/emag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Tools/emag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     storedRotation: -90
 
 - type: entity

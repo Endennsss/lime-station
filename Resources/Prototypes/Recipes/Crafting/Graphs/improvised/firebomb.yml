@@ -9,7 +9,7 @@
       - tag: DrinkCan
         name: construction-graph-tag-empty-can
         icon:
-          sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/cola.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+          sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/cola.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: icon_open
         doAfter: 1
       - tag: Igniter

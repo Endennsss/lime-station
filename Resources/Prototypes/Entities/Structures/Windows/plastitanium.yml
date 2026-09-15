@@ -60,9 +60,9 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Lime/Imported/DeadSpace/Structures/Windows/plastitanium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Windows/plastitanium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/DeadSpace/Structures/Windows/plastitanium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Structures/Windows/plastitanium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: IconSmooth
     key: walls

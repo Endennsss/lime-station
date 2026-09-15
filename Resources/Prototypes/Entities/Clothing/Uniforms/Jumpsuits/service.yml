@@ -14,9 +14,9 @@
   description: A decent jacket, for a decent monkey.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/punpun.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/punpun.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/punpun.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/punpun.rsi # Lime-Edit - графика Monolith
   - type: SuitSensor
     controlsLocked: false
     randomMode: false
@@ -29,9 +29,9 @@
   description: A special purple outfit to serve drinks.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/bartender_purple.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/bartender_purple.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/bartender_purple.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/bartender_purple.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -51,9 +51,9 @@
   description: Can't cook without this.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -62,9 +62,9 @@
   description: HONK!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
   - type: Tag
     tags:
     - ClownSuit
@@ -76,9 +76,9 @@
   name: banana clown suit
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/clown_banana.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/clown_banana.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/clown_banana.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/clown_banana.rsi # Lime-Edit - графика Monolith
   - type: Construction
     graph: BananaClownJumpsuit
     node: jumpsuit
@@ -94,18 +94,18 @@
   description: A jolly dress, well suited to entertain your master, nuncle.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformJumpsuitJester
   id: ClothingUniformJumpsuitJesterAlt
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/jester2.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/jester2.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/jester2.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/jester2.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase]
@@ -132,9 +132,9 @@
   description: ...
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -165,9 +165,9 @@
   description: I don't lose things. I place things in locations which later elude me.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -198,9 +198,9 @@
   description: Perfect for a jungle excursion.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -242,9 +242,9 @@
   description: A fancy tuxedo for the musically inclined.  Perfect for any lounge act!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/musician.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/musician.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/musician.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/musician.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformJumpsuitClown
@@ -254,9 +254,9 @@
   description: Cursed cluwne suit.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cluwne.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cluwne.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cluwne.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cluwne.rsi # Lime-Edit - графика Monolith
   - type: Unremoveable
 
 - type: entity
@@ -321,6 +321,6 @@
   description: Great for working outdoors.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/overalls.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/overalls.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/overalls.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/overalls.rsi # Lime-Edit - графика Monolith

@@ -301,7 +301,7 @@
   description: Regular black gloves that do not keep you from frying.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
     inhandVisuals:
       left:
@@ -309,7 +309,7 @@
       right:
       - state: inhand-right
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ToolRefinable
     refineResult:
     - id: ClothingHandsGlovesFingerless
@@ -326,9 +326,9 @@
   components:
   - type: FingerprintMask
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/yellow.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/Color/yellow.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/yellow.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/Color/yellow.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ToolRefinable
     refineResult:
     - id: ClothingHandsGlovesFingerlessInsulated

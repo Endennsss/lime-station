@@ -5,9 +5,9 @@
   description: Someone who wears this means business.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/detective.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/detective.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/detective.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/detective.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -16,9 +16,9 @@
   description: A hard-boiled private investigator's grey suit, complete with tie clip.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/detective_grey.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/detective_grey.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/detective_grey.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/detective_grey.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
@@ -35,13 +35,13 @@
         color: "#C12D30"
         sprite: Clothing/Uniforms/Jumpskirts/Color/color.rsi
       - state: overlay-inhand-left
-        sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos.rsi # Lime-Edit - графика Monolith
+        sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos.rsi # Lime-Edit - графика Monolith
       right:
       - state: inhand-right
         color: "#C12D30"
         sprite: Clothing/Uniforms/Jumpskirts/Color/color.rsi
       - state: overlay-inhand-right
-        sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hos.rsi # Lime-Edit - графика Monolith
+        sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hos.rsi # Lime-Edit - графика Monolith
   - type: Clothing
     sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos.rsi # Lime-Edit - графика Monolith
 
@@ -52,9 +52,9 @@
   description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos_alt.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hos_alt.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos_alt.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hos_alt.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
@@ -63,9 +63,9 @@
   description: A head of security's luxury-wear, for special occasions.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos_parade.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hos_parade.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos_parade.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hos_parade.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -74,9 +74,9 @@
   description: This uniform is issued to qualified personnel who have been trained. No one cares that the training took half a day.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/brigmedic.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/brigmedic.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/brigmedic.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/brigmedic.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -158,13 +158,13 @@
         color: "#C12D30"
         sprite: Clothing/Uniforms/Jumpskirts/Color/color.rsi
       - state: overlay-inhand-left
-        sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/warden.rsi # Lime-Edit - графика Monolith
+        sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/warden.rsi # Lime-Edit - графика Monolith
       right:
       - state: inhand-right
         color: "#C12D30"
         sprite: Clothing/Uniforms/Jumpskirts/Color/color.rsi
       - state: overlay-inhand-right
-        sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/warden.rsi # Lime-Edit - графика Monolith
+        sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/warden.rsi # Lime-Edit - графика Monolith
   - type: Clothing
     sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/warden.rsi # Lime-Edit - графика Monolith
 
@@ -175,9 +175,9 @@
   description: A dress for special occasions.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseSecurityContraband]
@@ -186,9 +186,9 @@
   description: A sign of skill and prestige within the security department.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/senior_officer.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/senior_officer.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/senior_officer.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/senior_officer.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseSecurityContraband]
@@ -197,6 +197,6 @@
   description: A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/security_grey.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/security_grey.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/security_grey.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/security_grey.rsi # Lime-Edit - графика Monolith

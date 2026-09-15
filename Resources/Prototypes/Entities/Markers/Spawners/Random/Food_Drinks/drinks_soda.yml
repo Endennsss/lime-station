@@ -8,7 +8,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      - sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: icon
   - type: EntityTableSpawner
     table: !type:NestedSelector

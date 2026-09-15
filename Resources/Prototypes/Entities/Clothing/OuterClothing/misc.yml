@@ -251,9 +251,9 @@
   description: 'Skub is crudely written on the outside of this cylindrical suit.'
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Misc/skubbody.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Misc/skubbody.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Misc/skubbody.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Misc/skubbody.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterBase
@@ -284,9 +284,9 @@
   description: Spooky!!!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Misc/ghostsheet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Misc/ghostsheet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Misc/ghostsheet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Misc/ghostsheet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: GhostSheet
     node: ghost_sheet

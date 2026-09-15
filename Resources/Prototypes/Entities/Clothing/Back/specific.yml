@@ -8,7 +8,7 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - type: ChameleonClothing
       slot: [back]
       default: ClothingBackpack

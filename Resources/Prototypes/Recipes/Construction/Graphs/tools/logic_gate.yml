@@ -38,7 +38,7 @@
       steps:
       - tag: Multitool
         icon:
-          sprite: _Lime/Imported/DeadSpace/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+          sprite: _Lime/Imported/Forge/NF/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: icon
         name: construction-graph-tag-multitool
       - material: Cable

@@ -165,7 +165,7 @@
     canMicrowaveIdsSafely: false
     explosionChance: 0.3
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Structures/Machines/microwave_syndie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Machines/microwave_syndie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     drawdepth: SmallObjects
     snapCardinals: true
   - type: Machine
@@ -175,7 +175,7 @@
     - RecipeBaguetteSword
     - RecipeThrowingCroissant
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Structures/Machines/microwave_syndie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Machines/microwave_syndie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Ginormous
     shape:
     - 0,0,5,4

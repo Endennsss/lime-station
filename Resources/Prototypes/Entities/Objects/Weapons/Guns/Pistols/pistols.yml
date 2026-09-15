@@ -148,14 +148,14 @@
   description: Integrally suppressed semi-automatic pistol used by the Syndicate, firing caseless subsonic rounds. Favored by any agent who likes to keep things quiet and leave no evidence behind. Feeds from .25 pistol magazines.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ChamberMagazineAmmoProvider
     boltClosed: null
   - type: Gun

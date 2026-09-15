@@ -7,7 +7,7 @@
   - type: Edible
     utensil: Spoon
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Tools/bucket.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/bucket.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
     size: Large
     shape:
@@ -16,7 +16,7 @@
     solution:
       maxVol: 360 # 3 litres
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Objects/Tools/bucket.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/bucket.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     slots:
     - HEAD
     quickEquip: false

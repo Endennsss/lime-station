@@ -81,7 +81,7 @@
   description: A sterile injector for rapid administration of drugs. Reverse-engineered from Nanotrasen designs, Cybersun produces these in limited quantities for Gorlex Marauders' corpsmen.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Medical/syndihypo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/syndihypo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: hypo
         map: ["enum.SolutionContainerLayers.Base"]
@@ -89,7 +89,7 @@
         map: ["enum.SolutionContainerLayers.Fill"]
         visible: false
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Medical/syndihypo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/syndihypo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: SolutionContainerVisuals
     maxFillLevels: 4
     fillBaseName: hypo_fill

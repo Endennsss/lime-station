@@ -4,17 +4,17 @@
   "policy": "Explicit permissive or CC-BY/CC-BY-SA/CC0 asset license; original bytes and attribution preserved. No foreign code imported.",
   "summary": {
     "commit": "0a07e9bfb0febd7a10965f28a41c55ac22279e8e",
-    "imported": 61,
-    "replacements": 61,
-    "replacedPaths": 651,
+    "imported": 228,
+    "replacements": 225,
+    "replacedPaths": 615,
     "airlockPaths": 0,
-    "prototypeFiles": 42,
+    "prototypeFiles": 118,
     "unchanged": 1717,
     "excluded": 424,
     "byCategory": {
       "clothing": {
-        "imported": 5,
-        "replacements": 5
+        "imported": 127,
+        "replacements": 127
       },
       "doors": {
         "imported": 4,
@@ -25,27 +25,35 @@
         "replacements": 3
       },
       "objects": {
-        "imported": 21,
-        "replacements": 21
+        "imported": 53,
+        "replacements": 53
+      },
+      "other": {
+        "imported": 2,
+        "replacements": 2
+      },
+      "power": {
+        "imported": 1,
+        "replacements": 0
       },
       "structures": {
-        "imported": 12,
-        "replacements": 12
+        "imported": 14,
+        "replacements": 14
       },
       "walls": {
         "imported": 13,
-        "replacements": 13
+        "replacements": 11
       },
       "windows": {
-        "imported": 3,
-        "replacements": 3
+        "imported": 11,
+        "replacements": 11
       }
     },
     "byLicense": {
-      "CC0-1.0": 1,
+      "CC0-1.0": 3,
       "CC-BY-3.0": 0,
       "CC-BY-4.0": 0,
-      "CC-BY-SA-3.0": 60,
+      "CC-BY-SA-3.0": 225,
       "CC-BY-SA-4.0": 0,
       "MIT": 0
     },
@@ -64,7 +72,9 @@
   "assetManifests": [
     "Manifests/assets_001.json",
     "Manifests/assets_002.json",
-    "Manifests/assets_003.json"
+    "Manifests/assets_003.json",
+    "Manifests/assets_004.json",
+    "Manifests/assets_005.json"
   ],
   "excluded": [
     {
@@ -2187,28 +2197,5 @@
       "category": "other",
       "reason": "missing-copyright"
     }
-  ],
-  "cleanup": {
-    "policy": "Unreferenced imported RSI removed from checkout; historical attribution and hashes retained.",
-    "retainedRsi": 45,
-    "removedRsi": 16,
-    "removedDestinations": [
-      "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Back/Backpacks/syndicate.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Neck/Cloaks/hos.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/nukenade.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/counterwood.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Walls/plastitanium.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Mono/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/basic.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/security.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/intercom.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/mining.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/solid_rust.rsi",
-      "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/xeno.rsi"
-    ]
-  }
+  ]
 }

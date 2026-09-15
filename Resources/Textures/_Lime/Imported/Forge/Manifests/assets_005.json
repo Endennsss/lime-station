@@ -1,0 +1,778 @@
+[
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/SMGs/c20r.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Objects/Weapons/Guns/SMGs/c20r.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Icon states made by _starch_ (discord). Inhands/onmob states taken from tgstation at https://github.com/tgstation/tgstation/pull/41804/commits/1baf679a544505960cebd071425f1df60669cdf3, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "2532e53bee96b6901d54d3b2dff6e6e195a9f9abef3763da929f3a2c6bae1ca9",
+      "bolt-open.png": "3db24bb28115adb73ad86647bb167c20b2cfad6208e91d9487568713b4ac6ac3",
+      "equipped-BACKPACK.png": "4171e1fbf5650f25408c120a00ddb7f1ee89ad7cdc7e8e57fbbed9fe223269e1",
+      "equipped-SUITSTORAGE.png": "4171e1fbf5650f25408c120a00ddb7f1ee89ad7cdc7e8e57fbbed9fe223269e1",
+      "icon.png": "7329d92eb3ab966588002ea1c6e90c8145e578f9e3662164da951415c6aacd14",
+      "inhand-left.png": "0414558b1eb3c103be8533919a764f43b68819f5e8eac74665e7131d14a46dee",
+      "inhand-right.png": "8db936af2350ec627e86c84ce0fb7043764c57d6cf16101602b29bc5a1478d17",
+      "mag-0.png": "7c2c58612089d7520849092f0f77e28429053eea5399913c0e3a0572128cd95c",
+      "mag-1.png": "945463a51638c11277d06ac6b6cb610cfcc278a2f33a30909b994465cdc69bb2",
+      "mag-2.png": "728cdf1dd644d94adca536d2c16b217ac66e75dc2cdf873513db0dfca5ccedd5",
+      "mag-3.png": "517d12be293a9a4cbb2441d88992f2320600eb1b66297a211b984cdfe2857a70",
+      "mag-4.png": "be6968878b75b465292205e3ac7026dbc44012b2f6876e0366338f42f691810f",
+      "mag-5.png": "21073539fd00be8d07f858517fdc5bb65c4fd48528d67f8b6fa405d7a4eff07c",
+      "meta.json": "cc9ca12a94d16631d5a2a3888489704ba4d1973fa27a33defe7fff630f1c2f42",
+      "suppressor.png": "c0af27b793fb24fcca4956f71a2b8305ec568770bdf0311a93a9377abc787ef8",
+      "wielded-inhand-left.png": "0742b70349f62ca89726462c3643846d3335f63da95efad3d0c2fcf464f96037",
+      "wielded-inhand-right.png": "4444b2b69639a85fbd85ac6729de63c7fea6164cc03e9755a9ce858764bbb9fd"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/SMGs/c20r.rsi",
+      "_Lime/Imported/DeadSpace/Objects/Weapons/Guns/SMGs/c20r.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Melee/e_shield.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Objects/Weapons/Melee/e_shield.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadel station 13 at https://github.com/Citadel-Station-13/Citadel-Station-13/commit/84223c65f5caf667a84f3c0f49bc2a41cdc6c4e3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "eshield-icon.png": "8640d632e789ec86efe2158eb9739320aa88b2e557abd2529a3d6e884cc2d13e",
+      "eshield-inhand-left.png": "6957f09d359b1a16db48f490d82cf2232d3913fcbd8d26c5d3fe96b4763b8923",
+      "eshield-inhand-right.png": "13010c11a8a641cd282e47ec53d2f3d6bb6e2840d53765bbbef17212ae51e816",
+      "eshield-on.png": "825849c1b06ad3f8864e1cd5b524e407f7f7e8d3a7bfc3178a45fbd9a5559a5a",
+      "inhand-left-shield.png": "8febd1f4979c0a57d5ef079c864ba9455e895b99a0a08e4d367ae0d49af52b1b",
+      "inhand-right-shield.png": "c3948b52094c00281af54a79850f30ec5e06229c47747dfafbe04e57953a989c",
+      "meta.json": "36a07972f04f6fea13b598056ff637e2917dcab257723d9291c3b0955fc7c075"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/e_shield.rsi",
+      "_Lime/Imported/Monolith/NF/Objects/Weapons/Melee/e_shield.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/mining.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken at https://github.com/ParadiseSS13/Paradise/commit/9312f1fb7dcdf1c195e255a528f31092613fb60d. Modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "614a5b43a469c68272fa0057c07a983f4cf48fd71576a63a51f1e6159505b451",
+      "bolted_open_unlit.png": "735b08380412ab27de99e6ef3705a969b025f2eb8f36fef27a66e52275a64d9f",
+      "bolted_unlit.png": "32d42ce987444e6da0bd0cec044a9f0eab8e279e948d6910917a4d5ce6820287",
+      "closed.png": "c96624a8164e67283e6e75b4a781254bc238f8c890003e68bb131403aca19108",
+      "closed_unlit.png": "cefe1a581b3b2c95e48c52602bb0b87e230aa21e8a36dfc8f86131501174a5e5",
+      "closing.png": "e26e3eb829f393874422892a38681fe4a17f84ad678036f3432f9fe996fe890a",
+      "closing_unlit.png": "bf668a4d94b1b9d71576b9c56f7381b1741af7fbc2b42e6e69e903ef03670de0",
+      "deny_unlit.png": "a701195f92e58e4c1f87bf002c93a33e241c436a79982fe567329e321d215630",
+      "emergency_open_unlit.png": "c7328b5a516060fabc441391493dd37cb8386b3f8524b8457beceecd916416ba",
+      "emergency_unlit.png": "975ac208b3fc7d37d7162bd77b3e12d2d38810ae8313f31b5b78963e393ba2e7",
+      "meta.json": "fbb8346f10f4e678698679fc2f4ca65bf8a23ab5bdbd8e48a5962c3520ea23a8",
+      "open.png": "33caf4a5746156c74e5230504abc59bcab83376cba81a3495240338244ffcec9",
+      "open_unlit.png": "0afcc9dc91fc21174fe985b8cb68661e17c02a1e9d524852280b90da1e29d938",
+      "opening.png": "d46b5821af90c370f592be2c594e9727630e113197f7ea3fc24043b3fcb7feaa",
+      "opening_unlit.png": "23c7b33f05c5efe82c1065c71ff50066d18866766fdc210dd856919d90a81dc8",
+      "panel_closed.png": "3b725ae97521a30eec9086476b0affafbaf4ec8e0a9bcea86747930065b8c535",
+      "panel_closing.png": "be6d2306d3f7df6dffb05c62f0ab29c4618f63508d7dd011e3c9a7d8875f0f73",
+      "panel_open.png": "0d3b24d7a566c151a68f01c2e4914f0e32ca21e0f76b881fd7a229ceef47eb12",
+      "panel_opening.png": "7f4ae3ce25f07191f781b67b9b8ae5f7ff489870a989978adeb5a0d6a6c4a10c",
+      "sparks.png": "64452653a7347b174a7dbdfef9301eb9939eff19ab1ca71dbd2bcf98765f6fe5",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "e1992251cdee7c8b679c457867aa09108c85c2ff714a4dab8993ead0a031e1bd"
+    },
+    "replaces": [
+      "_Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/hatch_maint.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/hatch_maint.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at commit https://github.com/ParadiseSS13/Paradise/commit/9312f1fb7dcdf1c195e255a528f31092613fb60d, Resprite by KREKS",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "ecb991a85921e01a5d52f9c86dfeb007b8c2bdb822b33493e63162f9f7e6463d",
+      "bolted_open_unlit.png": "39ae0008ea0617afcae21c1c4cd30cc61e2bce31ead7368fbfadacdf6165dbf8",
+      "bolted_unlit.png": "39ae0008ea0617afcae21c1c4cd30cc61e2bce31ead7368fbfadacdf6165dbf8",
+      "closed.png": "00eea2ed1b9cdb925c87a6f864bc87e787c2feac62e69faa22f7fc225cd68348",
+      "closed_unlit.png": "89e84932725e96fcb239b57ec2d844829020e0753363b9df97409688bfdb0fc0",
+      "closing.png": "5f6878c7246f4f686ced37a4ef894b47f60b73db6888bf93d47582fd5f728386",
+      "closing_unlit.png": "6762a1c2f3310ba70b4ac30ca8a6b78335698aed2b460a539245264a9df4ff90",
+      "deny_unlit.png": "5910e46531ec2c96fbee4f36c359007e7a39e21a60108d1078c4c07dd2a272a1",
+      "emergency_open_unlit.png": "fae7ade2929278b2bcf98b715115e33d7b93d7e52cc6b2eac753d802b06c6b89",
+      "emergency_unlit.png": "fae7ade2929278b2bcf98b715115e33d7b93d7e52cc6b2eac753d802b06c6b89",
+      "meta.json": "e924b459dea9117d68ae9fa9de5f03950ac30107b3bab55f0bb916e2942f11a9",
+      "open.png": "d938d649b8dc99d062fbdbc0873f9b9d51e1a3b39e7c1026cba23d7175e4f1f6",
+      "open_unlit.png": "89e84932725e96fcb239b57ec2d844829020e0753363b9df97409688bfdb0fc0",
+      "opening.png": "b336210b759969571a58e1f9939d02e245391cafd3784033cef3fd098db669ac",
+      "opening_unlit.png": "1f9bd46744aec0a0a9877ca3515dad901e3af0907b4423057b7fce1150bb23ea",
+      "panel_closed.png": "39b2abcfe5ea2c94881f9a51daa67c5a809e65fdb8b899e9425742d928cc8021",
+      "panel_closing.png": "a71285346f501b81d8d23a54f80152dfe83466f8b1023fc0cd67060ab0ad146b",
+      "panel_open.png": "6b12e893da59baa26c13b21107b928f49faa4fd2c269793cacc73c563747e511",
+      "panel_opening.png": "ac4aa1fd12aeb22a34e621362d00810e932cf8cd2431ca46b31f8044743a9db0",
+      "sparks.png": "cdeeab149e8af5a52ba96e82e499671f9c356c20e322f8e05ecbcd61888f2002",
+      "sparks_broken.png": "19f3ae9e30af84c8d215aa35b784e18e5ce4a8fbd26f97ff0bc9e9d52e5815a2",
+      "sparks_damaged.png": "35d0aec44427dbe1485f16208279d24a35f7aea50abe48f055ee21901427dfb0",
+      "sparks_open.png": "e38db335f7a9358e610915f80746f1ed4353c99b83063b090895f932e9558634",
+      "welded.png": "1d9659e61e7bdb069898077d39b51a5290b74cf2fd3ae28cc0049f30fe24518d"
+    },
+    "replaces": [
+      "_Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/hatch_maint.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/hatch.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/hatch.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station at commit https://github.com/ParadiseSS13/Paradise/commit/9312f1fb7dcdf1c195e255a528f31092613fb60d Resprite by KREKS",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "b7c9290247b1ecb0762d08db41e1af5beefd9813ce1a0ca4c4f2e1af4a3e6d13",
+      "bolted_open_unlit.png": "39ae0008ea0617afcae21c1c4cd30cc61e2bce31ead7368fbfadacdf6165dbf8",
+      "bolted_unlit.png": "39ae0008ea0617afcae21c1c4cd30cc61e2bce31ead7368fbfadacdf6165dbf8",
+      "closed.png": "457f1fc3e38674086151d5f384139c85bc74dd95fb804b3473f5d232594308c9",
+      "closed_unlit.png": "89e84932725e96fcb239b57ec2d844829020e0753363b9df97409688bfdb0fc0",
+      "closing.png": "8f019e675388ceec8019e97b41566a9b0baa9a7e3442cff07e09c1c03de3a0d9",
+      "closing_unlit.png": "6762a1c2f3310ba70b4ac30ca8a6b78335698aed2b460a539245264a9df4ff90",
+      "deny_unlit.png": "5910e46531ec2c96fbee4f36c359007e7a39e21a60108d1078c4c07dd2a272a1",
+      "emergency_open_unlit.png": "fae7ade2929278b2bcf98b715115e33d7b93d7e52cc6b2eac753d802b06c6b89",
+      "emergency_unlit.png": "fae7ade2929278b2bcf98b715115e33d7b93d7e52cc6b2eac753d802b06c6b89",
+      "meta.json": "45bfb718009126f64222e867c7f974800050c48c29d764e069e3b2f31bc31c05",
+      "open.png": "fa44a663984fb007da101087f692e49c8333ee70f7c9fe1caf0d38817c6ebbc6",
+      "open_unlit.png": "89e84932725e96fcb239b57ec2d844829020e0753363b9df97409688bfdb0fc0",
+      "opening.png": "e87d9c6925c110e8b4355680781aca3850687625a15374ab0db01849dbdd49b8",
+      "opening_unlit.png": "1f9bd46744aec0a0a9877ca3515dad901e3af0907b4423057b7fce1150bb23ea",
+      "panel_closed.png": "39b2abcfe5ea2c94881f9a51daa67c5a809e65fdb8b899e9425742d928cc8021",
+      "panel_closing.png": "a71285346f501b81d8d23a54f80152dfe83466f8b1023fc0cd67060ab0ad146b",
+      "panel_open.png": "6b12e893da59baa26c13b21107b928f49faa4fd2c269793cacc73c563747e511",
+      "panel_opening.png": "ac4aa1fd12aeb22a34e621362d00810e932cf8cd2431ca46b31f8044743a9db0",
+      "sparks.png": "cdeeab149e8af5a52ba96e82e499671f9c356c20e322f8e05ecbcd61888f2002",
+      "sparks_broken.png": "17a617b3ffd081248ee691bc29b1809fa91a17690c44f7b4dc08e79fa0cc479c",
+      "sparks_damaged.png": "35d0aec44427dbe1485f16208279d24a35f7aea50abe48f055ee21901427dfb0",
+      "sparks_open.png": "e38db335f7a9358e610915f80746f1ed4353c99b83063b090895f932e9558634",
+      "welded.png": "1d9659e61e7bdb069898077d39b51a5290b74cf2fd3ae28cc0049f30fe24518d"
+    },
+    "replaces": [
+      "_Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/hatch.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/mining.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken at https://github.com/ParadiseSS13/Paradise/commit/9312f1fb7dcdf1c195e255a528f31092613fb60d. Modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "f542dff59fd06256f803b6a49ad4780bf5a508f56a3da14bb588fe057a8c0f6d",
+      "bolted_open_unlit.png": "735b08380412ab27de99e6ef3705a969b025f2eb8f36fef27a66e52275a64d9f",
+      "bolted_unlit.png": "32d42ce987444e6da0bd0cec044a9f0eab8e279e948d6910917a4d5ce6820287",
+      "closed.png": "48616727ba7798e4aa9360f4948f8b4cf3d297ae5191af0603d09db20096bdad",
+      "closed_unlit.png": "cefe1a581b3b2c95e48c52602bb0b87e230aa21e8a36dfc8f86131501174a5e5",
+      "closing.png": "1b6903ea4827f5275a7904fa94c63982b6a6419f05484e24bfbab26dc0e4d133",
+      "closing_unlit.png": "bf668a4d94b1b9d71576b9c56f7381b1741af7fbc2b42e6e69e903ef03670de0",
+      "deny_unlit.png": "a701195f92e58e4c1f87bf002c93a33e241c436a79982fe567329e321d215630",
+      "emergency_open_unlit.png": "c7328b5a516060fabc441391493dd37cb8386b3f8524b8457beceecd916416ba",
+      "emergency_unlit.png": "975ac208b3fc7d37d7162bd77b3e12d2d38810ae8313f31b5b78963e393ba2e7",
+      "meta.json": "e6acd452483bbc5928b653a938cb3585caa1be3249f4dde2b16cc80c9cdd87ff",
+      "open.png": "33caf4a5746156c74e5230504abc59bcab83376cba81a3495240338244ffcec9",
+      "open_unlit.png": "0afcc9dc91fc21174fe985b8cb68661e17c02a1e9d524852280b90da1e29d938",
+      "opening.png": "6eeced52e8d0bd8566736f22985b9cf6ec6ba7fa09c9f91954a4e1b706369c95",
+      "opening_unlit.png": "23c7b33f05c5efe82c1065c71ff50066d18866766fdc210dd856919d90a81dc8",
+      "panel_closed.png": "3b725ae97521a30eec9086476b0affafbaf4ec8e0a9bcea86747930065b8c535",
+      "panel_closing.png": "be6d2306d3f7df6dffb05c62f0ab29c4618f63508d7dd011e3c9a7d8875f0f73",
+      "panel_open.png": "0d3b24d7a566c151a68f01c2e4914f0e32ca21e0f76b881fd7a229ceef47eb12",
+      "panel_opening.png": "7f4ae3ce25f07191f781b67b9b8ae5f7ff489870a989978adeb5a0d6a6c4a10c",
+      "sparks.png": "64452653a7347b174a7dbdfef9301eb9939eff19ab1ca71dbd2bcf98765f6fe5",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "e1992251cdee7c8b679c457867aa09108c85c2ff714a4dab8993ead0a031e1bd"
+    },
+    "replaces": [
+      "_Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Furniture/furniture.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Furniture/furniture.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d5cb4288ec5f7cb9fb5b6f6e798f4c64cd82cd09, Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/9d7ff729b6b89eee0b3d750327f9fbaff4aeb045, Taken from https://github.com/ParadiseSS13/Paradise. Rack taken from SS13 Shiptest.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "bed-MED.png": "f2a5d0fed4581d59a02f5765c8c074ff1003b378c698ddbbe1bdbe7b2748ec03",
+      "bed.png": "5b7f81b315dc54aceee12947086ffd92709dfa25babcf1c2d55bde32cc386104",
+      "dogbed.png": "62dc2c1614f0b37855b489665fc9f415d844dce6dd4c36b17a2252a5e280a873",
+      "dresser.png": "ead30d40498664517cd7f0543199ab6c91b3ef0b3d746d4abdb66eaad9ac23c4",
+      "mattress.png": "1eb1029277cb5920b1001de7ecd6bba231ac6fe3da672266d0b3a9184fd629e9",
+      "meta.json": "d1f2fc90093201a1b16d1678b2004ce3c0e9ddccca312900c506a696c66799bc",
+      "psychbed.png": "2f05f76dbfe4660cd41d040972b0554b8dd4953f3a4685df831a71a4612344d6",
+      "rack.png": "dc5d5026bd483026e373ed9c35129c84c9244fac39fa507a219b1a614078f81e"
+    },
+    "replaces": [
+      "Structures/Furniture/furniture.rsi",
+      "_Lime/Imported/DeadSpace/Structures/Furniture/furniture.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Machines/microwave_syndie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Machines/microwave_syndie.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at commit 9065b811726ae52be5d1889f436c01a24efbf47a, edited by github user @Flareguy for Space Station 14, modified by Vermidia, inhands by BoskiYourk (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "inhand-left.png": "d15b275d847780449e652281114be55df75d71f669b04e79e1c385f154909be6",
+      "inhand-right.png": "d15b275d847780449e652281114be55df75d71f669b04e79e1c385f154909be6",
+      "meta.json": "482d0751d7d396d98d4a64679f9cf1e2fd6e55a79200fde19afd3929849533f3",
+      "mw.png": "0427d600b0d35872ac99f18754b30d7eefb2dcb1f05f9453ab449565d8f52ca4",
+      "mw0.png": "7321b5417f80253a0c72b4e83880746cbd183cac6521af44b353acbcd04dc79c",
+      "mw_running_unlit.png": "3e9e77eafe43119f1ef5a11e2da0aaaacae5a3bb5b85af9842e087d4e9e12f04",
+      "mw_unlit.png": "202c9fdcf20c36cedb6e0a71ebc5cbf5441c8cb0d6e2342d94fc41ec15d34d56",
+      "mwb.png": "8bc83063840eabd60a422c7857290c12eca36cf5e66272a65b03d3eeca9e6069",
+      "mwbloody0.png": "44e322a3823b4409a05fb527731448cbbaf6d2bef25656148fcb86cc8cbf827d",
+      "mwbloody1.png": "4a0d7707ece3d696a51b10489c1d763d8ddaebb65bf6db5762f62a27b1354ebc",
+      "mwo.png": "c2dfa5db6909c3a6aa004727bfe170c19ce91d63b96f33860713bd68a769b330"
+    },
+    "replaces": [
+      "Structures/Machines/microwave_syndie.rsi",
+      "_Lime/Imported/DeadSpace/Structures/Machines/microwave_syndie.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/intercom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/intercom.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/6bfe3b2e4fcbcdac9159dc4f0327a82ddf05ba7bi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "18ff0521bf09ab37e3a4018d962729e03b626db8d54c24ceff94a6454e136827",
+      "broadcasting.png": "04ff351da4c9717f316126dd943beddeb0d9589c3f2bae14ab571fdf1619aaf6",
+      "build.png": "8c1040f76dedf27d52c4d35982deb9ea6c04ab403239c3711a6235e60562599b",
+      "meta.json": "7fa75fb85a7cd353ede42e6bdd6abbd7a50a6aea277b8942fb1920ef56f2acac",
+      "panel.png": "830837e55c7fba32eed44c1f78524944093473d0f36f23133c55eea7c8cb088d",
+      "speaker.png": "6e621dd1d0fbc22359c17cb0eb41d774c6106d236386e317d798c151957a03b9",
+      "unshaded.png": "338fd4264e484e0ba56f14c3302458a9f586ee29c52309aac61d80e0316f2f2d"
+    },
+    "replaces": [
+      "Structures/Wallmounts/intercom.rsi",
+      "_Lime/Imported/DeadSpace/Structures/Wallmounts/intercom.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/Lighting/emergency_light.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/emergency_light.rsi",
+    "category": "lights",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "juliang, modified by mirrorcult",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "669cf4a1a5cf8fe1faa0816478a2141810ed76a20f1e62a92a2b6175290e9170",
+      "emergency_light_off.png": "4d63a51ee31b87b8529d4c20bf3f687ad3955475a8d221e6880594943fa2efd5",
+      "emergency_light_on.png": "b6f74e122796fce5404ee3dd3d69355bf34779dc7aa9efcce60e69e6a5ea2527",
+      "meta.json": "72273ad901c6378f35741121e5c5e04849e456adfdbdb77338496f8e69bfc650"
+    },
+    "replaces": [
+      "Structures/Wallmounts/Lighting/emergency-light.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/Lighting/light_tube.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi",
+    "category": "lights",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from commit https://github.com/discordia-space/CEV-Eris/blob/2b969adc2dfd3e9621bf3597c5cbffeb3ac8c9f0/icons/obj/lighting.dmi and edited by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "991a9bc54c55e7d00872645d1101bbae6b917f2194b7915681132c22e19d585d",
+      "broken.png": "5e86599a869eca390dc3f406616297d6a580f35a044fdd44436df767bcdce930",
+      "burned.png": "27a15f28d1ebf5d7ddf99ae625dfc60aec1bb1735f400b6de9fca357da896333",
+      "empty.png": "82dd9bdff1575f4f83684f6dc2fddde78428ca660d253cf8cdf80876eeb7209e",
+      "glow.png": "3b3b2c697143b6eebe665c213cd3efd2be418dc9e4373b21d18815d837dc0ae6",
+      "meta.json": "e4e229b77fd45487170f23718cce864dba1da6ed6e820dae8116fbc37c656e3a"
+    },
+    "replaces": [
+      "Structures/Wallmounts/Lighting/light-tube.rsi",
+      "_Lime/Imported/DeadSpace/Structures/Wallmounts/Lighting/light_tube.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/Lighting/strobe_light.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/strobe_light.rsi",
+    "category": "lights",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "c29bae4c6e8fe384b1b9f258863542bc03215ce184f4b4699c7807dae02057ae",
+      "broken.png": "c463740b82d84f95ad4fb91c6673fdd8b7f67445d1a11f4cb6311cb6cebeab39",
+      "empty.png": "67d3ef679ee9ebc428141fe4322bdc91844c2aa5d76c18adb218357ea5baf2a0",
+      "glow.png": "9a17266f90199e46753bb24b5f34d625dfa918f343952b5bb9f09b2d40020ecd",
+      "meta.json": "362a8d25413155128cc499889b3ea99f474d14514471399c3e3640bab7d31ba5"
+    },
+    "replaces": [
+      "Structures/Wallmounts/Lighting/strobe_light.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Wallmounts/signalscreen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/signalscreen.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by brainfood1183 (Github) for Space Station 14 and modified by Flareguy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "e69b4e995b0af2e21be323826f158a181c27cbcaf4d552e187648eeaebf407a8",
+      "signalscreen.png": "c9b20a231bc2541e2331852fc9f3ecfd8c1f7587a4db5684d6e4832631f5da0b"
+    },
+    "replaces": [
+      "Structures/Wallmounts/signalscreen.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/brick.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/brick.rsi",
+    "category": "walls",
+    "license": "CC0-1.0",
+    "copyright": "By ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "brick0.png": "ede60cdfe9a9c2f1fbf5c67e20be4e6209862b3c31a9adb53dad28b5da302631",
+      "brick1.png": "c7355635ce433d104397ae88f79de7f858387977a382bc72c1bfa0c33f000419",
+      "brick2.png": "1f58d7381df683d197444e56dd72ff94a87e8f866f49887f157d91f3cbc76d6e",
+      "brick3.png": "f2978295babc81ac1a28ca3f654cf231aa9cd498a163ed423eff1af8de29c6ad",
+      "brick4.png": "58a631bf4e71f78bac8de47747ba1c08193f5365250ce8a1145c009a16a4652d",
+      "brick5.png": "88ba87105106cf5b7504eaab788e351964826acc0444367aada66e2c1d5229d7",
+      "brick6.png": "8891de8c3989956da518e96413efb44736bbf908547bccbc8ca73db460c92fca",
+      "brick7.png": "d33d462d8af74a74e89b3283f954af3cc75c86e75024176b06ab9a7782f509d3",
+      "full.png": "b2dc3a0f7ed56037b0322c7a7037364b43cb7850859db646c4585e485aaae810",
+      "meta.json": "4db0d616ad8f87d9c1a6d7ca7d83b035403a00a73d7def91124618381872ff41"
+    },
+    "replaces": [
+      "Structures/Walls/brick.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/gold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/gold.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "18272614e3dc23559c2c1bbafd9608038801d52df4d4cec606cb551049ebf44e",
+      "gold0.png": "e716686e45253fd361fa4c5e3a6b79a16b2fa4fd944ddaed4c606e83632fd77a",
+      "gold1.png": "16c87ec4bfed73cfdf1c7ca74a59b900b4e7538950fe3737f9660412c566ded4",
+      "gold2.png": "e716686e45253fd361fa4c5e3a6b79a16b2fa4fd944ddaed4c606e83632fd77a",
+      "gold3.png": "16c87ec4bfed73cfdf1c7ca74a59b900b4e7538950fe3737f9660412c566ded4",
+      "gold4.png": "713c588f9b9ba61e56cfc4421f77c36c84455bedea887249c4d71c58f336741d",
+      "gold5.png": "b1982ae6379c397c79677cda3248700ff9609a3bdda1f6e5fc094b337422db4f",
+      "gold6.png": "713c588f9b9ba61e56cfc4421f77c36c84455bedea887249c4d71c58f336741d",
+      "gold7.png": "b1982ae6379c397c79677cda3248700ff9609a3bdda1f6e5fc094b337422db4f",
+      "meta.json": "8ff749f7df0e27f4ab478f3d4721ab218ff8c1f12ce2fb904e8dbd34171ac556"
+    },
+    "replaces": [
+      "Structures/Walls/gold.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/mining.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/f743754ec3ef446c8172388431effa73aeddb7ff#diff-b429dd7fccbca60d740d4887c1077a178abf1efffe57e7ae2a0b607c8a9e2202. Modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "0eb1403732747c9f7dda2b5496be61eec351f09b74572117dea6e1c613f4bcfc",
+      "meta.json": "3d602f07c3aaf6eb87633b8f1349eb6e5c9d3632d3bd5dfa45e56ea7b8c60049",
+      "mining0.png": "e00529eb0e3ef05018d889166bae851a5c1a48d712b944f95cd6a89918315198",
+      "mining1.png": "e259e11ac1d16641c70860b575b857612409d765d67d67b817a7ac0c207b9ec0",
+      "mining2.png": "e00529eb0e3ef05018d889166bae851a5c1a48d712b944f95cd6a89918315198",
+      "mining3.png": "e259e11ac1d16641c70860b575b857612409d765d67d67b817a7ac0c207b9ec0",
+      "mining4.png": "781e41d128d0c33ad83874fd11debc6f1ecbaad6c567d09ca8afe28eb0b5dadf",
+      "mining5.png": "e495bc2cb2dd5f39ffcdc9cbc971de6c55a9609c681587d4c5beb104b8ccc89b",
+      "mining6.png": "781e41d128d0c33ad83874fd11debc6f1ecbaad6c567d09ca8afe28eb0b5dadf",
+      "mining7.png": "dfd581140b68fc3f9fe87676802f78b1b3d0d2b2d898ad3229819ef66380a1c4",
+      "miningB0.png": "6b3864afbfbc6dbae3c9fdf87fe95f9728be734b4090a93cfe30bcd1121ec638",
+      "miningB1.png": "c6ae9d586bef87bc720588869c17af0b0fd36fd15514ca8b3e7be68a4f071fd5",
+      "miningB2.png": "6b3864afbfbc6dbae3c9fdf87fe95f9728be734b4090a93cfe30bcd1121ec638",
+      "miningB3.png": "c6ae9d586bef87bc720588869c17af0b0fd36fd15514ca8b3e7be68a4f071fd5",
+      "miningB4.png": "c951a9c4010847a5775c366be6abb1e257fd005093a49de8abf7bd41235e72d8",
+      "miningB5.png": "464b07f1dc3340919b53b40244065aacdf9cc1194f68381316f8607804b6721c",
+      "miningB6.png": "c951a9c4010847a5775c366be6abb1e257fd005093a49de8abf7bd41235e72d8",
+      "miningB7.png": "5dcea5e179131adc5fd952c25feebe7f682f9193acd1b34e084fe34c71ff0763"
+    },
+    "replaces": [
+      "Structures/Walls/mining.rsi",
+      "_Lime/Imported/DeadSpace/Structures/Walls/mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/plasma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/plasma.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "e641f5628c43469d36fe772812156eb4a2de82e3bd99fcd2df104b4dbaeb9470",
+      "meta.json": "8f2e695d4f1459069d704c585d499ccc148451afcd1a8f64d17ad6a566080bc6",
+      "plasma0.png": "d130d914d59ba0714493693a6269713d5c315a3b694dea55a8bbe4641bdb4f08",
+      "plasma1.png": "63daa53836949fb22149bd1a8c559067eb04f62b75b33836355e311ead04401d",
+      "plasma2.png": "d130d914d59ba0714493693a6269713d5c315a3b694dea55a8bbe4641bdb4f08",
+      "plasma3.png": "63daa53836949fb22149bd1a8c559067eb04f62b75b33836355e311ead04401d",
+      "plasma4.png": "516eff1685747e099cb41a434c49ce33fb84856da15a17f42025b49f962aa745",
+      "plasma5.png": "7a1716e506bc8e6ef3bd1c3caa82b078b6bc34fddf5a6166da25cdae8c05ebe7",
+      "plasma6.png": "516eff1685747e099cb41a434c49ce33fb84856da15a17f42025b49f962aa745",
+      "plasma7.png": "7a1716e506bc8e6ef3bd1c3caa82b078b6bc34fddf5a6166da25cdae8c05ebe7"
+    },
+    "replaces": [
+      "Structures/Walls/plasma.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/shuttle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/shuttle.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/9ddb8cf084e292571d4e9c79745db25befbd82fe/icons/turf/walls/shuttle_wall.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "f004b405ca080d61dd8d0823c9e7a7173ba0b0364b421dae2996cb5aed4a7593",
+      "meta.json": "5a2c84f65bb2318e2163d018480d50b1c7708802e8a8ac8d1652e879e55bd37b",
+      "shuttle_construct-0.png": "bb6bc7c2cc2f707659dcd85dab5028d873009927837cee6312638db0c2eac306",
+      "shuttle_construct-1.png": "c224f1d878d89d586c7fc6206ce3e35517f635029a999b2f3018b4e1770ee6ee",
+      "shuttle_construct-2.png": "38e87175c5621ed355ecc27778775f6e1ad6506cb68f45d2bdc873ed4fbbd13f",
+      "shuttle_construct-3.png": "050b99eef2bc6eb4175d571817720924936313f47b6c549eb03ac38dc1259fdb",
+      "shuttle_construct-4.png": "f5a9812d2ac7e68dca9c468c6202df3989a82514b3799af496299ec6f66cda72",
+      "shuttle_construct-5.png": "e109351425167a811735b4cc5e9ab31be8aa9d69f8a78e71ad34ab8df88e6abf",
+      "state0.png": "9b93586d2d5aa3f0b4d0e5acc9f6beeb0fe3d807b6d883e4c5c940ebcb6be6e2",
+      "state1.png": "490ce2fae6d1ef054a839670aaf42d86ad0e96b514342f291feca0feb943b048",
+      "state2.png": "9b93586d2d5aa3f0b4d0e5acc9f6beeb0fe3d807b6d883e4c5c940ebcb6be6e2",
+      "state3.png": "573309828eae16ff607960f035d35abac94fb6edbf3fab2d8ba7ca704a81e6e5",
+      "state4.png": "e894feb352ced98fa80c4e09f37bd9e2dc8815802bd2ada8eaded8cffced25b3",
+      "state5.png": "375ec11adbf23718a2667c63c9e4da5689b90040cb3283dcd2d20afbe198c95b",
+      "state6.png": "68f971765bfaa300785446ce49dab3a78578a5a185196944d0f9f509288cf07c",
+      "state7.png": "f41abe10d1e7c4ecb8d273c63b02520fb049b770be0be7ece767764e174661cf"
+    },
+    "replaces": [
+      "Structures/Walls/shuttle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/silver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/silver.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "c440fd405cdbae8e1ea8c12c2ae1a79d66077c319fd7a129dba4bbb4e6737846",
+      "meta.json": "737b60b3544fe1565ad94ab6b3931e4c325d341b27c655e78e5d48fdadee75a9",
+      "silver0.png": "f47109a4f9708fd132ca75d38b39899e57ce32be1702f22a1cff13580eadb8ce",
+      "silver1.png": "77d6af84833ba54c2a2683508d8af8bbc4e4f732f7a374db4127f88f548083fe",
+      "silver2.png": "f47109a4f9708fd132ca75d38b39899e57ce32be1702f22a1cff13580eadb8ce",
+      "silver3.png": "77d6af84833ba54c2a2683508d8af8bbc4e4f732f7a374db4127f88f548083fe",
+      "silver4.png": "7f7acf4204a747ffc9e9522e342be112be2d137689b6dd1e5baaf574db92e2c3",
+      "silver5.png": "eb7adbf0d89539e985b3c805bd11ec716a34651b9f0d011529bf07877fdee3a6",
+      "silver6.png": "7f7acf4204a747ffc9e9522e342be112be2d137689b6dd1e5baaf574db92e2c3",
+      "silver7.png": "eb7adbf0d89539e985b3c805bd11ec716a34651b9f0d011529bf07877fdee3a6"
+    },
+    "replaces": [
+      "Structures/Walls/silver.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/solid_rust.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/solid_rust.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/67a5373b4649937dd63dd94153e05e8506f40a5d and modified.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "67b8e63492c70737f7e84d3826fa8a3b7b5da1540b8d849771035246d482082d",
+      "meta.json": "97d5a846faa6c1cc600a0b01a4006be63915c47fe91176ad8f62355994430819",
+      "reinf_construct-0.png": "8aee9450728f08c563c9226f10c3cf5ad153e64c8c9a8eceaa84ca85437afc9a",
+      "reinf_construct-1.png": "afcfa4493b51e54562c3a08b76f8e3e3f6da11708f7f7895ff0a2bbbf73d2499",
+      "reinf_construct-2.png": "bc630ee078b1491e4d157c3134dfecb9f79ac7483cd29d3bdae69a214d022985",
+      "reinf_construct-3.png": "828103c8bd6e28ad91d429e8cf76f76ff204e3cfc6338f260526eb59fd65cd0a",
+      "reinf_construct-4.png": "5d1f363692deb8e1ed6c722e7b37f15e883fbbfcdcc3e6fa598727980ebd8f7f",
+      "reinf_construct-5.png": "30a831b33af860685b5913c2ec1983876c3eb3e80310e66c4d57dc2c3d3c7263",
+      "reinf_over0.png": "b683390982c490de1422d3c86262777f304e3b74c6d8c93c0a3ab3b47c48117e",
+      "reinf_over1.png": "f3276525756f2a67589cdd34caa6ffa7c4a6c062bc1d3a9600a40b79547b674d",
+      "reinf_over2.png": "b683390982c490de1422d3c86262777f304e3b74c6d8c93c0a3ab3b47c48117e",
+      "reinf_over3.png": "f3276525756f2a67589cdd34caa6ffa7c4a6c062bc1d3a9600a40b79547b674d",
+      "reinf_over4.png": "08166c3d042428d08944a44fa087b15c9a605b659480e4bae8c80f764c28b0b0",
+      "reinf_over5.png": "4be8eb619fac0c86ffff71137d9b4b26890266d6bea72aff15f7da29dcfc05ad",
+      "reinf_over6.png": "08166c3d042428d08944a44fa087b15c9a605b659480e4bae8c80f764c28b0b0",
+      "reinf_over7.png": "19c9a141f88ecced35f0a59376312970f76fa15297029b5c2684fb9eed8cec8b",
+      "rgeneric.png": "4352cd480e6f52a5fd1105633fcc8037db9eae3d3a5dfc8dce2c1fbfc84727ca",
+      "solid0.png": "58c1079d960f35b89a9c6961b8713d8d200c0715d3acb3010071ab2f002a3c1c",
+      "solid1.png": "b0c751f3eb5477c39e93dc9ad24a1f7fc3c9e9928a4e90a832148be3e05c9416",
+      "solid2.png": "58c1079d960f35b89a9c6961b8713d8d200c0715d3acb3010071ab2f002a3c1c",
+      "solid3.png": "0fc89bb0b7ec4fadd7bf0d81210745351a12015e23e14cfc5da8d78a32885ae8",
+      "solid4.png": "a51175a2b9f5a62a2bd4fcefaedf5c1d91f114070c1d52ec06e9809cc595a7a1",
+      "solid5.png": "602496967c1fb5a1b7cbd8d8d55f3c8190b598f461b72b09fdfcaeb99403dc10",
+      "solid6.png": "ca4123f1f0a6b5be18f20046be9740389aea7539322dc7159545276d62886bea",
+      "solid7.png": "b1d6962820d07fdcc6ad626759110a1fe1ba65a5fbfdf51cb022fc83684b20d5"
+    },
+    "replaces": [
+      "Structures/Walls/solid-rust.rsi",
+      "_Lime/Imported/DeadSpace/Structures/Walls/solid_rust.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/uranium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/uranium.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "5d216225ccc51f8ff421a7d79065a57e9c15cc836fb64315fe67b10d37ec78aa",
+      "meta.json": "cf98d531b36b9f3edb69763d3f80a6c387cd33098db5936fe715836a0b9f1271",
+      "uranium0.png": "9d53df6df0a4d6913635acb500ccfc5b7dd96e350e6439827b52d3ba1c6c5f5f",
+      "uranium1.png": "07eb1c1cbe259a99ac77fceb7e56aeb4c01c8bd5358cfef54048067aeb5e27e5",
+      "uranium2.png": "9d53df6df0a4d6913635acb500ccfc5b7dd96e350e6439827b52d3ba1c6c5f5f",
+      "uranium3.png": "07eb1c1cbe259a99ac77fceb7e56aeb4c01c8bd5358cfef54048067aeb5e27e5",
+      "uranium4.png": "3525fd6fc508b541af7b604074cde70ef844ce649e057d73442d0c3789702ea5",
+      "uranium5.png": "20dc3c8814bc275c268d7493b346901eaf59f0530e0dfa225fc6ab3321c0f881",
+      "uranium6.png": "3525fd6fc508b541af7b604074cde70ef844ce649e057d73442d0c3789702ea5",
+      "uranium7.png": "20dc3c8814bc275c268d7493b346901eaf59f0530e0dfa225fc6ab3321c0f881"
+    },
+    "replaces": [
+      "Structures/Walls/uranium.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/wood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/wood.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "a5b3c15241f66e8abc122ccdc85100b43c5c45de141933c0a115e4dfaf21e37b",
+      "meta.json": "1fcd35bb46bb51a46913cac9aeb1540c673c19c1299c317458ad088d5905a0b2",
+      "wood0.png": "662ef10c41a4f693444bdcf019ead6f9dec8e4f7a737966aeec6fb3dc1ca1b68",
+      "wood1.png": "87cfaae61691aa0501442dd18d44fa5fb506ed85d38498a82cbfecb12da7f557",
+      "wood2.png": "662ef10c41a4f693444bdcf019ead6f9dec8e4f7a737966aeec6fb3dc1ca1b68",
+      "wood3.png": "87cfaae61691aa0501442dd18d44fa5fb506ed85d38498a82cbfecb12da7f557",
+      "wood4.png": "311773466c637674a99d215ff897280d2d92d1d281f5c9bf7af9595acf1490b3",
+      "wood5.png": "d1f90a23f1f6613d5ad4076f2032a58f4b7239cd66e933704b3f508f20e34ab0",
+      "wood6.png": "311773466c637674a99d215ff897280d2d92d1d281f5c9bf7af9595acf1490b3",
+      "wood7.png": "d1f90a23f1f6613d5ad4076f2032a58f4b7239cd66e933704b3f508f20e34ab0"
+    },
+    "replaces": [
+      "Structures/Walls/wood.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/xeno.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/xeno.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/discordia-space/CEV-Eris/blob/c34c1b30abf18aa552e19294523924c39e5ea127/icons/turf/wall_masks.dmi and modified by SlamBamActionman at https://github.com/space-wizards/space-station-14/pull/33144",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "b95d9221e3dd201928ac5a8283dcf11fe10c526599871fc2a47b2ff67e3ba240",
+      "meta.json": "d7be146e735a325c2eb06cdb1acf7cff6937f0c566a6f17c5ce6725ef9d920eb",
+      "reinf_construct-0.png": "e03e554038e77270a5dab825e5af252475d5564f9b859d1f8da93242fbdcac0d",
+      "reinf_construct-1.png": "23ee3c7df9639ba7581a63d847a3936288a8a28af3613af40ae1966edaed6a64",
+      "reinf_construct-2.png": "986c6067e2da10bd24a061db6794f2ee41711930df8be61994288bed203a000e",
+      "reinf_construct-3.png": "97da5011e9b71af1fbab7b3c4bdc8303ba26a9d566d973fd341a3b64b367b05e",
+      "reinf_construct-4.png": "3415b6c6df3a411c4fbbcb8628e9c19b5cb26f1d3be8352c016828404724128e",
+      "reinf_construct-5.png": "125c9fe9a08522daf19983e19a8a62cc742bd57fdce1b2a28a0802805d64b507",
+      "reinf_over0.png": "4671c6eed4087bf76c1caac5d82ee283b1baff7549120c5f569ce2f87d119429",
+      "reinf_over1.png": "2175195b0e3df3c6d111f09d415a4854910e3a99af6384341042a8a9719a9ff5",
+      "reinf_over2.png": "9599156fe00483d2e3ab2f606e57481ae83fe8810be63164ac0b8bb96ed2261f",
+      "reinf_over3.png": "faa38b4bbe45fe9fee9540e3e3fbd5c43aa55cc3dfb9fbc674249c834cb0a99e",
+      "reinf_over4.png": "1f7d95c02b34416ecc6fd1cd7efa61d893cc045538086254b7d1c193886249f8",
+      "reinf_over5.png": "12d0f5150d871b63e579db8fe060681bbc3fca8d66eb2af4af7de77370b227b1",
+      "reinf_over6.png": "10d3249286392ede529a9613203b013a42f26f986b18361453607117557fc37b",
+      "reinf_over7.png": "674ccfd27493ac9e3796b58bbd13da6d7de6f847b71452a9fba924856a5e8260",
+      "reinforced_wall_girder.png": "d07455394590cd9cea387db83f95d164cd3422a44ee2994c385e0c388ccf839a",
+      "rgeneric.png": "547322c3c5517c76f9841d4126fc570c341fe836d0cfb5425a276415b1a66984",
+      "solid0.png": "7798d52443df429fd86e8c84387467856e6040794e696cb6cb55ae8a27bab1de",
+      "solid1.png": "8f9595c2ffa8d99b253e358c88a5da07d5929917556264e0ebbf6f71591bf5e4",
+      "solid2.png": "7798d52443df429fd86e8c84387467856e6040794e696cb6cb55ae8a27bab1de",
+      "solid3.png": "0ed27aa6c5ca83e7969532dbb9d1eb0192660818b0a331be1af9422391dece77",
+      "solid4.png": "256a0bd911f59fd9d3604f570be9603686c4101b691870bdd02b99cbfdff4dae",
+      "solid5.png": "aa9f9aca812752005a3fb79ce0818f076859cf7b282e9f38e9e63f726cb811ee",
+      "solid6.png": "256a0bd911f59fd9d3604f570be9603686c4101b691870bdd02b99cbfdff4dae",
+      "solid7.png": "1fd098c5ecfa4697042e8013629aa72ece2fcfbe72cb21c0fbc0495048d5bc8f",
+      "wall_girder.png": "73293afc237dcbca81d504e3687e169439370c88f6d702010406dcf5491b920c"
+    },
+    "replaces": [
+      "_Lime/Imported/DeadSpace/Structures/Walls/xeno.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/xenoborg_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/xenoborg_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Samuka-C (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e1558eb21f2a0274c3f4bb24cf8cefe960b5507ca9095fbe8eb52629d8426d4c",
+      "state0.png": "ca186e7a2fcb9d82792d8fb320e8434438fb834d421c88be676ca10d871560b1",
+      "state1.png": "fe7ec49df2e00e3449e519a14928daa4c85d74c1a4415e7fafff457af9c96cdf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/xenoborg.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Samuka-C (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "61eda74de47ec2c2305940160d94144f91e09490a99e5ec293851a6b91f2f73a",
+      "meta.json": "c68c85bff4be1a752847aedb47159e5c991f7fac00ee1ed5c07f0cf046ac571d",
+      "xenoborg0.png": "3cf08d4b57af512dadea15638eb9d3ff41f3f5089b9d6aab3eb86d6a5d32db08",
+      "xenoborg1.png": "bcdd05ef95e904e1edd3c2a68256b093648a861ddd5c17ec7d996fe8a15b495a",
+      "xenoborg2.png": "3cf08d4b57af512dadea15638eb9d3ff41f3f5089b9d6aab3eb86d6a5d32db08",
+      "xenoborg3.png": "bcdd05ef95e904e1edd3c2a68256b093648a861ddd5c17ec7d996fe8a15b495a",
+      "xenoborg4.png": "5bbecce4cb7a6144f7f2bcde3a3896a8424709a04e4a628358d659e9b2257e31",
+      "xenoborg5.png": "fd30742132b4f18cec24b1bbb77f54313595c7ab73d43e14c05edd973d984ef1",
+      "xenoborg6.png": "5bbecce4cb7a6144f7f2bcde3a3896a8424709a04e4a628358d659e9b2257e31",
+      "xenoborg7.png": "00bbd7269ab2514b962cfa1e27ccfddb618406aa9dabea598a0c00022c336c28"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/shuttle_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Windows/shuttle_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0b906c6916ce3803473fa6caa65f5b8661118c46, transparency tweaked by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "af17f44f4122c5bd8a8d7e5bb8a0cee09264de36f4cdeaaa36d9beea139b0c05",
+      "meta.json": "52af8d50909bb9f72dcdabf08d1c8150d8981eb2a8a16cd144513accd9f4aaac",
+      "swindow0.png": "0110b07912e56cf5eb76ad4343c87dfa29b470b7040b07de0888b6bcd9e1dddd",
+      "swindow1.png": "d7f45f621c638b79bed35c23ff985e345619c7fccdb5756cf7c2ad14289e9dd5",
+      "swindow2.png": "0110b07912e56cf5eb76ad4343c87dfa29b470b7040b07de0888b6bcd9e1dddd",
+      "swindow3.png": "d7f45f621c638b79bed35c23ff985e345619c7fccdb5756cf7c2ad14289e9dd5",
+      "swindow4.png": "86658544ebbd0a55769d1557aedf878995d2a53b665d16068e3d9412c4ecf678",
+      "swindow5.png": "904799b7f34109e2a769926e2e9ba93577d69754c87e4f70fd95d979b41b8999",
+      "swindow6.png": "86658544ebbd0a55769d1557aedf878995d2a53b665d16068e3d9412c4ecf678",
+      "swindow7.png": "c90ac08ea8fe1e0eaa3aaff66d9d5983b74cd598ec6295f90623f43f607c79e5"
+    },
+    "replaces": [
+      "Structures/Windows/window-shuttle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/xeno_resin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Windows/xeno_resin.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by obscenelytinyshark.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "651d66046c529fcebf0a0197a98ae9221fe3382a72b466072ce04656f1151e67",
+      "meta.json": "214e9ae1b8af0280b74362358fbfa986d363ab54ae194e23d3096c60bccfa520",
+      "xwindow0.png": "d232dad4eaf87725f338cffbb0292302efa3b8bfc2c99008ebcd7ad0e18c2c9f",
+      "xwindow1.png": "bb9247c8390f7d343798c97d2a690733ae142aa36858da93a3f2762c0ec300f4",
+      "xwindow2.png": "1ae6f4873d1787990fc89cf19f14d2fc9a096ee629e3035dc730d68dd44a4b65",
+      "xwindow3.png": "3addc690b572e407d6b1077d0a27883f744293a42c5b58a994d777ad6daa4aec",
+      "xwindow4.png": "96c9c2e598f2b5f34aba19c4b807a21be4e61924e998db40af454054974a70d1",
+      "xwindow5.png": "cea4e85b7d046a3366abfc592a8269bed6cef8519e5e2554fdb225ccd0c6c52e",
+      "xwindow6.png": "0d5901a7d205ce8a2b002a8f3a085bc9766e7a4c33865c7401b90270acf6d2ae",
+      "xwindow7.png": "307f76a317d76295bcc6cb97ad9f5fd5a4152a1355a1848665906a51b55c067f"
+    },
+    "replaces": [
+      "Structures/Windows/exo-resin.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Forge/Structures/Windows/xenoborg.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Samuka-C (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "b5c9b63003cfcafe99107c4585c6721bcc8aa5882a06e697f44a1bf25a92f79e",
+      "meta.json": "3452c16aa48093c32bdc936a7b8deff7727ede3cfb1577b4e12669770fe75507",
+      "xenoborg0.png": "b1a2268946b877891979bc97fc2573e4ac3cf412e1d9f87d7318dafc4c81ffbb",
+      "xenoborg1.png": "6b9ac5becb9ccef49b521b2b64f3301480dfab5c9abab7ae48aa5f8101cf29ab",
+      "xenoborg2.png": "b1a2268946b877891979bc97fc2573e4ac3cf412e1d9f87d7318dafc4c81ffbb",
+      "xenoborg3.png": "6b9ac5becb9ccef49b521b2b64f3301480dfab5c9abab7ae48aa5f8101cf29ab",
+      "xenoborg4.png": "8a745a3600b5996b4e8e9c1492e31e388ec5d1f2260126bff789a2b2f70cefc7",
+      "xenoborg5.png": "602a5f4c243348854346293610823921e488f7a6a7c337ad05714c5e6da8d872",
+      "xenoborg6.png": "8a745a3600b5996b4e8e9c1492e31e388ec5d1f2260126bff789a2b2f70cefc7",
+      "xenoborg7.png": "52442d08c3cc30254c4834f2ea014546a37b96db7ca63a6a7bca73948f865f19"
+    },
+    "replaces": [
+      "Structures/Windows/exo-resin-borg.rsi"
+    ]
+  }
+]

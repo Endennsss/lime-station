@@ -11,7 +11,7 @@
     tags:
     - Wirecutter
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/wirecutters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/wirecutters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: cutters
       map: [ "enum.DamageStateVisualLayers.Base" ]
@@ -35,7 +35,7 @@
       - enum.DamageStateVisualLayers.Base:
           cutters: Rainbow
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/wirecutters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/wirecutters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     storedRotation: -90
   - type: ToolTileCompatible
   - type: PhysicalComposition
@@ -58,13 +58,13 @@
     tags:
     - Screwdriver
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/screwdriver.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/screwdriver.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: screwdriver
         map: [ "enum.DamageStateVisualLayers.Base" ]
       - state: screwdriver-screwybits
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/screwdriver.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/screwdriver.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     storedRotation: -90
   - type: MeleeWeapon
     wideAnimationRotation: -90
@@ -141,7 +141,7 @@
     sound:
       path: /Audio/Items/multitool_drop.ogg
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
     - state: green-unlit
@@ -149,7 +149,7 @@
   - type: Item
     size: Small
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Belt
@@ -248,10 +248,10 @@
     tags:
     - Powerdrill
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: drill_screw
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Small
   - type: Tool
     qualities:
@@ -266,7 +266,7 @@
     entries:
       - behavior: [ Screwing ]
         sprite:
-          sprite: _Lime/Imported/DeadSpace/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+          sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
           state: drill_screw
         useSound: !type:SoundPathSpecifier
           path: /Audio/Items/drill_use.ogg
@@ -278,7 +278,7 @@
             volume: -5
       - behavior: [ Anchoring ]
         sprite:
-          sprite: _Lime/Imported/DeadSpace/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+          sprite: _Lime/Imported/Goob/Objects/Tools/drill.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
           state: drill_bolt
         useSound: !type:SoundPathSpecifier
           path: /Audio/Items/drill_use.ogg
@@ -479,7 +479,7 @@
   description: A large tool for digging and moving dirt.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: 45
@@ -490,7 +490,7 @@
       collection: MetalThud
   - type: Item
     size: Normal
-    sprite: _Lime/Imported/Monolith/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PhysicalComposition
     materialComposition:
       Steel: 100
@@ -506,14 +506,14 @@
   description: A tool used to shape and flatten dough.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Small
     storedRotation: -45
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Belt

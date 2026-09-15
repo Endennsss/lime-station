@@ -295,7 +295,7 @@
   suffix: Mining
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/mining.rsi # Lime-Edit - основа шлюза Monolith
+    sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/mining.rsi # Lime-Edit - основа шлюза Monolith
     state: "assembly"
 
 - type: entity
@@ -304,7 +304,7 @@
   suffix: Mining, Glass
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/mining.rsi # Lime-Edit - основа шлюза Monolith
+    sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/mining.rsi # Lime-Edit - основа шлюза Monolith
     state: "assembly"
 
 #Syndicate

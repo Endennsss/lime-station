@@ -187,7 +187,7 @@
   components:
   - type: Action
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.ActionVisuals.Icon"]

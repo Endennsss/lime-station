@@ -12,7 +12,7 @@
   description: Mmm, Donuts.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donut.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donut.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: box
     layers:
     - state: box
@@ -45,7 +45,7 @@
       tags:
       - Donut
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donut.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donut.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Normal
     shape:
     - 0,0,2,1
@@ -349,7 +349,7 @@
   description: 'Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.'
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donkpocket.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donkpocket.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: box
   - type: Storage
     grid:
@@ -358,7 +358,7 @@
       tags:
       - DonkPocket
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donkpocket.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donkpocket.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Normal
     shape:
     - 0,0,2,1

@@ -11,15 +11,15 @@
       state: full
     - sprite: Clothing/Shoes/Boots/combatboots.rsi
       state: equipped-FEET
-    - sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/operative.rsi # Lime-Edit - графика Monolith
+    - sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/operative.rsi # Lime-Edit - графика Monolith
       state: equipped-INNERCLOTHING
     - sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Armor/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: equipped-OUTERCLOTHING
-    - sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    - sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: equipped-HAND
     - sprite: _Lime/Imported/Goob/Clothing/Mask/gas.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
       state: equipped-MASK
-    - sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    - sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: equipped-HELMET
   - type: ConditionalSpawner
     prototypes:

@@ -1,979 +1,1089 @@
 [
   {
-    "source": "Resources/Textures/_Battlefield14/Clothing/OuterClothing/Armor/ru6b2vest.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/Battlefield14/Clothing/OuterClothing/Armor/ru6b2vest.rsi",
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5. Abductor sprites taken from paradise at https://github.com/ParadiseSS13/Paradise/commit/b55bef2ed28b8bde30883fb14311b221ab0dc977",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "abductor-inhand-left.png": "24ec4e54f4e0a9edc3417bcb8dbf8ee12b4d230ba012a57b4c44cad82c93cc98",
+      "abductor-inhand-right.png": "1ab08a10f506cce387a8217104c6276f37bee92f72398ef2b5993e3c20dc4a97",
+      "abductor.png": "12b6ec6b610e42a8425e2ce611cb8ca77bd9a5aa98dee6f88f10f4ba2fd8aaf3",
+      "cautery.png": "278b9f38dbbb0e150f344463957d026e142a61cced5ca58465f67079a6b74d91",
+      "inhand-left.png": "4cab16cbbb33ae88fa7f476129047dc6dbd7cda026d9023b9e80b06fd4e50de3",
+      "inhand-right.png": "ba92faffced255ab04bd5452915266c2c15ed9073634f836971000d63d292c04",
+      "meta.json": "6358388e957c141ccf5873cbc5c6e00cdfa63cf144121348e63629f9386fc696"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/backpack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi",
     "category": "clothing",
     "license": "CC-BY-SA-3.0",
-    "copyright": "made by WillyBillyGilly",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
     "originalSource": null,
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
+    "replacement": true,
     "sha256": {
-      "equipped-OUTERCLOTHING.png": "31e9c37005b96d4f2caf075c4f467e7c7a335ab208e9bb2b5e533fbca9477be6",
-      "icon.png": "2eebbabe5c992f78aa467dc356f5010ab98cb4de3043030a5fe2cc61d08925a8",
-      "inhand-left.png": "e9110c542ec6e36889ba2623978ab1a2f210b7fc8e81a9142f15decbbc876596",
-      "inhand-right.png": "2c32842e89e4c87fcb5de357384a36a486d655bec19cdef9ce03bedbf6e98833",
-      "meta.json": "97dd65430d224df0827b7079f463f383f49b0a1e146f1c7f035e00025d6f3383"
+      "equipped-BACKPACK.png": "5a18c8f577028fe999a428d06a121d374493b1bf60d23ab889c4877ac61c356f",
+      "icon.png": "254b57e3247e580110c3895907949481cb7cc0ba4e1ec5c247f4b0e75423d461",
+      "inhand-left.png": "d1dca625486e1d36808d4140839a52f691c95073b86b7f8ee77e236a04ddafa5",
+      "inhand-right.png": "26f88dab909ff76d050182bad7815b8d272d1886f089b0cf6eb3cc2e65fc9222",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
     },
-    "replaces": []
+    "replaces": [
+      "Clothing/Back/Backpacks/backpack.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/backpack.rsi"
+    ]
   },
   {
-    "source": "Resources/Textures/_Corvax/Objects/Tiles/wood.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/Corvax/Objects/Tiles/wood.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24, additional copyrights see tiles folder, objects resprited by Meowstushka & Dezzzix.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "meta.json": "6068059bea9ab6cdf40753b7fdb1531d091c466d9ded873304a595ad3c566a28",
-      "wood-black-inhand-left.png": "81e8cb1b692db2260a617d643f79ef64d25be2610971bba98298b167fe814925",
-      "wood-black-inhand-right.png": "2bc0dd04496df3aa40d98c821c8ef5a54063ee6a5c69e25f690cfcad062bef57",
-      "wood-dark-inhand-left.png": "93ccea1a1ad98f93cd5511c6e40d478b1988a647ddeb614e299cbc425440630b",
-      "wood-dark-inhand-right.png": "fc3ef817b02ce2e97d12ac9860b491add00003ca71c3426b6c074843246f890a",
-      "wood-light-inhand-left.png": "aa79a49f10ad3db86f6ad193901bdeda18667905b0828615c2cecde954e59a73",
-      "wood-light-inhand-right.png": "85d955ebd41e39b6b6710221d7bb4e347f113b31fbf5b111555ee9c03c8ae4ff",
-      "wood-red-inhand-left.png": "8f7e1faa435ddde57c3ff810b8ad94cca998df5cf471c09bb1212ba798e12e4d",
-      "wood-red-inhand-right.png": "6113fb0ec83caefbc86a2748388c93a3b4aaf0de078d6a0a225ef96d211dc3db",
-      "wood_black.png": "67441dd4dbfc68ee06245e339163eec755129ac55e86b61c6026dba8e678e810",
-      "wood_chess.png": "27af5f836cc4196b93e36dbb47ffa78bb3b04cd360812b3e5554cffff3c67371",
-      "wood_chess_black.png": "77c1198a47f726596e3b0442675f11616ba62c66b52878b5a6c395680d894c2b",
-      "wood_chess_dark.png": "9bf3494b6e3f8af029e340bc8086bbfbf7d0c19b7400fc5de67ea28f125639ef",
-      "wood_chess_light.png": "3f3faae9d6bf26704a29816e4c3d97f506ee7ef757a10840818d3a260d2ae625",
-      "wood_chess_red.png": "57c3a8776f3cb97e1a5258076345923b951142eeee055d77e784744338dd47ad",
-      "wood_dark.png": "3fe8ce20d15a4b75be05db95b27b6d0078fdfdf4838f30a43c3c1632d2bdff97",
-      "wood_large_black.png": "47f05ab6a96dce50245563514ac1c0778941aaea71206078c8342b13d0154e7c",
-      "wood_large_dark.png": "cd8832b21097e63dc06cd0a086729428a73feb028631434ce2975bf3a6e978d2",
-      "wood_large_light.png": "12c50ffb1dabcda7f1c9fbbc2ab2b2995730d1d45b986d07ff1923cbff75c561",
-      "wood_large_red.png": "85ccf8dfe782ef00f5e0fa7ae669b7b91f4a31c61527ebe219fc4fb633e1ff10",
-      "wood_light.png": "7afba7429047c6d5dd9ef6e4ccb81c1248df7caadaf694281e1cf02ad18d0a6e",
-      "wood_parquet.png": "22bb03abb5f98506ecfc354a15e8e8df827b2e349ebb023ab04e17d172a2875a",
-      "wood_parquet_black.png": "26a748f1e094a2c60ab0ea3fb706aa5779b020b9de197e977b074b1317a12867",
-      "wood_parquet_dark.png": "311719e832d3f0681eabaa3121e7578299b94f3b31fbb6c6ae1bf7eca09058cb",
-      "wood_parquet_light.png": "0e81f21210913710c66bf9b0c20e8771665503b10a69b0ba3e95d515b1e7459d",
-      "wood_parquet_red.png": "a981b1273c7634587180d8a4c19986c37763c7a89a0f7aa3e502abc1d4af5948",
-      "wood_red.png": "a0c8a69aa797daa8b59127ca4738f619ba4930abc4e6824b3f501a9844a44ba5"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/Head/Hardsuits/Combat/medical.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/Head/Hardsuits/Combat/medical.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-flash.png": "a6388a8291f9092b4ef1e16b70ffdec7ecb7082c4458f6c819de728b482bac03",
-      "icon.png": "6229e0023b93fbbdccc07a6caca9c6cd7056747a02a94edda72635558895cd30",
-      "meta.json": "650537c9edb7a770843ff875eccecc71b12171523cd4fcd844101dda3e48ee39",
-      "off-equipped-HELMET-vulpkanin.png": "e6fb69390ab5229755a35bfbe1bbbf75f0c263bf0db5dad504ce4e2188a14b1b",
-      "off-equipped-HELMET.png": "8fb9db32a3b9dea1dd9e77cecc0de8ffd5786d49bd9f92d2eb470cd8d3bb0eb2",
-      "on-equipped-HELMET-vulpkanin.png": "97feddd7762dc2628bdfdd340010f5497439b933f975390391e16c48fbe1673c",
-      "on-equipped-HELMET.png": "af6bfb659a4175371ba4b87335ff71095d6ab5f8519f6b773a0d7389c3ffee6e"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/Head/Hardsuits/Combat/officer.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/Head/Hardsuits/Combat/officer.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-flash.png": "e2659b163fc85ab510984007d6e8842a973019b7c613d4f3d407d5a765a5a1bc",
-      "icon.png": "7aca23d2ffc7876941e5fa447abb9525f6ef9720d299452947e3da59ff1f1c12",
-      "meta.json": "29f3648c11f70120607ce0202fcd580884a054de75f942e50d4cba9100f2ca8f",
-      "off-equipped-HELMET-vulpkanin.png": "ddfcd9d2b7d2ee180e0c21fd26e3ba3ed24fbb93cd94e1a336034b144515fc94",
-      "off-equipped-HELMET.png": "952462ce3b1f4724a86809d37fe21970967236b4a51f892d042dee2a3b73a0bf",
-      "on-equipped-HELMET-vulpkanin.png": "6f69957d648594272d1857c6172f36bbf29d524b47f698f289cd723eb0e022eb",
-      "on-equipped-HELMET.png": "7ecf1db125d2f8adad5cdd56c14e47c4945e01d173717c5fdd0cf3d4a90c350e"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/Head/Hardsuits/Combat/riot.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/Head/Hardsuits/Combat/riot.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-flash.png": "ce24decd59a7311a9587f3b7e0016c80cb208cda42c014f2d90a11506464753f",
-      "icon.png": "4013d5b9c2c1079ca72a1d9552216f1763ecb0df0d3cfae65abc50fd0bfce4a2",
-      "meta.json": "29f3648c11f70120607ce0202fcd580884a054de75f942e50d4cba9100f2ca8f",
-      "off-equipped-HELMET-vulpkanin.png": "d4676c959abd560ab2c82a93e305ff0c60e6e3bc19cc80cd63839ac0164b428e",
-      "off-equipped-HELMET.png": "f9c7ba1bc0929d45a08a9a9d83bbf92a87e638860f6ed35836c3d6630bd44aac",
-      "on-equipped-HELMET-vulpkanin.png": "c976e9e4944a5bdebc6f84662d52a79c1e21955b49e47f53a8c801b13f940ba8",
-      "on-equipped-HELMET.png": "5ef91f37dda918cd0f22ebaa123ccb3510b15a864f2f9b5492c022449c95bd7d"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/Head/Hardsuits/Combat/standard.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/Head/Hardsuits/Combat/standard.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-flash.png": "e7265bc09142774beebd678454980f464f13115fefa1ff0d74c3535874631968",
-      "icon.png": "9850dd778e0bd9412130ef309d3875ae8614d58a6c6b06d7cc8078db1f868b3f",
-      "meta.json": "650537c9edb7a770843ff875eccecc71b12171523cd4fcd844101dda3e48ee39",
-      "off-equipped-HELMET-vulpkanin.png": "f5911b9a834691b88b4c352e9b2a58b1a6405474b4410db30f4641495b48fc6a",
-      "off-equipped-HELMET.png": "670a68a8f4835976cb1c4f09d8a19997794cfcc6a01206655d2463dcb81609ca",
-      "on-equipped-HELMET-vulpkanin.png": "c1addc74f8fce8fc8aa0b89926bf70a4a0f621c8ec38b799d6e425e7b83fa5d7",
-      "on-equipped-HELMET.png": "b40c3ab4f0b5e83f45f4bcc641db8acfea016cde08c6ccca6d84c51e5aa4913d"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/Neck/cwpsec.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/Neck/cwpsec.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-NECK.png": "5c1fac51ef40a7561c425f0b3984e919319817ad1b7a649774f5ec29df8d36ee",
-      "icon.png": "4fc018d59f28dc85117df3320af5ae97a0f4265fcdc4c3e3a8f0818ddfa7bb2a",
-      "inhand-left.png": "019567408304130ae90ac63ae0e49c4c0240611947f7dd50394ea6208cf46bed",
-      "inhand-right.png": "ef302ad0ee1d11479f9280e109504d0bcb1ec2810af7b3a6fa0b29fd9abb2f2f",
-      "meta.json": "5f0550597fa29b2b3c58512b28631fcd27df286af669092f124cda812666f1e0"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/OuterClothing/Hardsuits/Combat/medical.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/OuterClothing/Hardsuits/Combat/medical.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson, reptilian and feroxi by RedTerror.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-OUTERCLOTHING-feroxi.png": "e3dea652f8b8a7f7610426692465153b967313038b7ec505e67963a79243ccb0",
-      "equipped-OUTERCLOTHING-reptilian.png": "e3dea652f8b8a7f7610426692465153b967313038b7ec505e67963a79243ccb0",
-      "equipped-OUTERCLOTHING.png": "0e697f1d2b419444f9773e99b8650f9cc740d701035f7a26608e35c9e15e3587",
-      "icon.png": "155eaa46b57fc86400911c32ffa85824a308c2ad7a933a397431f204eb5896ff",
-      "inhand-left.png": "1a6ecbe8ff8f945283ac31b10f4accf67872ea091efa4c02191c11f6ff21009f",
-      "inhand-right.png": "f763392b3f8c92285dd03c1178d230a536556a4e3c4d4b17ebe79e365173c1cf",
-      "meta.json": "db3a082c3c3d869a4653a7039d6dcba56836bad7f1e60265951d8e07067a9be4"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/OuterClothing/Hardsuits/Combat/officer.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/OuterClothing/Hardsuits/Combat/officer.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson, reptilian and feroxi by RedTerror.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-OUTERCLOTHING-feroxi.png": "4885f619602941a86d9ef3c8f676e6e682daa37418a8a9fcbaf5bd5676c14355",
-      "equipped-OUTERCLOTHING-reptilian.png": "4885f619602941a86d9ef3c8f676e6e682daa37418a8a9fcbaf5bd5676c14355",
-      "equipped-OUTERCLOTHING.png": "e9ad11f2d0dc27d9b81aecd3ca04f42d43b5d4d5097c658a381f3a1ddbd3d0b0",
-      "icon.png": "01bcaed104fff2c5fdb86f63e69a21aafb64deac91ec7a090b5aeb537aa2fceb",
-      "inhand-left.png": "207484d5ab0cf416244848e3587ff32b7255df26039461e0ed1342f5160c8d3e",
-      "inhand-right.png": "9daeceb3ac3e1cbf33a629a180f7e10693bccc9f37b367c782b63debb6cfc1d1",
-      "meta.json": "db3a082c3c3d869a4653a7039d6dcba56836bad7f1e60265951d8e07067a9be4"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/OuterClothing/Hardsuits/Combat/riot.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/OuterClothing/Hardsuits/Combat/riot.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson, reptilian and feroxi by RedTerror.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-OUTERCLOTHING-feroxi.png": "b54fba75cd335f50462d3d3a60c4a342c26c009eba2c7368b0ec7d2d99d65506",
-      "equipped-OUTERCLOTHING-reptilian.png": "b54fba75cd335f50462d3d3a60c4a342c26c009eba2c7368b0ec7d2d99d65506",
-      "equipped-OUTERCLOTHING.png": "74da4803ce2eb2f6073bf06a09df8f779758de45d27c532dc68f3d0a38dec342",
-      "icon.png": "a2589f867dcb600df0dbb03dab9cdd35b363b1edfe6ff40d2cfe39a6d279f719",
-      "inhand-left.png": "00d5d58b420bfa113df835880f9e7979f4492be8bd2fa8602b5afdd0adb316ce",
-      "inhand-right.png": "5f8a3d46df3742a2e3c1ca62cc2327fc9b26b6430dc5da2abc56ef5a4e61f814",
-      "meta.json": "db3a082c3c3d869a4653a7039d6dcba56836bad7f1e60265951d8e07067a9be4"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Clothing/OuterClothing/Hardsuits/Combat/standard.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Clothing/OuterClothing/Hardsuits/Combat/standard.rsi",
-    "category": "clothing",
-    "license": "CC0-1.0",
-    "copyright": "Original work by TJohnson, reptilian and feroxi by RedTerror.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-OUTERCLOTHING-feroxi.png": "e4624651e56de51932072200e77776fa1a371e294ffb95cacbd5e16aeafa22ff",
-      "equipped-OUTERCLOTHING-reptilian.png": "e4624651e56de51932072200e77776fa1a371e294ffb95cacbd5e16aeafa22ff",
-      "equipped-OUTERCLOTHING.png": "753acd81a97158a7bbc4a1ce17456f333c498ec88a256af1d891891a272617d0",
-      "icon.png": "f68bc3c1d7b7b6cb31b9bf37775a06bc5ae354aef4a981024efaba3771c0fe8f",
-      "inhand-left.png": "00d5d58b420bfa113df835880f9e7979f4492be8bd2fa8602b5afdd0adb316ce",
-      "inhand-right.png": "5f8a3d46df3742a2e3c1ca62cc2327fc9b26b6430dc5da2abc56ef5a4e61f814",
-      "meta.json": "db3a082c3c3d869a4653a7039d6dcba56836bad7f1e60265951d8e07067a9be4"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Clothing/cosmiccult_armor.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Clothing/cosmiccult_armor.rsi",
+    "source": "Resources/Textures/Clothing/Back/Backpacks/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/clown.rsi",
     "category": "clothing",
     "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github), sprites for vulps feroxis and harpies made by HTMLSystem (AftrLite edited the harpy one too)",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
     "originalSource": null,
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
+    "replacement": true,
     "sha256": {
-      "equipped-HELMET-feroxi.png": "3a79ff83ea26613ec914578dfed84a808407afad4034643539796cc2f216201a",
-      "equipped-HELMET-vox.png": "f752adc2cbf6b8c4b6f4d213232fd61c90dd3f5d406c821c9cfcd1320851e417",
-      "equipped-HELMET-vulpkanin.png": "d8622a26dcb9427bf5f28f80dd043f9474c3cd14e862dfb645efbd220bef372c",
-      "equipped-HELMET.png": "41845628f34c023e5664a7b47d6e56aca5e8d5d006c446018aeb633e1f97c803",
-      "equipped-OUTERCLOTHING-harpy.png": "0f5a93c0561954c0a66bb8ca2a8b3fd17086ce25dd841855c10c9550d59678c3",
-      "equipped-OUTERCLOTHING-light.png": "4f6ad7800d4c1353e9c602bb02f2eed8e4c1feed74c19f33bd07e29b93265a57",
-      "equipped-OUTERCLOTHING-vox.png": "0d2d59d083420cb389a59c21fb95dd7ecdb38a8e647d98b1f4442cbe76b55398",
-      "equipped-OUTERCLOTHING.png": "27a0a155058496719aaad7b10c9c1b672ae11d10c9964364049e3f9005453ed8",
-      "icon-helmet.png": "227100a2c9ccafd95d1683e7e45f10111b9def6ae3a6eaf14a95c2fa5f5634e1",
-      "icon-light.png": "ba700db0cca5ea9148ace811965797a2c231372c8e6151faba9e4c7426a3abb7",
-      "icon.png": "ea3d40f06db8f0c1cc66377bc6d869e833d58b113c5636f78c996d0ae1222dce",
-      "inhand-left.png": "9b766d816c7f44de29aece0b4240f46850202470e848398f27485ff79a96d75d",
-      "inhand-right.png": "5c7fd4cc906e28c8e17218d8e2cace9b3ce6f7bc36fb6ba91f8485232ff9f52f",
-      "meta.json": "cfd02e4acd6308ef455b230bd2d0f536615de6b4ba3c55c79ed1577c92329ae3"
+      "equipped-BACKPACK.png": "858e9bbf8151143e47a6e01c93f97959b2d8e5591a480210f497253a0a241c85",
+      "icon.png": "5a870513356fcc7f0dfa586b59fb6d3d9dea9ec6fcc9db1fe5ed89d19e834d02",
+      "inhand-left.png": "e3b0bdca012a8837bcc4e9fd077aca10e15c6b40387e2f445004e19f4b88e518",
+      "inhand-right.png": "1bda92bbbd0fc582d71dd0713567bc3a6dce16af87ae2222acfdab9bf7e006a1",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
     },
-    "replaces": []
+    "replaces": [
+      "Clothing/Back/Backpacks/clown.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/clown.rsi"
+    ]
   },
   {
-    "source": "Resources/Textures/_DV/CosmicCult/Clothing/cosmiccult_jetpack.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Clothing/cosmiccult_jetpack.rsi",
+    "source": "Resources/Textures/Clothing/Back/Backpacks/cluwne.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/cluwne.rsi",
     "category": "clothing",
     "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/1592a112e3d33eec4a0704b518a138d5a976f455, modified by Radezolid for SUITSTORAGE",
+    "copyright": "Made by brainfood1183 (github) for ss14",
     "originalSource": null,
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
+    "replacement": true,
     "sha256": {
-      "equipped-BACKPACK.png": "9bc7fd3ccf8fec5a94bacf9a638fe0b2c3929463571e545bcc3fbd9a3b9d1f48",
-      "equipped-SUITSTORAGE.png": "9bc7fd3ccf8fec5a94bacf9a638fe0b2c3929463571e545bcc3fbd9a3b9d1f48",
-      "icon-on.png": "a96a1cde37573177922f45cd8609210ca41e1d8fe46a075a32b147ae919f9be9",
-      "icon.png": "1e5d7e4a91603ef1efcc45246cd296f10c8d598b148b4101f17716d4c4260b18",
-      "inhand-left.png": "c8b3e85eefb8b39776477e75532253436f135c15b7f2ca715dd6d259ccd96301",
-      "inhand-right.png": "ca4b05d4731b74684e49f3fee6e4bdf5a4262729314184eb7c986ee4401bdfdb",
-      "meta.json": "4ffa0b3ddd2a460eb01a0a92ef14804ade804438776065e41f2bc907f4531b4f",
-      "on-equipped-BACKPACK.png": "76ed744cfee294f4f2bb9787bccab86979bb028e32ed4cb3717f7e407f19392a",
-      "on-equipped-SUITSTORAGE.png": "76ed744cfee294f4f2bb9787bccab86979bb028e32ed4cb3717f7e407f19392a"
+      "equipped-BACKPACK.png": "1e650f8976fab434d7c275bc97a48ffa06b447f78feef3a60fb73e4b01c7fe6e",
+      "icon.png": "c3781c4fa86b03f0042404b9c955bce8e26d4537a4fad5d0a6e3f6eb363eaeb6",
+      "meta.json": "68c1c2fcc2c6dcba93914c60e6f9043ce6d0e5705bcefd37c2102b1b09fa9ff5"
     },
-    "replaces": []
+    "replaces": [
+      "Clothing/Back/Backpacks/cluwne.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/cluwne.rsi"
+    ]
   },
   {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/book.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/book.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Cosmic Cult book by AftrLite (Github), Tenebrae Conspiracy book by Sha-Seng (Github)",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "cosmiccultbook.png": "ab9e0f1034e45a2c6e4bf28b8a6a461e7c742468b8090c1b432e692b09d73b52",
-      "meta.json": "566420808378cbf4faf18e753cc604b2d95f026232a8a967a8d5ae898cc62819",
-      "tenebraeconspiracybook.png": "8c5fc71592858f61e9df8debdeb90863c490f0a51e0035c219eef630fea8edcc"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/censer.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/censer.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Cosmic Cult censer by AftrLite (Github)",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "flame.png": "6cfe4753294d161d39dbbaa05f5d98cff220b363089cfbec6620179ee0571f23",
-      "icon.png": "b22ac884f07ca23e2f19bd0a84d0af0defea511c3174a8fed710661cd1410899",
-      "inhand-left-flame.png": "88c9945009705bbf1ffb31d5dc2a85168d7f4ae0d4e28940d2de628ed3c572b0",
-      "inhand-left.png": "cd334ad256388844194761e37162e0d53b352b468a01a62299e41c3185d4fad3",
-      "inhand-right-flame.png": "ed3acbfcc665841b70de149d7dda9c460e9023a44a96802f2a41d82855211ece",
-      "inhand-right.png": "884c16b662367da699d21b3952afd0c822676c55c275976114176758ff97a1ee",
-      "meta.json": "481d27f4eda81cdb015a2c2d240bf5def8c10dceac79a973b20e9c3c384b9098"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/cosmiclance-inhands.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/cosmiclance-inhands.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "inhand-left.png": "d1668054f16629ba097e0553e2db71f5fec38706f194fa25bda9650dea308e1b",
-      "inhand-right.png": "a8545470cd8f63be6e94bbcfdb70e259a6139f5eccdc7b5761e6abe6436ef014",
-      "meta.json": "26dbb27fff4a2ffef8e6fbb7d006a8171852f74dd8c0d62338c53479c2d841f5"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/cosmiclance.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/cosmiclance.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-overlay.png": "fe8cdfd4966de88ddde10b944255f7dc50369c04239d7e3b0729c50b33185efc",
-      "icon.png": "beb08675f53a8042d471e1076f6db4bcf41aec34efc6a2964aa77a43f0f79d79",
-      "meta.json": "11eef2514208096dd3a03d441af44b3209797cf5f8afc9286667249912494a2a"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/cosmicscythe-inhands.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/cosmicscythe-inhands.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "inhand-left.png": "e98ea05946bd5dd10429753afd9a2b2937661b4ecb91d6394e22fc59ff282ab9",
-      "inhand-right.png": "c121f29140ca8b6c587657ab4090b58f8ba16ee75b7e87f0efd0f4ac8b48c038",
-      "meta.json": "26dbb27fff4a2ffef8e6fbb7d006a8171852f74dd8c0d62338c53479c2d841f5"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/cosmicscythe.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/cosmicscythe.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-overlay.png": "ce5867d87448f37faf3fb340921898d121eda15037a93979b2d97ec205d67311",
-      "icon.png": "09422a3c82a0ffc27e5a8b2eb1a1a8f1a5db443e5f6d7a80799635461b4702df",
-      "meta.json": "11eef2514208096dd3a03d441af44b3209797cf5f8afc9286667249912494a2a"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/cosmicsword-inhands.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/cosmicsword-inhands.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "inhand-left.png": "e3673c918ba983a143576c7138936ddea1090d62ffe7e7a497488d353eadc5fc",
-      "inhand-right.png": "1c8bde454093de94d7d93dadbea5748bca61dd32355a9fe1f6cf847e2dd50ee0",
-      "meta.json": "26dbb27fff4a2ffef8e6fbb7d006a8171852f74dd8c0d62338c53479c2d841f5"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/cosmicsword.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/cosmicsword.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon-overlay.png": "c5acc241aee164a6388dfad824658ec4b7dd212b9abb50819c0ec69a3bf7462e",
-      "icon.png": "ede1e07fe94ef330ca66746b598a0f37ccd94cac2324a27d75989d4f66a1e20e",
-      "meta.json": "11eef2514208096dd3a03d441af44b3209797cf5f8afc9286667249912494a2a"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/entropymote.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/entropymote.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "meta.json": "797e871ea671d97acac0236350c2665538712284b8a21cb8f2d28810433514e0",
-      "mote.png": "3a0fbad468f9dd6992d6ee5cad85a634fc6408a4f069c0642614084901351b58",
-      "mote_2.png": "5a018b53cfb6d9ba1f69f6ffd8e3c436ad3cfe1b767ca37acbce0415ad5acb23",
-      "mote_3.png": "40a37c091f967d695f54563f41e1d7ce9986fb945e3f0cb5be63711e945815c8"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyph_blades.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyph_blades.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Default sprite (ready) by AftrLite (Github). Other states (spawning, despawning, cooldown) modified from the original by NoElkaTheGod (GitHub).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "cooldown.png": "409a926e7da9a8ad068780b17124a17d7ae1ec4f66c1029a5b0c6de8b3568cf0",
-      "despawning.png": "f76dc322bc6ad07f96a21eb32d5adb21fd40f37643c42184542b4be62acdb74e",
-      "meta.json": "6f82fa807a0f0e621ef68dbb87ff80a649c002dcecbd7b9e4b6c68ec1394b9c5",
-      "ready.png": "ba8f63036d76967c3110cf146fa9ceb6dfef3b80bc774c05298011873c91a943",
-      "spawning.png": "241c6c34de3a11fd5acc788d5604ba236ea2a191d2a123561981b926ec7da0dd"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyph_cessation.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyph_cessation.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Default sprite (ready) by AftrLite (Github). Other states (spawning, despawning, cooldown) modified from the original by NoElkaTheGod (GitHub).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "cooldown.png": "6dc8cf6cc36193dd356f867b3b2ad8e63a6dcb8b51078ba9c5c5211bca60c5b9",
-      "despawning.png": "967c1857e4fc8b93923196484b324fc43ebd3c2d935b246d1ffd8d3bc42feeab",
-      "meta.json": "6f82fa807a0f0e621ef68dbb87ff80a649c002dcecbd7b9e4b6c68ec1394b9c5",
-      "ready.png": "175d180abdbf7942412cddd42c0b49eee2c8b2680f5777a963e9c294afa2052d",
-      "spawning.png": "efddb81d4bc65361db45449e8dec6e5891dcba31b51f723d8529ef0442a8a0bd"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyph_knowledge.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyph_knowledge.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Default sprite (ready) by AftrLite (Github). Other states (spawning, despawning, cooldown, active) modified from the original by NoElkaTheGod (GitHub).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "active.png": "fa402ae32a873f9c41ac45dfaab7efb4201784070414ba0f3354f2a351c476ab",
-      "cooldown.png": "91aa5c257c4057dc33b4f75d5b98dd4e83863fb6bddb669aa1037d6c254d3c32",
-      "despawning.png": "4d16a12ed26acade1f4013c6b03dc4888b13ff234140f54f8094f8a8e79d68ba",
-      "meta.json": "d56fce804ce4cff7192497d379e175f5671423c116f7add0afd64853462d5e51",
-      "ready.png": "a9520d659d85d146d2dbe4e5074691a530d7f6e7867ec1b1faad7c7791bfac16",
-      "spawning.png": "ba13782972a9b2f27eb11dfa91d4ff973d2504444b0f8d7da9e93e657b75c4b9"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyph_projection.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyph_projection.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Default sprite (ready) by AftrLite (Github). Other states (spawning, despawning) modified from the original by NoElkaTheGod (GitHub).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "despawning.png": "8b3eccac5500a9c7acf38474a29cfc541e8596661812008c8bde8750fa98bf2d",
-      "meta.json": "b336e8029074f2633605c15fc30e6dd04e3597913d5c31a92b7f5da086bbc8e8",
-      "ready.png": "4fed9b8ff35ceb9da28d09a84678a9c9cd9936e84fe7b928af1ab760e56782c9",
-      "spawning.png": "7c668092a5f726b85d38e9d375b6da33e01e194b8b0dfb0693eadc6dd8d61668"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyph_truth.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyph_truth.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Default sprite (ready) by AftrLite (Github). Other states (spawning, despawning, cooldown, active) modified from the original by NoElkaTheGod (GitHub).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "active.png": "cad44e5699cb183b690d38c22b803c2edba974cd8c5c6d9c98f94cfa835cff59",
-      "cooldown.png": "04cbe85130374e1accac552c48e994690a9b5d6f28cc55345fe8cb6cb2b8d097",
-      "despawning.png": "22a68b00963d187f0bd3b384e68c1ddb2c22479e35ef4da55e10b30b0158ffad",
-      "meta.json": "d56fce804ce4cff7192497d379e175f5671423c116f7add0afd64853462d5e51",
-      "ready.png": "64cdba9aa93abb941a6aa0b2a5a99b4332b51799abe7a83c391a0eab852b8544",
-      "spawning.png": "f6fb907b07be351b280be4e57d344952d04554d44291f31ba6eef80d5c3c57ec"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyph_warding.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyph_warding.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Default sprite (ready) by AftrLite (Github). Other states (spawning, despawning, cooldown) modified from the original by NoElkaTheGod (GitHub).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "cooldown.png": "907d2656c3e8b0ecc72e446f5bf87196fb5a5184d05bb950294ccbe6ac40fc71",
-      "despawning.png": "53bc32a0261eed129cd74ba0c7cd52f94a7f9c723e48e2da85a39e7edc898f26",
-      "meta.json": "6f82fa807a0f0e621ef68dbb87ff80a649c002dcecbd7b9e4b6c68ec1394b9c5",
-      "ready.png": "34838909e7cfc35097d16aa9c8264f2b9f2ab199a68f5466cd6c931d61632727",
-      "spawning.png": "df5d2867947526ede9b6dcb83f49867f5bf7962af1285031c28223e24abc77f4"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/glyphs.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/glyphs.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github). Blades, warding and projection edited by NoElkaTheGod (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "blades.png": "289017e9501d908e3cd559a4ffd781ff43f741d7d97a981c60fd260cf224b26f",
-      "cessation.png": "e803c929d9381ca4e3c4c02086ce88f49a8dce7d007cefd5ac2f931a38c64801",
-      "knowledge.png": "c2f38f32d8f107d122577fb0822236be6fd1b130f4744beddb9279eb80e8c7e5",
-      "meta.json": "fd03f0deaddf208adb313d57841766fd4e9b9b7311ca91f17d2abae0213b1fd8",
-      "projection.png": "9e35f612988c9db76f6bc25eb94fc21be8b6758e4a69a061d6d6ac87aa3db1e5",
-      "truth.png": "c90bf3b1caac2de620782a5bd3a32bdbeb91570d996653be0781936adf97c115",
-      "warding.png": "35e38bc6d1a1cdbefab9452fe9598a5a6078bc9f84aa23f5b9a007cd968f7c2c"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/injector.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/injector.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by HTMLSystem (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "base.png": "d7e2190e6fef885c75db7d180f5b3407dbe611d397582d2560b3c3e0c7cc6c32",
-      "empty.png": "06897770ae8ef0f973c29261d5212523b9180914d4e537c2329c1cd850f05074",
-      "meta.json": "b692757bf73c3f73935a74ef05e5a75c621ca5d26bd94d47e208317e8b4580e7"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/lawboard.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/lawboard.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon.png": "9d1316eb67db0b1ad151775c8ec86b49c67b2cc33ceba49a76cf52edb2ddb17f",
-      "meta.json": "2516a9c7b32d2fcca84dbb55fdaecb064002c2e03fd2a5882beb3ab8143bceb5"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/mindsink.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/mindsink.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "base.png": "23956642f92ec82a814f9096faae7e7cd9bc1cd3db2a585a9bfeb09afc896632",
-      "fg_idle.png": "a5274c13fb7e2a53013b00430e72eefc44719d299367aba86ae4596f3d05f924",
-      "fg_occupied.png": "b20ec3bbb89c81c3c965d2cac3aeabc5c0945ab97cd386fcf877c196bf36101f",
-      "fg_searching.png": "e4eb14e35379038f84c82b933d5da87e4b46f3eb9d2f14f40086a39e180d25da",
-      "meta.json": "858414e93756c65eec81e97b7a292e2734c4f8c515ba12ac1d68a8077ffc7a47"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/CosmicCult/Objects/unknownplushie.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/CosmicCult/Objects/unknownplushie.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "A custom item by AftrLite (Github).",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "meta.json": "8cae9893bd68855ca7f948b06f6cc48285bbb65f96c318a517295693c72fe302",
-      "plushie_cosmic.png": "fed10e7636cec88fa5bde7c975de2fda2801f7361598267c1dac796dd8fec485"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Devices/cartridge.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Devices/cartridge.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Timfa, plus edits by portfiend, cart-chat made by kushbreth (discord)",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "cart-chat.png": "41a585deeaea7dbeabaa0918cab46d901ef05195e881d64f465233fb7915a4cc",
-      "cart-cri.png": "c9338d73e8999683ac7b39b98ed6531f41775feafa79556fe5bd44b42fff420d",
-      "cart-mail.png": "cb23a9ef5caf04191766f553e358511511ef18c1f84fb7b7d36012ae4a068290",
-      "meta.json": "23b470fa92e5abea0541ea0143d60f804c25c104f756383eb6390c9475b0f291"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Devices/cassette_tapes.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Devices/cassette_tapes.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/92dc954ab5317b370e98dd070ad60ba8c3e8a6e9",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "meta.json": "93a270b85c9f63d98952e235d1577ef7191dda5f57f0664666dddaa441d71969",
-      "tape_greyscale.png": "fc33da67b52e50951df67bf5fe36bbcdebb3295b2203c3e6d766c359a78a6d8d",
-      "tape_ribbonoverlay.png": "dcb7db8fef008ca6ea55e219381b6aba20f9141af3bd87b62f1ce5d168f31071"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Devices/tape_recorder.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Devices/tape_recorder.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/92dc954ab5317b370e98dd070ad60ba8c3e8a6e9",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "empty.png": "334b3dc80cc5773cc1e9ed6be46240c8ea54786e969334dab1d2b7ebf397a9be",
-      "idle.png": "2cc814b57128726decdba2a1567cb05810680ba771ea5864199c1a583d9a0dd7",
-      "inhand-left.png": "d63cbe0a139624de4e45c23f2211d6331435ba2b55acd78943e514f82cd9e33e",
-      "inhand-right.png": "583ea3ecfa5cee6b66c5d76576b029d58d665d5306684357c322c1bbf1f79ffa",
-      "meta.json": "a4c44cd3613217687f616ef0ac39fe04fde80698fe0a24f8631100354694a3cf",
-      "playing.png": "83b345d0801e01bc0ed01267b882149134d6fadcf3deec7e9c6e01e37a3fcbcd",
-      "recording.png": "1e0ba2890e19bbc507eb87e3d9459327ee869c76194981d166987c82af6ff880",
-      "rewinding.png": "616cdd3a358108cea224e9db19911cdc96fd9149c2eb8e117c6a352712867231"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Fun/figurines.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Fun/figurines.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Sprites made by RosySaturniidae.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "cosmiccultist.png": "461567f376869b0f93bda0403720fc94be9cf890e13ca6b5d0308f6d3806d2a9",
-      "cosmiccultist_unshaded.png": "f853ebdba61b05e69bf6ca65288c4b705778eb6952f762bbe39fa08856cad7a5",
-      "meta.json": "98125217fb11e39f8176bb48f4047fe1d3127a6486b549f92652cc2df31f4953"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Specific/Salvage/voucher.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Specific/Salvage/voucher.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/0c2ef51b146affd639db68e71b3576cf83ff3f0f/icons/obj/mining.dmi",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon.png": "bba4b3becfe21eecf55b8361f9b3ec7e81742f8ab2efd95a0962b0e355e2538e",
-      "meta.json": "b171e6243d27b176a05c8b106ae886569108422019adf4acbbff4882e4f19fb4"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Specific/Species/chitinid.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Specific/Species/chitinid.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Concepts by: https://github.com/ElusiveCoin",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "chitzite.png": "63f9124d054440d5324299c9d037b7a54543ca79ea7b8893dfaf268bb5a15207",
-      "chitzite_glow.png": "6b9ba9c1cc991990b098e954499b8a09a515b75ddc30622200825209ae72c194",
-      "meta.json": "3dc517a5823c95b9c7634a745d0707228168c3451e426e814c4e5e2f97736df7"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Specific/Species/Oni/cybergourd.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Specific/Species/Oni/cybergourd.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Sprites by @bogus_0451 on discord",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon.png": "eef8e0ff3b12488d63a6f09e12d626bbe2a53e6bb84d494a4d0fc21e390e6710",
-      "inhand-left.png": "e7e9a4d030058c79b1a9f01797b9c071203b98ba9a8c307f53670cc780254405",
-      "inhand-right.png": "f3e6a8bb75662a60be34f25db250728a2d25644c5f13e352e16fd48a3c45d5ca",
-      "meta.json": "92158f40cf8aa3e1011466fbcb0ccfbff1d94408b6caabbc60755a2afd30bce1"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Specific/Species/Oni/gourd.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Specific/Species/Oni/gourd.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Sprites by @bogus_0451 on discord",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "icon.png": "c09d25906f60f62276a4ef4d6271bf8b4dc801f602b4500c7ebcbd552f068659",
-      "inhand-left.png": "137f7031a9d1a3e4cc21fd2ecda928884bc9ca67a0e42e3125bdb7fdddd1b4a0",
-      "inhand-right.png": "78782026f8b6a481dc07a75aaa9f4dca6845a6f963f6b47d3d3b5e803d5028e4",
-      "meta.json": "92158f40cf8aa3e1011466fbcb0ccfbff1d94408b6caabbc60755a2afd30bce1"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Storage/boxes.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Storage/boxes.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Maybe taken from /tg/station. No attribution was present originally, so this is only an assumption.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "meta.json": "cabedf6b43b8ce6402a430572f79d0c6eb3bf7c6a465822349f92762c7adeb2a",
-      "recorder.png": "b8e6455b0c3a1e5a2de4d8eb2cc50feaf5c37dffa859a4f6dc8dac8b0dc1d380"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Tanks/emergency_double_water_vapor.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Tanks/emergency_double_water_vapor.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Edited by BlitzTHeSquishy, Adapted by DangerRevolution from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-BELT.png": "09fde82a162fab6d2bb0b8919aea101e43e4f3eff4051855789f562caa151917",
-      "equipped-SUITSTORAGE-cat.png": "2facdbdfe9a89cc0542960dddef746a6332728a83a316987715692215a6d98cd",
-      "equipped-SUITSTORAGE-dog.png": "06553f9cb3d535e0a50ac82c406e7f00339bd8defd5ded6e1e9aa328eb176209",
-      "equipped-SUITSTORAGE-fox.png": "4a7124841bbde84127ad9c5f58af907e1239244f7720708e0c8f7adebc4fbb88",
-      "equipped-SUITSTORAGE-hamster.png": "daa0f360ea857aa6645e68a47bcbc886c0e8e5d558c585cc8521079f104e652c",
-      "equipped-SUITSTORAGE-kangaroo.png": "24c8669c2cef4f49893cbf211870b610581e43901b286f26a4ad106fbd2ea9ae",
-      "equipped-SUITSTORAGE-pig.png": "d8f38e43ee631a1a2cedd33ab08a1774555904c92f97f3bfe02e36dc79a6c04b",
-      "equipped-SUITSTORAGE-possum.png": "0e4b927eef69ac46f3022960e90272d089f4d9baad68c049f77be8810fb226ce",
-      "equipped-SUITSTORAGE-puppy.png": "22356eaaeb3e141cba3fa10ba9fccdbdd1441d7004bbab1629c933f9f38e6397",
-      "equipped-SUITSTORAGE-sloth.png": "3d8ff64b3a96a931b42d5c1cd45cce35919e0c3f8e25b40c4ff0d6841cdc90b8",
-      "equipped-SUITSTORAGE.png": "09fde82a162fab6d2bb0b8919aea101e43e4f3eff4051855789f562caa151917",
-      "icon.png": "68c4a0225a0e6d0f12ffb7731067605c6e13ec654627dc939f4fe43df322ef94",
-      "inhand-left.png": "29eb3a08ffe9b2bd5648243a2977f8cc4087c8327d70e1c1824d3812cd7a55e6",
-      "inhand-right.png": "34cbb6667266d1672145b344d029004feb2c6e51ee5b772def7d8af583f2024f",
-      "meta.json": "4e1c50a8625dde065f384b372983bc03aeba53cc745530d3c002b333163d125c"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Tanks/emergency_extended_water_vapor.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Tanks/emergency_extended_water_vapor.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Edited by BlitzTheSquishy, Adapted by DangerRevolution from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-BELT.png": "f3c96b58d645064d2d9d471ba98c9b380e4b2581b889c68d3a8f852636d5fb0e",
-      "equipped-SUITSTORAGE-cat.png": "63985e6aad33ca43cda34ce092f8b47f4c7bc5ed57f2cf8921c98d65a9cfd06f",
-      "equipped-SUITSTORAGE-dog.png": "ddfa966c2d58aa54ed2782d4c6119f56e650a1879afca2deb56cb5c92bbc99bd",
-      "equipped-SUITSTORAGE-fox.png": "9f16fa4bc0370d5bdc68771f7c6c93dcd3fb0cede7f4b45ae099528a42c1de8b",
-      "equipped-SUITSTORAGE-hamster.png": "b57765c86f3e6e5f38002630c14caed2448d0f8a261e6b2ee8f582976e2b69af",
-      "equipped-SUITSTORAGE-kangaroo.png": "c63c07a8680da2d0f8c73c3054f3d078cefc8db67130fd8d6912cc1ce6031f35",
-      "equipped-SUITSTORAGE-pig.png": "9ba91858f0be21f274db54832502e2c8d88ca7a42a0fb605c2b1a43bb364d9cd",
-      "equipped-SUITSTORAGE-possum.png": "e138e9c63afac1d915523b4cdadb26b88b766acea93bdab5fb83b4a518d1f6a1",
-      "equipped-SUITSTORAGE-puppy.png": "956f69d61a66763265e4e161268569958715cae73be9e22780f17183aafe4209",
-      "equipped-SUITSTORAGE-sloth.png": "b08cb4765b65ec715c72ef85db16222ef2559d59b89beb5a571f43dc3094064e",
-      "equipped-SUITSTORAGE.png": "f3c96b58d645064d2d9d471ba98c9b380e4b2581b889c68d3a8f852636d5fb0e",
-      "icon.png": "1fa5361b5c578a703f5ef1d0a0586ea91a67edcc99f2a62204540ad4a43d865c",
-      "inhand-left.png": "c170dbd5ac920c21a2f5b899b1625743db8ecca8990828d78972dfc4d88cd0e0",
-      "inhand-right.png": "54031f3e29d2445b9c1c21f3066ac7681b9f5fb08d371e8160474e90e1e4dc2c",
-      "meta.json": "8db0aa5e0525a88554bc6cc965ba22a3a0400c5c7c1dd2bdee4264cfdd815501"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Tanks/emergency_water_vapor.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Tanks/emergency_water_vapor.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Edited by BlitzTheSquishy, Adapted by DangerRevolution from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-BELT.png": "f3c96b58d645064d2d9d471ba98c9b380e4b2581b889c68d3a8f852636d5fb0e",
-      "equipped-SUITSTORAGE-cat.png": "63985e6aad33ca43cda34ce092f8b47f4c7bc5ed57f2cf8921c98d65a9cfd06f",
-      "equipped-SUITSTORAGE-dog.png": "ddfa966c2d58aa54ed2782d4c6119f56e650a1879afca2deb56cb5c92bbc99bd",
-      "equipped-SUITSTORAGE-fox.png": "9f16fa4bc0370d5bdc68771f7c6c93dcd3fb0cede7f4b45ae099528a42c1de8b",
-      "equipped-SUITSTORAGE-hamster.png": "b57765c86f3e6e5f38002630c14caed2448d0f8a261e6b2ee8f582976e2b69af",
-      "equipped-SUITSTORAGE-kangaroo.png": "c63c07a8680da2d0f8c73c3054f3d078cefc8db67130fd8d6912cc1ce6031f35",
-      "equipped-SUITSTORAGE-pig.png": "9ba91858f0be21f274db54832502e2c8d88ca7a42a0fb605c2b1a43bb364d9cd",
-      "equipped-SUITSTORAGE-possum.png": "e138e9c63afac1d915523b4cdadb26b88b766acea93bdab5fb83b4a518d1f6a1",
-      "equipped-SUITSTORAGE-puppy.png": "956f69d61a66763265e4e161268569958715cae73be9e22780f17183aafe4209",
-      "equipped-SUITSTORAGE-sloth.png": "b08cb4765b65ec715c72ef85db16222ef2559d59b89beb5a571f43dc3094064e",
-      "equipped-SUITSTORAGE.png": "f3c96b58d645064d2d9d471ba98c9b380e4b2581b889c68d3a8f852636d5fb0e",
-      "icon.png": "a36fb5e0c7aafc5427e006b2ce68041430e5c431216fa5c678fedbbb51567651",
-      "inhand-left.png": "c170dbd5ac920c21a2f5b899b1625743db8ecca8990828d78972dfc4d88cd0e0",
-      "inhand-right.png": "54031f3e29d2445b9c1c21f3066ac7681b9f5fb08d371e8160474e90e1e4dc2c",
-      "meta.json": "3effa0337068ea7c710aa7935f9e5458eb54ed87c84ae7cacb82017bda2258fc"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Tanks/water_vapor.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Tanks/water_vapor.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Edited by BlitzTheSquishy, Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432. Suit and back storages drawn by Ubaser. equipped-SUITSTORAGE-secdog taken from generic.rsi.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "equipped-BACKPACK.png": "c8c483b9abec8fc241d2d1dc121450daec77d0dfd2e1e0fa3e6f00aab1b54edb",
-      "equipped-SUITSTORAGE-cat.png": "f1cfd0e5a09955b85c4c15e1f50f40f0a7e18a991282f7db8ecd20dc1b13e48f",
-      "equipped-SUITSTORAGE-dog.png": "4f8de147c3c1232011ccd8b024174b6383467d96a3c2989ed13c7a34ef719568",
-      "equipped-SUITSTORAGE-fox.png": "9588563e92dee3e11977a5b99de3f4fe30009c94d5e561cc4c1920e78222ebf7",
-      "equipped-SUITSTORAGE-hamster.png": "ef6c0d05e62a46c8d15612e872f1f38152e060757208a2e8a331d58e879f1a58",
-      "equipped-SUITSTORAGE-kangaroo.png": "facc762434d0dde8dedade2c684d677dfcc1fd9b976b84c30e49fb72abfd9926",
-      "equipped-SUITSTORAGE-pig.png": "d91de2fe2f176ce7c1d1379ac78420b0d4852558bc5021d53166fb6f910ea9fe",
-      "equipped-SUITSTORAGE-possum.png": "344c3bd91983f03fae6060ccb2359fc8d48241682d9a14f80ec790f64b932c98",
-      "equipped-SUITSTORAGE-puppy.png": "1462c0b29bb9a2f67887661997033659886e6c5add9bf7cb5146db37fed726c4",
-      "equipped-SUITSTORAGE-secdog.png": "36c91ccbbcf5c92085a3ee33b8c3f8773fd2c24d1f11606e37afc3c1651702b7",
-      "equipped-SUITSTORAGE-sloth.png": "8a0bc94b89b247eab13024bada948718789993d1fe9a1f5a296aa024a225076f",
-      "equipped-SUITSTORAGE.png": "c8c483b9abec8fc241d2d1dc121450daec77d0dfd2e1e0fa3e6f00aab1b54edb",
-      "icon.png": "28ca8860c8a66605bb118f68f5d8e02d65373b7296dffad3becb4555a24d6235",
-      "inhand-left.png": "9b4d93c3bbf98c32381ab1bc06470cf09bbcbf6cddd456b429474b28b47e16b3",
-      "inhand-right.png": "35deb72cee7e431e51eaf1564cf13829edd7fabf048e8bab8ea5be2f160a943a",
-      "meta.json": "510683f179ae862b2facb77a77d78a27daa5a0b95569d476a937f089b5940237"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Tools/lathe_upgrade_kit.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Tools/lathe_upgrade_kit.rsi",
-    "category": "objects",
-    "license": "CC0-1.0",
-    "copyright": "Created by deltanedas (github) for Delta-V.",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "replacement": false,
-    "sha256": {
-      "icon.png": "7e26dcb2fcb7c9b4c443398a17ac8d49c5e11a108a4641d11be35edd2116fc75",
-      "meta.json": "3270ddd094130e9db9897a10f05fd4054fdb8e9246c30e54c2a9c57d72defbde"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_DV/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/DV/Objects/Weapons/Guns/Battery/multiphase_energygun.rsi",
-    "category": "objects",
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tg station at commit https://github.com/tgstation/tgstation/commit/bb9be1ac98073a904c1c404ec5cdd73f40143057",
-    "originalSource": null,
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
-    "sha256": {
-      "base.png": "dfc44e04bebc16eb1d08cbbcfc23a90e62a5fd04143b4b187295ec660e4c9059",
-      "disabler-inhand-left.png": "3d169809746f4cc32e7c742a095509c20903d8342d12807e1c708eb7ae13120f",
-      "disabler-inhand-right.png": "bec57e991da50c0c95195b7689cc88140d4e83e4731f9d80aa479ef542034ee7",
-      "equipped-BELT.png": "38923744cf3456d52ff63965f9a6f7ed5ae4d5b2b043febe1b3ab64dec231949",
-      "icon.png": "a069056edabca7291d6052a6795a62ae4cf47b5647a56f747087103cb218ff13",
-      "inhand-left.png": "a870f17354414e521d2eaed9ea87e727a2f6f97a28eeb0b96d4a4706c1e8c92e",
-      "inhand-right.png": "d63065786f70fb2a5e99d486f44d40e9e5eeef9b2ac06978b88207491952717d",
-      "lethal-inhand-left.png": "358341f597cd30ff2f3b66798da12193074af4ff3987d1b4299a005388b4d3c0",
-      "lethal-inhand-right.png": "68e0bd84f079fea0c6a865ce72527a8d45a105b0c4e9a4ff3463b8067953d059",
-      "mag-unshaded-0.png": "7f2e28571aeb1079541765af21a6c4a5f17d50d5932865797aac137740394e44",
-      "mag-unshaded-1.png": "666489899eb76d780afb53ccbb24083b1982a46aa5f5cf7fe523e084d73ebf65",
-      "mag-unshaded-2.png": "dc8843ec30e656b027b2b68687ef41c4a2fafb800c7edaa6cb43d41f882574ba",
-      "mag-unshaded-3.png": "031b746180a0810dd29ccabf3b358c4152e9f07c60e95426b80111b76e356c52",
-      "mag-unshaded-4.png": "ed332727fb10f2d9852216d952954d459b329f9b2de869b1f255a015eee38484",
-      "meta.json": "e2f3a92b2436534c2e8bc33a2ce8164941b693693b1f6f88da43f6bb9304004a",
-      "mode-disabler.png": "048795e2f2ffa35af7fa5bdaae774e15aa1bb3c74967e2c77e727ec44cef8e0c",
-      "mode-inhand-left.png": "7b2d69f9974a0fc39bc29a9dffcc2ae37b1cd359587a4f8d85bffb209d555a5d",
-      "mode-inhand-right.png": "04897ec821b4ab3a79d2d09278e13641c5eae04118fff7fda0ecc3bca4d55dc8",
-      "mode-ion.png": "f864f5b30849254f5469c7471912fbb7c33df010aeb35abe977a2e1fc17fa11a",
-      "mode-lethal.png": "410a5777c2b5f9cc99e1c2c5591dfc2c13752d233203b3115e3fe1313be851f8",
-      "mode.png": "4f1024d10f83e61211b42d274f3efbd990c5d5ec5d394542ba9b3b5ed005284e",
-      "special-inhand-left.png": "0dd81ada1141509113c099558bc3473311f8d784b0bd8f6ca69740a93e1c9187",
-      "special-inhand-right.png": "214f8a9a60110dfc37b4213ccb67efb5c70d508182b26326fe99377a17f9811b"
-    },
-    "replaces": []
-  },
-  {
-    "source": "Resources/Textures/_EinsteinEngines/Clothing/Hands/Gloves/Envirogloves/hop.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/EinsteinEngines/Clothing/Hands/Gloves/Envirogloves/hop.rsi",
+    "source": "Resources/Textures/Clothing/Back/Backpacks/electropack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/electropack.rsi",
     "category": "clothing",
     "license": "CC-BY-SA-3.0",
-    "copyright": "Inhand and equipped taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e and modified by Flareguy for Space Station 14 and modified by Skubman | Icon taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c77c50ae3d19e763c60c44e75c7bf9d61e333875",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2d26ce62c273d025bed77a0e6c4bdc770b789bb0",
     "originalSource": null,
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
+    "replacement": true,
     "sha256": {
-      "equipped-HAND.png": "13383fb317dbb967cd36f426e85147f263034578e478b65a7571f4cfd72e0bfb",
-      "icon.png": "30879b85001e460de329f6270c498fdd83c484043281541e1e6f1f57bb21a980",
-      "inhand-left.png": "719f11686bc983cfbd6b9cd3e3e6dabd1346e8f0419cc82cb46c5f1ea0cd08cc",
-      "inhand-right.png": "0a1a27c1a31605940fc15c53f0722555ade137d4dd48d71e15d6c8a302adadae",
-      "meta.json": "dc1ab748932b042a014b882522b62ee3eb1cc3a99b7e98893b151159187f2034"
+      "equipped-BACKPACK.png": "2b5ce0b7ab634684626ded1f2a20c45f3a88b0ebdb9b862885cef63626464692",
+      "icon.png": "fba8bbf4d166668dc49239c1d434581f40632db4fd9cc5ae89dfa3e0e52dd6a4",
+      "inhand-left.png": "75f079b6c72eb8df2ca11dc78f3a90ddd86f8ea87444a532f4b365fb740619e3",
+      "inhand-right.png": "fadd08f65cda6afe9f01eb081130d2793fdab1c774b113f1e5dc46aaaf407993",
+      "meta.json": "40069391c83b328fba09e4926622383ea5a414cd4fa3783a80a1d6e355933ec1"
     },
-    "replaces": []
+    "replaces": [
+      "Clothing/Back/Backpacks/electropack.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/electropack.rsi"
+    ]
   },
   {
-    "source": "Resources/Textures/_EinsteinEngines/Clothing/Head/Envirohelms/ancientvoid.rsi",
-    "destination": "Resources/Textures/_Lime/Imported/Goob/EinsteinEngines/Clothing/Head/Envirohelms/ancientvoid.rsi",
+    "source": "Resources/Textures/Clothing/Back/Backpacks/hydroponics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/hydroponics.rsi",
     "category": "clothing",
     "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from TG station at commit https://github.com/tgstation/tgstation/commit/a3849062b8756e3c2176fa0b9bd80aef9facc3ef and modified by Skubman",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
     "originalSource": null,
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "replacement": false,
+    "replacement": true,
     "sha256": {
-      "equipped-HELMET.png": "d837e299ab010ee4630516c793fab8c01ec8af834b38ae6126226e97b5e98fb2",
-      "icon-flash.png": "b41e2fb270132b2333091eb54ab57e62505564e06f558c1c2e321cb8942564b9",
-      "icon.png": "c936f820108be1b91ea935b55868a1f8ccf16e4bee587d75c8785dfbca235eba",
-      "meta.json": "67d66fb556165f500061a22d55653f95e1339a2191ca0e100b3e42ce370d03e5",
-      "visor-equipped-HELMET.png": "061dd0d757ccc3af3f962743659370a8831d47d0418a55222435a67483768edd"
+      "equipped-BACKPACK.png": "b61bdd793a8c40025f6c1052744d7b5bf6fa9d72e63594d44e383c34a0ae01c3",
+      "icon.png": "2c67efbc98b9b7db64fd961a39935998514a2ca01d139c337aadf1fc0cc3742d",
+      "inhand-left.png": "be9cd32c128dee0a25302aad514ec4e98c26e692bcc294bb48db8a508cd60637",
+      "inhand-right.png": "172ff5b84ed8ae139590b8b324fd209fadcb04ca10eeda0f0dd1ee145b9aa025",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
     },
-    "replaces": []
+    "replaces": [
+      "Clothing/Back/Backpacks/hydroponics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/hydroponics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ian.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/ian.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RobbyTheFish(github) for ss14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "a36c2dd2681bf6d9b263e418ade9da7cf594ffe4d9472723d156148015aa915e",
+      "icon.png": "e8f4097108157e95e7e555e2880e89a80a85f6c16672d1aa18d0eca0fc11911e",
+      "inhand-left.png": "4b0965206ea715a6c77f22e9caf3a9ef44937b4588bc8f66685162855bb34fdd",
+      "inhand-right.png": "3f8cbd0c45d8f4ad8fb073f1cbce6b7736e96fbeae819fee4c9d1f82701fcb18",
+      "meta.json": "02db957b6a62645626e51e3e99ae6660806bf07883598ad477d1ca5cab344049"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ian.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ian.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/merc.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/merc.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "modified sprite from Jackal298 based on the sprite from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "cd2ed657c152c80de7c720d84c3c5cdec6732a1c30aba9cbdbaa0b4fe5aa09e2",
+      "icon.png": "f1eb1f082bd2fa9148d1e27e71be54a537f4d949903dab072e1c6b8d6f1c4f9b",
+      "inhand-left.png": "fb3ff9169252898d9d38e7469a7f68a5b4e6b86499f2e955564780c0d0010612",
+      "inhand-right.png": "e123c2e04e9f2a3fe93ece0bb43497cec09509ab5c5c03b901f30ab2b034dd6f",
+      "meta.json": "715138de19e6842bb1416b62399f2fcc0a12e7d53be40cce34d2b6beba8b2a23"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/merc.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/merc.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "0558d4d388876bdb61a77e8a58626d0e1fd7cab0529e92ea542e1342102cdd4a",
+      "icon.png": "61f8515dc9742406f513486839ae2fd365cf68e6881297162aa8c98ff602e778",
+      "inhand-left.png": "0db50840bbfc934b3e6e96dbd1267c8f9ec1fe94de96d0e44e3b4d4f42935846",
+      "inhand-right.png": "044cc69cb30a65c9e9b83a8672ba60589b6eae791b31cf4294e53a31de0698fb",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/mime.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "16ef7ffdfec36ff5ea00fcb991089cb6de6852594dea640de8a9aed60c79a8bf",
+      "icon.png": "cc3ef10a8005a7d83389da1f1372cba580785c95680a7bc8039e88829ee1f2c6",
+      "inhand-left.png": "9b2832269147fe1bd3e97646fa70243586a1031d24aaa0ae674fc7d900a1bcfd",
+      "inhand-right.png": "607896bfa83396bd89380499d2cc124a5cf2b8eb823280a411abc59ce9789e09",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/salvage.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/waterbackpack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/waterbackpack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/f7337f1aa9efdcc1403ca4771d638e0634074537, icon-filled by PS3MOIRA",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "09a4bf58a24d68a090f4f11ca5cb9e407ed0441f1b26b497ed984f616e7568b3",
+      "equipped-SUITSTORAGE.png": "09a4bf58a24d68a090f4f11ca5cb9e407ed0441f1b26b497ed984f616e7568b3",
+      "icon-filled.png": "c3f7c3d27a4cc39a0d8466d4032094952e242688784ed64ff38fb92025001cac",
+      "icon.png": "a956838b7ed20d5877997d367b44e292c19082ef147cdf4c39a6b7e275f898b9",
+      "inhand-left.png": "e59de81d74abb6d8a44cb50ef81163ffdab4a847f84aee35fb56c8f7257e5c9e",
+      "inhand-right.png": "fb8d143c207a1eb65e7ef2306ecb32a893923250a28c42dc1a43ae993203f1c9",
+      "meta.json": "cdec6d06c429907bd7014d0cb2c411336f82b9a7585df90797fa38be9e728696"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/waterbackpack.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Duffels/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "ebf81748463211b33422aeb010594691ccaad56fd5f0e5f38b152dae36c6a0e2",
+      "icon.png": "924bea196a2672f3b6bb6244d4db86b043ff5d0f7569303132eaf7d62ab9c78e",
+      "inhand-left.png": "71ef78b52b2bd80bc1ad01a3658a0661ce0467be45bf917b1cd7673b8fd28c6f",
+      "inhand-right.png": "1f1b5ba7ded89b06a1ef71be446042a1350e1804fda1cb3f5d8c0a0e507a3500",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/clown.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/duffel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Duffels/duffel.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "4ca4dff03a79faeb655f7f7c94ad72620d3434cab4a366560154dada6c2c0ad4",
+      "icon.png": "07b02702a82848ce9954824f4219a1acd5eeb53d9a8820fec0ae04a74b6f615c",
+      "inhand-left.png": "df5a4d8786e1f7733033a915668bd8d5854a1aa55410bc2c85be67d737c92148",
+      "inhand-right.png": "794e94f9522fe2279d6f992b7e13161646bd23ef20e397b8f79cfb1f7a9a727e",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/duffel.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/duffel.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Duffels/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "f67b728a3c94fb3c8b89608cd2f7b99d3d1b85704ffc31020fd6bf7fed4d7a14",
+      "icon.png": "16df37af15f25bfbfe838ebcc5a22f7fc353838beeaaaad9ae248dd3744a981f",
+      "inhand-left.png": "d2f8f3b09066f859fbaac0c07b5e3ce25afe144c01e36dbb72e0b27dcfa41299",
+      "inhand-right.png": "76267ae598dae686e0664452b0f883d62691406b9f0d7a42bfdebe800a57995f",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/engineering.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/hydroponics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Duffels/hydroponics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1. Modified by potato1234x (github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "123ad6b25c72d542f10b1e9103023c54095f41d7f23d3a7417a4918e99a58e54",
+      "icon.png": "126ba309e26fa1d2e1d5d31e5d97ee2e0c0b91e7ab7127b65e20d03762226fd2",
+      "inhand-left.png": "c8e01d9ac4d5a75bc8d40ff0986f5bb8b56b471b1ef19a8e29d98eb57a7aeff2",
+      "inhand-right.png": "c98be9076deb6c84085aaa099c18853b276be65417cbf5dad6251612c3147061",
+      "meta.json": "b62e56acd8815329e2f6cfe7f82fddb4c4de1da903b13fd5a22e9e7b9fa1d6b0"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/hydroponics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/hydroponics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Duffels/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8c0071da9b6079b69370309a567f12de3d8add367b4cbfd1e8b3addcb678ed71",
+      "icon.png": "0735b8d7d6061288cf023382019fdaec5eb742177e1a867a9edb0ce6d601fe12",
+      "inhand-left.png": "f4c9e42a3443c6f4f758112758f5fef96de88c4925a05b5fe7a0ce333cbc8372",
+      "inhand-right.png": "3f51ac8fa77944557d44922033da02bc848ee660cc42ee33b9c8e5c2cc80aa82",
+      "meta.json": "bf1854130981a4ff7dda042c50d55ab3eff16d83ca6c7837542c50284fab1364"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/mime.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "021e9cc5c22dc37333cc2e81b5d231c7a86d1f9c5feebaad27687e35a1bf14f7",
+      "icon.png": "523f0cc9ff9dc02482c287807fdfd93154fbf1baeea450532eb381dcbdf9cbb3",
+      "inhand-left.png": "b233d8614c326b51fc28dbfbc794fc71317c5af52c63d82972d2046968e72ab9",
+      "inhand-right.png": "2c87ee5155932e4267ed1c2651330abba78de7a36a04e036c8e15489fd86bae1",
+      "meta.json": "c2cfbbad73344d713026342bcec03ddf3a10f25426377e1f986d2b34e3d81f5a"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/cargo.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/cargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by лазік#7305",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2e55e18b4cdd396202db03657fc9bfa2b3ce62ea1ed22f369467cfb7eb2ce7bb",
+      "icon.png": "4b2547ebeb351ec6e90b1c0fcdf043317e8333ed50236e3b241cb75570b023db",
+      "inhand-left.png": "8e2692daf3ccd77700bd1996d13e1e683aed5be27bf672c5278752ed527442d1",
+      "inhand-right.png": "833bea7ffef88c5459c3c0594e1758fc43ceb2bc4b2c4c8a70a6b794b04da192",
+      "meta.json": "8592979715935f63878f4e758e9b2dfb1d942f30e8d7fe486f3b76d5e70165ff"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/clown.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "03a3fc2e15bd474681d20faaceec76fbe6618c12a39ea5310cc8ac76a0fd6421",
+      "icon.png": "98125841f401c227b2cbd7febea5fcbf20e0354778fad887a81065515bb8f669",
+      "inhand-left.png": "a7a47fc024a707e14ce28ba1b1c431543e37a19bb395511f027235ce8612bc7c",
+      "inhand-right.png": "6f4405c3ae7b909931ec7e29dc0685e3254c4c9fd0c716849b713c2fc8283955",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/engineering.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/hydroponics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/hydroponics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2079e094ca8f8197347329f8047525161012fda5d3e95a0b0b81d34f75c91588",
+      "icon.png": "2f184cb7e4b56c7ed715dc1421aacfc77de625697f5d80b88307def28abda39c",
+      "inhand-left.png": "c2832013bb546ad87025d11924309f27abc333c32856c32efddf4cc3d7d74cb6",
+      "inhand-right.png": "ee629a84f8066c798ebfa4865091e533e359696349497eeadaf3a67163e49cf7",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/hydroponics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/hydroponics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/leather.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/leather.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation. icon from https://github.com/tgstation/tgstation/commit/c4ce2e965d33f3491173964fcbee3e43c0839bae , inhand-left and inhand-right from https://github.com/tgstation/tgstation/commit/a340fbac628722955b98c7d082bb8a3bb3ef664b , equipped-BACKPACK from https://github.com/tgstation/tgstation/commit/f13f1fba5350c90d1f09476471bb1cc296f0ad3b",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "79c41d8a50fc268ac7d814853f6e503d626b0c7eee6ee8374ca2331456bd2bdd",
+      "icon.png": "73569b34cea4b2712cbea2f869058cec5b0304749648b693a8fb1c6cb3c72fc8",
+      "inhand-left.png": "188358566508a7d1edae2dcd618512e630011ad79ffbdfc4c0a4773246e41461",
+      "inhand-right.png": "388a4609718b0f0c111b787b7e582662d1c16c8b97ff5d77632ada148d9d2cc6",
+      "meta.json": "70387fdc32162a3c6eec90512b2d89f68be7fd5b69f1bd5747ac4fc9df3011a4"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/leather.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/leather.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by mureixlol (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "85d5c3a243cc1b252cb34b250d6067ecfbd067d3230dcca2f0cffe5667568105",
+      "icon.png": "d3c3465821a2d0a287046c9f902d156a9de707b82bdfa23f70627041d97df17c",
+      "inhand-left.png": "32be8af375deb5a4975725bc50647766447efe5590f4b00c0b889b67a5fba7cb",
+      "inhand-right.png": "b6c92b1b11b31f980e73b4acce55db1d87d15f20787f2a5fd6d64901d6af1277",
+      "meta.json": "f7e44218ec13a8ff4bc716b9f71c67afae598d4043d48dc93f3f1c1752c11bd9"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/mime.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/ninja.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/ninja.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by YoungThugSS14 (Github) ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8cac906e8bd6f518c94b934d635af84b37c102ccaeae96cb9d044af52884a83c",
+      "icon.png": "b7c9922921c92e5fb82b9f6389ff00cccdb9de6360e38301db58f3ae3ba35c34",
+      "inhand-left.png": "815f1aa811804420f5f0321b16b091a5241c6060e6faceded2936a9e85d6320a",
+      "inhand-right.png": "2c35ad6fad8e1a5bc27a448d0d6f28b72b1433b30da4394f1fc4c3fb89fc4430",
+      "meta.json": "95cbe11eb3fcab362ae0be43fe8cec3136f595f886fec889b6cb59fdad3272f4"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/ninja.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "911d5b8dff6a0205d110166dbee587a8604423e22ab21794bcf7848648980d43",
+      "icon.png": "be8191216af5e12edd1509efb7e6cfa68753d454066cdde1a4e848b138c37159",
+      "inhand-left.png": "ca017274dc462990385d1e23d53ad4c2f1882658e76a3c966d3305e007c0bd84",
+      "inhand-right.png": "ab85d3d41302522fc57842589cac7d440a7f2a6e4718e7fca176e6dcaeb8456b",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/salvage.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/satchel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/satchel.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2c5708b8fc08696dc7496a20f43c1fbe1191b5ef5efeec356a3ea0b54e63611c",
+      "icon.png": "85a807b7b464d4b1dde3c84cffa623f770be57e0bceb01833c75541b7b9a81f8",
+      "inhand-left.png": "fec83dd1a073b8e6d0f3fb8f74e97ab2a91158301907e9bb8c541b2d9f4698c7",
+      "inhand-right.png": "c964995a964cf429f87884767a8d16318518c2573f22571c004770073be92865",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/satchel.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/satchel.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/smuggler.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Back/Satchels/smuggler.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a8056c6ba7f5367934ef829116e57d743226e1f0, folded by princesscheeseballs (Discord)(https://github.com/Pronana).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "78b781871109c8ecaf1d578dead4cbfa4d41e4a3e9494a05841064ff2f7001d9",
+      "folded.png": "579b916f54e9370c5c60bf631d9cd180d3c4dfb39c8c3014e25c93925bc9e543",
+      "icon.png": "bc4cd3308f46f385ac263911b7720a54e35b9f6b0ac995c2aaa41fc97145d13e",
+      "inhand-left.png": "fec83dd1a073b8e6d0f3fb8f74e97ab2a91158301907e9bb8c541b2d9f4698c7",
+      "inhand-right.png": "c964995a964cf429f87884767a8d16318518c2573f22571c004770073be92865",
+      "meta.json": "1c3ad5232765a2da1f29bb9c3535b6f43ae2bad1a0570097fd5fe3980eb8a7d6"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/smuggler.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Belt/holster.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Belt/holster.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, icon-filled by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "37a2bf0a0ded0bcc19ae82eebd1e00b053370745a7a4493066b8e2fde2a3aa32",
+      "icon-filled.png": "79fb7f0be00f6e987299224fffb56404e6ee5d84172eaf1740e6e60b797bf85f",
+      "icon.png": "f9e971fa71370bf5386c5bbfdaa6d5e7b9754bdeeb504051e588243f5ea375a9",
+      "inhand-left.png": "a8597829c7a30a1410300d73bd042d6f82a9e41fd68f60e0176c7e524764a800",
+      "inhand-right.png": "799a9a69e5c2eeece8cf5cc38cf06e8279cc0d1c27a9bc13d9161cced92827b9",
+      "meta.json": "a1090d4010d663a8c6d5ad648ba5fbe4258ca809587b6e1749c44da2a29e4901"
+    },
+    "replaces": [
+      "Clothing/Belt/holster.rsi",
+      "_Lime/Imported/Monolith/Clothing/Belt/holster.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Belt/mercwebbing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Belt/mercwebbing.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "modified sprite from Jackal298 based on the sprite from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT-vox.png": "36ab19f2f3ef5f6258b7bf901073386ef5c0fecbf04366a740dc27210d1bf077",
+      "equipped-BELT.png": "c2210482867ccc4691d70de7a242be9b782ada48fd6b05e3c4b858fe9cdca877",
+      "icon.png": "bb1887f2e6690fbc066e7c118c37969951af818a94083c69572c96479161b1d7",
+      "inhand-left.png": "91b338a9d4d8ed3766434ffcf01f861be82b8a45bf036fcd3821a997ceebba74",
+      "inhand-right.png": "5f4d0d5434c841af6d367859298e53958dbe26d1b533d2b4f52e44e3ce3cc46c",
+      "meta.json": "334e4370d2407f97496f574fa4338a4d3302b08001322643b4bcf7431d58e7ee"
+    },
+    "replaces": [
+      "Clothing/Belt/mercwebbing.rsi",
+      "_Lime/Imported/Monolith/Clothing/Belt/mercwebbing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Belt/militarywebbing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Belt/militarywebbing.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT-vox.png": "2d978b3138fc19dd85bc0e68e0c710eaa9fb12c929659a5e83cee38a61b5588d",
+      "equipped-BELT.png": "93f42702524928394ab8df9320485705029dd68988ef0f55ace7c9047ea385d9",
+      "icon.png": "dfb1acaf1792cc7915230d3b81618a74b6360cca141aa7180063bb5a26e4b0b0",
+      "inhand-left.png": "e2d1cbdea34638936966cb5c05ff5dd422f2a05983ec9b0345694a97e0b673ce",
+      "inhand-right.png": "57efd0e0bfb675638e523aebf89ac0889b6a28506e0f528f2cf87b1aa5bd9023",
+      "meta.json": "2087e36cc8c2ba78ec87cac3a18448939f6f3387888118ec3e48bd0909a10e34"
+    },
+    "replaces": [
+      "Clothing/Belt/militarywebbing.rsi",
+      "_Lime/Imported/Monolith/Clothing/Belt/militarywebbing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Belt/militarywebbingmed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Belt/militarywebbingmed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT-vox.png": "191061747123a07709241a368728341702419dfd24f6ccfe5369bc9246b7c5e8",
+      "equipped-BELT.png": "8f4838ae0834de6d157f16fde4496b22769d04958d82c5c9d0d24a875da53e3a",
+      "icon.png": "82949fa7d801e1059c5d7fe66904a19ce00624d6f50b6f1b59fd1414ac0e7381",
+      "inhand-left.png": "e2d1cbdea34638936966cb5c05ff5dd422f2a05983ec9b0345694a97e0b673ce",
+      "inhand-right.png": "57efd0e0bfb675638e523aebf89ac0889b6a28506e0f528f2cf87b1aa5bd9023",
+      "meta.json": "e862fcd2419e6377408fef96fa0012ff3da019bfe22d69f21ec06fc8b5ef8980"
+    },
+    "replaces": [
+      "Clothing/Belt/militarywebbingmed.rsi",
+      "_Lime/Imported/Monolith/Clothing/Belt/militarywebbingmed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Belt/securitywebbing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Belt/securitywebbing.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, tweak by @mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT-vox.png": "4168ad54afb4117aa526b3f705f3d6afb42cff554b772a2b09ef1c91431f25b3",
+      "equipped-BELT.png": "17e08725cb49e49b69ae3f8cc382b41d35ebdfd36ad00654a1d49016d51ea185",
+      "icon.png": "46a2a7d027345ce9a9ac49bd0e605c1a30df7a8b662bb5d95fc2482a61a32a7d",
+      "inhand-left.png": "fa22a4c29710732b2fa7874e1476be523f93da1dc2fcfd0ef180002d258e0bfe",
+      "inhand-right.png": "508f6f493c9d89c97ea2025255ea3b29b46c96725f0005e1ca96a7b0f718d280",
+      "meta.json": "cedab335d10319f3068e88ab08110dd759cc5e1d084715fb24c87902a1f02a9b"
+    },
+    "replaces": [
+      "Clothing/Belt/securitywebbing.rsi",
+      "_Lime/Imported/Monolith/Clothing/Belt/securitywebbing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Belt/syndieholster.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Belt/syndieholster.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/94daddb1ac6625e2a7f7a88d62235ee44a480b5e, icon-filled by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "e522c4cb5ea1eab42a5904327c4c6b4180aa74b7fae1d02bafe182de5b8b481a",
+      "icon-filled.png": "16c43691e952172a677a3a5765fd81a2637d8f0df41fdf15a1edf7a0038699bd",
+      "icon.png": "a04fd2f1b06ccae8a4dbb017cd0e397cb0733624ad4dbdcc485e254bf52449bf",
+      "inhand-left.png": "88ae773835f30025a0b096689b1339e2c10b05be0f20cdb13ebcb602aea81a56",
+      "inhand-right.png": "f796826bdd0aeabbad493ca25261aafd9edc0fba508971460c070eb1b823a2ac",
+      "meta.json": "6b0b39f2370a6510095eaead06a349af19e0e12d57b4649641415b135e9f1d7e"
+    },
+    "replaces": [
+      "Clothing/Belt/syndieholster.rsi",
+      "_Lime/Imported/Monolith/Clothing/Belt/syndieholster.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Glasses/commandglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, edited by Ghagliiarghii, equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "236ef7bf94978e79ce11e7e9e9cab63b984006467606cc23bbfc94e276c1bcaf",
+      "equipped-EYES-dog.png": "c825ed85057853c955b865a302f2be55757dc06f137c2f3b9ba3fbe8e025098c",
+      "equipped-EYES-hamster.png": "ec7ad0c27a29a89b457b93a4ab5c67c9f29ce8da4943d945836435e5265e6a1c",
+      "equipped-EYES-moth.png": "0f8100379eb3016f9f158dab6d8e74e00b92a7cacbbdc5f1904859d2af519482",
+      "equipped-EYES.png": "c88cd93e05d18b9ee3250bd9ecd80326c63ef1ce55fc7079445b9670e7afb004",
+      "icon.png": "9938748e46034c97fdd5606d157ac80edf188556ed06be6b4f3a24cb358f990f",
+      "inhand-left.png": "e07b95fe386e6eb67f2b806a6211ebdec520cccdefef3f0815571d00118c0134",
+      "inhand-right.png": "fd787db95b1900a0966709e4bb80c40f57dcdb4c25fc41957444155eb4627de8",
+      "meta.json": "940261b9ec9f8ceab6fe69d4481792ec0d6ab55c081055365572c984851652d7"
+    },
+    "replaces": [
+      "Clothing/Eyes/Glasses/commandglasses.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/commandglasses.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Glasses/meson.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Glasses/meson.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. equipped-EYES-secdog modified from equipped-EYES by TJohnson. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "43a1a54f90907fefb844d62d95731f58848933120246dcdf9788d91fde51c47c",
+      "equipped-EYES-dog.png": "a7af115c670b553140a0978d660b703a440bd2c2a311e962c0fd83f717f02a56",
+      "equipped-EYES-moth.png": "32d5a63897bfe3030574c574158dfa2d76c2a61ec829bda3b25e9520db8e6f61",
+      "equipped-EYES-secdog.png": "4e0eecd660e155e84a14b723c8b170eaf2d635d87b77af4c4962e8d5a0d44152",
+      "equipped-EYES.png": "837c3360c42753c2a0b07f5f15aab1a56892404b094f964940c65327022fbc6e",
+      "icon.png": "4a9054afa8d77d7f083fdb1bacbe20c869da30b819ea399a55282b15ef789431",
+      "inhand-left.png": "a9188d0ae8e12d14c66e538f904b3f65e0152fc221fb45d5591e1bc3080ca8c0",
+      "inhand-right.png": "d1b78855ddb284347c5332c2ee7859cd04c50bc94fa20d781e0a50731836eb3f",
+      "meta.json": "127854d73b168f1d19b9f2b326f7ae6c1d9aa526f0398ed8cab967354f007896"
+    },
+    "replaces": [
+      "Clothing/Eyes/Glasses/meson.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Glasses/ninjavisor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by discord:@mishutka09; equipped-EYES-arachnid modified from https://github.com/ParadiseSS13/Paradise/commit/ede55cc8f5b50abcd4f51d37779b56853a440a9a by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "fd17e17dc2e76bf1010d7d74e126e7af11a8f47000e78be6d709c16a4bb05e1d",
+      "equipped-EYES.png": "bfb87e7d57ac65392aa31b3f2e3417d6fa0cbf6ba0874113d34e6de0f6c09343",
+      "icon.png": "d43e53ef617eed247631f65762ff53a176ccb4556653810684e416af729e1d32",
+      "inhand-left.png": "737f3e3db42eaf9e4e5c4d95d8a16ce26f0350d973ac2b945a2ff7fb7b05486f",
+      "inhand-right.png": "860917f97a53b5900c0843fd611326bcc94bd7283e36412309d501b3e381a822",
+      "meta.json": "869f615eacad0e1a0d003605efee5d64bd2fd766c730420109f57dcb46c43227"
+    },
+    "replaces": [
+      "Clothing/Eyes/Glasses/ninjavisor.rsi",
+      "_Lime/Imported/Monolith/Clothing/Eyes/Glasses/ninjavisor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Glasses/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "689f4c9a43a1cdf43980024296a4548bfd3a2972836a6d9f2986a4565d5e5885",
+      "equipped-EYES-dog.png": "85939f8a80868af9f4b0e62f9e10430eed90c34212c52be78da87814ecf8002f",
+      "equipped-EYES-moth.png": "4a8b830cbebf4da5078ee8512b9375f4734ca67bc79ed18d9187dd7870bc9154",
+      "equipped-EYES.png": "aa776b12fbfb5626a9bca2f65dd7224fd5fc0381df02ea297a4818cf86b2216d",
+      "icon.png": "80320a6f8a4a8d41832d34640cc511fa685cc4f7e110c17869733e671bc1259e",
+      "inhand-left.png": "2b8520fb3d3e34524d53dbc0265755b7a789317fc6e0eda0dd714dffd51f9f15",
+      "inhand-right.png": "0e47bfe82ba03b80a1bfcba56a6014cad54b7b22861333ab38d47b9d09100eb7",
+      "meta.json": "5c889975ace726683d697c9b28bb5ef7c562c6ba3b369287b3ec4f1f00584381"
+    },
+    "replaces": [
+      "Clothing/Eyes/Glasses/science.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Glasses/secglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Glasses/secglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. equipped-EYES-secdog modified from equipped-EYES-hamster by TJohnson. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES-secdog by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "273ceb632be42701b85e7ecc7955d9ea1e34fea529e8f57df00289e114046134",
+      "equipped-EYES-dog.png": "741300055628597edbd7864a672e24411754234642247ebc4415884903fd591b",
+      "equipped-EYES-hamster.png": "c1da99ec28a65da316678cbc29410507eefa423251cfe0edda04e068a2e98994",
+      "equipped-EYES-moth.png": "1654d2f680262fc690e92b173278b9edb5ef65fa8dca26c978f969f945a64f66",
+      "equipped-EYES-secdog.png": "ea6baddbf383c5febbd66afe9bacbf42d1eab44bb7a5d6f15f1f8c2c8ec7ca18",
+      "equipped-EYES.png": "2973f6fcd1ef9e52815b104338b1c6ca13f36f2044e385bda8b5153b9bd3e418",
+      "icon.png": "28c1e5e781441d5f7a62f6be81e54b2e2c5be4cee3dae8dce364c538e1f7a8d2",
+      "inhand-left.png": "bed055a6edf566647db796901359cba2a60296ea66ed4ca3a6b071f7dde39f78",
+      "inhand-right.png": "7f8bc33f54dd9edbe218ebff0df0e943405d1d3cf5e3bcb7a3fe693a01d3d5a7",
+      "meta.json": "61fa2865d8b21b27c88c7f880192a30d5ecaa8e31dfbbf3ddf3d3594cb5abacf"
+    },
+    "replaces": [
+      "Clothing/Eyes/Glasses/secglasses.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Glasses/sunglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Glasses/sunglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. equipped-EYES-secdog modified from equipped-EYES by TJohnson. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "e59577d4b41bfaabe15c885254104016d6cd0bba476dccff2aefd8f192e57cc5",
+      "equipped-EYES-dog.png": "7e31f969e0cae1a81b3013724e8d6eb03397352894e40d3100fc09cb7e19ca74",
+      "equipped-EYES-hamster.png": "38076e55e8576d4be35e19a6613c9f4b2562daf350309a74f6340e025960f173",
+      "equipped-EYES-moth.png": "e4d5a6fc8e38f0dcafdb7fb9abd0a97d204df90d3499bcdf3858b454300a547e",
+      "equipped-EYES-secdog.png": "e430c88a81a89f62d0ec96edc8653872ae178d0c44887524ab8039cb3e81fa77",
+      "equipped-EYES.png": "9fc2c5deb4cb76b1c38c26087b13bb0b402e916ba89e2bccf956e91a4959b524",
+      "icon.png": "0b3979535bab7685b03b086e3b4ffe6bfc58e0f244540bbf78b4a454a63b1d37",
+      "inhand-left.png": "f2729eeb325cd0df6017ed01acc88bbe7a2aa51f3d643575811a07c2b4032006",
+      "inhand-right.png": "3c14f3c3773e7cfb1a7e62b163734ae790cbba9cff85450fbad1721c79d11f43",
+      "meta.json": "bf62e05b97a3661504d21be55de1658eeb3e70c84b2bad6dafcb14f6e5ea2a18"
+    },
+    "replaces": [
+      "Clothing/Eyes/Glasses/sunglasses.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/beergoggles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/beergoggles.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. Equipped-EYES-arachnid and equipped-EYES-moth motified from equipped-EYES, inhand-left and inhand-right modified from inhand-left and inhand-right from the glasses folder by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "bb85a10bf2bbfdf28cc3ac9ce6a279fe91f4d47e8a6821a059fd0f58148b2f8d",
+      "equipped-EYES-dog.png": "348624bdc442c45f77bd15d82c9dc07d94eb308c283c3f45a654823490ad5896",
+      "equipped-EYES-moth.png": "9d493979504a6d6630872f94882bcedea972b7c4f4884ad0ddf273c981f1d68e",
+      "equipped-EYES.png": "85d4a018690fdaa39fdcc95f2718bd123aee3c39cb50a081799f8a986a3c0839",
+      "icon.png": "9886898446dd47695e03fa135c8501ef1646484d70197197196baef072487ce8",
+      "inhand-left.png": "754f3809d7cc10ad1f9664b8c5be4afb68cdd9161ba416820712d241bdaabebe",
+      "inhand-right.png": "fa635c8451c3f13d0ec99182fc35ffccf2e0a2753d7f11faf3884dbaccfc3908",
+      "meta.json": "9c16e8f37d13c1d88764ac7804a1e08b5843ba3a16c0d966b02488be799c5dfd"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/beergoggles.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/command.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/command.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, edited by SlamBamActionman, equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-eyes-dog from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "9bf5d3cba02265460710bed0693bc5cf2ef62424899d6306abd680af493afc53",
+      "equipped-EYES-dog.png": "f7968ef8af0f0633933bfe4f4b6e0248a20d987f3a87a0b98793537ed3a4b839",
+      "equipped-EYES-moth.png": "e8ad0cf2237b568b0fff07d2b761741c35dad9654923093782e064316ed0272c",
+      "equipped-EYES.png": "f5977f4ace2cfbf03e3cacb091bf703a0b31be524e632ed0145f369e91516673",
+      "icon.png": "7b3990b83b7e9be28b25817702303385b384a5e128dda0342f1bb17b293e8485",
+      "inhand-left.png": "0371632b907f3c52aa131e6095f47cbb700d5c4761439fc34da132208e0cc2b2",
+      "inhand-right.png": "ea9ae78df50b2cfe22934897ce71b1d002c7938aba007b468ebb8ee13cf42acd",
+      "meta.json": "0da5f4b70a774baee19510fabf72ff4a22dbc4cf0ebdef919791800ec2b0b1b3"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/command.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/med.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/med.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "535b6644d4d9af9469e0f3f826cca610a391c72898d63abbd9e92961b268937a",
+      "equipped-EYES-dog.png": "bab630921b016e6499c4c12d34e42e8a314043c82fbe77b96d0e17e45cdf4188",
+      "equipped-EYES-moth.png": "cd3c9d125ebf8088f4f2fc1b24165cdaa7afccdb47ec45c04118bf3df6171db7",
+      "equipped-EYES.png": "c675d15d90661702d170bf1333d6db3a92e05e25595fa0c9daef861c46452cf7",
+      "icon.png": "1a0dcaab8e5cb1ad366b9d22bf5f81c3f9f4f9a06aaaa07bc422d13a89b382ae",
+      "inhand-left.png": "6f68ce3b4a7c480bacc3724361ad10bf9d0928ddb585de9ed4f185380e7eecf4",
+      "inhand-right.png": "bc6b81f9a937896db2e99c5d3a72fef96e9e34ab5b3d6ecb6dd682df19aec6dc",
+      "meta.json": "5c889975ace726683d697c9b28bb5ef7c562c6ba3b369287b3ec4f1f00584381"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/med.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Eyes/Hud/med.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/medpatch.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/medpatch.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da , edited by Alekshhh. Equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-dog.png": "a181e607bb55e014345e4a603693a48e2b45d61ca0902e3bcf976bdf755a03f9",
+      "equipped-EYES-moth.png": "7b9f107b33997d87440102ac24609f1309181596201baa3e979edbca3cf282c5",
+      "equipped-EYES.png": "2cad1ffc26361e167a8dc10add101fd637a10f9c12b68f31b4da015a880463d4",
+      "icon.png": "3d57cf4b76673127e02237d007af2d5e9f838b53fcc82d3a76ddd4f703561ed0",
+      "meta.json": "955585f4d378252ebb7fdcb11fece4a8667b00bed4ffe053631bf22417ee24aa"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/medpatch.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Eyes/Hud/medpatch.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/sec.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "56cb551e7e7cc95e2847bc9a4371d219531be69f527f47ea2c2d1d6e6d7ffe52",
+      "equipped-EYES-dog.png": "e89d328274c2dfe7f71fe2b587baea55fdc9abd55b9a27542504b557914ca5c2",
+      "equipped-EYES-moth.png": "e2eafc21afb7704ec37c8afb1f3781a50c69d354dd437201d7efdd3506ff2f28",
+      "equipped-EYES.png": "311b455168daf89c18c3b2c9e62c072ccf742e6ea54b8c90a93ee1ee767618c9",
+      "icon.png": "5aa4759735e0b8f62b0028143bfdb5205162d34d80e6ddf4e8f77bbbac12f372",
+      "inhand-left.png": "ef98516f63094e05e143d954ae3115e95b567f2f75ef23f4b07e7e104a98fc01",
+      "inhand-right.png": "99d5ee819afb5bf2edaade7f56ff19f3e337016d11a9eaa5835e1f612b2941ff",
+      "meta.json": "5c889975ace726683d697c9b28bb5ef7c562c6ba3b369287b3ec4f1f00584381"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/sec.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/secpatch.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/secpatch.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da , edited by Alekshhh. Equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-dog.png": "a1ea50bb52da62bb5f4d57250fbab0a693421c1ad48c0d822bde1818f0d47086",
+      "equipped-EYES-moth.png": "555208ce379797b2385d89fc3b4e4e58aa14f28d769cc01e7cf6836450b15fa7",
+      "equipped-EYES.png": "91b6d6700e5da8992a48457887c07dbdf86320f762ee4996feae93af33703c33",
+      "icon.png": "8eebf83fcfe08f5a9f189cdab638f84cfadf5fbb5254abe290092e52d8b29b4b",
+      "meta.json": "955585f4d378252ebb7fdcb11fece4a8667b00bed4ffe053631bf22417ee24aa"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/secpatch.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Eyes/Hud/secpatch.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/synd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/synd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by IntegerTempest. Equipped-EYES-arachnid modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "accbfccaa7b32923e1f9cdedd593975d82ae6425ffac6ab554278c23924f061d",
+      "equipped-EYES-dog.png": "f342f05b2f13ac6d4e1c8638be6e1c074f39249ae29ec00f7a2fa71a647765d0",
+      "equipped-EYES.png": "70b35c1597911d48253c1a3b9a26c214b0e7d8ed785fe943a06cbdd1c57b5cad",
+      "icon.png": "8fc9dc23a80b278b19c67a76a55f19288817b003c7eac0ccb9162772783485f4",
+      "inhand-left.png": "a9188d0ae8e12d14c66e538f904b3f65e0152fc221fb45d5591e1bc3080ca8c0",
+      "inhand-right.png": "d1b78855ddb284347c5332c2ee7859cd04c50bc94fa20d781e0a50731836eb3f",
+      "meta.json": "39108cb8584a1a6ddeec9f431659d2c7c280ed1f9c1f6213b0cb8aaa778683ba"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/synd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Eyes/Hud/syndagent.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Eyes/Hud/syndagent.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by IntegerTempest, edited by Golinth. Equipped-EYES-arachnid modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "c625e15b1fc21dc701e8f0b9a00370cea2f5207866315967aa83d3279a3e3a3b",
+      "equipped-EYES-dog.png": "a316905e4f82a66f6e49cef9465d080c168086746225f03eb41227c9162704fe",
+      "equipped-EYES.png": "1bb7c7b76861424c06bef7ff9d6142a3892faa98462d40d8ddc3f1dcdcb1dede",
+      "icon.png": "41add530c8db2eb546708152a0bed575e5393a2e7fa741a1eb7137daabffb537",
+      "inhand-left.png": "ea3502bddddd463a0d23ba5584cddeeaefd6bbb661c1a2d994ab1464ff151571",
+      "inhand-right.png": "a3aa3b74c8245c5dadc0aa63b4d7154b4e1669eb44efc0b4157ff51b227b330d",
+      "meta.json": "e9195a79eb6bb433d14667795c90dca515fe622afdbdf0f05e6d43a7e4f714d9"
+    },
+    "replaces": [
+      "Clothing/Eyes/Hud/syndagent.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Hands/Gloves/Boxing/boxingred.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Hands/Gloves/Boxing/boxingred.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HAND-kangaroo.png": "ab3fc7ead6ea2a83370b79b4e125b9d583d3966e147a73f0270e3f57b732d70d",
+      "equipped-HAND.png": "51c3dc0d01ca5c1db287823fa96d10cb7078d47e63d756b70ce7bcb06dec704f",
+      "icon.png": "eefc9fa59a5fcd5c100aba640c5f589c98f17a8d384f5eaeb15ad4d9d408cd0b",
+      "inhand-left.png": "f084bc8d92171ed2fe1af7a3426a35d4fff4f09701e459ed224d1ab1c065e188",
+      "inhand-right.png": "698111be806dae7a4ab9979354bfa80d4336ef4bc4deafe0c0287b6aa3dfbe68",
+      "meta.json": "8780456cec9bebad166ab96ad109033044a47019456555f549049b1b6654e651"
+    },
+    "replaces": [
+      "Clothing/Hands/Gloves/Boxing/boxingred.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/capcap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/0671297bb1c1b31d5885f2768aecbe9dc51d39e7 , edited by Skarletto (github), edited by Emisse for ss14, recolored by InfinityPandaRed, inhand sprites by SeamLesss (GitHub), hamster version edited by Ghagliiarghii (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "562b981240aacb0a6f890eae9939dd448f7f9ad276bc7ec28526813411457638",
+      "equipped-HELMET.png": "ff2b8fd095f40b06bd5588589cf1a4e9cd2b5ef6cb9dae2085225720d0bc4653",
+      "icon.png": "dca17b7fa4e87846909755cdd6365e61879653e3bdb084cce89ae95da5d85b42",
+      "inhand-left.png": "1e1be81c83cdeccc6c0893cac1936d813cd46eaf4b770d77741e0688a69113da",
+      "inhand-right.png": "c80b1546e0ab150c5a24dbbb72ff2c41251ac31518c2c90cfcd4b620210b2f2b",
+      "meta.json": "78e4e2315b7f22c2e37fb265ddf254666df745860d217df7418ae064e0c28798"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/capcap.rsi",
+      "_Lime/Imported/DeadSpace/Clothing/Head/Hats/capcap.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/redwizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Head/Hats/redwizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-HELMET-dog modified from equipped-HELMET by Sparlight (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-dog.png": "62ba4ca39429250b6c796cbef1b685e4b7f5a10fc07828d3aa9b31e3678e0af8",
+      "equipped-HELMET.png": "f9b2043a2a7202feb2a0276995ba9f3fefafbe364682ed78cda602dda2f395c4",
+      "icon.png": "fa7f67c07eddbbac5bdb0fb857944e74856d508a034fc9e1e82e80f7f321f31e",
+      "inhand-left.png": "12a41c5196fcbee0b6cb96a9501c833ca238356f9678ea59d00af49304fb06b4",
+      "inhand-right.png": "e4cfc162a6c744957a35bcc872eb7f9ad6b751da281a00f40191b2f003576d3d",
+      "meta.json": "36187e3ede90f48fe2eae25b645a4bdbffff85267c6d94e02bbc38b5ceb2ba73"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/redwizard.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/ushanka.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Goob/Clothing/Head/Hats/ushanka.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "e3b776f4dbf00d20ca1f17bc32ebd434ac26a4b35ae0c858a06abc935586be24",
+      "icon-up.png": "80d62aafe2a3aabbf86573abf027b58aeec54005c3813b6314abe85ed8feadf5",
+      "icon.png": "27ea3aa960b149558af72a7e30364885ef9cb451fa264f307f9b787c3b064dca",
+      "meta.json": "ab78b9b679a36b9fc08195a67e19752661f0d8ff5ea35bbbd754e67532daa600",
+      "up-equipped-HELMET.png": "929a9d709e53142441c963c80ba2b09042f7b4b15fee9031bfe5845cc3c0f928"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/ushanka.rsi",
+      "_Lime/Imported/Monolith/Clothing/Head/Hats/ushanka.rsi"
+    ]
   }
 ]

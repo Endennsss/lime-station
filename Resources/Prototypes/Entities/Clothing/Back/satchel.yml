@@ -5,7 +5,7 @@
   description: A trendy looking satchel.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/satchel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/satchel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Storage
     grid:
     - 0,0,1,3
@@ -19,7 +19,7 @@
   description: A trend-setting satchel from a bygone era.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/leather.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/leather.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackSatchel
@@ -28,7 +28,7 @@
   description: A tough satchel with extra pockets.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/engineering.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/engineering.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackSatchel
@@ -46,7 +46,7 @@
   description: For fast running from security.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/clown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/clown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Storage
     storageOpenSound:
       collection: BikeHorn
@@ -64,7 +64,7 @@
   description: A satchel designed for the silent and expressive art of miming.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/mime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/mime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Storage
     storageOpenSound: null
     storageInsertSound: null
@@ -148,7 +148,7 @@
   description: A satchel made of all natural fibers.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/hydroponics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/hydroponics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackSatchel
@@ -157,7 +157,7 @@
   description: A robust satchel for stealing cargo's loot.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackSatchel
@@ -166,7 +166,7 @@
   description: A robust satchel for stashing your loot.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Back/Satchels/salvage.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Clothing/Back/Satchels/salvage.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingBackpackSatchel, BaseHighlyIllegalContraband]

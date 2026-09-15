@@ -5,10 +5,10 @@
   description: A hand labeler, used to label items and objects.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Objects/Tools/hand_labeler.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Objects/Tools/hand_labeler.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: hand_labeler
     - type: Item
-      sprite: _Lime/Imported/Monolith/Objects/Tools/hand_labeler.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Objects/Tools/hand_labeler.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       storedRotation: -90
     - type: UseDelay
       delay: 2.0

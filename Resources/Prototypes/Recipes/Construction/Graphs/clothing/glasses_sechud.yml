@@ -15,7 +15,7 @@
             - tag: HudSecurity
               name: construction-graph-tag-security-hud
               icon:
-                sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+                sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: icon
               doAfter: 5
             - material: Cable

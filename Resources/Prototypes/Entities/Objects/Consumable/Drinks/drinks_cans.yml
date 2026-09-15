@@ -67,9 +67,9 @@
     - Cola
     - DrinkCan
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/cola.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/cola.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/cola.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/cola.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkColaCanBase
@@ -122,9 +122,9 @@
       - ReagentId: LemonLime
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/lemon-lime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/lemon-lime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/lemon-lime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/lemon-lime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -187,9 +187,9 @@
       - ReagentId: GrapeSoda
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/purple_can.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/purple_can.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/purple_can.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/purple_can.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -203,9 +203,9 @@
       - ReagentId: RootBeer
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/rootbeer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/rootbeer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/rootbeer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/rootbeer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - Beer
@@ -223,9 +223,9 @@
       - ReagentId: SodaWater
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/sodawater.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/sodawater.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/sodawater.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/sodawater.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -239,9 +239,9 @@
       - ReagentId: SpaceMountainWind
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/space_mountain_wind.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/space_mountain_wind.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/space_mountain_wind.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/space_mountain_wind.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -255,9 +255,9 @@
       - ReagentId: SpaceUp
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/space-up.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/space-up.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/space-up.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/space-up.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -287,9 +287,9 @@
       - ReagentId: Starkist
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/starkist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/starkist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/starkist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/starkist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -303,9 +303,9 @@
       - ReagentId: TonicWater
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/tonic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/tonic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/tonic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/tonic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -319,9 +319,9 @@
       - ReagentId: FourteenLoko
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/fourteen_loko.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/fourteen_loko.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/fourteen_loko.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/fourteen_loko.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -351,9 +351,9 @@
       - ReagentId: DrGibb
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -371,9 +371,9 @@
       - ReagentId: Ice
         Quantity: 5
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/robustnukie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/robustnukie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/robustnukie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/robustnukie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -403,9 +403,9 @@
       - ReagentId: ShamblersJuice
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shamblersjuice.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/shamblersjuice.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shamblersjuice.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/shamblersjuice.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull
@@ -419,9 +419,9 @@
       - ReagentId: PwrGame
         Quantity: 40
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/pwrgame.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/pwrgame.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/pwrgame.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Consumable/Drinks/pwrgame.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: DrinkCanBaseFull

@@ -200,9 +200,9 @@
   description: Upgraded sunglasses that provide flash immunity and show ID card status.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5
@@ -258,9 +258,9 @@
   description: Goggles that can scan the chemical composition of a solution.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     - type: Clothing
-      sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     - type: SolutionScanner
     - type: IdentityBlocker
       coverage: EYES
@@ -276,9 +276,9 @@
   description: An advanced visor protecting a ninja's eyes from flashing lights.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: FlashImmunity
 
 - type: entity

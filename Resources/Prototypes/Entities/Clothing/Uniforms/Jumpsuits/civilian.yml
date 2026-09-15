@@ -5,9 +5,9 @@
   description: A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ancient.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ancient.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ancient.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/ancient.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -16,9 +16,9 @@
   description: Traditional Japanese clothing.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/kimono.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/kimono.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/kimono.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/kimono.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -27,9 +27,9 @@
   description: Black as a starry night.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiblack.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -38,9 +38,9 @@
   description: Blue as a huge ocean.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiblue.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -49,9 +49,9 @@
   description: Red as a juicy watermelons.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaired.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaired.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaired.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaired.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -60,9 +60,9 @@
   description: Yellow as a bright sun.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/hawaiyellow.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -71,9 +71,9 @@
   description: Smells like someones been grillin'.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/flannel.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/flannel.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/flannel.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/flannel.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -82,9 +82,9 @@
   description: A long stretch of fabric that wraps around your body for comfort.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/loungewear.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/loungewear.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/loungewear.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/loungewear.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -213,9 +213,9 @@
   description: Baka mitai...
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/damedaneoutfit.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -224,9 +224,9 @@
   description: The good old pants and brigantine.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cossack.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cossack.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/cossack.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/cossack.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -235,9 +235,9 @@
   description: Made for true gladiators (or Ash Walkers).
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/gladiator.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/gladiator.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/gladiator.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/gladiator.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -246,6 +246,6 @@
   description: Makes you remember the time you did something funny.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi # Lime-Edit - графика Monolith

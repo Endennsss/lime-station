@@ -380,7 +380,7 @@
       - type: DisarmMalus
         malus: 0.6
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/NF/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       layers:
         - state: eshield-icon
         - state: eshield-on
@@ -390,7 +390,7 @@
           map: [ "shield" ]
     - type: Item
       size: Small
-      sprite: _Lime/Imported/Monolith/NF/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       heldPrefix: eshield
     - type: UseDelay
       delay: 0.5
@@ -452,10 +452,10 @@
   description: Something inside is burned out, it is no longer functional.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/NF/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: eshield-icon
     - type: Item
-      sprite: _Lime/Imported/Monolith/NF/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Objects/Weapons/Melee/e_shield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       size: Small
       heldPrefix: eshield
 

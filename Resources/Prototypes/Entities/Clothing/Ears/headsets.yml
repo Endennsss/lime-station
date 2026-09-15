@@ -22,7 +22,7 @@
   - type: Clothing
     slots:
     - ears
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: GuideHelp
     guides:
     - Radio
@@ -33,7 +33,7 @@
   name: passenger headset
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadset
@@ -58,9 +58,9 @@
   description: Headset used by shaft miners.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadsetCargo, BaseCommandContraband]
@@ -192,9 +192,9 @@
       - EncryptionKeyMedicalScience
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadsetScience
@@ -208,9 +208,9 @@
       - EncryptionKeyRobo
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadsetScience, BaseCommandContraband]
@@ -270,9 +270,9 @@
       - EncryptionKeyService
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadset

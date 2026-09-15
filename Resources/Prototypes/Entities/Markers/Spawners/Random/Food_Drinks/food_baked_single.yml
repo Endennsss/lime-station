@@ -9,7 +9,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: _Lime/Imported/Monolith/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    - sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: plain-slice
   - type: EntityTableSpawner
     table: !type:GroupSelector

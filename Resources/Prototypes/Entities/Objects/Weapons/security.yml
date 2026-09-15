@@ -5,7 +5,7 @@
   description: A stun baton for incapacitating people with. Has advanced wrist strap technology to prevent cadets accidentally dropping it.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Melee/stunbaton.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Melee/stunbaton.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: stunbaton_off
       map: [ "enum.ToggleableVisuals.Layer" ]
@@ -62,7 +62,7 @@
     heldPrefix: off
     size: Normal
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Melee/stunbaton.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Weapons/Melee/stunbaton.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Belt

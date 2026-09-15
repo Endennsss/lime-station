@@ -290,7 +290,7 @@
   id: NuclearGrenade
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Grenades/nukenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/nukenade.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: TimerTrigger
     delay: 5
   - type: ExplodeOnTrigger

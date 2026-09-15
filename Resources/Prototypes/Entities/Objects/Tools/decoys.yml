@@ -7,7 +7,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Decoys/operative_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/Decoys/operative_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: oballoon
       map: ["unfoldedLayer"]
@@ -71,7 +71,7 @@
   description: Upon closer inspection, this Syndicate operative is actually a balloon.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Decoys/operative_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/Decoys/operative_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: oballoon
       map: ["unfoldedLayer"]
@@ -86,7 +86,7 @@
   description: Upon closer inspection, this Syndicate corpsman is actually a balloon.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Decoys/agent_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/Decoys/agent_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: aballoon
       map: ["unfoldedLayer"]
@@ -101,7 +101,7 @@
   description: Upon closer inspection, this Syndicate elite operative is actually a balloon.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Decoys/elite_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/Decoys/elite_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: eballoon
       map: ["unfoldedLayer"]
@@ -118,7 +118,7 @@
   description: Upon closer inspection, this Syndicate juggernaut is actually a balloon.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Decoys/juggernaut_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/Decoys/juggernaut_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: jballoon
       map: ["unfoldedLayer"]
@@ -133,7 +133,7 @@
   description: Upon closer inspection, this Syndicate commander is actually a balloon.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Decoys/commander_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Tools/Decoys/commander_decoy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: cballoon
       map: ["unfoldedLayer"]

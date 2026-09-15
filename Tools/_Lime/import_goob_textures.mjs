@@ -9,6 +9,8 @@ const source = path.resolve(process.argv[2] ?? '.');
 const mode = process.argv[3] ?? '--audit';
 const root = 'Resources/Textures/';
 const deadSpace = process.argv.includes('--deadspace');
+const restyleForge = process.argv.includes('--restyle-forge');
+const restyleGoob = process.argv.includes('--restyle-goob');
 const forge = deadSpace || process.argv.includes('--forge');
 const monolith = forge || process.argv.includes('--monolith');
 const provider = deadSpace ? 'DeadSpace' : forge ? 'Forge' : monolith ? 'Monolith' : 'Goob';
@@ -179,7 +181,7 @@ const normalize = filename => filename.replaceAll('_', '-');
 const localRsi = [...localFiles.keys()].filter(filename => filename.endsWith('.rsi/meta.json')
     && fs.existsSync(path.join(repo, filename))).map(filename => filename.slice(0, -10));
 // Связываем исходные пути с уже подключёнными наборами Goob, не меняя их файлы.
-const previousAssets = monolith ? (deadSpace ? ['Goob', 'Monolith', 'Forge'] : forge ? ['Goob', 'Monolith'] : ['Goob']).flatMap(name => {
+const previousAssets = (monolith || restyleGoob) ? (restyleGoob ? ['Monolith', 'DeadSpace'] : deadSpace ? ['Goob', 'Monolith', 'Forge'] : restyleForge ? ['Goob', 'Monolith', 'DeadSpace'] : forge ? ['Goob', 'Monolith'] : ['Goob']).flatMap(name => {
     const base = `Resources/Textures/_Lime/Imported/${name}/`;
     return json(base + 'import_manifest.json').assetManifests.flatMap(filename => json(base + filename));
 }).filter(asset => fs.existsSync(path.join(repo, asset.destination, 'meta.json'))) : [];
@@ -323,10 +325,15 @@ function adaptAirlocks(text) {
 const edits = [], prototypeFiles = new Set(), connectionReferences = new Set();
 for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
     if (!filename.endsWith('.yml') && !filename.endsWith('.yaml')) continue;
+    // Сохраняем выбранные игроками штатные значки, шкафы и согласованный ключ.
+    const protectedStyle = (restyleForge || restyleGoob) && (filename.includes(`${path.sep}Alerts${path.sep}`)
+        || filename.includes(`${path.sep}Closets${path.sep}`));
     const before = fs.readFileSync(filename, 'utf8');
     const adapted = (!monolith || deadSpace) && filename.includes(`${path.sep}Doors${path.sep}Airlocks${path.sep}`)
         ? adaptAirlocks(before.replaceAll('\r\n', '\n')) : before;
     let after = adapted.split('\n').map(line => {
+        if (protectedStyle || (restyleForge || restyleGoob) && line.includes('Objects/Tools/wrench.rsi')
+            || restyleGoob && line.includes('_Lime/Imported/Forge/')) return line;
         if (line.includes('оригинальный RSI для отсутствующего состояния')) return line;
         const updated = line.replace(/(?:\/?Textures\/)?(?:[_A-Za-z0-9.-]+\/)+[_A-Za-z0-9.-]+\.rsi/g, match => {
             const prefix = match.match(/^\/?Textures\//)?.[0] ?? '';
@@ -353,7 +360,17 @@ for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
         || before.includes(destination.slice(root.length))) prototypeFiles.add(filename);
     if (before !== after) edits.push({ filename: path.relative(repo, filename).replaceAll('\\', '/'), before, after });
 }
-if (forge) {
+if (forge || restyleGoob) {
+    if (restyleForge || restyleGoob) {
+        // Сохраняем реестр ранее импортированных файлов, даже если они больше не подключены.
+        const previousManifest = json(manifestPath);
+        const removed = new Set(previousManifest.cleanup?.removedDestinations ?? []);
+        for (const name of previousManifest.assetManifests) for (const asset of json(path.resolve(repo, destination, name))) {
+            if (!removed.has(asset.destination) && fs.existsSync(path.resolve(repo, asset.destination, 'meta.json'))
+                && !assets.some(next => next.destination === asset.destination)) assets.push(asset);
+            if (!removed.has(asset.destination)) connectionReferences.add(asset.destination.slice(root.length));
+        }
+    }
     // Не создаём новую свалку: копируем только реально подключённые отличия Forge.
     const retained = assets.filter(asset => connectionReferences.has(asset.destination.slice(root.length)));
     assets.splice(0, assets.length, ...retained);

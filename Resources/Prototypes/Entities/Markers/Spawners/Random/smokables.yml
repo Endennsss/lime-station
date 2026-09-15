@@ -10,7 +10,7 @@
     anchored: false
   - type: Sprite
     layers:
-      - sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Smokeables/Cigarettes/Packs/black.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+      - sprite: _Lime/Imported/Goob/Objects/Consumable/Smokeables/Cigarettes/Packs/black.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: closed
   - type: EntityTableSpawner
     table: !type:NestedSelector

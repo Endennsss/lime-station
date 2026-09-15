@@ -48,9 +48,9 @@
   description: A heads-up display that scans the humanoids in view and provides accurate data about their health status.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/med.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/med.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/med.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/med.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - HudMedical
@@ -64,9 +64,9 @@
   description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - HudSecurity
@@ -274,9 +274,9 @@
   description: A heads-up display that scans the humanoids in view and provides accurate data about their health status. For true patriots.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/medpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/medpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/medpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/medpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -295,9 +295,9 @@
   description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records. For true patriots.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/secpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/secpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/secpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/secpatch.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable

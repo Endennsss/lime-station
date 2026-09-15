@@ -8,7 +8,7 @@
     - type: Sprite
       layers:
         - state: red
-        - sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+        - sprite: _Lime/Imported/Forge/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: steel_3
     - type: EntityTableSpawner
       table: !type:NestedSelector
@@ -42,7 +42,7 @@
     - type: Sprite
       layers:
         - state: red
-        - sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+        - sprite: _Lime/Imported/Forge/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: plasteel_2
     - type: EntityTableSpawner
       table: !type:NestedSelector
@@ -75,7 +75,7 @@
     - type: Sprite
       layers:
         - state: red
-        - sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+        - sprite: _Lime/Imported/Forge/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: steel_3
     - type: EntityTableSpawner
       table: !type:NestedSelector

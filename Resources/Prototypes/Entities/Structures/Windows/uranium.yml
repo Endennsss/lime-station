@@ -4,9 +4,9 @@
   name: uranium window
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Structures/Windows/uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Structures/Windows/uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/DeadSpace/Structures/Windows/uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Structures/Windows/uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: GlassMod

@@ -24,25 +24,26 @@
     access: [["Engineering"]]
   - type: Sprite
     drawdepth: WallMountedItems
-    sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - классический корпус и дисплей ЛКП
+    sprite: _Lime/Imported/Forge/Forge/Structures/Power/apc.rsi # Lime-Edit - корпус и дисплей ЛКП Forge
     offset: 0, -0.25
     layers:
     - state: base
-      sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - классический корпус ЛКП
+      sprite: _Lime/Imported/Forge/Forge/Structures/Power/apc.rsi # Lime-Edit - корпус ЛКП Forge
     - state: panel
-      sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - классическая панель ЛКП
+      sprite: _Lime/Imported/Forge/Forge/Structures/Power/apc.rsi # Lime-Edit - панель ЛКП Forge
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
       visible: false
     - state: display-charging
       shader: unshaded
       map: ["enum.ApcVisualLayers.ChargeState"]
-    - state: channel-on
-      sprite: Structures/Wallmounts/apc.rsi # Lime-Edit - сохраняем отдельные индикаторы каналов питания
+    - state: channel0-manual_on # Lime-Edit - индикатор питания Forge
       shader: unshaded
       map: ["enum.ApcVisualLayers.Equipment"]
       visible: false
   - type: Appearance
   - type: ApcVisuals
+    channelIndicatorPrefix: channel0 # Lime-Edit - исходные состояния Forge
+    channelIndicatorSuffixes: [manual_off, manual_on, auto_off, manual_off] # Lime-Edit - питание, отключение и авария
     screenStateSuffixes: [lack, charging, full, remote, lack] # Lime-Edit - отключение питания показываем красным дисплеем
   - type: Battery
     # Very important:
@@ -67,7 +68,7 @@
     sourceNode: input
     loadNode: output
     collectionName: apc
-    sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - значок классического ЛКП
+    sprite: _Lime/Imported/Forge/Forge/Structures/Power/apc.rsi # Lime-Edit - значок ЛКП Forge
     state: static
   - type: BatteryCharger
     voltage: Medium
@@ -145,7 +146,7 @@
     mode: SnapgridCenter
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Structures/Power/apc.rsi # Lime-Edit - классическая рама ЛКП
+    sprite: _Lime/Imported/Forge/Forge/Structures/Power/apc.rsi # Lime-Edit - рама ЛКП Forge
     state: frame
   - type: Construction
     graph: APC

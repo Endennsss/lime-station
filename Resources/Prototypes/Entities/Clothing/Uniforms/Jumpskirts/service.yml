@@ -5,9 +5,9 @@
   description: A nice and tidy uniform. Shame about the bar though.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/bartender.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/bartender.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/bartender.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/bartender.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -16,9 +16,9 @@
   description: It's a black jumpskirt, often worn by religious folk.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/chaplain.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/chaplain.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/chaplain.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/chaplain.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -27,9 +27,9 @@
   description: Can't cook without this.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chef.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/chef.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chef.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/chef.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -38,9 +38,9 @@
   description: Has a strong earthy smell to it. Hopefully it's merely dirty as opposed to soiled.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hydro.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hydro.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hydro.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/hydro.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -49,9 +49,9 @@
   description: The jumpskirt for the poor sop with a mop.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janitor.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/janitor.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janitor.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/janitor.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -60,9 +60,9 @@
   description: ...
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/mime.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/mime.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/mime.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/mime.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -104,9 +104,9 @@
   description: For professionals, not the posers.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/janimaid.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/janimaid.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/janimaid.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/janimaid.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -115,9 +115,9 @@
   description: Elite service, not some candy wrappers.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -126,9 +126,9 @@
   description: A fancy skirt for the musically inclined. Perfect for any lounge act!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/musician.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/musician.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/musician.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/musician.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -137,9 +137,9 @@
   description: I don't lose things. I place things in locations which later elude me.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/psychologist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/psychologist.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/psychologist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/psychologist.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -148,9 +148,9 @@
   description: HONK!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/clown.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/clown.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/clown.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/clown.rsi # Lime-Edit - графика Monolith
   - type: Tag
     tags:
     - ClownSuit

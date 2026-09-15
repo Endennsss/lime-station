@@ -998,7 +998,7 @@
   name: ear of corn
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-corn-name
     packetPrototype: CornSeeds
@@ -1150,7 +1150,7 @@
   name: egg-plant
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-eggy-name
     packetPrototype: EggySeeds

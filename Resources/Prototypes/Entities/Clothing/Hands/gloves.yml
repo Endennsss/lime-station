@@ -140,9 +140,9 @@
   description: Regal blue gloves, with a nice gold trim. Swanky.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Insulated
   - type: Fiber
     fiberMaterial: fibers-durathread
@@ -176,9 +176,9 @@
   description: Thin sterile latex gloves. Basic PPE for any doctor.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/latex.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/latex.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/latex.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/latex.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-latex
   - type: FingerprintMask
@@ -190,9 +190,9 @@
   description: High-quality nitrile gloves. Expensive medical PPE.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/nitrile.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/nitrile.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/nitrile.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/nitrile.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-nitrile
   - type: FingerprintMask
@@ -238,9 +238,9 @@
   description: Beep boop borp!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/robohands.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/robohands.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/robohands.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/robohands.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-leather
     fiberColor: fibers-black
@@ -354,9 +354,9 @@
   description: Plain black gloves without fingertips for the hard working.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/fingerless.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/fingerless.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/fingerless.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/fingerless.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-synthetic
     fiberColor: fibers-black
@@ -372,9 +372,9 @@
   description: Insulated gloves resistant to shocks, or at least they used to.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/fingerlessinsuls.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/fingerlessinsuls.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/fingerlessinsuls.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/fingerlessinsuls.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-insulative
     fiberColor: fibers-yellow
@@ -470,9 +470,9 @@
   description: Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/forensic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/forensic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/forensic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/forensic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: FingerprintMask
   - type: GuideHelp
     guides:
@@ -486,9 +486,9 @@
   description: High-quality rubber gloves, squeaky to do some cleaning!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Hands/Gloves/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Fiber
     fiberMaterial: fibers-rubber
     fiberColor: fibers-yellow

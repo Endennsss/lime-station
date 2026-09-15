@@ -5,7 +5,7 @@
   description: "A Nanotrasen signature item--only the finest bluespace tech. Instructions: Use once to create a portal which teleports at random. Use again to link it to a portal at your current location. Use again to clear all portals."
   components:
   - type: Sprite
-    sprite: /Textures/_Lime/Imported/Monolith/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: /Textures/_Lime/Imported/Goob/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: HandTeleporter
@@ -24,7 +24,7 @@
   description: Allows you to open stable portal gates that are not limited by distance.
   components:
   - type: Sprite
-    sprite: /Textures/_Lime/Imported/Monolith/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: /Textures/_Lime/Imported/Goob/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
       color: green

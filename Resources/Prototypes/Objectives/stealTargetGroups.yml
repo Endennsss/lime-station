@@ -25,14 +25,14 @@
   id: HandTeleporter
   name: steal-target-groups-hand-teleporter
   sprite:
-    sprite: _Lime/Imported/Monolith/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
   id: ClothingShoesBootsMagAdv
   name: steal-target-groups-clothing-shoes-boots-mag-adv
   sprite:
-    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -74,7 +74,7 @@
   id: WeaponAntiqueLaser
   name: steal-target-groups-weapon-antique-laser
   sprite:
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: base
 
 - type: stealTargetGroup
@@ -97,7 +97,7 @@
   id: HeadCloak
   name: steal-target-groups-heads-cloaks
   sprite:
-    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -167,7 +167,7 @@
   id: ClothingEyesHuds
   name: steal-target-groups-huds
   sprite:
-    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
 
 # Thief single item

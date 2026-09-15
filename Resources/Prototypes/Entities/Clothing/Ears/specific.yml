@@ -8,9 +8,9 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - type: Clothing
-      sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - type: ChameleonClothing
       slot: [ears]
       default: ClothingHeadsetGrey

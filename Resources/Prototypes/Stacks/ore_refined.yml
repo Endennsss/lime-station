@@ -19,12 +19,12 @@
   parent: BaseMediumStack
   id: Gold
   name: stack-gold
-  icon: { sprite: "/Textures/_Lime/Imported/DeadSpace/Objects/Materials/ingots.rsi", state: gold } # Lime-Edit - текстуры Monolith с сохранением лицензии
+  icon: { sprite: "/Textures/_Lime/Imported/Forge/Objects/Materials/ingots.rsi", state: gold } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: IngotGold1
 
 - type: stack
   parent: BaseMediumStack
   id: Silver
   name: stack-silver
-  icon: { sprite: "/Textures/_Lime/Imported/DeadSpace/Objects/Materials/ingots.rsi", state: silver } # Lime-Edit - текстуры Monolith с сохранением лицензии
+  icon: { sprite: "/Textures/_Lime/Imported/Forge/Objects/Materials/ingots.rsi", state: silver } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: IngotSilver1

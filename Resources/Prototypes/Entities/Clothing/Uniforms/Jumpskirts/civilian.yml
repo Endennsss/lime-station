@@ -125,9 +125,9 @@
   description: A worn-looking dress from a very long time ago.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/olddress.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/olddress.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/olddress.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpskirt/olddress.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformSkirtBase
@@ -136,6 +136,6 @@
   description: A skirt that symbolizes the joy and positivity of our life.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/skirtoflife.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/skirtoflife.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/skirtoflife.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpskirt/skirtoflife.rsi # Lime-Edit - графика Monolith

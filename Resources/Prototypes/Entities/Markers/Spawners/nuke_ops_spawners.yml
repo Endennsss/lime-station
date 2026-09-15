@@ -161,7 +161,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Revolvers/python.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    - sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Revolvers/python.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     offset: 0.15

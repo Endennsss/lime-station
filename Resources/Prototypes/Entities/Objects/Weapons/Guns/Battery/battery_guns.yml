@@ -7,7 +7,7 @@
   - type: Item
     size: Huge
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/laser_retro.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Battery/laser_retro.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Back
@@ -185,7 +185,7 @@
   description: A weapon using light amplified by the stimulated emission of radiation.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/laser_retro.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Battery/laser_retro.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -300,7 +300,7 @@
   description: A state of the art energy pistol favoured as a sidearm by the NT operatives.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -315,7 +315,7 @@
     zeroVisible: false
   - type: Appearance
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Gun
     selectedMode: SemiAuto
     availableModes:
@@ -683,7 +683,7 @@
   description: This is an antique laser pistol. All craftsmanship is of the highest quality. It is decorated with a mahogany grip and chrome filigree. The object menaces with spikes of energy. On the item is an image of a captain and a clown. The clown is dead. The captain is striking a heroic pose.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -691,7 +691,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Forge/NF/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg

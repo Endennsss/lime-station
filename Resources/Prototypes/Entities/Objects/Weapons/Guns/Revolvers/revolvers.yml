@@ -130,9 +130,9 @@
   description: A powerful double-action revolver manufactured by the Syndicate. Loud and flashy, perfect for any agent looking to make a statement. Loads 6 rounds of .45 magnum.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Revolvers/python.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Revolvers/python.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Revolvers/python.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Weapons/Guns/Revolvers/python.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
     storedOffset: 0,-2
   - type: Gun

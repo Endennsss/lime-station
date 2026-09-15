@@ -61,7 +61,7 @@
   description: A light emitting device.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: lamp
         map: [ "base" ]
@@ -70,7 +70,7 @@
         visible: false
         map: [ "light" ]
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HolidayVisuals
     holidays:
       festive:
@@ -104,7 +104,7 @@
   description: A light emitting device that would look great on a desk.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Objects/Misc/Lights/lampgreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Misc/Lights/lampgreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
       - state: lampgreen
         map: [ "base" ]
@@ -113,7 +113,7 @@
         visible: false
         map: [ "light" ]
   - type: Item
-    sprite: _Lime/Imported/DeadSpace/Objects/Misc/Lights/lampgreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Objects/Misc/Lights/lampgreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: HolidayVisuals
     holidays:
       festive:
@@ -123,11 +123,11 @@
       enum.HolidayVisuals.Holiday:
         base:
           festive:
-            sprite: _Lime/Imported/DeadSpace/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+            sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: christmaslamp
         light:
           festive:
-            sprite: _Lime/Imported/DeadSpace/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+            sprite: _Lime/Imported/Goob/Objects/Misc/Lights/lamp.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: christmaslamp-on
 
 - type: entity

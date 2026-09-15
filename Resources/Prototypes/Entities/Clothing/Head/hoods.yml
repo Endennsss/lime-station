@@ -50,9 +50,9 @@
   components:
   - type: IdentityBlocker
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/Bio/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/Bio/janitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHoodBioGeneral
@@ -63,9 +63,9 @@
   components:
   - type: IdentityBlocker
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/scientist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/Bio/scientist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/scientist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/Bio/scientist.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHoodBioGeneral
@@ -103,9 +103,9 @@
   description: Maximum piety in this star system.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/chaplain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/chaplain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/chaplain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/chaplain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - HamsterWearable
@@ -121,9 +121,9 @@
   description: There's no cult without cult hoods.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/cult.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/cult.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/cult.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/cult.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -138,9 +138,9 @@
   description: Maximum piety in this star system.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/nun.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/nun.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/nun.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/nun.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - HamsterWearable
@@ -181,9 +181,9 @@
   description: A hood of a goliath cloak, it is made from the hide of resilient fauna from a distant planet.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/goliathcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/goliathcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/goliathcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/goliathcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -765,9 +765,9 @@
   description: The hood of a void cloak. For those who have gone to the dark side of the force.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/voidcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/voidcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hoods/voidcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Goob/Clothing/Head/Hoods/voidcloak.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon

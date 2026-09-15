@@ -17,7 +17,7 @@
       state: scurret
     - map: [ "enum.HumanoidVisualLayers.Handcuffs" ]
       color: "#ffffff"
-      sprite: _Lime/Imported/Monolith/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Goob/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: body-overlay-2
       visible: false
   # Custom visuals for dead scurrets; be aware these do not work well with equipment.

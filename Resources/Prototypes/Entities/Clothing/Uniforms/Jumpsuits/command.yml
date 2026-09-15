@@ -36,9 +36,9 @@
   description: A stately blue jumpsuit to represent NanoTrasen.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/nanotrasen.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/nanotrasen.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/nanotrasen.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Goob/Clothing/Uniforms/Jumpsuit/nanotrasen.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
@@ -47,6 +47,6 @@
   description: A suit for special occasions.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/capformal.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/capformal.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/capformal.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/Forge/Clothing/Uniforms/Jumpsuit/capformal.rsi # Lime-Edit - графика Monolith
