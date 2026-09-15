@@ -1,0 +1,16 @@
+ent-FoodNoodlesBase = { ent-FoodInjectableBase }
+    .desc = Вот это отличная паста!
+ent-FoodNoodlesBoiled = Отварные спагетти
+    .desc = Простое блюдо из лапши, тут нужно больше ингредиентов.
+ent-FoodNoodles = Спагетти
+    .desc = Спагетти с измельчёнными помидорами. Прямо как готовил ваш злой отец!
+ent-FoodNoodlesCopy = Копипаста
+    .desc = Возможно, вам не стоит пробовать её, вы часто слышите от людей, как она плоха...
+ent-FoodNoodlesMeatball = Спагетти с фрикадельками
+    .desc = Вот это отличные фрикадельки!
+ent-FoodNoodlesSpesslaw = Законпаста
+    .desc = Любимое блюдо адвокатов.
+ent-FoodNoodlesChowmein = Чоу мейн
+    .desc = Отличная смесь лапши и жареных овощей.
+ent-FoodNoodlesButter = Сливочная лапша
+    .desc = Лапша, покрытая сливочным маслом. Просто и скользко, но вкусно.

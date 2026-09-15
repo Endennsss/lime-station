@@ -1,0 +1,12 @@
+ent-SpawnMobAdultSlimesBlue = Спавнер слайм синий
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesBlueAngry = Спавнер слайм синий злой
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesGreen = Спавнер слайм зелёный
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesGreenAngry = Спавнер слайм зелёный злой
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesYellow = Спавнер слайм жёлтый
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesYellowAngry = Спавнер слайм жёлтый злой
+    .desc = { ent-MarkerBase.desc }

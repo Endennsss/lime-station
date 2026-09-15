@@ -1,0 +1,16 @@
+ent-ClothingHeadBase = { ent-Clothing }
+    .desc = { ent-Clothing.desc }
+ent-ClothingHeadBaseButcherable = { ent-ClothingHeadBase }
+    .desc = { ent-ClothingHeadBase.desc }
+ent-ClothingHeadLightBase = Базовый шлем с фонарём
+    .desc = { ent-ClothingHeadBase.desc }
+ent-ClothingHeadEVAHelmetBase = Базовый космический шлем
+    .desc = { ent-ClothingHeadBase.desc }
+ent-ClothingHeadHardsuitBase = Базовый шлем скафандра
+    .desc = { "" }
+ent-ClothingHeadSuitWithLightBase = Базовый шлем скафандра с фонарём
+    .desc = { "" }
+ent-ClothingHeadHatHoodWinterBase = Капюшон зимней куртки
+    .desc = Капюшон, предназначенный для защиты от холода.
+ent-HatBase = { ent-Clothing }
+    .desc = { ent-Clothing.desc }

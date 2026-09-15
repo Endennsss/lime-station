@@ -1,0 +1,7 @@
+# Lime Station: русская локализация актуального upstream.
+
+role-bans-ban-group = Заблокировать все
+
+role-bans-expand-roles = Показать роли
+
+role-bans-contract-roles = Скрыть роли

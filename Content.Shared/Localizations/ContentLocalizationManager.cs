@@ -9,8 +9,10 @@ namespace Content.Shared.Localizations
     {
         [Dependency] private ILocalizationManager _loc = default!;
 
-        // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        // Lime edit start - русский язык используется по умолчанию, английский остаётся резервным.
+        private const string Culture = "ru-RU";
+        private const string FallbackCulture = "en-US";
+        // Lime edit end
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -26,8 +28,13 @@ namespace Content.Shared.Localizations
         public void Initialize()
         {
             var culture = new CultureInfo(Culture);
+            // Lime added start - загружаем английскую локаль для безопасного отката при новых upstream-ключах.
+            var fallbackCulture = new CultureInfo(FallbackCulture);
 
             _loc.LoadCulture(culture);
+            _loc.LoadCulture(fallbackCulture);
+            _loc.SetFallbackCluture(fallbackCulture);
+            // Lime added end
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
@@ -39,6 +46,10 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
+            // Lime added start - некоторые общие Fluent-шаблоны используют английские функции и в русской локали.
+            _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural);
+            _loc.AddFunction(culture, "MANY", FormatMany);
+            // Lime added end
 
 
             /*
@@ -109,7 +120,7 @@ namespace Content.Shared.Localizations
 
         // TODO: allow fluent to take in lists of strings so this can be a format function like it should be.
         /// <summary>
-        /// Formats a list as per english grammar rules.
+        /// Formats a list using Russian conjunction rules.
         /// </summary>
         public static string FormatList(List<string> list)
         {
@@ -117,13 +128,13 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} and {list[1]}",
-                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, and {list[^1]}"
+                2 => $"{list[0]} и {list[1]}",
+                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))} и {list[^1]}"
             };
         }
 
         /// <summary>
-        /// Formats a list as per english grammar rules, but uses or instead of and.
+        /// Formats a list using the Russian disjunction.
         /// </summary>
         public static string FormatListToOr(List<string> list)
         {
@@ -131,8 +142,8 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} or {list[1]}",
-                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, or {list[^1]}"
+                2 => $"{list[0]} или {list[1]}",
+                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))} или {list[^1]}"
             };
         }
 

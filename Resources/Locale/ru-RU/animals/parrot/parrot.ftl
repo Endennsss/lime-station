@@ -1,0 +1,5 @@
+# Lime Station: русская локализация актуального upstream.
+
+parrot-verb-clear-memory = Очистить память попугая
+
+parrot-popup-memory-cleared = Память попугая очищена

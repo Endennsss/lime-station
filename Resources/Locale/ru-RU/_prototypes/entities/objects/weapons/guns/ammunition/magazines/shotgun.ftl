@@ -1,0 +1,13 @@
+ent-BaseMagazineShotgun = Барабан 12 калибра
+    .desc = { ent-BaseItem.desc }
+ent-MagazineShotgunEmpty = Барабан 12 калибра
+    .suffix = Пустой
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgun = Барабан дроби 12 калибра
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunBeanbag = Барабан травматических 12 калибра
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunSlug = Барабан пуль 12 калибра
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunIncendiary = Барабан зажигательных 12 калибра
+    .desc = { ent-BaseMagazineShotgun.desc }

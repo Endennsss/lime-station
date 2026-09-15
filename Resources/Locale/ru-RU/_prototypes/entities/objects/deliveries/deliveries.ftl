@@ -1,0 +1,12 @@
+ent-BaseDelivery = Доставка
+    .desc = Пакет доставки.
+ent-PackageDelivery = Посылка
+    .desc = Большая посылка для доставки.
+ent-LetterDelivery = Письмо
+    .desc = Почтовое письмо.
+ent-DeliveryModifierPriority = { "" }
+    .desc = Компоненты, добавляемые, когда доставка считается приоритетной.
+ent-DeliveryModifierFragile = { "" }
+    .desc = Компоненты, добавляемые, когда доставка считается хрупкой.
+ent-DeliveryModifierBomb = { "" }
+    .desc = Компоненты, добавляемые, когда доставка считается бомбой.

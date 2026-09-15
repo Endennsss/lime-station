@@ -32,6 +32,7 @@ public partial class ChatBox : UIWidget
     public ChatBox()
     {
         RobustXamlLoader.Load(this);
+        Contents.AddStyleClass(Content.Client._Lime.Stylesheets.LimeChatSheetlet.ChatText); // Lime-Edit - единый читаемый шрифт чата.
         _sawmill = _log.GetSawmill("chat");
 
         ChatInput.Input.OnTextEntered += OnTextEntered;

@@ -1,0 +1,12 @@
+ent-VehicleKeyJanicart = Ключ от уборочной машины
+    .desc = Интересный дизайн.
+ent-VehicleKeySecway = Ключ от секвея
+    .desc = Ключи к будущему.
+ent-VehicleKeyATV = Ключ от квадроцикла
+    .desc = Какой формы ключ от квадроцикла? Конечно же квадратной!
+ent-VehicleKeySkeleton = Мастер-ключ от транспорта
+    .desc = Открывает любое транспортное средство.
+ent-VehicleKeySyndicateSegway = Ключ от сегвея синдиката
+    .desc = Узор выполнен по образцу культового дизайна емага.
+ent-VehicleKeySkeletonMotorcycle = Ключ от скелетонского мотоцикла
+    .desc = Красивая связка ключей, украшенная черепом.

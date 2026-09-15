@@ -1,0 +1,14 @@
+ent-BaseDefibrillator = Дефибриллятор
+    .desc = ЧИСТО! РАЗРЯД!
+ent-Defibrillator = { ent-BaseDefibrillator }
+    .desc = { ent-BaseDefibrillator.desc }
+ent-DefibrillatorEmpty = { ent-Defibrillator }
+    .suffix = Пустой
+    .desc = { ent-Defibrillator.desc }
+ent-DefibrillatorOneHandedUnpowered = { ent-BaseDefibrillator }
+    .suffix = Одноручный, Не требует питания
+    .desc = { ent-BaseDefibrillator.desc }
+ent-DefibrillatorCompact = Компактный дефибриллятор
+    .desc = Теперь в забавном размере!
+ent-DefibrillatorSyndicate = Дефибриллятор интердайн
+    .desc = Вводит в сердце смесь из омнизина, эпинефрина и некросола даже в живых пациентов. Может использоваться для атаки, поражая врагов сильным электрическим зарядом.

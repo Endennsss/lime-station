@@ -1,0 +1,8 @@
+ent-AtmosDeviceFanTinyDev = Маленький ДЕБАГ вентилятор
+    .desc = { "" }
+ent-AtmosDeviceFanDirectionalDev = Направленный ДЕБАГ вентилятор
+    .desc = { "" }
+ent-AtmosDeviceFanTiny = Маленький вентилятор
+    .desc = Маленький вентилятор, создающий лёгкий поток воздуха.
+ent-AtmosDeviceFanDirectional = Направленный вентилятор
+    .desc = Небольшой вентилятор, препятствующий распространению газов.

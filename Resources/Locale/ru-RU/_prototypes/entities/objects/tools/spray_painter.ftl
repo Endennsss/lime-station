@@ -1,0 +1,10 @@
+ent-SprayPainter = Краскопульт
+    .desc = Краскопульт для окрашивания шлюзов и труб.
+ent-SprayPainterRecharging = { ent-SprayPainter }
+    .suffix = Админ
+    .desc = { ent-SprayPainter.desc }
+ent-SprayPainterEmpty = { ent-SprayPainter }
+    .suffix = Пустой
+    .desc = { ent-SprayPainter.desc }
+ent-SprayPainterAmmo = Сжатая краска
+    .desc = Картридж с сильно сжатой краской, обычно используемый в краскопультах.

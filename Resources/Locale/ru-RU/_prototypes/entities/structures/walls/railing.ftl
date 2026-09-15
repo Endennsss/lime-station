@@ -1,0 +1,10 @@
+ent-BaseRailing = Перила
+    .desc = Простые перила, чтобы идиоты вроде тебя не падали. Ну давай, перепрыгни меня!
+ent-Railing = Перила
+    .desc = { ent-BaseRailing.desc }
+ent-RailingCorner = Перила
+    .desc = { ent-BaseRailing.desc }
+ent-RailingCornerSmall = Перила
+    .desc = { ent-BaseRailing.desc }
+ent-RailingRound = Перила
+    .desc = { ent-BaseRailing.desc }

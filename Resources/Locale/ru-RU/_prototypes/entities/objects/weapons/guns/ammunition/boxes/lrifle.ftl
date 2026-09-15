@@ -1,0 +1,12 @@
+ent-BoxLRifleBase = Коробка патронов (7,62мм)
+    .desc = { ent-BaseItem.desc }
+    .suffix = { "" }
+ent-BoxLRifleBigBox = Коробка патронов (7,62мм)
+    .desc = { ent-BoxLRifleBase.desc }
+    .suffix = { "" }
+ent-BoxLRifleBox = Коробка патронов (7,62мм)
+    .desc = { ent-BoxLRifleBase.desc }
+    .suffix = { "" }
+ent-BoxLRifleBoxPractice = Коробка патронов (7,62мм учебные)
+    .desc = { ent-BoxLRifleBase.desc }
+    .suffix = { "" }

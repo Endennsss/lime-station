@@ -1,0 +1,83 @@
+# Lime Station: русская локализация актуального upstream.
+
+names-dragon-title-dataset-1 = Ужасный
+
+names-dragon-title-dataset-2 = Обжигатор
+
+names-dragon-title-dataset-3 = Разводчик Карпов
+
+names-dragon-title-dataset-4 = Непобедимый
+
+names-dragon-title-dataset-5 = Разрушитель
+
+names-dragon-title-dataset-6 = Мимолётный
+
+names-dragon-title-dataset-7 = Жгучий
+
+names-dragon-title-dataset-8 = Ужасный
+
+names-dragon-title-dataset-9 = Неудержимый
+
+names-dragon-title-dataset-10 = Беззубый
+
+names-dragon-title-dataset-11 = Неугасимый
+
+names-dragon-title-dataset-12 = Злой
+
+names-dragon-title-dataset-13 = с Запада
+
+names-dragon-title-dataset-14 = с Востока
+
+names-dragon-title-dataset-15 = Звёздный
+
+names-dragon-title-dataset-16 = Незаметный
+
+names-dragon-title-dataset-17 = Непобеждённый
+
+names-dragon-title-dataset-18 = Разъярённый
+
+names-dragon-title-dataset-19 = Бешеный
+
+names-dragon-title-dataset-20 = Зловонный
+
+names-dragon-title-dataset-21 = Вечный
+
+names-dragon-title-dataset-22 = Падший
+
+names-dragon-title-dataset-23 = Временный
+
+names-dragon-title-dataset-24 = Несокрушимый
+
+names-dragon-title-dataset-25 = Неприятный
+
+names-dragon-title-dataset-26 = Безрассудный
+
+names-dragon-title-dataset-27 = Вечноголодный
+
+names-dragon-title-dataset-28 = Заметный
+
+names-dragon-title-dataset-29 = Заразный
+
+names-dragon-title-dataset-30 = Испепелитель
+
+names-dragon-title-dataset-31 = the Spicy
+
+names-dragon-title-dataset-32 = the Temporary
+
+names-dragon-title-dataset-33 = the Terrible
+
+names-dragon-title-dataset-34 = the Uncouth
+
+names-dragon-title-dataset-35 = the Undying
+
+names-dragon-title-dataset-36 = the Unpleasant
+
+names-dragon-title-dataset-37 = the Unquenchable
+
+names-dragon-title-dataset-38 = the Unreasonable
+
+names-dragon-title-dataset-39 = the Unremarkable
+
+names-dragon-title-dataset-40 = the Unstoppable
+
+names-dragon-title-dataset-41 = the Vengeful

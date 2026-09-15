@@ -1,0 +1,5 @@
+# Lime Station: русская локализация актуального upstream.
+
+comp-generator-failsafe = { CAPITALIZE($target) } содрогается, когда срабатывает предохранительная система!
+
+comp-generator-failsafe-disabled = Что-то шипит внутри { $target }...

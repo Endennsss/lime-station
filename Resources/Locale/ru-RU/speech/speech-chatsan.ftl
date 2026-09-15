@@ -1,0 +1,263 @@
+# Lime Station: русская локализация актуального upstream.
+
+chatsan-word-1 = омг
+
+chatsan-replacement-1 = боже мой
+
+chatsan-word-2 = омфг
+
+chatsan-replacement-2 = черт возьми
+
+chatsan-word-3 = онг
+
+chatsan-replacement-3 = клянусь богом
+
+chatsan-word-4 = втф
+
+chatsan-replacement-4 = что за черт
+
+chatsan-word-5 = ффс
+
+chatsan-replacement-5 = ради бога
+
+chatsan-word-6 = tf
+
+chatsan-replacement-6 = черт побери
+
+chatsan-word-7 = афайк
+
+chatsan-replacement-7 = насколько мне известно
+
+chatsan-word-8 = ik
+
+chatsan-replacement-8 = я знаю
+
+chatsan-word-9 = икр
+
+chatsan-replacement-9 = я знаю, верно
+
+chatsan-word-10 = идц
+
+chatsan-replacement-10 = мне все равно
+
+chatsan-word-12 = тбх
+
+chatsan-replacement-12 = честно говоря
+
+chatsan-word-13 = lmk
+
+chatsan-replacement-13 = ты
+
+chatsan-word-14 = ur
+
+chatsan-replacement-14 = твой
+
+chatsan-word-15 = ffs
+
+chatsan-replacement-15 = ммм, хорошо
+
+chatsan-word-16 = ирик
+
+chatsan-replacement-16 = если я правильно помню
+
+chatsan-word-17 = np
+
+chatsan-replacement-17 = без проблем
+
+chatsan-word-18 = омв
+
+chatsan-replacement-18 = сейчас в пути
+
+chatsan-word-19 = нвм
+
+chatsan-replacement-19 = забудь
+
+chatsan-word-20 = имо
+
+chatsan-replacement-20 = по моему мнению
+
+chatsan-word-21 = плиз
+
+chatsan-word-22 = плз
+
+chatsan-word-23 = плокс
+
+chatsan-replacement-please = пожалуйста
+
+chatsan-word-24 = fr
+
+chatsan-replacement-24 = по-настоящему
+
+chatsan-word-25 = брб
+
+chatsan-replacement-25 = сейчас вернусь
+
+chatsan-word-26 = бтв
+
+chatsan-replacement-26 = кстати
+
+chatsan-word-27 = jk
+
+chatsan-replacement-27 = просто шучу
+
+chatsan-word-28 = спс
+
+chatsan-replacement-28 = спасибо
+
+chatsan-word-29 = ty
+
+chatsan-replacement-29 = спасибо тебе
+
+chatsan-word-30 = афк
+
+chatsan-replacement-30 = ушел от клавиатуры
+
+chatsan-word-31 = стфу
+
+chatsan-replacement-31 = заткнись
+
+chatsan-word-32 = гтг
+
+chatsan-replacement-32 = мне нужно идти
+
+chatsan-word-33 = gl
+
+chatsan-replacement-33 = удачи
+
+chatsan-word-34 = хбу
+
+chatsan-replacement-34 = а ты как
+
+chatsan-word-35 = хму
+
+chatsan-replacement-35 = напиши мне
+
+chatsan-word-36 = гтфо
+
+chatsan-replacement-36 = убирайся
+
+chatsan-word-37 = вдйм
+
+chatsan-replacement-37 = что ты имеешь в виду
+
+chatsan-word-38 = mf
+
+chatsan-replacement-38 = сволочь
+
+chatsan-word-39 = итс
+
+chatsan-word-40 = итс.
+
+chatsan-replacement-etcetera = и так далее
+
+chatsan-word-41 = фйи
+
+chatsan-replacement-41 = для вашего сведения
+
+chatsan-word-42 = вйд
+
+chatsan-replacement-42 = что ты делаешь
+
+chatsan-word-43 = ig
+
+chatsan-replacement-43 = я думаю
+
+chatsan-word-44 = тбф
+
+chatsan-replacement-44 = честно говоря
+
+chatsan-word-45 = тсм
+
+chatsan-replacement-45 = очень большое спасибо
+
+chatsan-word-46 = тивм
+
+chatsan-replacement-46 = очень-очень большое спасибо
+
+chatsan-word-47 = ся
+
+chatsan-replacement-47 = увидимся
+
+chatsan-word-48 = rn
+
+chatsan-replacement-48 = прямо сейчас
+
+chatsan-word-49 = атм
+
+chatsan-replacement-49 = в данный момент
+
+chatsan-word-50 = истг
+
+chatsan-replacement-50 = клянусь богом
+
+chatsan-word-51 = rq
+
+chatsan-replacement-51 = быстро
+
+chatsan-word-52 = dw
+
+chatsan-replacement-52 = не волнуйся
+
+chatsan-word-53 = врю
+
+chatsan-replacement-53 = где ты
+
+chatsan-word-54 = fs
+
+chatsan-replacement-54 = точно
+
+chatsan-word-55 = нгл
+
+chatsan-replacement-55 = не буду врать
+
+chatsan-word-56 = фмл
+
+chatsan-replacement-56 = чертова моя жизнь
+
+chatsan-word-57 = втаф
+
+chatsan-replacement-57 = что за чертовщина
+
+chatsan-word-58 = всг
+
+chatsan-replacement-58 = как дела
+
+chatsan-word-59 = mb
+
+chatsan-replacement-59 = моя вина
+
+chatsan-word-60 = йфк
+
+chatsan-replacement-60 = Иисус Христос
+
+chatsan-word-61 = омв
+
+chatsan-replacement-61 = уже иду
+
+chatsan-word-62 = отв
+
+chatsan-replacement-62 = в пути
+
+chatsan-word-63 = yk
+
+chatsan-replacement-63 = знаешь
+
+chatsan-word-64 = истфг
+
+chatsan-replacement-64 = клянусь чертовски богом
+
+chatsan-word-65 = идгаф
+
+chatsan-replacement-65 = мне наплевать
+
+chatsan-word-66 = смт
+
+chatsan-replacement-66 = что-то
+
+chatsan-word-67 = оллг
+
+chatsan-replacement-67 = все отлично
+
+chatsan-word-68 = идк
+
+chatsan-replacement-68 = я не знаю

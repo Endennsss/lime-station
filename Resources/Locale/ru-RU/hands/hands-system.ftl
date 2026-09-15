@@ -1,0 +1,9 @@
+# Lime Station: русская локализация актуального upstream.
+
+comp-hands-examine = { CAPITALIZE(SUBJECT($user)) } держит { $items }.
+
+comp-hands-examine-empty = { CAPITALIZE(SUBJECT($user)) } ничего не держит.
+
+comp-hands-examine-wrapper = [color=paleturquoise]{ $item }[/color]
+
+hands-system-blocked-by = Руки заняты

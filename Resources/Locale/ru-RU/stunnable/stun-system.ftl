@@ -1,0 +1,5 @@
+# Lime Station: русская локализация актуального upstream.
+
+stunned-component-disarm-success = Вы толкаете { $target } на пол!
+
+stunned-component-disarm-success-others = { CAPITALIZE($source) } толкает { $target } на пол!

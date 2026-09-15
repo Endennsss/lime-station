@@ -1,0 +1,12 @@
+ent-MachineParticleAcceleratorEndCapCircuitboard = Плата торцевой заглушки УЧ
+    .desc = { ent-BaseMachineCircuitboard.desc }
+ent-MachineParticleAcceleratorFuelChamberCircuitboard = Плата топливной камеры УЧ
+    .desc = { ent-BaseMachineCircuitboard.desc }
+ent-MachineParticleAcceleratorPowerBoxCircuitboard = Плата блока питания УЧ
+    .desc = { ent-BaseMachineCircuitboard.desc }
+ent-MachineParticleAcceleratorEmitterStarboardCircuitboard = Плата правого излучателя УЧ
+    .desc = Машинная плата для правого излучателя ускорителя частиц.
+ent-MachineParticleAcceleratorEmitterForeCircuitboard = Плата центрального излучателя УЧ
+    .desc = Машинная плата для центрального излучателя ускорителя частиц.
+ent-MachineParticleAcceleratorEmitterPortCircuitboard = Плата левого излучателя УЧ
+    .desc = Машинная плата для левого излучателя ускорителя частиц.

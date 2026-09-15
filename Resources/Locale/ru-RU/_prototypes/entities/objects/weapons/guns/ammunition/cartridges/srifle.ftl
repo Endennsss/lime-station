@@ -1,0 +1,15 @@
+ent-CartridgeSRifleBase = Патрон (5,56мм)
+    .desc = { ent-BaseCartridge.desc }
+    .suffix = { "" }
+ent-CartridgeSRifle = Патрон (5,56мм)
+    .desc = { ent-CartridgeSRifleBase.desc }
+    .suffix = { "" }
+ent-CartridgeSRifleFlash = Патрон (5,56мм светошумовой)
+    .desc = { ent-CartridgeSRifleBase.desc }
+    .suffix = { "" }
+ent-CartridgeSRifleHV = Патрон (5,56мм высокоскоростной)
+    .desc = { ent-CartridgeSRifleBase.desc }
+    .suffix = { "" }
+ent-CartridgeSRiflePractice = Патрон (5,56мм учебный)
+    .desc = { ent-CartridgeSRifleBase.desc }
+    .suffix = { "" }

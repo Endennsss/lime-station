@@ -1,0 +1,6 @@
+# Lime Station: русская локализация актуального upstream.
+
+gas-valve-system-examined = Клапан [color={ $statusColor }]{ $open ->
+    [true] открыт
+    *[false] закрыт
+}[/color].

@@ -1,0 +1,16 @@
+ent-StatusEffectBase = { "" }
+    .desc = { "" }
+ent-MobStatusEffectBase = { ent-StatusEffectBase }
+    .desc = { ent-StatusEffectBase.desc }
+ent-MobStatusEffectDebuff = { ent-MobStatusEffectBase }
+    .desc = { ent-MobStatusEffectBase.desc }
+ent-MobStandStatusEffectBase = { ent-MobStatusEffectDebuff }
+    .desc = { ent-MobStatusEffectDebuff.desc }
+ent-StatusEffectForcedSleeping = Принудительный сон
+    .desc = { ent-MobStatusEffectDebuff.desc }
+ent-StatusEffectSSDSleeping = Принудительный сон
+    .desc = { ent-MobStatusEffectBase.desc }
+ent-StatusEffectDrowsiness = Сонливость
+    .desc = { ent-MobStatusEffectDebuff.desc }
+ent-StatusEffectSeeingRainbow = Галлюцинации
+    .desc = { ent-MobStatusEffectDebuff.desc }

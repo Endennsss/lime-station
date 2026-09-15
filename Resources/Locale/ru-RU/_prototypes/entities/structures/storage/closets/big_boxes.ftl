@@ -1,0 +1,12 @@
+ent-BaseBigBox = Картонная коробка
+    .desc = А? Просто коробка...
+ent-StealthBox = { ent-BaseBigBox }
+    .desc = { ent-BaseBigBox.desc }
+    .suffix = Невидимость
+ent-BigBox = { ent-BaseBigBox }
+    .desc = { ent-BaseBigBox.desc }
+ent-GhostBox = Призрачная коробка
+    .desc = Остерегайтесь
+ent-BigBoxSyndicateBundle = { ent-BaseBigBox }
+    .desc = { ent-BaseBigBox.desc }
+    .suffix = Синдикат, Заполненный

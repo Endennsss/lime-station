@@ -1,0 +1,10 @@
+ent-BaseKeyedInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-SynthesizerInstrument = Синтезатор
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-SuperSynthesizerInstrument = Суперсинтезатор
+    .desc = Разрываем гетто с помощью Тоухо МИДИ с 2020 года.
+ent-AccordionInstrument = Аккордеон
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-KalimbaInstrument = Калимба
+    .desc = Мощь фортепиано прямо под вашими пальцами.

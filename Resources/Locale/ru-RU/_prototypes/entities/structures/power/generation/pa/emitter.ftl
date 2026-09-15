@@ -1,0 +1,15 @@
+ent-ParticleAcceleratorEmitterPort = Левый сдерживающий излучатель УЧ
+    .desc = Запускает Альфа-частицы, не стоит стоять перед ним.
+ent-ParticleAcceleratorEmitterFore = Центральный сдерживающий излучатель УЧ
+    .desc = Запускает Альфа-частицы, не стоит стоять перед ним.
+ent-ParticleAcceleratorEmitterStarboard = Правый сдерживающий излучатель УЧ
+    .desc = Запускает Альфа-частицы, не стоит стоять перед ним.
+ent-ParticleAcceleratorEmitterPortUnfinished = Левый сдерживающий излучатель УЧ
+    .desc = Запускает Альфа-частицы, не стоит стоять перед ним. Выглядит незаконченным.
+    .suffix = Незаконченный, Левый
+ent-ParticleAcceleratorEmitterForeUnfinished = Центральный сдерживающий излучатель УЧ
+    .desc = Запускает Альфа-частицы, не стоит стоять перед ним. Выглядит незаконченным.
+    .suffix = Незаконченный, Центральный
+ent-ParticleAcceleratorEmitterStarboardUnfinished = Правый сдерживающий излучатель УЧ
+    .desc = Запускает Альфа-частицы, не стоит стоять перед ним. Выглядит незаконченным.
+    .suffix = Незаконченный, Правый

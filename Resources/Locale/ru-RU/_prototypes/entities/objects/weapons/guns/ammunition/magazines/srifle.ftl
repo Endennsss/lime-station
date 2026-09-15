@@ -1,0 +1,15 @@
+ent-MagazineSRifleBase = Магазин (.20 винтовка)
+    .desc = { ent-BaseItem.desc }
+    .suffix = { "" }
+ent-MagazineSRifle = Магазин (.20 винтовка)
+    .desc = { ent-MagazineSRifleBase.desc }
+    .suffix = { "" }
+ent-MagazineSRifleFlash = Магазин (.20 винтовка, ослепляющие)
+    .desc = { ent-MagazineSRifleBase.desc }
+    .suffix = { "" }
+ent-MagazineSRifleHV = Магазин (.20 винтовка, высокоскоростные)
+    .desc = { ent-MagazineSRifleBase.desc }
+    .suffix = { "" }
+ent-MagazineSRiflePractice = Магазин (.20 винтовка, тренировочные)
+    .desc = { ent-MagazineSRifleBase.desc }
+    .suffix = { "" }

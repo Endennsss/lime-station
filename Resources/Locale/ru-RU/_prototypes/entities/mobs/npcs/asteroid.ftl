@@ -1,0 +1,24 @@
+ent-BaseMobAsteroid = { ent-BaseMob }
+    .desc = { ent-BaseMob.desc }
+ent-MobGoliath = Голиаф
+    .desc = Массивное чудовище, использующее длинные щупальца, чтобы ловить свою добычу. Нападать на него не рекомендуется ни при каких условиях.
+ent-ActionGoliathTentacle = [color=red]Удар Щупальцем[/color]
+    .desc = Используйте свои щупальца, чтобы схватить и оглушить цель!
+ent-GoliathTentacle = Щупальце
+    .desc = { "" }
+ent-BaseEffectGoliathTentacleSpawn = Щупальце
+    .desc = { "" }
+ent-EffectGoliathTentacleSpawn = Щупальце
+    .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
+ent-EffectGoliathTentacleRetract = { ent-BaseEffectGoliathTentacleSpawn }
+    .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
+ent-MobHivelord = Повелитель роя
+    .desc = По-настоящему инопланетное существо, представляющее собой массу неизвестного органического материала, постоянно меняющуюся. При атаке от него отделяются части, которые атакуют вместе с оригиналом.
+ent-MobHivelordBrood = Расплод повелителя роя
+    .desc = Фрагмент оригинального повелителя роя, поддерживающий его. Один не представляет большой угрозы, но...
+ent-FoodHivelordRemains = Останки повелителя роя
+    .desc = Всё, что осталось от повелителя роя, кажется, именно это позволяет ему отрывать от себя части, не получая вреда... его целебные свойства скоро исчезнут, если их не использовать быстро. Постарайтесь не думать о том, что вы едите.
+ent-FoodHivelordRemainsInert = Неактивные останки повелителя роя
+    .desc = Всё, что осталось от повелителя роя... Теперь всё действительно потеряно.
+ent-MobBasilisk = Василиск
+    .desc = Территориальный зверь, покрытый толстым панцирем, поглощающим энергию. Его взгляд заставляет жертв замерзать изнутри.

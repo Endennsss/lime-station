@@ -1,0 +1,14 @@
+ent-StatusEffectSlowdown = Замедление
+    .desc = { ent-MobStatusEffectDebuff.desc }
+ent-VomitingSlowdownStatusEffect = Замедление от рвоты
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-TaserSlowdownStatusEffect = Замедление от тазера
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-FlashSlowdownStatusEffect = Замедление от вспышки
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-StatusEffectStaminaLow = Низкая выносливость
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-StatusEffectFriction = Трение
+    .desc = { ent-MobStatusEffectDebuff.desc }
+ent-StatusEffectStunned = Оглушение
+    .desc = { ent-MobStatusEffectDebuff.desc }

@@ -214,7 +214,7 @@ namespace Content.Client.Chat.UI
             var label = new RichTextLabel
             {
                 MaxWidth = SpeechMaxWidth,
-                OutlineColorOverride = TextOutline.Default.Color,
+                StyleClasses = { Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - шрифт и отсутствие обводки задаются стилем.
             };
 
             label.SetMessage(FormatSpeech(message.WrappedMessage, fontColor));
@@ -245,7 +245,7 @@ namespace Content.Client.Chat.UI
                 var label = new RichTextLabel
                 {
                     MaxWidth = SpeechMaxWidth,
-                    OutlineColorOverride = TextOutline.Default.Color,
+                    StyleClasses = { Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - шрифт и отсутствие обводки задаются стилем.
                 };
 
                 label.SetMessage(ExtractAndFormatSpeechSubstring(message, "BubbleContent", fontColor));
@@ -263,7 +263,7 @@ namespace Content.Client.Chat.UI
             {
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleSpeakerOpacity)),
                 Margin = new Thickness(2, 0, 2, 0),
-                OutlineColorOverride = TextOutline.Default.Color,
+                StyleClasses = { Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - единая типографика заголовка сообщения.
             };
 
             var bubbleContent = new RichTextLabel
@@ -271,8 +271,7 @@ namespace Content.Client.Chat.UI
                 ModulateSelfOverride = Color.White.WithAlpha(ConfigManager.GetCVar(CCVars.SpeechBubbleTextOpacity)),
                 MaxWidth = SpeechMaxWidth,
                 Margin = new Thickness(2, 0, 2, 0),
-                StyleClasses = { "bubbleContent" },
-                OutlineColorOverride = TextOutline.Default.Color,
+                StyleClasses = { "bubbleContent", Content.Client._Lime.Stylesheets.LimeChatSheetlet.SpeechText }, // Lime-Edit - читаемый текст без обводки.
             };
 
             //We'll be honest. *Yes* this is hacky. Doing this in a cleaner way would require a bottom-up refactor of how saycode handles sending chat messages. -Myr

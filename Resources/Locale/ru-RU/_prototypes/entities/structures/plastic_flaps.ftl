@@ -1,0 +1,14 @@
+ent-PlasticFlapsBase = { ent-BaseStructureDynamic }
+    .desc = { ent-BaseStructureDynamic.desc }
+ent-PlasticFlapsClear = Пластиковые шторки
+    .desc = Тяжёлые пластиковые шторки. Сквозь них не пройти. Ни за что.
+    .suffix = Прозрачные
+ent-PlasticFlapsOpaque = Пластиковые шторки
+    .desc = Тяжёлые пластиковые шторки. Сквозь них не пройти. Ни за что
+    .suffix = Непрозрачные
+ent-PlasticFlapsAirtightClear = Герметичные пластиковые шторки
+    .desc = Тяжёлые, укреплённые, герметичные пластиковые шторки. Сквозь них не пройти. Ни за что
+    .suffix = Прозрачные герметичные
+ent-PlasticFlapsAirtightOpaque = Герметичные пластиковые шторки
+    .desc = Тяжёлые, укреплённые, герметичные пластиковые шторки. Сквозь них не пройти. Ни за что
+    .suffix = Непрозрачные герметичные
