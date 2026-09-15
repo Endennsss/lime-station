@@ -40,7 +40,7 @@
   id: LowOxygen
   category: Breathing
   icons:
-  - sprite: /Textures/Interface/Alerts/breathing.rsi
+  - sprite: /Textures/_Lime/Imported/DeadSpace/Interface/Alerts/breathing.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: not_enough_oxy
   name: alerts-low-oxygen-name
   description: alerts-low-oxygen-desc
@@ -49,7 +49,7 @@
   id: LowNitrogen
   category: Breathing
   icons:
-    - sprite: /Textures/Interface/Alerts/breathing.rsi
+    - sprite: /Textures/_Lime/Imported/DeadSpace/Interface/Alerts/breathing.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: not_enough_nitro
   name: alerts-low-nitrogen-name
   description: alerts-low-nitrogen-desc
@@ -58,7 +58,7 @@
   id: Toxins
   category: Toxins
   icons:
-  - sprite: /Textures/Interface/Alerts/breathing.rsi
+  - sprite: /Textures/_Lime/Imported/DeadSpace/Interface/Alerts/breathing.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: too_much_tox
   name: alerts-high-toxin-name
   description: alerts-high-toxin-desc
@@ -158,7 +158,7 @@
   id: Ensnared
   clickEvent: !type:RemoveEnsnareAlertEvent
   icons:
-  - sprite: /Textures/Interface/Alerts/ensnared.rsi
+  - sprite: /Textures/_Lime/Imported/DeadSpace/Interface/Alerts/ensnared.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: ensnared
   name: alerts-ensnared-name
   description: alerts-ensnared-desc

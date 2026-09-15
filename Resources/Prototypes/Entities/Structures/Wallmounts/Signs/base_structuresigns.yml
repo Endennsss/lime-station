@@ -7,7 +7,7 @@
     arc: 360
   - type: Rotatable
   - type: Sprite
-    sprite: Structures/Wallmounts/signs.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/signs.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     snapCardinals: true
   - type: StaticPrice
     price: 20

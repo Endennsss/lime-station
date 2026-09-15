@@ -4,7 +4,7 @@
   name: nuclear code folder
   components:
   - type: Sprite
-    sprite: Objects/Misc/folders.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/folders.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: folder-colormap
       color: "#cc2323"
@@ -36,7 +36,7 @@
   description: A folder filled with top secret paperwork.
   components:
   - type: Sprite
-    sprite: Objects/Misc/folders.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/folders.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: folder-colormap
     - state: folder-base
@@ -53,7 +53,7 @@
 #      black: "#3f3f3f"
 #      green: "#43bc38"
   - type: Item
-    sprite: Objects/Misc/folders.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/folders.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Small
     shape: null
     inhandVisuals:

@@ -54,7 +54,7 @@
   name: changeling flesh belt
   components:
   - type: Sprite
-    sprite: Clothing/Belt/utility.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/utility.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Item
     size: Normal
@@ -75,7 +75,7 @@
   name: changeling flesh headset
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
     size: Small
@@ -94,7 +94,7 @@
   name: changeling flesh glasses
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/glasses.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/glasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Item
     size: Small

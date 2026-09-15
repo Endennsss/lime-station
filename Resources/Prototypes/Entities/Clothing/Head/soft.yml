@@ -62,9 +62,9 @@
   description: A baseball cap colored to match cargo's uniforms.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Soft/cargosoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/cargosoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Soft/cargosoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/cargosoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade
@@ -91,9 +91,9 @@
   description: A baseball cap colored to match the Quartermaster's uniform.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Soft/qmsoft.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/qmsoft.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Soft/qmsoft.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/qmsoft.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadHeadHatBaseFlipped, ClothingHeadHatQMsoft]
@@ -123,9 +123,9 @@
   description: A baseball cap in corporation colors.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Soft/corpsoft.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/corpsoft.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Soft/corpsoft.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/corpsoft.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadHeadHatBaseFlipped, ClothingHeadHatCorpsoft]
@@ -264,9 +264,9 @@
   description: A baseball cap colored to match security's uniforms.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Soft/secsoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/secsoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Soft/secsoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/secsoft.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadHeadHatBaseFlipped, ClothingHeadHatSecsoft]
@@ -312,9 +312,9 @@
   description: A blue baseball cap with a cross on the front.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Soft/paramedicsoft.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/paramedicsoft.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Soft/paramedicsoft.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Soft/paramedicsoft.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade

@@ -302,9 +302,9 @@
   suffix: indestructible
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Forge/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Forge/Forge/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IconSmooth
     key: walls
     base: plastitanium
@@ -439,9 +439,9 @@
   suffix: rusted
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Forge/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: rgeneric
   - type: Construction
     graph: Girder
@@ -724,9 +724,9 @@
   suffix: rusted
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Forge/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Construction
     graph: Girder
@@ -751,9 +751,9 @@
       - *SoundMetalSlam
       - *SpawnSteel
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
   - type: Icon
-    sprite: _Lime/Imported/Forge/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
   - type: IconSmooth
     key: walls
     base: solid
@@ -771,9 +771,9 @@
   name: reinforced exodermis
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
   - type: Icon
-    sprite: _Lime/Imported/Forge/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/xeno.rsi # Lime-Edit - графика Monolith
     state: rgeneric
   - type: Damageable
     damageModifierSet: PlasteelStaticMod
@@ -921,9 +921,9 @@
   - type: Damageable
     damageModifierSet: ThreadMod
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Walls/web.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/web.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/Structures/Walls/web.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/web.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Destructible
     thresholds:
     - trigger:
@@ -949,9 +949,9 @@
   name: mining wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Walls/mining.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/mining.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Forge/Structures/Walls/mining.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Walls/mining.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
   - type: Damageable
     damageModifierSet: SteelStaticMod
   - type: Destructible

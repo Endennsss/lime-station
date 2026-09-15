@@ -40,9 +40,9 @@
   description: It's a black jumpsuit, often worn by religious folk.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/chaplain.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/chaplain.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/chaplain.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/chaplain.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -51,9 +51,9 @@
   description: Can't cook without this.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/chef.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -62,9 +62,9 @@
   description: HONK!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/clown.rsi # Lime-Edit - графика Monolith
   - type: Tag
     tags:
     - ClownSuit
@@ -94,9 +94,9 @@
   description: A jolly dress, well suited to entertain your master, nuncle.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/jester.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformJumpsuitJester
@@ -132,9 +132,9 @@
   description: ...
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/mime.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -143,9 +143,9 @@
   description: A cosy green jumper fit for a curator of books.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/librarian.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/librarian.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/librarian.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/librarian.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -154,9 +154,9 @@
   description: It's sensible. Too sensible...
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/curator.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/curator.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/curator.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/curator.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -165,9 +165,9 @@
   description: I don't lose things. I place things in locations which later elude me.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/psychologist.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -187,9 +187,9 @@
   description: A good reporter remains a skeptic all their life.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/reporter.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/reporter.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/reporter.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/reporter.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -198,9 +198,9 @@
   description: Perfect for a jungle excursion.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/safari.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -209,9 +209,9 @@
   description: If journalism is good, it is controversial, by nature.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/journalist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/journalist.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/journalist.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/journalist.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -220,9 +220,9 @@
   description: It's a dark robe, often worn by religious folk.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/monastic_robe_dark.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/monastic_robe_dark.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/monastic_robe_dark.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/monastic_robe_dark.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -231,9 +231,9 @@
   description: It's a light robe, often worn by religious folk.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/monastic_robe_light.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/monastic_robe_light.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/monastic_robe_light.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/monastic_robe_light.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -266,9 +266,9 @@
   description: A flashy red suit worn by lawyers and show-offs.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerred.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerred.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerred.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerred.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -277,9 +277,9 @@
   description: A flashy blue suit worn by lawyers and show-offs.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerblue.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -288,9 +288,9 @@
   description: A subtle black suit worn by lawyers and gangsters.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerblack.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -299,9 +299,9 @@
   description: A stylish purple piece worn by lawyers and show people.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyerpurple.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase
@@ -310,9 +310,9 @@
   description: A tacky suit perfect for a CRIMINAL lawyer!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyergood.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyergood.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/lawyergood.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/lawyergood.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase

@@ -5,7 +5,7 @@
   description: When powered and filled with encryption keys it allows radio headset communication.
   components:
   - type: Sprite
-    sprite: Structures/Machines/telecomms.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/telecomms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     snapCardinals: true
     layers:
     - state: telecom-nopower
@@ -39,7 +39,7 @@
     - state: telecom-open
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: ItemMapper
-    sprite: Structures/Machines/telecomms.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/telecomms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     mapLayers:
       variant-nokey:
         whitelist:

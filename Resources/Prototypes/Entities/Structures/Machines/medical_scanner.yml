@@ -13,7 +13,7 @@
     ports:
       - MedicalScannerReceiver
   - type: Sprite
-    sprite: Structures/Machines/scanner.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/scanner.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     snapCardinals: true
     layers:
     - state: open

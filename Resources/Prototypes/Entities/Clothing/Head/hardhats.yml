@@ -85,7 +85,7 @@
   description: A hard hat, painted in blue, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHardhatBase
@@ -94,7 +94,7 @@
   description: A hard hat, painted in orange, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/orange.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/orange.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHardhatBase
@@ -103,7 +103,7 @@
   description: A hard hat, painted in red, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/red.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/red.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHardhatBase
@@ -112,7 +112,7 @@
   description: A hard hat, painted in white, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/white.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/white.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHardhatBase
@@ -121,7 +121,7 @@
   description: A hard hat, painted in yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/yellow.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/yellow.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHardhatBase
@@ -130,7 +130,7 @@
   description: A hard hat, painted in dark yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/dark_yellow.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/dark_yellow.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatHardhatBase
@@ -139,7 +139,7 @@
   description: An armored hard hat. Provides the best of both worlds in both protection & utility - perfect for the engineer on the frontlines.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardhats/armored.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardhats/armored.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Armor #Copied from the sec helmet, as it's hard to give these sane values without locational damage existing.
     modifiers:
       coefficients:

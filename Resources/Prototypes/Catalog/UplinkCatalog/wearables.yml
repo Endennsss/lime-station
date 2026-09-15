@@ -161,7 +161,7 @@
   id: UplinkClothingOuterHardsuitJuggernaut
   name: uplink-clothing-outer-hardsuit-juggernaut-name
   description: uplink-clothing-outer-hardsuit-juggernaut-desc
-  icon: { sprite: /Textures/Structures/Storage/Crates/syndicate.rsi, state: icon }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Structures/Storage/Crates/syndicate.rsi, state: icon } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: CrateCybersunJuggernautBundle
   cost:
     Telecrystal: 12

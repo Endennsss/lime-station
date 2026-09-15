@@ -21,7 +21,7 @@
     noMindState: robot_e_r
   - type: BorgTransponder
     sprite:
-      sprite: Mobs/Silicon/chassis.rsi
+      sprite: _Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: robot
     name: cyborg
   - type: InteractionPopup

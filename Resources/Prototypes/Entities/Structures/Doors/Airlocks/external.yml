@@ -15,30 +15,30 @@
     denySound:
       path: /Audio/Machines/airlock_deny.ogg
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     snapCardinals: true # Lime-Edit - ориентация исходного набора
     layers:
     - state: closed
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseUnlit"]
       shader: unshaded
       visible: false
     - state: welded
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseBolted"]
       shader: unshaded
     - state: emergency_unlit
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
       shader: unshaded
     - state: panel_open
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
     - state: electrified_ai
       sprite: Interface/Misc/ai_hud.rsi
@@ -51,7 +51,7 @@
       shader: unshaded
       visible: false
     - state: sparks
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseEmagging"]
       shader: unshaded
       visible: false
@@ -72,30 +72,30 @@
   - type: Occluder
     enabled: false
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     snapCardinals: true # Lime-Edit - ориентация исходного набора
     layers:
     - state: closed
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseUnlit"]
       shader: unshaded
       visible: false
     - state: welded
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseBolted"]
       shader: unshaded
     - state: emergency_unlit
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
       shader: unshaded
     - state: panel_open
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
     - state: electrified_ai
       sprite: Interface/Misc/ai_hud.rsi
@@ -108,7 +108,7 @@
       shader: unshaded
       visible: false
     - state: sparks
-      sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/external.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseEmagging"]
       shader: unshaded
       visible: false

@@ -869,7 +869,7 @@
     flavors:
       - sweet
   - type: Sprite
-    sprite: Mobs/Aliens/slimes.rsi
+    sprite: _Lime/Imported/DeadSpace/Mobs/Aliens/slimes.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - map: [ "enum.DamageStateVisualLayers.Base" ]
       state: rainbow_slime_extract

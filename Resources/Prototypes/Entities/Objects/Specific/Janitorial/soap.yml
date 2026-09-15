@@ -10,14 +10,14 @@
     tags:
     - Soap
   - type: Sprite
-    sprite: Objects/Specific/Janitorial/soap.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Janitorial/soap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: SolutionContainerVisuals
     maxFillLevels: 4
     fillBaseName: soap-
     changeColor: false
   - type: Appearance
   - type: Item
-    sprite: Objects/Specific/Janitorial/soap.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Janitorial/soap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     storedRotation: -90
   - type: Slippery
   - type: StepTrigger

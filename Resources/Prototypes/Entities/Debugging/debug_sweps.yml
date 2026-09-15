@@ -82,7 +82,7 @@
     proto: CartridgeDebug
     capacity: 1000
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   id: BulletDebug
@@ -116,7 +116,7 @@
   suffix: DEBUG
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/debug.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/debug.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     damage:
@@ -124,7 +124,7 @@
         Blunt: 20000
   - type: Item
     size: Tiny
-    sprite: Objects/Weapons/Melee/debug.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/debug.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   name: bang stick 100dmg
@@ -154,7 +154,7 @@
   suffix: DEBUG
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/debug.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/debug.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     damage:
@@ -162,7 +162,7 @@
         Blunt: 0
   - type: Item
     size: Tiny
-    sprite: Objects/Weapons/Melee/debug.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/debug.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: EntityEffectMelee
     effects:
     - !type:EvenHealthChange

@@ -7,9 +7,9 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Objects/Devices/encryption_keys.rsi
+      - sprite: _Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: crypt_rusted
-      - sprite: Objects/Devices/encryption_keys.rsi
+      - sprite: _Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: nano_label
   - type: EntityTableSpawner
     table: !type:GroupSelector

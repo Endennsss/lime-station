@@ -290,9 +290,9 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Silicon/chassis.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: robot
-    - sprite: Mobs/Silicon/chassis.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: robot_e
 
 # Command

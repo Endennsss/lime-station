@@ -8,7 +8,7 @@
   description: A small miniature.
   components:
   - type: Sprite
-    sprite: Objects/Fun/figurines.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/figurines.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PhysicalComposition
     materialComposition:
       Plastic: 100

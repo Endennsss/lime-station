@@ -4,7 +4,7 @@
   id: UplinkHypopen
   name: uplink-hypopen-name
   description: uplink-hypopen-desc
-  icon: { sprite: /Textures/Objects/Misc/pens.rsi, state: pen }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Misc/pens.rsi, state: pen } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: HypopenBox
   discountCategory: rareDiscounts
   discountDownTo:
@@ -46,7 +46,7 @@
   id: UplinkZombieBundle
   name: uplink-zombie-bundle-name
   description: uplink-zombie-bundle-desc
-  icon: { sprite: /Textures/Structures/Wallmounts/signs.rsi, state: bio }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Structures/Wallmounts/signs.rsi, state: bio } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: ClothingBackpackDuffelZombieBundle
   cost:
     Telecrystal: 40

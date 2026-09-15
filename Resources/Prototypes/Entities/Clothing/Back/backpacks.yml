@@ -76,7 +76,7 @@
   description: It's a very robust backpack.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingBackpack, BaseSecurityContraband]
@@ -85,7 +85,7 @@
   description: It's a very sterile backpack.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/brigmedic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/brigmedic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -94,7 +94,7 @@
   description: It's a tough backpack for the daily grind of station life.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/engineering.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/engineering.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -103,7 +103,7 @@
   description: It's a backpack made of fire resistant fibers. Smells like plasma.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/atmospherics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/atmospherics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -112,7 +112,7 @@
   description: It's a backpack especially designed for use in a sterile environment.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingBackpack, BaseCommandContraband]
@@ -121,7 +121,7 @@
   description: It's a special backpack made exclusively for Nanotrasen officers.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -142,7 +142,7 @@
   description: A backpack specially designed to repel stains and hazardous liquids.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/chemistry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/chemistry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -160,7 +160,7 @@
   description: A backpack specially designed to repel stains and hazardous liquids.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -169,7 +169,7 @@
   description: A backpack made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/virology.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/virology.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -178,7 +178,7 @@
   description: A backpack designed to be super tough, just in case someone hulks out on you.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/genetics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/genetics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -187,7 +187,7 @@
   description: A robust backpack for stealing cargo's loot.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpack
@@ -215,7 +215,7 @@
   description: A spacious backpack with lots of pockets, worn by the Leader of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertleader.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertleader.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Storage
     grid:
     - 0,0,8,3
@@ -229,7 +229,7 @@
   description: A spacious backpack with lots of pockets, worn by Security Officers of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertsec.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertsec.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackERTLeader
@@ -238,7 +238,7 @@
   description: A spacious backpack with lots of pockets, worn by Medical Officers of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertmed.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertmed.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackERTLeader
@@ -247,7 +247,7 @@
   description: A spacious backpack with lots of pockets, worn by Engineers of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/erteng.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/erteng.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackERTLeader
@@ -256,7 +256,7 @@
   description: A spacious backpack with lots of pockets, worn by Janitors of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertjanitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertjanitor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackERTLeader
@@ -265,7 +265,7 @@
   description: A spacious backpack with lots of pockets, worn by Clowns of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertclown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertclown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackERTLeader
@@ -274,7 +274,7 @@
   description: A spacious backpack with lots of pockets, worn by Chaplains of an Emergency Response Team.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertchaplain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertchaplain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ ClothingBackpackHoldingBase, ClothingBackpackERTSecurity ]
@@ -283,7 +283,7 @@
   description: Holds the kit of CentComm's most feared agents.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/ertsec.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertsec.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 #Syndicate
 - type: entity
@@ -293,7 +293,7 @@
   description:
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Forge/Clothing/Back/Backpacks/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Backpacks/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.1
   - type: Storage

@@ -3,7 +3,7 @@
   name: tool-quality-anchoring-name
   toolName: tool-quality-anchoring-tool-name
   spawn: Wrench
-  icon: { sprite: _Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Tools/wrench.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: tool
   id: Prying
@@ -17,35 +17,35 @@
   name: tool-quality-screwing-name
   toolName: tool-quality-screwing-tool-name
   spawn: Screwdriver
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/screwdriver.rsi, state: screwdriver-map } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Tools/screwdriver.rsi, state: screwdriver-map } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: tool
   id: Cutting
   name: tool-quality-cutting-name
   toolName: tool-quality-cutting-tool-name
   spawn: Wirecutter
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/wirecutters.rsi, state: cutters-map } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Tools/wirecutters.rsi, state: cutters-map } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: tool
   id: Welding
   name: tool-quality-welding-name
   toolName: tool-quality-welding-tool-name
   spawn: Welder
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/welder.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Tools/welder.rsi, state: icon } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: tool
   id: Pulsing
   name: tool-quality-pulsing-name
   toolName: tool-quality-pulsing-tool-name
   spawn: Multitool
-  icon: { sprite: _Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Tools/multitool.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: tool
   id: Slicing
   name: tool-quality-slicing-name
   toolName: tool-quality-slicing-tool-name
   spawn: KitchenKnife
-  icon: { sprite: Objects/Weapons/Melee/kitchen_knife.rsi, state: icon }
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/kitchen_knife.rsi, state: icon } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: tool
   id: Sawing
@@ -80,4 +80,4 @@
   name: tool-quality-shearing-name
   toolName: tool-quality-shearing-tool-name
   spawn: Wirecutter
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/wirecutters.rsi, state: cutters-map } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/DeadSpace/Objects/Tools/wirecutters.rsi, state: cutters-map } # Lime-Edit - текстуры DeadSpace с сохранением лицензии

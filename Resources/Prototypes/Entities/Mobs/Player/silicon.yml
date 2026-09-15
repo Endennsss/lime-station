@@ -461,7 +461,7 @@
       StationAiHolograms: StationAiHologramFemale
   - type: HolographicAvatar
     layerData:
-    - sprite: Mobs/Silicon/holograms.rsi
+    - sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ai_female
   - type: NameIdentifier
     group: StationAi

@@ -1,0 +1,1069 @@
+[
+  {
+    "source": "Resources/Textures/_Backmen/Structures/Machines/VendingMachines/discount.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Backmen/Structures/Machines/VendingMachines/discount.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "6a5321e129bc82af6bbd90bfb8d7ea9462f055e5ffd48787e16e7bafe3683523",
+      "deny-unshaded.png": "4ac057f64b8aec5b761a5616abbf0dec80d50d803947f1d92ab0e289615a4a5c",
+      "eject-unshaded.png": "6eb6ab21a2494051b56982447b2e5a4f6f14e31e6800f68a559cd0bab8c71e35",
+      "meta.json": "cc7b26ef2ee672e26f001232ab6a595552e085487526f5f2793e543e20f12a53",
+      "normal-unshaded.png": "d2a8052ded8ceb3b31f0bc076372e9476e89f9fd9db33334a590149b73be0700",
+      "off.png": "f9f607b74f0da3f0b138fd22a1eb6bb59f3cd69d857fb865ebed0632780f591a",
+      "panel.png": "43ec3a281d465d3ae548954940757b15c0dcb8a03f07f9c5159318c66f6929ec"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/discount.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Corvax/Clothing/Head/Hats/hoshat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Corvax/Clothing/Head/Hats/hoshat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/28d0be60aa8bbe1ca87a5d129487bb6f60839ac4, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "955d9d99435bbcb0c83151dd58a6a219fba422ec2f5e2c4238174cd588908237",
+      "icon.png": "c251a61c5608d9cdf5b6b889de298622f8c5d78a2bb7ec3bcf9a21679509db84",
+      "inhand-left.png": "ac9cac176e0df17def20264f259f50373645dd3c1cc6381ef118e45d74f4decc",
+      "inhand-right.png": "346cf1650461d633a9354e681ada124cfd4ff4c038888806a64f850fc4283d7e",
+      "meta.json": "0f126a2e6f836da15bdd9d239dc8bbd72eb3e736e9efcdf0dc7f4e7b6f0588f8"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/hoshat.rsi",
+      "_Lime/Imported/Monolith/Clothing/Head/Hats/hoshat.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Corvax/Structures/Machines/VendingMachines/ammo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Corvax/Structures/Machines/VendingMachines/ammo.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/21d5a65346cfdaa61e86410cf9323e4e03a362d9 and resprited by SonicDC",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "ba4b2b3ff9d33bf35fb0eed15fb209fa4f953dcecaaae49f7ef28b7bb9c92f3b",
+      "meta.json": "d09f5dfc387cee1409aec6eb4e90c12f2647ed91ed5bf31919d74159e295cf32",
+      "normal-unshaded.png": "5e70fdbac9e28b15ea4d76ab2c8356d30d8220747565c2d5c8b2213296d05f56",
+      "off.png": "98ce8ecb5d57caf64ec27d94c4b16e35d0b8e7fb53d0436eb796ce0b131efdaa",
+      "panel.png": "98d00591bed28b134720286b024e305d70f6a0cc1843553e54a63fbb65dd8042"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/ammo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Clothing/Head/Bandanas/botany.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Clothing/Head/Bandanas/botany.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-MASK-vox & equipped-HELMET-vox states taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/bc095ad398790a2b718b2bab4f2157cdd80a51da/icons/mob/clothing/species/vox/mask.dmi, recolored by andrew_fenriz (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "462644655038130bc225316d2874abbae4be542e362733ebcea0176c8bcec6a7",
+      "equipped-HELMET.png": "810460a14cda7d4150891c5dae1d301385fae79c78ecfb8772544892925c9e45",
+      "equipped-MASK-vox.png": "3cfcb1f57e455246092e118f642be0242cbe53bd346ce12e5d40d5980436ce06",
+      "equipped-MASK.png": "482bb99f1e752367e50826ccc4e1988d27f66da65d09616bd9069647ac4b6a25",
+      "icon.png": "5630b4d2bd645288d9c49ddfb61f2fade9601b7fc7a3a6d1abbe717449bfb9f7",
+      "icon_mask.png": "1df178bd0ebf8331795ad401cf1a3759f2a26cecded35473b58a704d9fe9e6ba",
+      "inhand-left.png": "69721fa52b7d0d26c4211d3661444eac95fa3758047bc7eb2c2e07b98119e5d0",
+      "inhand-right.png": "a5243c07ed838af5f3bb974c606434095f0ff2a3453bfda4ba380aa5fc3968d8",
+      "meta.json": "072c92f76be9c6369bae7e6a1c324908306bee245e8c0e831c425e1ef7409f6a"
+    },
+    "replaces": [
+      "Clothing/Head/Bandanas/botany.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Clothing/Shoes/Boots/workboots.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Clothing/Shoes/Boots/workboots.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, modified for Space Station 14 server Мёртвый Космос by andrew_fenriz (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET.png": "13ed6a7293a60620c0553f74fefb26759298f6a2df9dc1bbbdaa1d249c5c21ae",
+      "icon.png": "3af709c1c1785a106e1eac7eb9f16b6bff944895e7f6c195200ba9f96dba9cee",
+      "inhand-left.png": "d0a2ab8bda5d011792f268c5961d7480e13cdaf4cc8f13ec03b70eb2b64fdcb7",
+      "inhand-right.png": "68697173d61b239a0ad4d430d4bd856c93330d40f821c164f980dbb62973764d",
+      "meta.json": "afcc8e65655f0e7b2e36fe0e8827fc91fde408c4f56d129fe85128f5530d521b"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/workboots.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/workboots.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Effects/sparks.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Effects/sparks.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/blob/HEAD/icons/obj/fireworks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "828d8041ccd937d7974ea3d47b1341ef397857e2c6843299c951bf6b3e5aa21f",
+      "sparks.png": "ae5556e443849d72809fff05f35fdf9ca8c69e65d38e6dbf8f533070ef5464d0"
+    },
+    "replaces": [
+      "Effects/sparks.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Interface/Misc/research_disciplines.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Interface/Misc/research_disciplines.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage404 (github) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "arsenal.png": "d796a8854fc4c42b5aaca8f858c87dcd0ba9015850fa6663036a0b035fdd59ce",
+      "biochemical.png": "3cf3f7a6767e90fa4373bda52106fb2be15db85f368fb63c8891020b91471975",
+      "civilianservices.png": "4b3001292ea5d1e1039fd646903c7c71919ee08f31cb29f9e46f5bd87c177475",
+      "experimental.png": "550a0af6021337f62ed65c470bed4f9dc602e0eeded4c7c4fae3b89f8e86eb7a",
+      "industrial.png": "500c353cfee561c31226578e0dcd0fc0a8436075ac0b0bc6497b6be7ec8a5a63",
+      "meta.json": "c312342232ef26b044eb267c977f388490e3a8d821a11035214ffde630d11678"
+    },
+    "replaces": [
+      "Interface/Misc/research_disciplines.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Mobs/Silicon/Bots/medibot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/Bots/medibot.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation, modified by marvelousjoker",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "medibot.png": "479c1c4a0d538eb15be4b64a25f3cb74c90fd94468a0d396e885ffbe18dfa440",
+      "meta.json": "99cc4b23b7d087c714ff284a8305bbd4c5c6973e5058caad92934db1734eb540",
+      "powered.png": "b62f3208f3fdc428e24f3d65ff141ec5ae13c9d06ba627cf9118b37e6c2b2ec9"
+    },
+    "replaces": [
+      "Mobs/Silicon/Bots/medibot.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Mobs/Silicon/holograms.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/blob/e2923df112df8aa025846d0764697bad6506586a/icons/mob/AI.dmi - modified by chromiumboy, recolored by andrew_fenriz (discord) for Space Station 14 server Мёртвый Космос, knight made by golubok_epta.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "ai_cat.png": "d3e21e78a4ee6bc7a1faa1cdcc863a8d9051e5f7af499fd9524b6ec2f86eb245",
+      "ai_dog.png": "9246bc02bbbc2374861bd49bb433e68dec8ca8c68e80c4e6823f85e08a1d7df9",
+      "ai_face.png": "fd01d9d0f7b6eb80edaee6f2bab32418632296023892eb11b33841fda7ce8aa0",
+      "ai_female.png": "908d235465f9ea7560ab80d52cd394b5d5c6d6707eabf6a4b36fd8ec0c90c424",
+      "ai_knight.png": "c6a12cec197451bd524a1bcaa8c0b7dbb31679736487c44cffa223dec80b7e3c",
+      "ai_male.png": "576db0809f4a62c27e5904079a7c19ceb5a4a4097453a09c72cd8720703afd57",
+      "meta.json": "6b5f940b6fca0faaf9db2128f8b043b429071db51347fcf86131262e3e065975"
+    },
+    "replaces": [
+      "Mobs/Silicon/holograms.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Objects/Tools/access_configurator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/access_configurator.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Color-swap of the network configurator made by 20kdc (github) for ss14, recolored by andrew_fenriz (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "ae960a4baf3428d243815d3eb342e504cbc110a478863174b05ad3d5a8e28d9d",
+      "icon.png": "8b2354bab43c377de260cb118b66f57567a9ca881fbd31cf21d5a87b049642b3",
+      "inhand-left.png": "d9697520ce9241975858b685dd0d1f1b5a136bfa21bbd7e3a73c9519d8875a18",
+      "inhand-right.png": "cb07db92c63edacc80e8b3cd53dcf652e8953173b81773df36a9f0e0eadede8a",
+      "meta.json": "e41f5fd4ff1cfc9694a30a97f13bc1f0832ee2865bd777fe66e515def251e6a2"
+    },
+    "replaces": [
+      "Objects/Tools/access_configurator.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Objects/Tools/handheld_mass_scanner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/handheld_mass_scanner.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Frontier Station, created by Tem Armoff https://github.com/new-frontiers-14/frontier-station-14/pull/484/files, Inhand sprites by onesch, recolored by thezuti (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "b3e0e95ba65a3cdb0195e227e9703e51e1053cc9f3cd8959bd54665b311521bc",
+      "inhand-left.png": "ca2236c22e924950449d911d14b4ba035ad65c098294003186ac8efb036c4ca9",
+      "inhand-right.png": "1adfde1424cf690fa6397883d26692d553c9ef66d96033974a9342f40d496091",
+      "meta.json": "faca43ae0c0d2a2e1926969d8b93f9947a02b1b514bc9016721e049ad461f504",
+      "scanner.png": "074400468808939a8bfb1415fce841fc705bf057c0cec78a7cb9065b68e80a60"
+    },
+    "replaces": [
+      "Objects/Tools/handheld_mass_scanner.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Objects/Weapons/Guns/Turrets/sentry_turret.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Objects/Weapons/Guns/Turrets/sentry_turret.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/blob/04b0e91bac8989d27a504124a0f636b41098d016/icons/obj/turrets.dmi. Modified by chromiumboy, edited by andrew_fenriz (discord) for Space Station 14 server Мёртвый Космос.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "424ced513f528d311156e026210e2c8a92443a5cbc4946096404371aba4c0580",
+      "base_shadow.png": "a22a925e72fbcb045223eedc5df663e8c7da2cf08dc33fb875d44e4ba726977e",
+      "cover_closed.png": "668040937d6a8bdd19b9caeb90a991cd880c3d1ed9bdd2f6e2dd0679c0eee66b",
+      "cover_closing.png": "8c8e9be7eeaf0f6be797628750da54bcbf18408ffbbe4464126aab839a27ba31",
+      "cover_light_on.png": "aeb602bd97590b1423ba16d8ea302bdda2f155b4c8a9baae9df5552f2bb75def",
+      "cover_open.png": "9da2f470a904e3fb6c193f22f643aa3f1ab06d21ffa499936db117a71bf662d3",
+      "cover_opening.png": "d1ca198602a2a3fedade07ca024dfc64f604080240ec98bf9b0dd6ed7152950c",
+      "destroyed.png": "c36bfac78253d95503579c2ce8e70c3e9b65b2b9a3bc531c5d034c4958540bd2",
+      "lethal.png": "525ca3c729e2110f30bdf1d3c45c4e76a60d40fd7f31e927a0d19b9c91fd46a2",
+      "meta.json": "a912178b5ae91ef4e5aff6b773347bb872e51f3325ff3fce640e6bf1e4a54aed",
+      "panel.png": "919443e053f916287208e7021f3a3c987058b0dbff24896a150b69dfb817d61e",
+      "stun.png": "d9e7283ba469287a15919c32d4e0205f3651c07921192d121d62d8401e6a4c2b",
+      "support.png": "c27885a35caa641c6e4e785153bb7145fe2599da49753e7acf6cd811f88153c4"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Turrets/sentry_turret.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Structures/Machines/VendingMachines/chemvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/chemvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by Swept, edited by mutemaid (discord) for SS14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "0ff21af46c73fe9928052a07e3a37d5fb8b7d9f64e63773359e3dbb77177fbe2",
+      "deny.png": "24e671e5336bd50166a4c12bf964834d6d2bdba2ae1d4720011d6c12286aae8a",
+      "meta.json": "e5554a3a1111ef10a122d79b1ff040d9220964be7452bb083838c87acad55fef",
+      "normal.png": "d34e38dc12b3d8157d50b6ac2c268f1ac3d0b3518faacdd9fef194ff9344175b",
+      "off.png": "508f82a97e4f000adbd740c043ca26d05281600e25f83220986d29c3f250e7d9",
+      "panel.png": "06934837d9e7afacb81a723268cc1a384aa0301ff642d8d2b818dee0b8690255"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/chemvend.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Structures/Machines/VendingMachines/cigs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/cigs.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from baystation at https://github.com/Baystation12/Baystation12/commit/f200ae08d71ecbc91412ee650a334981892f5177 and modified by potato1234x, edited by mutemaid (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "9f2272cd3d462418da9a78ae46f24191c5c7dc9d2358f1c44188e2c257346052",
+      "deny-unshaded.png": "b01463d6aa4c279d60b4109b98e7930dff813e297b8ff25fd8b2828d1d9bf25f",
+      "eject-unshaded.png": "1fa04351c106b1f04078e299426a2f615be54a6be68c380a268f47734998d1c6",
+      "meta.json": "c1f52c13bb69c7a746b0337d4340fdc959e4930cca272bee11621cca3e85bcb5",
+      "normal-unshaded.png": "91044e6f1e7e9357071f82ea7d7f80132444ec270173bd7a87689e934a840e93",
+      "off.png": "8d808987b35a2149580bec1c598b2478ad96a049f4492e4550dd58dd41a809c7",
+      "panel.png": "0247acb1592ca1f665a15ef6b7996e9d7894b6c258a789d6786934b04c114f3a"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/cigs.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Structures/Machines/VendingMachines/engivend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/engivend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by Swept, recolored by andrew_fenriz for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "b93c161d131d285550bc8a48f0ef292a719c4604164cf4884a143ec53a3bcaa2",
+      "deny-unshaded.png": "5bc763a221b97ee22ebcaf97c3d36ca227f4daf90662d1d9722e1d916b8ec77d",
+      "eject-unshaded.png": "9e06126b1c42579057ff1db9d51161e279fc910aca39a1590a8074a4918428a1",
+      "meta.json": "b375a8ae5ac27113e4932b9f22168e4ba2d319cfb91f680da9acc7ce77e56ef4",
+      "normal-unshaded.png": "57a2aa817aca0d8d3234b50b6c070f1c71c403551e35eef05374ddff923317ce",
+      "off.png": "5c13ddf0034ab800fb6d7d9f8c1aab94fc919213d733f449d3872e101eb0f2c5",
+      "panel.png": "04adc392d66dbbd00313c78dacd9065fc636d3b5e57e84cf8523a6fdde03c95f"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/engivend.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Structures/Machines/VendingMachines/mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/mining.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tgstation at source. Modified by Peptide90 to work with SS14. Broken state by Peptide based on off, recolored by andrew_fenriz for Space Station 14 server Мёртвый Космос",
+    "originalSource": "https://github.com/tgstation/tgstation/commit/2b7f2c42f1bd57497052e8ef593d5e05ea45208e",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "272c7b68214b1dba91ed6d518fc1ef7310edf148a5e02ed12c517d3f5f5d3463",
+      "deny-unshaded.png": "8bf3252a53a2b7104f7672be225ddce7fba6c316c51e6afe2e8b2e773b55096a",
+      "meta.json": "d5c5c719894c07cb73a729b0758d5b22ec0040e5e2e0683559b711ef89c991a9",
+      "normal-unshaded.png": "882c7b3971ee36d6addcd4291be8ef577ea7788db5501d54497566b8089d96d0",
+      "off.png": "8c7ae65838e8292727cddc4f0e81a357befa78dd15e457072d187ecbd49a8294",
+      "panel.png": "90cb27be1bfb8b8a7bf571ae87f8dddca5cec2b64ee2f3678d93b0ff708d7d92"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Structures/Machines/VendingMachines/youtool.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/youtool.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by Swept, recolored by andrew_fenriz for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "36ab8f230a3e1d8240006f08720b216f85c3f5857bc4b63e9e816a98ac50217e",
+      "deny-unshaded.png": "892c2344a0fa4373ff965860cc93c18b68ecbbf1171a7c7773f96b30b6c6980d",
+      "eject-unshaded.png": "aa67d9fa74753ca3c61c1d25c051ad6cb18f3341bed013a5c85d3cc184c7ca17",
+      "meta.json": "1b8e037c90a310dbd145f749932eb105ee06fa87459128739d232818d59183fa",
+      "normal-unshaded.png": "533740c8d8fd1c9fb0943acc075364cc8d819c5a9f86d97e8ac4dd65a22c9645",
+      "off.png": "29419ef59e5d1150d6571cf45b7b0520a4703e8d82a2a62652ecbcea7ea37758",
+      "panel.png": "04adc392d66dbbd00313c78dacd9065fc636d3b5e57e84cf8523a6fdde03c95f"
+    },
+    "replaces": [
+      "Structures/Machines/VendingMachines/youtool.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_DeadSpace/Structures/Storage/Crates/syndicate_secure.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/DeadSpace/Structures/Storage/Crates/syndicate_secure.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/HEAD/icons/obj/storage/crates.dmi, resprite by andrew_fenriz (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "ccc012cf3fdc4bb5490af223874a019f640964144d8e84e6cefc7e2431b4806f",
+      "closed.png": "80901aa4eaa5c6aebb4554a6eece2624b1929bbb4aff1c549f9213b3e62415e4",
+      "icon.png": "d2a5b8eadcf36bc5f14746305fc87ed26d0f1823e564ea61f1c8c4d041f8f583",
+      "locked.png": "441e99bb4f8a1cf9522069eb34cd353988fcbfd638912724aac0d68f4c60232c",
+      "meta.json": "c2265d82ffa35a30bca0e006102e66059394e4d98c943e7bac8cb04d3682a0fe",
+      "open.png": "07d6b6ee530bd619d679745b2d670315fd3cfa4b4dea5356e8cb3af723b42f85",
+      "sparking.png": "ae9c8adaad25016aefd43bf460a6934e1328a1c36519ae301fa2b75daa26abf4",
+      "unlocked.png": "256194894ec1c502913f0972a06b1719ff0bcc1cb437247af4aa4aea62f4c310",
+      "welded.png": "f730c2fda850502abde4a53d2a64171b5f82f8b7af4031cf93863ab7410aaff2"
+    },
+    "replaces": [
+      "Structures/Storage/Crates/syndicate_secure.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, modified by linkblyat (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6356a3ce851ded1e216276cdec0f8260d2913d0d4769413b33c1ca556c1b4c2b",
+      "icon.png": "6c1149a088e75cbdbea64f69265a230acf75fb320e4d329bf14b4472dd8c94cd",
+      "inhand-left.png": "34e08dede2a3b9b79cb2d03e39c8f372514ad39fec538b5a7a26fd9bc9485d21",
+      "inhand-right.png": "adc5abbb2f7a658d93d065658a6b31a7b211a0230eca9be174c7343ce81cfc9c",
+      "meta.json": "3df559ed395b441aeb8776265d9706de280badfc59266ab35217ffc3a2fa43d4"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/atmospherics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/atmospherics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Hülle#2562 (Discord), resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "a6e4ce149462e1f9da997a141f544fb41c275ae321a2abe6a9cd1a07a28bb975",
+      "icon.png": "debef4a1d5f5f8a12b7cc217d60c53d19dcabb3577acb2d85fd869cfa2c8608a",
+      "inhand-left.png": "909e0dd3c43eb9d96c263cc38bb63ec0bd54ca6229b5b04a57813fb1af291ae8",
+      "inhand-right.png": "6d7f8718a592e980b0b0a80cd5309b123634e6818a6050ec778545c7fd849a67",
+      "meta.json": "bc3a6f0b72eb09b8831b67cdd725b92d0209f789ef54fc2ff47adc4358bec7e3"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/brigmedic.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, recolored by pyfya (Discord) and catbackg (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "7777720abfca4150433c915f0e5bfc692fa33124ab4cb39ad0f741efd2d48f97",
+      "icon.png": "b0da0c0273dac2e9baca78ec2e3bb317e2107e58b0b40c7507a31c07fee75e6a",
+      "inhand-left.png": "e035e10db9d1524dde5f20f861829d958f1fd9e67a6fc87ef4931d86bc80524d",
+      "inhand-right.png": "60bc8194da5758f19d0adf12b3596254c93d2c58cadf4ece5eaa3f1d6073cc21",
+      "meta.json": "0adb8e90c1108841ace73c17f03ab401453caf76e025195401b86e1da35e038e"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/captain.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "54e595bc294e3e138d0370dbbdd6474dba821411b1dfb2f6216289105e5c6ef8",
+      "icon.png": "910eb547b4f8c71df2dbd8dba522f4663e8abc48cf51f85d52ef5119a1f9d851",
+      "inhand-left.png": "c8f193732bb4da55e238bd65c4bfc92cde744d542d9caf9d96e6645020ab39b9",
+      "inhand-right.png": "1381c37967908eb43f4874b8292ed60212db247105824897acfec070ee5455da",
+      "meta.json": "c2cfbbad73344d713026342bcec03ddf3a10f25426377e1f986d2b34e3d81f5a"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/cargo.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/cargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, resprite by sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2c97b021f8b72c66a26148c14206a23256e766436fa6c4324295778f12c669e3",
+      "icon.png": "410c29c09305616b38876ee60d9286b68c2d2e4e425a92beb3ac19aee82311cd",
+      "inhand-left.png": "0952b9c449a9433f4f16dc301546a096167b16e5df50fa9995127341bba252d3",
+      "inhand-right.png": "51e87aee0e20dc7a4d65eced923e4cd58620ef8b0693c0f94b4f81f66991f326",
+      "meta.json": "f499f975b59b55882721b7d66b4703483807775b1c29d5d62fe8f1b3df83115c"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/chemistry.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "46385b4df4aab382e0809c8cbca3d0b0d4f08d9c57e6871a8c105ba1661cb179",
+      "icon.png": "a059cf429c8b502e1235e8dd5ae3abdf4fbb9b88f122ccd79d1b69683d5fce0a",
+      "inhand-left.png": "faa74cfe9816881bd06cb57ac682c880fe69e95aa718f0a080683c25ca62ba15",
+      "inhand-right.png": "6e820e5f960f1fd0f2cc597e5a9ddf48496f7d7ca4f241f16866f289b3c60f82",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/engineering.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertchaplain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertchaplain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6, inhands by peptide",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8decc1e8f4b6b85c3e5462b5adab3becdcab2cddb4c0b6c06ca5a834f0239086",
+      "icon.png": "dbfd00203102f7e50701b90bc2adbd1eb188c925540871ad541b010e85855606",
+      "inhand-left.png": "f5896fdb59265c4171fd6354c40106d68dd0229fa23e92d04ff1c9e0a13d372f",
+      "inhand-right.png": "29364e1f616ec2deb1d596dbddd12be7dbf639e050bcacac93da5e8b29aec59a",
+      "meta.json": "b6cd6a2dc3230dcc622cdfa9d56be762c5b97c61d5f577b7d0eb2d4f520f658a"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertchaplain.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertchaplain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertclown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertclown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "3f04249dff00f33915b4adbf4d7ee313334ca2dcb50b4e55dfc08f3c0ba4a888",
+      "icon.png": "463fd6761400f58ad6eeefafcd6d01ba218fd0f2a9eb78fb6f6a886cbc73d7c1",
+      "inhand-left.png": "d4f995a8e319f831eccf8abad2644bcf8c08b0901f6a79e4cb11bb39f3d5b142",
+      "inhand-right.png": "43b645fd34b7df3c29a96d54d9a35035b74a169c61e384efb80c3e9e01f55eb9",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertclown.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertclown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/erteng.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/erteng.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "a9f498399a4cc2e283c932da68a2e559790cbfef5bd1f285c404afe4862c9137",
+      "icon.png": "272daca68df7094b5e7e85c16bf2e55afbab89eef843043f4c1ab37d17f15e0f",
+      "inhand-left.png": "7bd3c3d93e95b868149d2294636cabe3e85673d6c10d3ad0753942cf48a32aee",
+      "inhand-right.png": "f4070368ad991c1edad34344d69d70a22c88966fe0577b8d32b5070bd27307eb",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/erteng.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/erteng.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertjanitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertjanitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "52f7178cccd95677d5fa51cc6232c51d5a398fcec41e56999771115d6a5049c2",
+      "icon.png": "647f7d73ce5bf39f950683bdbd81d4d0f06151310a11d2219f34a368de0910fc",
+      "inhand-left.png": "9be9707cc2f3d8fd29cb8d2feca5cd49dd80a32585c7d3d5a99a19a773e7dd22",
+      "inhand-right.png": "9be9707cc2f3d8fd29cb8d2feca5cd49dd80a32585c7d3d5a99a19a773e7dd22",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertjanitor.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertjanitor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertleader.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertleader.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6, inhands by peptide",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "54414979c6b1decc7b7cae7511f1e5be028384dd46f48b6f3dac2b23204572d0",
+      "icon.png": "0e300069068f6afeaf45fe9eca5afa28bd4d9e68b73e0405206377f14359a804",
+      "inhand-left.png": "ddc88f6f215cabc4cc27c80cbc3f8ae586e7828e088c0c32d8fec988e8379ba5",
+      "inhand-right.png": "f56e04514da8ffd011fb47929c9e0fcf6e6e7bc550db974bac9f5192c3761d0e",
+      "meta.json": "b6cd6a2dc3230dcc622cdfa9d56be762c5b97c61d5f577b7d0eb2d4f520f658a"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertleader.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertleader.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertmed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertmed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "fe99b3d07655177cc464d92a3b4e1be2c6998b8671a57048f65ac73427adc796",
+      "icon.png": "afe2b08b6365cd6a5b4803b254275fb868da9833c56ae7e93e0c51eb2e653134",
+      "inhand-left.png": "3150f32c30b9bfded2067531c32b12f1a89b11974827e666704c1d6374f6be69",
+      "inhand-right.png": "d99df98e9c7857f7d3958974e345c39363cb9dcec550f1ff0009cd65547c3749",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertmed.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertmed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertsec.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/ertsec.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "d16623c58de1cfcbfd5daf634c31168e61eab92af2e72a3afd5ffe0dfeb023d3",
+      "icon.png": "1279bff140e6462ba98f300fcc215c0edeac65acd6b6e4ab62724f16f5cbfc02",
+      "inhand-left.png": "d22b86024baf22da94537ab7ba63331f2cdc22747497b4df1107ecf1d2e84e70",
+      "inhand-right.png": "58f2c2ee1292f1089c6a094f9e99abbe8426c2b8a253d218ef5ad9649c536799",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertsec.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertsec.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "484da6aaf4a752fb7e04cc80796858379710c94b72168bd7d4351b4a57e4f18e",
+      "icon.png": "b9da234bd44f7646d2f2e6a3884de86be24f10a95e254f0ca2ca60b68c41a5ee",
+      "inhand-left.png": "edfcdcddc5fc7b6bd8f4d4069c84a6bbcf882ae3a154f2a9448471d6fcf52515",
+      "inhand-right.png": "27e60994f0e8d85a45511d707181869b1531d184c3890883eb095ffb17012598",
+      "meta.json": "3935050b71e1e3e990130ad3f8c815237c92027c1f66ee6f4be62b43d84803c6"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/genetics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "b62501b8b0409c9268075531eb484dc08bf87c032eae30d738e470c2e2176fa4",
+      "icon.png": "f13e68c365f30e6d06bd9be8eba24232b6de79a276f268ab140559c347828bc7",
+      "inhand-left.png": "f1c73707a240cc31ef86487c1ba50e7c08744a22c647201961a9263d0bd40c3c",
+      "inhand-right.png": "2ce4474db7f8661413dc5f1d6d19e465f9d3a73b5a8d99254ed233234dc1217e",
+      "meta.json": "658c0fb3201718ec9209e7ba48c75b4b291df414532428e1f09c504fb3c953fc"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/medical.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29. inhand recoloured by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "ab58ac147764951e215daae77eeab7a613da0d14a6bf2f64849db2f74b2056e9",
+      "icon.png": "b64da75fedd853ddc58d16f91e0b40eeb6a050af8d088abbe16a6531b8b8e1fc",
+      "inhand-left.png": "f2eab2bc929df47dc7ffa0c20e34baa16eeae21a4aadf0ee652083ed5cd25f15",
+      "inhand-right.png": "091c13ddbb8f861c8a80bf5cf08f6d25be9cb74e35179ec81257f3213644edff",
+      "meta.json": "37ccdafe9b5b88243da4634a4e7f151d24e8441432371968270054d1d0f5c26c"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/science.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "4a85fab187fa1f608b2adfbbf932cd903253d948850a5424b994c3dc38d4c25c",
+      "icon.png": "3a039eb879369ef9da0346c411f57b771af0d05155ca2c77af1a0625ca511a87",
+      "inhand-left.png": "6bccca5676bf6b8813722567cab676e22ce091b1f238ea4c420d6a54efbf1c69",
+      "inhand-right.png": "1f7058cb686864023ab7adadce4e6cebd3d5d72b79a9e5c2f5afe07e3a7e56bb",
+      "meta.json": "8149f35cba1682c44b34fe5e7203e1577106c5089c08ca3d43e0e6609de111b2"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/security.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by gabova (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6ba471f32882b631284f60546390cd890648684dbead2908858669b08fd0440c",
+      "icon.png": "fb0fcb6825c047dbb13001ece861f6f3984c9fba3696172ebe5195c3d9d250ae",
+      "inhand-left.png": "64a274db87f342da0224dbd51d0fa68b8ff6c13b6bf8a54b889c3b372fe3f136",
+      "inhand-right.png": "fdfb2c73841d88e39503cfa14f4c54a92145516ddfb22bd6edea1b3592c01e5b",
+      "meta.json": "155bdb77afe1303924837b8808e25a48518f3268e084b106e27e829ae3bee181"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/syndicate.rsi",
+      "_Lime/Imported/Forge/Forge/Clothing/Back/Backpacks/syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Backpacks/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "71e614c57f981f2d14378df475367537b6800706798c11752cd0a2f8874ecce2",
+      "icon.png": "2a00ed460c5ced6fb50cf00463d70fe3140391bd994b07588f26ca7b76ed5aa2",
+      "inhand-left.png": "39f4368c1f002dd037c39f73d974844e86bcd4be1b7635a71c7fb4030b26db40",
+      "inhand-right.png": "838fe31cfb2675d1214254c3369dd13cf19c1940f47c3e39fe371eb3c7c15fa7",
+      "meta.json": "658c0fb3201718ec9209e7ba48c75b4b291df414532428e1f09c504fb3c953fc"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/virology.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Backpacks/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by KingFroozy (Github) for SS14, and modified for corvax by linkblyat (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "e0849707dae39b53d9648627b385a99609e587cae214f685c70b46d98d3f59ff",
+      "icon.png": "2b433e25e6536ca4a29bb1558e3d501bcb59ec57e79129692083806a1f1f6a86",
+      "inhand-left.png": "941397eceed01e2e16197fc0b95ee3d0835bda35e282795d2065308b92fffb17",
+      "inhand-right.png": "1f06bf07785c106a9c43b468bf7b7b4365c4f98a44bb94ef6bc11f234809a7f5",
+      "meta.json": "ab8d837ef94b086824727086021eb7016e3484728b0a74b0348f609942948408"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/atmospherics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/atmospherics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Hülle#2562 (Discord), resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "462532adbf4d91ecc4c1488686de9ce07b6b351781f254639c2015c60796d91c",
+      "icon.png": "3797f8e42fb69ab057127cc9a2e75bd9e838da585a32b5730a6e66eec3782ee0",
+      "inhand-left.png": "6e15aa99889f7e4f752a067e9bc85bc6e264a16718e337876f77a7b3a41d8b04",
+      "inhand-right.png": "0c3fe61a7f4875db07e7126a7564bb0bee3c76027abc7075522e06cb5c665336",
+      "meta.json": "bc3a6f0b72eb09b8831b67cdd725b92d0209f789ef54fc2ff47adc4358bec7e3"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/brigmedic.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6c7d3c5a2ed51363fa0abd92326b06daaf8d914fc5c696dafb05d2a612590c1f",
+      "icon.png": "9c6c3275d4442b8725ef19add95b74efa86117e99881c3fb4b09e0b93d1a992d",
+      "inhand-left.png": "00c7ebb3a131748ae22d467c09d8b34b4758c2753bf17f93c744573390a51376",
+      "inhand-right.png": "e037b0a0e80a5e7e1a90690cd52bb99c0bf1da74b30a06d9772ad67388c55408",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/captain.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "cc4c52fcd7a4a327ea6b1e0eb81e8ff569e231be78a6b57bd459ca7cc5110d45",
+      "icon.png": "19300daca920b3141eee8a0edcc5052ca19eda7b47e505c078b2c528f2416c49",
+      "inhand-left.png": "fc90652011597cf1686f3ec4521a93b28d3a8733a8f9e4ae6816144a3a362234",
+      "inhand-right.png": "d8440ba31205c870f6a2b4c2207b19a4f4777f23c8f73d53e0b01433d181c9d2",
+      "meta.json": "c2cfbbad73344d713026342bcec03ddf3a10f25426377e1f986d2b34e3d81f5a"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/cargo.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/cargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8e5895b5550d6467fb35f8d9f44e019cafe8a3d5cc636cb1d3cd0df1e22785fe",
+      "icon.png": "e496c61a993bb1cdc96580fe0f24048ad9ca78f7df3c86ee44523a694bdcb020",
+      "inhand-left.png": "da77c2650c40dc33568b51cc13cfafb2266ea2429ad0642a75fe81dc3857c473",
+      "inhand-right.png": "ebca2c3154384167d7286f3814c2367de9173356d26e53c1fc2a71bff5379a2c",
+      "meta.json": "e460e4ff0fc4a152902f833171a4601879f871ac9764e1664c392bad463c3712"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/chemistry.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4, Resprited by Mureixlol, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "1fe39da1b98834a4cda93e11b3aa0c19bad6aa6e919528a19a5396eb602aea1a",
+      "icon.png": "05653f5c8fb7bfa094336455652fe6ef8f75c75f41f046a8e724872746da2c6c",
+      "inhand-left.png": "aa7b24a9d95aa8897bf2fc62d680bfa1114828fbb2d28c3383db709ad450d15f",
+      "inhand-right.png": "962c0d658cfdebd5aab80f6f44590a3a405f4f04d508ef010c47a9f35f2336ec",
+      "meta.json": "4822e7eea8c010061c7a29f8ab64716ea24e84cfa4d97b7bde14627dca3458e4"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/genetics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6b52d5ce0f815ca22ad1ac57bfbedfaff04eada6d1b81a476e26726a4b4f3f5e",
+      "icon.png": "10ffe3520a9fa418be7300802c23d1a17f86ade39ad477c797592807427aa40a",
+      "inhand-left.png": "cda3aa382ee1fe1c27d357fd79b86c10e7a7ec1bff63d0239ba082c2a026206c",
+      "inhand-right.png": "bf548472b9c54ed016b894ee1434253f394b259fe357764c5d240f1ae4561477",
+      "meta.json": "95d4098b0ecd9417a6150dbd0d1a4215fe3a23423b3be208bbb9725c0e265765"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/medical.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "fb7356f7c507b94fcd20a6dfa67149c1bf67cd9121179dddc529c2706c2f5097",
+      "icon.png": "62a0f05da72e4c2f056f25643201befce0060c00373afa7cc2e678edfcc6dc42",
+      "inhand-left.png": "8d511d6b1b66dea314af90c8a46d6d0a9410896b8522e52ab3f347e7c7ce7aed",
+      "inhand-right.png": "99382c00e9745b3491c675025a7de5088a22c960b9f06cd2e5bf4ed7e8b8648c",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/salvage.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29 and resprited by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "4a1576821d5a7f1eeb0cbe4eba3597090ba4a3a58b9b2e314161942cec6bd077",
+      "icon.png": "c82b5228fa2b793b9398c12dc05d0ae17d6bdc38f060ec5c2627c115aa688c94",
+      "inhand-left.png": "e1435f59aecb6e5bce81d2e979c968e7408eeb4502c1533866efa785738c90e2",
+      "inhand-right.png": "e084cb37f9a4f51f474ef4daddb1e54074b6d22cc0bc512eeea0408e9ba46827",
+      "meta.json": "c0fc75f4c76138b9aac924183e446583b36311d37ca09984714a87f53c208c7c"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/science.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "b29d0ecfd05b57e2ce27b33cdc9e1d9575bdef10663350833bf83d590a99330f",
+      "icon.png": "29fdf844a4d13c7b0df26a8f9332ee9f1343c56e2136c75afd3552b1892fe8d9",
+      "inhand-left.png": "c266a9f90f25e519263058171acd87d59ad89e287e55f9de0f3da34a3a369a1c",
+      "inhand-right.png": "52cd154a766fce95eb0743a3ac3ca88bcf70013b65049611776602c6c046a245",
+      "meta.json": "bb9e691ab37a1b1c0e3be31fb33730524ab156aee42ea024dd87088cec1512a8"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/security.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1, modified Syndi medic bag to change red cross for blue to avoid Geneva issues by CDWimmer (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "ammo-equipped-BACKPACK.png": "140664e49a6579a6bb74d05afbd8e74deb6307f2e3415a8abddde77dcfd2ef92",
+      "ammo-inhand-left.png": "a5c0152bcc36310664a15f848c6da434df0e7bcf98014ade6a32c596aa5e196e",
+      "ammo-inhand-right.png": "3a02883b230d2d13e0d51f55fd712cd9eee1e3a2bd7be7e359f7e5abaa4eb835",
+      "equipped-BACKPACK.png": "5c3517c99e3669d65a663a6031cced9b8301276445e0ae5d72ff57f3cf86c5d9",
+      "icon-ammo.png": "263730d4072b834a611095b9c22ddf0fe74a35dab607b5e0ab44e7c366d4e555",
+      "icon-med.png": "096c608672c765d508471e545e8175c55d03f34180b22c53345d70f8a1506a93",
+      "icon.png": "42a476b6462cdca4a7f0e211cd85217636e5b57c0e86b54519a32d549621e58a",
+      "inhand-left.png": "c52f75a0ac3703855d5b866af8eea5e089740dee039ca2be8c733875f2a0fe7d",
+      "inhand-right.png": "566a1eb0ada21726cf31d4df0cac4ae24fae2e2e37f4c786cd3a99be08db1dca",
+      "med-equipped-BACKPACK.png": "b93c5db90f145c19d3d6b9c4dd8fca90280f74ccb929c232b0bf4e68507edcfe",
+      "med-inhand-left.png": "bebcdc4b6050ffaec70f4bda0c0b53633c42c482f15cccde1aebf06eec47c29c",
+      "med-inhand-right.png": "60da3241c319b17b337a008761ee3f848bdf0c2f455529345f32023e0e6b3d28",
+      "meta.json": "756b65376d876f14b7ed035d0d803c89a7b11f7e6fa8a30a5ba9d32886554bb5"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/syndicate.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Duffels/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4, Resprited by Mureixlol, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "311c0f33f54136c0c937ba50d8379c927fef0bde29a2726f8b2b640c01466643",
+      "icon.png": "2726be06d98c9c499133ceeeece2ef944f5d9814fccc6541745e126d0ec649bf",
+      "inhand-left.png": "d17bb16f68fadd478fccdf28a164bcb69342e239585f74802f6af6f35c4673d3",
+      "inhand-right.png": "0a679e2e19a991d04fd1b5e6845ccb5f3c215162e994407340ea1fe233db04b3",
+      "meta.json": "4822e7eea8c010061c7a29f8ab64716ea24e84cfa4d97b7bde14627dca3458e4"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/virology.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Duffels/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Back/Satchels/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, modified by linkblyat (Discord), monkey state by mally0352 (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK-monkey.png": "c6742f48382cacf03ceb105232148de8d782d33acb06db15bc5b023190a255a8",
+      "equipped-BACKPACK.png": "a57691f3b69ed672d1c3ecfc9edfcf38b71cf6815890772ed8bdb6670cfb1fb9",
+      "icon.png": "5c5055c0bea0fb3338d5aab686d28b0f8a4726912edfa1c200276957465d1f97",
+      "inhand-left.png": "34c79ed2e08adc1f1096bb05bf8215fbfc9a526dac147d3780196f1f9104427e",
+      "inhand-right.png": "ada74d764828c4e5278756e7daed19745963cbb9bce2bef91a78f9fe4affe789",
+      "meta.json": "23fdf72836d86bd6ef6660c0a21bf26b2f59372d309b28c8117ca3cb838ce291"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/atmospherics.rsi",
+      "_Lime/Imported/Monolith/Clothing/Back/Satchels/atmospherics.rsi"
+    ]
+  }
+]

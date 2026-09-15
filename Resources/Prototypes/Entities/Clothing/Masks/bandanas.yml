@@ -43,9 +43,9 @@
   description: A black bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/black.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/black.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/black.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/black.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -54,9 +54,9 @@
   description: A blue bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -65,9 +65,9 @@
   description: A botany bandana to make you look cool, made from natural fibers.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/botany.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Clothing/Head/Bandanas/botany.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/botany.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Clothing/Head/Bandanas/botany.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -81,9 +81,9 @@
   description: A gold bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/gold.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/gold.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/gold.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/gold.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -92,9 +92,9 @@
   description: A green bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/green.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/green.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -103,9 +103,9 @@
   description: A grey bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/grey.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/grey.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/grey.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/grey.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -114,9 +114,9 @@
   description: A red bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/red.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/red.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/red.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/red.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -125,9 +125,9 @@
   description: A bandana with a skull to make you look even cooler.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/skull.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/skull.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/skull.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/skull.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -136,9 +136,9 @@
   description: To protect the head from the sun, insects and other dangers of the higher path.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/merc.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/merc.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/merc.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/merc.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingMaskBandanaBase
@@ -147,6 +147,6 @@
   description: A brown bandana to make you look cool.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Bandanas/brown.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/brown.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Bandanas/brown.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Bandanas/brown.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии

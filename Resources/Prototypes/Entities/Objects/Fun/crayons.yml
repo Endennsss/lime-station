@@ -8,9 +8,9 @@
   description: A colourful crayon. A forbidden flavor.
   components:
   - type: Sprite
-    sprite: Objects/Fun/crayons.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
-    sprite: Objects/Fun/crayons.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Tiny
   - type: Tag
     tags:
@@ -274,14 +274,14 @@
   description: It's a box of crayons.
   components:
   - type: Sprite
-    sprite: Objects/Fun/crayons.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: box
   - type: Storage
     grid:
     - 0,0,7,0
     maxItemSize: Tiny
   - type: Item
-    sprite: Objects/Fun/crayons.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Small
     shape:
     - 0,0,1,1

@@ -21,7 +21,7 @@
     tags:
     - Sidearm
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Pistols/viper.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/viper.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: false
     slots:
     - suitStorage
@@ -76,7 +76,7 @@
   description: A common handgun illegally modified by the Syndicate. The Viper sports a selector switch between semi-auto and ‘rock and roll’. The standard sidearm for any soldier who fights under the three serpents. Feeds from .35 pistol magazines.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Pistols/viper.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/viper.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Gun
     selectedMode: FullAuto # Override of BaseWeaponPistol to default to full-auto
   - type: ItemSlots
@@ -120,7 +120,7 @@
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/pistol.ogg
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Pistols/viper.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/viper.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -148,14 +148,14 @@
   description: Integrally suppressed semi-automatic pistol used by the Syndicate, firing caseless subsonic rounds. Favored by any agent who likes to keep things quiet and leave no evidence behind. Feeds from .25 pistol magazines.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/cobra.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ChamberMagazineAmmoProvider
     boltClosed: null
   - type: Gun
@@ -224,14 +224,14 @@
   description: An exceptionally powerful ‘hand cannon’ designed as part of Nanotrasen's BFG initiative. Chambered in .45, the lord’s caliber, it is generally considered too unwieldy for standard use but has become something of a status symbol among Nanotrasen officials. Feeds from .45 pistol magazines.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Pistols/N1984.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/N1984.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Pistols/N1984.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/N1984.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Gun
     minAngle: 1
     maxAngle: 20

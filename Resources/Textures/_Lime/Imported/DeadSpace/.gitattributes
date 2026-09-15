@@ -1,0 +1,4 @@
+# Lime-Edit - сохраняем оригинальные байты графики и метаданных авторства
+* -text
+**/*.rsi/meta.json -whitespace
+LICENSES/*.txt -whitespace

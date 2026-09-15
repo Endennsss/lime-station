@@ -5,10 +5,10 @@
   description: Lets others know you are away.
   components:
   - type: Sprite
-    sprite: Objects/Misc/brbsign.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/brbsign.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Clothing
-    sprite: Objects/Misc/brbsign.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/brbsign.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: false
     slots:
     - Neck

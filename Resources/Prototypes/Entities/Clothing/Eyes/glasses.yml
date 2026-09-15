@@ -77,9 +77,9 @@
   description: A pair of spectacular spectacles with prescription lenses.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/glasses.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/glasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/glasses.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/glasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: VisionCorrection
   - type: Tag
     tags:
@@ -200,9 +200,9 @@
   description: Upgraded sunglasses that provide flash immunity and show ID card status.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/commandglasses.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5
@@ -239,9 +239,9 @@
   description: Thermals in the shape of glasses.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/thermal.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/thermal.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/thermal.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/thermal.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -258,9 +258,9 @@
   description: Goggles that can scan the chemical composition of a solution.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     - type: Clothing
-      sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Glasses/science.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     - type: SolutionScanner
     - type: IdentityBlocker
       coverage: EYES

@@ -67,6 +67,7 @@ Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licens
 Текстуры, импортированные из Goob Station для Lime Station, сохраняют индивидуальные лицензии и авторство. Реестр происхождения, условия распространения и полные тексты лицензий находятся в [каталоге импорта](Resources/Textures/_Lime/Imported/Goob/README.md).
 Текстуры из Monolith также сохраняют собственные лицензии и исходное авторство: [реестр и условия распространения](Resources/Textures/_Lime/Imported/Monolith/README.md). Код и механики Monolith не импортируются.
 Подключённые отличия Forge описаны в [реестре Forge](Resources/Textures/_Lime/Imported/Forge/README.md). Неиспользуемые библиотеки прошлых импортов очищены; лицензии подключённой графики сохранены.
+Отдельно лицензированная графика Dead Space описана в [реестре импорта](Resources/Textures/_Lime/Imported/DeadSpace/README.md); закрытые элементы его билда не переносились.
 
 > [!NOTE]
 > Some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.

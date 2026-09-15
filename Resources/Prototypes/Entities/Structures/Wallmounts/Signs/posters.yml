@@ -4,7 +4,7 @@
   id: PosterBase
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/posters.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/posters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Destructible
     thresholds:
     - trigger:
@@ -29,7 +29,7 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: Structures/Wallmounts/posters.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/posters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: poster_broken
   - type: Construction
     graph: PosterGraph

@@ -123,7 +123,7 @@
   previewKey: Hologram
   layerData:
     Hologram:
-      sprite: Mobs/Silicon/holograms.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ai_female
 
 - type: stationAiCustomization
@@ -132,7 +132,7 @@
   previewKey: Hologram
   layerData:
     Hologram:
-      sprite: Mobs/Silicon/holograms.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ai_male
 
 - type: stationAiCustomization
@@ -141,7 +141,7 @@
   previewKey: Hologram
   layerData:
     Hologram:
-      sprite: Mobs/Silicon/holograms.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ai_face
 
 - type: stationAiCustomization
@@ -150,7 +150,7 @@
   previewKey: Hologram
   layerData:
     Hologram:
-      sprite: Mobs/Silicon/holograms.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ai_cat
 
 - type: stationAiCustomization
@@ -159,5 +159,5 @@
   previewKey: Hologram
   layerData:
     Hologram:
-      sprite: Mobs/Silicon/holograms.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/holograms.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ai_dog

@@ -56,7 +56,7 @@
   id: Shake
   verbText: mixing-verb-shake
   icon:
-    sprite: Objects/Consumable/Drinks/shaker.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
 
 - type: mixingCategory

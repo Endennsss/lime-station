@@ -126,7 +126,7 @@
   description: Spreads small pieces of syndicate soap over an area upon landing on the floor.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Janitorial/soap.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Janitorial/soap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: syndie-4
       map: ["enum.SolutionContainerLayers.Fill"]

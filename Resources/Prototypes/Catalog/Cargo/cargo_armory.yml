@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: ArmoryShotgun
   icon:
-    sprite: Objects/Weapons/Guns/Shotguns/enforcer.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/enforcer.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateArmoryShotgun
   cost: 7000
@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: ArmoryMosin
   icon:
-    sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: base
   product: CrateArmoryMosin
   cost: 3500
@@ -61,7 +61,7 @@
 - type: cargoProduct
   id: ArmoryLaser
   icon:
-    sprite: Objects/Weapons/Guns/Battery/laser_gun.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/laser_gun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateArmoryLaser
   cost: 4800

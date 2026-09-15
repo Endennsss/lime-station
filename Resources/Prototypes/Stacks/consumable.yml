@@ -62,14 +62,14 @@
   parent: BaseVerySmallStack
   id: LeavesTobaccoDried
   name: stack-dried-tobacco-leaves
-  icon: { sprite: /Textures/Objects/Specific/Hydroponics/tobacco.rsi, state: dried }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi, state: dried } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   spawn: LeavesTobaccoDried
 
 - type: stack
   parent: BaseVerySmallStack
   id: LeavesCannabisDried
   name: stack-dried-cannabis-leaves
-  icon: { sprite: /Textures/Objects/Specific/Hydroponics/tobacco.rsi, state: dried }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi, state: dried } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   spawn: LeavesCannabisDried
 
 - type: stack

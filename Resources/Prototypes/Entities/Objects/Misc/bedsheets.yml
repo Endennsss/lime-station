@@ -10,7 +10,7 @@
     - Bed
   components:
   - type: Sprite
-    sprite: Objects/Misc/bedsheets.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bedsheets.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     noRot: true
   - type: Item
     size: Small
@@ -181,7 +181,7 @@
   - type: Sprite
     state: sheethos
   - type: Clothing
-    sprite: Clothing/Neck/Bedsheets/hos.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Bedsheets/hos.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadBedsheet
 
@@ -292,7 +292,7 @@
   - type: Sprite
     state: sheetbrigmedic
   - type: Clothing
-    sprite: Clothing/Neck/Bedsheets/brigmedic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Bedsheets/brigmedic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   id: BedsheetRed

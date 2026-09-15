@@ -93,7 +93,7 @@
   description: A loose worn blue shirt with a grey pants, perfect for someone looking to relax.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     layers:
     - state: icon-jumpsuit
     - state: icon-shirt
@@ -109,7 +109,7 @@
       - state: inhand-right-shirt
         color: "#134fc1"
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     clothingVisuals:
       jumpsuit:
       - state: equipped-INNERCLOTHING-jumpsuit
@@ -123,7 +123,7 @@
   description: A loose worn purple shirt with a grey pants, perfect for someone looking to relax.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     layers:
     - state: icon-jumpsuit
     - state: icon-shirt
@@ -139,7 +139,7 @@
       - state: inhand-right-shirt
         color: "#9c0dff"
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     clothingVisuals:
       jumpsuit:
       - state: equipped-INNERCLOTHING-jumpsuit
@@ -153,7 +153,7 @@
   description: A loose worn red shirt with a grey pants, perfect for someone looking to relax.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     layers:
     - state: icon-jumpsuit
     - state: icon-shirt
@@ -169,7 +169,7 @@
       - state: inhand-right-shirt
         color: "#b30000"
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     clothingVisuals:
       jumpsuit:
       - state: equipped-INNERCLOTHING-jumpsuit
@@ -183,7 +183,7 @@
   description: A loose worn green shirt with a grey pants, perfect for someone looking to relax.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     layers:
     - state: icon-jumpsuit
     - state: icon-shirt
@@ -199,7 +199,7 @@
       - state: inhand-right-shirt
         color: "#00661D"
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/casual.rsi # Lime-Edit - графика Monolith
     clothingVisuals:
       jumpsuit:
       - state: equipped-INNERCLOTHING-jumpsuit

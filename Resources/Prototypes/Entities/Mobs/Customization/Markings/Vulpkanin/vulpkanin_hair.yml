@@ -195,7 +195,7 @@
   groupWhitelist: [ Vulpkanin ]
   canBeDisplaced: false
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/facial_hair.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/facial_hair.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: ruff
 
 - type: marking
@@ -204,7 +204,7 @@
   groupWhitelist: [ Vulpkanin ]
   canBeDisplaced: false
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/facial_hair.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/facial_hair.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: elder
 
 - type: marking
@@ -213,7 +213,7 @@
   groupWhitelist: [ Vulpkanin ]
   canBeDisplaced: false
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/facial_hair.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/facial_hair.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: elder_chin
 
 - type: marking
@@ -222,7 +222,7 @@
   groupWhitelist: [ Vulpkanin ]
   canBeDisplaced: false
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/facial_hair.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/facial_hair.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: kita
 
 - type: marking
@@ -231,5 +231,5 @@
   groupWhitelist: [ Vulpkanin ]
   canBeDisplaced: false
   sprites:
-  - sprite: Mobs/Customization/Vulpkanin/facial_hair.rsi
+  - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/facial_hair.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: goatee

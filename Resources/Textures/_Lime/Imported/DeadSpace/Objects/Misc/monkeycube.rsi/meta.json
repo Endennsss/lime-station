@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/ss220-space/Paradise, edited by andrew_fenriz for Space Station 14 server Мёртвый Космос",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "box"
+    },
+    {
+      "name": "box_kobold"
+    },
+    {
+      "name": "box_variant"
+    },
+    {
+      "name": "cube"
+    },
+    {
+      "name": "wrapper"
+    },
+    {
+      "name": "wrapper_kobold"
+    }
+  ]
+}

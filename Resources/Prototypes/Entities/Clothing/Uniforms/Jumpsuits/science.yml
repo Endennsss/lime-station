@@ -5,9 +5,9 @@
   description: It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/rnd.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/rnd.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/rnd.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/rnd.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase]
@@ -25,9 +25,9 @@
   description: A uniform for sophisticated scientists, best worn with its matching tie.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/scientist_formal.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/scientist_formal.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/scientist_formal.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/scientist_formal.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase]
@@ -45,6 +45,6 @@
   description: A sign of skill and prestige within the science department.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi # Lime-Edit - графика Monolith

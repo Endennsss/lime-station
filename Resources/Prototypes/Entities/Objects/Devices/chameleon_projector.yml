@@ -80,7 +80,7 @@
   components:
   # this and the name/desc get replaced, this is just placeholder incase something goes wrong
   - type: Sprite
-    sprite: /Textures/Mobs/Species/Human/parts.rsi
+    sprite: /Textures/_Lime/Imported/DeadSpace/Mobs/Species/Human/parts.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: full
   - type: Transform
     noRot: true # players rotation and anchor is used instead
@@ -114,7 +114,7 @@
   - type: Action
     itemIconStyle: BigAction
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction

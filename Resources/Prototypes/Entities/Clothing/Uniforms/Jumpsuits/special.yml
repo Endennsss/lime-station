@@ -38,9 +38,9 @@
   description: Uniform for elite syndicate operatives performing tactical operations in deep space.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/operative.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/operative.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/operative.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/operative.rsi # Lime-Edit - графика Monolith
   - type: StaticPrice
     price: 500
 
@@ -77,9 +77,9 @@
   description: Comfortable ninja suit, for convenience when relaxing and when you need to practice.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ninja.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/ninja.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ninja.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/ninja.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: ClothingUniformBase

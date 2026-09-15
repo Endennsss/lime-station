@@ -6,7 +6,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Storage/Crates/generic.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/generic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     table: !type:GroupSelector
@@ -166,7 +166,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Storage/Crates/o2.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/o2.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     table: !type:NestedSelector
@@ -182,7 +182,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Storage/Crates/engineering.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/engineering.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     table: !type:GroupSelector
@@ -231,7 +231,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Storage/Crates/sec_gear.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/sec_gear.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     table: !type:GroupSelector
@@ -277,7 +277,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Storage/Crates/lockbox.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/lockbox.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     table: !type:NestedSelector

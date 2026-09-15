@@ -55,7 +55,7 @@
   description: An automatic magazine-fed shotgun for close-quarters combat. Kicks like a mule on steroids. Uses .50 shotgun shells.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Shotguns/bulldog.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/bulldog.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -64,7 +64,7 @@
   - type: Item
     size: Large
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Shotguns/bulldog.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/bulldog.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: false
     slots:
     - Back
@@ -147,9 +147,9 @@
   description: A premium semi-automatic shotgun, and the pride of all security forces. Uses .50 shotgun shells.
   components: # intend for Enforcer to have wider choke for semi-auto function
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Shotguns/enforcer.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/enforcer.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Shotguns/enforcer.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/enforcer.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     sprite: Objects/Weapons/Guns/Shotguns/enforcer_inhands_64x.rsi
   - type: BallisticAmmoProvider
@@ -237,9 +237,9 @@
     - 0,1,0,1
     storedOffset: 0,-5
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Shotguns/hm_pistol.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/hm_pistol.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Shotguns/hm_pistol.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Shotguns/hm_pistol.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Gun
     fireRate: 4
   - type: BallisticAmmoProvider

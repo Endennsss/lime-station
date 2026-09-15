@@ -64,9 +64,9 @@
   description: Given for the best work in the medical department.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Medals/medicalmedal.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Medals/medicalmedal.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Neck/Medals/medicalmedal.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Medals/medicalmedal.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingNeckMedalBase
@@ -86,9 +86,9 @@
   description: Given for the best work in the security department.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Medals/securitymedal.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Medals/securitymedal.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Neck/Medals/securitymedal.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Medals/securitymedal.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingNeckMedalBase

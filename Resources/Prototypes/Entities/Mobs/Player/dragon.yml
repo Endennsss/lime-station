@@ -50,7 +50,7 @@
     - enum.DamageStateVisualLayers.Base:
         alive: Rainbow
   - type: Sprite
-    sprite: Mobs/Aliens/Carps/dragon.rsi
+    sprite: _Lime/Imported/DeadSpace/Mobs/Aliens/Carps/dragon.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     noRot: true
     layers:
     - map: [ "enum.DamageStateVisualLayers.Base" ]

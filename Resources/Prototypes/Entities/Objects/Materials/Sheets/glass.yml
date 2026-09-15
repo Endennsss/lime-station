@@ -6,9 +6,9 @@
   description: A sheet of glass, used often on the station in various applications.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Materials/Sheets/glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/Monolith/Objects/Materials/Sheets/glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/glass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Damageable
     damageModifierSet: Glass
 

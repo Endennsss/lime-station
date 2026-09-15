@@ -13,7 +13,7 @@
     ports:
       - CloningPodReceiver
   - type: Sprite
-    sprite: Structures/Machines/cloning.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/cloning.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     snapCardinals: true
     layers:
       - state: pod_0

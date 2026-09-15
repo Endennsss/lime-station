@@ -177,7 +177,7 @@
     signProto: HolosignSecurity
     chargeUse: 90
   - type: Sprite
-    sprite: Objects/Devices/Holoprojectors/security.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/Holoprojectors/security.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Tag
     tags:

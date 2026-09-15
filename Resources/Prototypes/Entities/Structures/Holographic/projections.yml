@@ -23,7 +23,7 @@
   description: The words flicker as if they mean nothing.
   components:
   - type: Sprite
-    sprite: Structures/Holo/wetfloor.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Holo/wetfloor.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Destructible
     thresholds:
@@ -41,7 +41,7 @@
   description: A barrier of hard light that blocks air, but nothing else.
   components:
   - type: Sprite
-    sprite: Structures/Holo/holofan.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Holo/holofan.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Fixtures
     fixtures:
@@ -107,7 +107,7 @@
     - type: Physics
       canCollide: true
     - type: Sprite
-      sprite: Structures/Holo/security.rsi
+      sprite: _Lime/Imported/DeadSpace/Structures/Holo/security.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
     - type: Fixtures
       fixtures:

@@ -6,11 +6,11 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
     slots:
     - idcard
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     size: Small
     heldPrefix: default
@@ -1354,14 +1354,14 @@
   description: An ID card that gives you access beyond your wildest dreams.
   components:
   - type: Sprite
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: admin
     - sprite: *icon-rsi
       offset: *icon-offset
       state: Admin
   - type: Clothing
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     heldPrefix: green
   - type: IdCard

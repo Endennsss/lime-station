@@ -5,9 +5,9 @@
   description: A hand-held mass scanner.
   components:
   - type: Item
-    sprite: Objects/Tools/handheld_mass_scanner.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/handheld_mass_scanner.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Tools/handheld_mass_scanner.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/handheld_mass_scanner.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
     layers:
       - state: icon

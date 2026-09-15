@@ -73,7 +73,7 @@
   id: UplinkHoloclownKit
   name: uplink-holoclown-kit-name
   description: uplink-holoclown-kit-desc
-  icon: { sprite: /Textures/Objects/Fun/figurines.rsi, state: holoclown }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Fun/figurines.rsi, state: holoclown } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: BoxHoloclown
   discountCategory: rareDiscounts
   discountDownTo:
@@ -149,7 +149,7 @@
   id: UplinkSyndicateSpongeBox
   name: uplink-syndicate-sponge-box-name
   description: uplink-syndicate-sponge-box-desc
-  icon: { sprite:  Objects/Misc/monkeycube.rsi, state: box}
+  icon: { sprite:  _Lime/Imported/DeadSpace/Objects/Misc/monkeycube.rsi, state: box} # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   discountCategory: rareDiscounts
   discountDownTo:
     Telecrystal: 2

@@ -7,7 +7,7 @@
   - type: InteractionOutline
   - type: Sprite
     # temp to make clickmask work
-    sprite: Structures/meat_spike.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/meat_spike.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: spike
     layers:
     - state: spike

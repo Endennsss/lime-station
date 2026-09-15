@@ -318,7 +318,7 @@
         reagent: SpaceDrugs
         quantity: 25
   - type: Sprite
-    sprite: Mobs/Silicon/Bots/medibot.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Mobs/Silicon/Bots/medibot.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: medibot
   - type: HTN
     rootTask:

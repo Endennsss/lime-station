@@ -39,7 +39,7 @@
   - type: Sprite
     noRot: false
     drawdepth: SmallObjects
-    sprite: _Lime/Imported/Forge/Structures/Wallmounts/intercom.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/intercom.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     offset: 0, -0.25
     layers:
     - state: base
@@ -118,7 +118,7 @@
   components:
   - type: Sprite
     drawdepth: SmallObjects
-    sprite: _Lime/Imported/Forge/Structures/Wallmounts/intercom.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/intercom.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     offset: 0, -0.25
     layers:
     - state: build

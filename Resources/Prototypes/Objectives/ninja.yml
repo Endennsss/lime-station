@@ -17,7 +17,7 @@
   components:
   - type: Objective
     icon:
-      sprite: _Lime/Imported/Monolith/Objects/Tools/emag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Objects/Tools/emag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: icon
   - type: NumberObjective
     min: 15

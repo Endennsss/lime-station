@@ -14,9 +14,9 @@
   description: A yellow turtleneck designed specifically for work in conditions of the engineering department.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ce_turtle.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/ce_turtle.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/ce_turtle.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/ce_turtle.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase]

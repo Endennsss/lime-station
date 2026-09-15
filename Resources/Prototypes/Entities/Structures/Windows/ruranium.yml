@@ -4,9 +4,9 @@
   name: reinforced uranium window
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/reinforced_uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/reinforced_uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/reinforced_uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/reinforced_uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: GlassReinforcedMod

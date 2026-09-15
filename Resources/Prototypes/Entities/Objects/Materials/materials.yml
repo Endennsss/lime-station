@@ -256,7 +256,7 @@
     stackType: Biomass
     count: 100
   - type: Sprite
-    sprite: /Textures/Objects/Misc/monkeycube.rsi
+    sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Misc/monkeycube.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: cube
     color: "#8A9A5B"
   - type: GuideHelp
@@ -719,7 +719,7 @@
   suffix: Full
   components:
   - type: Sprite
-    sprite: Objects/Materials/hide.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Materials/hide.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: goliath_hide
       map: [ "base" ]
@@ -738,7 +738,7 @@
   - type: Item
     size: Large
     heldPrefix: goliathhide
-    sprite: Objects/Materials/hide.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Materials/hide.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     shape:
     - 0,0,2,2
   - type: Tag

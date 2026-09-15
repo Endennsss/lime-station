@@ -133,10 +133,10 @@
   - type: ExaminableSolution
     heldOnly: true # Opaque, can't see inside from a distance
   - type: Sprite
-    sprite: Objects/Consumable/Drinks/shaker.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Consumable/Drinks/shaker.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     shape:
     - 0,0,0,2 # 3 tall
   - type: PhysicalComposition
@@ -155,9 +155,9 @@
   description: A gold-plated shaker given as a token of appreciation for years of service. It doesn't make the drinks taste any different.
   components:
   - type: Sprite
-    sprite: Objects/Consumable/Drinks/shaker_gold.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker_gold.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
-    sprite: Objects/Consumable/Drinks/shaker_gold.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker_gold.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PhysicalComposition
     materialComposition:
       Gold: 10 # Gold plated, not solid gold

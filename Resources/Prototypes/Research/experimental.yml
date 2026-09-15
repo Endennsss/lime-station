@@ -58,7 +58,7 @@
   id: MagnetsTech
   name: research-technology-magnets-tech
   icon:
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   discipline: Experimental
   tier: 1
@@ -141,7 +141,7 @@
   id: QuantumLeaping
   name: research-technology-quantum-leaping
   icon:
-    sprite: Objects/Devices/swapper.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/swapper.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   discipline: Experimental
   tier: 3

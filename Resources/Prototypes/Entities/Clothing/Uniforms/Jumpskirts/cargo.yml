@@ -5,9 +5,9 @@
   description: A sturdy jumpskirt, issued to members of the Cargo department.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cargotech.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/cargotech.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cargotech.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/cargotech.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
@@ -16,9 +16,9 @@
   description: 'What can brown do for you?'
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qm.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/qm.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qm.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/qm.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
@@ -27,6 +27,6 @@
   description: A sharp turtleneck made for the hardy work environment of supply.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi # Lime-Edit - графика Monolith

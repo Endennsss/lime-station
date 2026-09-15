@@ -1,0 +1,1329 @@
+[
+  {
+    "source": "Resources/Textures/Objects/Specific/Hydroponics/eggy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/eggy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/commit/1dbcf389b0ec6b2c51b002df5fef8dd1519f8068, seed.png modified from https://github.com/space-wizards/space-station-14/pull/23210/files#diff-13896c37cf761a5782bb95bbc433bb738dd59ed89276af17dccd606adb759ee5 by Chaoticaa (GitHub), Growth stages, dead, and harvest sprites created by Chaoticaa (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "dead.png": "2630f55e1470a03ed340606dd5914ef468cbd2b20dc56dc9df661b8c856ec87f",
+      "harvest.png": "b00af31de30beecd77e519d1300c8dcaead0fec83568ff3215a141a32c771129",
+      "meta.json": "98cedcf4d2619dd2f08a2c52390d60054b6f694a75cf1eb904a18ba1da2e2b8d",
+      "produce.png": "2f07f8776e692fb420ca8f5e3fc33570c7bb2af6db278b47933ec075d14e144d",
+      "seed.png": "3b48ae52d8aa2af03b2abac5d851c91b0af73209a965b18c9cbe9bda25a8aa71",
+      "stage-1.png": "6651dc4948ae275ee71a3224f2cca9fd5c845ef6294092e3cd1af8e5b7298a1a",
+      "stage-2.png": "1c45b3f962eef7d65e952fa690f34e56888d8d6e944d2a99c037c6ee24101157",
+      "stage-3.png": "7aacab33324fcf47961759d1d7deb9b4becbad50253b3639f522fdede8cec245",
+      "stage-4.png": "95082f0452aeae9f78d4a46eb3e1e5c472da5fa0b5ff477f1cce395ccc9632ea",
+      "stage-5.png": "df3aafdb8f4d9a686437f8b534d1a269e395b1019e97afa5fab4246b33a3228e",
+      "stage-6.png": "1222e0c2d2ad2f0edc99e341d3bd2108734c5671be25e7fd13e58f94c6b0432a"
+    },
+    "replaces": [
+      "Objects/Specific/Hydroponics/eggy.rsi",
+      "_Lime/Imported/Monolith/Objects/Specific/Hydroponics/eggy.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Hydroponics/gatfruit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/gatfruit.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/696dfcc59c9e65e7bbe3923d1f7e880ea384783f, inhands by mubururu_ (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "dead.png": "8d2da893f77b6529111bd34a6513935701dba6a6b1969fe9d3706e1b30354613",
+      "harvest.png": "7e7180b734e19ee0eb1f9886b81753ecfeaf454b3b7f5c3a2d049fd0da7abd58",
+      "meta.json": "c936e4452369432dbb155e4e7f26cb125da8710769ddda536753addaecac963c",
+      "produce-inhand-left.png": "bda414cc9c7e2eb7fdf643327379258b04689ce4739294c26f4c5aa52b6d29d3",
+      "produce-inhand-right.png": "6f08b79a9bea17ca0cd6f4d2f41203b0468cc1a2aea7ee4aae1f19efc3b68752",
+      "produce.png": "4651bf1276216f8ab9f2caff51a1129520f1815b7251e54360c11ea887ea98aa",
+      "seed.png": "61bdd5b7c6d2847ece5d32f7c697961619a3c7362ffa7398fc62a960c3612766",
+      "stage-1.png": "da984aec9b000d044c5e218ac0bd274dc960c888cb94bc87c728009897554873",
+      "stage-2.png": "c9b8fac2b197f8575c9a7eadee27ab29e4858aac72399863bc3b2a659f280f30"
+    },
+    "replaces": [
+      "Objects/Specific/Hydroponics/gatfruit.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Hydroponics/tobacco.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/696dfcc59c9e65e7bbe3923d1f7e880ea384783f",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "dead.png": "bcfc74bb971da357c53c5736f81a0f5ab44a0da9e9cce018152d2dd7a13b90e7",
+      "dried.png": "cc45c0891c4c0de55e6eeeb62ac38593ef71ac91ec94aac837d6c5846c2c52b2",
+      "harvest.png": "8f518fc81ca68d010e5641488448d114d12206956e2cea06281ca757e89419e0",
+      "meta.json": "e397e3ec1eccc50311c40241d01f0b1a22fee726c9d72a0cd0b56cb10c11a820",
+      "produce.png": "f925f27030501874fdd1377374b5e7f2b7f99eb3fec9afbffd9d790235fe6db2",
+      "seed.png": "6ede0a477d991d9da19a4efaf64213c89ea246e2905e89ebec7222542fb36768",
+      "stage-1.png": "f59497c84421cc33d6b3eb5f212fde59fe9ca68f52f6f9a87950c786f098a530",
+      "stage-2.png": "617e3d0fa45efb88fcc3738176fb37b84bb77236d4af5472c2a56a66cffa1661",
+      "stage-3.png": "3b13b354ed553af691e38400124202b4aadcfe5f513a1846bd6e2f94ef850b87"
+    },
+    "replaces": [
+      "Objects/Specific/Hydroponics/tobacco.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Janitorial/soap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Janitorial/soap.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428, resprited by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "deluxe-1.png": "63c37f7faa2d0a65f8a5f214b06840d26803f07bd82868c1f9920c6cc474ee5e",
+      "deluxe-2.png": "aefee3483cb1600dc5248ac4eecc11edeb783abc613bf3746bbfdb75e23c66b3",
+      "deluxe-3.png": "5ff30ab5a21598fe9789d994b9ef6b6dc009dc95ee633be22c6038c7f89eb89b",
+      "deluxe-4.png": "a4e242ab75bd47b9bc172745008a0f628319e420a75eb9f5489f104d0761c1de",
+      "deluxe-inhand-left.png": "a70cc5cc97e7d120c50b3d17982ee97c68826f432d9de943d785264983857cb5",
+      "deluxe-inhand-right.png": "c5a5f06bfd0fdcf1f8a2a5b9e0f283eea3e3be72aeef1bf060d7e3edbba09efc",
+      "gibs-1.png": "164b26d830e1b6ff6bf4fd9e149b68c053a04510f1347f77fa4203b768689f9e",
+      "gibs-2.png": "ff88898abc5753d27473ebff9119cbca0a2e0db2b752f89dee8ea7a6d367c163",
+      "gibs-3.png": "f068dc49f09d49b3c72c2af10939dc435b374472441e2215f61c59418b59bd0b",
+      "gibs-4.png": "7bbc8a0a5e18d5d6e3d4844f28b8e9085b3ee6a0aa2789c85e21601f78184a72",
+      "gibs-inhand-left.png": "257fde05750811c3c9f1b35009159237bf570ecf5832adc2edccd1fda2ff3d26",
+      "gibs-inhand-right.png": "3097d18142725992fb7f96472b7548c38272c1a8c4046f8911071ed4f39f02bf",
+      "honk-1.png": "0709ecf16ec8db9ba2a8a5d9d80204c38a9c7d43fc9edc4052d4c06ef1b2a856",
+      "honk-2.png": "d4d5f54e691dc92487da201f47c79a345dcf3e7267eb331bc87e5cb3b4e5f41f",
+      "honk-3.png": "8df379b1b58d0cb340aea849323b319ebed9236fe5cfa7dce402b84ad081d1db",
+      "honk-4.png": "e76a90dfa04e0e9e531b9cf2d65519a3bcdeed6f5eb301f84ede5ae0410c3e29",
+      "honk-inhand-left.png": "050135d196ab2109c62fc1979e666a3773cc3f997776a177dc34cb8a0598f6af",
+      "honk-inhand-right.png": "090e0b475a3e75bc7ab59137f1c7534763d76b325926a81152527619c71cbdb5",
+      "inhand-left.png": "a46f62aaf519d5c6b8a1e910083dbdb8762c6355dd734f7a71ea02ab57c9ae9c",
+      "inhand-right.png": "42ca7d057aa19821b775498ca6c0c09cd4342453282fc693b1d7ce96488893cf",
+      "kriss-1.png": "a3bc1cb7f9d4a692d97c65887684bea59257dad287c3fd2e4a84d20bbad7f9ce",
+      "kriss-2.png": "1d90362a0571616b5ede7780fd8862ed4ed0a4e24804354bf256b3bc6d39b9ab",
+      "kriss-3.png": "0c7bf03345059dfb63d65e73b8ef79256a4bc5d21398c0c301885b4834925c17",
+      "kriss-4.png": "083f1b3e3332e412cfaa063bedcf469e0fe60c4817fec5b1f73907e4a3bb44a6",
+      "kriss-inhand-left.png": "c26fcfb9ab494c286b129c0da84901c80acce4dc2e58cb4a3741d422c917e3cd",
+      "kriss-inhand-right.png": "2a25763fedfdd8a766b19e1d9aa9a623f49526ecc8408f81ff4fbb32e3563d82",
+      "meta.json": "34debc4f76de2ba5411d36e410051c124587fdd32720c27b70f154e6a27dec00",
+      "nt-1.png": "831139d9543984de9fb1274eff2ea830c93955919c48b44477969d021bf98274",
+      "nt-2.png": "bea3b9b7822db979738f327ff0fa57343d80847b4d67560c20c8a56b83a5bd41",
+      "nt-3.png": "fbce499b6f51b50b42e55cbc0f7bd2fc41ecc9aae0cd975800e9058d9f94150a",
+      "nt-4.png": "a94a1cd28b0f85b8367bc547780132bb5a6f6a13952bb574ad4c736e9233c2e4",
+      "nt-inhand-left.png": "7854d384c86fb4eb9c60d5da51769fa84ba29e7426bd8e9c5a8effb7f0edb59a",
+      "nt-inhand-right.png": "da27e498083bcc0e2215687e159cf371a423dcc793f79a037d8f7ef4f02ed2f3",
+      "omega-1.png": "0c6503047217cf6a62055c87b5f8066b6685754a6e6b745ced3099cf1c26be55",
+      "omega-2.png": "9e411654686e1da4c5379052c0acd94e353615276d1ddaa67fed98fc479f6426",
+      "omega-3.png": "dbfecf70d6f872ab80dee76b7c0221f00efda16fcd805d1bdaa4f23943df3597",
+      "omega-4.png": "78147d9a8b5e3c94a0464414a5c87f4eabba050c0fba60f1f5437357d93fe035",
+      "omega-inhand-left.png": "16633890f84b41d8b01bb8d8358408604ee06969eb4db152310288d2e175be59",
+      "omega-inhand-right.png": "051a12cab7f29233707d7ba8891ffb17d9935517c40ff6cf64f41ee2437180e7",
+      "soap-1.png": "f935a91ce36fdb4f170ffd1c32b44adcf2812fc4dca59eb63d482a3ccd2170d6",
+      "soap-2.png": "1f07afdab0ff41fe76316677114dfdb084b85f2071a43f2ca13156a33e0b9b8e",
+      "soap-3.png": "4c10cbc7d9545b353ded38ea68a9bd88aedf25a699f7dbd7423525fec77441e0",
+      "soap-4.png": "0e4e0a3d801d0b152f539cde91f2a68379368bce52c3545a294e6bf0073b35b2",
+      "syndie-1.png": "0dcca57cc8c20aa56523aadee69786d3c70482d4f8916b38b3f91fb72e361cfe",
+      "syndie-2.png": "80f1da030397ae3fbeaba445b014164e1521a9d4d16db99a06e148d710ecab80",
+      "syndie-3.png": "003270c7864649a316ab327f19feef8dc3b0041883290bfade3e947032253df2",
+      "syndie-4.png": "7b12537a63aa2296d9b1660644921fa83821b911b2b2c7f9738e03ae0b209f8b",
+      "syndie-inhand-left.png": "6314772d3ad18756bdcc1cdc778062119639b9c12dcb2e5600db79a8863687b6",
+      "syndie-inhand-right.png": "143c49eaadb760abac2eef1045ba769c78b092bb154f64252d8ab5ec5b1816a0",
+      "syndie-soaplet.png": "1d4bb322f622c9925a913551ec3fa83a2e44703811785b029091c3cf29735756"
+    },
+    "replaces": [
+      "Objects/Specific/Janitorial/soap.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Medical/hypospray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Medical/hypospray.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/23601a50d2c733122dc76e188984ed3e57aaa470, modified with fill sprites by SlamBamActionman (github), equipped-BELT, hypo, hypo_fill1, hypo_fill2, hypo_fill3, hypo_fill4, hypo_fill5, hypo_fill6, inhand-left, inhand-right states resprited by pyfya (discord) for Space Station 14 server РњС‘СЂС‚РІС‹Р№ РљРѕСЃРјРѕСЃ Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/1cdfb0230cc96d0ba751fa002d04f8aa2f25ad7d, modified with fill sprites by SlamBamActionman (github), borghypo  fill sprites by SirWarock (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "borghypo.png": "e51dadc853a2073c8e3820254ecb117852e971c1cdb9f19cda4e67dd69ffcf94",
+      "borghypo_fill1.png": "9a4a19776177cc1e0e6127576abe8322723c00610fc2d2a7124af72462ad0fd4",
+      "borghypo_fill2.png": "2f07d0cbe143b2bf52db9dd751ca080e870b0ff1ee7cb459332d400cb2a083bb",
+      "borghypo_s.png": "171f76e692119616c0728b58c69b1ac4fcd682a6822698cced4f77b56644a62a",
+      "combat_hypo.png": "faca3a69441dbd53106dae8557c2b9cf3eb3619af706c771f815da8ff3cf8790",
+      "equipped-BELT.png": "5876d6f188ee35b25d5171c4e99668dcc84a06a6f60b3cccb408321784a0252c",
+      "hypo.png": "841a648efdc9e3e23472a3ec2a6fc9f0abdacfa70b86e541f2ced800b382fa96",
+      "hypo_fill1.png": "6a552889952a35deb0cacbe17af71e8fe7fb0ee787a0fa45fa7b2d2a1aa22985",
+      "hypo_fill2.png": "8c388fed26fb04c44249094ff2156fb8c3bbe4a6dfc3f6347a72acd535fc7a16",
+      "hypo_fill3.png": "15aaa09298bb7601306bba7c9dc5d089d2967d23efdeacbf27c77798d62f8916",
+      "hypo_fill4.png": "fc63d725dc96b20d1b028510c3abc629574ce1b1c58dcd7b98e72822abd3bea6",
+      "hypo_fill5.png": "d9cf136ab8330302eae2f16e27ef7bed3200574335124bdfb6de14bc8ec15759",
+      "hypo_fill6.png": "2effc45079ed3c7d832bc5f0de5bade474e2ab57b170d40f244a923206355956",
+      "inhand-left.png": "37b6e98f9bb6f314ce30d3915e2ab79307d0032663915a2523abf75ec02c487d",
+      "inhand-right.png": "7f7a1a8dc380e96f3b46b407b01e4aba43af51dad3038c080f6ac37799f62288",
+      "meta.json": "956c0be14c29ca1346f89f18356662c2d7b9c0deac6c1636ca6c28b243425d1a"
+    },
+    "replaces": [
+      "Objects/Specific/Medical/hypospray.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Medical/syndihypo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Medical/syndihypo.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/1cdfb0230cc96d0ba751fa002d04f8aa2f25ad7d and modified by emisse for ss14, further modified with fill sprites by SlamBamActionman (github), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "hypo.png": "ee3b09c8b3252ec81508e57430bcf27b2c7d4dbd95b2789c6160e627b167a268",
+      "hypo_fill1.png": "331e358b6a9eb4ab540fb1291cb3072e2adf34bb044913747f685bff690a6138",
+      "hypo_fill2.png": "c77858ea380f7e2fcd98d3e49069b57296c83179c838d41a151ee0ad296909c8",
+      "hypo_fill3.png": "ac560b20c61f250c5994b639622d94e3ff164b8bc6f53e15ba684c513a910e5d",
+      "hypo_fill4.png": "2aa46bb9fb1f4841b3c02d81b436e00f78d7b74c607d0c1fc16c402437b21526",
+      "inhand-left.png": "252b959384d9d81c6be41183f174564604a035f6912569247ba88612b3f6231a",
+      "inhand-right.png": "2b3b1348e91ba4327b52d0e4c059e5374ae869c985fd90a29c1b75edf50aefc7",
+      "meta.json": "e34d422a8d4de678b07161eacd34d57eeec18c93690c347d57466f2205600ca2"
+    },
+    "replaces": [
+      "Objects/Specific/Medical/syndihypo.rsi",
+      "_Lime/Imported/Goob/Objects/Specific/Medical/syndihypo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Security/barrier.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Specific/Security/barrier.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/commit/476e374cea95ff5e8b1603c48342bf700e2cd7af, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "idle.png": "988a27f4a07e63686c8a6b5b4338d8c19252f4869412cd5134b33fda49fac859",
+      "locked.png": "34445364f541204211bd98114c729dc01dccbbe89ff169040dbe83f9e77b9bd0",
+      "meta.json": "85278c984f7fb2d0ab69f13fd543feae827cfa55e67620e2078e7bf47597ff8e"
+    },
+    "replaces": [
+      "Objects/Specific/Security/barrier.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Storage/Briefcases/briefcase_brown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Storage/Briefcases/briefcase_brown.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/ca0a3ad6128fd40efdfb7bf3321ebac233a506bc & inhand from baystation at commit https://github.com/Baystation12/Baystation12/commit/a929584d9db319eb7484113221be25cfa1d5dc09, Inhands resprited by MureixloL",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "63dacf5d2f925f37527a3eb03f32c3d9f642b8b77d4de47df7d99c959d407032",
+      "inhand-left.png": "483584dad37744c31f09dc64bd4f69eb18b97c3dddc94f924f58b91c5dd827dc",
+      "inhand-right.png": "86d573210e7a35da24bd62980920aabf5792eee858278231f2f38586475df3cc",
+      "meta.json": "d346aac75c8d5e0ae7f5b6d70047853115b189af2e3eb839bf7ba0597148992d"
+    },
+    "replaces": [
+      "Objects/Storage/Briefcases/briefcase_brown.rsi",
+      "_Lime/Imported/Monolith/NF/Objects/Storage/Briefcases/briefcase_brown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Storage/medalcase.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Storage/medalcase.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/HEAD/icons/obj/storage/case.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "closed.png": "ffff4cff73155c6a3f8c3415e1221184f9354dd7f11e6d0aa2561da99a329c71",
+      "inhand-left.png": "9aa3762f533b8ee3251c02f18c491a1ed77b96a61f081bd1f279727770305bbf",
+      "inhand-right.png": "82ed0e7eecc99d63c647f115296511ae57225bc5aeaa6b44bf318c353912357a",
+      "meta.json": "d26003599bd220579399a2cab392a9fbe65fad0bb36ee7e21222fd9623836f87",
+      "open.png": "f256f3bee27259dcac4c6c7651ca4319677923a035e8c6afb8e229c989f14a2c"
+    },
+    "replaces": [
+      "Objects/Storage/medalcase.rsi",
+      "_Lime/Imported/Monolith/NF/Objects/Storage/medalcase.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/Decoys/agent_decoy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/Decoys/agent_decoy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from existing sprites.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "aballoon.png": "921263b319f637a2b902398201ce805dc5e7b0aa290c4b6296ec70b71fc02e51",
+      "folded.png": "eee5bdada15e823a5eef2b9a5be16c5c3c337b33d562a792515f5c953df23ef2",
+      "meta.json": "b29d018f876689c263b98a5e3edcb220986936dff0a6a38e870b954b35280470"
+    },
+    "replaces": [
+      "Objects/Tools/Decoys/agent_decoy.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/Decoys/agent_decoy.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/Decoys/commander_decoy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/Decoys/commander_decoy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from existing sprites.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "cballoon.png": "116bbfdae90d188e92e870c2a42a6325d8905cedb3094cbec8589e78a75df6e5",
+      "folded.png": "3ce8ea485384de3dd0643fe7f196e950d4dab0e9bf7fd3431e18e89b7a3d9b59",
+      "meta.json": "82fc31f40940602f4c7656cba6805ac34c44ff1032bb058937fa7868aaa4b1b5"
+    },
+    "replaces": [
+      "Objects/Tools/Decoys/commander_decoy.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/Decoys/commander_decoy.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/Decoys/elite_decoy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/Decoys/elite_decoy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from existing sprites.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "eballoon.png": "29a18538a45a66ffcac1602a13f802ce38019eff3e0d215cadc19bab0a74e744",
+      "folded.png": "c2caf721b59f1a9153b68624952f430556676a2df9062441980da9485e8de208",
+      "meta.json": "339810f89077aea51f37d908183f4dee84a35e302a1744d03db6132a0e965c08"
+    },
+    "replaces": [
+      "Objects/Tools/Decoys/elite_decoy.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/Decoys/elite_decoy.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/Decoys/juggernaut_decoy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/Decoys/juggernaut_decoy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from existing sprites.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "folded.png": "9ab05f861699c0287d12a9ea96435088ef84a0c4eecb335d2b56f46056337d8e",
+      "jballoon.png": "90b80be5f9f07324798b3e4a8608517bbfb96104c8d618ac3a832e41e057895d",
+      "meta.json": "5d214a83d604a715125b1e8f7da1353a3b8c952d57f9bbab4fe8d78dbc3d0cef"
+    },
+    "replaces": [
+      "Objects/Tools/Decoys/juggernaut_decoy.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/Decoys/juggernaut_decoy.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/Decoys/operative_decoy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/Decoys/operative_decoy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from existing sprites.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "folded.png": "8f951977a39cd8a8cf15f7b8150854e0caf9247f7df07247bfa17007f11239cd",
+      "meta.json": "8fc1143a76a330eca4083f515be4807cc95f83ad5cefdd5160dfa381c4858676",
+      "oballoon.png": "c6a0094e7d026d15428f66913128ff0f481e888e356a81d617d6afe344fb3905"
+    },
+    "replaces": [
+      "Objects/Tools/Decoys/operative_decoy.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/Decoys/operative_decoy.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/drill.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/drill.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "drill_bolt.png": "7e058f49a7609961530f534fa8971bc7110dbfd36e8f8e994ca901ac9e7bf598",
+      "drill_screw.png": "f0b31d4e33b927b7a1793ad62ca2dde0e24640c9c42f8a1e50d54bca45a9b767",
+      "equipped-BELT.png": "f1f58266a27755f3b9cc97555458855b7ff00ae5d2e38129b48c3bd60993eab3",
+      "inhand-left.png": "5f2d5b3fdcbd3008ae689c4904411bcbc72dd4a8edddebd39743244b08e884ab",
+      "inhand-right.png": "d8c1263b9dce3dd6529786199aa58d501a1ab631c0ef0d60079cbe48d6114be0",
+      "meta.json": "13c66cdbcaad479085f664f3a008cef4467355e137f7cd6f505ab55048d5433f"
+    },
+    "replaces": [
+      "Objects/Tools/drill.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/drill.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/emag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/emag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation wiki at https://tgstation13.org/wiki/File:Emag.png, inhand sprites modified from tgstation at commit https://github.com/tgstation/tgstation/commit/d917f4c2a088419d5c3aec7656b7ff8cebd1822e, resprited by semkagamez (discord) for Space Station 14 server РњС‘СЂС‚РІС‹Р№ РљРѕСЃРјРѕСЃ Taken from tgstation wiki at https://tgstation13.org/wiki/File:Emag.png, inhand sprites modified from tgstation at commit https://github.com/tgstation/tgstation/commit/d917f4c2a088419d5c3aec7656b7ff8cebd1822e , icon by CrudeWax (github), edited by DinnerCalzone (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "06cd7ffd3bd0b121a0f4718ff6567b40f6a6172c23f0347013616c60bac7318a",
+      "inhand-left.png": "49dbec8b7954d65aa7a85adf3a15f136f2a6937dc35f93fe994ebc1e423007fa",
+      "inhand-right.png": "113fde239fe5407ee8b9da4bbc3ea25a98fbb8400d8a5b64741962a1e3634d3f",
+      "meta.json": "efc87ecc7dbfb23a30097c6e66b83dc31f63f829f3f0110143d73b5658e57efb"
+    },
+    "replaces": [
+      "Objects/Tools/emag.rsi",
+      "_Lime/Imported/Monolith/Objects/Tools/emag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/jaws_of_life.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/jaws_of_life.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "modified from tgstation at commit https://github.com/tgstation/tgstation/commit/f07f847706d85b7cfa4b398e5175732212b69a63 by KingFroozy (Github), inhand for syn made by icekot8, xorg jaws by ThatGuyUSA (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "a424b106b3773e52b30c49cd4cf33703ba430444aa7b404f6d0a4fd27f9d6db4",
+      "inhand-left.png": "a611d3da4b5b6bd45e2649f744b48be8f12bd285bc310a3584fe7ee863c00a2a",
+      "inhand-right.png": "a110715f4ddf9865ac63c7f1233f338a5a220fb47f0f3dbdcb2354718a4948f5",
+      "jaws_cutter.png": "d55b28747a92493e4e1cc137974a8134c9c2edbe915b45c94af592ec508aff6d",
+      "jaws_pry.png": "6d91f925ffdbe40eff86c67298c9e61fff47a133d31d24ef02760ee3f05dcc70",
+      "meta.json": "589ccfede1dccaef1902aadda0f6ef5caa326e24cee272d1844ce6dbc6b33baa",
+      "syn_inhand-left.png": "b287e31399f3cce1c00cf08ffaa2e276e06c140311d9c53d0997b2a78ffdc709",
+      "syn_inhand-right.png": "d5d7d215b8076c9a238783756e5a827b7c4f704a71cee05c623726b9e70c6912",
+      "syn_jaws_cutter.png": "46b966432242be2b3b2736a054aa6496a6cfcebae12e90df02cf7e7eeb828141",
+      "syn_jaws_pry.png": "da81f9b67e6f6ec82cbb603f59befc30f027b1d4ffb159c89b29f7838f1e842d",
+      "xorg_inhand-left.png": "a036b63334c9eb89406fbee587cf8c60761fc92ef3ce2abcd9a22251831c891a",
+      "xorg_inhand-right.png": "0f0c1feac943f505cb42e3f329c57669a6ec9c36b27764a95238b02a0c80ecf2",
+      "xorg_jaws_cutter.png": "8c03eb7fe50d75829f9a21a4a216436bca0a6df1dbcb9d007937b710c10c8ea9",
+      "xorg_jaws_pry.png": "0c27c3e22befcab3bfa313367fc62d68c4b816c62f146a487cd4fb266b4bdde3"
+    },
+    "replaces": [
+      "Objects/Tools/jaws_of_life.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/Lighters/gorlex.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/Lighters/gorlex.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/HEAD/icons/obj/cigarettes.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "matchbox-open.png": "abfc4990b2d32794c4fc2a8c4a0cd69257b39aa2270c6d6daa435b6b5969e6d4",
+      "matchbox.png": "acf752076a65178c782400446637dc3e6eabca0a7db0623053b42e90920a8951",
+      "matchbox1.png": "a13f6dd7ba82443a3904ac3bbd2ccabf0566856602db46006edb3168944b7b16",
+      "matchbox2.png": "5aa0ff87a2c360460f6ddf23cd8edcaa85a76b7fd98dc07422239b0894e700ab",
+      "matchbox3.png": "fa82e189e781f4bde3d2443b96a79a6b897f5a050edc80fe61357538589b8d8b",
+      "meta.json": "9ce65c122060a95d7ef6b584a5aa354a4fcf19af3c0465f6bc3a2d62857350de"
+    },
+    "replaces": [
+      "Objects/Tools/Lighters/gorlex.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/matches.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/matches.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/HEAD/icons/obj/cigarettes.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "lit-inhand-left.png": "31d507700a9df1a4397a8c7279c20ac3d055c5ae4a1288d89098799f20014ed2",
+      "lit-inhand-right.png": "2d6121ba7267905a0d92c9ff236d5381482dcabff9ccf71610e660e9f3eb1570",
+      "match_burnt.png": "9b1533fc8466e044bc1704ba73bc90eb2d5731a1422e3e5eabae90d2fc6d21a0",
+      "match_lit.png": "f2019239c198bae105969b584dcb87f5ad277868118781e6b86bfd5342147a64",
+      "match_unlit.png": "c36bd41729afbd7713990d0176cc96e29390d5671c7481b13c5b6b6f244acdee",
+      "matchbox-inhand-left.png": "a52b7b2d1d4d06762fb8686649aeccf6ad508f3b80ffc8778d1f20a381a95ee9",
+      "matchbox-inhand-right.png": "d28ad1be388451e7e1445bd4f45ca8b53dc1d7eb0ade4a54ebd5e8e7ec2a0a4a",
+      "matchbox-open.png": "f2a112e7c7252411bb3e22889868c72ebdf82e840d636c8e68825e544c50f932",
+      "matchbox.png": "bbba99872593e7bc637b1a714e50457595651916c7bb0623b9050381e25e54fc",
+      "matchbox1.png": "7478d34e82d6d1b84a917a7826607009d07c9c6e385c6f0c59e7875f2c79c9e6",
+      "matchbox2.png": "790e40cffeb18dbfc7c2bf54a2290a6aaf95808648b1baf6910c51d2bc24a0b4",
+      "matchbox3.png": "ba8c5144c0a431d2f683df7ade7780e76e981836615fcf766f75da43fe944801",
+      "meta.json": "d00b6b7b42ff0e4281d8fcf602046a72526f609460fa06e6d76d5c2ab04859a1",
+      "unlit-inhand-left.png": "eac05d86a860542cccdde2e941d83163d1dfa632bdc0db7484313047c2a34a65",
+      "unlit-inhand-right.png": "6d5d31102c4fb7c1e4d406fb0ca2a5e6f612ecf02e904759813abe0f30113dfd"
+    },
+    "replaces": [
+      "Objects/Tools/matches.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/multitool.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/multitool.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "683c2d324bda534f8477beca7ca177afe1a708aa070ac2f853600bd761cafcb1",
+      "green-inhand-left.png": "e6ae725c839f8542104ae9868c69aa4db38451f608be78a89d65c012d111b7b4",
+      "green-inhand-right.png": "aa3fe82ac98ee63e549537ad50280299f069e9fc1c304223cec017865772a989",
+      "green-unlit.png": "6566081a5ffb9e9994fd113ef41163052e45b8cb98a03951193d52fbcf60004e",
+      "icon.png": "11dc063f49948248711639ed5e6738c124a92ea1c9f7bb708d4e9376a163cc3d",
+      "inhand-left.png": "da3c17c79261f42432d42e13d6106f8a1632d9906afda0ff49c42ee59ef47faf",
+      "inhand-right.png": "b8744a6dfcee218b6aed4ff941751803463f079451c9cffb695aff0b669d5b31",
+      "meta.json": "f18eec1c2eab8e9631a7dbc8d5e48c6e2535b93b221dacd91471fce63bbe799a",
+      "red-inhand-left.png": "9f4212f48eea67799807fbef612ed75b566f1645fca9f3a0536ed29117d91c9f",
+      "red-inhand-right.png": "fa43709b5773666aaee3fff57456c80dbcb7b96038962bcbe01d2a668bc676e7",
+      "red-unlit.png": "219fcae80d62b07522225c0b73cf4b04d5b91ec6c75866bf8e65c4fb8416dca3",
+      "yellow-inhand-left.png": "288ad047a664b414d96c3691261a423a1258233d98c867583b553a12a42e0e6e",
+      "yellow-inhand-right.png": "5f8abd89f9ce3f7403f3efd8f88d32b7b6e0e119bb782c809c7f84442aeca545",
+      "yellow-unlit.png": "06696e7ca9b262d1ff406c71597f55b12af7e1df3e23a916dd0f39536f83c11b"
+    },
+    "replaces": [
+      "Objects/Tools/multitool.rsi",
+      "_Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/network_configurator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/network_configurator.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by 20kdc (github) for ss14, Resprite by github: Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "9b4829162d70a7492e394430314bbe15ce58d27c2dd3821e6b7174b6df5920d4",
+      "icon.png": "24f737b7aafafd8849f02ef10fe6706bd50b6a03102b4d2f16403a1836f7ec11",
+      "inhand-left.png": "51d83a41c6e96947397075a88acd9b94228fd6f63912494cdea8a57feb62bb2a",
+      "inhand-right.png": "c72868cac20abf37fff0313ea94e6279abdfb05c175a40af983924a013b19c0b",
+      "meta.json": "f1dd1167b84c6e25caa2abe60ab613d50b9467771614a8c27efb653cd2487ea3",
+      "mode-link.png": "44a995686451e48e1df988fcbd4b7d6063426c9ed523092b18253fc0d7eccbac",
+      "mode-list.png": "961ed41c10fcc52a707574dc952c3e4e9a56a9655cff4513a293352c883dd6f9"
+    },
+    "replaces": [
+      "Objects/Tools/network_configurator.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/screwdriver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/screwdriver.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "d65885983919ddbd511e311a2268f1b6104bf173512dcb939cbd6dc3a2c81eb3",
+      "inhand-left.png": "4f2d55cfbdd32c42a59047652bc5af88159c41d964ab306c55830636e34ad14c",
+      "inhand-right.png": "6fe3e6b010650a6ccfde4f5d88db3bf31b0dae352f3c1dabe9740710ee8cd682",
+      "meta.json": "48911c58708986c13cbea9f0fe3e4a0b25fe65fa818fdcfab889135fb42145fc",
+      "screwdriver-map.png": "24f8d9e471aa8af056c89d3fd0862e1f88c480b1dfde80c929699d056e2ab50e",
+      "screwdriver-screwybits.png": "4698d6db6e47e82c1084f7d1495db771abbe044bcc2541a232d4be07c2e8e23e",
+      "screwdriver.png": "29017211b6352f1853e127f9b27bb4a53feda5762d28ef9585d47172d5325ac4"
+    },
+    "replaces": [
+      "Objects/Tools/screwdriver.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/screwdriver.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/spray_painter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/spray_painter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3866dabea8ba6c31115e661b852601cc099e0136, Inhand sprites by onesch, ammo by Paradoxmi (Discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "ammo-inhand-left.png": "fb9d4870de17c77eef849f00aa9856dac605e92481e034257b0a376e01ed6f7d",
+      "ammo-inhand-right.png": "e545d2828add849012927bb230167da9067a5d4d7eda7ac7ceec769abb4c68c7",
+      "ammo.png": "fa9a66c5435abf5813cdec19579f0a554f8883f7b418fca7b93794a09ad6a8a3",
+      "inhand-left.png": "f0e02248da5f2297f86014ffd7da1fc27414000738ef57b0d827683c997ed2ff",
+      "inhand-right.png": "4483dfce9aee7111b92e3e65726fbbe0944525f7c477852a211915cc523b71d7",
+      "meta.json": "b583d3f459ed296a3dad1e2ea4b1b4ce9f1b80ad3f4255a3699aaf7e509d191d",
+      "spray_painter.png": "1b1f4521a1c52efa1573c3aa445127ae8ec93141368153c3654d15dc0e2b95b1"
+    },
+    "replaces": [
+      "Objects/Tools/spray_painter.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/spray_painter.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/t-ray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/t-ray.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1, inhands resprited by @mishutka09 (discord:1152277579206774854)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "inhand-left.png": "850a91e716da2a94d1cd8b87e1cecaade51905f68d5f259e149ed2019b464822",
+      "inhand-right.png": "b3d527d2cfca4eb947e4eb5567ce7156e0676886669c6d6dcf5e643682fa40da",
+      "meta.json": "2c52b8e249f16321ad8b74f0e274d1f3edff73f7c3d0031099562fd6df975740",
+      "tray-off.png": "4042a5afcd0694dfc0ac217d96e6792601922e69ba653f294fa9a66a2fb83fb0",
+      "tray-on.png": "d3b5d8bd45a4a01e8308821e96cd34b9e1656adaf2a0d1fdc0cf0b42004891e1"
+    },
+    "replaces": [
+      "Objects/Tools/t-ray.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/welder_experimental.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/welder_experimental.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "d4085f14c892e08eae901ab70852040e2258abe3b22afffb16e25341c8821a92",
+      "icon.png": "81fb6b9a01a14231b76b9507e274ca1e78ca4f1af81e651abf9cb457a79522a4",
+      "inhand-left-flame.png": "fd2ab175296105ef7d857ef446c0420d1fabd28b6b01ae397906a205d30994f5",
+      "inhand-left.png": "30a00289ea86148d5221b963dec74412b02481a76e421d97d52ffac0266a806e",
+      "inhand-right-flame.png": "e3fdaa6848a466f927b8209df92de706060c9093b9fe172f3d5604d7b4866593",
+      "inhand-right.png": "533b0629795cdd4f1cb7789c09b1e666e2a29ec98a8890bc8e9db65d35b23b31",
+      "meta.json": "79b4195cf707361452e1529e33f7a75c0d2f4b0ad8d03080c167a554e56d3778",
+      "welder_flame.png": "d5c3f085ed243a7a0a77b1e9666fdde21ac8007b92b072dd976fa0b6d2bb03ce"
+    },
+    "replaces": [
+      "Objects/Tools/welder_experimental.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/welder_experimental.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/welder_industrial.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/welder_industrial.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "1c777acbab787628d1404bf73e78c67578c80069369b94efa0bf07ce0839c830",
+      "icon.png": "07ff1f3b1c3fa5b5c7a53a102d45d8b23597d462f1ee75ae6e268b26e7e07dce",
+      "inhand-left-flame.png": "d713ea572d2e31a36f953bc4987f729b611a202fa06a333e2f685a575d5a34b6",
+      "inhand-left.png": "e88363c303e680b290a0da7b54f561f22e5a4b8d4f47cff2324207d79876b76e",
+      "inhand-right-flame.png": "35a7cbc1ff2ecf9f4bda3455db190a25ed8c1d38cd059d11b012fa98e285e69f",
+      "inhand-right.png": "326bc5d0ad8815eedc88050251f7f8293cef9389010b30ee47fad61b3ee61d26",
+      "meta.json": "79b4195cf707361452e1529e33f7a75c0d2f4b0ad8d03080c167a554e56d3778",
+      "welder_flame.png": "1538f54783d83b6fea4607e9639c15e34f58830f626ba1dc951202dd02988502"
+    },
+    "replaces": [
+      "Objects/Tools/welder_industrial.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/welder_industrial.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/welder_industrialadv.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/welder_industrialadv.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "320223bc8b9875328e66341019207ff22a42039683703d65bb81b02fc916a2c6",
+      "icon.png": "c856a4c62c54085154a9dc08acb863a79dd70701c52a043be7f7cb76bafe044a",
+      "inhand-left-flame.png": "d713ea572d2e31a36f953bc4987f729b611a202fa06a333e2f685a575d5a34b6",
+      "inhand-left.png": "e6144637d380a09ae851a82b8c867e531530093edcff912459ca48c8b538db46",
+      "inhand-right-flame.png": "35a7cbc1ff2ecf9f4bda3455db190a25ed8c1d38cd059d11b012fa98e285e69f",
+      "inhand-right.png": "bafe52eb94fc4616b37fee958b46a6f073e96e429a1e3575610bbf3aa4f977d4",
+      "meta.json": "79b4195cf707361452e1529e33f7a75c0d2f4b0ad8d03080c167a554e56d3778",
+      "welder_flame.png": "62c72016e630eca87e47bf1c8d8c6706cf8ce2450276bee58640735cb7627aa4"
+    },
+    "replaces": [
+      "Objects/Tools/welder_industrialadv.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/welder_industrialadv.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/welder_mini.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/welder_mini.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "6a774fbb7f67a6f0e0d9a6d13ba767b6a99c46e03df98e2e738cc86ba478c8f5",
+      "icon.png": "4019ce623618925b27e0e4eece0423806e47170ce74451c93ea17c7b549762ce",
+      "inhand-left-flame.png": "d713ea572d2e31a36f953bc4987f729b611a202fa06a333e2f685a575d5a34b6",
+      "inhand-left.png": "f3698a3b5ef78f0f1a0f2843206d3894787e9d3d4c35b4a3c917db5b43a90211",
+      "inhand-right-flame.png": "35a7cbc1ff2ecf9f4bda3455db190a25ed8c1d38cd059d11b012fa98e285e69f",
+      "inhand-right.png": "b229f6793e5ffdb116527fd3252e5d550b92eafa142b7d25d70b9afbb2d0ce26",
+      "meta.json": "79b4195cf707361452e1529e33f7a75c0d2f4b0ad8d03080c167a554e56d3778",
+      "welder_flame.png": "b79c3e7c4987dc0c283b43d78590e0860d6b15e7cd6766e88b4e6f32018b51d8"
+    },
+    "replaces": [
+      "Objects/Tools/welder_mini.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/welder.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/welder.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "a6dcc88237b83ad973893ac538526d16f8cd5ca283ace36d4dcc09001bd3f3ea",
+      "icon.png": "08aca39f6b3417b19bc03e29e4b28a7427619220df12d57e36efa1eba458a093",
+      "inhand-left-flame.png": "d713ea572d2e31a36f953bc4987f729b611a202fa06a333e2f685a575d5a34b6",
+      "inhand-left.png": "ef3afb39237711bbe784bcdc8ab90089eeff6749c4728cbc739d2a297ed71d37",
+      "inhand-right-flame.png": "35a7cbc1ff2ecf9f4bda3455db190a25ed8c1d38cd059d11b012fa98e285e69f",
+      "inhand-right.png": "0bb47830bb8b46f023283c85c2026b476dacafab92858caca337c587a14a0d17",
+      "meta.json": "79b4195cf707361452e1529e33f7a75c0d2f4b0ad8d03080c167a554e56d3778",
+      "welder_flame.png": "bcfafcc61320256d27a5db137851e8b4ff8cb8432d20e440339a21cd52cbaacc"
+    },
+    "replaces": [
+      "Objects/Tools/welder.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/welder.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/wirecutters.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/wirecutters.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "cutters-cutty-thingy.png": "c4672110d0c3a3ea8ec8773d0d99819042b18592995be097e81cb8729c9df4e0",
+      "cutters-equipped-BELT.png": "f2adee23dca1c0121bcee38b248d2e978b4f4b3eccc577e07b8ee086298ad4a8",
+      "cutters-inhand-left.png": "3ef403a0e990d2b8d6f79adc99c789244ee3a7bc2f26b4f82ee118a21574c8ed",
+      "cutters-inhand-right.png": "7405afb6b8491e5f085673d14c57e6a98bd00e7004025718d2180a67a4e104cb",
+      "cutters-map.png": "7f702d8c6de08a33e3981717eab6cc17946cdca55d66a8bf25b260d17f55fd27",
+      "cutters.png": "a62f9cf45c863a42f40e5846c9a4bd9ff2ee8d3bcdcc4ee3da39da4bcd3b5c43",
+      "handle-equipped-BELT.png": "e9b3da20cf2507399e08baf8eac345a998eb85f39149f6144a0fd5ba5788abfe",
+      "handle-inhand-left.png": "cf8d25973ee749271c27d5725358a7f7e4aa5d52233a8b1c789e6486d09e5fba",
+      "handle-inhand-right.png": "746234447c2d34f3cd61f837d1204b00bc724e0384cc233e68f8592bb2a7f1de",
+      "inhand-left.png": "87f0083ff26bbb1dc0a740480f3226400ee363018f06224563755b20847360fb",
+      "inhand-right.png": "51b04083c546c1ce1bfc188e258146c784fce1a0640f6c98ecc69cf9705c7158",
+      "meta.json": "0a576e8da6a007a0227123b08e8f33b6c77605a88443168164b268a9fc0e5dac"
+    },
+    "replaces": [
+      "Objects/Tools/wirecutters.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/wirecutters.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/wrench.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Tools/wrench.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at https://github.com/Skyrat-SS13/Skyrat-tg/commit/31156a1fcd48d67a717e7b63c11513172b28eeb1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "c5ef9f30125a2047819375bfac4c47f59037a864eb5e2ffa88201d00eecd55d3",
+      "icon.png": "716bd86adef6976c7c9d1ffd6b6b4f56dd0fdec7367fdf308fbb987a9a911a3d",
+      "inhand-left.png": "8b4f3d4105ec0fcaa3fea6bc89374be979f7b29b771df461f1d7d7eed4bc4281",
+      "inhand-right.png": "31a22be98407cfc33efc6e8cfe093a5022ea5a95ca6503f417beccaf9507616e",
+      "meta.json": "5c664177d0933e536a6a538f23bbe4787e686ed0b1daff8167b582cefcff6dcc",
+      "storage.png": "07fd1150aff95bf7f2d723aeeada57dfadec361ab893728d42a59631cfa95605"
+    },
+    "replaces": [
+      "Objects/Tools/wrench.rsi",
+      "_Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/nukenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Grenades/nukenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation  https://github.com/tgstation/tgstation/commit/d91390a4474e511279b6ee7525c5982266b9a858 and modified by DanTheSynth. Inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "4a7a09cbb70550015d1bf3da25f8eddee97ae250f2354f1cf336b97ea402ec17",
+      "inhand-left.png": "44f0a63f62523af5129dbfafb19236204c37192932c84988bc0a0f2af99dc259",
+      "inhand-right.png": "2d18770ba8cfa6d539ba7be77320c9175a1a5941ae6ca10c987cd6a857550c97",
+      "meta.json": "78fd0d13d11fe2c47a3778c31694ae008c68f9d1b344ce70db9196eb55834685",
+      "primed.png": "72b731aca9b4992ce7f51c50ac9ad0f85634bf05e3c95fa8e897514b2cb25d54"
+    },
+    "replaces": [
+      "Objects/Weapons/Grenades/nukenade.rsi",
+      "_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/nukenade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Boxes/magnum.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Boxes/magnum.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/ca674eff9d23e04357b7609ef7e07eadfc1a993f, modified by ps3moira (github), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "f451be211a092bb02f10f301c869a65bda1072e2d71123c30f65a88a4f2f9694",
+      "capbase.png": "ce7a9bfcd1bb5550c5d3a6274ea1a00874e105c600ca41cbda3cf4117af3c2f0",
+      "hv.png": "ccd691e5bf1a1c9505a86aab4c1cf211e44e888365cde5a48627f0f64e38b9d4",
+      "hvt.png": "fb3e841dbef541398bc8832dd6f6591fb49c0d151d4633151a17a0f1d1208a49",
+      "incendiary.png": "f571cb9cd8823c9a57e8e2eab32615150ef8ebb9430697d8d09c76aa7b3913a4",
+      "mag-1.png": "6285be1dceacaf1bea5d2b3a06be543c2df824d2bf7604756962f7f5c413cbf7",
+      "mag-2.png": "c1978d4244af74a89a07f90ad74c26045491b830d0a2fec9251824de468a7a37",
+      "mag-3.png": "2ee0b3f46ff1941329e7006aa52781ceb745a0d8d414b5c38951423c412cf5e6",
+      "mag-4.png": "2c724fa683f5a3a7c46b6f21e8198dc439598a4c1364bc28444817405b97eb99",
+      "mag-cap-1.png": "216aafcbe6adcb363b51e8bc45ba38b4b4cb16629cc22075f414b9e8d05d6e29",
+      "mag-cap-2.png": "74af10ffc1a803352d3dfef8e3c60215bd30c39f4019915bd3c53dfb348a06bd",
+      "mag-cap-3.png": "b4aec8f265fe19f2a6cd5f74669586feade9ca690c0e636926b87b83fae376dc",
+      "mag-cap-4.png": "c079c22712385b47040f7af152a5688838cacca70fdad056bdcf674bde226a38",
+      "meta.json": "ea7384c05ba37b3bcf264e84f2a14f994ce29ea55d6098debab90576ba99654d",
+      "piercing.png": "a351ba47ab8cb78cd4b6b69d64a342365763a10976caf854b8e72b7471b65e32",
+      "practice.png": "d61db085bd64d021598c4ff49bf1b7a651b894901b487551eb9c515e2444ca77",
+      "uranium.png": "db086f3fa254af3676045f372f096a05dccd60e8d2603bafa01ac09eed762128"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Boxes/magnum.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Boxes/rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Boxes/rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/ca674eff9d23e04357b7609ef7e07eadfc1a993f, modified by ps3moira (github), resprited by dakone22 (github) for Space Station 14 server Мёртвый Космос, resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-big.png": "bccf53a5db8adc9e254d5a64b63809076957cf0e107201146b80bc8ec48703f3",
+      "base.png": "a27f2fce9b63e10f9e16eee43d7af312b8adf8f636b82e8e32f44ef65786185c",
+      "incendiary.png": "b6777768c5453b28489cf18c6461ee585633b51cfd383b4a7b60bc34f740525d",
+      "mag-1.png": "ea58f5f2e75a401261e7fc03231aff59c5ef72addb49bec809d1682abe6e7a6f",
+      "mag-2.png": "7811268e810f50450eb14721242265ca96203a2d62372a1921bce4e979e1a7ab",
+      "mag-3.png": "ea218db6ad1abf13629e343b516401d16e59d4ce1beb1ca0afab928a4308e9be",
+      "mag-4.png": "c6bd8e4d4d9b2846a33a64f8985d777344a6a3afed6a812ccb6d74625e9005a3",
+      "mag-5.png": "1fe2ff7456d4518835365655651749369d59ae16a3ca6dd69ef5382a69ca99af",
+      "mag-big-1.png": "e4a38e2d46bda799ad914048d75f3f23926b33ecec87c24832bf07bbaa686130",
+      "mag-big-2.png": "40a842c96d595d06237b66153a4485c49223db73b0ef055a00d77d0d82fef6a5",
+      "mag-big-3.png": "d4e8d7120a508a46c8a1c2810a06cd72b7f757ad212ca0ff8957647067a88f09",
+      "meta.json": "f78fe2f699ab677db8699f27acf494e4c29c199e0f338e93ca1aa00b209dbb2d",
+      "practice.png": "1570e3230664007674316dc15a4d9b5d4caa54144f6a8bbb2d7012370e234638",
+      "uranium.png": "e3700283370043644d2d0fc20e78d06dc85ac8b0c7ea4bed2e7448e94a1e3bc8"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Boxes/rifle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/caseless_pistol_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/caseless_pistol_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/pull/1684/commits/19e51caef09e78ca1122d26455b539ff5968d334, inhands by TiniestShark (github), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "84a40bed33b80f19e1eba3d2b348e2742337a18b99274d6f58a5ccbd52ad8138",
+      "inhand-left-mag.png": "bc64d6bf658a2003a6adb731fab57a6d67cccdd7762125decdcbcaebaa455134",
+      "inhand-left-stripe.png": "c5398e24cee44860921ed4abab83bbf8ca0a1e90bb75991ce6d0871a9b27edde",
+      "inhand-right-mag.png": "bccee40e6e18fcb8d3479ef101d1051de780971b72918bb4ce44e39302fd15a3",
+      "inhand-right-stripe.png": "80858289bbcf7d9b3514e06263db592ace8e390b07a305e917ec235b915f88a2",
+      "mag-1.png": "513654803d9be8aaadf055345b40694587b24a7c2d2a4fd61608509cdd8fa915",
+      "mag-2.png": "8d5138b05ebd1e84f86e4141b51f31ee29269eb637a32d03a75ee43df0f2e8d7",
+      "mag-3.png": "b26c1116af80a46c1c430ca99194e3677a36be32eab5ae8ed5625c0b736331de",
+      "mag-4.png": "62c3f5a9612a032e0a587247cd375398c8eced4a00a015cf26b2ecb1bf9d71a7",
+      "mag-5.png": "190607cd24ef437e769e6b19265d7b89357abcd68b46894c6eaa9718293c219a",
+      "meta.json": "657f26febb902bcdde1c7028a8ddc84ff69e0c22b0d6b3c63e95b82bb26db489",
+      "practice.png": "011a1c70a9c9ac6ad019ac545cbfe38da494d73acb2326c3210eaf45fe0e5cb0",
+      "red-icon.png": "84a40bed33b80f19e1eba3d2b348e2742337a18b99274d6f58a5ccbd52ad8138",
+      "stripe.png": "d47203148c403be69733f8bcec4f8c140d97168ff96ecb5b5e8745c96b3c6467"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/CaselessRifle/caseless_pistol_mag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/LightRifle/light_rifle_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/LightRifle/light_rifle_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/shiptest-ss13/Shiptest/pull/1602/commits/3e6cfea9d468508a7f64ad5543c3b22479cb465f , https://github.com/shiptest-ss13/Shiptest/blob/master/icons/obj/ammo.dmi, inhands by TiniestShark (GitHub), stripes by SeamLesss (GitHub), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "e3f19a3491010270922e831109612317ea4a3bfb043f942ad65dd7b041af3c77",
+      "incendiary.png": "40267faef4e90ceb6cf757052cdb3f501aa297475d0bb8094a12a27098509565",
+      "inhand-left-mag.png": "4c806e1f33032b4efe709cb35681671723d0870ae9c82318857f78ee6c66b371",
+      "inhand-left-stripe.png": "5bd06ba4749c90f5a66f56d39843d459f9dc0a44f630dd085cd172b8dbd2c45b",
+      "inhand-right-mag.png": "a2aa4e204aa9ed66b827a14e4ddeb7afd1ea801decc354aa4d1084905ee3ce0c",
+      "inhand-right-stripe.png": "df4cfb4c295dc2ff56aedcbb35cfcd2213beb4f5d10c35865fb1e6b6316a646f",
+      "mag-1.png": "f6c9152cbccde95fd15088bc19f95e7fc9944b351e745be2993f30652e2c3e80",
+      "meta.json": "1d8c514b4cfb6758bb5493a352e1726742882292abaac519072b49c56b60c4e4",
+      "practice.png": "2200459282f4bd1f404b1c52bcdf68d695bb5ad49b09d03176b0bbbdc7c6293b",
+      "red.png": "66ff766184c5b185c6667771ab5e454f101c1dd77971b3cabc001cb7ca4d20de",
+      "stripe.png": "bc3a67f950ddbdb1d918078d5af6e5ccff6974045c6abec3b7ec450efae63c2a",
+      "uranium.png": "791ce472fe0ffe59b61de8532caece157f5ee07c9c7731d7d8129919efa56ec4"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/LightRifle/light_rifle_mag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_high_capacity_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_high_capacity_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/pull/1684/commits/19e51caef09e78ca1122d26455b539ff5968d334, https://github.com/tgstation/tgstation/blob/master/icons/obj/weapons/guns/ammo.dmi, inhands by TiniestShark (github), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-icon.png": "a0c9c3df2ea3887a742a5aaa68f116a620b40575ef510ed88c1a568f2f2ab1ba",
+      "base.png": "52e06e88766aa79732a44261bd7c16fef5e3cbfca05f6933c813baa6fb98ed9d",
+      "incendiary.png": "3c43f06c7122ecf14c382ab6fedc67c4c5f8360d5a5c5fe034b6c2b269aa6b2f",
+      "inhand-left-mag.png": "83033d7ee927e41a4fcd5270977c4e56ba9e1ef7a3030b4202b06996f549f670",
+      "inhand-left-stripe.png": "f66da96e6faa9289f66d1488d7f4d25382cbd8ffeede197a9bfc2fc6ca194f54",
+      "inhand-right-mag.png": "cf603646611aac5069b45e340ec213d0041209d1ba45fb28cccb59714962d632",
+      "inhand-right-stripe.png": "6caf8c18544891a0f78d34a4d78b2438c37f0c62ed58d79878a2cdcfc9d46476",
+      "mag-1.png": "4f5b1fd4a4ef43a0ae4c65a38352d9635ebb15de93c5e1be3391f5f3045f30b8",
+      "mag-2.png": "2222e3f5bf4ac057b99ecb65e6604a04b3e8d34612bd162a03e4952985cc36cd",
+      "mag-3.png": "8953925fd3ef0e8a92dc7bed2ae426f05b3e0112b159ccc5784d86cc8e3c3ee3",
+      "mag-4.png": "8e2d07ff81326c31587df467c868cde78716dc7bb13ae1de11c142df5475768f",
+      "mag-5.png": "6133ebdf70dc9b61ce4be6ee90da85874c88111a915ba97895e22905f601f491",
+      "mag-6.png": "a8d6ed813b0aff86c5b4954f5d7203f16df61e1fa0c50ef352f552653e96227c",
+      "mag-7.png": "49fd1528d002257ec6089630475758b3fffe40a30fef31467e455489bfdd9ff4",
+      "meta.json": "35fbcfd3533dd10ef0a3963b9ec202b1649039b59ec0c2d700f683b0b27d9519",
+      "practice.png": "84476df44e5695d1feb57300aae5ba0a46a42b47cb1ae55b0864a71b69975e9a",
+      "stripe.png": "35874c5158fe40ca7c42f4dc90de34be6d8a27609f128a14fc36aa4e77fbb62b",
+      "uranium.png": "ec2c36a04afb60277927aa61d349602da1e45bc1a3fedff407813284100a3ec6"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_high_capacity_mag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/pull/1684/commits/19e51caef09e78ca1122d26455b539ff5968d334, https://github.com/tgstation/tgstation/blob/master/icons/obj/weapons/guns/ammo.dmi, inhands by TiniestShark (GitHub), stripes by SeamLesss (GitHub), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "700390d0b5dee3d33992ebb85da9d94c93265b6553b960626caf1100fab47ecc",
+      "incendiary.png": "c03941fccb0ef0766b8c2cb9596da808db554a10cf4b1514543158b44c0e9ef2",
+      "inhand-left-mag.png": "934195577ca13a82a60640662f5d9ed9b4565463606c241a964e28bf0e20fafb",
+      "inhand-left-stripe.png": "1a4149e2e897774f3118072bffc1b15efaa97e2717b280f88bb724e7fa9ec668",
+      "inhand-right-mag.png": "f45e4ba6642f7bc7f2f493f8b112a259ff5373256f828a952e80f53fc526b0fe",
+      "inhand-right-stripe.png": "84b9dbfc8c90c73fc4249a29e34ad94174fa2ba67b87faeba0edcf86dc96ad7e",
+      "mag-1.png": "8f8db7ff96dfc8c3d2dbcd1085b0f12fbe392b477696c01bb658e93757299519",
+      "mag-2.png": "cd33dcf2988ae05f87dc0075fa315a89eca9ac38cc56dc7b01e16e031fd5f0de",
+      "mag-3.png": "a16e41b8b816cb9f7cd3e8067e3a36f08b2bef1b34bd16cde56d9c3eb442f327",
+      "mag-4.png": "b41b1769e62b3cdfb3fb76743c15d0e41f610fe4615b635be433a618f84ce52b",
+      "mag-5.png": "ded5c9b71177155dcf84d858621d1fd454589e9a9b1f3e45fc3436942c9d183a",
+      "meta.json": "7eb1a83d34aebc55bbc1392e0139776735d7c898c03e213f2a2187695a161f56",
+      "practice.png": "34427c3e7ec5bd3bbb362425294da4a67e07ac6ac2a9e4deffc096cf34e9db9c",
+      "red-icon.png": "700390d0b5dee3d33992ebb85da9d94c93265b6553b960626caf1100fab47ecc",
+      "stripe.png": "c070a0833693c6de8ac7b84b7fcf704f4dc865d2fd643b261ae61f238fbeeab2",
+      "uranium.png": "7280e5f65fd84c29cc8167a0faedc33ff0de87e4b3e851a3e765b1a13ce187e7"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/smg_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/smg_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/pull/1684/commits/19e51caef09e78ca1122d26455b539ff5968d334, https://github.com/tgstation/tgstation/blob/master/icons/obj/weapons/guns/ammo.dmi, inhands by TiniestShark (GitHub), stripes by SeamLesss (GitHub), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "a757fd004102c74e7a449333f956228dd0b247346247ee11a63593d725b75b0c",
+      "incendiary.png": "db57ac26bed934a729965ac58120a28d054d3a4ac509f964ddc7844a8000f5d9",
+      "inhand-left-mag.png": "0b87827a6e1b04b5c31b3dfecfbb662ef4412eeb9632a14416aa59ec3827a0fd",
+      "inhand-left-stripe.png": "672835f07c54d28cd6db146b4f17a9f4fb5cfc79c735d55baa96102cb1e8b51e",
+      "inhand-right-mag.png": "430e25f006843f37078193b8e0c7e0fc8a63c1fefa8b48a51284ad22b2c47329",
+      "inhand-right-stripe.png": "3cf9762699e722d5c146ca3cbfa92484006f7cf66b6d7358459d3f418a478b56",
+      "mag-1.png": "253efad5487de54c0ffd093b14659bf7f7516ad50f48d87fdf5701d412af2b8e",
+      "mag-2.png": "1b29a55a059efc3c8f395886b2b605fd79d3356e3ab82833ee9a83dfb37995fc",
+      "mag-3.png": "f3bfcc76da74bc69fc7e67deb35187613cb7a5bcbc74933f4e6fdf119cececc5",
+      "mag-4.png": "54518c8b6ba00937ee88350b4e600633194c362bedd81c86bdf328ab6d410472",
+      "mag-5.png": "94b4b539cea590aac3c9781434a255be37219caa549d99331b1a0ea85d33cff1",
+      "mag-6.png": "0e3ca49f5d4887129a99761b0b8b06c90ec5d98e8d2b65f18b5e7f963df1e90b",
+      "mag-7.png": "e71bcca8533176a0417e518d6e94e6560eabaa8d6ec0c754310728833a4dc4bd",
+      "meta.json": "0d577de5fa49a1c3eb96afcb541dfb90d4753144cedfc99eeb790a2f050b0bb7",
+      "practice.png": "322c89128e9f6bc654291245cd7ebaffde835b0cae8a9113035fd39a4011f5e0",
+      "red-icon.png": "03cb41165061f220bacceabff966b515756ac2e94c2f63ea1d1d8a0ebcede905",
+      "red.png": "6861ec80e2554e7d2d7ca29445ed89701d3b13bb6340d2e8ca40266aba3bbc3d",
+      "stripe.png": "05919c03c62d64a86bf2366793e6f9039bb75fe08f9c43387651ee9d2ace78ee",
+      "uranium.png": "f99c89887b896a71d4e0086d0da0e8df3eaedf524a175e3d54618fbcae9ed2e6"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/Pistol/smg_mag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/Rifle/rifle_mag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/Rifle/rifle_mag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "All sprites by https://github.com/august-sun, inhands by TiniestShark (GitHub), stripes by SeamLesss (GitHub), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "5a2134696ab8b56304fedad50380f5921d0f84eb6d1c1af0b8f8dd57a13d0135",
+      "incendiary.png": "40267faef4e90ceb6cf757052cdb3f501aa297475d0bb8094a12a27098509565",
+      "inhand-left-mag.png": "663848718a78a3971cfb64e1ee0b8d134941148396d292ae09b8e46ca8fefbe0",
+      "inhand-left-stripe.png": "862e00826a2956ff35dae4df51ae1fc19569cfc294513f8e916914d655db6e4e",
+      "inhand-right-mag.png": "fe1b7226cd3009ca27b699baa3589a672c57ad5f279360219a2af439cd83b928",
+      "inhand-right-stripe.png": "d74fd4c5f7b2505c02cbf51c1166c682e6d6ca72fc7236f102f02e24f32236fb",
+      "mag-1.png": "7f6f7a2cd3303aac132d8a4a5f8fd41520ebbdb9b4f187bbc52341f0a6a79cac",
+      "meta.json": "691a620a6e2ffa7613bcff0f4a8ebbd46005db7cf42ac147141860f5e37275e8",
+      "practice.png": "2200459282f4bd1f404b1c52bcdf68d695bb5ad49b09d03176b0bbbdc7c6293b",
+      "stripe.png": "bc3a67f950ddbdb1d918078d5af6e5ccff6974045c6abec3b7ec450efae63c2a",
+      "uranium.png": "791ce472fe0ffe59b61de8532caece157f5ee07c9c7731d7d8129919efa56ec4"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/Rifle/rifle_mag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/Magazine/Shotgun/m12.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Magazine/Shotgun/m12.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/pull/1684/commits/19e51caef09e78ca1122d26455b539ff5968d334, https://github.com/tgstation/tgstation/blob/master/icons/obj/weapons/guns/ammo.dmi, inhands by TiniestShark (github), resprite by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "42c3d50f98447d638e5b2f243527c065cdac54d46b530bb4819db2158c52bc90",
+      "beanbag.png": "c8ce6f19f4a3a5d27d60a928ad134885eb68d49c3cbe0a92585515dbcd2533a2",
+      "incendiary.png": "f915a392086f9263f4f04fdaa485a8426a2866b8e10175403926497749e10ac4",
+      "inhand-left-mag.png": "1f2c99a47e092a3e3bcdb4c999a49c3e00666033ec88fdf0143a28eb87a81be7",
+      "inhand-left-stripe.png": "84ff870a7fd8f35df32362a7f0668e6146b21af0ad8bb3521f505a397e803250",
+      "inhand-right-mag.png": "37b9596b12ca0056fb706aab42f5d9be41fb060a28a5cea0db07873fe597a0ba",
+      "inhand-right-stripe.png": "0e9c09d615021e933bef66ab4b4045ebf9af5b28838deba85b9aea9d0d0645e0",
+      "mag-1.png": "e762dfd88c88376a64b140e4888211705b6a301c738d89b982822cb379fc881d",
+      "meta.json": "d20a0f753ab8df6f5c377a784a3aa107e35e82dc5998928050aef7f17dfbc50f",
+      "pellets.png": "42c3d50f98447d638e5b2f243527c065cdac54d46b530bb4819db2158c52bc90",
+      "slug.png": "7c48fedc157856401eba614c30763a8a84f1fb563cda6a0eb1f0ce2ea2bf55d8"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/Magazine/Shotgun/m12.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Ammunition/SpeedLoaders/LightRifle/light_rifle_speed_loader.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/SpeedLoaders/LightRifle/light_rifle_speed_loader.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/d1120fc8287cca2632e834069b5019bf941a0170/icons/obj/ammo_speed.dmi, inhands by TiniestShark",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "42bed1f955fac6cffdccb5557d5db2531e96fdfa01d203b30e351bacddd5cde2",
+      "inhand-left.png": "97c25200e66aa7c2fad41982564c569c36eec6afa55bfabb3135bb131bdda2bf",
+      "inhand-right.png": "dd9d0f28974905ce7089f6054c5a4944552fa6bebba3d728e7e8438595eba0b5",
+      "mag-1.png": "77e084ebf8ca197388994b7359e52daf513ce3c65a560f8ada932d236fc92b5a",
+      "mag-2.png": "fa621dfe97d29a7cb7f0aec4802939810e9ffb7e9d210259514dc99cd4bc66a4",
+      "mag-3.png": "c7702cafdca2ae1bbffb3e7c4bbbad8ea472d5397fd4d510c85e32103dc5036c",
+      "mag-4.png": "ccc2643fc036d51c78b5d57bef21ca4c6a4c988e79bfe8b2bad3d0dc9b4989f2",
+      "mag-5.png": "81ad9b8e38894d8c26d145d5945c7f0b71fae7549afedf83e44643d983cd68db",
+      "meta.json": "f7f84ab8fe5e1a3fe83f1fd5f0e85e10c898787a1b7a136cabd9f7963dd21d67"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Ammunition/SpeedLoaders/LightRifle/light_rifle_speed_loader.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/advancedlasergun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/advancedlasergun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/1d0e3dde0f89e7926be32a3706883c3f003931f8, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "e83f158c775e941fef0399aaca344a3866e1fa29e44b1cf54fc564b2323aa90a",
+      "equipped-BELT.png": "0fd7144ad25a515dd47a448f8052fb6be46e8830dc5df77f303d4b27ab9dfdd3",
+      "equipped-SUITSTORAGE.png": "0fd7144ad25a515dd47a448f8052fb6be46e8830dc5df77f303d4b27ab9dfdd3",
+      "icon.png": "f0eda8322a1839679969a088413db416b1a79607c189aa368e20e0e7a991b90f",
+      "inhand-left.png": "187e8cafe1032d94683b5c2ce626b24cf0eff7150f95be82fe8fe070172ebbcc",
+      "inhand-right.png": "3cc7dcc980cec41ddedade341b59f66f5fe6bed44e05652dace9f2e77f65fc9b",
+      "mag-unshaded-0.png": "5c7dca678e541eba786052640055c6df67e7f454b2cff805beadf8c4be2236b4",
+      "mag-unshaded-1.png": "be04453e6cbe3af510dfbaf65cffa1e85cc04cc252adb4b610de2683d765d63e",
+      "mag-unshaded-2.png": "36cea146ef5ce15d054c24a1043becf1ef97ebc10af6a8b09a5f411934db9fea",
+      "mag-unshaded-3.png": "160d746706c1867d42f9a0bfa9204092e9670a8fe2d983364467b82d4b89767d",
+      "mag-unshaded-4.png": "62afbcbbe51aef0c0b21251f69c8dae748b9393ccc58a786b7083c17d388e8d4",
+      "meta.json": "92f4b8d2159619e7172a6d2324c420290a67c93f58e47bbf67adb99ff9bc6289"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/advancedlasergun.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/antiquelasergun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/antiquelasergun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "icon by RiceMar1244 based on icon taken from tg station at commit https://github.com/tgstation/tgstation/commit/8b7f8ba6a3327c7381967c550f185dffafd11a57, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "f4bca712b3f7daf0f50fa1d45f22f8e2a729baf5e64fd0c78137c191cd99c24f",
+      "equipped-BELT.png": "b7170d158ed53993b5e1f1f391b9c540589a4e8152c30beaa16359f28bd88c6d",
+      "equipped-SUITSTORAGE.png": "b7170d158ed53993b5e1f1f391b9c540589a4e8152c30beaa16359f28bd88c6d",
+      "icon.png": "a8a19f02bfc99ac92a6e4d6dfd569f4695d04034f4794c9add40632bb2ecc8ca",
+      "inhand-left-0.png": "1d34941cbaa34ed2cb92421dd9865b99d857b020b4a4399c3a8c65410eca55ac",
+      "inhand-left-1.png": "40fe2cc6ed9d3f006a4ca5da3d1116b9724f67ddc8ab90778192141ec0ac621e",
+      "inhand-left-2.png": "20b731b60535f408c40d15f94977f03b8cdb17063d5c4c80fbf15de6c50ef10e",
+      "inhand-left-3.png": "781ff0fadac35827be47feadf92833a90e757b94034a3c8ae37ef3ce8e74e776",
+      "inhand-left.png": "01dca775704ffc3120b7b183a896ba0effc154e761cc3f5b1e80980787b09caa",
+      "inhand-right-0.png": "2f72e2ce52e241a237ea7a962e303c95fb063a532404cbd2e6613af558416356",
+      "inhand-right-1.png": "108d25ead48a046795348a395f671adf24402229b811b58d4bf1515c315e73e2",
+      "inhand-right-2.png": "6c2335b7d5e19c9dda72ca8fb50f1d3a2b70a174343bd282bc68f9d043da6a15",
+      "inhand-right-3.png": "672b3c8ca956206b3acc01f0e71361863aab5f4dee08163568ba6cb6894e87d3",
+      "inhand-right.png": "1c27917efc67eb9a915d403c4e6b204d5e3e44b0ea6ef01eceb5d75d9440a967",
+      "mag-unshaded-0.png": "1781931b2e3252220d6cb54d37bc33a3cb7c457be22717d7b5f46f8dd1f3d668",
+      "mag-unshaded-1.png": "f8dbce68dbb1683be11578b9fd93dcc4d51bd6e21fdad3984ac87d8e5f71e09f",
+      "mag-unshaded-2.png": "d0a5506f0ef7547b10a5906b211576d014d500b868980d6bdf99268af63a392c",
+      "mag-unshaded-3.png": "771a980e1fdc44634b0851085702c112200da52b99f1bf377106411f02b7a203",
+      "mag-unshaded-4.png": "2f378dee2775e4298e63781a5827eee85dd81d9af5a2a9396c1703a637288c74",
+      "meta.json": "66b3153aff5ae1fd8a3e8bf25ff182ee85f478544fcb40c10ab8273e18236220"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/antiquelasergun.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/disabler_smg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/disabler_smg.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/26818af618762ff52319b3417be8cdc1279e99b7/icons/obj/weapons/guns/energy.dmi, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "dafa62cba34a918cc15689ea11b6a5673bcb5878b45d2ed5c4afdc0eb3166757",
+      "inhand-left-0.png": "d28ba232dcfdd37e9526e6ff93dc4acdda71664bf8c2cfb2f88572eb32778e7e",
+      "inhand-left-1.png": "89aafbcafaa20e76279eb57f3edf44b5bc469897ea462951985a4636ef2231ea",
+      "inhand-left-2.png": "40f450a7b0bfd1471e8c6722b0eeb9f6e137d4fd08ea6f948117a8ec1d87200d",
+      "inhand-left-3.png": "a331657c389a083ae9cc65f57781ae2fe4ba5dcdf3eaefdd9d32b8610512dd56",
+      "inhand-left-4.png": "f0b3ff66484d258a40e83c9d9d6f19ceb9546e4fd2278f0900bf873cd8c72e0d",
+      "inhand-left.png": "f0b3ff66484d258a40e83c9d9d6f19ceb9546e4fd2278f0900bf873cd8c72e0d",
+      "inhand-right-0.png": "04acf87652a7dda8e37ad8975cb1bfa28d7250640160155ab0e9462c079c81b4",
+      "inhand-right-1.png": "c92175df8d8e8cfd0f2de62d3f03d97c545933c09fe4d560b1d69d778fb8f526",
+      "inhand-right-2.png": "a8ea76d60ce336e7d6f3566ec8c6e9acd52119da2a454dbcd70a33af6ca0b1db",
+      "inhand-right-3.png": "3e596807ca431aedf02e366684aaf357b3e9b5f4d528d7f53089a4e84f1f0d9d",
+      "inhand-right-4.png": "27bfa68db94a3a0a52343a427b06d6b2d294ea81a80d8246aa746f9d2df935f6",
+      "inhand-right.png": "27bfa68db94a3a0a52343a427b06d6b2d294ea81a80d8246aa746f9d2df935f6",
+      "mag-unshaded-0.png": "9ececf2e47ce8997a2f26d9df728ebcc1a5cc1a3ed802dad07eba36d0e2ae0cd",
+      "mag-unshaded-1.png": "a79502ce8cf7ef630bf056f4f88624ebddc6322cfef3e8e629153a14fec1661e",
+      "mag-unshaded-2.png": "f24ac2272d53ef9b4989d4438c0d89b230020df14cfc1f3e67f5fcd071d0619e",
+      "mag-unshaded-3.png": "77af47b94730cf06ada22e6ed450db3395bc4b61be8f8f98a02b569474317508",
+      "mag-unshaded-4.png": "331e2f72d4bf6da4e48cf526f2a9af158e5b4df42d1ca48849c08ce747074ecd",
+      "meta.json": "5853b29b41637f2cd11be9b7f6fd798fed5985d9e6daf569bf7507fa2015c4e1"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/disabler_smg.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/disabler.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/disabler.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg station at commit https://github.com/tgstation/tgstation/blob/832ae532766d491d91db53746d15b4b55be3f2b0, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "372b2b1cce8373cb0e6c94a2a7a67d6374199380bb1cc48143671c1876d115eb",
+      "equipped-BELT.png": "d207d0e17a0a1519b85e7d6c68588054f6f37a5568ff1d5678af3a0305e74382",
+      "equipped-SUITSTORAGE.png": "d207d0e17a0a1519b85e7d6c68588054f6f37a5568ff1d5678af3a0305e74382",
+      "inhand-left-0.png": "8f4050092b41e86a06de1536c693c85f3f3efee2b1e0a74714f2cf56fca474c6",
+      "inhand-left-1.png": "cc5dc55e0a2539ed10d9a7c5b413578ea64e24971a97d184fd131b934b2622ce",
+      "inhand-left-2.png": "cce1a0185c4ebf9fe2c81ab82dd41582e21a002893953bf7f3a386a9201c512e",
+      "inhand-left-3.png": "49e4a6256e30be1a30c78e5c80f3e2fd992100a4cdb9e51430e5d48da6ce6ff3",
+      "inhand-left-4.png": "146d6e6af2d7350d4376c656bd25036442a7f9aa261c92bafa4b15b4ffe3f202",
+      "inhand-left.png": "597dfe917d9085d6b364f2838040462943a5b5aab8b74d741071cb4b00eed6c3",
+      "inhand-right-0.png": "ae26f2d10fc3563f00acf8c492d75de945f89ea790be95df021cd98f53c6f1dc",
+      "inhand-right-1.png": "0bbe6dd4458c8346abd4fc8089cee5255c0f81232a0daa837fe884c0d4f64ff2",
+      "inhand-right-2.png": "0af0276e9b44f45fa2c7684697a7a0ad6e3c03e061b6396286c2fe7cbcaa92ab",
+      "inhand-right-3.png": "9083250c9be525ce6d100107ab5d5ace1f9879193bd57733b2afb19080527bcd",
+      "inhand-right-4.png": "41c59b5060a5740a471875158151d34fe79815b2e9bbff375e530ba6630d9815",
+      "inhand-right.png": "ce22884ecc45f6756676a87ba3093600be15bf8165c55c89d3e6c366eecba668",
+      "mag-unshaded-0.png": "d0dd049764754c4b893c094323bb018906f4d9bbdc24c38ae9019366ffb71035",
+      "mag-unshaded-1.png": "22cfa750f52850d2b1c02a66f6575779bd560b1a0329e60c1c6c131f9f90551b",
+      "mag-unshaded-2.png": "800f504f69755e2432234ec4b5469dcd025cbad1168774aeb50d91c3621e0bf0",
+      "mag-unshaded-3.png": "ccb79ce5721421a18d60a4f640316fe2e04e5526b240320763cea1b692737484",
+      "mag-unshaded-4.png": "6d8be530450d628c7c35c092ae31912e0633fcdb41c851e9732580647935406e",
+      "meta.json": "c41ea9243ff3e670a936d1ef0cba6fc081d3a72224b5bbaabe2b106a9b84f587"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/disabler.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/laser_cannon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/laser_cannon.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/commit/125c975f1b3bf9826b37029e9ab5a5f89e975a7e, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111, wield sprites by RiceMar1244, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "0-inhand-left.png": "9b7e0db246450856a0a6083b249ffd6a12d799d10f795f07c741677db4411ff1",
+      "0-inhand-right.png": "e85c11c039a0db6fed4c9406fdfa1b615066cb6ef5871e1061e46985a6ff659c",
+      "25-inhand-left.png": "196080ad80d7465f86603c17e81f4444dfdb442f2ff974e94cb3a559b6dae1f9",
+      "25-inhand-right.png": "91849c84caf31872f6f1e58ad49648f2d47cbcc2b175709e8d86e6bdf4070b31",
+      "50-inhand-left.png": "31a338aff376cb99d04472bc02317a302ded0f3192414fc6b73e921b141301a4",
+      "50-inhand-right.png": "7353f8c7ca8828cab8e5ee8d0b9666538c930184d9d1c41b812499fffe3bd425",
+      "75-inhand-left.png": "8979279ccc778163f3ea16977ef39cd02067374dd3ccae51c8d65ad8a1b00c74",
+      "75-inhand-right.png": "bc5837abb75387262034090794fae6c02140e7a48e84fc508562191c52e6dc32",
+      "base.png": "28648587cb48eb7bf4770a3d4c6c83f84df61d371baff8aeec7cf839c56ebc0f",
+      "equipped-BACKPACK.png": "d686a1d1566b7c2908a587cdaac3f112c02b142cbaee2cd960a80bcf244b6a0b",
+      "equipped-SUITSTORAGE.png": "b4a6ba3d931e8ddc69adf05cd30a42b24185f1bdcb24c670a417e06c269222a0",
+      "icon.png": "c3e57ab9b0fc191ac2bb3dfe6a4f28908c4368f280f5a6ed56258f6b4b57a829",
+      "inhand-left.png": "98a0971dc19335b628e223479cc2d5eeb416df9ec3388688ab4e25499c9a7aff",
+      "inhand-right.png": "74e25f8f80cb8563be1505cb86fdb62f760a65f2e010bfe20c6e4f7d41041c01",
+      "mag-unshaded-1.png": "58590eace4b1240bd2899a912f118962d2682794a293d823fbf20c8a5ddc0e09",
+      "mag-unshaded-2.png": "e69481b5615596ef029ce322167758f07b09665e7575369c3e70bf9cdf917f1f",
+      "mag-unshaded-3.png": "bdc842612eabed6c06896628e617f2f270f52ab9de4429a9be7ef9322d6a4c11",
+      "mag-unshaded-4.png": "29b318b1be8f120a71408f5ba9baf31b7eb501680e2116169d06e34db257674a",
+      "meta.json": "bc7cec2ba24144607beb093932b1b54e23c3275e3f9c87176d5f0d140ae0e188",
+      "wielded-inhand-left.png": "19cd1b8fd3be81f2a330d4b3e92c098d01e802970e9195f1b2fbad1e446a59b8",
+      "wielded-inhand-right.png": "00fc937ddf801c9ee5dce5e13c96db6bfe72ed24875af70724f12e94e6f65b8d"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/laser_cannon.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/laser_gun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/laser_gun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Polaris at https://github.com/PolarisSS13/Polaris/commit/9ded73fb85b9106d6bbf1c9a34d1d2fa27ee0e2e, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111, wield sprites by RiceMar1244, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "b06558a3fd67612a0bb2991134ac7b1bf74a92d402a3815ad745deea283cb70e",
+      "equipped-BACKPACK.png": "a6a7ad9a6ac72411502c84cd0fa831424f60d8220e06b82129a9f69a18531eb2",
+      "equipped-SUITSTORAGE.png": "63207075f67e4e8a2a07082884d4b62ec9e3ef58ca1d8340943da0f224400760",
+      "icon.png": "842fbbaa560ca6840febe2f750e10aabb345cec495e414452daf22fb9c32694b",
+      "inhand-left.png": "3dc3085af8dbb69ad84111e15325707a3d3bb242c14aa0c3d2a53feac0c38f9c",
+      "inhand-right.png": "80aa9cafff768a978c374ad7fa281b49885bcb3b95e72ddcd4f3db73bab88689",
+      "mag-unshaded-1.png": "fa2d20197aa3b5f941c7a752b25e3d41d9b8b6987fe599551caf8655bdf7862f",
+      "mag-unshaded-2.png": "ed3ab0a0987981e4145b2ed9d86406c6d88d0e61cb76aab333fb11249e6c328e",
+      "mag-unshaded-3.png": "45e1835c7d11287f92498f4eedfb2850052d24918d448cf239561ac87970ded8",
+      "mag-unshaded-4.png": "0470e1fddbb391bdb2f3b6bb94ccc4fd261b26a3af4edccb073b2052185ed060",
+      "meta.json": "283d5fa705abdf634aa57a827fbc0d2087dca3f1586f18e3233ff6d5d0e919e2",
+      "wielded-inhand-left.png": "a946d7b73042bed9957323ced1dca0ed7cc48cb04ad41313cdcb06231030b572",
+      "wielded-inhand-right.png": "f9358fd906ffbaaf88f746c0d46bdfc6bc77d4bdac8214db18f20e74e4d08c93"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/laser_gun.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/laser_retro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/laser_retro.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/commit/125c975f1b3bf9826b37029e9ab5a5f89e975a7e, resprite by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "d4623540164939617a9d4a5d681e41b27d28e278f4fedab83cfe73ae3d50e75a",
+      "icon.png": "d34463a1ef43f67ef71853f303bdd13a703c9eb28fc9d3d448f3955c753d4bff",
+      "inhand-left-0.png": "4472eaa871b8ce3af28e2b7b2a2e9477f74ba1ab8a0d1aa2927620aad051e100",
+      "inhand-left-1.png": "f28e223e316abd03a07dd7b06bdfb206b53e9ce6d337aac287cb9beafdb57dde",
+      "inhand-left-2.png": "81cf52a6659eceaebe5ab0cd08553d4cf5401cb2cd65bd4610b52ea98cdc6f05",
+      "inhand-left-3.png": "ca29100f40cd5c4c7ff888c206736de8389aea2b9bcc038abf442778cffd4d48",
+      "inhand-left.png": "ca29100f40cd5c4c7ff888c206736de8389aea2b9bcc038abf442778cffd4d48",
+      "inhand-right-0.png": "f2319c70728853706c62050870d3b6aa33e5abf17406449e9cd3b9d06a53cd13",
+      "inhand-right-1.png": "014f47fa3db79b79a80ba3f865ba8e6abcfe86f381e0bccf084a4859e2345775",
+      "inhand-right-2.png": "abcc4342d21c2e73684867d3d3694e1a58f3f90dd9c331175fae52cb1b39a09c",
+      "inhand-right-3.png": "afb7f3c655aab30b9fb67d7815a8fcb75f634fb6ee1129b64fe58710d626ad65",
+      "inhand-right.png": "cd8db1b01caa3e9f7b771eee3c60c141d7a7898f2fa4f5307b72e921e9bf05e4",
+      "mag-unshaded-0.png": "30f34a678e2f9de9ede273d2250b089665733a30733f95ab962355ab11776fbe",
+      "mag-unshaded-1.png": "86152cc662dbf1a0a60319de3ff6233c1b6541da52b5754a62f7be986edc0644",
+      "mag-unshaded-2.png": "d21d3a3c12a2e2c4754aeed68f5989333ba6aaa61bc568494894af79a0d0895e",
+      "mag-unshaded-3.png": "2236cba184510551f7adc5634b7a35004caba3ddd196a9dd5cab6d991daeadae",
+      "mag-unshaded-4.png": "0b28f0796dd7d36c8918cbb9e543706575a274488f6960340b27085d7cd3de5b",
+      "meta.json": "69cece578d6b604c610555db50ef9f1e92e8d9a71ac9652ace5a456b0b46ab15"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/laser_retro.rsi",
+      "_Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/laser_retro.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/makeshift.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/makeshift.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1b6831dab1e1a74c0d91f2229adb87abbb089d31, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111,  resprite by the.gypsybaron (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "ed88fc8484461323b20e58116ba7ff8ea9160c9eebfc7362397a26fc5f326920",
+      "equipped-BACKPACK.png": "fc321a4aeade7fa4c98f6aca3a76d66b3ef75ae49feb9a9a8f7faa7d1915abef",
+      "equipped-BELT.png": "e307394ce0032f6797d2889981dbded5d2c8fca68f781ce6cc1a2535b8de64fc",
+      "equipped-SUITSTORAGE.png": "fc321a4aeade7fa4c98f6aca3a76d66b3ef75ae49feb9a9a8f7faa7d1915abef",
+      "icon.png": "3decd8bdbc2b682bafa92397896a07727feedc1e4d253775b52486ad010af2a7",
+      "inhand-left.png": "47085c41cabf72ddd74350e2f39a807413154baabcc190bd4d7e607ebcbd77c3",
+      "inhand-right.png": "a08cc3fff869d485c8afab8705e5b8857eadc3f04f8784433bee1dc4e57c2c3d",
+      "mag-unshaded-1.png": "a84d54efff4e05a7f7c12b31e0b760a3d74162ec482246690ef1e3ce7760f784",
+      "mag-unshaded-2.png": "8069ee4484188ca8a3d47c989f32b9096a8fc8e910ec61d70e8fb1620fc74b45",
+      "mag-unshaded-3.png": "d7c80ccb5650aea0f15496095fba1cfc40e2d00d85f5a5b2722e06aed67b677a",
+      "mag-unshaded-4.png": "70fc61cdd3c6b2d4176ab6055fe86d88a7d095e0fb0d792419412bf5f88309b3",
+      "meta.json": "2b430e92a4c2bc2f3d0aac4067059bd31b5f1103a01f7c06151e905bab35e384"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/makeshift.rsi"
+    ]
+  }
+]

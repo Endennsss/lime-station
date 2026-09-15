@@ -2187,5 +2187,28 @@
       "category": "other",
       "reason": "missing-copyright"
     }
-  ]
+  ],
+  "cleanup": {
+    "policy": "Unreferenced imported RSI removed from checkout; historical attribution and hashes retained.",
+    "retainedRsi": 45,
+    "removedRsi": 16,
+    "removedDestinations": [
+      "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Back/Backpacks/syndicate.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Forge/Clothing/Neck/Cloaks/hos.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Forge/Objects/Weapons/Grenades/nukenade.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Furniture/Tables/counterwood.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Forge/Structures/Walls/plastitanium.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Mono/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Glass/external.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/basic.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/external.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/security.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Wallmounts/intercom.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/mining.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/solid_rust.rsi",
+      "Resources/Textures/_Lime/Imported/Forge/Structures/Walls/xeno.rsi"
+    ]
+  }
 }

@@ -1,0 +1,1250 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Bio/cmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Bio/cmo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8. equipped-HELMET-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос, equipped-HELMET-reptilian made by yri_nouri",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-reptilian.png": "44c1bae9ee9d2004d950d561d3619be0026028fdd3601d1678dfe783a6ccf7b2",
+      "equipped-HELMET-vox.png": "3951750788068e218da15e5a3fec705114c2ed0e2590291161b2645b4262be95",
+      "equipped-HELMET.png": "0e9ea8f12d16c1ea72a074c32ad9f45a07f55c19f34c5d7929a4028a7808fdca",
+      "icon.png": "d91017bd51b6569d38f36744d1fe071fce4475cd75071dfdcfe1379f309b8b85",
+      "inhand-left.png": "03c56192aca1f2f1a55223a60b96a42dd015f02dc83eecad1314f62f40bee86e",
+      "inhand-right.png": "3eb681d9bd86849cb254da8ec340c4c6876dce8e92e36d478a8dd4a20d00e499",
+      "meta.json": "a10d5b4ee9edb502044ef8ec45430e43f3d029cb5925b4c3dc0b814056451d14"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Bio/cmo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Bio/general.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Bio/general.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8. equipped-HELMET-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос, equipped-HELMET-reptilian made by yri_nouri",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-reptilian.png": "7111a3c920fe9d2b24b91e4d79481578cf864316eda5d519936d8eda4f3512c7",
+      "equipped-HELMET-vox.png": "e56b9d18de09cd64c41c5862f5f7201666d4cadd1ae6e43212b632fd577e5d96",
+      "equipped-HELMET.png": "0bf1322e588466a3815b63691224b8562de97adbc026e0d3c87b7ef0148a9384",
+      "icon.png": "d647da0f49a1a2f5af6b7e331150d6aa00875290cead67a1d9d56209009ded77",
+      "inhand-left.png": "95f41692ef0d5a210942da6da2e4ebb82fa4ed857a7f5a52431d14710a5cb4f5",
+      "inhand-right.png": "1effc36897bc3af3841f814bb4438cfc5043be5aec909f403b9db3416bfdbbd2",
+      "meta.json": "a10d5b4ee9edb502044ef8ec45430e43f3d029cb5925b4c3dc0b814056451d14"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Bio/general.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Bio/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Bio/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8. equipped-HELMET-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос, equipped-HELMET-reptilian made by yri_nouri",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-reptilian.png": "875950440c15a4c95cdbeac7dcb5f47ffc9c12e7af43c2e980ea1e963a523aa3",
+      "equipped-HELMET-vox.png": "627ca49612df2f02b6c1ee114f54318e135b353f0bfea80a2ddfd4c504b2346c",
+      "equipped-HELMET.png": "4004437a07b15bb47b3a026bdaa0f1dce6a7f37b4b6cebbf1ea9e2a098139c70",
+      "icon.png": "6715a94943686929f5b3c5a0e46bf55a6e59a5bbd434a9f9c9abd76ab3609588",
+      "inhand-left.png": "51d40c60f1363ffc2daabf5842f51e5191e5911daac25fe63f084bcfc0f269f9",
+      "inhand-right.png": "34dbb348694c16ff528f6b24f6472c698913899e6923b63d62309e7eb29fff53",
+      "meta.json": "44fe74246fb3ace0ec63971fc3b9a0940ad621f4616af06606b3895809a343e1"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Bio/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodcargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodcargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Gotimanga for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "104ec9dd14fea9f9284caf5c3bb0d6e9213159061d4e060223f97e8dc66e8977",
+      "icon.png": "f3f4ca657519eaf1fb8b5935b9d69f6ec6cf1af6200a0f2f345810e3fea86440",
+      "meta.json": "aee680d3bd3264d057475e7cc9192c5d993c2fafdb33a0ae05875c739b84f8c1"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodcargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodchemist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodchemist.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "62798e86c7648d7b4feba3e1c1e97c2bc50fbbdfcf8efdcba0f1eb8ee39f2f84",
+      "icon.png": "186b33902e8183dccdd72b8b753d421a911d999c01da3d95d39f70289f59a0ae",
+      "meta.json": "9534a5ff96efd57c970d9ab517d2fb84aae7c0ceeb48de4ddc70d1eacc32310c"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodchemist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodcmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodcmo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "f815bb95be5b46a163ed1740423decb3a0fdf47187a67bccc76ff8c5f309845c",
+      "icon.png": "2a1c8fc937b6843efd66e3b0972cf98da896b3ca590416f938c86f46fdb470d6",
+      "meta.json": "9534a5ff96efd57c970d9ab517d2fb84aae7c0ceeb48de4ddc70d1eacc32310c"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodcmo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodhos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodhos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Gotimanga for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "76d0f04013cdd0ddb13f781c1b730a9f69faf0b2a65b25be32fe9c6060cc5f7d",
+      "icon.png": "27135d51b020f84e492fc8f12f6f4614e36f4d71f2d8770aec9493d527697c70",
+      "meta.json": "aee680d3bd3264d057475e7cc9192c5d993c2fafdb33a0ae05875c739b84f8c1"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodhos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodmed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodmed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "f84a828ddc5049028e0955ba754f3b3192c1ec4f0620ec3e3aacabaa49da49da",
+      "icon.png": "75d4a023b3a2077c665549101f4ca070bea8e289a50bf3e64afa26d347c13160",
+      "meta.json": "9534a5ff96efd57c970d9ab517d2fb84aae7c0ceeb48de4ddc70d1eacc32310c"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodmed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodminer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodminer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Gotimanga for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "f922bf802f91fe1270ea71a301573ea1a4489d0005fb186e2d3907a2db73edb8",
+      "icon.png": "c3c045dc836ef6d8fce4f74f825decf02521aa7fe3c9e1ece5307e539d142e09",
+      "meta.json": "aee680d3bd3264d057475e7cc9192c5d993c2fafdb33a0ae05875c739b84f8c1"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodminer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodpara.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodpara.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "df25eb7af556a9d9fb6e1e0a67b183d299c8768489439cd3974c468cde45392b",
+      "icon.png": "e0d6b533d2fb6499b1522d8531bcf5a07f69e8a1f09bbf93d11a25ae4ab9d85a",
+      "meta.json": "9534a5ff96efd57c970d9ab517d2fb84aae7c0ceeb48de4ddc70d1eacc32310c"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodpara.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodqm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodqm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Gotimanga for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "104ec9dd14fea9f9284caf5c3bb0d6e9213159061d4e060223f97e8dc66e8977",
+      "icon.png": "3f3c5e6aed7204cf4c1a73fefcdaf480c85ec26967c39f372d36ba08799c7198",
+      "meta.json": "aee680d3bd3264d057475e7cc9192c5d993c2fafdb33a0ae05875c739b84f8c1"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodqm.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodrd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodrd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord), recolored by Akitovsky (github) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "7ea91ba11a17b370a25396e305ddb5bb49a449fc9b66fcd6add4c93f8d1ccac4",
+      "icon.png": "c92c237edf48f33b8a47ff65aa2ada0cc4542498bbd8c263f1701cba6abfb77a",
+      "meta.json": "d375a500ecda3f3fb460abd4552dc0b7ce065233d72ede0a0a4a8c8caf803715"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodrd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Coat/hoodsec.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/Coat/hoodsec.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Gotimanga for SS14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "03c615875c9d4a3d96cf165a80c2dbb63b633f4097fe0138194657afedb4f876",
+      "icon.png": "a390afcac5969956219af89ff2c03de98c52fda683f57f35582a3ec1ab875607",
+      "meta.json": "5ebb69425e66bad40e94380b1bf73dc5390cfbee53ea5edd120a8d6d1f593abc"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Coat/hoodsec.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/rad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Hoods/rad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, vox state by Flareguy, equipped-HELMET-reptilian made by yri_nouri",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-reptilian.png": "da57b63df798f48456032629d933b37a0a922cdf4007956c52e556d4e9849348",
+      "equipped-HELMET-vox.png": "ac63ce6557178c9baa173bdf699c5732b98b722db211d53a002aed23f58c53bb",
+      "equipped-HELMET-vulpkanin.png": "5a96c0edee40df44e67f81b2b828381714cb01c7ccebdd25f3ed5db14fcdce19",
+      "equipped-HELMET.png": "0df26f226d467389ddbbdae7f5aade13dee6e824007057a3a5530a648cd052e5",
+      "icon.png": "4102382caaa1e5abc5bc3a07e58a9728ac973df882aa5f424ea05812c88efd6d",
+      "meta.json": "e3bb0f5f7193436363d5405c783e050fcfddb7565ee6288b0c0d35dda2b34dfd"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/rad.rsi",
+      "_Lime/Imported/Monolith/Clothing/Head/Hoods/rad.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/head_mirror.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Misc/head_mirror.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hanzdegloker. Vox edit by Flareguy, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "254ee7aadc6ec93a7defec027946ca9c7d25e2089347e43017cdab3762e6d734",
+      "equipped-HELMET.png": "b69b9d1740df3cc9fc8639d09e9483c9c3eccc20d9f567a881fec05e7605c275",
+      "icon.png": "f4779f562cbe08ccc203e94352ba60e9b4db8156313e97246a42507a67332eab",
+      "inhand-left.png": "8bf696e7476639cbf7330d499e3bfb25cbb7572de6592a0486066f96b739478e",
+      "inhand-right.png": "1f4d91bd406143647cb0a52ea598b6a59e591f1e88a470884336a2dab9326afd",
+      "meta.json": "9aea8668969a8f9c03011f33bb524824b18b9965f4872d4d01188008181a85dd"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/head_mirror.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/pumpkin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Misc/pumpkin.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. vox states by Flareguy; DS14 preserved base sprite attribution: Resprited by https://github.com/GamaYouNow. Vox states by Flareguy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-helmet-light-vox.png": "2701bb87a1187653c02fabcb8ebdf0c4a8e73e656d55dd74d2e5773fe87bcf81",
+      "equipped-helmet-light.png": "336858f40cb5264a4b3b35afcdcced9f9a750be70444835352780ed8235a49e7",
+      "equipped-helmet-vox.png": "c76588362309e6000f31ed0a0fb39ef20ab5a73ef98750ecb37c53f1fe73f6a3",
+      "equipped-helmet.png": "86b0b1dd3926ce739e4cfddb0bd055654b58e1b61424d0492d5d732e26e93b98",
+      "icon-flash.png": "9d059db8ab76dcdcc37b393727a19f77d543966d45dd1579767a3cab7fc9807f",
+      "icon-on.png": "209d1081692e8ef5ddbadeb3437c7f74c9c97ef4dc72c9f24412ee4b56c76e9a",
+      "icon.png": "963aa7ecba21695b8dd3d6bd19d8b05d34190226b60cef41a6edadffcdffb259",
+      "inhand-left-light.png": "357e076624d28a9fcaa991ff2a98eca46e1e395afa6e4baa3224069b640534f2",
+      "inhand-left.png": "940a6c82dc6fa53c645e250c6bf631e3de0d9aa9d48299aba92f4b23cc61f65e",
+      "inhand-right-light.png": "52cbfeca38b873b43948b0f24436520a0c3e3f5caf7e77e153987d1168a8d69b",
+      "inhand-right.png": "2e76b3157e2fad690a31227cb2ea86d83bff1252aeae03a88e1b036a46e146b5",
+      "meta.json": "662a2334ee9f07f9d2878d7bd5cf0850abda768a0ca1bbf3c1b0365979ff8b5a"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/pumpkin.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/pwig.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Misc/pwig.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "7f5b57dd1c588d338b9ac4db7441db4bad37859047af26e7dd62923db09515db",
+      "icon.png": "cb5b9d006525a86d6aa43ba247aa03b6368e0735c708b76f45d8418711ccbb09",
+      "inhand-left.png": "1a5a91b16ba7ba85e541cca6a7bf1ba7bbdd23d02058f4f87bc3fe736d230e0c",
+      "inhand-right.png": "f184f3cf8a18e8723d9b26b90679f4f78d430e6b75a8f2b07b4000ee374523f8",
+      "meta.json": "c6aa32b20866cbe70005d9597124cb912e65693acc4cc8fe3544a757dc9d0150"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/pwig.rsi",
+      "_Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/cargosoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Soft/cargosoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, repaletted for Space Station 14, Resprited by MureixloL, resprited by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "038f5680b82b3dd599bff64e07c12085ee6da01bbce6f0c04837988a11e84cc0",
+      "equipped-HELMET-vox.png": "5795c6754b00a87d9397dc5555476b8300687175a30f33d9690de38fab5e5506",
+      "equipped-HELMET.png": "d5df09bbc5e7849439d14dd7712be977b15e06bd0dcce7d933f39e73793d82c6",
+      "flipped-equipped-HELMET-hamster.png": "e689f50ef99997a993f3e39bcba3fdee17eb607369aba9debc2d0d74c7a945e3",
+      "flipped-equipped-HELMET-vox.png": "b290b70fd66cc5ef9ebdf259ea43fc623c8bbd832fc7500e25c909f4c7238edb",
+      "flipped-equipped-HELMET.png": "13a1b293fde82eeb9d955d9cf9c8f41a2d5da4e8c5bcee9e6cb599122d1bf814",
+      "flipped-inhand-left.png": "1d65679b9921dc2b679b5f5dbbe5ef22c52004ca7788770218612961ffa92d78",
+      "flipped-inhand-right.png": "dcd8740b25099436869ca3e702399d70e41297070b2382f96217662258e3fe4a",
+      "icon.png": "14471cf79015bd8b21fdb0ac21f2052207be9d4917814ea5f1eaf0a7c44c9dc7",
+      "icon_flipped.png": "ef3befb6f83c55464c3f3a6c823774eb8add1b1a237d256486a3d6d8c68191dc",
+      "inhand-left.png": "69b19bf72738ba96cb4c47d6aa963962e222e8b1d9911a7dd1235bfe1141f0f1",
+      "inhand-right.png": "b816a1faec564ee4bde150b1449dce53b1a0d01d7189a8b3d144dfe33ec99d0e",
+      "meta.json": "8947edfa925175837c5b849cf3bee780e574dad49ea53bd8cf55fdfdbfef28db"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/cargosoft.rsi",
+      "_Lime/Imported/Monolith/Clothing/Head/Soft/cargosoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/corpsoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Soft/corpsoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e and resprited by KingFroozy (github) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "d71a7eff7db6e52c076eadf7683acea2fce1f6ce45bb91132afaa856bb3430a3",
+      "equipped-HELMET-vox.png": "b5079d8f5d9374f4c31ec18cec4e3acb1cf1ccaf190499daef28b3ee9a9cfe13",
+      "equipped-HELMET.png": "05fa7d7b0c4b2f611b7656f0ec887b86c2e2de305dd06e80f5eb83456115417c",
+      "flipped-equipped-HELMET-hamster.png": "38a2bf2a7daf887789ce84e131684ffb9758f478954b44192b4e602a7da4132e",
+      "flipped-equipped-HELMET-vox.png": "0bcca9938000770c297b2f46654888c8c409a9d6494690b4b1c4068bcb7b172f",
+      "flipped-equipped-HELMET.png": "86ad56efcf354fabbf1da9d2f63e5179ce27c84d43683f27a2d9d3a876c093ed",
+      "flipped-inhand-left.png": "bfca170d9514eb0854366af9fbbac4466cd848012f67d6c25ee8f04bf6a99d0b",
+      "flipped-inhand-right.png": "8e2fa70ce0cf960917037d6762bc8856cba5749a5aa30bf4472481915faf0622",
+      "icon.png": "954ecd68d79540f32ff035242d1f72a9f959dc3b0b103f684eef3a63698e9e16",
+      "icon_flipped.png": "1a8e8e0c8d63902e75aaf549ad73a7b153421ef24d960833be77cf949bf7ce0d",
+      "inhand-left.png": "bfca170d9514eb0854366af9fbbac4466cd848012f67d6c25ee8f04bf6a99d0b",
+      "inhand-right.png": "8e2fa70ce0cf960917037d6762bc8856cba5749a5aa30bf4472481915faf0622",
+      "meta.json": "ea5bde2bfaf3a4b83cf144b327c94295c7bab6bef2d6f531fe76f75965128c45"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/corpsoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/paramedicsoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Soft/paramedicsoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by MagnusCrowe (Github) for SS14. Resprite by CyberBoich, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "7017614d89beefea49e8364c6ad0a0e3172da96544d9b821376f7d9d5084ccf7",
+      "equipped-HELMET.png": "1d3f4788a62e767c56b9303204da1bd52ef29f6daa45d8b266cbbb1a273b44bb",
+      "flipped-equipped-HELMET-hamster.png": "f0793dd10657b8edb08ddb9aa117baabb769b4ab06d40e283f99b82c90465d0d",
+      "flipped-equipped-HELMET.png": "ac6e54b324c29644cd0f12ad59d5dc732d637ada68a41033e9071e09b0e5ee3b",
+      "flipped-inhand-left.png": "b12ad25b8f3efff2fa5a17963a85816e66eaf5215b587e6d926584bc83b37a56",
+      "flipped-inhand-right.png": "21d8531f06094b7bad8b0824b44eceb88d9b77c7870128db60a7775e772f43de",
+      "icon.png": "f498be2c94e0462ca94385668a4ac44ce9c0964a215a8082c29088c012f87932",
+      "icon_flipped.png": "114d41014fceed9b232ad17d54ed7e0dd2045fea727f696539a74c1b562b7b8f",
+      "inhand-left.png": "646e341e9136b5faf523296e663f0bcf5ef1243a6ac9f40f9ff81612823c0ed3",
+      "inhand-right.png": "0ac31382b0a3dec70ec62f811cc4fd41c4526bc527897f1845d41bbfbcadb063",
+      "meta.json": "657de64aaf8ab23a5579bf64a5d1228bcbb3595fca6202a218edae91bb1f36fe"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/paramedicsoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/qmsoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Soft/qmsoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, repaletted for Space Station 14, Resprited by MureixloL, resprited by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "72c65e09b90750f8d4d1a9073b8a7d5c2118a1eaf0f0530ac7009d53c0d3e6d7",
+      "equipped-HELMET-vox.png": "a0487927f6f2f151fdbd371b79bd06e82b4fb49ba0e97c9378cea748e7eba7a1",
+      "equipped-HELMET.png": "9377f17ca829a0131057f2a210c55cb4d9e61bcb71bbc5c0b9b6599dd4875bfc",
+      "flipped-equipped-HELMET-hamster.png": "342675a27a10694641d5c6db9f88ec848da40aebcacc626d97f4737372ea6cb9",
+      "flipped-equipped-HELMET-vox.png": "f03807a615e24a05dcc812ae0920c21b51a9c70c3beff22be41e7b064ab23b88",
+      "flipped-equipped-HELMET.png": "8383c6d3dc0a6ed4147e9095de25b08eacb5c99fadcdfa826cd282edac908fad",
+      "flipped-inhand-left.png": "a6f8f04e8a5f963ab6cb6a98bc44bdc5d8360f980169ce4a4772929072d9d902",
+      "flipped-inhand-right.png": "d7862eb5529b3c7cc02bed82072fa583d72f7c93c14c1245f472edb50f85e335",
+      "icon.png": "dc7025a93f95627b7dbee5820b801883d38ad75a9d107e81f44026e689ea9a9e",
+      "icon_flipped.png": "e56db5b16faae74840cfe8b0c120ef8c64bc1b8a18a09f9bb4ac586ce8996a54",
+      "inhand-left.png": "ec88ac62c5ba75a3abda0f59e6d534bd4789605c7893c9463df0c662527a3037",
+      "inhand-right.png": "981c39b73e6a6cfa03ccb6dfc0cf6aa49c3c1ea4535d3524582b0fbb925cd83c",
+      "meta.json": "8947edfa925175837c5b849cf3bee780e574dad49ea53bd8cf55fdfdbfef28db"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/qmsoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/secsoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Head/Soft/secsoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, resprite by pyfya and inspector_jeleshka (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "1c66092ad02825ebed1b2432d25b2769c92f9be769ddceea21d5e69a1b0b5989",
+      "flipped-equipped-HELMET.png": "5cf67870e6fc23967e8a9c4a9bf580cd1003eb8ea0775d48d309818b0a60433a",
+      "flipped-inhand-left.png": "aacbcbbd1a923c79ae4f4f7166668946548c5fc376f5d587236c78acd85d8334",
+      "flipped-inhand-right.png": "854c2c7bd8661a2056f90060eb2d0bab22053585901f467a30001244e50db5e7",
+      "icon.png": "21c789afdb89fbaadd130d528b30907e1404e3a9b0ab8d10f229b855e2958d87",
+      "icon_flipped.png": "2321f2fad0b253342c32b4687bb74597546e9ca14676b142c4c3db732a38999c",
+      "inhand-left.png": "1cc8601e0f6f930a15d251342d9aaced96e88b09191b235a1c3dfe3f8effce80",
+      "inhand-right.png": "9ac726aa7888322535e419334b8396a165164e502ba218f494e6ec75e8e44b49",
+      "meta.json": "a6a5aa98ed5974343eb8ad9388d6479bbe9c5ec5b3326b2c8e63d90b117cbd4b"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/secsoft.rsi",
+      "_Lime/Imported/Monolith/Clothing/Head/Soft/secsoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Bedsheets/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Bedsheets/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0ec86b44b11f5e2f45137d9f6c851b8942a26aa3, brigmedic bedsheet sprited by RudeyCoolLeet#3875, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "7d62a86e4895c50b61443596f5bbb1d4c4d57d7b99084de8f8abc46ca7de365b",
+      "inhand-left.png": "fee462b85a60d35f0398ba913b6bbcc0d7b792744d30c2b26380f0d41e6dc213",
+      "inhand-right.png": "bb58eb294869645424b7561b87d8e3630cb1891cb72a40cf6760e661186a8fe4",
+      "meta.json": "c5e73ce9ade6a3d43e76136d1c385e468e2d97fedd31aa906043f57b3985a292"
+    },
+    "replaces": [
+      "Clothing/Neck/Bedsheets/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Bedsheets/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Bedsheets/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0ec86b44b11f5e2f45137d9f6c851b8942a26aa3, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "da38fa225fb823145c9e095d272a69249d039da1ed5632f6b948459bdfe4a928",
+      "inhand-left.png": "39269868c21e233c89d2c06892154bb811122f94db321504304ac26319397cbb",
+      "inhand-right.png": "efca1905073bf9dc3130375645f09a0de6f46443c35b89bef4e9dabfb84bb13a",
+      "meta.json": "a7b755b39dbfffeb776f4460b6ce5cd3728eaf1b40d901bc964dd835fea6bbfc"
+    },
+    "replaces": [
+      "Clothing/Neck/Bedsheets/hos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/cap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/cap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, remade by 𝚆𝚊𝚛𝚝𝚊𝚐𝚕𝚎𝚡#0912",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "9714e4f2a4e3408482cab0b5b69afe3b8855e608b4715e0254d1d82087952150",
+      "icon.png": "fae844dba84affb12afc13ee810c1cd6f76e75dfc2482373e19f259a2e1f90c0",
+      "inhand-left.png": "183ef414776b0a2d4f6e8745b917b4bc9a8562b3034cebafaf6c07205e13ed90",
+      "inhand-right.png": "86f79bc428a1e2c06a155faed71e12c764723d2c1d065ccb7fbf7b39c797eff3",
+      "meta.json": "4c937416669807490f25c1575ce643bb9176549176a476401eb8653c37ff1ea6"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/cap.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/capcloakformal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/capcloakformal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "3a60d53f2ee579259a38414ed1e2a89838aa76c4b6fde13e56f433bfe1735ea6",
+      "icon.png": "5c321c665a1a3a4f15be0f6771d7cd286a0a81f06f23371be2cbb73bdac89958",
+      "inhand-left.png": "183ef414776b0a2d4f6e8745b917b4bc9a8562b3034cebafaf6c07205e13ed90",
+      "inhand-right.png": "86f79bc428a1e2c06a155faed71e12c764723d2c1d065ccb7fbf7b39c797eff3",
+      "meta.json": "8d45f2103649f1c4ff339ee6fcfd349998058b160ef386dd49a27d6661745d72"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/capcloakformal.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/Cloaks/capcloakformal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/ce.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/ce.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "3037de0d99948fb7c1f49fac3d47d3c4ad11e4a73008fdc8a3a1a9a37e2e4b6e",
+      "icon.png": "c45785a1172e752b4555a3e780d10f1d099931db0b693c37f5fbf58e49f7be7c",
+      "inhand-left.png": "ec6342e277c765bdf29fb2823545914ef27e6e9eb5d0f6f43cb806fa9581922c",
+      "inhand-right.png": "fbcccbf1b1f8b53ed829cf9b9339f4148d347a23bdd14536b9d7947e2d0085af",
+      "meta.json": "8d45f2103649f1c4ff339ee6fcfd349998058b160ef386dd49a27d6661745d72"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/ce.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/cmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/cmo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "20cfd7ec860a7cbbab0285e73c95902be8eb456ba873138ebbff80b53c14d1c4",
+      "icon.png": "ad4f58bac06d0234a584cce1a23c96efaa1a537a12049a7af3fb2d5eb0ed5b1a",
+      "inhand-left.png": "1053d589df9ba65c09bec692f78bc3c440bd231a42c3b27bb18d278b8192fc8c",
+      "inhand-right.png": "58daf9c0b3f86696ec5ef2586e94d4cd3970d86240ac09a82cf530cb6746ba01",
+      "meta.json": "1ea42c7cad66a8fe0b40754106edc47fc8d59fa9cc2d94af0d79e1f8de142a97"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/cmo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/hop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/hop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, remade by 𝚆𝚊𝚛𝚝𝚊𝚐𝚕𝚎𝚡#0912",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "12225909208091a550633c51327be0f76ae5062224ebcd852e3397211ac01428",
+      "icon.png": "a7c117a89a9f74b472ab7722539bc7ec89a50a0ecea58eb2214c923f01a00a7a",
+      "inhand-left.png": "fe5102c329887ae3a2331e5756ff11fd4cbc0bf0003d3c4463c4e453a0988fec",
+      "inhand-right.png": "a361fb3dcf70c0044631ac0bfb3a171b23a69692029f519633ffd2cbee13e8a4",
+      "meta.json": "4c937416669807490f25c1575ce643bb9176549176a476401eb8653c37ff1ea6"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/hop.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/Cloaks/hop.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "386f9b4e805675ea33b622a9b5661993453ffbb275e7a75b7cbb42f11754a282",
+      "icon.png": "4ef4a0ab7e18ba6698280cdafade397eaa91a673e801d63796832b1d300d88d5",
+      "inhand-left.png": "2de250c9206c452274bb0e0a84c302e743b2f48599776626624bec203dacd082",
+      "inhand-right.png": "0aa3f7f1d5e01b500f5e5c8bcc09b320b2371b218ec585c5555280242f63427f",
+      "meta.json": "958f49e90293a912b21f46077227bbb1c460661bdc0fb5141a3308a25904e221"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/hos.rsi",
+      "_Lime/Imported/Forge/Forge/Clothing/Neck/Cloaks/hos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/miner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/miner.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/blob/master/icons/obj/clothing/cloaks.dmi, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, resprite by yri_nouri (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "363b32128be281da062bdb9e579fdba89040c14ecd7624d3a161c96081040c86",
+      "icon.png": "d28f0cfdb0c2d10fdf781d79ce3da280abd26231eb45cdde0b16557b6f7dfeec",
+      "inhand-left.png": "2bc76371e9940d92f97418b1327d5718705a5d35911f5ef12be70196cf7d53b5",
+      "inhand-right.png": "4151a534613d4e6a64c730e3f2903b6324d23cf5cc58357ca894712d283a55b3",
+      "meta.json": "4fcae22468058ee71d19723debc498db5177d58ef628de8f41ce5d75077c7e6e"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/miner.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/qm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/qm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, resprited by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "14e2ed371f392a1a3f2fb1605b7697e1cd6f305fe2d999785f50e73f48f7c6a3",
+      "equipped-NECK.png": "4b749cbde7e40ae179fc684c690b55d9027788c1c56ae247073a745c04e92057",
+      "icon.png": "cc865e8da8548c288cd71ea4fdb28069391cd491bc05d006bcdb043fa71f2eac",
+      "inhand-left.png": "27316a1acce240ee997d62c78684177409666beb2f33cb350128fc184dc52835",
+      "inhand-right.png": "83d97c562dae5eb4f7ca51811dcf4414db59fd90deba59fed049ef48ede5478b",
+      "meta.json": "6285f45d3d2206501b0dd3cddaad30cdac01c96dec57c40dabf2914f02ed1221"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/qm.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/rd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/rd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8 and resprited by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "ff7cd56134f296c440ab351a46412422184166414b6fb25b3da139a0a0c37ebf",
+      "icon.png": "cd13a1acb857a0078cc8d93518358999be262befc3f07880acb2aa4fd06e0e2f",
+      "inhand-left.png": "6218788b7cf96f699bd9d99fac204d90fec351e2487a584287c00fd0c23f0a85",
+      "inhand-right.png": "3ea6642e372e8d37e5b48b19b0d95b86a9780dcb8a28c62fb7f28cfa1d429477",
+      "meta.json": "2bb17f1e461373ceed7cf4f90af009ed9ceb386d5177e276e97c509360906c77"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/rd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/qmmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/mantles/qmmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by timekor (discord) for Space Station 14 server Мёртвый Космос, resprited by semkagamez (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "2224fbae49c8ad4c75c80145ecb51d414f71ac44636cf61cdf33e8a2f7f1cf31",
+      "equipped-NECK.png": "2f910a2a2bf09f63ea5d184ac4609c5170a17504f5ec8514322f0323f63b13db",
+      "icon.png": "b90c4164236679dd715d1c1450bb522e00128c1b4d5a201fe1eaa06a8701ddeb",
+      "meta.json": "5ebdf4346f2b123cc8c53d711aa19b4b0d006cf5744a6af532021555c9504bdd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/qmmantle.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/mantles/qmmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/rdmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/mantles/rdmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "804cf6a9468e686f891649dc5f0f445daf5a847f5be14ff5205dd2622bc572ff",
+      "equipped-NECK.png": "d8203042250726cc9659070524f4c884305111bdd52f4e2455486fdfb09a195d",
+      "icon.png": "31d58cb986f4aa0b0d82fdab72bfd4f1c3159e271d7372af2f8f3c454e012f6a",
+      "meta.json": "b0e7f345a2c6adf971a5666bbd474f9a1f08125eb07e79e2304418ce0ddf387a"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/rdmantle.rsi",
+      "_Lime/Imported/Monolith/Clothing/Neck/mantles/rdmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Medals/medicalmedal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Medals/medicalmedal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by AsikKEsel, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос, inhands by TiniestShark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "d4e76da85e9a5bd9e44ff98ae422f1354de07fbc85fc02432f6682bfce8e3cfc",
+      "icon.png": "124fd19f7fb5bc55828a5b1f65ca86d84ec9b723581abbd794a44dba26a6448e",
+      "inhand-left.png": "99104af68d25d2769d3d68408f44fcfaca1c7b4dac333079e603ccc02e588272",
+      "inhand-right.png": "d909b62da323474cd40125aafa4b9ed7ceb1b2cce7c9ab658c2854a58425ca7a",
+      "meta.json": "d901fad76dee172f4a0e2391acc976be676654e27a9ed18df72919bbd3793292"
+    },
+    "replaces": [
+      "Clothing/Neck/Medals/medicalmedal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Medals/securitymedal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Neck/Medals/securitymedal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by AsikKEsel, resprite by gribgear (discord) for Space Station 14 server Мёртвый Космос, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос, inhands by TiniestShark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "825f3e08f775b7e19bccbe4f239b5b21dacb1619ac29f746f80939a0066b761b",
+      "icon.png": "dfa62e6e6ca8cfade23d4a8494ffcc62b0018f5033ae0d875a195ce45abce0f4",
+      "inhand-left.png": "2600e8fb419eadb7d7cbbfe96d9db1c5412b9f63b774f6b6ea19ac479297ba20",
+      "inhand-right.png": "b5d29fa8f16e75a3a74c51d8fc0c7cfb7d5b0f4d53c9a2f397d8e326ff69b111",
+      "meta.json": "e96c814e8ba4b7483eee8c9fd9c32f9547c5b329ee96446a6c4abd55db757b23"
+    },
+    "replaces": [
+      "Clothing/Neck/Medals/securitymedal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Coats/labcoat_rd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Coats/labcoat_rd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/84459/commits/d7a06347bbc21f5367008321fcd25eb26e67ceea and modified by KingFroozy (github) for Space Station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-vox.png": "040f583306ac27fe47f878ae29485679202d4306c46fd879faa3bb1fd6cd9621",
+      "equipped-OUTERCLOTHING.png": "336c5aea5bdfbbd348b89750badd1fac61065e39fc7e0923d096e35b00c8c133",
+      "icon-open.png": "1a425024ef06c1a5a3f2fb1d6203b693d1f404a15c187646ebbfde78a8cda706",
+      "icon.png": "1e16278b81907892215d978a8dd3ed570b59fbffd8772665a27bc7395ba81bf0",
+      "inhand-left.png": "50785e44a30158539189b6259af04797c8e12bd3d5d1b85402884f0347b8b4ff",
+      "inhand-right.png": "d0398134637a1fda9530ac24be56a7d0534f0585d4605d84e1d42d4c908f323f",
+      "meta.json": "a23595dc522f26e82799dea60e69a195d37f1dca1b28a4643a05289c52a79b56",
+      "open-equipped-OUTERCLOTHING-vox.png": "d856cf6c28b7f69665b754656e03a9405727f84fe82f0c4c4540e3593201d78c",
+      "open-equipped-OUTERCLOTHING.png": "17ee79e6ca022201fd01144bb3ba5cbbd005aea1d9d6fcdd1da301bb210c3375",
+      "open-inhand-left.png": "ea5303f66c0ce3fbaa295cd3b279b547215026b11a59552a81e6e3575f91a052",
+      "open-inhand-right.png": "1a52e54f528a342c0b815e60f85a935a5e24a78c797773f4b7db7fd0064d85b6"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Coats/labcoat_rd.rsi",
+      "_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_rd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Coats/labcoat_sci.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Coats/labcoat_sci.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8 and modified by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-vox.png": "6f89a5b5a73f64ae6fdc5abed04b4ae9fe265f0e2927bd5d4e87d773698ce4f2",
+      "equipped-OUTERCLOTHING.png": "1a23430b1b24900f30eedbfe0521c2525687c4b4320f8a39439087ee53748cfd",
+      "icon-open.png": "ac9d8f11b71ab867345691451a2e6748ab5ad41778e835412be428cf9f349974",
+      "icon.png": "40548e50c831620b87d332a2dcdf29b94e7206bce1b75f8cf623b1f228b2ed1c",
+      "inhand-left.png": "c4ae48ae7af167abee6316f28ee9ff196bdb374945488efb056be3cb8e9bede7",
+      "inhand-right.png": "0d61e93bdbf7c1a0b846ac1515cb27f7def6476b3e62bb07cd98a4d680ec2b8f",
+      "meta.json": "72d6b26dc97f42ba76f5828c555e030f8742b69c338ac2207a5eb18141f14d4d",
+      "open-equipped-OUTERCLOTHING-vox.png": "b4340976176f6e10a851f52d0bfff210e67350aafc2a80f888bc21158a15c8fe",
+      "open-equipped-OUTERCLOTHING.png": "0495005b5ae057e9f094f957890c21f9ca09a7b6ec1e0f81977e156ff26ae7f3",
+      "open-inhand-left.png": "4548a59e1b3dca942eb6ee5f43fa1d2a4583d667bc0e8cc7b2627ff57ec4c57c",
+      "open-inhand-right.png": "51aa11b0c72dbbbefd5fab750fe0d719c9849a13ec5279e262fdf2be5252bfbd"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Coats/labcoat_sci.rsi",
+      "_Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_sci.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Hardsuits/goliath.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/goliath.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya - yri_nouri (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-plaf.png": "506b31b0a0c2c171766f18bf70882f3141eb026139a44985b224bc961ab15d48",
+      "equipped-OUTERCLOTHING-reptilian.png": "7bf97772bb91431a4519baecf48b983232dbed68802118fc1e74c6be5906db27",
+      "equipped-OUTERCLOTHING-vox.png": "3c7fb90a60fc68a2cc4787c2f78191f44190d07a9563f535cdfa0e1417f0771d",
+      "equipped-OUTERCLOTHING.png": "ec6a890af2b189abee95111374abdcb8921e18c56da1023fecbfa7cee9915967",
+      "icon.png": "d2b3214f4f4091a3116b248406ef17e53dc91eace76aab038fb4350dae3921b3",
+      "inhand-left.png": "2acd7e6cb4339ce57aa0e470d06e9d54b6f29e5c33be3d2caabe21618481e740",
+      "inhand-right.png": "7c49a91b031cd78cb2863cf101e2008b415d508210744b6506ecb2d6b8e49ccf",
+      "meta.json": "26379d81cbb1585ac89dc89d4931a0657053f29ec047d8733c412d65c1ddb247"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Hardsuits/goliath.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Hardsuits/maxim.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/maxim.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya - yri_nouri (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-plaf.png": "877f88788157a6ac87f474c0132f202c8e12a2899400df51dc1309b6449d449c",
+      "equipped-OUTERCLOTHING-reptilian.png": "35bc5fdf74458082eafc9ff6bfe3735ed22eda27b7776be1eb5c91c8d175c822",
+      "equipped-OUTERCLOTHING-vox.png": "a2d6ca5d2b80a6a9cc2a212a321092db2eda01923fe252bac59085588733cfd5",
+      "equipped-OUTERCLOTHING.png": "c7721ec97c2c3cc5425cc41eeca0e4fee643a6a991dba64b044dcf93f9cef81f",
+      "icon.png": "0bb0ede098dd47a7564585ffc46fb612e130ecc386d46283003d4ffda6c9ca25",
+      "inhand-left.png": "504b54410e5fbcac135698424b2c445f31a473062e71a9de8649da767e1c163c",
+      "inhand-right.png": "bafb40471802c3c9105103dbf9b5e5a3794d8cd1a2c5b8728f691f1dfaf2b7b7",
+      "meta.json": "1eb807f647ee0cf2a504e132dcbb91444694aecb8b830bf7fff64e0a6521d381"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Hardsuits/maxim.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Hardsuits/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, modified by brainfood1183 (github), sprited(resprited) by Fazansen(https://github.com/Fazansen). Tail sprites by Tiniest Shark (github), modified for Vox by TrixxedHeart",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-reptilian.png": "65921334d40c7f7c53d939cff9475ee22f0f5bf82f3d98009c101f7b37f91411",
+      "equipped-OUTERCLOTHING-vox.png": "788c417f5ee73338250d8ed00059f85f54269077b9734fd8b49f667b14a5e0c7",
+      "equipped-OUTERCLOTHING.png": "6680ff07c328a9dd239ce028917c86caec29708f7bff35e56bffae8a78b57034",
+      "icon.png": "3940278ec070f0f76ff10d2ab8295a33c2c6d5d687067cdc8608e0cd6153af1a",
+      "inhand-left.png": "0564dabde0b1abbd197eabbbe66a477ae9e951919be8cd2907af096cb6bc36ad",
+      "inhand-right.png": "940026ad50b0e7700834f6cdea37bc298960bed23a87842b2f2757635f4052db",
+      "meta.json": "4e462eb47abec280bb17c248dd3cad79851b5cd288fb50d8f64bbc6b13082ef9"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Hardsuits/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Hardsuits/paramed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/paramed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server РњС‘СЂС‚РІС‹Р№ РљРѕСЃРјРѕСЃ Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox state made by Flareguy for SS14. Tail sprites by Tiniest Shark (github), plaf-reptilian version made by yri_nouri (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-plaf.png": "8dfe38bf7a263139cce8adb3437c9bb27edda7360e316a118d909c9124f1d720",
+      "equipped-OUTERCLOTHING-reptilian.png": "43912d1cf88b080d09b5ddb0b9b8c75ac762aaee3b4520cac63f77e61ff5f564",
+      "equipped-OUTERCLOTHING-vox.png": "30e586d8eb66260635466875e59a6258f4ec9aaea374a591bd4912ba154969db",
+      "equipped-OUTERCLOTHING.png": "fea0d7187c354f164e211a46407821a2ba9faaf6f08645ee8e0a0a6a952f7390",
+      "icon-siren.png": "8ee2a702184819a00d8187c5ca0a1fd631ea8023bce02d10cb7bc24c9b5186d0",
+      "icon.png": "f7fd1aeb12398450632991cf045c5ff759ec9c025ad8ba1fd0f0992846bec40d",
+      "inhand-left.png": "883ee7e252337e1339fa5a1acf522ec1712b16e16fa6194e698ba78622eb9607",
+      "inhand-right.png": "d941d7381ecb711df4ba00ed526f3c8d3c3b2a51aa03e2599c0ea05d56b7f8f9",
+      "meta.json": "2de1a3312ee9ce1ad026215d0935572cefa5f6d907f01f2508929caa3cb620f8"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Hardsuits/paramed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/Hardsuits/santahardsuit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/santahardsuit.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Edited by StanTheCarpenter. Originally taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox state made by Flareguy for SS14. Tail sprites by Tiniest Shark (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING-reptilian.png": "0f7f77022bbaeef5f1f3fd0194ae0f7138c1b26261f0d844de46cf5efd7c4905",
+      "equipped-OUTERCLOTHING-vox.png": "73dd17ddacf66d7f68dfb479db484e7f0d033b89b36778b8250563e6f068aedb",
+      "equipped-OUTERCLOTHING.png": "442202ca1b7eb305624901747c9979aa7cb7e01c62281282602842afaebca6a0",
+      "icon.png": "491cfd9dd4346b8cf7272be38bcd8b14fb55a2ed31773076053e8d5960e0a91b",
+      "inhand-left.png": "53bb720814881f8a68f8ca3a18d3ebdf23efdec190b7d0ff5bd064f151dd2da3",
+      "inhand-right.png": "32fe8073fd743939a332eb7625e38a240c152fca02576995849795980751c26f",
+      "meta.json": "0b3fb5f165cfa33fc02d37868c1e3850983479832acc8595f1a91976aa956bf0"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/Hardsuits/santahardsuit.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/OuterClothing/WinterCoats/coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/OuterClothing/WinterCoats/coat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/77cff42b6c514e73881a885036be4b4dd2949f62 recolored by Github user Dutch-VanDerLinde, CAP edited by Skarletto (github), equipped-OUTERCLOTHING-vox states taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79 and repaletted to match by Flareguy, grayscale layering & armor by IProduceWidgets (Github), resprite CHEM, CMO, GENE, MED, PARA and VIRO states by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "ARMOR-equipped-OUTERCLOTHING.png": "8c6340e9edc37f93165dcf7d21723f8cd0113f93482b5ed6f42f3e908b6caba7",
+      "ARMOR-icon.png": "b9ee3c4dd81a900549361e7249026876367e20abb2cdd941c620b76aaad8ab5b",
+      "ARMOR-inhand-left.png": "c7b33eab0344d399527eb0b06d245c6b0712f03f983733e7d8bea945e511ef4f",
+      "ARMOR-inhand-right.png": "2fcfc165ad60b8a5c1978c23fe2b5bc25997c978b1a959aff1809fbea5b53729",
+      "ATMOS-equipped-OUTERCLOTHING-vox.png": "ff6c376a4b692cd83a16d252ed8232ebf4c689b80ba036a70b40572cf24dd507",
+      "ATMOS-equipped-OUTERCLOTHING.png": "bf82f4caa428f5a3c79806e3cfb4226138ebee3ae68ff52eba8da637f7f8f3f5",
+      "ATMOS-icon.png": "51301368afb50f256384f695e2f84fc6ccffa01e91bd9e9c4bec999362abafb1",
+      "ATMOS-inhand-left.png": "67db0dbda3e6b0c02a1017e8c2345e4dddcd566bd79fef94494498e4c6b3a638",
+      "ATMOS-inhand-right.png": "429e58e3d576f443094f36a5fdba2d1e939c64b30dd17742a0c88585760e6de9",
+      "BAR-equipped-OUTERCLOTHING-vox.png": "59ae1cfadf59ae66472ed71a71ff2ec38aaca60383394165347ddfa5d82f1d5a",
+      "BAR-equipped-OUTERCLOTHING.png": "36a66523738540d952fb323a3bd0f0deb3d7f2573de0e6364ef406965fb65b52",
+      "BAR-icon.png": "5a4ccf8315244e80376aaa60603a4197ebf70e490feb3607996eefe07a00690b",
+      "BAR-inhand-left.png": "4d71625801c85f2e8aec6a5dfc4d5a8d0155ecb9c5e3e1b94aa84f4b8bb0820f",
+      "BAR-inhand-right.png": "3215ba711d25b4879c57c58e1e8f833d6fae8563c29d0e9960e628318d1429b4",
+      "CAP-equipped-OUTERCLOTHING-vox.png": "075d7176fc1c000a7c4cc6812ffc76437fa1a6a9538cec2cfc12c6d8f7264021",
+      "CAP-equipped-OUTERCLOTHING.png": "2d39fa06d9187322b327aa31351b69100729ae606cad3afb824af76967394992",
+      "CAP-icon.png": "fc2df261cfa0eec1ee344f9145c83d4c12464510efb3d91ab0eff7504a683dc1",
+      "CAP-inhand-left.png": "21aff7b910c36f29f6ce596c7ce68f43b0128b9a522d4f0484015a1e4fdeeee5",
+      "CAP-inhand-right.png": "747416aa19e93ab29d71921ea229f5838dcb17d60676ee8f1dc48a335020a749",
+      "CARGO-equipped-OUTERCLOTHING-vox.png": "395b8c8194e403dfaa251eec5b5d0574305bd953fe5fcf7a12db139f0417d4b3",
+      "CARGO-equipped-OUTERCLOTHING.png": "37505dfebcd0c94fc5865827a9c1feb378af824f1a41f63613d8d4bcbde788cf",
+      "CARGO-icon.png": "299cecfc638e3fb355c0f407176c82c55f5865c88d0b26f8c066c1351fad27c4",
+      "CARGO-inhand-left.png": "8875c8e389970405e6336d0d7652f07f4e57c8373d1eedb8988e3bec509152b7",
+      "CARGO-inhand-right.png": "14959f14e588accaec925fa8dfec24bc409f5b28d5add6624f4acd186116309d",
+      "CE-equipped-OUTERCLOTHING-vox.png": "960ddf9cc1eb7f1d91dacef238a6f6b853e9933f0b653e59b883ff9cc65fc01e",
+      "CE-equipped-OUTERCLOTHING.png": "9fa2bfa26fb9b48c80da1cebec940f3dbec97098ae8e0dcbcf2557dfcfcbb7b0",
+      "CE-icon.png": "a41910917a9d0928150a5ae3b94a66d22dfa358103bdc756c51233bcd96ac703",
+      "CE-inhand-left.png": "9a1518585044336c1a5aad91d10c25b60a6c4b51353061c80c303e5eb58e90d5",
+      "CE-inhand-right.png": "9142b3b4219cfa1d562c2a08b5631cc03a71adcc35f054c1349e8de20e5893bb",
+      "CENTCOM-equipped-OUTERCLOTHING.png": "a16072935a3af576bd06dded17577402b44991632dcc12277f5048ab31534ac9",
+      "CENTCOM-icon.png": "02f9848c99e36d8f3f164eb6ed647162e1c04201524e753d5bdc0e25e37f1b2d",
+      "CENTCOM-inhand-left.png": "081cba0f8140e4ae699afbb7df581992e08d1010794fd9009f812123e7b09cc3",
+      "CENTCOM-inhand-right.png": "9f177b412046a2950d39c1e5d29d861db266e5df6d19b6dbf47d1d8bb3f068ac",
+      "CHEF-equipped-OUTERCLOTHING.png": "724ee4d7b23ad21d4ea69ad7760b74b9ba420573e628a072a7d471728496e248",
+      "CHEF-icon.png": "484bcf837a990c6de56f991294f042928d612cc2d09b0fc752cd5d479b0829e2",
+      "CHEF-inhand-left.png": "8c30e4e7716a9e38966439e75fc05687fa954557c261eaad3cafac397c1f656d",
+      "CHEF-inhand-right.png": "9ef1c8af87b6f00d11eba64cebb955066210d7739bfb2cdc669d1abd0799863b",
+      "CHEM-equipped-OUTERCLOTHING.png": "3d1a333f712040820a1934364c69d8d8ede399aa80c5cabd48e41434421c50c3",
+      "CHEM-icon.png": "d5da90c42f0104fa431deaedf9d5dde8c0602d75387b8262cad902a1711ceb72",
+      "CHEM-inhand-left.png": "12133efd3e78ed55bf55ed90dc9e5c88c43f51882c63e24fcecd50a798ef1feb",
+      "CHEM-inhand-right.png": "f43b8eb1ce531db3d03b576cf78a78d1c940bad0f9eabd3bc3954264c9886aa8",
+      "CLOWN-equipped-OUTERCLOTHING.png": "02bd9bacc1e016713065f360a0d19e0dbe58b2770816cdec6a1231fe3e1362e1",
+      "CLOWN-icon.png": "fa3e920d8cd822f46895619ba8d25485314a9b5ca80d44f645df7085b2bb0b67",
+      "CLOWN-inhand-left.png": "06efa346626e2c5d2fe1315eebfe373b23d5d8cd880a148602e6d98eab06f477",
+      "CLOWN-inhand-right.png": "aab55a4f964ed5026ccc14d7eb2431c281d0e7c064d4f1b0b8e6da34dc7773b5",
+      "CMO-equipped-OUTERCLOTHING.png": "9a4b74765a37f0045697f6a3a111524327e126d5535b04f7a470672e814c794e",
+      "CMO-icon.png": "cfeeca72ff0f3514213e60e0faee873ca7a500fd142d5d2c672a916ea504d955",
+      "CMO-inhand-left.png": "8562ad800360154dedd6f1241cb6ddfbf8d0a38621fbf2d897d56d1240b7c590",
+      "CMO-inhand-right.png": "e8839d51d0dfb81758bfd55cddca1d92e2c23a0347854b085547d228fba8ccee",
+      "ENGI-equipped-OUTERCLOTHING-vox.png": "e5e0b4c125665354ee45163f8c81553ff0f6360c386713513c0190921b6c359a",
+      "ENGI-equipped-OUTERCLOTHING.png": "95cc624059d54d454f7cbf5fe6eecdb3b9b52c63a7caf1be95ea25fc10e0b8e0",
+      "ENGI-icon.png": "e149ba1b2f06462b66c20e726cce6d9949e220320ec12b7ca2d7a1dafb5805a3",
+      "ENGI-inhand-left.png": "0ae72bc85e3aa0cbed145e0b7523fd4b113f1314615a8d3220638a08419e05db",
+      "ENGI-inhand-right.png": "1d61b33ea88f6656e9b37b07da18f8744540ec8e76f31c2958716f99634314de",
+      "GENE-equipped-OUTERCLOTHING.png": "4ac498b79cd8abba85795fbda6eff00baa9e1aa9eb11e9d1f5b5d7bf9585692a",
+      "GENE-icon.png": "1caa0340fef16ef639aa09b4ab4e0924f2b4ad56055df0f02303368639f15f5c",
+      "GENE-inhand-left.png": "570b0f0ad8925cb1e342b9776fc3914aeb5165a2f0cd2a260e0640751cb6b407",
+      "GENE-inhand-right.png": "06cc220935b96c9e0b2cedb59f4aa6eacdabfba449911d0ed0b4873ff24d07e4",
+      "HOP-equipped-OUTERCLOTHING.png": "f081bd24edea9d31720a21a0079a7c1ff69cd6d6dae0771b0aacccbfc91273db",
+      "HOP-icon.png": "740c66b07b40835c77ec9de81b333071d976fee15ef80f7b29930b0317590450",
+      "HOP-inhand-left.png": "0ff1d3ee0a4fcf42a53816006ad04f0731541869ed5a1c937e3e9e4c2b2a1d95",
+      "HOP-inhand-right.png": "c0e83e7693b8715d05852bccafce0e5cd864bb41185ba0bede3868cb08f6f6d5",
+      "HOS-ARMORED-icon.png": "4b36d6f75dc1b247dc4ca29cb890516f5db73a90c6ae6eb9ca117b5035634b61",
+      "HOS-equipped-OUTERCLOTHING.png": "0f74a730572a275d2e645a7c9ba0eda8a1b7aa35e2ef304d2e1a739d5c5cf9f1",
+      "HOS-icon.png": "5f658b8605775f74cbb75cb5b0f0f6f0ec2901f51b7cc2c81cf4f1f1f717d430",
+      "HOS-inhand-left.png": "5ff0f6ff24d51f8046ec7cb99dab1af0be05b66bc5063bd68978f43549ae78f0",
+      "HOS-inhand-right.png": "95081ae52f07556e2f40c4025fb1d2ea50a371cfe5dd457639a6410c50cce879",
+      "HYDRO-equipped-OUTERCLOTHING-vox.png": "f7e4bc1406174c3e05aff6bc2ccabce924ae80fe7641dafc11049844363da77d",
+      "HYDRO-equipped-OUTERCLOTHING.png": "234261bec9f756803bc0493ed3f654b2db6f29af2703030f028052f295310a0b",
+      "HYDRO-icon.png": "a5483d069c7df5639fd1f9c5c8e7304938675e90236c117d9424e78dbdb6e333",
+      "HYDRO-inhand-left.png": "182759993e209d18405d10454e44a07908cbb36bc1c97acdc4c9c5bcdb127c89",
+      "HYDRO-inhand-right.png": "78b9b606b014d6f84b3391898b778cbd61ae7128784e3c442cab49266f96ab78",
+      "JANI-equipped-OUTERCLOTHING.png": "eab9936f06438fec615cdaa80953d4cd2d38d6ff4e1ed10b2a4def64f7ff9619",
+      "JANI-icon.png": "e7cb4e6b36609a1ad9975f26222547b65414c419d6b5bb77c5b88cd8ca04181a",
+      "JANI-inhand-left.png": "52898e24797f8d42801c1c803d0329d09699887fd98a2cda55e6c5ca45cbaff5",
+      "JANI-inhand-right.png": "68d0ea3c70bf5d660ee2704754d20bbdb5fc3664f59cb37115191a877a49a862",
+      "MED-equipped-OUTERCLOTHING-vox.png": "6dd9b6ed9b8ca4160c4da9db11359fe9f68a33051277332eb6e0a3144ef1eabb",
+      "MED-equipped-OUTERCLOTHING.png": "e93dbd0753c482faa9791210a389a5947258b3003b9a9cf26813c4c38354f52f",
+      "MED-icon.png": "65ae37506bb97b64ab4cc85cf073ea09ec261b67c1084bcd52668c467775b92b",
+      "MED-inhand-left.png": "962ffa96918a059853a3ac66e07cb73f60225376c7c02ac34acc1e54ae1eefa3",
+      "MED-inhand-right.png": "12a66a433fd952cb974d6ba28964029b726eb45794ab6f09f7624cbb4da2628a",
+      "MIME-equipped-OUTERCLOTHING-vox.png": "5dcebaf2ab00422501eec373f911d9db1f3bd5d982341e901141422f25ea74cc",
+      "MIME-equipped-OUTERCLOTHING.png": "c4c2a460a3e160a773b3fe79a1d102a28dafd9f1d2f2258fe7b200bda39ae654",
+      "MIME-icon.png": "bc9666e979aae70dff378bc9c5ef864c9af5e479d5ca98abb9dc91eb15ea5edc",
+      "MIME-inhand-left.png": "cf62ccaf072ed676bb42e0b0da25059c974c1576f0074d9ea87be97b7163e653",
+      "MIME-inhand-right.png": "f6006eece125656f678d37ac1b2c9ca62c65da15113b7270977a6ceca0d7a7c4",
+      "MINER-equipped-OUTERCLOTHING-vox.png": "e6e284e6a9248233638fb974609728ca2ce02d1f8759d64fba3cdfd545076158",
+      "MINER-equipped-OUTERCLOTHING.png": "1560e17217f01f440adb3d59534e6a324ab9a2798148040ba1004241af393868",
+      "MINER-icon.png": "760b3a5452439f226d9f5076ee4b049ae9c2ce373b78bc845b4d4a399355dce8",
+      "MINER-inhand-left.png": "f00fb6cfc4e3cb4c372cf5ba7eacf4456bcd465412c9a3df55bec7d53d402d89",
+      "MINER-inhand-right.png": "0491acb93d9dcd4044fde252ba47d9bc7fe564afac906d9fbd979d5dbe8ed021",
+      "PARA-equipped-OUTERCLOTHING-vox.png": "6c44ba25bb79413936236fbdceb95030cc90f6854f2fc1a27d3b4ac1e05f21c8",
+      "PARA-equipped-OUTERCLOTHING.png": "fc10abb5edd0ab2c8fe1ead74503fd8e28f78d2494dea6a922f819ad673f4367",
+      "PARA-icon.png": "e815fc3a3d07c8d81367eb5b34a9727747aeee39a435e047aeb9b2ad4c885fcd",
+      "PARA-inhand-left.png": "0026a660a05bf4135331071d4b7b900dd9aefa4df0e4fbcc36b0a47ef3c0284f",
+      "PARA-inhand-right.png": "ba86f2b91d447a5f8c2e24284d33d463c665ad317f6fc58ae5f2fc6473fd2a70",
+      "QM-equipped-OUTERCLOTHING.png": "12bca2c95744e5282126971817c898bdf9c184031c397814297c1e5d83360f30",
+      "QM-icon.png": "4e4dc4ea1f6df430d2159214ae872187a74c488c00cc5397477294a9208f46fd",
+      "QM-inhand-left.png": "4ec7ea98663eb882148795052e14854c21c4404eecefb38de59c10d3af179aaf",
+      "QM-inhand-right.png": "000e66c20ecd020ab25e3771661f71b0fcd391ef703ca6e288ffd5bacdb34d97",
+      "RD-equipped-OUTERCLOTHING-vox.png": "e7a1c8d63a6070403657955a05b0e7432f2b2eeedcab480520b48bc12afe4641",
+      "RD-equipped-OUTERCLOTHING.png": "05bd2142c78ae83e0d0b4e18da43301e9a91b09cc42711ff9bb3273e8cd0dd0c",
+      "RD-icon.png": "b21601bfd6c5bf2c891209a05a2bbb0568ff317510220e29d45b0ee9b46ae434",
+      "RD-inhand-left.png": "f9a0c4fd529130834c49b6dde83d73f47858e65ef417ebf460f3882d3a670241",
+      "RD-inhand-right.png": "4885cb1017b908352496fa5998e4c7ddb6858e983ae035b249015dc65b069ae6",
+      "ROBO-equipped-OUTERCLOTHING-vox.png": "3844cfb24a683096a05f809a5408a25c8730c4c87899f45ff416df6271507307",
+      "ROBO-equipped-OUTERCLOTHING.png": "1484d6d097d781a474f531bbb85004a7f446b438611094333fa2c02fa4417e2e",
+      "ROBO-icon.png": "6762aa28465c0723b36d307452ddfb186c68e86bdf80394a3b0eaf0266abec7a",
+      "ROBO-inhand-left.png": "1584168dcb0f07cc38536811f0ef29aae747aa7943e39c782f0ffbd7c28d938e",
+      "ROBO-inhand-right.png": "afbe075bc7c4cfa7b4b2c28a1e8043f3daebaa8c034c112b0bb10714514f491a",
+      "SCI-equipped-OUTERCLOTHING-vox.png": "48b89cf466b5acd0437d7ed4e3e2737a9cb39fc4045d09de2b6ce79f0fe249e8",
+      "SCI-equipped-OUTERCLOTHING.png": "a08270182a797da4686de9bbc7a36a5bf032c906e3e246a3e4a8f7d3cd2dde6b",
+      "SCI-icon.png": "96b0ac5226f15c3b6358b929585e09681f2148ca2781c5446fab903ac608da6a",
+      "SCI-inhand-left.png": "ff89de2674b2caec189fdb45ec5111168c4cd1f8056fe1c4c1e0295fb7035dc4",
+      "SCI-inhand-right.png": "dbfdfaee90a14b5bfb6bb5477ae2420d94b139b040905e58017e239d4517e14b",
+      "SEC-equipped-OUTERCLOTHING-vox.png": "93e5e7f70f1e0a50e6f917e89b8bc251463b5bd63ce646ff853349fe7e72bb12",
+      "SEC-equipped-OUTERCLOTHING.png": "b67957374446c8ee71fa5ba1d5aef415aa6ad2e8cce7866cdc9f2fadd0df989a",
+      "SEC-icon.png": "5e490405e0e5f294646753028530d3c8b248d5faf8835a8633b9c8cca3661eec",
+      "SEC-inhand-left.png": "058280fd84550b8200b83c85424a27e1c184ca30816c6eb0d0d6a17c3d3215bd",
+      "SEC-inhand-right.png": "7a36fec0de0a0cc1f4ca5262f6e2ab65b12ce2a29fbbc9c0d23701568ec1826c",
+      "SYNDIE-ARMORED-icon.png": "58a442f795c9ee5f2b8b6bec3d17ddbf8f80af8b030b6d311de07cee2e3d5307",
+      "SYNDIE-equipped-OUTERCLOTHING.png": "b3210f8aea6a130dc360f6e051226931cd8500c227f4b17aa7c517cea36d0825",
+      "SYNDIE-icon.png": "5167d14299500a19d65e3f741822a942f17747205146db1a53d8672f648e5a5c",
+      "SYNDIE-inhand-left.png": "e7cbea56a9bbadc95817fca262301e371b334ac5094469dfcdb5e285118786ef",
+      "SYNDIE-inhand-right.png": "1da2964db6c55fd458f72e58a48f8d4a7b643554ca5771d1709b5906422310cc",
+      "SYNDIECAP-equipped-OUTERCLOTHING.png": "f207a63e5ef89ec5e3f6d465e7142a49c1ec5545f749734ce5943485600694f5",
+      "SYNDIECAP-icon.png": "713d48266a61ded28dfd954140d7d57b42ad52d2052fe1d07fe7d98b5875dcb1",
+      "SYNDIECAP-inhand-left.png": "d9e33bec58040b8c840ca9392cc937dd4f051cc03be642f8866bbebc230c7f11",
+      "SYNDIECAP-inhand-right.png": "46e1c30e9f24f11eb112ed137bede5827e9d6dec79d28fffad1dc78560afb32d",
+      "VIRO-equipped-OUTERCLOTHING.png": "d6c611c0a5c16239595e0da0a97fb212cf386e2314fc52965a8682d1a77406b1",
+      "VIRO-icon.png": "87c25a2918e7bf3ba4779034674ab9a684ea2bb81723aeae280c79c83c9c5573",
+      "VIRO-inhand-left.png": "7621e6da2530afcd3d82846a5f6c2e7fc63558d89661c206d8ed619f8734f4a9",
+      "VIRO-inhand-right.png": "5beaf65e8fc00e90c194eb0e60bfb6a9554adfc217f2b1c08e636654b7ebd700",
+      "WARD-equipped-OUTERCLOTHING-vox.png": "5c5c67b71391ab3d9487e9f27963223d3fe2e4049683b17c7555386fe4ab527c",
+      "WARD-equipped-OUTERCLOTHING.png": "40007447ff559cd59970bf920b98fbf4acadd311a608860cfea269ebdcf4c51e",
+      "WARD-icon.png": "ae553eee0bd6a24ed0dd5b0aa7697b39426d188409aa4307894eeea1f0c41a79",
+      "WARD-inhand-left.png": "1017a305fc529f1c4894a1866703629ab307e0a9334ef747c9fd75c0e4bbca51",
+      "WARD-inhand-right.png": "35e6771fa114e2177b2a877d36a14bce5bb5bc22d1c4ea44a4a89a465b949864",
+      "WARDEN-ARMORED-icon.png": "1e9b8f4c638fd44d57797f9a4af762f13a7ad3e558b60ef0815ad8bcc7293c54",
+      "WEB-equipped-OUTERCLOTHING.png": "2679104d7e9b0b6a90213b8bbdfd0f6d924291983b33e396763d7b8f09d05847",
+      "WEB-icon.png": "7834ffd98cc100ae341344f932ba2ff0df71ea9586561e64131dc46018934a1d",
+      "WEB-inhand-left.png": "ef18306692cb032113f5204d156aa06dba00c65a09a55fa73bd161c759362439",
+      "WEB-inhand-right.png": "ea4f081b09022dfe5a86bc3fa506544d5458b74316227ed976925ce3bd70bc70",
+      "coatybits-equipped-OUTERCLOTHING-vox.png": "27a6c51d670ed243f97824f47ec5576039396f840344e761bc779f686afcf8db",
+      "coatybits-equipped-OUTERCLOTHING.png": "81f66aefd2cc9e5313b63510ffc1876e84620691a3cbf3f771289308557d383e",
+      "coatybits-icon.png": "12000214b5d556e5697cd04ade00aab99804dcba1f811545548dd9bcf38cf35f",
+      "coatybits-inhand-left.png": "685d4b86eea84ae00190b8ed35f306d0afd36c553037e69e0d74d5b3c3246251",
+      "coatybits-inhand-right.png": "6b9fd9b0340ecbce41f2ba16e32ec3f95f1fcd4eb889740fac75b35104c2143c",
+      "equipped-OUTERCLOTHING-vox.png": "5b7c7d52c8928fb36f8296f7bf7240feaa091a9ff71da1ba3d33dd658be68df1",
+      "equipped-OUTERCLOTHING.png": "9389c05772c50530f9cc07b085bb800a8b0a1b9c71021c2a7a268d239958e0f9",
+      "icon.png": "6653d81da88d5f6d4b5e4ca359bb5ecbac5ec23be76f87e79ed3e2dd277528dd",
+      "inhand-left.png": "312880503510986db74ec9d6deca0282db1f70e4d3f8dcfd78f45d943b1e6793",
+      "inhand-right.png": "a5d6dba65b32eabe58037713dca24b747522fda6c4831197505206bdce2269c6",
+      "meta.json": "4692d67bc5590936627e5e6a61303a64ce555736c89db6cd27880f84c9f26274",
+      "winterbits-equipped-OUTERCLOTHING-vox.png": "248c71070a1f06d91fdc1ef72b0ad04c7854b40309110ee6b57c4ea842eff078",
+      "winterbits-equipped-OUTERCLOTHING.png": "8a81a0b31cd6505f679c1615cb524a09ffc4ed3cb72f04a8a96503f988b43b48",
+      "winterbits-icon.png": "0d138f16a27501b3f683a63e2fd6e5cd76adffba5958cf3c42fe666bf6b408bf",
+      "winterbits-inhand-left.png": "39cb1db86e8b97f7c8cd514f4423134eaeac3b5f24028c1e7f4be5a0435b2290",
+      "winterbits-inhand-right.png": "c9cec420da003a2b0f4456c988e50b1e9347f686223feb8938923df0be607629",
+      "winterbits-tan-equipped-OUTERCLOTHING.png": "066c9e332fc82f0948180199de00067b15d3fe622f47a4e1c29bb3973d1a59b1",
+      "winterbits-tan-icon.png": "224bd0ebdad2a8664603f0e4391ab6a1d8edb01e69a134398d4a948dd832016f"
+    },
+    "replaces": [
+      "Clothing/OuterClothing/WinterCoats/coat.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/cowboybootsblack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/cowboybootsblack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/8703eac50de6379c26f7eadb47b4f016854d1dcd, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос. inhand-left, inhand-right by K-Dynamic (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET.png": "3c025d7266c8da06d6e175482d8b54c2d88993b3732cdb18079d71d9777eed1c",
+      "icon.png": "3fc7c0116199bd27745e5f12433de1e7be890270234d11a74ec92eddb8bb92ae",
+      "inhand-left.png": "47a68760fb6a3a6ee6ef1e16d801adcdcd291f180b82a7fbdf1416efc933d6d1",
+      "inhand-right.png": "8897e03cbbd4e513bfe7f7dae6dd0083f51c6e495a5bdae706f696870730ef00",
+      "meta.json": "2da1202db88f10ef0cfeb37fa30b29988987472cffc9987bf967728f07a1c416"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/cowboybootsblack.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/magboots-advanced.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-advanced.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, equipped-FEET-vox & on-equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi, and equipped-FEET-vox state modified to fix inconsistencies",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET-vox.png": "bd20de0f563de9e653dd8bda3747e914cfd3d203b107c773f41886c626aa0a64",
+      "equipped-FEET.png": "5568876289a1055ae5d035d56fdd1ac6854b98dcda9983dd1cc9995b76e93b3e",
+      "icon-on.png": "f3d324e0b9fe50f79772d3fbf5ea5f060005e431c432789f3140949feb18c5bf",
+      "icon.png": "dc79c37ddb64cb3fcbe034f7b175b48753f842f4dfd44848fc3c66e4253cd8b4",
+      "inhand-left.png": "147f171726e1517ecbdd37cccf9d4f7ead96b4c0d0ea179d04084bf64c4635ab",
+      "inhand-right.png": "6f42c143ce9cc6557646fc649d83e06c8fdc14409e0fdcca0742de84b5c7946b",
+      "meta.json": "a7ab8cc960d0250e6231484175c36400f1a3d67de824deee5ab3f80509ec7a96",
+      "on-equipped-FEET-vox.png": "b7e446cae730477bdd7feeb52af19b004b43d84ba14deb22676f367b672baf48",
+      "on-equipped-FEET.png": "fd98b5af1ea4b24802719930548f7ea704025436bc67718d48e6bc904147d4e4",
+      "on-inhand-left.png": "f6e84ebeb727becd4097b96d9031896ada5644b7a3bcebdced521c685a510d07",
+      "on-inhand-right.png": "de83cebd73d2c05338be51afcccefe49d5519029c3354677b07a4e01c72fd166"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/magboots-advanced.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-advanced.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/magboots-science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Drawn by Ubaser, resprited by fazan_saverg (842350861123452948) on discord. Vox states made by Flareguy.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET-vox.png": "35c233878311152cf33044279a8aefe7dd779b86ebd42098e64342806a8baf4f",
+      "equipped-FEET.png": "4e1e84fa2b9d52000851cb77cb7a3ff0c779fba5d16fcac098e5090426d18800",
+      "icon-on.png": "badc6326a2f2e9dcda6a62c8ad22804fc7268ad82517c7416de9a98ff2629c3f",
+      "icon.png": "672923a9e5c00e05e2250ed04d90d8e956ac9b004cc3a8a47af37dcd3ac57414",
+      "inhand-left.png": "809523345daf6f7bfc7afd8d79f3de24a386d05eda961bd5eed88826d6e3d5f0",
+      "inhand-right.png": "2be44c5eab81e358ee49d292cff465674451f6f8a4129b168167e15cc347848d",
+      "meta.json": "b89252d28e4bc37ab03dfd45d03a6ed68f51876b457cf54b7a42a51fa3e79ce4",
+      "on-equipped-FEET-vox.png": "8f62bf1815fb75dada55164af99c0b77bdd0ff69156938ea7ad92d82c10371cd",
+      "on-equipped-FEET.png": "ffed9918b694296a6c11c855fcdeff3c931f6089c20fa687c157d62e977d2a42",
+      "on-inhand-left.png": "7d45c9734a116fd9483854e5787c1646879a1289e3d0920f1cb816341e53bae9",
+      "on-inhand-right.png": "12838aa332ab012525124fef439e821bde297a955f7097e807c338e18aeee613"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/magboots-science.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/magboots-syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8. equipped-FEET-vox & on-equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi, and equipped-FEET-vox state modified to fix inconsistencies",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET-vox.png": "1f8cba0ec5544c8182a1a80817f7159c3bd96d96c11e84afa9aa8be0b8148485",
+      "equipped-FEET.png": "8274af433c815e7e612acae73cbc19b1fd7687b3297cafed37b4f5cc42c8e3f0",
+      "icon-on.png": "24abf959ff462f2635788e5c2ff6642cae4d1cbce35afe384c9a9b40a68a174a",
+      "icon.png": "76737c43bee80c1743a69124bdfde648c601e100030c46dac44b8da1dc02e955",
+      "inhand-left.png": "acc97d71db7b8d171d5889883bcff57e8186dc04fc01c4dda64b1fdd37f02ae3",
+      "inhand-right.png": "47ee1b605b3e4ae40ea487cf9ee0e9caf0dfa2b4024acfaf263a8298d59830c9",
+      "meta.json": "37c242251797dcc9bbb98ef0891bad4235e7879e19319fa358cdf311c25a531b",
+      "on-equipped-FEET-vox.png": "fe137a46e95d8c330faa6a2852d068b76860b024187b1fc14d25dcf721e4e218",
+      "on-equipped-FEET.png": "ebcc9b287c239a8b12c8aa9a7887b4a87ae32a2646a8890c479d1bbd7230b572",
+      "on-inhand-left.png": "ebc283ccf513a0603eb9ec3ce0c110a80c116ba3f8787080d54186017edb53bd",
+      "on-inhand-right.png": "6b44864f963dba6a7945d826368f8743dd3cd63173b26ea46eea3905dbd1dd59"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/magboots-syndicate.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/magboots.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, equipped-FEET-vox & on-equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi, and equipped-FEET-vox state modified to fix inconsistencies",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET-vox.png": "e7594cc9df440f6f3b39320ff363afca2d08962ff3090353b955f21851f2e79d",
+      "equipped-FEET.png": "7a120775f09c64ce9a5d24b109b5a25aa04d6f7d51ff978204a127e453272b73",
+      "icon-on.png": "4788eba340db9b4d790ce3275ac847d1a0a0c7dc04c4516f649a16653de0dc77",
+      "icon.png": "8a1ffe89ade8070efe46f71dad0d3935041c1e99de0cd726678a2de75044cac7",
+      "inhand-left.png": "820f71dbfe27f4ff10c2d85cd4f011afc2f6e4b7a786547ce12203b27ed280e7",
+      "inhand-right.png": "88c548fe63ecf3435889387332b38a3f78db110571738fe6ab4f16f39247ec11",
+      "meta.json": "a7ab8cc960d0250e6231484175c36400f1a3d67de824deee5ab3f80509ec7a96",
+      "on-equipped-FEET-vox.png": "0563255e9030e0bdee9063bca60a755771f2a6046fc7350fb3813c5afb40cac1",
+      "on-equipped-FEET.png": "579e7b5676b0635f66fe736825d19077afe1f5453055970905955c1a687d4e8c",
+      "on-inhand-left.png": "7c39f00d13bd2270d34fbfc469d6392b34d55dd1d72d1532983a82e385d68e6e",
+      "on-inhand-right.png": "5b002e35daa61ebe8bca7d7f8937a51a77cca349fbb00cfc99fd681eb5f213e7"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/magboots.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots.rsi"
+    ]
+  }
+]

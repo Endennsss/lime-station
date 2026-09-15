@@ -560,7 +560,7 @@
       - ReagentId: Oculine
         Quantity: 3
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/carrot.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/carrot.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     heldPrefix: produce
   - type: Produce
@@ -1202,7 +1202,7 @@
     - Corn
     - Vegetable
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Produce
     plantId: CornPlants
   - type: Extractable
@@ -1226,7 +1226,7 @@
   description: Not a dang kernel left.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: cob
   - type: Item
     size: Tiny
@@ -1317,7 +1317,7 @@
       - ReagentId: Vitamin
         Quantity: 8
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/chanterelle.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/chanterelle.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     heldPrefix: produce
   - type: Produce
@@ -1858,7 +1858,7 @@
       - ReagentId: Sulfur
         Quantity: 5
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/gatfruit.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/gatfruit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Produce
     plantId: GatfruitPlants
   - type: Edible

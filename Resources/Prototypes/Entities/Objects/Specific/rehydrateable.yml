@@ -57,7 +57,7 @@
   description: Just add water!
   components:
   - type: Sprite
-    sprite: Objects/Misc/monkeycube.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/monkeycube.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: cube
   - type: Solution
     solution:

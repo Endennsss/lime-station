@@ -216,7 +216,7 @@
           radius: 2
       repeating: true
     - type: Sprite
-      sprite: Objects/Weapons/pflash.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Weapons/pflash.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       layers:
         - state: "off"
           map: ["enum.ProximityTriggerVisualLayers.Base"]

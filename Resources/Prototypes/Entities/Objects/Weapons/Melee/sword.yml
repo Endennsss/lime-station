@@ -110,7 +110,7 @@
   description: Ancient craftwork made with not so ancient plasteel.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/katana.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/katana.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: MeleeWeapon
     damage:
       types:
@@ -124,7 +124,7 @@
     shape:
     - 0,0,0,3
   - type: Clothing
-    sprite: Objects/Weapons/Melee/katana.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/katana.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     slots:
     - Back
     - Belt
@@ -139,7 +139,7 @@
   - type: Contraband
     severity: HighlyIllegal
   - type: Sprite
-    sprite: Objects/Weapons/Melee/energykatana.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/energykatana.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: MeleeWeapon
     wideAnimationRotation: -60
     damage:
@@ -148,7 +148,7 @@
   - type: Item
     storedSprite:
       state: storage
-      sprite: Objects/Weapons/Melee/energykatana_storage_64x.rsi #Done in 64x64 because it looks way too puny in 32x32
+      sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/energykatana_storage_64x.rsi #Done in 64x64 because it looks way too puny in 32x32 # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     shape:
     - 0,0,0,3
   - type: BindItemOnEquip
@@ -157,7 +157,7 @@
     - ActionEnergyKatanaDash
   - type: ItemActionGrant
   - type: Clothing
-    sprite: Objects/Weapons/Melee/energykatana.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/energykatana.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     slots:
     - Back
     - Belt

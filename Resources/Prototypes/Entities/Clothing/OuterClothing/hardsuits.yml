@@ -152,9 +152,9 @@
   description: A lightweight hardsuit, adorned with a patchwork of thick, chitinous goliath hide.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/goliath.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/goliath.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/goliath.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/goliath.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -191,9 +191,9 @@
   description: Fire. Heat. These things forge great weapons, they also forge great salvagers.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/maxim.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/maxim.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/maxim.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/maxim.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -1078,9 +1078,9 @@
   description: A custom-made mime hardsuit.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/mime.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/mime.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/mime.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/mime.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Construction
     graph: MimeHardsuit
     node: mimeHardsuit
@@ -1095,9 +1095,9 @@
   description: A festive, cheerful hardsuit that protects the jolly gift-giver while on sleighrides in space. Offers some resistance against asteroid strikes.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/santahardsuit.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/santahardsuit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/santahardsuit.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/santahardsuit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000

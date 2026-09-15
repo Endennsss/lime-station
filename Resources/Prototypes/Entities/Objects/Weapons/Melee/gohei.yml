@@ -5,7 +5,7 @@
   description: A wooden stick with white streamers at the end. Originally used by shrine maidens to purify things. Now used by the station's weeaboos.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/gohei.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/gohei.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: gohei
   - type: MeleeWeapon
     wideAnimationRotation: -150
@@ -14,4 +14,4 @@
         Holy: 4
   - type: Item
     size: Small
-    sprite: Objects/Weapons/Melee/gohei.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/gohei.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии

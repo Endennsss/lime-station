@@ -6,12 +6,12 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
       map: [ "enum.ToggleableVisuals.Layer" ]
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ToggleClothing
     action: ActionToggleMagboots
     mustEquip: false
@@ -50,10 +50,10 @@
   description: State-of-the-art magnetic boots that do not slow down their wearer.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ClothingSpeedModifier
     walkModifier: 1
     sprintModifier: 1
@@ -71,9 +71,9 @@
   id: ClothingShoesBootsMagSci
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingShoesBootsMagBase
@@ -94,10 +94,10 @@
   description: Reverse-engineered from ERT magboots, they have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ClothingSpeedModifier
     walkModifier: 0.9
     sprintModifier: 0.9

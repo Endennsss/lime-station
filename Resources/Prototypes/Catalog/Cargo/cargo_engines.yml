@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: EngineSingularityContainment
   icon:
-    sprite: Structures/Power/Generation/Singularity/containment.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/containment.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateEngineeringSingularityContainment
   cost: 1000

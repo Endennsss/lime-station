@@ -132,7 +132,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Wallmounts/posters.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/posters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: random_anything
   - type: EntityTableSpawner
     offset: 0
@@ -157,7 +157,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Wallmounts/posters.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/posters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: random_contraband
   - type: EntityTableSpawner
     offset: 0
@@ -172,7 +172,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Wallmounts/posters.rsi
+    - sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/posters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: random_legit
   - type: EntityTableSpawner
     offset: 0

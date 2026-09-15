@@ -62,7 +62,7 @@
   description: A jack o' lantern! Believed to ward off evil spirits.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Misc/pumpkin.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Misc/pumpkin.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
     clothingVisuals:
       head:
@@ -106,9 +106,9 @@
   description: To be honest, those look ridiculous.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Misc/pwig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Misc/pwig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: HideLayerClothing
     slots:
     - HeadTop
@@ -120,9 +120,9 @@
   description: I doubt even the CMO knows how to use this thing.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Misc/head_mirror.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Misc/head_mirror.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Misc/head_mirror.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Misc/head_mirror.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadBase
@@ -228,9 +228,9 @@
   - type: Tag
     tags: [] # ignore "WhitelistChameleon" tag
   - type: Sprite
-    sprite: Clothing/Head/Hats/catears.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/catears.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/catears.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/catears.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: OwOAccent
     relayAccent: true
   - type: StaticPrice
@@ -252,9 +252,9 @@
   - type: Tag
     tags: [] # ignore "WhitelistChameleon" tag
   - type: Sprite
-    sprite: Clothing/Head/Hats/catears.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/catears.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/catears.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/catears.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: OwOAccent
     relayAccent: true
 

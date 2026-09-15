@@ -1,5 +1,9 @@
 # Текстуры Forge для Lime Station
 
+После подключения Dead Space оставлены 45 используемых наборов. 16 ненужных
+наборов убраны из checkout с резервной копией и возможностью восстановления из Git.
+Реестр `cleanup` фиксирует удаление; приведённые ниже числа — первоначальный импорт.
+
 Источник: [Forge-Station/Monolith](https://github.com/Forge-Station/Monolith),
 коммит [0a07e9bfb0febd7a10965f28a41c55ac22279e8e](https://github.com/Forge-Station/Monolith/tree/0a07e9bfb0febd7a10965f28a41c55ac22279e8e/Resources/Textures).
 

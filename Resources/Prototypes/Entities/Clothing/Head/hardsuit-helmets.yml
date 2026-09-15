@@ -13,7 +13,7 @@
   description: A special hardsuit helmet designed for working in low-pressure, high thermal environments.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/atmospherics.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardsuits/atmospherics.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HandheldLight
     addPrefix: false
   - type: PointLight
@@ -35,7 +35,7 @@
   description: An engineering hardsuit helmet designed for working in low-pressure, high radioactive environments.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/engineering.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardsuits/engineering.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HandheldLight
     addPrefix: false
   - type: PointLight
@@ -94,7 +94,7 @@
   description: A sturdy hardsuit helmet, infused with a goliath's hide and an eerie, unblinking eye cut from its mass.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/goliathhelm.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardsuits/goliathhelm.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HandheldLight
     addPrefix: false
   - type: PointLight
@@ -222,7 +222,7 @@
   description: Special hardsuit helmet, made for the chief engineer of the station.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/engineering-white.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hardsuits/engineering-white.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HandheldLight
     addPrefix: false
   - type: PointLight

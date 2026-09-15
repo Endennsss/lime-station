@@ -4,7 +4,7 @@
   bodyPart: Chest
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/body_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: belly_crest
 
 - type: marking
@@ -12,7 +12,7 @@
   bodyPart: Chest
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/body_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: belly_full
 
 - type: marking
@@ -20,5 +20,5 @@
   bodyPart: Chest
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/body_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: belly_fox

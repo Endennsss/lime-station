@@ -20,7 +20,7 @@
   description: A battlemap for your epic dungeon exploring to begin, pieces not included!
   components:
   - type: Sprite
-    sprite: Objects/Fun/Tabletop/Battlemaps/grassbm.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/Tabletop/Battlemaps/grassbm.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: TabletopGame
     setup:
       !type:TabletopEmptySetup
@@ -87,7 +87,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: Objects/Fun/Tabletop/Battlemaps/grassbm_tabletop.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/Tabletop/Battlemaps/grassbm_tabletop.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: tabletop
 
 - type: entity

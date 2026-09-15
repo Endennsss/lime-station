@@ -44,7 +44,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Objects/Fun/Tabletop/Battlemaps/grassbm.rsi
+    - sprite: _Lime/Imported/DeadSpace/Objects/Fun/Tabletop/Battlemaps/grassbm.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: EntityTableSpawner
     offset: 0

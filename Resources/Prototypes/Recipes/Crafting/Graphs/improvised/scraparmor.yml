@@ -39,7 +39,7 @@
         steps:
         - tag: UtilityBelt
           icon:
-            sprite: Clothing/Belt/utility.rsi
+            sprite: _Lime/Imported/DeadSpace/Clothing/Belt/utility.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: icon
           name: construction-graph-tag-utility-belt
         - material: Cable

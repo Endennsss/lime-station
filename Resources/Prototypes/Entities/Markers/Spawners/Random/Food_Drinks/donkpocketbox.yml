@@ -6,7 +6,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/donkpocket.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    - sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donkpocket.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: box
   - type: EntityTableSpawner
     table: !type:GroupSelector

@@ -5,7 +5,7 @@
   parent: [ BaseStorageItem, BaseBagOpenClose, BaseCommandContraband ]
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/medalcase.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Storage/medalcase.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: closed
       map: ["closeLayer"]
@@ -13,7 +13,7 @@
       map: ["openLayer"]
   - type: Appearance
   - type: Item
-    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/medalcase.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Storage/medalcase.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Normal
   - type: Storage
     grid:

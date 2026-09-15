@@ -5,10 +5,10 @@
   description: A dark ink pen.
   components:
   - type: Sprite
-    sprite: Objects/Misc/pens.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/pens.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: pen
   - type: Item
-    sprite: Objects/Misc/pens.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/pens.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: pen
     size: Tiny
   - type: Tag

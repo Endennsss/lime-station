@@ -215,7 +215,7 @@
   name: carrot
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/carrot.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/carrot.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PlantData
     name: seeds-carrots-name
     packetPrototype: CarrotSeeds
@@ -998,7 +998,7 @@
   name: ear of corn
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-corn-name
     packetPrototype: CornSeeds
@@ -1117,7 +1117,7 @@
   name: chanterelle mushroom
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/chanterelle.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/chanterelle.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PlantData
     noun: seeds-noun-spores
     name: seeds-chanterelle-name
@@ -1150,7 +1150,7 @@
   name: egg-plant
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-eggy-name
     packetPrototype: EggySeeds
@@ -1182,7 +1182,7 @@
   name: cannabis
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/cannabis.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/cannabis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PlantData
     name: seeds-cannabis-name
     packetPrototype: CannabisSeeds
@@ -1263,7 +1263,7 @@
   name: tobacco plant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/tobacco.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PlantData
     name: seeds-tobacco-name
     packetPrototype: TobaccoSeeds
@@ -1744,7 +1744,7 @@
   name: gatfruit tree
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/gatfruit.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/gatfruit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: PlantData
     name: seeds-gatfruit-name
     packetPrototype: GatfruitSeeds

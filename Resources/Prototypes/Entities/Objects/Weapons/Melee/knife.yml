@@ -38,10 +38,10 @@
     - Knife
     - KitchenKnife
   - type: Sprite
-    sprite: Objects/Weapons/Melee/kitchen_knife.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/kitchen_knife.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Weapons/Melee/kitchen_knife.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/kitchen_knife.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     storedOffset: -1,1
     storedRotation: -45
   - type: GuideHelp
@@ -74,7 +74,7 @@
     - Knife
     - Cleaver
   - type: Sprite
-    sprite: Objects/Weapons/Melee/cleaver.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/cleaver.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: butch
   - type: MeleeWeapon
     wideAnimationRotation: -115
@@ -84,7 +84,7 @@
         Slash: 13
   - type: Item
     size: Normal
-    sprite: Objects/Weapons/Melee/cleaver.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/cleaver.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: GuideHelp
     guides:
     - Chef
@@ -238,9 +238,9 @@
         Slash: 10
   - type: LandAtCursor
   - type: Sprite
-    sprite: Clothing/Head/Hats/greyflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/greyflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: BladedFlatcapGrey
@@ -251,9 +251,9 @@
   - type: Construction
     graph: BladedFlatcapBrown
   - type: Sprite
-    sprite: Clothing/Head/Hats/brownflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/brownflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   name: shiv
@@ -270,7 +270,7 @@
     graph: Shiv
     node: icon
   - type: Sprite
-    sprite: Objects/Weapons/Melee/shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     attackRate: 1.5
@@ -278,7 +278,7 @@
       types:
         Slash: 5.5
   - type: Item
-    sprite: Objects/Weapons/Melee/shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: DisarmMalus
     malus: 0.225
   - type: Fixtures
@@ -311,9 +311,9 @@
       types:
         Slash: 7 #each "tier" grants an additional 2 damage
   - type: Item
-    sprite: Objects/Weapons/Melee/reinforced_shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/reinforced_shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Weapons/Melee/reinforced_shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/reinforced_shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   name: plasma shiv
@@ -330,9 +330,9 @@
       types:
         Slash: 9
   - type: Item
-    sprite: Objects/Weapons/Melee/plasma_shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/plasma_shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Weapons/Melee/plasma_shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/plasma_shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   name: uranium shiv
@@ -350,9 +350,9 @@
         Slash: 7
         Radiation: 4
   - type: Item
-    sprite: Objects/Weapons/Melee/uranium_shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/uranium_shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Weapons/Melee/uranium_shiv.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/uranium_shiv.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   name: throwing knife

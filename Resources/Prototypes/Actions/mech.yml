@@ -15,7 +15,7 @@
   - type: Action
     useDelay: 0.5
   - type: Sprite
-    sprite: Interface/Actions/actions_mecha.rsi
+    sprite: _Lime/Imported/DeadSpace/Interface/Actions/actions_mecha.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: mech_cycle_equip_on
   - type: InstantAction
@@ -30,7 +30,7 @@
   - type: Action
     useDelay: 1
   - type: Sprite
-    sprite: Interface/Actions/actions_mecha.rsi
+    sprite: _Lime/Imported/DeadSpace/Interface/Actions/actions_mecha.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: mech_view_stats
   - type: InstantAction
@@ -44,7 +44,7 @@
   components:
   - type: Action
   - type: Sprite
-    sprite: Interface/Actions/actions_mecha.rsi
+    sprite: _Lime/Imported/DeadSpace/Interface/Actions/actions_mecha.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: mech_eject
   - type: InstantAction

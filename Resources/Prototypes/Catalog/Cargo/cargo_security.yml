@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: SecurityNonLethal
   icon:
-    sprite: Objects/Weapons/Guns/Battery/disabler.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/disabler.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: base
   product: CrateSecurityNonlethal
   cost: 4000
@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: SecurityBiosuit
   icon:
-    sprite: Clothing/Head/Hoods/Bio/security.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hoods/Bio/security.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateSecurityBiosuit
   cost: 1600
@@ -41,7 +41,7 @@
 - type: cargoProduct
   id: SecurityBarrier
   icon:
-    sprite: Objects/Specific/Security/barrier.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Security/barrier.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: idle
   product: DeployableBarrier
   cost: 1000
@@ -61,7 +61,7 @@
 - type: cargoProduct
   id: SecurityGenPopCloset
   icon:
-    sprite: Structures/Storage/closet.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/closet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: genpop
   product: LockerPrisoner
   cost: 300

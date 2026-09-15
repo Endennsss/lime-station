@@ -38,7 +38,7 @@
       behaviors:
       - !type:OpenBehavior
   - type: Item
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: packet
     size: Small
   - type: DamageOnLand
@@ -65,7 +65,7 @@
   - type: Sprite
     state: trash
   - type: Item
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: packet
     size: Small
   - type: PhysicalComposition

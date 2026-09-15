@@ -68,7 +68,7 @@
   description: A piece of white paper.
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: paper
     - state: paper_words
@@ -103,7 +103,7 @@
     - Trash
     - Paper
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: scrap
 
@@ -237,7 +237,7 @@
     price: 0
   - type: NanoTaskPrinted
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: paper_receipt
     - state: paper_receipt_words
@@ -437,7 +437,7 @@
   description: 'A small envelope for keeping prying eyes off of your sensitive documents.'
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: envelope_open
       map: ["enum.EnvelopeVisualLayers.Open"]

@@ -8,7 +8,7 @@
     qualities:
     - Slicing
   - type: Sprite
-    sprite: Objects/Weapons/Melee/cult_dagger.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/cult_dagger.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -19,7 +19,7 @@
   - type: Item
     size: Normal
   - type: Clothing
-    sprite: Objects/Weapons/Melee/cult_dagger.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/cult_dagger.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     slots:
     - back
   - type: DisarmMalus
@@ -34,7 +34,7 @@
     qualities:
     - Slicing
   - type: Sprite
-    sprite: Objects/Weapons/Melee/cult_blade.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/cult_blade.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -45,7 +45,7 @@
   - type: Item
     size: Normal
   - type: Clothing
-    sprite: Objects/Weapons/Melee/cult_blade.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/cult_blade.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     slots:
     - back
   - type: DisarmMalus

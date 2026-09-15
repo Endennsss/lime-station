@@ -24,9 +24,9 @@
     - ForceFixRotations
     - Window
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Physics
     bodyType: Static
@@ -80,9 +80,9 @@
   id: Window
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: GlassMod
@@ -107,9 +107,9 @@
   name: tinted window
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/tinted_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/tinted_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/tinted_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/tinted_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IconSmooth
     base: twindow
   - type: Construction

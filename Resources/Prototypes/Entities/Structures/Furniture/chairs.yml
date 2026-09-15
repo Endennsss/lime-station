@@ -25,7 +25,7 @@
         mask:
         - TableMask
   - type: Sprite
-    sprite: Structures/Furniture/chairs.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Furniture/chairs.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     noRot: true
   - type: Strap
     position: Stand

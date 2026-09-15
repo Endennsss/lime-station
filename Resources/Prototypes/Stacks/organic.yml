@@ -2,7 +2,7 @@
   parent: BaseVeryLargeStack
   id: Biomass
   name: stack-biomass
-  icon: { sprite: /Textures/Objects/Misc/monkeycube.rsi, state: cube }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Misc/monkeycube.rsi, state: cube } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   spawn: MaterialBiomass1
 
 # Stacks which come from plants
@@ -55,5 +55,5 @@
   parent: BaseMediumStack
   id: GoliathHide
   name: stack-goliath-hide
-  icon: { sprite: /Textures/Objects/Materials/hide.rsi, state: goliath_hide }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Materials/hide.rsi, state: goliath_hide } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   spawn: MaterialGoliathHide1

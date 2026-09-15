@@ -8,10 +8,11 @@ const repo = process.cwd();
 const source = path.resolve(process.argv[2] ?? '.');
 const mode = process.argv[3] ?? '--audit';
 const root = 'Resources/Textures/';
-const forge = process.argv.includes('--forge');
+const deadSpace = process.argv.includes('--deadspace');
+const forge = deadSpace || process.argv.includes('--forge');
 const monolith = forge || process.argv.includes('--monolith');
-const provider = forge ? 'Forge' : monolith ? 'Monolith' : 'Goob';
-const repositoryUrl = forge ? 'https://github.com/Forge-Station/Monolith' : monolith ? 'https://github.com/Monolith-Station/Monolith' : 'https://github.com/Goob-Station/Goob-Station';
+const provider = deadSpace ? 'DeadSpace' : forge ? 'Forge' : monolith ? 'Monolith' : 'Goob';
+const repositoryUrl = deadSpace ? 'https://github.com/dead-space-server/dead-space-14' : forge ? 'https://github.com/Forge-Station/Monolith' : monolith ? 'https://github.com/Monolith-Station/Monolith' : 'https://github.com/Goob-Station/Goob-Station';
 const destination = `${root}_Lime/Imported/${provider}/`;
 const manifestPath = `${destination}import_manifest.json`;
 const franchisePath = /(?:^|[/_.-])(amongus|among_us|jojo|kirby|mario|sonic|zelda|omniman|helldivers?|pokemon|warhammer|cosplay|nazgul|goku|naruto|luffy|deltarune|undertale)(?:$|[/_.-])/i;
@@ -24,8 +25,17 @@ const licenseUrls = {
     'CC-BY-SA-4.0': 'https://creativecommons.org/licenses/by-sa/4.0/',
     MIT: 'https://opensource.org/license/mit/',
 };
-const json = filename => JSON.parse(fs.readFileSync(filename, 'utf8').replace(/^\uFEFF/, ''));
-const sha = filename => crypto.createHash('sha256').update(fs.readFileSync(filename)).digest('hex');
+const jsonCache = new Map(), shaCache = new Map();
+const json = filename => {
+    const key = path.resolve(filename);
+    if (!jsonCache.has(key)) jsonCache.set(key, JSON.parse(fs.readFileSync(key, 'utf8').replace(/^\uFEFF/, '')));
+    return jsonCache.get(key);
+};
+const sha = filename => {
+    const key = path.resolve(filename);
+    if (!shaCache.has(key)) shaCache.set(key, crypto.createHash('sha256').update(fs.readFileSync(key)).digest('hex'));
+    return shaCache.get(key);
+};
 const git = (cwd, args) => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 });
 const files = cwd => new Map(git(cwd, ['ls-tree', '-r', 'HEAD', '--', root]).trim().split('\n').filter(Boolean)
     .map(line => { const [head, filename] = line.split('\t'); return [filename, head.split(' ')[2]]; }));
@@ -169,7 +179,7 @@ const normalize = filename => filename.replaceAll('_', '-');
 const localRsi = [...localFiles.keys()].filter(filename => filename.endsWith('.rsi/meta.json')
     && fs.existsSync(path.join(repo, filename))).map(filename => filename.slice(0, -10));
 // Связываем исходные пути с уже подключёнными наборами Goob, не меняя их файлы.
-const previousAssets = monolith ? (forge ? ['Goob', 'Monolith'] : ['Goob']).flatMap(name => {
+const previousAssets = monolith ? (deadSpace ? ['Goob', 'Monolith', 'Forge'] : forge ? ['Goob', 'Monolith'] : ['Goob']).flatMap(name => {
     const base = `Resources/Textures/_Lime/Imported/${name}/`;
     return json(base + 'import_manifest.json').assetManifests.flatMap(filename => json(base + filename));
 }).filter(asset => fs.existsSync(path.join(repo, asset.destination, 'meta.json'))) : [];
@@ -189,7 +199,7 @@ for (const asset of assets) {
             bindings.set(directory.slice(root.length), asset.destination.slice(root.length));
         }
     }
-    for (const [oldName, newName] of Object.entries(monolith ? {} : airlockNames)) {
+    for (const [oldName, newName] of Object.entries(monolith && !deadSpace ? {} : airlockNames)) {
         for (const kind of ['Standard', 'Glass']) {
             const original = `Structures/Doors/Airlocks/${kind}/${oldName}.rsi`;
             if (asset.source !== `${root}Structures/Doors/Airlocks/${kind}/${newName}.rsi`
@@ -202,6 +212,12 @@ for (const asset of assets) {
             asset.replaces.push(original);
             bindings.set(original, asset.destination.slice(root.length));
             airlockBindings.set(original, asset.destination.slice(root.length));
+            if (deadSpace) for (const previous of previousAssets.filter(previous => previous.source === root + original)) {
+                const relative = previous.destination.slice(root.length);
+                asset.replaces.push(relative);
+                bindings.set(relative, asset.destination.slice(root.length));
+                airlockBindings.set(relative, asset.destination.slice(root.length));
+            }
         }
     }
     asset.replacement = asset.replaces.length > 0;
@@ -231,7 +247,8 @@ if (monolith) {
         for (const directory of candidates) {
             const oldMeta = path.join(repo, directory, 'meta.json');
             if (!fs.existsSync(oldMeta) || !compatible(json(oldMeta), json(path.join(source, asset.source, 'meta.json')))) continue;
-            const paths = [directory.slice(root.length), ...previousAssets.filter(previous => previous.source === directory)
+            const paths = [directory.slice(root.length), ...previousAssets.filter(previous => previous.source === directory
+                || previous.replaces?.includes(directory.slice(root.length)))
                 .map(previous => previous.destination.slice(root.length))];
             for (const relative of paths) {
                 if (!compatible(json(path.join(repo, root, relative, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))
@@ -288,8 +305,9 @@ function adaptAirlocks(text) {
             touched = true;
             const sprite = native ? current : airlockBindings.get(current);
             let fields = body.replace(/^    layers:\n[\s\S]*/m, '').trimEnd();
-            if (!native) fields = fields.replace(/^    sprite: .*$/m, `    sprite: ${sprite} # Lime-Edit - текстуры Goob с сохранением лицензии`);
-            if (!/^    snapCardinals:/m.test(fields)) fields += `\n    snapCardinals: ${!native} # Lime-Edit - ориентация исходного набора`;
+            if (!native) fields = fields.replace(/^    sprite: .*$/m, `    sprite: ${sprite} # Lime-Edit - текстуры ${provider} с сохранением лицензии`);
+            if (/^    snapCardinals:/m.test(fields)) fields = fields.replace(/^    snapCardinals:.*$/m, `    snapCardinals: ${!native} # Lime-Edit - ориентация исходного набора`);
+            else fields += `\n    snapCardinals: ${!native} # Lime-Edit - ориентация исходного набора`;
             const ornaments = body.match(/^    - state: docking-clamp\n(?:^      .*\n)*/gm)?.join('') ?? '';
             const layers = native && /^    layers:/m.test(body) ? body.slice(body.indexOf('    layers:'))
                 : `    layers:\n${ornaments}${airlockLayers(sprite, native)}`;
@@ -306,7 +324,7 @@ const edits = [], prototypeFiles = new Set(), connectionReferences = new Set();
 for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
     if (!filename.endsWith('.yml') && !filename.endsWith('.yaml')) continue;
     const before = fs.readFileSync(filename, 'utf8');
-    const adapted = !monolith && filename.includes(`${path.sep}Doors${path.sep}Airlocks${path.sep}`)
+    const adapted = (!monolith || deadSpace) && filename.includes(`${path.sep}Doors${path.sep}Airlocks${path.sep}`)
         ? adaptAirlocks(before.replaceAll('\r\n', '\n')) : before;
     let after = adapted.split('\n').map(line => {
         if (line.includes('оригинальный RSI для отсутствующего состояния')) return line;

@@ -84,7 +84,7 @@
     graph: LightFixture
     node: tubeLight
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/Lighting/light_tube.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: ["enum.PoweredLightLayers.Base"]
       state: base
@@ -109,7 +109,7 @@
   description: "A light fixture. Draws power and produces light when equipped with a light tube."
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/Lighting/light_tube.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     offset: 0, 1
     state: empty
   - type: PointLight

@@ -29,7 +29,7 @@
           - MachineLayer
         hard: false
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Turrets/sentry_turret.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Weapons/Guns/Turrets/sentry_turret.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     drawdepth: HighFloorObjects
     granularLayersRendering: true
     layers:

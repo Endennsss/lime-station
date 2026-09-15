@@ -15,7 +15,7 @@
         volume: -2
         maxDistance: 5
   - type: Sprite
-    sprite: Objects/Misc/stamps.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/stamps.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: stamp-mime
   - type: Item
     size: Tiny

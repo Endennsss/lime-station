@@ -87,9 +87,9 @@
   description: Can hold various things.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/utility.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/utility.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/utility.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/utility.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - UtilityBelt
@@ -102,9 +102,9 @@
   description: Holds tools, looks snazzy.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/ce.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/ce.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/ce.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/ce.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     grid:
     - 0,0,9,1
@@ -118,9 +118,9 @@
   description: A belt used to hold most janitorial supplies.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/janitor.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/janitor.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/janitor.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/janitor.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     maxItemSize: Large
     whitelist:
@@ -200,9 +200,9 @@
   description: Can hold various medical equipment.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/medical.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/medical.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/medical.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/medical.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     whitelist:
       tags:
@@ -266,9 +266,9 @@
   description: Perfect for holding various equipment for medical emergencies.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Belt/emt.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/emt.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Belt/emt.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/emt.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBeltStorageBase
@@ -277,9 +277,9 @@
   description: A belt used to hold most hydroponics supplies. Suprisingly, not green.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/plant.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/plant.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/plant.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/plant.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     whitelist:
       tags:
@@ -328,9 +328,9 @@
   description: A belt used to hold kitchen knives and condiments for quick access.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/chef.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/chef.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/chef.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/chef.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     whitelist:
       tags:
@@ -405,9 +405,9 @@
   description: Can hold security gear like handcuffs and flashes.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Belt/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Belt/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.9
   - type: Storage

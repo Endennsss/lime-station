@@ -246,9 +246,9 @@
   description: A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -286,9 +286,9 @@
   description: Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:

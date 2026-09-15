@@ -5,9 +5,9 @@
   description: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/captain.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/captain.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/captain.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/captain.rsi # Lime-Edit - графика Monolith
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
@@ -38,6 +38,6 @@
   description: A dress for special occasions.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/capformaldress.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/capformaldress.rsi # Lime-Edit - графика Monolith
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/capformaldress.rsi # Lime-Edit - графика Monolith
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/capformaldress.rsi # Lime-Edit - графика Monolith

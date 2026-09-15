@@ -83,7 +83,7 @@
   id: Vape
   result: Vape
   icon:
-    sprite: Objects/Consumable/Smokeables/Vapes/vape-standard.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Smokeables/Vapes/vape-standard.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   completetime: 2
   materials:

@@ -53,7 +53,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Objects/Specific/Janitorial/soap.rsi
+      - sprite: _Lime/Imported/DeadSpace/Objects/Specific/Janitorial/soap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: soap-4
   - type: EntityTableSpawner
     table: !type:NestedSelector

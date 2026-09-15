@@ -24,19 +24,19 @@
             - tag: CrayonPurple
               name: construction-graph-tag-purple-crayon
               icon:
-                sprite: Objects/Fun/crayons.rsi
+                sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: purple
               doAfter: 1
             - tag: CrayonRed
               name: construction-graph-tag-red-crayon
               icon:
-                sprite: Objects/Fun/crayons.rsi
+                sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: red
               doAfter: 1
             - tag: CrayonYellow
               name: construction-graph-tag-yellow-crayon
               icon:
-                sprite: Objects/Fun/crayons.rsi
+                sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: yellow
               doAfter: 1
             - tag: ClownRecorder

@@ -45,7 +45,7 @@
   - type: Objective
     unique: false
     icon:
-      sprite: Objects/Weapons/Guns/Pistols/viper.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Pistols/viper.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
   - type: ObjectiveBlacklistRequirement
     blacklist:

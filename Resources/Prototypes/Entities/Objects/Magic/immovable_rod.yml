@@ -176,7 +176,7 @@
   description: What did you expect?
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/debug.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/debug.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
     rotation: 225
     noRot: false

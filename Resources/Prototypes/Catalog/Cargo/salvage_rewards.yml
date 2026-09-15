@@ -22,7 +22,7 @@
 - type: cargoProduct
   id: CargoCrusher
   icon:
-    sprite: Objects/Weapons/Melee/crusher.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/crusher.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateCrusher
   cost: 5000
@@ -66,7 +66,7 @@
 - type: cargoProduct
   id: CargoCrusherGlaive
   icon:
-    sprite: Objects/Weapons/Melee/crusher_glaive.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/crusher_glaive.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: WeaponCrusherGlaive
   container:
@@ -81,7 +81,7 @@
 - type: cargoProduct
   id: CargoSupremeSalvagerCloak
   icon:
-    sprite: Clothing/Neck/Cloaks/miner.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/miner.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: ClothingNeckCloakSalvagerSupreme
   container:

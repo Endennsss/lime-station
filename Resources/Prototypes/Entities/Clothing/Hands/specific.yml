@@ -10,9 +10,9 @@
       - ClothMade
       - Recyclable
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - type: Clothing
-      sprite: _Lime/Imported/Monolith/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Hands/Gloves/Color/black.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - type: ChameleonClothing
       slot: [gloves]
       default: ClothingHandsGlovesColorBlack

@@ -126,9 +126,9 @@
   description: A pair of nano-enhanced boots with built-in magnetic suction cups.
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Specific/spaceninja.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Specific/spaceninja.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Specific/spaceninja.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Specific/spaceninja.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: NoSlip
   - type: Magboots # always have gravity because le suction cups
   - type: ClothingSpeedModifier

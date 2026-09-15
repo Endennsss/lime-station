@@ -271,7 +271,7 @@
     layers:
     - state: green
     - state: shiva
-      sprite: Mobs/Pets/shiva.rsi
+      sprite: _Lime/Imported/DeadSpace/Mobs/Pets/shiva.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: ConditionalSpawner
     prototypes:
     - MobSpiderShiva

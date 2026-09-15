@@ -5,7 +5,7 @@
   description: A complex artwork of handheld machinery allowing the user to host a holoparasite guardian.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Medical/hypospray.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Medical/hypospray.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: combat_hypo
   - type: GuardianCreator
     guardianProto: MobHoloparasiteGuardian

@@ -8,12 +8,12 @@
       sound:
         path: /Audio/Items/multitool_drop.ogg
     - type: Sprite
-      sprite: Objects/Tools/access_configurator.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/access_configurator.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
     - type: Item
       size: Small
     - type: Clothing
-      sprite: Objects/Tools/access_configurator.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/access_configurator.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       quickEquip: false
       slots:
         - Belt
@@ -150,9 +150,9 @@
   description: A modified access configurator used by the xenoborgs.
   components:
   - type: Sprite
-    sprite: Objects/Tools/access_configurator.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/access_configurator.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Objects/Tools/access_configurator.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Objects/Tools/access_configurator.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: AccessOverrider
     showPrivilegedId: false
     accessLevels:

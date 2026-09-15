@@ -1,0 +1,1110 @@
+{
+  "repository": "https://github.com/dead-space-server/dead-space-14",
+  "commit": "9d9a83655c6d59e655fa6a4ba6cca154d4349cc2",
+  "policy": "Explicit permissive or CC-BY/CC-BY-SA/CC0 asset license; original bytes and attribution preserved. No foreign code imported.",
+  "summary": {
+    "commit": "9d9a83655c6d59e655fa6a4ba6cca154d4349cc2",
+    "imported": 612,
+    "replacements": 612,
+    "replacedPaths": 1065,
+    "airlockPaths": 83,
+    "prototypeFiles": 330,
+    "unchanged": 1931,
+    "excluded": 204,
+    "byCategory": {
+      "clothing": {
+        "imported": 294,
+        "replacements": 294
+      },
+      "doors": {
+        "imported": 42,
+        "replacements": 42
+      },
+      "lights": {
+        "imported": 1,
+        "replacements": 1
+      },
+      "objects": {
+        "imported": 167,
+        "replacements": 167
+      },
+      "other": {
+        "imported": 25,
+        "replacements": 25
+      },
+      "power": {
+        "imported": 9,
+        "replacements": 9
+      },
+      "structures": {
+        "imported": 61,
+        "replacements": 61
+      },
+      "walls": {
+        "imported": 5,
+        "replacements": 5
+      },
+      "windows": {
+        "imported": 8,
+        "replacements": 8
+      }
+    },
+    "byLicense": {
+      "CC0-1.0": 21,
+      "CC-BY-3.0": 0,
+      "CC-BY-4.0": 0,
+      "CC-BY-SA-3.0": 589,
+      "CC-BY-SA-4.0": 2,
+      "MIT": 0
+    },
+    "exclusions": {
+      "license:CC-BY-NC-3.0": 1,
+      "license:CC-BY-NC-SA-3.0": 27,
+      "invalid-png": 5,
+      "missing-metadata-or-image": 1,
+      "missing-copyright": 8,
+      "license:CC-BY-NC-SA-4.0": 22,
+      "license:CC-BY-NC-4.0": 8,
+      "invalid-rsi-metadata": 19,
+      "third-party-franchise-review-required": 2,
+      "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT": 111
+    }
+  },
+  "assetManifests": [
+    "Manifests/assets_001.json",
+    "Manifests/assets_002.json",
+    "Manifests/assets_003.json",
+    "Manifests/assets_004.json",
+    "Manifests/assets_005.json",
+    "Manifests/assets_006.json",
+    "Manifests/assets_007.json",
+    "Manifests/assets_008.json",
+    "Manifests/assets_009.json",
+    "Manifests/assets_010.json",
+    "Manifests/assets_011.json",
+    "Manifests/assets_012.json",
+    "Manifests/assets_013.json"
+  ],
+  "excluded": [
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/performer.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-3.0"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/rainbow.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Decals/Overlays/greyscale.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Effects/fire_greyscale.rsi",
+      "category": "other",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "\"Resources/Textures/Effects/text.rsi",
+      "category": "other",
+      "reason": "missing-metadata-or-image"
+    },
+    {
+      "source": "Resources/Textures/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Foam/foam_crossbow.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Fun/Plushies/lamp.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Materials/ore.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/ak.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Shotguns/db_shotgun.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Shotguns/enforcer_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Shotguns/pump.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Shotguns/pump_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Guns/Shotguns/sawn.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/baseball_bat.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/cult_halberd.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/fireaxe.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/fireaxeflaming.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/machete.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/toilet.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Piping/Atmospherics/directionalfan.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Walls/solid.rsi",
+      "category": "walls",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_ADT/Objects/Weapons/Melee/warhammer.rsi",
+      "category": "objects",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_Backmen/Interface/Actions/blob.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_Backmen/Interface/Misc/antag_icon10x.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Backmen/Interface/Misc/status_ai.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Backmen/Objects/Tools/eftpos.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Backmen/Objects/Tools/rimbank.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Backmen/Structures/Machines/VendingMachines/lootbox.rsi",
+      "category": "structures",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Clothing/Neck/technical_supervisormantle.rsi",
+      "category": "clothing",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Effects/bone_bullet.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Effects/speech.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Ghosts/hydrated.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Interface/Misc/antag_icons.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Interface/Power/obelisk.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Items/Toys/misc.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Items/stoper.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Lavaland/Objects/Specific/Mining/sonic_jackhammer.rsi",
+      "category": "objects",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Mobs/Customization/Tajaran/tajaran_chest.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Mobs/Customization/Tajaran/tajaran_hairs.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Mobs/Customization/Tajaran/tajaran_head.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/MonkeyKing/effect.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/MonkeyKing/king.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/BSAA/weapons/Ares/icon.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/BSAA/weapons/Ares/inhands.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/HardSuit/geist.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Mics/etc/heavy-case.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/asval/asval.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/ks23/pump.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/ks23/pump_inhands_64x.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/rpl20/rpl20.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/vsk/big.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/vsk/small.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/TheCircle/Weapon/weapons/whirl/Smerch.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/blackobelisk.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/bone_tentacle.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/brute.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/cburn/cburncommander.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/cburn/cburncommanderhelmet.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/cburn/cburnxeno.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/cburn/cburnxenohelmet.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/corpsecollector.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/dead_squad.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/infector.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/leviathan.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/medipen.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/moon.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/necromant.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/necrowall.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/obelisk.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/puker.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/small_necro.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/tentacle.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/tors.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/torsPregnant.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/tors_deva.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Necromorfs/tors_hive.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/mega-sandwich.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/nachos_salad.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/nanonachos.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/nuclear_nachos.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/nuclear_nachos_bowl.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/pie_chips.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Consumable/Food/plate_nachos.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Misc/signboard.rsi",
+      "category": "objects",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Tools/omnitool.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Weapons/Guns/Battery/m1911.rsi",
+      "category": "objects",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Objects/Weapons/Melee/baseball_bat_with_nails.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/RIGs/Syndicat/Elite/backpack.rsi",
+      "category": "other",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/RIGs/Syndicat/Elite/helmet.rsi",
+      "category": "other",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/alert.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_boots.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_gloves.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_hardsuit.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_helm.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_hood.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_mantle.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/bondrewd_mask.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/force.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/hardsuit.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Renegade/job_icons.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/builder.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/cburn/cburncommander.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/cburn/cburncommanderhelmet.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/cburn/cburnxeno.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/cburn/cburnxenohelmet.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/medic.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/telecom.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/vdova.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Spiders/web_shot.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Akitovsky/crusher.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Akitovsky/helmet.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Akitovsky/jetpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Akitovsky/kinetic_accelerator.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DrGnar/crusher.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DrGnarAlt/jetpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/chinese_dagger.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/chinese_lamp.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/cluster_petard.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/dragon_red_head.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/dragon_red_jumpsuit.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/man_hanfu_RB1.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/man_hanfu_RB2.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/man_hanfu_WB.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/petard.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/plant.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/poster.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/sheath.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/woman_hanfu_R.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/woman_hanfu_W.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/Chinese/woman_hanfu_WR.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/DragonFox/MadParadox/jetpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/HolyPain/plush.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/LiverB/chimp.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/LiverB/jumpsuit.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Mobs/Species/Xenomorph/line_markings.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Mobs/Species/Xenomorph/organs.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Mobs/Species/Xenomorph/parts.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Mobs/Species/Xenomorph/tail_markings.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/N0rthAir/backpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/N0rthAir/belt.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/N0rthAir/cloak.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/N0rthAir/hardsuit.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/N0rthAir/helmet.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/N0rthAir/magboots.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/PERed/protokinetik.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Prometheus3/pouch.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Qretrojem/halo_marking.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Sil/crusher.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Sil/ring_f.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/Sil/ring_m.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/backpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/belt.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/cloak.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/crusher.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/gasmask.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/gloves.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/hair_marking.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/hardsuit.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/helmet.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/hud.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/hypo.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/jetpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/kinetic_accelerator.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/magboots.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/projectile_crusher.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/TheZuTi/projectile_kinetic.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/awksSPEKTER/jetpack.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/fffgfgggg/backpack.rsi",
+      "category": "other",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/kloopre/hardsuit.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/kloopre/helmet.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/vjlados/backpacksilver.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/vjlados/beltkatana.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/vjlados/swordkatana.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Sponsor/walkflis/toy.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Structures/Decoration/cabinet_flags.rsi",
+      "category": "structures",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Structures/Decoration/full_flags.rsi",
+      "category": "structures",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Structures/Walls/girder.rsi",
+      "category": "walls",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Structures/Walls/solid_dark.rsi",
+      "category": "walls",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/Structures/obelisk_cracks.rsi",
+      "category": "structures",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/K1llaro/banner_targ.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/K1llaro/claws.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/K1llaro/dragon.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/K1llaro/valyriansword.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/K1llaro/valyriansword_inhand.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/Krapik/MeatCreatureGiant.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/Krapik/MeatCreaturesSpecial.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/non_stop_kaleka/UEG/Objects/item/med/holo_stasis.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/GeneralAngor.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/SSO_uniform.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/bodyguard.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/guns/weapons/abakan/icon.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/guns/weapons/abakan/inhands.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/guns/weapons/mg42/mg42-icon.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/guns/weapons/mg42/mg42-inhands.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/guns/weapons/rpl20/rpl20.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/heavy-case.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/jobicon.rsi",
+      "category": "other",
+      "reason": "license:Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/TEMP_FOR_EVENT/uuuhhhh_magic/ANGOR/medsuit1.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/_Soyuz/Objects/Weapons/Guns/LMGs/rpk16.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/_Soyuz/Objects/Weapons/Guns/LMGs/rpl.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/_Soyuz/Objects/Weapons/Guns/Rifles/asval.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_DeadSpace/_Soyuz/Objects/Weapons/Guns/Rifles/vss.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    }
+  ]
+}

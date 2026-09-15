@@ -6,13 +6,13 @@
   suffix: Empty
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: paper_bin0
     drawdepth: SmallObjects
     noRot: true
   - type: Appearance
   - type: ItemMapper
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     mapLayers:
       paper_bin1:
         whitelist:

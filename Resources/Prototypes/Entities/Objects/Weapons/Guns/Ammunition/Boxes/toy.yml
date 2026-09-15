@@ -46,7 +46,7 @@
     steps: 4
     zeroVisible: false
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/Boxes/magnum.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/Boxes/magnum.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]

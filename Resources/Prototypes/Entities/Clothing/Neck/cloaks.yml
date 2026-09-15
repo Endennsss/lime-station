@@ -16,7 +16,7 @@
   description: A pompous and comfy blue cloak with a nice gold trim, while not particularly valuable as your other possessions, it sure is fancy.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -27,7 +27,7 @@
   description: An exquisite dark and red cloak fitting for those who can assert dominance over wrongdoers. Take a stab at being civil in prosecution!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Forge/Clothing/Neck/Cloaks/hos.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/hos.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -38,7 +38,7 @@
   description: A dark green cloak with light blue ornaments, given to those who proved themselves to master the precise art of engineering.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/ce.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/ce.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -49,7 +49,7 @@
   description: A sterile blue cloak with a green cross, radiating with a sense of duty and willingness to help others.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/cmo.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/cmo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -60,7 +60,7 @@
   description: A white cloak with violet stripes, showing your status as the arbiter of cutting-edge technology.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/rd.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/rd.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -71,7 +71,7 @@
   description: A strong brown cloak with a reflective stripe, while not as fancy as others, it does show your managing skills.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/qm.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/qm.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -82,7 +82,7 @@
   description: A blue cloak with red shoulders and gold buttons, proving you are the gatekeeper to any airlock on the station.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/hop.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/hop.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -111,7 +111,7 @@
   description: A lavish and decorated cloak for special occasions.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/capcloakformal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/capcloakformal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -133,7 +133,7 @@
   description: Worn by the most skilled salvagers, for one who has mastered space and made the mining asteroid his domain. They don't just hand these things out, y'know?
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/miner.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/miner.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingNeckBase

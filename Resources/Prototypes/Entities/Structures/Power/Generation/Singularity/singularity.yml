@@ -71,7 +71,7 @@
     follow: true
     location: location-singularity
   - type: Sprite
-    sprite: Structures/Power/Generation/Singularity/singularity_1.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_1.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - map: [ "VisualLevel" ]
       state: singularity_1
@@ -81,26 +81,26 @@
       enum.SingularityAppearanceKeys.Singularity:
        VisualLevel:
           1:
-            sprite: Structures/Power/Generation/Singularity/singularity_1.rsi
+            sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_1.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: singularity_1
             scale: 1.0,1.0
           2:
-            sprite: Structures/Power/Generation/Singularity/singularity_2.rsi
+            sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_2.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: singularity_2
             scale: 1.0,1.0
           3:
-            sprite: Structures/Power/Generation/Singularity/singularity_3.rsi
+            sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_3.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: singularity_3
             scale: 1.0,1.0
           4:
-            sprite: Structures/Power/Generation/Singularity/singularity_4.rsi
+            sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_4.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: singularity_4
             scale: 1.0,1.0
           5:
-            sprite: Structures/Power/Generation/Singularity/singularity_5.rsi
+            sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_5.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: singularity_5
             scale: 1.5,1.5
           6:
-            sprite: Structures/Power/Generation/Singularity/singularity_6.rsi
+            sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/singularity_6.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
             state: singularity_6
             scale: .9,.9

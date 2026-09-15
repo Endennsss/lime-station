@@ -1,0 +1,1448 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/security_grey.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/security_grey.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/28d0be60aa8bbe1ca87a5d129487bb6f60839ac4. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, resprite by pyfya and inspector_jeleshka (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "7ceaf94a14327fa61568a0caeb4069c5c8db7393bc535b2944543a731a129c61",
+      "equipped-INNERCLOTHING.png": "54b66a4e733d8ac4f8fd56ca2e21886cec3feb0bc680a957d0031498da7f9e35",
+      "folded-equipped-INNERCLOTHING.png": "61d7f9749df9a7941aeb0a667df3669afe8b1410b727f10814f668e1fac21a42",
+      "icon.png": "b48311c34cb4dbe8d7fb2fd4d1ea5150610c25e6b4db32a4bf7f2372e93911cd",
+      "inhand-left.png": "1b59912afc207924a5abb7849e7a895f1f26067d744c78b269ce0b048000b346",
+      "inhand-right.png": "81cd163bf3d7f2d9bf57c72668f73904aedbf9e39bf716aa6d58b0bdf69478e9",
+      "meta.json": "02635878f43bc9dc72ae0940ec67a4664efd11aa3dcba5bb1d0a95b6862661ce"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/security_grey.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/security_trooper.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/security_trooper.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by DieselMohawk for use in ss14, resprite by pyfya and inspector_jeleshka (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "31000fe08dcc0d1f268ea1316f160713e85e566af02027ee3e46c9bceccde7b7",
+      "equipped-INNERCLOTHING.png": "115e86c38ff671d7758a4244bb13126adce39795f63d4267cb22064cda5b66fd",
+      "folded-equipped-INNERCLOTHING.png": "26553cc16498876121a070fb80ca597246183e85bfdb61629658316bfb83d388",
+      "icon.png": "6671fd616fac012e81bd8a3019923c0b98052cb18d4e15cec1a741a685aad4bd",
+      "inhand-left.png": "ea93cb8a4abf7dc97d44fff20947995e95b850e3e73e9d710d060a3aace35b0b",
+      "inhand-right.png": "1f9433673adae04bc5480d597a8b22358a25f94be7f809ee08a59ba6b24c39cb",
+      "meta.json": "bebb380afa335d48c6fe7d2ff6a8066c807c081383b1c3aa23e454b708d327ad"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/security_trooper.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_officer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/senior_officer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Edit by Nairodian (github) of secred_s taken from tgstation at pull request https://github.com/tgstation/tgstation/pull/2984, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "2e22a582c1ccc2366ef29f014459958087d27fb0c4a218cb6852f952042dffaf",
+      "equipped-INNERCLOTHING.png": "858d4a301946933b05bdf78a5963065bb35040466a2e2ebf75fd33dcfd380653",
+      "icon.png": "9817fb1fa0be06a6601277cc070044e19acb83e9437adbcf2976296116de3242",
+      "inhand-left.png": "2828f2bc4e756f40b0897b239c0a5d1399e049fd5bba5ba0851985885c8cda05",
+      "inhand-right.png": "9bf5b9db2e5f1428e2c0fc5c7d0f41b31d6efeb3d4d61972f49d11520630f6f1",
+      "meta.json": "41bf0fbdc513cceb02c2eb1fd3c7566d43b158ecd76f0abdf4ee5c1d9d162fc6"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_officer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_physician.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/senior_physician.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Edit by Nairodian (github) of paramedic from tgstation at pull request https://github.com/tgstation/tgstation/pull/48236, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "4549609b99c39513226b5f6ec4197ab2712280e0bbcd125dc39baa6f427ca8b8",
+      "equipped-INNERCLOTHING.png": "5024c21d77c71e1701d5cc2858160c6b25af3cc6c27e3d08a6f95588e3f36ea5",
+      "icon.png": "426fe53122f807400336d008547da06cdaf2acb9d10ce748abbfbacee3f2ab00",
+      "inhand-left.png": "0df5388c83842b2a53c480666f802f221987e9049d295c6479ad1e906cadb6f0",
+      "inhand-right.png": "c49549f5c8ba25cd41ae1b25b69897e4fd8307690ce02df1936cec74da9ca122",
+      "meta.json": "cd2491e3c8f3973ce1274482dc1b71ce9162dc027ac5dacc1d51bdf49b90d9dc"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_physician.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/77314/commits/7a16870a23123fc78cafd2ae55414c8f39ef1a74 and modified by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "52ec11f43e5cd1fd51cf6a760305aaa08eb243663f90dac9bc324781e7c2d623",
+      "equipped-INNERCLOTHING-vox.png": "56c060e50fdcff38920321e8af2f3a582231c1a92038a30508e29a670e3d5579",
+      "equipped-INNERCLOTHING.png": "1e30485f18c515011afcc13c19a475ff6cbd4bc667d25fbfa9c1c972f3672f4f",
+      "icon.png": "e5efcdbe42b2ff3127a03ced5add71745079f1dd2959a464323b96f7701bb46d",
+      "inhand-left.png": "af7f20b8b663f40901effca8bfd90ea4e5fb569457495e630da23478cdc44a21",
+      "inhand-right.png": "40dca22744ed348bb5d3aa6e37880c54cce67492bd77e5c83897edd84f947897",
+      "meta.json": "ef8f4b792136d89868c267e785d974b8200aea59587d15ce1a3c7e260c8521b2"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/senior_researcher.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpsuit/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey made by brainfood1183 (github) for ss14, Resprited by Mureixlol, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "62c4e9f42df85b59a7049c3d7fc6e9217eb706847885828fb4f11616a937ed95",
+      "equipped-INNERCLOTHING.png": "23505dbdb819831e2aff5a380d818fa70a7e54c77a7388d61033f71d28fa3cc0",
+      "icon.png": "2b489cd42b1762b5d24dac5da24c2a22dd32d7643cbc7b8419454ce27bc1af87",
+      "inhand-left.png": "89739b1894bf28dbaddb8733e0be96468feebeae7e87185ea46dda210ccca439",
+      "inhand-right.png": "4dd0291b0c8975afbc59bc9b324fa52ce24c44fc1f51135b09887782bae15087",
+      "meta.json": "f7e1f78514efa967b799b8671f06ef158b059fe68b3b36ed9eee34cdb226a95b"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpsuit/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Scrubs/blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/blue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "787a5a0af063581a5c8cc80ac1f9bb33847bcbf13f10a485a1b2fcb3254222b2",
+      "equipped-INNERCLOTHING.png": "831153cf1903defb77c4d78273b9b2dd471c24515ef58d287ffaef9e7a9045ed",
+      "icon.png": "7054f249292336b6f89d6493743783aa3b9d6a4925750a36f3ffe89d097f6435",
+      "inhand-left.png": "84304d538020b50df55ef5a61f823d87f99afeca9d41f9540f558eafd826b8ff",
+      "inhand-right.png": "c2de16703d71df3fec55a920c61c9ba81e9a486689c918c4bfa4ffc650003bb7",
+      "meta.json": "d553ed3f8be68a76bccbfce805d2516da5e04a8bf928d7555186fa2e1d171684"
+    },
+    "replaces": [
+      "Clothing/Uniforms/Scrubs/blue.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Scrubs/green.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/green.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "3ac5732abedf619daf60e0d2709861fcda7c125521e040dd2d60660dbeebf3c9",
+      "equipped-INNERCLOTHING.png": "70df8640566eee909db33eddfb8039651176467fb24000d1cd599a932baf73c7",
+      "icon.png": "9b6e29a7a5bf73349e21193d002afd7b0fb15f27dd2249a02d53ba1f5a749608",
+      "inhand-left.png": "184dda240222ecdfabb83fd30d42ac5a1821b67e22f4bd51cba9c7d6c3882fab",
+      "inhand-right.png": "c2c88e77c8be642f6c960de311e9ce283f999cd6acb731d3cbb34338cf940ead",
+      "meta.json": "d553ed3f8be68a76bccbfce805d2516da5e04a8bf928d7555186fa2e1d171684"
+    },
+    "replaces": [
+      "Clothing/Uniforms/Scrubs/green.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Scrubs/purple.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/purple.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "12e51487ba43bd64c22073396c37572e1e4fec89d3d06415a311ac1a02b99466",
+      "equipped-INNERCLOTHING.png": "3f9912cf0c1e29eec1622d09e0f4573537cef56207791d6c808e7c4ae8c26505",
+      "icon.png": "bff3a3d976b422aceb9d123f07c1f393e18bad6aee6215e71ab4fbd387c9afc7",
+      "inhand-left.png": "60ffd380e05febae73ba89e152048a9bbdbc4fa44dace8da421040d316effc42",
+      "inhand-right.png": "d6b8b14b488e574f8c5d19073a71ef243a1eb69fa23c02cceeb463d98697a03c",
+      "meta.json": "d553ed3f8be68a76bccbfce805d2516da5e04a8bf928d7555186fa2e1d171684"
+    },
+    "replaces": [
+      "Clothing/Uniforms/Scrubs/purple.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Decals/bricktile.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Decals/bricktile.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "Made by github user @Morb0. Modified v2 by ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "dark_box.png": "6d446f22abde89e423b97a0cffc7d262b4f290d82a8571460337ef62e6ff5175",
+      "dark_corner_ne.png": "605b498f20f015ba0a0167450e0892718518c41b79b0c31727d237c3070b869f",
+      "dark_corner_nw.png": "c7a832c38850afe604b1a8d46a5d79bbb2b415ca9b55f64e9f6d02cdef9830ac",
+      "dark_corner_se.png": "af9dc594c82f1864f877a489bbee4e848c4dd84d32a518670893028817007ff1",
+      "dark_corner_sw.png": "ca61106a4011455e6fc9878a0c7651e6547b223675c47b3066318d5952d2d288",
+      "dark_end_e.png": "79a6ed285f260dc69a349764c6b305d4be731c735488b0e44e0a1c821e32f0ce",
+      "dark_end_n.png": "4ef83ecd60db73aa540ebf6f3022a6d4d38573f134ef92530e4f004c76a59c14",
+      "dark_end_s.png": "6a3391606f955131735c6a513ba8c9bd676acb16af4322fdd43de820ae36ec6f",
+      "dark_end_w.png": "7c8b0694dc212ce0e16786123e0272dee50d0418487d0c816f8d6b6db85b93fe",
+      "dark_inner_ne.png": "70801c5004f4599b67c1a55c0a5e5714d0d25862bc97b298d1a4a484ea885aa0",
+      "dark_inner_nw.png": "dfa8d4c9ff0c8b8eb1933427673500a786b9f3181558b62be6e88823d7d9ecc4",
+      "dark_inner_se.png": "f6c8a65ec68e088fc8ae11777a60fd417e341184f39ff854b93220b95e009726",
+      "dark_inner_sw.png": "12a14c18e50c702f47680bb385a8d74066bffa4719581b6e933f375576db5048",
+      "dark_line_e.png": "51b0d1a1858fa1b946785d83c7fc4c9b3a8c11c210af994c58c7be6fd79d0038",
+      "dark_line_n.png": "213c71ff5dbfc35bc80892906a65af30ffab1fd5d652da651520a199db97f57d",
+      "dark_line_s.png": "c4049aca6fb5b5f20c1c1bc51322de50b4ffcc4bd47df6b5cdd600d809e90d2b",
+      "dark_line_w.png": "ab1f3544cb8117accdfc61b01aadc259c71a1f1dab05d3c0d4b7deb70df5c06f",
+      "meta.json": "45f369246e11a54f57f9954055dedf67930193339706b8820c306b3134e5a6dc",
+      "steel_box.png": "e3c07e79c364396f3a3e98e491c45902d92c363b64a158bfa6cd64c62928d6af",
+      "steel_corner_ne.png": "1ad2ff799f3ef51f05190b967e877af85eeadcd0d969a6f938be135809f5723c",
+      "steel_corner_nw.png": "e2810e08b86979b76d354e823db98f84f81bd4c2a5fb98e92efda3908f913eb9",
+      "steel_corner_se.png": "39310e4f40c4327616f8a9fc64d6ca465cd17cfb9ad2713b76f97719590a7b01",
+      "steel_corner_sw.png": "9aa46fda72e3103ff831340ed82eee751543e8af455903ec270aeeac5d549cca",
+      "steel_end_e.png": "a828c653bee0f2fd075126730332ed7e1a1818d9817cd127f5c8f7fe9f541b29",
+      "steel_end_n.png": "135abb4aeac66c35e2815497f45f713bd44e7f975959cdf188f19d939f03fb2d",
+      "steel_end_s.png": "484d2b2428ef228305b8fb085533f67b04215c4a4e7a2fd7fee3b1550e2bdfcc",
+      "steel_end_w.png": "1d65563fb5cc02763b475a97b5bf34776c59ffbbe2b2a84aa49fc00e99c8652c",
+      "steel_inner_ne.png": "0e1c8086ddacfb07b8c7b0205e936606e203849beaed4c7534372f3ab670301e",
+      "steel_inner_nw.png": "1f80d0b9e62d09ff342a627f1b588570a23ecd7b309254dbdae1a62fdad33cf3",
+      "steel_inner_se.png": "4ac33e1b9211c1494b42bc52950b067b1b74cc6b328d76902fcaf2b47f247661",
+      "steel_inner_sw.png": "2cd7b12c51d61809cd248405313469cf220e83504e4ba86031a39f73dc6e91d9",
+      "steel_line_e.png": "5046c9a89234943b54ba88c1229734349bf70475b3423146ac73e94df3c6ce1c",
+      "steel_line_n.png": "37e5f9ae59a4b8487b3d189cfd57091fd68bd2168580ee3982eb273a634ce281",
+      "steel_line_s.png": "d35fe22d4c336f8caad131d4d2d437b92fc884af3aad2cd3c18b21af05e17274",
+      "steel_line_w.png": "4479305a96f33634a9ecbc3df34249988193996c046146b3ca346a42c5e19458",
+      "white_box.png": "31cc71a746862adebd7c50588c6734720d4b332b4c2566b3ddd20abe7aec1e0e",
+      "white_corner_ne.png": "f7ba797ae5bc67607edf6697af98ef5888066031b1a075b877d5403b0a6918e2",
+      "white_corner_nw.png": "1f59fef821d8721bda81195b0467a794bd5cadb254d119680e3455e1ae093657",
+      "white_corner_se.png": "dffdb9a7a6b57d04716d226135eaa12180fb527aec100643a86813200730961f",
+      "white_corner_sw.png": "1b66ca0f5cd6e98b2c1a9817be7b773ab00c604c9f96e54204346ea12b4d2c40",
+      "white_end_e.png": "c7694ed9b4693cd47380c24106ee41ad0fe7a50c5e94799773e3f7dfee9355c1",
+      "white_end_n.png": "f68753d0f989a90045d52e8de83d7f9dde42532e38a8888459749261eeb6967a",
+      "white_end_s.png": "ae1ca1dd795af248c1101ac50ee6aa045d6316b024b6ad9278123bf87604f693",
+      "white_end_w.png": "5c33b8086065f2d66ae7f8ad9cb87b64bcbc860b5319f9d8d4a837323ca8e527",
+      "white_inner_ne.png": "8f56752aa195ce7375eb0569970faf7ecf3efa682fd33c2aa155c7fd33af30a2",
+      "white_inner_nw.png": "b042917cc0346787931ea01812208db382db6bc4ab61701856aa7fca06751bac",
+      "white_inner_se.png": "699ff2a689516673f7660cfec415c69ee64d6f9b5e138b2d5867fd155caf97e6",
+      "white_inner_sw.png": "ad9010aeb3edb2e37fbe122c1e281248639d76ae257b277ebef04392bb7ec096",
+      "white_line_e.png": "e9144e9dea2b20e82c44b83810ad9650b409e0c727f0247d510f7226b78794b0",
+      "white_line_n.png": "92da98b84cde6cdab015520e08d305c5c544ccc031a0c74f7b27442fefd8cb22",
+      "white_line_s.png": "821e3b246215d34892a7557a797b3943f5234525a9a64d4e0536f15020eca535",
+      "white_line_w.png": "4cfe6389c599dceedf1fef07c0165eab610940d2565c84afad721ed0e06757ce"
+    },
+    "replaces": [
+      "Decals/bricktile.rsi",
+      "_Lime/Imported/Monolith/Decals/bricktile.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Decals/minitile.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Decals/minitile.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "Made by github user @Morb0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "dark_box.png": "ea3bfbe7eba8851cc35cc2798e251b3963a083dca3e72694e668f4156107277c",
+      "dark_corner_ne.png": "cadc2d14cf0c7010bfb9a0f04007535fb6efe14f8e75e8f8f68ba391a200067c",
+      "dark_corner_nw.png": "3e0d4081e721d133104fec33d7af310024d85678f9e23d692613335eece67ea7",
+      "dark_corner_se.png": "6d2871c7572268217e58c6942ed3a3d542c65c341fc823433c6ffebb8235e76f",
+      "dark_corner_sw.png": "630b398058fbdb21c68d690eec8eb5a4d58a198ff7e22cc861f7116e9cff63b7",
+      "dark_end_e.png": "2b57c8f724085489aad77554225af5a8b26357ae089cea0809e5929a89e4ae16",
+      "dark_end_n.png": "076b96b8a2cbaab9b002366f0b4f2ef96dcdddd6f094fcc22fd6035dbb816132",
+      "dark_end_s.png": "f49b5397216dc8a212f2e77175465ce93ad36e408415d8ce51f18e4449253ca4",
+      "dark_end_w.png": "75334b5a3836a66df4a0f137c022099b259f1b39f5c61985f7951e96a29b530d",
+      "dark_inner_ne.png": "92471aede28dd9bde8f623aeb450d28573456afcd8a1bb2bd2f99c61aa639daa",
+      "dark_inner_nw.png": "7ab64a739a0f30afdf0fd6a0720a3f9effebcb6d70856502c326910f169c5b8a",
+      "dark_inner_se.png": "44ccdfbe761f1a1a1cd326f67ab58f08cad82c38c416b943b92323fde5e662af",
+      "dark_inner_sw.png": "21176efdb2d65b86d273c0dec3f2a3aa1266d33d33b62fdcf41931c80f804211",
+      "dark_line_e.png": "fbe24b4337e3fa2726e29be3ccdeb43deac4f99a68dc9d74bba7f77072f5c67a",
+      "dark_line_n.png": "acf5ecbabf177bd562c21591c232d4f52d6d348a77aa1e9dce1115f941031fcb",
+      "dark_line_s.png": "fd32f7328f8238788fc8c1bd9fe197a39f8e19cbb415bf607465af9b801f8361",
+      "dark_line_w.png": "2db438dba36b40ddd658eaa34f71000185039d53a9af59a21e03bbb84a25d67a",
+      "meta.json": "0309367847c17eae8f7b62f83c32c44b0404d14caec7336557a0c08d8fe5f6d7",
+      "steel_box.png": "8b92dc21db3ca0c7868cf92bf86cf203e4c4bbbb8ee5789e8af9d46ed1df5bf0",
+      "steel_corner_ne.png": "f649bfa70c84fd547bbae70d5eb6f2d5587300d8463136bf301c9d27a17a1248",
+      "steel_corner_nw.png": "1dfbeed92ea2d21ba5c089b29ec32b0ae7a20dabb02719dc0dfd7f075989f984",
+      "steel_corner_se.png": "8bf59ffeaa239ec5532ddfc607d123f78c19ee94505bed80a9e12ed9e2e7b6cb",
+      "steel_corner_sw.png": "cba8598c12870d72b29c5c83148e0969febbcd706332775477c32ccbdeaabe3d",
+      "steel_end_e.png": "6f301f2d7dc0470f164cebf7bc26d2deb640eb4ed198bd5d965fa1495cff665f",
+      "steel_end_n.png": "5d0f6f1f74656edbfd45e52d509c1a53f1c2c19ad94742035a590170917516cb",
+      "steel_end_s.png": "b57f299d141fcb351338ff4caac1d1495afc7c39dd11b699d7e8e0ce12d1f007",
+      "steel_end_w.png": "122e6b64287bd784714aa83d787b60b0014f8dc09c5ab2276cbb04e1a91a11ab",
+      "steel_inner_ne.png": "3d9587fc35e34754662efd4f793ecafd87d1d819d62a17b7a03de8d68f2aa908",
+      "steel_inner_nw.png": "2f11e044ecd299d966fc218b1bae8a5a3cbcf75718af43f42a73f2d20b44b8c0",
+      "steel_inner_se.png": "a653c4530112ca40eaa1552776755e7d686e0c352f48e564f940abe7e7180d3c",
+      "steel_inner_sw.png": "ddb7c88dc656a4a09a28e0eeb02b7be7343d0f152396b7d80b5c3ab9c5670631",
+      "steel_line_e.png": "f5a3dddd0f342ec7288ec2a665d0a289711eaf57438aee865be55e16fd8dfdff",
+      "steel_line_n.png": "06ca7d7bd50540fa7a34b2dbdeeec1469f02797e4ce78fa45b6a21383fe151c3",
+      "steel_line_s.png": "11ee0ccf189a8aca32c8f17158ce4338cfc35886c6aa695d2cece582db0e08eb",
+      "steel_line_w.png": "92807c97d84ecd0a7a38824c0818df815a2459601f36d8ccae692b3abc3ffe59",
+      "white_box.png": "cbab67861d453cd077d0d7a00a6027124e1980985ed04b6944e107af7f88952c",
+      "white_corner_ne.png": "e51474c30d1b24f73c1b2836ddb26b0ae0399d81cdfc3209e8a91d9a45e95d06",
+      "white_corner_nw.png": "73498a6c3bfaddfcd2c983eed6ad28289320d74a641757a0fdfb42dbf8b6d19a",
+      "white_corner_se.png": "16c489aa5f4b3aa67c139103ef8f3a62d61be735006bc3233a6b39eafe176ed8",
+      "white_corner_sw.png": "7ae117487299c60f5595399b11978f0bd85ca1caff5edef8fdbe2fe92c53d85c",
+      "white_end_e.png": "5670516713f09624a11c2f1f7fa98604a273e78e3c5a8939981095d52078bced",
+      "white_end_n.png": "d29506f83d0af85ef238ad5c3e4f639beb14d901391580b577b22aa29c18745a",
+      "white_end_s.png": "1842462705205038bd6946390096d98e560b96c99040726aa5940e20d634e98f",
+      "white_end_w.png": "c7c105f55f78fba73d3a85556c18e185c5078f36121341cd1f57e135e816d051",
+      "white_inner_ne.png": "d34d2dbf4923e67004ec130442dbb1f07ad367e309ca5618f4728aaa982cd9e8",
+      "white_inner_nw.png": "bc7cab76b50ec972f8fe83ecbbb2c2b1929a43464d2e13ac19ac9548eeb6399d",
+      "white_inner_se.png": "a8a43741f3ed080509bd4f15ca971d21bd6fbbf906ca202641a3320ac35692a9",
+      "white_inner_sw.png": "af1355494a43ffbd9977ebb4348fc58cfadf381a167de25700557a87e14151fe",
+      "white_line_e.png": "cb494bd99b3b14759c6b544f66c2fce2b8a848781df881dd034dd18568f35b38",
+      "white_line_n.png": "55ef740b7668e6c5e994b200ff11db6b074e2886c1e4569f00f5408e02ecf878",
+      "white_line_s.png": "9b9708c21a1cca7e272cf4c3211999aae514f9b414d3ba3f2609da4ec6d43b7a",
+      "white_line_w.png": "1abe6449b2ed93cdf6d99e3395ef2b4f7d30ba04ec8fffa28743ce77326a03fb"
+    },
+    "replaces": [
+      "Decals/minitile.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Decals/wood_trim.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Decals/wood_trim.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "Made by github user @moonheart08, modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "a9ca34d8083fec18d902bc92e108fd6ffc031483f89bab2333a21447594cc8ae",
+      "thin_box.png": "66b045fc0d4413029b92c087458ab4d1effb76c9dbb34365420bfa56cc94e68e",
+      "thin_corner_ne.png": "4039d79ecaef273baafb1ef60cb54509d2da63369ab9226fcbddf9f0e5ea260b",
+      "thin_corner_nw.png": "112a2e67183ce2131adf2625c6f446a4dd6727eb8d3412bbf05efc17e8f2dc9f",
+      "thin_corner_se.png": "d63a3f999d1823fd9872ff986af3b4c138ec2c9afd3deae6560be829fca78d4b",
+      "thin_corner_sw.png": "1f25813e5467b85a6e66354217c1c47b075da2593dc09d1677b5cd0ee7bd2706",
+      "thin_end_e.png": "a0ffb1b069167826bfead160431c90302bfaae9e56079653545507d01ad15830",
+      "thin_end_n.png": "8a74e839fe5d5c18fe00550f7bce0abe2f8f4e201ac58852a02fd563ed9655b5",
+      "thin_end_s.png": "570b78797cba615da77e6904ee7a19393ae1875416e4312dedcd9c54a11f350a",
+      "thin_end_w.png": "383ae25d35d6052f91ee69282743a1d383905142d21e965b4854b2f5903e5761",
+      "thin_inner_ne.png": "62d0f70e6f15966e0ad1e17c318afafef4fcf2c99d556f485529ac868c0b86f0",
+      "thin_inner_nw.png": "dce95e190d642c0c1aa357d72b293430ec14ff24c291fad2a6a8c3fadd782ea8",
+      "thin_inner_se.png": "8264fb6b0a71591d0b7d693663a78e9215a3804371af9df9442c2b968cc56012",
+      "thin_inner_sw.png": "68e85daf8282358ce25acce2f53bbd16dedca43408ef0f078acb4e2f3fd72f71",
+      "thin_line_e.png": "5da1a6f5bb4498f0199e555f8a495be28d34b25c64900dca5c0466e1d1c15a7f",
+      "thin_line_n.png": "cd6dce1ae481b8399e942212a41ccb79e6bca950945b168552cb83e39501ebe6",
+      "thin_line_s.png": "53b4321c63ca451a3d035ed3f05f0da02cf92abac65c5a17d37c04c7f59baec1",
+      "thin_line_w.png": "09c1211ac6cf3147e83c2dda38b94c3ac1a6f20c0667cab489e44ad203e3e4c6"
+    },
+    "replaces": [
+      "Decals/wood_trim.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Interface/Actions/actions_mecha.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Interface/Actions/actions_mecha.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a, mech_eject, mech_ivanov_cooldown, mech_savannah_cooldown, mech_view_stats localized by discord:kuro_0001 (388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "mech_cycle_equip_off.png": "00a17373f7f6ffc67335431ea36a02a64f73462cb2c278395b21a9499697fc2a",
+      "mech_cycle_equip_on.png": "9a281848ec579e566b0eeeeae2446b25da59cb8c6e8db0bb6acd5491c502a9f1",
+      "mech_damtype_brute.png": "506e0a8f32bb359cef17f43b1628b6d80c94f9b6eeba8ea42e0e45878c134aa4",
+      "mech_damtype_burn.png": "837b869c1616c1f2b8b99f6bf0e2dce2d4e2e60893a5196995bd9656c6ab80e6",
+      "mech_damtype_toxin.png": "38e888ed309767f1c8ef7af0446e46b8fc82abbdeae59401b819dbb655ed2609",
+      "mech_defense_mode_off.png": "2d65afac3bf15aeae38b416315a460f55d7cb826e81953f0747f791eb63f0714",
+      "mech_defense_mode_on.png": "b91dd1d61cbb2c9914e405a9c756879bfe6ee54cfd4e9e40e328d6138f069950",
+      "mech_eject.png": "ce939052e3183952f1817662fb07db9355853d2930f0c022aec49706506579c7",
+      "mech_internals_off.png": "10558a1f79c016c9caf1ac25a659b79b149858f25ab2910ab8e47729a2dd4617",
+      "mech_internals_on.png": "e534b69baa5efa0426deb0e0f96094d74c252aab8253bb076ce87774caab2de5",
+      "mech_ivanov.png": "5ab2344122c8031c306a2c14dff8a78517cba7c03bf690274eaec4d60c6f88f6",
+      "mech_ivanov_cooldown.png": "8f410174f532f0a593a45c2c41d83bbe574d72705ff123a4fb6a227db523244c",
+      "mech_lights_off.png": "36e79edd4d6db7343c111128e5b12538d53753416a53fedf310d385e15a9a64c",
+      "mech_lights_on.png": "3d3e1a28c2ac94944a698f1d22a25a2fce68a55a1e890ea2f064f31903764908",
+      "mech_overload_off.png": "3d696d721d78a4cc4fb6c9abbbca497fa657663fcf1c771f23e217f8e5210d2a",
+      "mech_overload_on.png": "f74135f08e8e57dad8c5c3b46841b844e8ff5f46d5d9767158aa86b5a9adf49d",
+      "mech_phasing_off.png": "47804c69516ea2abe5ef6942fec4078bdfdd4fa3fa9b0486bbb2800f5a1fde12",
+      "mech_phasing_on.png": "c8041dd2d9262ca79ff93e5f88f79b93ad139f653d3571889246425c9457065f",
+      "mech_savannah.png": "bab552410be292340e3f2214f512eb3726897db0bb5bc2f4986a224c47157737",
+      "mech_savannah_cooldown.png": "6b5427a356aae348ff3c7114a2f0289083b9fecbd72c2c632fd07c5281ec802d",
+      "mech_seat_swap.png": "62e09eb79121ccbf95c223cf1622f7a53ebe0c95295cb619b2a5939027df3878",
+      "mech_smoke.png": "a6be3d6f0ef8230f8fd19195211a9f7d2181c93beca9494290ad655127fcf899",
+      "mech_thrusters_off.png": "652b5892501f1f353d1588e8899393eb237868adf9b4f5889bb8fca9fddc0387",
+      "mech_thrusters_on.png": "561500a248246e6576e0c69a7a876abc843c932da0624614cace0d10de462538",
+      "mech_view_stats.png": "5b5d7c3de2314bf808f15dec5edb8a59b06214d007ddf2ef6a1787d962d68769",
+      "mech_zoom_off.png": "eb3b36fd55383a28838e4aa444a83343215008d786925c39bc49ed44b85ddbf3",
+      "mech_zoom_on.png": "0a31d759a3be2e5cdd75e73b3a44ab987c51d9a5db79280b96fb689ff518ee51",
+      "meson.png": "fa1bd8cf5320fe9d05a4d591f5c66dcb39a54b871dda22add514121d7d44603f",
+      "meta.json": "ecd7fc0c9a63e532906d9f98dcca32704ff501a0af9356f19849246dadb847f7",
+      "strafe.png": "c08237234b196995d24ac3cbb9edc1723d8328212dc65a8cc03a3507e02f2947"
+    },
+    "replaces": [
+      "Interface/Actions/actions_mecha.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Interface/Actions/actions_rat_king.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Interface/Actions/actions_rat_king.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage404 (github). ratKingArmy and ratKingDomain taken from https://github.com/tgstation/tgstation/commit/3d049e69fe71a0be2133005e65ea469135d648c8. stay, stayOff, follow, followOff, loose, looseOff, attack, attackOff localized by discord: jerryimmouse(848188612293951506)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "attack.png": "4b562c4e04c8b976524c4b6cf819dc4ca8fab34d5369dddf5fb4dee0f8c6e7b6",
+      "attackOff.png": "de5f9fb81569a7c47393fd6643268d661b646bc3f2a605a95f04efe276e874b2",
+      "follow.png": "c50d50469213b26c211625f2c010d904ea21241ecfaaaa44b86dc5ed49339fea",
+      "followOff.png": "77bb752f8e2b0b24f821f4f1e319975a8ee70163c9ea48e2dd77be7b1757fc6b",
+      "loose.png": "c0b7344d0de4344d2831b9061aadef8091db873b0e612320925c2eca0546c249",
+      "looseOff.png": "9f8a53a891dc78c31e4d64bb14e354d44625aae7525d41290212fd76ceeb6bf6",
+      "meta.json": "3008f11e3d7815c8b249e365b6da2a444c10ac02eab2b0a70a34a0b36a5d8abb",
+      "ratKingArmy.png": "fcd1f992bcb2eabbfe20f2603dfae0a5bf333b4420a42b6844aa21d0178f62f6",
+      "ratKingDomain.png": "f59650f15dabd4596c0949ca75b82ac6141c68ba8516cecda7c504dfe5b004d6",
+      "stay.png": "8b973b061eddcad2fe785d954fea66865db483812d7b1b7695e3378bcb0cae44",
+      "stayOff.png": "994681349252d65b4b353b07655ac575d6662d7562848e557c144329a3e7c033"
+    },
+    "replaces": [
+      "Interface/Actions/actions_rat_king.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Interface/Alerts/breathing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Interface/Alerts/breathing.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/2f18e6232ce5897554351194082469a043c5ab06/icons/hud/screen_alert.dmi, not_enough_tox, too_much_tox localized by discord:kuro_0001 (388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "4a63d641d33bc911d342e0a78a0d5189b5b702e2d4df69795517a240caa89c1e",
+      "not_enough_co2.png": "faad3c620b1366f68c7453850003a4353ee7a71e07ada063695302fb4e15592a",
+      "not_enough_nitro.png": "a906b0a82db27fd28eaca478377983f7c0dc699a09c52889824375b1aa9bf660",
+      "not_enough_oxy.png": "816cfe81de0382dd43a01da6b503b4ebab9cb2ca8364c2d761c75a7f429340ce",
+      "not_enough_tox.png": "27339dfebd398b067eaab933a17336364e390e471759c87f30affc10cd878f70",
+      "too_much_co2.png": "99b2847e2337d6b252a8431f0c1bcecf7316b7304054d8a17c7257bebb3e7e96",
+      "too_much_nitro.png": "19a4bee9806ad6c6fe2717cfe8f99f2d5589ce397940102823b66d7028379416",
+      "too_much_oxy.png": "b3a2a31a3c9a4475022e4e3ac1e3d3883f343516d6125912de3f1fff3e9f9d7c",
+      "too_much_tox.png": "cdf53dfc8a6cc26c2a9ccfff284f7df0de7d9facbeb53e4216bc7ecbdf272cdf"
+    },
+    "replaces": [
+      "Interface/Alerts/breathing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Interface/Alerts/ensnared.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Interface/Alerts/ensnared.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ensnared alert created by Hyenh. Bear Trap sprite taken from Citadel Station at https://github.com/Citadel-Station-13/Citadel-Station-13/commit/3cfea7eb92246d311de8b531347795bc76d6dab6, ensnared localized by discord:kuro_0001 (388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "ensnared.png": "f85fc6d16a75eea92ae471ab51a101ec363ed163f7ccdcbc7ddbd37f890a6236",
+      "meta.json": "96cc74e740349e96dccb0009cb3e7a65e083f7e251920c95f43721d679053916"
+    },
+    "replaces": [
+      "Interface/Alerts/ensnared.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Interface/Misc/program_icons.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Interface/Misc/program_icons.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "news_read by Misha_Unity, crew_manifest by Phill101, nano_task by Janet Blackquill <uhhadd@gmail.com>, nano_chat by IntegerTempest",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "crew_manifest.png": "1026dfb8cf87990f916310033e5ca1ec5434483b2f9ae3689a128b5d238cc85f",
+      "meta.json": "2e14c1c50c92d36998388e9bd6ce5f1086f60db38bc65eaf34ecd7e44185254a",
+      "nano_chat.png": "ec4584b802e8e9d7dec60845717ad241045287e6384ba99bdf7f7bfa2fe2b5bc",
+      "nano_task.png": "8fc028456f9ca9cf5868521d3e3e76fe8fc3ed0b5a2a88bcae8f503bd1e680f5",
+      "news_read.png": "e8aabad9771497bad5b1c3a4345fd61d79c78977448465c505cc8ee99cc9d5d0",
+      "syndi_chat.png": "e38fafabae4ade563010523521b91ee85ff6a853b3d991b84a6e396bc4c56c12"
+    },
+    "replaces": [
+      "Interface/Misc/program_icons.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Aliens/Asteroid/basilisk.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Aliens/Asteroid/basilisk.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/9bd459b27c73575fd5e3bf2efea13b816d0ac7c8/icons/mob/animal.dmi , resprite by Amaliz, amaliz (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "basilisk.png": "3057c7cca96f9cf708b09cd24dbc2724392ba80aec78cbc289b259e31da5c655",
+      "basilisk_alert.png": "ac409581b2f09215cdaec699e70b92e7ecac1d6347b6486e7c6583918f48cd2b",
+      "basilisk_dead.png": "ab81239c83bfefd6acc18db1c515a9b126197dc52e9de6678719485be3ad2cd0",
+      "meta.json": "89d6764ac689b54abbea2baf87ba2fd6fab0fcbf0036c38d07479626f6206a5f"
+    },
+    "replaces": [
+      "Mobs/Aliens/Asteroid/basilisk.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Aliens/Carps/dragon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Aliens/Carps/dragon.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/Toastgoats/tgstation/commit/024a840eed2a1be3f72435c2bb39faac8025f822. Resprite by amaliz (Discord) for Space Station 14 Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alive-unshaded.png": "8e020e4f84a7d1282214be73991e6d9ab2f89aca9f898cedab0488817de7aca3",
+      "alive.png": "b9f8d5e38cc53b24f6db31038b07f0e9d9072f7a8b4db4232f7b0ba4cb31cce1",
+      "crit-unshaded.png": "6441d68d001c22122f758880572f3d2c4508fe6629958dd63104f885a573c70b",
+      "crit.png": "91058d44cecf1eed85d02841b6a14395018bf255c6891d110f5817fbd9f6b85b",
+      "dead-unshaded.png": "141801612ec15230eeb43916d4df8bcc00b5583fc3aaef39a9860b6ab9a75064",
+      "dead.png": "8128e9632e09dec86a42e9277ad485ae8d9ea47921ec3c76e65849ea90221d7a",
+      "meta.json": "7ddc1c0a1d77c0a883f1f2c1fecc2db983a3d9c793b07fd8295bc11cdebeefe1"
+    },
+    "replaces": [
+      "Mobs/Aliens/Carps/dragon.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Aliens/slimes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Aliens/slimes.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from the tgstation at https://github.com/tgstation/tgstation/blob/bb89e65aebb14d6ba0ce7fc43363fbc3f1279e79/icons/mob/simple/slimes.dmi, states blue_adult_slime, blue_adult_slime_dead, green_adult_slime, green_adult_slime_dead, yellow_adult_slime, yellow_adult_slime_dead respited by ss14nekow (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "aslime-_3.png": "b022e96045662871bae6c79ee91d8d7a8c74e86b36a10e301b754272fc4a24d3",
+      "blue_adult_slime.png": "1bb3667b1385b09be8818f77071e1bda9047e8f1f869aba96fd300b2202c9594",
+      "blue_adult_slime_dead.png": "cc62b71044e9e75b45876de693bac32f39351abec10c8cefc0bcc9f4d112afad",
+      "green_adult_slime.png": "3c025543edf7da1419d08bc4a702316158be2f49d489f711aa46e23c9e46e588",
+      "green_adult_slime_dead.png": "d4e3502578e34cbf0c31d818be82155616ab590bfe9da4456a50e64fde5dc62f",
+      "meta.json": "dd0b611aca944dfe45dab5cd69c3d228735bc78245eb692fab9ec624c88209b0",
+      "rainbow_baby_slime.png": "826747301c827ce2ec3d45d6a5a13f0b36d915cf855503c17849739e12a1300c",
+      "rainbow_baby_slime_dead.png": "a54e313f7e4cb4d6a51304d8646fb8ddbdf16fbde92b5f2841a92c4ad1afad41",
+      "rainbow_slime_extract.png": "f516c6522daa41e4443828ac13f8173ec11fef676b5a12bb6b2289aae8fabd8a",
+      "yellow_adult_slime.png": "85afeb457935918ffe562938df35fac6028afc0c638bf75a325e1e0bc827f48b",
+      "yellow_adult_slime_dead.png": "1240dea0c02ba0f4ee31001a6dfefb208408f981977140187e06026a3810f013"
+    },
+    "replaces": [
+      "Mobs/Aliens/slimes.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Animals/regalrat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Animals/regalrat.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/blob/e9d1248bc9548ab18f3fcf967e0d9dfb303fe4ad/icons/mob/simple/animal.dmi Changed by Alekshhh + eyes added by jamessimo",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "critical.png": "1fc8d32506eb409211e43b0f81356ea6ae73b8f6dc1a5ecaf7f9495ef4516b63",
+      "dead.png": "fa5513c9a7f812dd524fb33fa4bb19b002dcc4cc124ebaa1652811ea4838bafa",
+      "eyes.png": "4a7f77c95e5ea2a4ce3b34a72a8e9be27fd2fabd0227f4dbbe727ae872c661e7",
+      "icon.png": "40c6adace8eeb1cce6bc7741791bde581b311b7aa0b288ddd50678df620e7df8",
+      "meta.json": "16e0945dcc0a00daa8e372d7efa888f781c15a100d30c367aaa7190b5c1bee13",
+      "regalrat.png": "5456faa9177e282616a485a3f68a1039cd1629e15da4968fa528dfda410340dc"
+    },
+    "replaces": [
+      "Mobs/Animals/regalrat.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Customization/Vulpkanin/body_markings.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/body_markings.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise edited by Floofers, based on sprites by FairlySadPanda (GitHub/Discord), and DeltaV-Station assets (https://github.com/DeltaV-Station/Delta-v/commit/65d35d0b3c20aa4e8a0e749a4de8392e53051e86)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "belly_crest.png": "e2d5e0fe55c95dc7e899a9bb2222a0435e25e2d224da846374ac6a9c037f4f5b",
+      "belly_fox.png": "5041d28725c1cba4b75b6ea5876e7a29fc68905ca253c10e2b6dacd9148ea5b9",
+      "belly_full.png": "0df4dae71bfef836ef87ba6c7e36b1485e286d688e30d31413f86239df275bf4",
+      "claws_l_foot.png": "b8c703a981eee3b9c138b39c5c73ff7f4f30f0f6bf918364febaf24d3f69192f",
+      "claws_l_hand.png": "3cfb4333ac95ddc3f8f5626fdc5b93408595cf650b58a0a380ceec7942391fe4",
+      "claws_r_foot.png": "62adbacfec861d5103c8007a4cc4b2ed0498a6b7eaf550d883647ebb0ee35ffb",
+      "claws_r_hand.png": "f74b3be033d70fd167244fdcfc95ef4ddc4cf618d7d4b7ee00bf7ac5d5f08515",
+      "crest-arm-l.png": "1e401369769eac5549de0c4a359f0b903d2ecd42826bc80ffdbf111fb3b49a80",
+      "crest-arm-r.png": "f70cee92e4d881f0e53993ef072762610fe5b769d4b210e0caaec79de5692dad",
+      "crest-arms.png": "066849119e8eafe7a2e5620d602fa1e4105a46d2054ac345dbbb8a8b291703a6",
+      "crest-foot-l.png": "0d4015686caa5be6a10b2042541cb2223fa4a07001406a9f6f6c0455260900c0",
+      "crest-foot-r.png": "8013900053c379509ff826da2a0d69ac73a029fd3729ade6608efa09b72fcc26",
+      "crest-hand-l.png": "18eaba4d4b37d43484c152303a6f0b935d6d2a7e219b799fe00f528cbd756108",
+      "crest-hand-r.png": "9361f8329a7dd8303f9c5748db3116610fd05d6b0cc19334d8561c92f1e48a18",
+      "crest-leg-l.png": "fce26090e7d77bee4d394c02500c0da040720031171d9c3b30aca535bc3aaf74",
+      "crest-leg-r.png": "a207ac3522b327792c5c0f6946b66b0135cdc872e63d88eb730dcfab33a616ca",
+      "crest-legs.png": "f1699fb086c5f314e4d31c2c4a804a846399f98b0a5d79879a13e3ed08c36a72",
+      "crests.png": "792a0a343b7db65fe348ee27704a5b05559cc89fc7ab73cceb29bf735df5aa68",
+      "meta.json": "c0782f63ce46fe4a181197f5986c97aabe2a9f12cc44e75b58457948cb90caba",
+      "points_crest-arms.png": "547a7167155568198c85a005d01136116b52bfba89032584af4a1fab3788e0fe",
+      "points_crest-legs.png": "b064f0397f2886bfbe435315b050c1563482d270932a7f9a4f3eb6f74b3c97e7",
+      "points_crest.png": "6cf1be1629b934bcd3bd883c3c83eed1611b3295b903730a0275d63c28efec77",
+      "points_fade-arm-l.png": "1a80abe32f999e5a699b33d9dddcadef35512125169bf73cbb24eb0b0e08e1ae",
+      "points_fade-arm-r.png": "bab294064e8e81975aed93790b504077a2daf43b8f80c51c35f27a69cfb6a0ab",
+      "points_fade-arms.png": "e0fda9cffaa4185ad43f421a20af2a56cb6418d97ca4da09fbefed5817d4c278",
+      "points_fade-foot-l.png": "dd01b5eb9c82f4230a200b2ce847c5af02ee44c23246faca0e6c156221b81c83",
+      "points_fade-foot-r.png": "240bb84456ba97435347575fbad6f5c0ea34074b8618da14339b684eec3c98a2",
+      "points_fade-hand-l.png": "bd8e4252fb82e4a1d8ce34431a1f4e663951668d3434037e32e0c38d1283a11b",
+      "points_fade-hand-r.png": "a846b7c00bbd88c2cc1ab4be483a5f971ff007d42b413b510cd71c79c979da88",
+      "points_fade-leg-l.png": "96ab5a3fc0cd5756cc439e3dbdc6f66d19da55ac4bdbbfb4e7807c03ed930677",
+      "points_fade-leg-r.png": "6a5d5031893f4e718f752dd65d6a79cb4107321c54f0a2097e48638582a93c1b",
+      "points_fade-legs.png": "59c30f1e9a6a41a0ee029594ef8d23e71555b9d87a3ced7d7a9a5b4906da5924",
+      "points_fade.png": "3c345aadf8c1ad11d7066a3d42246829afdf5b1524c9d9a280da5e4605056d03",
+      "points_feet.png": "45af11d3f1047a77c703db7d8cee9217d542e14551be5c33238d774c31f2df63",
+      "points_hands.png": "579678b5a9e9de0e4aa2ef725801def0caaa499debfd045cf18248cdae80883f",
+      "points_sharp-arm-l.png": "7c1abd82c6c0a1d829e0e8d7395741490462f8f87f419e8f92c972a031ec8873",
+      "points_sharp-arm-long-l.png": "bebc57dc6c2bc6529faac3ac67d89615c9005218167b5017ed0270fbae7db368",
+      "points_sharp-arm-long-r.png": "446adcc89787c1bf2d89f27308bb372c42406022c7b81de6cf28e0a24b1cca51",
+      "points_sharp-arm-r.png": "c3e1b5ac6944c6ac86d3ef8913ac977df9ccc13996ab5f71ab352c840c0a34c0",
+      "points_sharp-arms-long.png": "a53120c648b442c4d0fcf9bc9d530b7019291207f3503f2bdd78b10896149362",
+      "points_sharp-arms.png": "fc4dd5f58d792730599715d2e93848d685a7bbd051af0f2d3ea4c895f6a89f61",
+      "points_sharp-foot-l.png": "e8de4cce2bc026234427b98c9230f8d5f865f79b9bd19955f3d73b3720964082",
+      "points_sharp-foot-r.png": "240bb84456ba97435347575fbad6f5c0ea34074b8618da14339b684eec3c98a2",
+      "points_sharp-hand-l.png": "7f508314c27817dc0805adeedcd21a76362c421718539f7d1aee1b6d44ac9d7f",
+      "points_sharp-hand-r.png": "32a175878e94d3dff04c144ac773acae5de328ad4d4ce13d90ceea362f04722a",
+      "points_sharp-leg-l.png": "c28ffac254e4372972ae6374d492472f36281790e981dd990e378fdaa94bb5d2",
+      "points_sharp-leg-r.png": "ebd79e0107b6cbd2314d36126107bc09fba44f13ff3a87d09376b1145970ffc0",
+      "points_sharp-legs.png": "20fa11eb338379e3e18b754f87a19cf3b05a45e6bbc355e38611cc0a5f5dff82",
+      "points_sharp.png": "9e73969088c5c273cd39a644f02d14e0af90b853a0caa9af555e39e1163002d0"
+    },
+    "replaces": [
+      "Mobs/Customization/Vulpkanin/body_markings.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Customization/Vulpkanin/ear_markings.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/ear_markings.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "vulp-sharp and vulp-fade taken from https://github.com/ParadiseSS13/Paradise/ every thing else taken from https://github.com/VOREStation/VOREStation/ edited by Floofers",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "coyote-inner.png": "75a5d22dc4346de5b59347dba4852bdddcad276a9ed587539731b2e08e8ba570",
+      "coyote.png": "095ba3e11a004e41e8c03f13541df825de50176bde0ccfc75bc7a2725ad7f76a",
+      "dalmatian.png": "4ed42870c7184781a0fd696f419fab5b9389b1ecdb66076332357cb69179287c",
+      "fennec-inner.png": "0da7d36b3407f5c41eb1f2f5114dfc15096a2cfbaf8ef84821168d8783b9d0e3",
+      "fennec.png": "5cdf8e7c50ed4a3fc1df9909c49ea49bccbca548dd6a9479045e5e8c4bc0c710",
+      "fox-inner.png": "1d41301134fa40d70262965a5d892abd082039fbfa9eace1750ec6012e2a3158",
+      "fox.png": "f70460e578e9bd293e03b29ba702cd086e7021ef247ca812bb507582f9499e2c",
+      "jackal-inner.png": "2d2485783a1528fa8f93df5b918719af046069363c8df1c79dd42939a10e710b",
+      "jackal.png": "7d8945faa3d10f567d4d4d02c31643c53418f32ebac0b4fb6cee59a882607115",
+      "meta.json": "7b9b1d9378556bfd0d19ce36e2e44775c2ae2eb7eae67f0d05105dae29c1b3ee",
+      "msai-inner.png": "cd174dc9a37b2aa207afa4ab8841bbdba61c34490c35d7cf3eb390a5878fadc0",
+      "msai.png": "e317e5a12ca954d0d57dae9f98946164ab85bf43f607a7c6b68e6f3c98512a46",
+      "otie-inner.png": "52558de77713c7e79544104d021a0ec4d074e580989d1582a7e50ace07481c25",
+      "otie.png": "e615f8b9bc9ed8ff22eeec3286c574f5af362ae954bced50d4ef4980874c2dde",
+      "shock-inner.png": "14a2f870d767fee1ecf6ca6b2c929f08e570b58c43e2e74c17c5992247b7bfe8",
+      "shock.png": "5eb72b583828e165ccb4fc119ac68d3d545c91ccb636ea4ea725e5c6d48f62bc",
+      "terrier-inner.png": "28e6e6e611d0699d3b1a88d670d8966fe17bee9d5d7e0f5bc4b6b4e8308321af",
+      "terrier.png": "06859f049ca884c16de7123baf4b44fba66ff58b27d6d9c12625940b616352e3",
+      "vulp-fade.png": "5196b14e653cca435db95f5c7a06af5c4c430b1e9694786b31198ebe57178613",
+      "vulp-inner.png": "7641e5d1d21b14ca97655c0607771b7a082e34f3f2a1edfbf0c4d46ab7699422",
+      "vulp-sharp.png": "a7c9bcbbbcf60fc1db6b3475f2080246838d0e659c110ab8b0a8c017fb2629cc",
+      "vulp.png": "88993682d8c92cbc09830d1ae2b36a11d2274b6afd00a068deb9e4d0c8d8c8f1",
+      "wolf-inner.png": "fb92eb06441fd107e00f1b0b2f2ec4cb6ee64686e5820ec90410e111723b75a1",
+      "wolf.png": "2d33ad03751c8e0bbde086111a843c2f4eb9a15676bf5d59b726175a2ae9a5a2"
+    },
+    "replaces": [
+      "Mobs/Customization/Vulpkanin/ear_markings.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Customization/Vulpkanin/facial_hair.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/facial_hair.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise edited by Floofers",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "elder.png": "9e5968e666737911885e053dd3425c6e34cdaaaef59e0f43663ffac694f89f83",
+      "elder_chin.png": "79e433e089d61847bafab228d964923c969ce8ce180576d494c73a60e19df0e1",
+      "goatee.png": "e62c7c9689943ae59d09fcfc9a9e6eac41fa3b7f09a50fbd77cdc0f84a7de878",
+      "kita.png": "e80a05ea546bd0bb6ddc7e40d51ffb377a8a8c598f17f0d3d21ab9ae3eeb32d3",
+      "meta.json": "043d3c895cbe6e9dec4ff0bfdfe0da422211c890ee315f17f5edd940b6a92a40",
+      "ruff.png": "194a514c33b63a65607c24810823ae6ed81677a1779ac1ec2abb15507a349e9c"
+    },
+    "replaces": [
+      "Mobs/Customization/Vulpkanin/facial_hair.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Customization/Vulpkanin/head_markings.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise edited by Floofers",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "blaze.png": "2cfc486dd5224be4016ccba5be9cbcfa97f84c3603b6d664b164aef7367c1747",
+      "mask.png": "fc03a90df448c867fecbc7509fba6a5067fb08b8bebbc271a686e0148db4669d",
+      "meta.json": "2cb54c80c7ba8fdadd2e5d88d7971d6be339fb8ec2e99a94521ff424b5955913",
+      "patch.png": "0cf2582e2b0f93c262a4f6f193b833cedab7e79f5538ae2dae052afa54b5f68a",
+      "slash.png": "c2f3c4a9284e47338db75fcc39a65366d2b40e3f1975f2b288b19fb70ba757fd",
+      "stripes_1.png": "aebf8fd1672d9c142ea187025ad5ca85d9f254fbf04cf3a8b4a730106c270170",
+      "stripes_2.png": "6d5c1d5f12d65a459b73f68ab90a188d0daea217fddf36cb198a5d3f5950ea49",
+      "tiger_face.png": "f5ae1940b2b25ff3b7a47ad568c79f9ee4bc3cfaba0d8fa600c49c817f927e38",
+      "tiger_head.png": "f91504363204941552f029e62f294698586928d90364abc7e036971a9dd1923e",
+      "vulpine.png": "55434c10b583d02d35c84f908e68f22d197e2505174dc3685d1fea05271de8f9"
+    },
+    "replaces": [
+      "Mobs/Customization/Vulpkanin/head_markings.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Customization/Vulpkanin/tail_markings.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/tail_markings.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise edited by Floofers Taken from https://github.com/DeltaV-Station/Delta-v/commit/65d35d0b3c20aa4e8a0e749a4de8392e53051e86. Fluffy created by Skarletto (Github). Modified by FairlySadPanda and TiniestShark (Github/Discord). Wagging animations by TiniestShark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "bushfluff.png": "fa15fce5bf69184ba7520550c3093ab09a7a646b46c009cd5b579a2a3d2208ed",
+      "bushfluff_wag.png": "546bbd7b2fdad9bc6b99fc23a0b53fbe3726ac1ded719a62197c1dc630d2b339",
+      "corgi_wag.png": "48f9ee1feda880e01e7012f7c8d8fa53b84bc12308fcd46eae0e479f364eb08f",
+      "coyote-wagging.png": "89e9a5fa7bde7b9ecb216dd79bd81ccc3c26414b91b28b257be5a809afcd4644",
+      "coyote.png": "cb9bb9e2ba6874f7486577567e5791a661dc969ae3047dd22e989358db460413",
+      "coyote_wag.png": "17a5fc209efc77ec358fe517cf71e9766183d596e16eb47dff029a792d1bfb81",
+      "dalmatian_wag.png": "aadc052aee247ffc52ec8fe13cfd280e4e64b6e817a64e018754df965c1a4dd7",
+      "fennec-tip.png": "52003b85e1f80bb2621e6e6588af1fa956126f5bff07f01b1797d16335e588e3",
+      "fennec-wagging-tip.png": "bfb88edec7c6eba0558c45094fc80bd7b745944ad9b85982a0ed46c1987ba007",
+      "fennec-wagging.png": "4ee487f410acefc67335c625e667b16fc71f0e4dad520744c892c618cdb31dc9",
+      "fennec.png": "6507efbe09380ca3ea5b89098f175e8bb42dcfebecd7952095d02874b4f6a2e2",
+      "fluffy-tip.png": "1c2bc05aa62054d99ae9306ba8c06cf493ec402258439a57591773835be29c20",
+      "fluffy-wagging-tip.png": "a035b4b18e6582cf71357cbbf68b66e4938847d5ba53c97465b05c42dca32bb4",
+      "fluffy-wagging.png": "bf7d4aabfe5908e42ef0ee40d1ac2a4f3d29a408905dfea8c5efc134544b75c4",
+      "fluffy.png": "1c033fdda4ed00d00674043430cc9c8e277a30591d5de7fa9eb64670f82ab967",
+      "fox-fade.png": "28ccaa1b7626121162d06321f07a65a14c702dd34be968295dc990548f24282b",
+      "fox-tip.png": "93686f44c0304a1c14f5f75a88ee8327aefbc2e8690957c35f52ed6cebbc5f0e",
+      "fox.png": "53f534848c07bd47afdd914dd6e5b93e18b905948829c152a190333fdf4d23b2",
+      "fox2.png": "48998fc24f6840c385655b1b319e0923ddd0088c00ad585c7bec943636b3392a",
+      "fox3-tip.png": "c4b9cd380a2d24e9a8a830533878eff91dc4878d461e443718797d7ebc3320a2",
+      "fox3.png": "461b743f4700aca64389531d9db989849d5ec984b7d1ab5e0854385ba6b20169",
+      "fox_wag-fade.png": "8724cb39a32310664eaed2b05ba1021b745d72ab03a5499266c4c228bedc6940",
+      "fox_wag-tip.png": "a507861fa9cd9b2e267ab435d1bf147a5d29207763dad803be4ccb86bc37a1a3",
+      "fox_wag.png": "692a92902c59818169d77a95fc7502ed5ff26d6cf09278d172723c7dea273cab",
+      "husky-inner.png": "916606750d0dbcafdf3d289611d65ff92c3abb8214d64b2159971530b3040151",
+      "husky-outer.png": "d80a71031473a1dcc92fc2cf16dc9c70842ffbf2be3ba6b5713ea5d03a54827d",
+      "husky-wagging-inner.png": "75c1f991fc920bd0ebe26e5ffb30d9c9c2d9fe90d0aef28e8471f6929be19ee8",
+      "husky-wagging-outer.png": "5d9b3e186c5f43b4d3e5c0bbabad7cd38270033541a5fa46a93f300623c13fe3",
+      "husky-wagging.png": "6fb418402a78e394f50dc88e99084107dfc81fb62f48fca6069216d1c033c758",
+      "husky.png": "0290378d578d43448f5bc2c0a9aa35a2a300601efbd8ee93d1fd02797e6aafed",
+      "long-tip.png": "0f8d06560a8b1cf6107e41bbb11a3b91290436a62ef151e6c5d3d3e7f42e2b90",
+      "long-wagging-tip.png": "ad1445e8f9a0efda3562a3997a9d53a293a88e4761eb1b2bd70ed254f6c87849",
+      "long-wagging.png": "6ce9a75137fe290fed988684dbb0457e5e4eb5467989e62a7e74d38602f939a7",
+      "long.png": "d01ae8e0a130c07adab5b6d9c12a17b68a597ecaeecc5ac4b0c89c82ac3429d9",
+      "meta.json": "f8fa36d22651e68f7111cfd5dc3759052953ee2aa07de35905ed8b0686bfd3fc",
+      "otie.png": "112c236fc0e401885a28b90d9ea85bd379b479be5aa765b4fcc8832d6448d649",
+      "tail-wag-icon.png": "041722f070558f56a861b334af930f07601aeb6834175231c30377537f96381d",
+      "vulp-fade.png": "7fb2671ef57bf7091a8c7dd810a28d9339bcf04bce9d19dd2e5139aca5c830d7",
+      "vulp-tip.png": "78e1fb2df5e9b1085cf189da333ed8cd111cd89a93875e1b0fd2b4ac1340c7a3",
+      "vulp-wagging-fade.png": "e53c435bd16373cb195bde9155ef590eb5142bc6c696b41ff3f630d68a06f003",
+      "vulp-wagging-tip.png": "da0307fd244dc9e1de77e5ecc82645ee833804b7f035b396212b33174a626dac",
+      "vulp-wagging.png": "21738dd69080fa0201daf780195ff7e311a6c182ee1f3de04fb8e073b5344bfc",
+      "vulp.png": "fdb1cc6ad913e126e2d795d1863c4af5e2da435e90d425a699c0d9f70e8073aa",
+      "vulp_alt-fade.png": "fd71d5948922f6218cc09c0a3d81314dc12f68e75571e03bed04dfbef86af5ef",
+      "vulp_alt-tip.png": "0ebb2f7a022f9b6e24f761f998f1e5313c4871e567392a5fe9eafc176a578c5b",
+      "vulp_alt.png": "ef13957a3d126be862ea4b90d699442e19cf99643421cf254511bfb8b3bda9d6",
+      "vulp_wag-fade.png": "27fd7b2bdbae6d5a0143fe0ad56b018ec5fd86c1775197a5c1732f58ffd37b4a",
+      "vulp_wag-tip.png": "5559a84a82dbeaac5fcf2c2f0f893076dc3d0116dea7ce8d19ffc0c7e30c6445",
+      "vulp_wag.png": "ae25113ef86f982010e3485578d3b6647cad8f4d3de5b225e91792ac4474a2a6"
+    },
+    "replaces": [
+      "Mobs/Customization/Vulpkanin/tail_markings.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Pets/shiva.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Pets/shiva.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Redid the original tarantulas. Made by Nimfar11 (github) for SS14, recolored by andrew_fenriz (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "1abd0ff5d8ea66d66098278d2071cf06bc59924c97ff52eb1156be2a3f036d3f",
+      "shiva-moving.png": "2fe3b6b80fd6c89c4aed58e3e5b69d04f13688a8afb09a0731f6ce9a0be7f641",
+      "shiva.png": "51e897d871062786e50cf71d2e7722cca0cb580f4339a20b0fcdc410bed95e15",
+      "shiva_dead.png": "961e3c68392958cbcd1306d74cf2c50ad4f5c8d08cdcc798755eca8bae53e548"
+    },
+    "replaces": [
+      "Mobs/Pets/shiva.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Silicon/chassis.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/faf6db214927874c19b8fa8585d26b5d40de1acc, derelict generic sprites modified by GoldenCan(GitHub), xenoborg sprites, created and modified by Samuka-C (github), Derelict Engineer, Janitor, Miner, Medical, and Assault Borg sprites by _miket on Discord, minor resprite of the service borg by Kittygyat (github), red cross on Syndi Medical Borg changed to blue to avoid Geneva issues by CDWimmer (GitHub), xenoborg_heavy_rad by august-sun (Github), universal by amaliz (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "clown.png": "e062315c5b0b8b84681faa439046109ddd8fd17865a3690ec4decdf5483f7f77",
+      "clown_e.png": "ff2558f9968d3dc8e6a29a5d6612e11edfeea0614dbd17b7c4fb22b69ab22aad",
+      "clown_e_r.png": "d1c6074ea4d21f9200d536b8a46ed48dbd4c9abc5a34c9717b10f66a14c47a0f",
+      "clown_l.png": "df9fad02d66869d22f5f1da9295f767797a213fd85fa4727bf03982703f9d1eb",
+      "derelict.png": "ef719e797334aac3ac4b3ddac2fa5a766dace8b4f6c0b2a6cbf301a1e486df93",
+      "derelict_e.png": "859aaa07162acc21e4d27a6d18d8fbaa1fdcedf74fb748b624602b6a9b33e760",
+      "derelict_e_r.png": "8b81ea426211d42673f796bf9f1578224f383eaae6a4b97f5a13abcacccb40af",
+      "derelict_icon.png": "e4a1dbf3f19f2e85e3f6dc958eaeb4243c2cce594fb022ab787db6b7550afab9",
+      "derelict_l.png": "ea6c810f8ca7725b9353faf9051c8dd24fae180117e30a91b06586082426dc30",
+      "engineer.png": "71f4dc4ecc6e8bc66ac4085a7b2ccf0710c4ec74a06e796d2397360484a52e6f",
+      "engineer_derelict.png": "41752daf2b5105bbe0bdfa0970ac0e220470c63628399569d4153c747a92f6f4",
+      "engineer_derelict_crystal.png": "a1cb5deb69e5033db7b84cf102bfca9845331b9f5475ad55f4b398759771fd08",
+      "engineer_e.png": "75b51ee431ff80021023eed6f535f292f864026599ee5584f740406bcb8df6de",
+      "engineer_e_r.png": "8591e94f076552e17056ce932628045d87524e5d2b549b02179d2cfa7d12b53c",
+      "engineer_l.png": "2999b8fd0ed75dcba0d13f6b89ee5e30c8ebf3e950211a21956072c748522608",
+      "janitor.png": "b266ba0158b432a0f0d91c675a948f7c8ddfd7dc886fcf00b427c21381cae0e7",
+      "janitor_derelict.png": "333920c3903035ce1c42823bdb06d9bb1ddc9bfdb8df070576fb6e7f1ba353bf",
+      "janitor_e.png": "00c94c7ddd997472eb166802cb34f36be825eff0bda8b860f3ebc4e496ff90b9",
+      "janitor_e_r.png": "08132ee11f00631aa66328a876f42f65b7b235bb010e4a84ff2c24bb8ff6b717",
+      "janitor_l.png": "54ea2c25887ed829ba26f9618b594d3773bfc17810a80fcd164cab5dbffe7a34",
+      "janitor_moving.png": "bcbab1660a403222ab1f4457b55d2f19794be9167160f6a7bb8d09b797dcb4ac",
+      "janitor_moving_derelict.png": "03650333e84a479053d9dd1c68e745ecce5945c67cb8c87e088f2ba8a222d834",
+      "medical.png": "43ac03567e2579247e733f3b2cbb52cb61218c5484ae065249c248f4f27b93c9",
+      "medical_derelict.png": "a6c3222ee5041e8941f61db300f6d36f74bef5f3bf77f16550cca007b2612a21",
+      "medical_e.png": "513e93f45f61612300d3ddfb3f1853df8267fc513121bf0259d5e462ad81e676",
+      "medical_e_r.png": "f524ac54c290b21b0005f88bc5806a42e60656a6005a4a6906d826fd5c2e50d3",
+      "medical_l.png": "3e429a882027e7fab138ca93b0520881183573d0c0c45ed3f0125a98f6dfb243",
+      "medical_moving.png": "e7fd33e6832ea249c48e5bbedda97f9bf9aa993d2b8740c6d212b4e73e265a05",
+      "medical_moving_derelict.png": "dc943070fad90dd6cc451c0b3bbf339edbc67b63d46c55142e8fd654cdb991a8",
+      "meta.json": "226bba10a6b7eb43a4355d6971acb5aa8526e3cc3f74d659ad939f369b169b8f",
+      "miner.png": "97667681da316197a8f878966fcebcb5c40a9dd1312c7496c5150a48d93ef497",
+      "miner_derelict.png": "9f2125a1b80600b75730e0588ce679e74da6644b23c610eeadb5c8d20edb8b96",
+      "miner_e.png": "758cb770ee9672d8d275f6e1fc7707027d37c09994c5bbd2ec69aa0291e91f4c",
+      "miner_e_r.png": "fb0f21f6774cc26f329140352861b0bdf3a11949dbabb4aebb5851a6252ae13f",
+      "miner_l.png": "3a7f49151c5d19c2d5aa0fdc0b612706259d673352789210e150e4333bfed7c9",
+      "miner_moving.png": "f981cda52c0366a874782438a56e162cf8c045c4c831aa8e76633abbd68477f2",
+      "miner_moving_derelict.png": "5b87d795863551898c53d6d188f3f307ff2c39a624ba966af5910b3b7042b00c",
+      "peace.png": "b852531ac52e1e26e416ce788f67aef0bd2f0700ccaecc575495028b61f0d674",
+      "peace_e.png": "ff2558f9968d3dc8e6a29a5d6612e11edfeea0614dbd17b7c4fb22b69ab22aad",
+      "peace_e_r.png": "d1c6074ea4d21f9200d536b8a46ed48dbd4c9abc5a34c9717b10f66a14c47a0f",
+      "peace_l.png": "df9fad02d66869d22f5f1da9295f767797a213fd85fa4727bf03982703f9d1eb",
+      "robot.png": "826e3207346818dbca5dbcd7bc41ff15bfe290949ca19280b8cbc7a7eafb2098",
+      "robot_e.png": "353fdab224e9b209dabfd7be35033bc420ae84fdc1d53f7bb2fab8b9e10fd348",
+      "robot_e_r.png": "c6013f06ef51ce6187406f218c3acc57c5a1c40d18cd1934412a7c69695fc441",
+      "robot_l.png": "5ae0e30e980878e7099950551385def6a46700cdd17c3cebccce44c49148280e",
+      "service.png": "f84294c1090370f802cea72e322750e4f136e3d11ada4c8a32dc2c14c8e98aef",
+      "service_e.png": "f353c66636ca1057036fe806fd006bfc5a37bb9aee61807e152f52db483d00c0",
+      "service_e_r.png": "d31eb7ed7a17f37c19c7ecdf405d7f39ec016f0aa41e552ab28be541dd57de90",
+      "service_l.png": "339ba710ec714577bc0d7a902314eefb310881f766c2196f7d29207a605f95aa",
+      "synd_engi.png": "92a858ddbf897f2d6e616d0738f08835479283f869fbe5f0137dbe0a23808a20",
+      "synd_engi_e.png": "ce18bc8047fa5eeb46fcca1c126cba3596fd4fa9a18f168838211d121b93daa0",
+      "synd_engi_l.png": "28981e479272b2307f178baf2e5162c6e10171fdb5c449ea22ef23d540eb2ebb",
+      "synd_medical.png": "4b7f40a90de77b6f05e62f3b006bc09bad5f2c225d98937f4eaacc5c755cecb2",
+      "synd_medical_e.png": "8e84501fdc0378f96c1e48a2cdba4d77b0c4659616b960aefde9b486f48cd4b0",
+      "synd_medical_l.png": "8e84501fdc0378f96c1e48a2cdba4d77b0c4659616b960aefde9b486f48cd4b0",
+      "synd_sec.png": "1759896bf01d354a2c3f57a40744a1ad7ffcb7e5f3a751393bab684c608fdb30",
+      "synd_sec_derelict.png": "f88009633bd7ce3534513b0c222da9e11872cd70bb64bb974b155cb1624f71cf",
+      "synd_sec_derelict_e.png": "fc433aa674ce9eedc5e5dc0cc7b1a8b83937adef7fb9fd1ccc026c55a56524a1",
+      "synd_sec_derelict_l.png": "907a81b5f1e4dea61329a18ec8d17ec05edf6a3fd69ae3c0bdd79f3e9bdf94b2",
+      "synd_sec_e.png": "720c786f6b066c8742baac07a90121012b29d8caceec07fdaa1505ba4e5ff7e7",
+      "synd_sec_l.png": "a39bac6f50a7c9fbd723bbd6934964818d565d78390ff039abd5448fd5b3f0bc",
+      "universal.png": "9f333a3403967d52b4991a31809699d5d87488bf6d3e9b381d576602186f7aef",
+      "universal_e.png": "246752ded12dcafb78f40053bbd972ede51b7709ff388ac574c24437a6dec4d3",
+      "universal_e_r.png": "055855583b34ffe6a36a8fdf7ee123232b86617413b083c0fa3a1f40fbf35808",
+      "universal_l.png": "d612f8b52bb67e1417f575e5472ae45a9aed3c5e40fecd28e791876c58e2dbdf",
+      "universal_walking.png": "23de3b0a6d220e6f418f9e869a681807fede7b8400b7246b3f10ff19afbc95c4",
+      "xenoborg_engi.png": "ad303f727488ffecde44ae73f52af3a59e1e89773bdb103f9328e740e47c979c",
+      "xenoborg_engi_e.png": "b3973f10c57d01a76e1b6c6c782f5b71e8acd97fdbc51895c187d2407dab3cc5",
+      "xenoborg_engi_e_r.png": "66ca98bda47221b584decda4366001e619477fd5c8726e00a6c7f2a67a280e5d",
+      "xenoborg_engi_l.png": "8099248b21a5c3b5ac88a18313c62b6b7a0385d64f692470b9823cd693a728bc",
+      "xenoborg_heavy.png": "73b581994828894a34811c3dd81b2a30ab6f0c1ac76fe46ec8815cbaf72654be",
+      "xenoborg_heavy_e.png": "0de8e74e26bc928e9caf569d8d2bd9adda617aaeb97d428c198331128ba7efc3",
+      "xenoborg_heavy_e_r.png": "7b0c8ee1f5d938df1daaf844a9ddc7941da3e9140ad9e545db5a44eaa5a4918d",
+      "xenoborg_heavy_l.png": "390245d8cdcee7a375f156f81d22b62555bd1bbc27b6d28ae79fd61477851d01",
+      "xenoborg_heavy_missile_launcher.png": "51c3e78c536a0111e31ad99a00cd440427f54a80f51ec0eef48d394735feab92",
+      "xenoborg_heavy_rad.png": "58fa00d8d00ff966a529fcaaebeb3e7d954668b181310d5e29407fbe74dfdead",
+      "xenoborg_scout.png": "122c41a06ef243a1244522e2b77bea59bbd15ec6cae726cacc93e0a176835453",
+      "xenoborg_scout_e.png": "b297ff88c298ef6a86e1ce14677e847eb98002cbd894627a8fad89dfa75219ff",
+      "xenoborg_scout_e_r.png": "32615ee0438ba06a38b5828c5f07064fb283100ce229ef726a0a5447e72f6eea",
+      "xenoborg_scout_l.png": "f8edac5fe9c4b58c1c55aba2e23be533f2373435d2bfdc2982a199723c09a1c5",
+      "xenoborg_stealth.png": "cbef1aa8365c513fdb43d2274720843db12a83cf2fe54957b12bae7c833cc50b",
+      "xenoborg_stealth_e.png": "4fab68910a76ab5a995a65cf3e0056984c6a16ab3e0ed07852a3991011fcccd2",
+      "xenoborg_stealth_e_r.png": "ed644fa919ad0f5fdef884323129f0a42116628ac454b6652762e5d34634de18",
+      "xenoborg_stealth_l.png": "6cd93c0d5fb7a39a234ef347f4f1d179ac788e2cb5a7bcd71e3176c6817b3078"
+    },
+    "replaces": [
+      "Mobs/Silicon/chassis.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Species/Human/parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Species/Human/parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/8024397cc81c5f47f74cf4279e35728487d0a1a7/icons/mob/human_parts_greyscale.dmi and modified by DrSmugleaf, also modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "8608a66c5e57408ced24ca7c7e7c018fd887b4b6908e0e45096d1297784b137c",
+      "head_f.png": "7c4bd0e9f65566158214597b7c7028b387a52d3bd1f063d4c3d915c65758a0d6",
+      "head_m.png": "91d7dbb484e77042f867da8b295e05fa1e6d33133b1545870e22d34371adf530",
+      "l_arm.png": "4a325d4957888eb4c6def4554846c8c5d49af52905d306f9802125d3757e23c7",
+      "l_foot.png": "a0f5c0870c7294fd560f7e51937f0c5d0b399f83aa91b9d73198a7310fbe71ff",
+      "l_hand.png": "c09f5389ab7ad0947f189e24838b1ed4e824fdd94b36bd6a22fff61eb9855cd3",
+      "l_leg.png": "99ffee91f5faee19a180f03990a69970122e051465cdde3d65dd746e94a4e6a0",
+      "meta.json": "a80820cdd9d08e747b68626688563dea5a04824ef3fcfa23f75c832156323d08",
+      "r_arm.png": "97304934133b5052798a67669b51192b51699e2f181c494372c9650ac394210f",
+      "r_foot.png": "9a3a6bc3e38355d5d02678a11ece8c04e593562dffa1b39ed238a40bb9f330a1",
+      "r_hand.png": "d5dcd8376b69580c884388e0eb99ba9d5ec006be583ac9ff77301d1f9ddbc8f2",
+      "r_leg.png": "a77b37f4938f689d1170efb0e5cea88453d14f5f5e4c61b863402ae70201a0ac",
+      "torso_f.png": "7baa6ff0cd986ded47856f4fd01c256ee8a27cb3b03947ba40b2f43aa1c42227",
+      "torso_m.png": "61f937c469f495c0f099107cd58f183d7724e86c1727982fd741169bd2a1b5f9"
+    },
+    "replaces": [
+      "Mobs/Species/Human/parts.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Mobs/Species/Reptilian/parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Mobs/Species/Reptilian/parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/8024397cc81c5f47f74cf4279e35728487d0a1a7/icons/mob/human_parts_greyscale.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "3bf226959ba9a23a4f2173bc93ae6fa99f381f1ddd72722d86eac3af13bd10f3",
+      "head_f.png": "f3cf3f1b195115f47b3b329d76a65a5f09e631453e1d6d87c8d871d58f454c1b",
+      "head_m.png": "ff66881fe4447a2a1054bd16932571438460cfefb5e93468c59e5cf9aab89a85",
+      "l_arm.png": "94fda77adf8ba447521057da5fc61aa5b9e996c500f9b4016aa2ffe8d6da6fe4",
+      "l_foot.png": "0832e4921098f9b24afc481bffa22fa9a75f0abfed861df58bf6f158a6097256",
+      "l_hand.png": "7c9d5bf3c1187618f2f92bcd7084a0430ba7ba62113c2a31eb55697df7a01dff",
+      "l_leg.png": "bdbeabec3c343c18e8c2ff26c53350ea08bd6ea7e4a9f129c2b4dda21d2a4bbb",
+      "meta.json": "6cc9ce23224381581a1af8bae7f2f29b25bb2f26965b179afb0276c88cf819fd",
+      "r_arm.png": "4003c244d5972c879671c0cb4e8445c603d38af0fd244555eeb010a048cc679c",
+      "r_foot.png": "c176a396d5e1839f320acd026843495a37359919cc64ee94ce74f5b481b01eba",
+      "r_hand.png": "adc5d92aa731a6cde8fbccb2318df2c3d1c0740a90e038fe600d9e16e0d2fabc",
+      "r_leg.png": "954199e13bf98edee8efff948c337fe5662756b2cd019501c08c3957e17f5c1d",
+      "torso_f.png": "2e97e72b80d0da00415025e2b85b76f9ba3878636edb20aa11ac02ab1f4d4b2f",
+      "torso_m.png": "05e0c1fa8f428d15106ac619cd5d172a0d78490954d17c9a39bf7829f49c9da8"
+    },
+    "replaces": [
+      "Mobs/Species/Reptilian/parts.rsi",
+      "_Lime/Imported/Monolith/Mobs/Species/Reptilian/parts.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/cola.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/cola.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi, inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "c33d62c8e55e6ec5a678be55aebbe21e16062c79bee73adf2414ac1570bb6ce3",
+      "icon_open.png": "08c900ccf5b5daa1a7192c51d54e8a19768a1e8c8e227d6bedb9b970449fe76a",
+      "inhand-left.png": "870264ce3c7cf3e7507a2299b8d5a965a68a16f4d1fb27b3f7e500ccbe687ba2",
+      "inhand-right.png": "bff5b1f321129daa01a6d023e09429d7ea9d1d6fd9405b93d2f652c3809f1e8e",
+      "meta.json": "44813a267a734f65ea34a8fab127510c3e22931c89f4658b512692a6e9a03eb0"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/cola.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/cola.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/dr_gibb.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/dr_gibb.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "60695393547fbb5d41479cd5cce63805ef8e746bfc641dd7ac7236fe7d2c2929",
+      "icon_open.png": "09b68cedc16376be134e465b9f7550605f40d4a999134f6be6f2aa0608588551",
+      "inhand-left.png": "251efbc0bb8e6ec81b6bf9fc4ac42c0726703063b205cf2dd8912cc39f2a93a3",
+      "inhand-right.png": "f68467d8449fdb1b27b13844ffb4d184d43ee79367ed0ac0dec48a9a8eb0cf99",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/dr_gibb.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/dr_gibb.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/fourteen_loko.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/fourteen_loko.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "fadd2a2d4d0ff3fac692b1388d0bba0cc911097ebed4f707e4d64fcbeef7efe4",
+      "icon_open.png": "16407cb4c2c172cbca9beab6be5f2b936d2eef0ba180039ce09fe32b8caa3abb",
+      "inhand-left.png": "678dbfc9e504077f84c478230e70b1b441040adebc337a44ce30df65dfa8af57",
+      "inhand-right.png": "ad3221f25772736de3b917751430472b89ec723c62442c06066e8dd92839dcbb",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/fourteen_loko.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/fourteen_loko.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/ice_tea_can.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/ice_tea_can.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/e10fd978b89bbc951d3f3546426aa7e4191c6967/icons/obj/drinks/soda.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "5ee31a745a7b8930331d2cd2932c42f8d773c2b432f2f9f7db1f6e0c205f895b",
+      "icon_open.png": "a2303db7b9cac79a99bad5c42c3f9847bbd758c33708dbc2f3e38485b8af0f93",
+      "inhand-left.png": "38135e8f3d94c2df329a2e3cc2218c76ab3814c8b04fe9c19353ab1668b9fe96",
+      "inhand-right.png": "8a39facf732088581db3f01b6d31a4b633bae29f85c4158c6cc5135db22630ef",
+      "meta.json": "d901cc3b4e8cdf6d0f6ecd5d5c9c13fa080dc421e124bd04703f91ffaf758a97"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/ice_tea_can.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/lemon-lime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/lemon-lime.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "a20488b45a5aef8ed72ef242ebc8f1d8acbfd7f730b5b1232d9eaffc5b33ef81",
+      "icon_open.png": "c7c2ca7f4806c8ee58ce70e17d0530694d24d43b6aca164437888b510b01fc25",
+      "inhand-left.png": "0d88d9a9c982aa6d3da3400038d7d9d74201b4f95e382525dbf66a86cff77433",
+      "inhand-right.png": "d31b6f35e01e48ae33cd0d955e81e2cbd96e3f594a4c3559bd50451485d9d0be",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/lemon-lime.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/lemon-lime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/purple_can.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/purple_can.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "fbb680c6075c17381095b67456d6253fd76f4c4377fd38af6daacb354b5f5266",
+      "icon_open.png": "0c145cecb8879519c7e93443a1b8a441f998d3059834265f4f32ad15da0aea2a",
+      "inhand-left.png": "71ac525b37f1fae4f9f3a113fd356ed9eb08a918d0650048a78ed2b856d49fe4",
+      "inhand-right.png": "ab7d8ab08b405ab50a09b9f75d92a860bae706f0a23302c813fcd2fdbb19df0c",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/purple_can.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/purple_can.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/pwrgame.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/pwrgame.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/70ccd0f2305286a1312425a85365881fac16fcac. Modified by potato1234x (github) for SS14. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "d4fc3d17f78ee73392a9ef386daa0fd50e803881e6750f8d81054aca6c17b430",
+      "icon_open.png": "14ffa497fcae7a7e032eaa2348d8adb2d4dd7341ff904238032675d2087b1079",
+      "inhand-left.png": "2ecdc3495a7b73f3f46f5700daffd67c8710d285dcc350b6adc9e15d953e413f",
+      "inhand-right.png": "705a51cb06cd02dd13ae55b58479111993046f1513a509d98dc73836c06189e9",
+      "meta.json": "f00b62430780d61fc5815bf62a5b96b208f61aa493edf9cd23e95320856ea62a"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/pwrgame.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/pwrgame.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/robustnukie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/robustnukie.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite made by discord:kuro_0001 (388673708753027083)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "6f7bd6089ee8e14d8737971a88cc938f762dc585f92272cca5b6cf82f7874b3b",
+      "icon_open.png": "08c2bbd8afb70e77600e88ee655870de4a4476a58556331e29b52b659aa13781",
+      "inhand-left.png": "9acdc797ff99d56a60ebb845c5d5eeec353969324584d5ea521a4299e3e7a0f2",
+      "inhand-right.png": "bb21af836542039180ffcab2e3f9463ca21df16d79ab5a6b5f92f511b2ed7ac4",
+      "meta.json": "062aaa24af2d975329bc313638e6fa95d4432b3f559bf1caeeab3fbfab255e8d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/robustnukie.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/robustnukie.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/rootbeer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/rootbeer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi (EDITED BY Plasmaguy#6148 [Discord, liable to change] / jrjr3000 [Steam]). Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "38d6637f4422e10aba7836081897b747e1d3d16e88e3a30e941d75ad499eda24",
+      "icon_open.png": "4b8c7ae2d0b8a6502bd62d4cae00e56fdaa07934b4cb8cc225d6d0b15772bf2d",
+      "inhand-left.png": "f8ca976fd3acb353aafca94bf41f7008e8e15aa01b4e55c3117f5fab6412c057",
+      "inhand-right.png": "8acb40190288b6c71cc808f7c9b2e04f74065cd1c74c3797f22ad9b388756e8d",
+      "meta.json": "55695cbb3de08eb7a53e60a71af51a567d86f573948112655b25ea339d743fa5"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/rootbeer.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/rootbeer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/shaker_gold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker_gold.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "icon taken from https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi ; inhand sprites made by Failed (Discord: greetings_). Color adjustments by Hitlinemoss., resprited by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "a3347335f572fc54f68ca3aea2d03cf219490a093211d21b81a0e9227e12bfb4",
+      "inhand-left.png": "701ab82360d85c8e918f7c08e4c8e787b7ee4a038a64f2e9e2fd8076646a720a",
+      "inhand-right.png": "97696fcde72bde0035c9abf57f6e8c62ed3a7032c7f17ce29663f95e2f5bdd33",
+      "meta.json": "51839f292fc9396c77a91d43154609f78e3e837848301053787578d1699994fa"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/shaker_gold.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/shaker.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shaker.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "icon taken from https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi ; inhand sprites made by Failed (Discord: greetings_), resprited by sastr. (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "be64c3aa766d33ebdec465e53050a5a64c126179876ab70349fb1d083d583a34",
+      "inhand-left.png": "2e934e81b335ac9194975b4d3f14c0f53774870e70567447f8fba7985ad16db7",
+      "inhand-right.png": "5b4ba646ecd47b03d3e3363e0f9b0ce775da8616ee77ef60e3cb17fddd58b89f",
+      "meta.json": "82c96d3e1362b75230d129f041c261b99e89e816e63bf5493891db9ca3104383"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/shaker.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/shamblersjuice.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/shamblersjuice.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/70ccd0f2305286a1312425a85365881fac16fcac. Modified by potato1234x (github) for SS14. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "1ef2fe18cedee1eeccea57b5d09b24e1546fffe3dbe146b7f9a48b4ffdef6031",
+      "icon_open.png": "70d41cebb67e7e68c8b95b3b619a2bd32c1f4a722ef46699c27ced30ee3a600f",
+      "inhand-left.png": "4c96c74e896123c582ca9097d2033b68304a103493f8b81aa38801d5b27bbc04",
+      "inhand-right.png": "2cf6cba622434de2298c3f74511367a650197544cd620fb167ceefb3931e2c0e",
+      "meta.json": "f00b62430780d61fc5815bf62a5b96b208f61aa493edf9cd23e95320856ea62a"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/shamblersjuice.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/shamblersjuice.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/sodawater.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/sodawater.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "abb13de02406da192ba07e526d3b2da4642f7215f4e221d3bd8e4f89466750be",
+      "icon_open.png": "d55b09c984cf2db63f858079b4c2a55af5a7901310f08b8db97d909b5937410b",
+      "inhand-left.png": "920a323bada359d6da17f12000f7a491ecafa5b7f38eb6a023c22754ef5287b4",
+      "inhand-right.png": "4544b557fb85adb4d6126c504a1a20458d247b064803546ef543dea451db861d",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/sodawater.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/sodawater.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/space_mountain_wind.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/space_mountain_wind.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "f28bcc198336a5257fbc583412f903e666cd98d954c18dc1061c7bbd77ccf8d0",
+      "icon_open.png": "6c9947da7664ed03444a7516f5c6b2165cd1d043a2ba61969bd5fa86ce2cb1b4",
+      "inhand-left.png": "460cbae1f8393b390f30a78568740dff6a6819fd2ff134e0bb68411dee5dd5fa",
+      "inhand-right.png": "cb32422e69bcba6206a5d096a09aa1d3e92109ac2843dbeecba98de397b893dc",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/space_mountain_wind.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/space_mountain_wind.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/space-up.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/space-up.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "e10867e6a95380b450ec31305a2af75894494758d31e7676230db3b07a6c2fda",
+      "icon_open.png": "bf814cb9fe7a6a164dafcf21e52c72a93add8fe7384fe86e7ce148ca883ea000",
+      "inhand-left.png": "dec44fe53081eab74342c594c858cb2451768d208716c4a29703a41d4afc3470",
+      "inhand-right.png": "cca4d2f4a0a18c5b9e5c9bf72bdb88a64cfd7e930dbe0f829946f24ffa4a1f20",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/space-up.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/space-up.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/starkist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/starkist.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "f7a4651ea4a45f256801b344af2c269fed8a029248d69953152aa8d69e94491e",
+      "icon_open.png": "0330428db15bacc73a58d65cc74a8e6d1bdb3f057856ee61a17b9f39805bb90e",
+      "inhand-left.png": "a7247a5a1409102f0d65dc5ce7f03fab2320b7b4fce7f651031b4b81c4ef04f7",
+      "inhand-right.png": "91d529f0ec2bb19541ee866289a3250807827eb13ca4a39fc183c0953706afe9",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/starkist.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/starkist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/tonic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Drinks/tonic.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi. Inhands by Tiniest Shark (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "fa16468226b71e59df14a6a42da8eaa9815ebd2e75c6307e80a8db3b4ad2df44",
+      "icon_open.png": "3e8a107c5188fbade01200f8dd3a6e48f8056ae1098fc70683d80b8ed7c11c4f",
+      "inhand-left.png": "3ec76864524c27ee6d122f36d0b4d27dbec1ced176adfbfe42186420ceac9c4b",
+      "inhand-right.png": "86c9bad10e4b39174c75605fd6dc1f2c39591a34e663b6f1cc486ce02de65550",
+      "meta.json": "5ef49a5ae80d2022991264e091eadb8def1b4458d87ea1f4bb49041a5750884d"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/tonic.rsi",
+      "_Lime/Imported/Monolith/Objects/Consumable/Drinks/tonic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/Baked/brownie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/brownie.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by mutemaid (Discord/GitHub) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "brownie-batch.png": "aa995dd6a5a1773a9e821f3bfc2ba6146536f78b1795a46a441ff91e7d66ea8c",
+      "meta.json": "99e3c4f0cbb31dd816e1500455552718284dbcfea97ccef7257879a89e2ab993"
+    },
+    "replaces": [
+      "Objects/Consumable/Food/Baked/brownie.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/Baked/donkpocket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donkpocket.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24. Stonk pocket by Tayrtahn on GitHub. Carp pocket by deltanedas (GitHub). Modified by ps3moira (GitHub). 'moth-box' and 'moth' States by kosticia on GitHub",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "banana-box.png": "a41784a823db80943a6a27be5ff16399547e074eec9fa66f545ca6e98f6de698",
+      "banana.png": "2b9cf6b9c0ad818b70a4cad4f4257a236d11152e4694f27b790b5dea528b0310",
+      "berry-box.png": "278425f27aea5edeb270bbc0dd5a28ffa0a6c8d5cdc73378a2f647be2dd350c4",
+      "berry.png": "d6c2263618f6e7a0e183d23daca04bf849432a5d161507e0f673626d0bbbde51",
+      "box.png": "18a95dd04080fb0b1d6af10b97beff453e6245dd25d4ef8986a3e340545364b6",
+      "carp-box.png": "f1184cb2ac54ce955c1e30056f7761f0d98f2661891218260cc116fe9a5ed8ab",
+      "carp.png": "56f2dc298b2f09adcbe52db7afdda58a0bc3b35f5ca0c806ffca167430210785",
+      "dank.png": "52896e07da75bc702d6d0211583dc3fe1be853c6b3911f82c68b39bf2b8d9e2c",
+      "dink-box.png": "051e1225461de38fe50395c96020597f5270fd26b960c2c05121cb7b944cb7b0",
+      "dink.png": "f7a271256ba2c83b44fb95e4671c7e70d55b2a0bfcdc6b6284be717a6adef3bc",
+      "inhand-left.png": "0d007fa7d59742b368706247cfd6d4fe74421d76fc75b0aa6cc3ab802e11895f",
+      "inhand-right.png": "998364e70350e2817daa45b22c8b246dacc2197f927319fbfaf773f64510f8ea",
+      "meta.json": "88e92e9d30fb9c61db8dc3da531849c14986a18841c142672e456d5dad184199",
+      "moth-box.png": "522aa0c2619c0a038fc5ad490b3ae0426758502c6a168c4abc90a46f9e325577",
+      "moth.png": "8e9eace3e9e3cc5369406ae39ceb88d11d962a740e543432fa3714ff588662fe",
+      "pizza-box.png": "9133edfcff750c68260f5415aa348dcce306e66fdd7fbe2c65b79562cd50e4b0",
+      "pizza.png": "3ec04b65ed8cd7ec72c963f690d8c2611c025b4f4792cab90910b7bf2f84f8fa",
+      "plain.png": "8cf7806c36706d69a5204749c37ad022997128c40d85b0711251a01d3215e5d3",
+      "spicy-box.png": "e35c2cebe44a22414be9305a00b8cf5a36d7dfba6f8e7bce35f59958c629cd80",
+      "spicy.png": "03f4e9d984fed1d890b7992593e5ced70ec7ce72f254bbb485fc67abc055a8d1",
+      "stonk-box.png": "f7f607401e57932d23627142ed9e3303f23689522ebcb5091ce3d5e90a5b3f73",
+      "stonk.png": "2190fcc3be6d2adc9b046952be270feb8324b0e8a9a16fe697795308ea64bd1b",
+      "teriyaki-box.png": "66685e10edf3e05515935d5a79f303e55296bdc4fe9ba2e3b4bb69589df3092f",
+      "teriyaki.png": "0d6fcaf611aaa09735f6d0530a5cdbc0191d6ed34afa97941e6eeee6b6229dcf"
+    },
+    "replaces": [
+      "Objects/Consumable/Food/Baked/donkpocket.rsi",
+      "_Lime/Imported/Goob/Objects/Consumable/Food/Baked/donkpocket.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/Baked/donut.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/donut.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/40d75cc340c63582fb66ce15bf75a36115f6bdaa, further modified by ps3moira (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alpha-inhand-left.png": "9cfa37fb721e48f64c22191143bd6d22316941aacc48204d3b13494aab19207f",
+      "alpha-inhand-right.png": "9a0b839d3a88cd7e5a9f04703248c4b9a4461459cf890f48aaa9fc272c8bf366",
+      "beige.png": "4a365ff7d7db9ddc58298f476fb547008ea1aab11f2f6fb8fd7cacef3798d5c6",
+      "blue.png": "5c372c6166f88e2653d2f0a5406f598161b7a2a27706fd27d1bd6f2a9841e802",
+      "box-inhand-left.png": "0d007fa7d59742b368706247cfd6d4fe74421d76fc75b0aa6cc3ab802e11895f",
+      "box-inhand-right.png": "998364e70350e2817daa45b22c8b246dacc2197f927319fbfaf773f64510f8ea",
+      "box-open.png": "4be8f9c79d3c9e86ef8b44280ac98537aa1db1bfa17a4efcd3df2b26d34cb7e8",
+      "box.png": "5b1879f7344b5fcbd61f2ddc253b8203a383d400eed0f670195c9fc10c101368",
+      "box1.png": "ca141e4c9436c6f5a9c24fc67ce3feb10c21374ba400613ae181dae635d07683",
+      "box2.png": "208de69348a6f685c8906bb7c4d6b1d8616133ad581e1d7012b63f377160847e",
+      "box3.png": "9cb414acfe692b58bf7149f02698a1be23ba9f622faf011ed995e704dc67f1d9",
+      "box4.png": "6b8959ce5da016bd67c7e55a297f0cb9d8a17c0b035234eba81757e03302eb5c",
+      "box5.png": "7de1d9bea4a5d51308a4329651eb457c44953d1de05ad3d05abaed35cdb33c09",
+      "box6.png": "8adc3ea74ff88d5699133aad3a956d1f171d125e98bd16cc25123e8cd81f718e",
+      "chaos.png": "b0d7b7667a253b2f5d75abd409aaa7e8ae1d456d0763dce6c15dfff42698a260",
+      "choc.png": "aba4ffe2902f7ecca844aeed7bb481b4588ca8ebe8395aa803a99c90829e7424",
+      "green.png": "99b544e3e97820af29ee7600583a39e4dff0080ae0c3ea2e328f4f5397020263",
+      "homer.png": "897d9955c04e05833cddd4cfb81567674304a83409fb353bc3c9c39a2de03191",
+      "inhand-left.png": "6b061f473a41fdd073bfe05059034143b0e564139dfbb4fc0b7d9cf7ee654e85",
+      "inhand-right.png": "a5de38bd0e8bdf6ab302f214c400542de41f38ae66bf72aeba434c02a743ae3c",
+      "jelly-beige.png": "75a4094e097db2f7d54c7c547a1621154539645da07f795b0c80396b515be4eb",
+      "jelly-blue.png": "e3e727d660d32294a861a505d26fb34111e371e0bd348f56d3272f7f5a50bab8",
+      "jelly-choc.png": "6360b9127bfbf1e1d65ca7b53612b995f2112b1837ea048af5849b0b6f632ae2",
+      "jelly-green.png": "cadb05a0f497a745df1a677cd335ec5306bcad7b549fcd7cb5ead086a2c1478b",
+      "jelly-homer.png": "8202b8630d8be63b9922483d632071f7e1c28e8784a7247306284d352a562b05",
+      "jelly-laugh.png": "b94011a82b792ea5d65ac0837e495cd09552749b21a35cb0efb61218699ebed0",
+      "jelly-olive.png": "c51a2ca7f98d9c920d58d3e0ea0b7471f3139c1e27ef72573f32d8e3bd06952f",
+      "jelly-pink.png": "a9fab8c95df891167d50e42fabcd47a79d19a4288be3297dbf0fddb101214486",
+      "jelly-plain.png": "1237306f9f2fbcefdee767f6086c9c178109b72e1498316e58da3211bff1654c",
+      "jelly-purple.png": "adceb5e72e4375aba69b46586df7c16fe94451db0e4f8b7221826be129fa8e79",
+      "jelly-slug.png": "97577b8866e52963704fe2c83e1028e01a4e1f4415affb41eed95620e2e46aca",
+      "jelly-sprinkles-overlay.png": "d89d2d48107a4cf8b914bdc45be419a45d0063c181f1730f396c1ed34490d7c6",
+      "jelly-yellow.png": "b0eea8d11140adea236ab1403028687064016bf88c13cc76fc6e611fba5da81d",
+      "laugh.png": "97a39d9ebb5bb1488f977325c01fb8570cd5e624f83ec1763420cbc16a750065",
+      "meat.png": "f4d381004d08e9b6f37f230dd0a5d39388696911b56aa4e84662f4cb7546fac5",
+      "meta.json": "6c26d2719f3d969c11d2a753f3c49844820008db92ab3272fe907435a0954a94",
+      "olive.png": "1a3d528dc92fd0551fd50945ddb930b746fd714ff3b7ee4b2a0530d17823d0df",
+      "pink-box1.png": "d58d4586aa281544a1f59024732519359f760421ac05b876beca1abc833f057b",
+      "pink-box2.png": "867858456b4eda1e2da2a05ac0e90a231bc4557e2a9f5ed55deb2733fa91f170",
+      "pink-box3.png": "72ea4886ea9054a6174f889c95850f67e7dc6dc910832e536c5df5524b4b15bb",
+      "pink-box4.png": "a93003c06cbba7e36d571183ae9dac522ff2f82f0014b38c485d6f8ee7545bed",
+      "pink-box5.png": "1903d55c2dbbf40d8e88e44a7632ec59a41020eec70b0e24186ac70cb0d2f73c",
+      "pink-box6.png": "77ffc57137aa9fa9da5acb8566326d2be415cee054a935b545a207d6fef26b4b",
+      "pink-inhand-left.png": "3ba0aab83854f811d9aa279ea884125f64e5ef7edb98d761cc91b0f6435b860e",
+      "pink-inhand-right.png": "1828d7fae8002257aaed3239d3fdca58cf3c1a44c83ccbeeb2a1d6a07536eb44",
+      "pink.png": "0c8dd7484bdba37e26ee9a49996dac14e9ff1fbf867f14c011afcfdebb705bb1",
+      "plain.png": "0aa199b5edfd12ccbe20d0836dcbc71a1372cc28ae252d7ea3ca90d4d4936d6e",
+      "purple.png": "dd8b212c70120fb40d6a25084c50681485b86af5206cf32d61604bf55cb45b06",
+      "sprinkles-overlay.png": "9daab5fe604026e9f85f08cfdc736ae688d0a6bfc53f7d504341eba2d2ec3a1f",
+      "yellow.png": "661874e0d1dbb3432afeb9dd19e3540fee8be9f339bce805549f654d4dbfe16a"
+    },
+    "replaces": [
+      "Objects/Consumable/Food/Baked/donut.rsi",
+      "_Lime/Imported/Goob/Objects/Consumable/Food/Baked/donut.rsi"
+    ]
+  }
+]

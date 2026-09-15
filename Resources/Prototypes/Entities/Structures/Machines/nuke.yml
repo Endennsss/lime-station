@@ -7,7 +7,7 @@
   - type: Transform
     anchored: true
   - type: Sprite
-    sprite: Objects/Devices/nuke.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/nuke.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     noRot: true
     layers:
     - state: nuclearbomb_base
@@ -133,7 +133,7 @@
     anchored: false
   - type: NukeLabel
   - type: Sprite
-    sprite: Objects/Devices/nuke.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/nuke.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: nuclearbomb_base
     - state: nukefestive

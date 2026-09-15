@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: ServiceCookGetmore
   icon:
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: raisins
   product: CrateServiceGetMore
   cost: 750
@@ -51,7 +51,7 @@
 - type: cargoProduct
   id: ServiceSmokeables
   icon:
-    sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/green.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Smokeables/Cigarettes/Cartons/green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateServiceSmokeables
   cost: 1500
@@ -61,7 +61,7 @@
 - type: cargoProduct
   id: ServiceCustomSmokable
   icon:
-    sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/green.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Smokeables/Cigarettes/Cartons/green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateServiceCustomSmokable
   cost: 1000
@@ -71,7 +71,7 @@
 - type: cargoProduct
   id: ServiceBureaucracy
   icon:
-    sprite: Objects/Misc/pens.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/pens.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: pen
   product: CrateServiceBureaucracy
   cost: 1000
@@ -91,7 +91,7 @@
 - type: cargoProduct
   id: ServicePersonnel
   icon:
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: default
   product: CrateServicePersonnel
   cost: 1000

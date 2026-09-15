@@ -55,9 +55,9 @@
   description: A beret with the security department's insignia. For officers that are more inclined towards style than safety.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Forge/Forge/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade
@@ -74,9 +74,9 @@
   description: A campaign hat for the Nanotrasen Troopers. It's supposed to come with a case, too...
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/security_trooper_hat.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/security_trooper_hat.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/security_trooper_hat.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/security_trooper_hat.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade
@@ -104,9 +104,9 @@
   description: A beret for real scientists.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_rnd.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_rnd.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_rnd.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_rnd.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -123,9 +123,9 @@
   description: A beret with the engineering department's insignia. For engineers that are more inclined towards style than safety.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_engineering.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_engineering.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_engineering.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_engineering.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -142,9 +142,9 @@
   description: A beret with the cargo department's insignia.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_qm.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_qm.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_qm.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_qm.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -161,9 +161,9 @@
   description: A black beret with a commander's rank emblem. For officers that are more inclined towards style than safety.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_hos.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_hos.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_hos.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_hos.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -180,9 +180,9 @@
   description: A corporate-blue beret with a warden's rank emblem. For officers that are more inclined towards style than safety.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_warden.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_warden.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_warden.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_warden.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -196,9 +196,9 @@
   description: Donning the colours of medical and chemistry, physicians are the pride of this department!
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_physician.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_physician.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_physician.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_physician.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -212,9 +212,9 @@
   description: A white beret for brigmedics.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_brigmedic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_brigmedic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_brigmedic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_brigmedic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -276,9 +276,9 @@
   description: Feels good being the king.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -310,9 +310,9 @@
   description: Feels good being the king's boss.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/centcom.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/centcom.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/centcom.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/centcom.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -359,9 +359,9 @@
   description: A brown fedora.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/brownfedora.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownfedora.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/brownfedora.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownfedora.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -378,9 +378,9 @@
   description: A grey fedora.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/greyfedora.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyfedora.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/greyfedora.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyfedora.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadHatFedoraBrown
@@ -415,9 +415,9 @@
   description: A stylish cap worn by the Head of Personnel. Shows paperwork who's in charge.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/hopcap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/hopcap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/hopcap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/hopcap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -434,9 +434,9 @@
   description: A stylish cap worn by the Head of Security. Shows the officers who's in charge.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/hoshat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Corvax/Clothing/Head/Hats/hoshat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Monolith/Clothing/Head/Hats/hoshat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Corvax/Clothing/Head/Hats/hoshat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -606,9 +606,9 @@
   description: A blue cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/surgcap_blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/surgcap_blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/surgcap_blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/surgcap_blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - ClothMade
@@ -628,9 +628,9 @@
   description: A green cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/surgcap_green.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/surgcap_green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/surgcap_green.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/surgcap_green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -644,9 +644,9 @@
   description: A purple cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/surgcap_purple.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/surgcap_purple.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/surgcap_purple.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/surgcap_purple.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -757,9 +757,9 @@
   description: This hat emphasizes that you are THE LAW.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/warden.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/warden.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/warden.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/warden.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: StealTarget
     stealGroup: ClothingHeadHatWarden
   - type: Tag
@@ -1033,9 +1033,9 @@
   description: A turquoise beret with a cross on the front. The sight of it calms you down and makes it clear that you will be cured.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_cmo.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_cmo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_cmo.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_cmo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -1177,11 +1177,11 @@
   description: A grand, stylish cap worn by the Captain. Shows the station who's in charge.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/Goob/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/capcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -1308,9 +1308,9 @@
     tags:
     - BrimFlatcapGrey
   - type: Sprite
-    sprite: Clothing/Head/Hats/greyflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/greyflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadBase
@@ -1322,9 +1322,9 @@
     tags:
     - BrimFlatcapBrown
   - type: Sprite
-    sprite: Clothing/Head/Hats/brownflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/brownflatcap.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadBase
@@ -1352,9 +1352,9 @@
   name: black cowboy hat
   components:
     - type: Sprite
-      sprite: Clothing/Head/Hats/cowboyhatblack.rsi
+      sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/cowboyhatblack.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     - type: Clothing
-      sprite: Clothing/Head/Hats/cowboyhatblack.rsi
+      sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/cowboyhatblack.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     - type: Tag
       tags:
       - PetWearable
@@ -1480,9 +1480,9 @@
   description: A sterile white beret.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/beret_medic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_medic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Hats/beret_medic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/beret_medic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - PetWearable
@@ -1511,13 +1511,13 @@
   description: You're the bestest boy.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hats/propellerhat.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/propellerhat.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: icon
       map: [ "enum.ToggleableVisuals.Layer" ]
   - type: Clothing
     equippedPrefix: off
-    sprite: Clothing/Head/Hats/propellerhat.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/propellerhat.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: ToggleableVisuals
     spriteLayer: enum.ToggleableVisuals.Layer
     clothingVisuals:

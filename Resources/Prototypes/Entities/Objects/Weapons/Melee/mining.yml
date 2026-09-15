@@ -8,7 +8,7 @@
     tags:
     - Pickaxe
   - type: Sprite
-    sprite: Objects/Weapons/Melee/pickaxe.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/pickaxe.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: pickaxe
   - type: MeleeWeapon
     attackRate: 0.7
@@ -31,7 +31,7 @@
     shape:
     - 0,0,2,0
     - 1,1,1,2
-    sprite: Objects/Weapons/Melee/pickaxe.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/pickaxe.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     storedRotation: -45
   - type: UseDelay
   - type: PhysicalComposition
@@ -107,7 +107,7 @@
     tags:
       - Pickaxe
   - type: Sprite
-    sprite: Objects/Weapons/Melee/crusher.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/crusher.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Item
     size: Ginormous
@@ -116,7 +116,7 @@
     storedRotation: -45
     sprite: Objects/Weapons/Melee/crusher-inhands.rsi
   - type: Clothing
-    sprite: Objects/Weapons/Melee/crusher.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/crusher.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: false
     slots:
     - Back
@@ -216,7 +216,7 @@
   description: An early design of the proto-kinetic accelerator, in glaive form. Provides better healing in exchange for less charged damage.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/crusher_glaive.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/crusher_glaive.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Item
     size: Ginormous
@@ -225,7 +225,7 @@
     storedRotation: -45
     sprite: Objects/Weapons/Melee/crusher_glaive-inhands.rsi
   - type: Clothing
-    sprite: Objects/Weapons/Melee/crusher_glaive.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/crusher_glaive.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: false
     slots:
     - Back

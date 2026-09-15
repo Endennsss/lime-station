@@ -91,7 +91,7 @@
 - type: cargoProduct
   id: MedicalBiosuit
   icon:
-    sprite: Clothing/Head/Hoods/Bio/bio.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hoods/Bio/bio.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateVirologyBiosuit
   cost: 800
@@ -111,7 +111,7 @@
 - type: cargoProduct
   id: ChemistryP
   icon:
-    sprite: Structures/Storage/Crates/chemcrate_secure.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/chemcrate_secure.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateChemistryP
   cost: 950
@@ -121,7 +121,7 @@
 - type: cargoProduct
   id: ChemistryS
   icon:
-    sprite: Structures/Storage/Crates/chemcrate_secure.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/chemcrate_secure.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateChemistryS
   cost: 750
@@ -131,7 +131,7 @@
 - type: cargoProduct
   id: CrateChemistryD
   icon:
-    sprite: Structures/Storage/Crates/chemcrate_secure.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/chemcrate_secure.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   product: CrateChemistryD
   cost: 750

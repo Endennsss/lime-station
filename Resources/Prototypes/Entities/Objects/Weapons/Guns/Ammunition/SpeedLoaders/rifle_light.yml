@@ -13,7 +13,7 @@
     capacity: 5
     proto: CartridgeLightRifle
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Ammunition/SpeedLoaders/LightRifle/light_rifle_speed_loader.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Ammunition/SpeedLoaders/LightRifle/light_rifle_speed_loader.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

@@ -4,9 +4,9 @@
   parent: [BaseDeltaPressurePlasma, BaseWindowStructure, BaseRCDResistant, StructureHealthBarrier]
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/plasma_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/plasma_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/plasma_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Structures/Windows/plasma_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: GlassPlasmaMod

@@ -26,12 +26,12 @@
               doAfter: 2
             - tag: Paper
               icon:
-                sprite: Objects/Misc/bureaucracy.rsi
+                sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: paper
               name: construction-graph-tag-paper
             - tag: Paper
               icon:
-                sprite: Objects/Misc/bureaucracy.rsi
+                sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: paper
               name: construction-graph-tag-paper
 

@@ -8,7 +8,7 @@
   description: "Recently legalized in most galaxies."
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/cannabis.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/cannabis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Produce
     plantId: CannabisPlants
   - type: Edible # Precursor to the one true edible
@@ -28,7 +28,7 @@
     stackType: LeavesCannabisDried
     count: 1
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/tobacco.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: dried
 
 - type: entity
@@ -178,7 +178,7 @@
   description: "Dry them out to make some smokes."
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/tobacco.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Produce
     plantId: TobaccoPlants
   - type: Solution
@@ -197,7 +197,7 @@
     stackType: LeavesTobaccoDried
     count: 1
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/tobacco.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: dried
 
 - type: entity

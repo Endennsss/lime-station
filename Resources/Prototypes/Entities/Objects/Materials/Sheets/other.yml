@@ -5,9 +5,9 @@
   description: A sheet of material, used often on the station in various applications.
   components:
   - type: Sprite
-    sprite: Objects/Materials/Sheets/other.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/other.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
-    sprite: Objects/Materials/Sheets/other.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/other.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: SheetOtherBase
@@ -208,7 +208,7 @@
   suffix: Full
   components:
     - type: Sprite
-      sprite: Objects/Materials/Sheets/meaterial.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/meaterial.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       layers:
       - state: meat_3
         map: [ "base" ]
@@ -227,7 +227,7 @@
         - meat_2
         - meat_3
     - type: Item
-      sprite: Objects/Materials/Sheets/meaterial.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Materials/Sheets/meaterial.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       heldPrefix: meat
     - type: Solution
       solution:

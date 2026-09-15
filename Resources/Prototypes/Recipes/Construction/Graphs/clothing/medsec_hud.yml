@@ -9,13 +9,13 @@
             - tag: HudMedical
               name: construction-graph-tag-medical-hud
               icon:
-                sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/med.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+                sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/med.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: icon
               doAfter: 5
             - tag: HudSecurity
               name: construction-graph-tag-security-hud
               icon:
-                sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+                sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
                 state: icon
               doAfter: 5
             - material: Cable

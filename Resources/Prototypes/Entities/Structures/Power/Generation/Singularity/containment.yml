@@ -18,7 +18,7 @@
   - type: InteractionOutline
   - type: Anchorable
   - type: Sprite
-    sprite: Structures/Power/Generation/Singularity/containment.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/containment.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
     noRot: true
     layers:
@@ -36,7 +36,7 @@
         visible: false
         shader: unshaded
   - type: Icon
-    sprite: Structures/Power/Generation/Singularity/containment.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/containment.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: ContainmentFieldGenerator
   - type: PointLight
@@ -93,11 +93,11 @@
         layer:
         - GlassLayer
   - type: Sprite
-    sprite: Structures/Power/Generation/Singularity/containment_field.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/containment_field.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: field
     noRot: true
   - type: Icon
-    sprite: Structures/Power/Generation/Singularity/containment_field.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Power/Generation/Singularity/containment_field.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: field
   - type: ContainmentField
     throwForce: 50

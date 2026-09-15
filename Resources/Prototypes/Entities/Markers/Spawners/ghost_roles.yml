@@ -33,7 +33,7 @@
     sprite: Markers/jobs.rsi
     layers:
       - state: green
-      - sprite: Mobs/Animals/regalrat.rsi
+      - sprite: _Lime/Imported/DeadSpace/Mobs/Animals/regalrat.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: icon
 
 - type: entity
@@ -101,7 +101,7 @@
     sprite: Markers/jobs.rsi
     layers:
       - state: green
-      - sprite: Structures/Wallmounts/signs.rsi
+      - sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/signs.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: radiation
 
 - type: entity
@@ -119,7 +119,7 @@
     sprite: Markers/jobs.rsi
     layers:
       - state: green
-      - sprite: Structures/Wallmounts/signs.rsi
+      - sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/signs.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: radiation
 
 - type: entity
@@ -172,7 +172,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Aliens/Carps/dragon.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Aliens/Carps/dragon.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: alive
 
 - type: entity
@@ -192,7 +192,7 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Objects/Weapons/Melee/energykatana.rsi
+    - sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/energykatana.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: icon
 
 - type: entity
@@ -264,7 +264,7 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Mobs/Silicon/chassis.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: derelict_icon
 
 - type: entity
@@ -308,7 +308,7 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Mobs/Silicon/chassis.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: xenoborg_engi
 
 - type: entity

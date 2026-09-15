@@ -21,30 +21,30 @@
           "/Audio/Weapons/smash.ogg"
   - type: InteractionOutline
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-base.rsi # Lime-Edit - основа шлюза Monolith
-    snapCardinals: false # Lime-Edit - четырёхнаправленные шлюзы
+    sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    snapCardinals: true # Lime-Edit - ориентация исходного набора
     layers:
     - state: closed
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-base.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseUnlit"]
       shader: unshaded
       visible: false
     - state: welded
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseBolted"]
       shader: unshaded
     - state: emergency_unlit
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
       shader: unshaded
     - state: panel_open
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
     - state: electrified_ai
       sprite: Interface/Misc/ai_hud.rsi
@@ -57,7 +57,7 @@
       shader: unshaded
       visible: false
     - state: sparks
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/basic.rsi
       map: ["enum.DoorVisualLayers.BaseEmagging"]
       shader: unshaded
       visible: false
@@ -99,7 +99,7 @@
     fuel: 5
     time: 3
   - type: Airlock
-    openUnlitVisible: true # Lime-Edit - штатные эффекты содержат open_unlit
+    openUnlitVisible: false # Lime-Edit - старые RSI не содержат open_unlit # Lime-Edit - штатные эффекты содержат open_unlit
   - type: NavMapDoor
   - type: DoorBolt
   - type: Appearance
@@ -240,30 +240,30 @@
   - type: Occluder
     enabled: false
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/airlock-base.rsi # Lime-Edit - основа шлюза Monolith
-    snapCardinals: false # Lime-Edit - четырёхнаправленные шлюзы
+    sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
+    snapCardinals: true # Lime-Edit - ориентация исходного набора
     layers:
     - state: closed
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/airlock-base.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.DoorVisualLayers.BaseUnlit"]
       shader: unshaded
       visible: false
     - state: welded
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.DoorVisualLayers.BaseBolted"]
       shader: unshaded
     - state: emergency_unlit
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
       shader: unshaded
     - state: panel_open
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
     - state: electrified_ai
       sprite: Interface/Misc/ai_hud.rsi
@@ -276,12 +276,12 @@
       shader: unshaded
       visible: false
     - state: sparks
-      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - совместимые слои шлюза
+      sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Glass/basic.rsi
       map: ["enum.DoorVisualLayers.BaseEmagging"]
       shader: unshaded
       visible: false
   - type: Airlock
-    openUnlitVisible: true # Lime-Edit - штатные эффекты содержат open_unlit
+    openUnlitVisible: false # Lime-Edit - старые RSI не содержат open_unlit # Lime-Edit - штатные эффекты содержат open_unlit
   - type: Fixtures
     fixtures:
       fix1:

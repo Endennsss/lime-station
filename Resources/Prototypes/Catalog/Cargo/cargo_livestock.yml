@@ -121,7 +121,7 @@
 - type: cargoProduct
   id: LivestockMonkeyCube
   icon:
-    sprite: Objects/Misc/monkeycube.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/monkeycube.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: box
   product: MonkeyCubeBox
   container:
@@ -134,7 +134,7 @@
 - type: cargoProduct
   id: LivestockKoboldCube
   icon:
-    sprite: Objects/Misc/monkeycube.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/monkeycube.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: box_kobold
   product: KoboldCubeBox
   container:

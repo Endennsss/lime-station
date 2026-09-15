@@ -5,10 +5,10 @@
   description: A spray painter for painting airlocks, pipes, and other items.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: spray_painter
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: ActivatableUI
     key: enum.SprayPainterUiKey.Key
   - type: UserInterface
@@ -73,10 +73,10 @@
   components:
   - type: SprayPainterAmmo
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: ammo
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/spray_painter.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: ammo
   - type: PhysicalComposition
     materialComposition:

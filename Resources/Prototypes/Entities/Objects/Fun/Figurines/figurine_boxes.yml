@@ -8,7 +8,7 @@
     materialComposition:
       Cardboard: 50
   - type: Sprite
-    sprite: Objects/Fun/figurines.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/figurines.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: fig_box_unfolded
   - type: Tag
     tags:
@@ -22,7 +22,7 @@
   description: A box containing a mystery minifigure. The side of the box depicts a few blacked-out 'rare' figures, including one with a large, non-humanoid shilouette.
   components:
   - type: Sprite
-    sprite: Objects/Fun/figurines.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/figurines.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: fig_box
   - type: TriggerOnActivate
@@ -48,7 +48,7 @@
   description: A box of discontinued promotional lighters, many of which have since been declared "contraband".
   components:
   - type: Sprite
-    sprite: Objects/Fun/figurines.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/figurines.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: fig_box
   - type: SpawnItemsOnUse

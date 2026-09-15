@@ -6,7 +6,7 @@
   - type: Item
     storedRotation: -90
   - type: Sprite
-    sprite: Objects/Devices/cartridge.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/cartridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: BasePDACartridge
@@ -36,7 +36,7 @@
   - type: Cartridge
     programName: nano-task-program-name
     icon:
-      sprite: Interface/Misc/program_icons.rsi
+      sprite: _Lime/Imported/DeadSpace/Interface/Misc/program_icons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: nano_task
   - type: UIFragment
     ui: !type:NanoTaskUi
@@ -55,7 +55,7 @@
   - type: Cartridge
     programName: news-read-program-name
     icon:
-      sprite: Interface/Misc/program_icons.rsi
+      sprite: _Lime/Imported/DeadSpace/Interface/Misc/program_icons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: news_read
   - type: NewsReaderCartridge
 
@@ -72,7 +72,7 @@
     - type: Cartridge
       programName: crew-manifest-program-name
       icon:
-        sprite: Interface/Misc/program_icons.rsi
+        sprite: _Lime/Imported/DeadSpace/Interface/Misc/program_icons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
         state: crew_manifest
     - type: CrewManifestCartridge
 
@@ -102,14 +102,14 @@
     - type: Sprite
       state: cart-log
     - type: Icon
-      sprite: Objects/Devices/cartridge.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Devices/cartridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: cart-log
     - type: UIFragment
       ui: !type:LogProbeUi
     - type: Cartridge
       programName: log-probe-program-name
       icon:
-        sprite: _Lime/Imported/Forge/Structures/Doors/Airlocks/Standard/security.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
+        sprite: _Lime/Imported/DeadSpace/Structures/Doors/Airlocks/Standard/security.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
         state: closed
     - type: LogProbeCartridge
     - type: GuideHelp
@@ -125,7 +125,7 @@
   - type: Sprite
     state: cart-sec
   - type: Icon
-    sprite: Objects/Devices/cartridge.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/cartridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: cart-sec
   - type: UIFragment
     ui: !type:WantedListUi
@@ -147,7 +147,7 @@
     - type: Sprite
       state: cart-med
     - type: Icon
-      sprite: Objects/Devices/cartridge.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Devices/cartridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: cart-med
     - type: Cartridge
       programName: med-tek-program-name
@@ -165,7 +165,7 @@
     - type: Sprite
       state: cart-nav
     - type: Icon
-      sprite: Objects/Devices/cartridge.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Devices/cartridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: cart-nav
     - type: Cartridge
       programName: astro-nav-program-name

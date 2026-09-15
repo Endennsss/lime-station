@@ -5,9 +5,9 @@
   description: A leather waist bag meant for carrying small items.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/waistbag_leather.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/waistbag_leather.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Belt/waistbag_leather.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/waistbag_leather.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     grid:
     - 0,0,3,1

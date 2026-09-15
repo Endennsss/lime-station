@@ -15,7 +15,7 @@
       - tag: BrimFlatcapGrey
         name: construction-graph-tag-grey-flatcap
         icon:
-          sprite: Clothing/Head/Hats/greyflatcap.rsi
+          sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/greyflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
           state: icon
   - node: icon
     entity: BladedFlatcapGrey
@@ -37,7 +37,7 @@
       - tag: BrimFlatcapBrown
         name: construction-graph-tag-brown-flatcap
         icon:
-          sprite: Clothing/Head/Hats/brownflatcap.rsi
+          sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/brownflatcap.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
           state: icon
   - node: icon
     entity: BladedFlatcapBrown

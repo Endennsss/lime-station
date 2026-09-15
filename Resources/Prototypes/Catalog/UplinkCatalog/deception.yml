@@ -53,7 +53,7 @@
   id: UplinkHeadsetEncryptionKey
   name: uplink-encryption-key-name
   description: uplink-encryption-key-desc
-  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: synd_label }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi, state: synd_label } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: BoxEncryptionKeySyndie # Two for the price of one
   discountCategory: usualDiscounts
   discountDownTo:
@@ -67,7 +67,7 @@
   id: UplinkBinaryTranslatorKey
   name: uplink-binary-translator-key-name
   description: uplink-binary-translator-key-desc
-  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: ai_label }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi, state: ai_label } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: EncryptionKeyBinarySyndicate
   cost:
     Telecrystal: 1

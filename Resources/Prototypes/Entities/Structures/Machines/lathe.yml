@@ -369,7 +369,7 @@
   description: Prints equipment for use by security crew.
   components:
   - type: Sprite
-    sprite: Structures/Machines/techfab.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/techfab.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -418,7 +418,7 @@
   description: Prints the bare minimum of bullets that any budget military or armory could need. Nothing fancy.
   components:
     - type: Sprite
-      sprite: Structures/Machines/techfab.rsi
+      sprite: _Lime/Imported/DeadSpace/Structures/Machines/techfab.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       layers:
         - state: icon
           map: ["enum.LatheVisualLayers.IsRunning"]
@@ -453,7 +453,7 @@
   description: Prints equipment for use by the medbay.
   components:
   - type: Sprite
-    sprite: Structures/Machines/techfab.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/techfab.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.LatheVisualLayers.IsRunning"]

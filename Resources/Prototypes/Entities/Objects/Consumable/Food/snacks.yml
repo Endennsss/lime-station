@@ -10,14 +10,14 @@
     tags:
       - FoodSnack
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Solution
     solution:
       reagents:
       - ReagentId: Nutriment
         Quantity: 10
   - type: Item
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: packet
     size: Tiny
 # Snacks
@@ -103,7 +103,7 @@
   description: Tastes like cardboard.
   components:
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: chocolatebar
   - type: Item
     heldPrefix: chocolatebar
@@ -414,7 +414,7 @@
       - ReagentId: Nutriment
         Quantity: 1
   - type: Item
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: cookie_fortune
     storedOffset: 1,-1
     size: Tiny
@@ -436,7 +436,7 @@
     tags:
       - FoodSnack
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: nutribrick
   - type: SpawnItemsOnUse
     items:
@@ -471,7 +471,7 @@
   description: A precisely mixed brownie, made to withstand blunt trauma and harsh conditions. Tastes like shit.
   components:
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: mre-brownie
   - type: Item
     heldPrefix: mre-brownie
@@ -555,9 +555,9 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     size: Tiny
   - type: Tag
     tags:

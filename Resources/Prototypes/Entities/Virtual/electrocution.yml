@@ -6,7 +6,7 @@
   - type: Electrocution
   - type: Icon
     # Shows up inside the power monitoring console.
-    sprite: "Structures/Wallmounts/signs.rsi"
+    sprite: "_Lime/Imported/DeadSpace/Structures/Wallmounts/signs.rsi" # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: "shock"
 
 - type: entity

@@ -21,11 +21,11 @@
     - Trash
   - type: SpaceGarbage
   - type: Sprite
-    sprite: Objects/Tools/matches.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/matches.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
       - state: match_unlit
   - type: Item
-    sprite: Objects/Tools/matches.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/matches.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: unlit
     size: Tiny
   - type: Matchstick
@@ -70,7 +70,7 @@
       path: /Audio/Items/matchbox_drop.ogg
   - type: Matchbox
   - type: Sprite
-    sprite: Objects/Tools/matches.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/matches.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: matchbox
     - state: matchbox-open
@@ -85,7 +85,7 @@
       map: ["matchbox3"]
       visible: false
   - type: Item
-    sprite: Objects/Tools/matches.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/matches.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     heldPrefix: matchbox
     size: Small
   - type: Storage
@@ -117,9 +117,9 @@
   description: "A pneumatic match box styled after the Gorlex Marauders' equipment. Contains 24 matches."
   components:
   - type: Sprite
-    sprite: Objects/Tools/Lighters/gorlex.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Lighters/gorlex.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
-    sprite: Objects/Tools/Lighters/gorlex.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/Lighters/gorlex.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Storage
     grid:
     - 0,0,11,1

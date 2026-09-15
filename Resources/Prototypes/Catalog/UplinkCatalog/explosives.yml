@@ -120,7 +120,7 @@
   id: UplinkExplodingPen
   name: uplink-exploding-pen-name
   description: uplink-exploding-pen-desc
-  icon: { sprite: /Textures/Objects/Misc/pens.rsi, state: pen }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Misc/pens.rsi, state: pen } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: PenExplodingBox
   discountCategory: usualDiscounts
   discountDownTo:

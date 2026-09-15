@@ -5,10 +5,10 @@
   description: A bag for carrying mail around the station. Made from tanned space bear hide.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Cargo/mail_bag.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Cargo/mail_bag.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Clothing
-    sprite: Objects/Specific/Cargo/mail_bag.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Cargo/mail_bag.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: false
     slots:
     - belt

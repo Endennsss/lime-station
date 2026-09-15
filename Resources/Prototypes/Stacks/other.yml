@@ -4,7 +4,7 @@
   parent: BaseSheetStack # Not a sheet, but spiritually similar
   id: MetalRod
   name: stack-rods
-  icon: { sprite: /Textures/_Lime/Imported/Monolith/Objects/Materials/parts.rsi, state: rods } # Lime-Edit - текстуры Monolith с сохранением лицензии
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Materials/parts.rsi, state: rods } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: PartRodMetal1
 
 - type: stack

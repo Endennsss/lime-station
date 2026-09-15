@@ -31,7 +31,7 @@
   description: A large duffel bag made of fire resistant fibers. Smells like plasma.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/atmospherics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/atmospherics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -40,7 +40,7 @@
   description: A large duffel bag for holding extra medical supplies.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingBackpackDuffel, BaseCommandContraband]
@@ -49,7 +49,7 @@
   description: A large duffel bag for holding extra captainly goods.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/captain.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -76,7 +76,7 @@
   description: A large duffel bag for holding extra security related goods.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingBackpackDuffel, BaseSecurityContraband]
@@ -85,7 +85,7 @@
   description: A large duffel bag for holding extra medical related goods.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/brigmedic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/brigmedic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -94,7 +94,7 @@
   description: A large duffel bag for holding extra beakers and test tubes.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/chemistry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/chemistry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -103,7 +103,7 @@
   description: A large duffel bag made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/virology.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/virology.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -112,7 +112,7 @@
   description: A large duffel bag for holding extra genetic mutations.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/genetics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/genetics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -133,7 +133,7 @@
   description: A large duffel bag for holding extra science related goods.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -151,7 +151,7 @@
   description: A large duffel bag for stealing cargo's precious loot.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBackpackDuffel
@@ -160,7 +160,7 @@
   description: A large duffel bag for holding extra exotic treasures.
   components:
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/salvage.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/salvage.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingBackpackDuffel, BaseSyndicateContraband]
@@ -169,7 +169,7 @@
   description: A large duffel bag for holding various traitor goods.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.1
   - type: Storage
@@ -199,7 +199,7 @@
   id: ClothingBackpackDuffelSyndicateAmmo
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon-ammo
   - type: Item
     heldPrefix: ammo
@@ -220,7 +220,7 @@
   id: ClothingBackpackDuffelSyndicateMedical
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Clothing/Back/Duffels/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Back/Duffels/syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon-med
   - type: Item
     heldPrefix: med

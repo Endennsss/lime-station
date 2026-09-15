@@ -7,10 +7,10 @@
   description: An ornate sheath designed to hold an officer's blade.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/sheath.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/sheath.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: sheath
   - type: Clothing
-    sprite: Clothing/Belt/sheath.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/sheath.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     size: Ginormous
     shape:

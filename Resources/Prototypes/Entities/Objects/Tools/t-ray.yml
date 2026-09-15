@@ -5,13 +5,13 @@
   description: A high-tech scanning device that uses Terahertz Radiation to detect subfloor infrastructure.
   components:
   - type: Sprite
-    sprite: Objects/Tools/t-ray.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/t-ray.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: tray-off
       map: ["base"]
   - type: TrayScanner
   - type: Item
-    sprite: Objects/Tools/t-ray.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Tools/t-ray.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Appearance
   - type: GenericVisualizer
     visuals:

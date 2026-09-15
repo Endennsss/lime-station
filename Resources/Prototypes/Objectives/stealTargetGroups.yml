@@ -4,7 +4,7 @@
   id: Hypospray
   name: steal-target-groups-hypospray
   sprite:
-    sprite: Objects/Specific/Medical/hypospray.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Specific/Medical/hypospray.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: hypo
 
 - type: stealTargetGroup
@@ -32,7 +32,7 @@
   id: ClothingShoesBootsMagAdv
   name: steal-target-groups-clothing-shoes-boots-mag-adv
   sprite:
-    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -60,7 +60,7 @@
   id: CaptainIDCard
   name: steal-target-groups-captain-id-card
   sprite:
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon-captain
 
 - type: stealTargetGroup
@@ -74,7 +74,7 @@
   id: WeaponAntiqueLaser
   name: steal-target-groups-weapon-antique-laser
   sprite:
-    sprite: Objects/Weapons/Guns/Battery/antiquelasergun.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Guns/Battery/antiquelasergun.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: base
 
 - type: stealTargetGroup
@@ -97,21 +97,21 @@
   id: HeadCloak
   name: steal-target-groups-heads-cloaks
   sprite:
-    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
   id: HeadBedsheet
   name: steal-target-groups-heads-bedsheets
   sprite:
-    sprite: Objects/Misc/bedsheets.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bedsheets.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: sheetNT
 
 - type: stealTargetGroup
   id: Stamp
   name: steal-target-groups-stamps
   sprite:
-    sprite: Objects/Misc/stamps.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/stamps.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: stamp-cap
 
 - type: stealTargetGroup
@@ -132,7 +132,7 @@
   id: EncryptionKey
   name: steal-target-groups-encryption-keys
   sprite:
-    sprite: Objects/Devices/encryption_keys.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: crypt_gray
 
 - type: stealTargetGroup
@@ -153,7 +153,7 @@
   id: IDCard
   name: steal-target-groups-id-cards
   sprite:
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/id_cards.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: default
 
 - type: stealTargetGroup
@@ -167,7 +167,7 @@
   id: ClothingEyesHuds
   name: steal-target-groups-huds
   sprite:
-    sprite: _Lime/Imported/Goob/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/DeadSpace/Clothing/Eyes/Hud/sec.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
 
 # Thief single item
@@ -197,14 +197,14 @@
   id: ClothingHeadHatWarden
   name: steal-target-groups-clothing-head-hat-warden
   sprite:
-    sprite: Clothing/Head/Hats/warden.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Hats/warden.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
   id: ClothingOuterHardsuitVoidParamed
   name: steal-target-groups-clothing-outer-hardsuit-void-paramed
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/paramed.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/OuterClothing/Hardsuits/paramed.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -246,7 +246,7 @@
   id: ChiefEngineerToolBelt
   name: steal-target-groups-belt-ce
   sprite:
-    sprite: Clothing/Belt/ce.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Belt/ce.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -288,7 +288,7 @@
   id: WantedListCartridge
   name: steal-target-groups-wanted-list-cartridge
   sprite:
-    sprite: Objects/Devices/cartridge.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/cartridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: cart-sec
 
 - type: stealTargetGroup
@@ -304,7 +304,7 @@
   id: NuclearBomb
   name: steal-target-groups-nuclear-bomb
   sprite:
-    sprite: Objects/Devices/nuke.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/nuke.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: nuclearbomb_base
 
 - type: stealTargetGroup
@@ -418,7 +418,7 @@
   id: AnimalShiva
   name: steal-target-groups-animal-shiva
   sprite:
-    sprite: Mobs/Pets/shiva.rsi
+    sprite: _Lime/Imported/DeadSpace/Mobs/Pets/shiva.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: shiva
 
 - type: stealTargetGroup

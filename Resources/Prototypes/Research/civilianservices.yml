@@ -126,7 +126,7 @@
   id: MechanizedTreatment
   name: research-technology-mechanized-treatment
   icon:
-    sprite: Mobs/Silicon/chassis.rsi
+    sprite: _Lime/Imported/DeadSpace/Mobs/Silicon/chassis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: medical
   discipline: CivilianServices
   tier: 2

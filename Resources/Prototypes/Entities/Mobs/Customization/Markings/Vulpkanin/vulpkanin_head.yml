@@ -4,7 +4,7 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: blaze
 
 - type: marking
@@ -12,7 +12,7 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: mask
 
 - type: marking
@@ -20,7 +20,7 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: patch
 
 - type: marking
@@ -28,7 +28,7 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: slash
 
 - type: marking
@@ -36,7 +36,7 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: stripes_1
 
 - type: marking
@@ -44,7 +44,7 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: stripes_2
 
 - type: marking
@@ -52,5 +52,5 @@
   bodyPart: Head
   groupWhitelist: [ Vulpkanin ]
   sprites:
-    - sprite: Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: _Lime/Imported/DeadSpace/Mobs/Customization/Vulpkanin/head_markings.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: vulpine

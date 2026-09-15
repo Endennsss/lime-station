@@ -4,7 +4,7 @@
   id: BunTopBurger
   final: true
   sprites:
-  - sprite: Objects/Consumable/Food/burger_sequence.rsi
+  - sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/burger_sequence.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: bun_top
   tags:
   - Bun
@@ -42,7 +42,7 @@
   id: CheeseBurger
   name: food-sequence-content-cheese
   sprites:
-  - sprite: Objects/Consumable/Food/burger_sequence.rsi
+  - sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/burger_sequence.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: cheese
   tags:
   - Cheese
@@ -513,7 +513,7 @@
   id: Carrot
   name: food-sequence-content-carrot
   sprites:
-  - sprite: Objects/Specific/Hydroponics/carrot.rsi
+  - sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/carrot.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -522,7 +522,7 @@
   id: CarrotBurger
   name: food-sequence-burger-content-carrot
   sprites:
-  - sprite: Objects/Specific/Hydroponics/carrot.rsi
+  - sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/carrot.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -887,7 +887,7 @@
   id: Corn
   name: food-sequence-content-corn
   sprites:
-  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+  - sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -1010,7 +1010,7 @@
   id: Gatfruit
   name: food-sequence-content-gatfruit
   sprites:
-  - sprite: Objects/Specific/Hydroponics/gatfruit.rsi
+  - sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/gatfruit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: produce
   tags:
   - Fruit
@@ -1019,7 +1019,7 @@
   id: GatfruitBurger
   name: food-sequence-burger-content-gatfruit
   sprites:
-  - sprite: Objects/Specific/Hydroponics/gatfruit.rsi
+  - sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/gatfruit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: produce
   tags:
   - Fruit

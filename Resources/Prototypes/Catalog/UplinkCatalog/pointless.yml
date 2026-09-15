@@ -191,7 +191,7 @@
   id: UplinkDecoyKit
   name: uplink-decoy-kit-name
   description: uplink-decoy-kit-desc
-  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Tools/Decoys/operative_decoy.rsi, state: folded } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Tools/Decoys/operative_decoy.rsi, state: folded } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: ClothingBackpackDuffelSyndicateDecoyKitFilled
   cost:
     Telecrystal: 1

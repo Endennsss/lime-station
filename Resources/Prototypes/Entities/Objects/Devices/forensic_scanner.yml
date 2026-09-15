@@ -37,7 +37,7 @@
   description: Circumstantial evidence, at best.
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Misc/bureaucracy.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: paper_receipt_horizontal
     - state: paper_receipt_horizontal_words

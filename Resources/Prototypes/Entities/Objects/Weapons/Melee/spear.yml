@@ -31,7 +31,7 @@
         restitution: 0.3
         friction: 0.2
   - type: Sprite
-    sprite: Objects/Weapons/Melee/spear.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/spear.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: spear
     - state: spear1
@@ -121,7 +121,7 @@
   description: A spear with a reinforced glass shard as a tip.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/reinforced_spear.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/reinforced_spear.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: MeleeWeapon
     wideAnimationRotation: -135
     damage:
@@ -141,7 +141,7 @@
   description: A spear with a plasma shard as a tip.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/plasma_spear.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/plasma_spear.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: MeleeWeapon
     wideAnimationRotation: -135
     damage:
@@ -161,7 +161,7 @@
   description: A spear with a uranium shard as a tip.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Melee/uranium_spear.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Weapons/Melee/uranium_spear.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: MeleeWeapon
     wideAnimationRotation: -135
     damage:

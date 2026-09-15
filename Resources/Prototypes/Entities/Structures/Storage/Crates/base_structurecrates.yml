@@ -43,10 +43,10 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Icon
-    sprite: Structures/Storage/Crates/generic.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/generic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Sprite
-    sprite: Structures/Storage/Crates/generic.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/generic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
       map: ["enum.StorageVisualLayers.Base"]
@@ -92,10 +92,10 @@
   - type: LockVisuals
   - type: AccessReader
   - type: Icon
-    sprite: Structures/Storage/Crates/secure.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/secure.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   - type: Sprite
-    sprite: Structures/Storage/Crates/secure.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/secure.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
     - state: closed

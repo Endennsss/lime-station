@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by Ma3xak2 для сервера Мёртвый Космос",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "bun_top"
+    },
+    {
+      "name": "bun_bottom"
+    },
+    {
+      "name": "cheese"
+    },
+    {
+      "name": "patty"
+    },
+    {
+      "name": "cabbage"
+    },
+    {
+      "name": "tomato"
+    },
+    {
+      "name": "onion"
+    },
+    {
+      "name": "bird-cooked"
+    }
+  ]
+}

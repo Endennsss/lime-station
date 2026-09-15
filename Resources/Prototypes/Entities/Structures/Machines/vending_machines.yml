@@ -228,7 +228,7 @@
   - type: SpeakOnUIClosed
     pack: GenericVendGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/ammo.rsi
+    sprite: _Lime/Imported/DeadSpace/Corvax/Structures/Machines/VendingMachines/ammo.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -286,7 +286,7 @@
   - type: SpeakOnUIClosed
     pack: BruiseOMatGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/bruiseomat.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/VendingMachines/bruiseomat.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -377,7 +377,7 @@
   - type: SpeakOnUIClosed
     pack: CigaretteMachineGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/cigs.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/cigs.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -402,7 +402,7 @@
   - type: SpeakOnUIClosed
     pack: GenericVendGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/clothing.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/VendingMachines/clothing.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -827,7 +827,7 @@
   - type: SpeakOnUIClosed
     pack: DiscountDansGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/discount.rsi
+    sprite: _Lime/Imported/DeadSpace/Backmen/Structures/Machines/VendingMachines/discount.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -853,7 +853,7 @@
     ejectState: eject-unshaded
     denyState: deny-unshaded
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/engivend.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/engivend.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -1316,7 +1316,7 @@
     ejectState: eject-unshaded
     denyState: deny-unshaded
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/youtool.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/youtool.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -1400,7 +1400,7 @@
   - type: VendingMachineVisuals
     denyState: deny-unshaded
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/mining.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/mining.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -1516,7 +1516,7 @@
   - type: SpeakOnUIClosed
     pack: GenericVendGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/secdrobe.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/VendingMachines/secdrobe.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -1786,7 +1786,7 @@
   - type: SpeakOnUIClosed
     pack: GenericVendGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/detdrobe.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/VendingMachines/detdrobe.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -2092,7 +2092,7 @@
     normalState: normal
     denyState: deny
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/chemvend.rsi
+    sprite: _Lime/Imported/DeadSpace/DeadSpace/Structures/Machines/VendingMachines/chemvend.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
@@ -2137,7 +2137,7 @@
     offState: off-civilian
     denyState: deny-unshaded
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/wallmed.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/VendingMachines/wallmed.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: "off-civilian"
       map: ["enum.VendingMachineVisualLayers.Base"]

@@ -10,7 +10,7 @@
     layers:
     - shader: unshaded
       map: ["enum.EffectLayers.Unshaded"]
-      sprite: Effects/sparks.rsi
+      sprite: _Lime/Imported/DeadSpace/DeadSpace/Effects/sparks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: sparks
   - type: EffectVisuals
   - type: Tag

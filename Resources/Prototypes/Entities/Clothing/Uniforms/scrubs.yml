@@ -5,9 +5,9 @@
   description: A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Scrubs/purple.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/purple.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Uniforms/Scrubs/purple.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/purple.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingUniformBase
@@ -16,9 +16,9 @@
   description: A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Scrubs/green.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Uniforms/Scrubs/green.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/green.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: ClothingUniformBase
@@ -27,6 +27,6 @@
   description: A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Scrubs/blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Uniforms/Scrubs/blue.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Uniforms/Scrubs/blue.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии

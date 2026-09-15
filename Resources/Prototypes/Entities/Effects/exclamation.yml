@@ -7,7 +7,7 @@
     - type: Transform
       noRot: true
     - type: Sprite
-      sprite: Structures/Storage/closet.rsi
+      sprite: _Lime/Imported/DeadSpace/Structures/Storage/closet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       drawdepth: Effects
       noRot: true
       layers:
@@ -25,7 +25,7 @@
   categories: [ HideSpawnMenu ]
   components:
     - type: Sprite
-      sprite: Structures/Storage/closet.rsi
+      sprite: _Lime/Imported/DeadSpace/Structures/Storage/closet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: cardboard_special
       drawdepth: Effects
       offset: 0, 1

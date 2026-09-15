@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: FunArtSupplies
   icon:
-    sprite: Objects/Fun/crayons.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/crayons.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: box
   product: CrayonBox
   container:
@@ -144,7 +144,7 @@
 - type: cargoProduct
   id: FunMysteryFigurines
   icon:
-    sprite: Objects/Fun/figurines.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Fun/figurines.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: fig_box
   product: CrateFunMysteryFigurines
   cost: 4000
@@ -164,7 +164,7 @@
 - type: cargoProduct
   id: HydratedScurret
   icon:
-    sprite: Structures/Wallmounts/posters.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Wallmounts/posters.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: poster55_legit
   product: CrateFunScurret
   cost: 25000 # You will surely not regret buying this

@@ -83,7 +83,7 @@
     - type: Seed
       plantId: CarrotPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/carrot.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/carrot.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -315,7 +315,7 @@
     - type: Seed
       plantId: CornPlants
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -325,7 +325,7 @@
     - type: Seed
       plantId: ChanterellePlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/chanterelle.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/chanterelle.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -335,7 +335,7 @@
     - type: Seed
       plantId: EggyPlants
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -346,7 +346,7 @@
     - type: Seed
       plantId: TobaccoPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/tobacco.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/tobacco.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -357,7 +357,7 @@
     - type: Seed
       plantId: CannabisPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/cannabis.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/cannabis.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -522,7 +522,7 @@
     - type: Seed
       plantId: GatfruitPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/gatfruit.rsi
+      sprite: _Lime/Imported/DeadSpace/Objects/Specific/Hydroponics/gatfruit.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: SeedBase

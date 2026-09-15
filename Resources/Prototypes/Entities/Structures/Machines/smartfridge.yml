@@ -13,7 +13,7 @@
   - type: Speech
   - type: Appearance
   - type: Sprite
-    sprite: Structures/Machines/smartfridge.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Machines/smartfridge.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     snapCardinals: true
     layers:
     - state: "off"

@@ -22,7 +22,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Structures/Furniture/chairs.rsi
+      sprite: _Lime/Imported/DeadSpace/Structures/Furniture/chairs.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
       state: shuttle
   - type: EscapeShuttleCondition
 

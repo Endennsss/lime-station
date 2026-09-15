@@ -11,7 +11,7 @@
     noRot: true
   - type: Sprite
     noRot: true
-    sprite: Structures/Storage/closet.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/closet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: generic
       map: ["enum.StorageVisualLayers.Base"]
@@ -122,7 +122,7 @@
   - type: Sprite
     drawdepth: WallMountedItems
     noRot: false
-    sprite: Structures/Storage/wall_locker.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/wall_locker.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: generic
       map: ["enum.StorageVisualLayers.Base"]
@@ -182,7 +182,7 @@
   - type: Lock
   - type: LockVisuals
   - type: Sprite
-    sprite: Structures/Storage/wall_locker.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/wall_locker.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: generic
       map: ["enum.StorageVisualLayers.Base"]
@@ -216,7 +216,7 @@
     noRot: true
   - type: Sprite
     noRot: true
-    sprite: Structures/Storage/suit_storage.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/suit_storage.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     layers:
     - state: base
     - state: door

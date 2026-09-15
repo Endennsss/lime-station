@@ -553,7 +553,7 @@
       - sweet
       - chocolate
   - type: Sprite
-    sprite: Objects/Consumable/Food/Baked/brownie.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/brownie.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: brownie-batch
   - type: Solution
     solution:
@@ -581,7 +581,7 @@
       - sweet
       - chocolate
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: mre-brownie-open
   - type: Solution
     solution:
@@ -611,7 +611,7 @@
       - magical
       - chocolate
   - type: Sprite
-    sprite: Objects/Consumable/Food/Baked/brownie.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/Baked/brownie.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: brownie-batch
   - type: Solution
     solution:
@@ -641,7 +641,7 @@
       - magical
       - chocolate
   - type: Sprite
-    sprite: Objects/Consumable/Food/snacks.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Consumable/Food/snacks.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: mre-brownie-open
   - type: Solution
     solution:

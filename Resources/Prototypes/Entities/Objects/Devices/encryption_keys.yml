@@ -7,9 +7,9 @@
   components:
   - type: EncryptionKey
   - type: Item
-    sprite: Objects/Devices/encryption_keys.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Devices/encryption_keys.rsi
+    sprite: _Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
 
 - type: entity
   parent: EncryptionKey

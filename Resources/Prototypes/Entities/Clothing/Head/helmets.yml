@@ -227,9 +227,9 @@
   description: What may appear to be a simple black garment is in fact a highly sophisticated nano-weave helmet. Standard issue ninja gear.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/spaceninja.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/spaceninja.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/spaceninja.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/spaceninja.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -248,9 +248,9 @@
   description: Decorative helmet fashioned to resemble the knights of old.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/templar.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/templar.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/templar.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/templar.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Item
     storedRotation: 0
   - type: IngestionBlocker
@@ -342,14 +342,14 @@
   description: An atmos fire helmet, able to keep the user cool in any situation.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/atmos_firehelmet.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/atmos_firehelmet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: ToggleableVisuals
     clothingVisuals:
       head:
       - state: equipped-helmet-light
         shader: unshaded
   - type: Clothing
-    sprite: Clothing/Head/Helmets/atmos_firehelmet.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/atmos_firehelmet.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     quickEquip: true
     clothingVisuals:
       head:
@@ -408,9 +408,9 @@
   description: An in-atmosphere helmet worn by the leader of a Nanotrasen Emergency Response Team. Has blue highlights.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/ert_leader.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_leader.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/ert_leader.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_leader.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -423,9 +423,9 @@
   description: An in-atmosphere helmet worn by security members of the Nanotrasen Emergency Response Team. Has red highlights.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/ert_security.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_security.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/ert_security.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_security.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -438,9 +438,9 @@
   description: An in-atmosphere helmet worn by medical members of the Nanotrasen Emergency Response Team. Has white highlights.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/ert_medic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_medic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/ert_medic.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_medic.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -453,9 +453,9 @@
   description: An in-atmosphere helmet worn by engineering members of the Nanotrasen Emergency Response Team. Has orange highlights.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/ert_engineer.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_engineer.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/ert_engineer.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_engineer.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -468,9 +468,9 @@
   description: An in-atmosphere helmet worn by janitorial members of the Nanotrasen Emergency Response Team. Has dark purple highlights.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Helmets/ert_janitor.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_janitor.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Helmets/ert_janitor.rsi
+    sprite: _Lime/Imported/DeadSpace/Clothing/Head/Helmets/ert_janitor.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD

@@ -2,7 +2,7 @@
   abstract: true
   id: BaseLockBoxProduct
   icon:
-    sprite: Structures/Storage/Crates/lockbox.rsi
+    sprite: _Lime/Imported/DeadSpace/Structures/Storage/Crates/lockbox.rsi # Lime-Edit - текстуры DeadSpace с сохранением лицензии
     state: icon
   cost: 300
   group: market

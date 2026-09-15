@@ -51,7 +51,7 @@
   id: UplinkDnaScramblerImplant
   name: uplink-dna-scrambler-implanter-name
   description: uplink-dna-scrambler-implanter-desc
-  icon: { sprite: /Textures/Mobs/Species/Human/parts.rsi, state: full }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Mobs/Species/Human/parts.rsi, state: full } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: DnaScramblerImplanter
   discountCategory: usualDiscounts
   discountDownTo:
@@ -79,7 +79,7 @@
   id: UplinkRadioImplanter
   name: uplink-radio-implanter-name
   description: uplink-radio-implanter-desc
-  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: synd_label }
+  icon: { sprite: /Textures/_Lime/Imported/DeadSpace/Objects/Devices/encryption_keys.rsi, state: synd_label } # Lime-Edit - текстуры DeadSpace с сохранением лицензии
   productEntity: RadioImplanter
   discountCategory: usualDiscounts
   discountDownTo:

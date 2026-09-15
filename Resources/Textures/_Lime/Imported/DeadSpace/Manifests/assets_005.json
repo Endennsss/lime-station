@@ -1,0 +1,1068 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootsmed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/winterbootsmed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET.png": "e51143fb6564077b50e0554a72e667061cb622faaafb6bd5257ac38468c73703",
+      "icon.png": "6342c14ebde79d803a2afd35f4e352163405f8b510127ef2d3fd0c5a01a659d9",
+      "inhand-left.png": "adea5426bc9b4042d9d49ad1c67c553c3a3d636976eb32612a74de2df9c21fde",
+      "inhand-right.png": "b38ade99157c2b199ef0da5704f3462a95343a3b56085aaff4591c79b5d08188",
+      "meta.json": "2c60b18fc94ef761ef560e3588571bd365fa298c8ef678a29032329b80909a4f"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/winterbootsmed.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsmed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootssci.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/winterbootssci.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Corvax at commit https://github.com/space-syndicate/space-station-14/pull/2155/commits/4b013e6bb54198dd1d73afb60686c77627e49e8f, and repsrited by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET.png": "7e910b47ee8fb69d3f050e0df4b22778e7594e3288b4a77b6e9c5e94cad6f291",
+      "icon.png": "03a85dbd97ab47b9687c76fdd5b23f6a0c77eaa61eeb61b354c1326cd1097631",
+      "inhand-left.png": "c28c5131a214623be7951d84a056c78acfee4cf5e59d22844621693aca8e2175",
+      "inhand-right.png": "375b2b7d25138f8368b6dbfe60b82156bd9c6e347f2ee15455a2e3aaae54a63d",
+      "meta.json": "ec65671f99cbd7dc3b0ed9612afa50e958b704b50e01f0a2de189f76d18d2a24"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/winterbootssci.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssci.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Boots/winterbootssec.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Boots/winterbootssec.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by UbaserB and edited by Kilk for SS14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET.png": "ff476a02ccc3db0fb5421c7309330da2ea04937de138f0f12f35e54a33a2314b",
+      "icon.png": "47663ef125c8273ea29fed486ee6cc2db7efb072b7ee19a58be2e6b6ce475961",
+      "inhand-left.png": "a22e0c28792d3c7ac4ca37b626a09bdaa461060debf4ed02f77d3ad16f6af951",
+      "inhand-right.png": "fbaa299c32a653072cef2a969fc0df96da9d9cb73fe913cb5b9e4f7da22eec0f",
+      "meta.json": "8bbe6f71fb7254364fa52163f0ec2148461bdd8780448fc774ab8daf69ebac1e"
+    },
+    "replaces": [
+      "Clothing/Shoes/Boots/winterbootssec.rsi",
+      "_Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssec.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Shoes/Specific/spaceninja.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Shoes/Specific/spaceninja.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation ss13, resprite by yri_nouri (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET-unshaded.png": "2a7b0875767bbe80e0e488c2e5f82809438912cee1e1eaa237ac44a7a7619ac6",
+      "equipped-FEET.png": "a2529086171b87e6c1d7e2b5653a1e8ea003ce958c4a3d575d6539742fa996e4",
+      "icon.png": "70768f99ad39b7b2b03010c0b44bdb487edfcab21ae860f0156465f27ee9adb5",
+      "inhand-left.png": "e2fa934ffa617b03ba63767449d6212d180406fac6b5be6b4dc12f3fb0694a0d",
+      "inhand-right.png": "10cab400f7f82a798ad6e1f6af8e70ddc95db5dc54f5a9da24339f3c2a5b2c57",
+      "meta.json": "d1fa3903ce750a2c942cac8e5a6b67ad0facbda12eda63810950586e3bcd4711"
+    },
+    "replaces": [
+      "Clothing/Shoes/Specific/spaceninja.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/atmosf.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/atmosf.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8d2114f2ba6f66d705b96ea3ffca04fea7d9a9c5d172e9c1a667c7c54ea88d8c",
+      "equipped-INNERCLOTHING-vox.png": "5db9cdf8de68b6d0beaf73abcff787b86c48f7a5beb55e100c6d14627a2be80b",
+      "equipped-INNERCLOTHING.png": "897735539948d0ef2233175a4661638608858fbfb601eaf6620200f233c85fa8",
+      "icon.png": "f59b3e9a187bf38fb3d579c1e67c55e3bbde4f3039aa981596b5fb6c63da1cbc",
+      "inhand-left.png": "4c22c7e81ff1a675eb2dd576b5b949e60435185e89f6e7a1b8d33a9d2b013d9a",
+      "inhand-right.png": "8e2b7bd1ecb68300c1e55e605831faceea16ed4983c9aaff39a684218d4de99c",
+      "meta.json": "8d198ed136610cfe1f033c4b1d9ce8180a20940c6c58d422c5750bd1d0d0a9f8"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/atmosf.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Skyrat-tg https://github.com/Skyrat-SS13/Skyrat-tg/blob/735606d73c5262dcce6a5d9b9cfc797eb5a64946/modular_skyrat/master_files/icons/mob/clothing/under/security.dmi, monkey made by brainfood1183 (github) for ss14, changed by GribGear (discord) for DS14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "004e18b2f114999fa5e8ed2a6563fb8a91a80b56f59b85d5d698c5b0ce5ef17b",
+      "equipped-INNERCLOTHING.png": "9ccb4c39a42bb7c1a721ed1de1a5b645a52dfcc230e51dac8007cdc684022705",
+      "icon.png": "795073bbd80042ee3709b9fb0fa5650f5ad530955856851f78efda3475209f1a",
+      "inhand-left.png": "3279140299e4ce8eb7bee1c51f8622ba9bc67ce568b0c2c9509563f2d3700f79",
+      "inhand-right.png": "fd03a18dac2c7667930a189e1f8ec5fcc39e5ad7a8c9d7e6ce8ed483fa10221a",
+      "meta.json": "f3b89353a1e58a7c0a072821a4eea926ba739def102f3525864962cec3369fd3"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/capformaldress.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/capformaldress.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/commit/30892aa892a2be846592b068ab71c606e2f0c5b7, monkey derivative made by brainfood1183 (github) for ss14, resprited by KingFroozy for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "cb7dd42847dc84f01fda6c19ee85723ab2474af62498176108398ab55bff8066",
+      "equipped-INNERCLOTHING.png": "cc10aa14597bca913d1d4338101c4ae49e64ae7c3d9a956ee5e15278c6417a81",
+      "icon.png": "00f88746c2dc87d112dedc3bc2a23931e321749b38c31719509c7f70368b579f",
+      "inhand-left.png": "89e91e30708ca1cda24071dca8816765b9d3804c4f33c264cfdd2fc4cb58281b",
+      "inhand-right.png": "ad0e53a3551122a827b5d3d19fae9fe1265e57cca962de2d8c3098905b79e8a1",
+      "meta.json": "883788196256b04d8900b12529d315e97b9c1c6aac93498c30c9b732cbe72068"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/capformaldress.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "monkey derivative derived by brainfood1183 (github) for ss14 from tgstation at commit https://github.com/tgstation/tgstation/commit/dd97a0e45d904fffadd9d2caad22aedd0d09f3ab then edited by Skarletto (github) and Ghagliiarghii (github). Other sprites taken from tgstation at https://github.com/tgstation/tgstation/pull/69842/commits/d8138946b0ed06fced522729ac8eaa0596864329 and edited by Skarletto (github), edited by Emisse for ss14, resprited by pyfya (Discord) and catbackg (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "60329beaab25e666a8882367db966268ed655b8661e676ee589dcef525c9a91a",
+      "equipped-INNERCLOTHING.png": "10b4c12b6ecd9b2bd57b9d3a62b148cd3926f14570591e988a4fc8d1d150ff91",
+      "icon.png": "17481b2cf1b388636b791174b04414b99b636e943c4cad7574856c6f58b8ea27",
+      "inhand-left.png": "13d71f80160ebafacff0ae85b013134d6c342a38487ad08ac60400207e133482",
+      "inhand-right.png": "9fc0981984a5752788a7966b518ebfdcd605160e0e86fd7979364eb906f9641c",
+      "meta.json": "2be15d632538f9f3b61a3a2e5554996d4fab38548edbf015eeadd40cc5812b2a"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/cargotech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/cargotech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "555e1da92e46538b5d7aaeefa1fd3e70d9ff86c14f4a3bc63b8c8b4254a04d5e",
+      "equipped-INNERCLOTHING-vox.png": "d684d456e7964597b4330bcb53cfaa34fd3d21f299bce2a7e7ac05f00a9fe570",
+      "equipped-INNERCLOTHING.png": "ab793093f8e5c71519dc735e74ee921dd9feab6815f0b60342b85711a2d7253e",
+      "icon.png": "d60b70d634cad8ef704588b6fa534579fc3518ff4c91c706dd3eabf682e54359",
+      "inhand-left.png": "31f7bd0078288e1a5f39d8ba9cbae6d833214d26100e74a9be9f08dcba02224b",
+      "inhand-right.png": "eed4c9fdadedb629a637c1e9d6aa6f86ba6e815b95659dfe14355f8c3e3c2cbc",
+      "meta.json": "162274c1097b756f36101adb1d5d87a6afa6a0fdb9032b3e7e4c7af0fd001b06"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cargotech.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/ce_turtle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/ce_turtle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from https://github.com/space-wizards/space-station-14/tree/master/Resources/Textures/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi by KingFroozy (github) for space station 14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "7aad59b981321ae1b56e83d1d820dfa329c23b9b173a2345e6d99ffeb0ea57ed",
+      "equipped-INNERCLOTHING-vox.png": "5d0723bdeb34e52e166755bc11e69883f9ec2c0ee9ab853dfbfec4a450fd952f",
+      "equipped-INNERCLOTHING.png": "6d277aa95b1c8c1e11591ad2faf42012db48037d0de750269c5cd2182f862675",
+      "icon.png": "549a12fd692dd7ee7f7dd1f34ff69a25314ee102f68f1558391af1268faed509",
+      "inhand-left.png": "32a8f02096fec254056b61e02f46861e0a2053a8db4596803fa20d8f2b436f63",
+      "inhand-right.png": "fca870b1591ed59c22d9c45a4200b1d7f2b9198c404b409fc707120fc9e50488",
+      "meta.json": "30fb609fbc9ddaf24db25ebb748f7541ac6bcdd0606fe96cb189a94ab29de486"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/ce_turtle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/ce.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/ce.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github), modified by KingFroozy (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "b053720dd0495331373ac852852c805a044058ac6ebd97c5dbc2975754d09a86",
+      "equipped-INNERCLOTHING-vox.png": "394ecc8df54ef1e401a16a6da15ffc8e76eb04b55aa27b5f1e8271a3656fd03a",
+      "equipped-INNERCLOTHING.png": "8937beaca10fb1be43f68c3960677661973b727ae0a031fd5061702f77a91d9f",
+      "icon.png": "5207c0628b8a3f1a936d7880ab3c208113f296bc5a5e2b5dcbc3374ce26e93b8",
+      "inhand-left.png": "e25a8f1ac445fcbd5b71165fa129fcde014dc97efe0f7c43c8a20cd532e8165a",
+      "inhand-right.png": "ff02543d128848ab85976fb34a84721fd4117a7bce01877a218a8f031c44c171",
+      "meta.json": "a15aa70539295f41bfd15da96777feab446e6b5c06a1835688bf8e806aeebc67"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/ce.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/chaplain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/chaplain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/, monkey made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "ca5ee2770ff191097bf8e9b377d2416eea3f7aff00b729f0643cbbdecfcba9ea",
+      "equipped-INNERCLOTHING.png": "eb8637f246ca8b889a6d538c05cd60cb650f4a39f764b4ecebc9c885e0c95904",
+      "icon.png": "c92d770c78628fb8e8232dfaceddaca16bd7e906cc722661b25562897dbfbc2e",
+      "inhand-left.png": "3d87b5077223ea9f59150b4a1e21b6e5edd93c27b5ee7b8dd3e2704ab4790b94",
+      "inhand-right.png": "8dbc0318ad142db6b68bd5983941737a96f39078712c4bf2b2b5ee28162da8cd",
+      "meta.json": "2f61dbe99e4700b8ca3c32a3c296883c758709564a4aff266d3ed8611cc3c343"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chaplain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "f5506dead4558b7e700002ea295a438eaede664a0c3da82145f8a434fd393f3b",
+      "equipped-INNERCLOTHING.png": "2a99c64ec8614b4aba1de98d24ee51b5160894782a93be0a1f87c0191160d4a4",
+      "icon.png": "430b173604f68188ced58db589c84e3976258d5f076c72870888600d77c2f370",
+      "inhand-left.png": "9795867973aa3ce628e77591c6cdb05f67a3848408c04bf3202c04fff640afdf",
+      "inhand-right.png": "4365f486a04ddf5923f23fd8b34fca20be5819d3b804bb8d131cce40ed05f18d",
+      "meta.json": "27c201940b0aef5d0da1191a43330fd943745b41fc6b4072db7f45d720e5d456"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from ParadiseStation at commit https://github.com/ParadiseSS13/Paradise/commit/95c46662c5a5cd4911132da8e695a7cc21fb4297",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "fe897cf88e48d1574ede0d8b90ca89070713c19a077625e98ec622cce3c2fa25",
+      "icon.png": "9d94ef049581ba1f8d172ac3c55fb1920c8729123ce75e7ddbbfd6dab260d06d",
+      "inhand-left.png": "dfbc16c18ecbac63b0f0b87a4b787860c07dce8e89a6cd6dc9b41201b1738740",
+      "inhand-right.png": "37d90c0936e083944cdccfffb3fecc16fc64025e4789fb8f56f42e0a527fc795",
+      "meta.json": "6b2ec865c17733b5bfde6e53cbb3c172d12d096d2e7e1286061ec789e9dfdedb"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/cmo_turtle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/cmo_turtle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Borrowed from QM turtleneck at https://github.com/space-wizards/space-station-14/tree/master/Resources/Textures/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi and modified by Hanzdegloekr (github) for space station 14, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "3844b9d1eb4e1cae82fa184e9036aae110aa52fcf1d467df9341fcaa30e5fc86",
+      "equipped-INNERCLOTHING.png": "425a1233d7622b9d8a1f8fad422b8affc0864c2090b0b49670b918f78c0344a1",
+      "icon.png": "a7c9ff56b422dd05b898850eaa9804dd42e602a9e0afcebb83059f603fcbe70a",
+      "inhand-left.png": "ebfe135016897df8ed886dc3a164d22f5110e2324a27f0de7968e35818ba1540",
+      "inhand-right.png": "3bb9730c945c08358211482f9a337f054d0257c423fdd9b2c4ddb86cd0b26925",
+      "meta.json": "ee63dff22cd10bc595294007cb1706ea0c7dc222964e9196ff9e018fe64ffd7b"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cmo_turtle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/cmo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/cmo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "29a9e58903e732948b4122747cb36ce41a4a5cb395a1813bbee97632886635c9",
+      "equipped-INNERCLOTHING.png": "b8f628d7131c7b0896971a1ca2c47aa926fe3fcd5a9e16d4e47befb0937c6b9f",
+      "icon.png": "77d5326581219889f65de7794719ad631ca3148dc3811d78abda29e76b436567",
+      "inhand-left.png": "f3d96160f41ad37e0214fe1703096944a4d1ae4a1f578d673778939ac9fcf8fc",
+      "inhand-right.png": "ca1cbb223783d4a73b09f01507209b27410e5da4d2af23dc58853b67a49f10c1",
+      "meta.json": "27c201940b0aef5d0da1191a43330fd943745b41fc6b4072db7f45d720e5d456"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/cmo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/curator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/curator.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47718914e47c6fbf23d6dc97f073a9daa11b23cb and modified by potato1234x (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "4b23618206f89f34b1570ca2830f19d5e78189c977a3407bf52e066d6043ed88",
+      "equipped-INNERCLOTHING-vox.png": "b8b8a0c51a07dec463bcab30bee2c0560c11acb2c65799cb4f52400a4714a812",
+      "equipped-INNERCLOTHING.png": "c1f6f4a65ab4acbc1dafae2d9dd1018de73a703e2eeadecd7d05c1514549ab75",
+      "icon.png": "a29eccc20f7c4ba1e64c573fa98d110fa369c4c0f67a94af1697e27ffee4a353",
+      "inhand-left.png": "62f0d5d4bc889445d6da31e168c0bb3da06abfb8ae6e6a8705ad913dd406afd4",
+      "inhand-right.png": "6905c9a9b67b34dab0139be1725526a78c994d29b8187befa4c5e31e1c45a1c3",
+      "meta.json": "8e7133d800b4408afd63def12506ef9a703dba5e8995a706fcef1623a51cb9ec"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/curator.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/detective_grey.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/detective_grey.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5ea6d8b4422027d0c22cb415d1f05a08bf39aaa0, monkey made by brainfood1183 (github) for ss14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "07dfbb95a389782f7d862c57487c0ba990707ca5d4827c9ae135c7b413ccc3dc",
+      "equipped-INNERCLOTHING.png": "07f295a545239059b732998188e174979e153d62b83ea941ffa78d4b5ce9764a",
+      "icon.png": "e8f1a8e43c9ef6319e0891fe719e0113ae51c83e0b0dfe2a3c66c5ff9ae3f3f0",
+      "inhand-left.png": "f404b63bba26ca8a6407f4308d2dea3d205561e84f7e54ca992ee6c0991ec954",
+      "inhand-right.png": "18fbae51c0509e865c9a2d14fb8f14e32e483b63ac240a50600b9274ed034087",
+      "meta.json": "2a6a0e3152a62885f4de81992c7af7eb630b68d986348f783b4bbb77df7e4963"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/detective_grey.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/detective.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/detective.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5ea6d8b4422027d0c22cb415d1f05a08bf39aaa0, monkey made by brainfood1183 (github) for ss14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "7fa4b1dfb6913965b5218c7a95636feee4297f55e358fb98f46dc4583c008fb1",
+      "equipped-INNERCLOTHING.png": "e0a2edffaa37e29305b377f47eee5872cd7addc38a3980d64d4723e8b1d96336",
+      "icon.png": "c97465a7a58d0e41ab60d9425646c5e6f72ed09f7ad9b0edbee422f731535ed7",
+      "inhand-left.png": "8690c24ebe5a7db2101460cdd3e1e21255134992cc872729539b036ba2021560",
+      "inhand-right.png": "4910b1f7c2e51d70c1848c715b98dd64f93d1fc4526444a8498620c9a3264328",
+      "meta.json": "2a6a0e3152a62885f4de81992c7af7eb630b68d986348f783b4bbb77df7e4963"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/detective.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "3f21b32a4fcfb343d569f51eaf3ccec125e4759d6bb0192b6c5ee2c3b5d877fa",
+      "equipped-INNERCLOTHING-vox.png": "eeb16824c9e1fb6af953a28bee4207a33af410ca051c97ea5b7bde0183bbc160",
+      "equipped-INNERCLOTHING.png": "a144dd3ee83cbf91243faaac4e2c46c3c17fc71dc7cd5f9524a3da82796dd280",
+      "icon.png": "363280995ae653aa99bdb6974fd06aaf8e7b32cf0a54475a3f05922aefaad8ef",
+      "inhand-left.png": "e25a8f1ac445fcbd5b71165fa129fcde014dc97efe0f7c43c8a20cd532e8165a",
+      "inhand-right.png": "ff02543d128848ab85976fb34a84721fd4117a7bce01877a218a8f031c44c171",
+      "meta.json": "48a2ddc4e42680cd312093965939b329075f1aa1f059970a9ab18b40d632f41f"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, Resprited by Mureixlol, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "014344b1b15dca00c4a08432e3aadb6d35b0c57f4058683739b08e9d47bb9e0b",
+      "equipped-INNERCLOTHING.png": "196962b7a7d249712b139bcbce37e21df60bcc9c17e7c06c6c1fb4018598457a",
+      "icon.png": "7fd0d0285823f59277df97d11099f06737f64bbef3e78438bfada71e34b01773",
+      "inhand-left.png": "b151b240c8c90d38f85ba1eed28fc92776645ddb232c25e1135f4948b0561a71",
+      "inhand-right.png": "390d62b227c2743354426e683f7a83ee9a8c3b5198d170a6305fd1370ecb1b87",
+      "meta.json": "580b9f465ce5e0678a0c73b9d497697cd76112276b80c5638a141a0407cb03dd"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hos_alt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos_alt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/28d0be60aa8bbe1ca87a5d129487bb6f60839ac4, monkey made by brainfood1183 (github) for ss14, changed by GribGear (discord) for DS14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "c571d2d905b7f497520c2130db58fc205d56020fe95c66f332f756233e0c0183",
+      "equipped-INNERCLOTHING.png": "b427c2a0722cae02076dce50a4b4c6abc4d5d4f42c7c4950baf0d5dafc5098c5",
+      "icon.png": "f78b6a42e08de9c023ef5fbdc313131f0dbb757b9d5d4104bdfb8461d7b0252b",
+      "inhand-left.png": "2ad692cdf4167bf0c2d935d928a3a0549dd211177af2a8691bfbcdc0ab4f4fb3",
+      "inhand-right.png": "13cda9a38027f1521133071c381881140fe156772e3dbb5ff06b6527c1f85d64",
+      "meta.json": "0094a671d756382c215742cb9620ed19a60ebe900ec44b79b55d63d16c7cb34f"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hos_alt.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hos_parade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos_parade.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, changed by GribGear (discord) for DS14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "19e8d7519510a96205282751cfb37163dc09caff41aa426cfccb9a48a6688cef",
+      "equipped-INNERCLOTHING.png": "8dfaa89edd505c602f7eea2f18b29a3da97708d9f3a7ad6c154dce34cc53e3c1",
+      "icon.png": "0e511af48d74d8646e711f763fc01e637b581d2b8a4c1e968ca9942e91bbe61c",
+      "inhand-left.png": "6b30bc28ad5b361bc54465bad8e2986fae9bd5e9ec37067ac398c924e624f8ae",
+      "inhand-right.png": "8b259abf7dcd6a6677cb17afc3fcf380b6a9710149f0d590ced1c31142d906e8",
+      "meta.json": "0c7386740e0ec043b4fe301de7192181f76423ed16fd84bc5afdcb3782ee68e5"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hos_parade.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "5f2a641cdc1de6e74133a06ecc7b8e25384cbc7a52b801b591113e414af990c6",
+      "equipped-INNERCLOTHING.png": "7fb6177d935df3dfd06d3a4c3fd0611bf67df22b8cf52d6c67467280f9e46fba",
+      "icon.png": "eb8ff6d059e8ca720ed8b45f863b1e5c668efb7ba9ba9e7fe56c35daa900dda9",
+      "inhand-left.png": "a2e903d64e09f97b71a0b93a2637f1daf82aafbc9c6ad954f6386d2796086574",
+      "inhand-right.png": "1c8f554e901c0cc609e0c885298068b022a2e03c1ae1b8846879391c68b118c4",
+      "meta.json": "7387b4f6063b45a7d4751601483e01d9da27a302c60ac9191885199e4cf7aad4"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/commit/30892aa892a2be846592b068ab71c606e2f0c5b7, monkey derivative made by brainfood1183 (github) for ss14, changed by GribGear (discord) for DS14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "938c6250b79828a846eeba78bfe745d33bb4299259a60633154ac229092dd5c2",
+      "equipped-INNERCLOTHING.png": "c9a2b2f3cc42ed59aae0728cd1ada39ed29f4e1b07fe6d8be5debd669ac0d48a",
+      "icon.png": "5972d1ef48eeb0331ac2f9c2a28218f1beb372f1da6269ac0a147effc00d7718",
+      "inhand-left.png": "67306d117132b183f1bb207f46c1546a5b4618e4b0b36a29af618dfc5ab167cd",
+      "inhand-right.png": "fbf463f415a747493ebf29ec0c68bc776e15e2ea38d24434b4559e48500c70a3",
+      "meta.json": "a0d91d798f06d5b0fdb48d3e9987a74d58ddb6d0d714d44ec5b53626c9e565a0"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/hydro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/hydro.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14. Shortened skirt by KingFroozy (github) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "47a14feeacac2b736426d53d4fe447e6c1821ca0c781f5bbb476f32456bffd94",
+      "equipped-INNERCLOTHING.png": "cd75e969ade5391ac66fbf5c26ef0ec8068e4d8a82de149c360321cf588dad8d",
+      "icon.png": "ea1120fb8d01735afeaebae406b6c329dd2af95cccdd543b4e99364c02d45f25",
+      "inhand-left.png": "8c468ece3df240fff017ea3a3e0713356e53e07b56408c4a05e9edc9d08f8b91",
+      "inhand-right.png": "957adaff8ee42b77e9b9658fbf5a426b9b9e13261f0913f33542ae8bb3133227",
+      "meta.json": "c65552165d787c76346cca9bd8bb5a3a0da4bb627cd68d9540949d43a09a85d6"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/hydro.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/janimaid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/janimaid.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg at commit https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8, monkey derivative made by brainfood1183 (github) for ss14, Further edited by skrybl(discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "742fb61992d21626c8da8527b17821c4518d2d89663acb87b1f84553221e00f6",
+      "equipped-INNERCLOTHING.png": "4a23993a51df0c651758cda0e706348791d0e661133efd8f37dc1f6ac69faa6c",
+      "icon.png": "64693ee1b5e647014bb35320a04b1f09ab08614243a548c9651e1c8d685ed774",
+      "inhand-left.png": "3b20c9003e9522195c148bb1c97e51421971067731fb5e412c2d3b5902c68d97",
+      "inhand-right.png": "af265a65e50e6052eccdc9f97372e83c186a3ef94027ad292652abe93551bc6f",
+      "meta.json": "bfe031f2b67e95628a0ad0cf10e3d84c20acdf8e82417157b8da8d2cd215fa3f"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janimaid.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By discord:Van#1931 based on janimaid.rsi taken from tg at commit https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8, monkey derivative made by brainfood1183 (github) for ss14, Further edited by skrybl(discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "742fb61992d21626c8da8527b17821c4518d2d89663acb87b1f84553221e00f6",
+      "equipped-INNERCLOTHING.png": "6aca5d6a56f6a3fcdda7b02a5e31403f10ede043dc406a3d116281f3f0717890",
+      "icon.png": "d279d0a76cde5a34effa57f0ceb5aa9eb3949e35e9f48c3ebdc88cec7ba73079",
+      "inhand-left.png": "dff58c353a795b14ab4dbfe0a689a3b98bb6da6ef115fc768228c7618a146292",
+      "inhand-right.png": "c07174db9304def526a84e670b851bc2fad2d6c107675970d55a152109d4894a",
+      "meta.json": "0169685ad3766df47e3bd09dc697b96672bfb8cfd2ce963e9c9eca84dd161764"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/janimaidmini.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerblack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/lawyerblack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, monkey derivative made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "86d4a06106af09d7dd114021eac7225c29b65e63aba806ad0e95134001e43c7b",
+      "equipped-INNERCLOTHING-vox.png": "b0ec2a0c9ec22cdf44d2c11b65b252fbc282398425146614c0439b55a7c68ad0",
+      "equipped-INNERCLOTHING.png": "600e3b5fbddd1fd1d335e3fb0af26a117dfb7062d09294b7893c92f414b650b7",
+      "icon.png": "97a9b42f3be4cf77a203f10dab42323131b2ef97e4c61c4df2771095be04e7a3",
+      "inhand-left.png": "1553f30befaf91d42f8236a056330c85eaf429ab28712a65a15ee58f22a25651",
+      "inhand-right.png": "5dcc75cb0f232ea630c19e3ca0a11174c289fd7c147d00d482d43db82259ff73",
+      "meta.json": "8b4757bba57404625ef9a14394dd3374159ca93c09c92e82b1ecbf9ad57acc29"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerblack.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerblue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/lawyerblue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, monkey derivative made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "0fbe2d133ee88745c2973772ef75c3f6b0d6aa735c3e63479c4d9d5d554186fe",
+      "equipped-INNERCLOTHING-vox.png": "6ea3c0484d4ae4130c5275729d1989bfc0b7634cc6c19aa17b6e4799c7192a1e",
+      "equipped-INNERCLOTHING.png": "80da4cfb8070bcc2a65eef22fa93e049ae3fe1969763443a63436c2158e27747",
+      "icon.png": "34e75cd0e33e0dcacd1cf9342403de160543914a7a19ab7ec9e6c7734e47a258",
+      "inhand-left.png": "cdc120bdc0cb42928049203e83317f7d6ad552ce269b16a95c82516b72a80e16",
+      "inhand-right.png": "4f7b5e5cede637279c76a74a31aaebaeb46c799619c8d08c5e30dfffc8240133",
+      "meta.json": "8b4757bba57404625ef9a14394dd3374159ca93c09c92e82b1ecbf9ad57acc29"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerblue.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyergood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/lawyergood.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/305131e20cfe53eb41de61db79a99aa12c2925b0, monkey derivative made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "67faade1ebf0f9aa5d716218e7c45d7c8841561179df50fb62b24e9a6b9cc76d",
+      "equipped-INNERCLOTHING-vox.png": "7486818fea0fe1689ca427cb2184aa51fb806607c8cac2db7b5866a43715a8b8",
+      "equipped-INNERCLOTHING.png": "88fd6a5f531ba49f8a084a05e75e9198a9e21f1a02b33b23a5d6e51c7bf47d9d",
+      "icon.png": "676df3c37acbc93582832c4b39fa7b7e455bbd4006706c0a1cb3ca9dcfcadd2f",
+      "inhand-left.png": "d3ff974a145e3adbdf3aae214a19085c7a549971eaced0044bb2709c10e71731",
+      "inhand-right.png": "fa5c4c48fb9c3b53ea3ab50fd4a7aef70dee599fb332281d5282a3b5f06822b7",
+      "meta.json": "9dadb4a7dbd2f093f17e18bc62d58cdf0bf1606730ccb396d658a25caddccead"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyergood.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerpurple.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/lawyerpurple.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, inhands by github:Morb0, monkey derivative made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "abc08ecaea1e79273f9d08b61dbc13ce8a369ac3fc0e5ed999fa155a588573f6",
+      "equipped-INNERCLOTHING-vox.png": "6fe91fbb9eb181b8471603140d7b5a4a2aebdf9977c15ff693f79977412b3e65",
+      "equipped-INNERCLOTHING.png": "e5c584a9be5552bd7ff8e49f46d162d57c9b038821a202974eee174c429f96e4",
+      "icon.png": "b85069b36230e755ecae1ef5e887e0719b1794f3747981cb0b59ff857614902b",
+      "inhand-left.png": "c2260cdff9a834abb9b12ffc4fc96e9cb35d0599684ff06c2e1d7aa9cdbf0af9",
+      "inhand-right.png": "a63cf3f09c3c3e74c0b87446832ae4f5ddc3a5a88b51e069db5172e4c6502689",
+      "meta.json": "a3e13fd4d677087740f8567141ebb755d03f07238c5982f4f2ab73ad1e601415"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerpurple.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/lawyerred.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/lawyerred.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3a72dd925f7d6aeec620fe83bc4f88a3d7e5f693, monkey derivative made by brainfood1183 (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "eacfeb46de8c8f48b2c7d9b9b437e71a5d157523a8300e8a446f794d1fdaecd9",
+      "equipped-INNERCLOTHING-vox.png": "8c4468c4233d15cb52940bcc1b7fd1381755a5dabc171ec8b7278730c60db620",
+      "equipped-INNERCLOTHING.png": "586b0f52e1e4089ee991804f47fffb9dcbb69554a598e0877ad5e092e7d81e17",
+      "icon.png": "f5c2dd25b7b7e2f9982dd91b79c2ffee65d0966fcb120d78bad4f6af2b1d289e",
+      "inhand-left.png": "210eb74953af169e4afd18778464e4c5bb7e9d4f14ac87ee30c0bcbb4163d831",
+      "inhand-right.png": "84523f7bb6dab69b9f452b17b67caad625895b0f18690bffb592da20e7a3d816",
+      "meta.json": "8b4757bba57404625ef9a14394dd3374159ca93c09c92e82b1ecbf9ad57acc29"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/lawyerred.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/librarian.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/librarian.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/47718914e47c6fbf23d6dc97f073a9daa11b23cb and modified by potato1234x (github) for ss14, resprite and equipped-INNERCLOTHING-vox made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8dc324ff51b25fb4fbab1e336067b8986268aae3885de44fc317990454d905f7",
+      "equipped-INNERCLOTHING-vox.png": "f95a6e8d93e2173ed1884b50c7c5fc16624549f30c14fb54b86939c516f5928e",
+      "equipped-INNERCLOTHING.png": "3202f8c7af89062646d90e54fa181f721129956b317942e4546d817f1b1cc08f",
+      "icon.png": "f2c425608d5b77a3a419928e657a3f91da4e38cbe4b1d1f3c1c6405ecbf08694",
+      "inhand-left.png": "a9c0cfc7e37cf90bede6348f24d4c683feb3b06199109a64d809f4a48f946c3d",
+      "inhand-right.png": "bba56583bb06082e4b2b131bdcd2b168a42c3ac9add3fcfbe6f2707884c859df",
+      "meta.json": "8e7133d800b4408afd63def12506ef9a703dba5e8995a706fcef1623a51cb9ec"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/librarian.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "e258c2195d815a782056301749e90d774a096cc448fbaf02125cabee5ba71f56",
+      "equipped-INNERCLOTHING.png": "3c6ac7acdb7e55d9277aca1fe571da01beab034a1e8b64acc000a3dad2118040",
+      "icon.png": "bf5fc0c4b8acb2a0e609ceb9cae1107970080f7f4a22e6903740881428cd1967",
+      "inhand-left.png": "65881a13557f3dc0ccf23118a52d4e7bf9aa7fd6f70af686ac1b4c07c51a5378",
+      "inhand-right.png": "3f107232421da034317de62ea6b258b6bfa624bac2ef7427ea34235a299edd31",
+      "meta.json": "27c201940b0aef5d0da1191a43330fd943745b41fc6b4072db7f45d720e5d456"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14, Resprited by github:DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "529a11a8013ad2bdf6bc86a08ccc6b40d7f2e64ab8522c630a8201ec0c761996",
+      "equipped-INNERCLOTHING.png": "fe16328e48f49cb7ad30d8b7f240fbd02f00c3b4c21136cde4acd394ac4e2774",
+      "icon.png": "09a4dc80e98fdbbed7009a7e1723b776698b695561a4cdab330f951f5dec1259",
+      "inhand-left.png": "85b6cba6532c93273c905e701315ae8dbb2f2b605c952ec16f876682a3a3e4a9",
+      "inhand-right.png": "752b4510c3e190d21222b7b55790796004bd06adbd359f416a460edd09c9b09d",
+      "meta.json": "69a3e9ebc35a2fc0a4999f74e51adf9ddae041a24baf0315732f720e4bd50e0b"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/musician.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/musician.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by github:DreamlyJack(624946166152298517)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "569d5c6f3b194177a2a77d28d3326bf0fcdef3617a3bc1896132af94180768f8",
+      "icon.png": "075330bd51b1871c07633544d939d3ac0986c265dada9c51acbd84cda0eef57d",
+      "inhand-left.png": "41a37489d841928fbac3f90eb32128f58ff8ea3527dd9df75fd94a3dba167b12",
+      "inhand-right.png": "b2b26e2eb2a8732f96de6d10d0e4278485d245ac8cb51e923e7df696915eca9c",
+      "meta.json": "6e214bf91d4cecdc36017b027e208ad698fac3fdbc85088de1d2fcf6a74e967c"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/musician.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/operative_s.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/operative_s.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, monkey made by brainfood1183 (github) for ss14. Resprite by KerFroozy (Discord) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "32a9c3e973de9478a220c938e98089160e81c721e01ba7835981501985b82d03",
+      "equipped-INNERCLOTHING.png": "d4744b7d850367a8f7ea69ba614c12352d7f22e17370bf470cff27be5979f353",
+      "icon.png": "1e56952dbba78d28eb660b66d8d013e10a82cf99a40b711a2c1b343d0abd5bfc",
+      "inhand-left.png": "e83a9975aa213af6fe90308dc4fac32b67c2502604c530019a87675ee7731e0f",
+      "inhand-right.png": "bb6497f03aaed3abba530a5ef2d04b222d264e60f6b4d4048dd1c507f730abf8",
+      "meta.json": "141849eec8082f457d1520279d1783c4949648acd0be78e43b8d12c852f98b54"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/operative_s.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "6a38f2fcddb810ea90800b4de2eb2605920d375b36d6630c4c33d89efc56824c",
+      "equipped-INNERCLOTHING.png": "ee9fe60b40db51cca51528332a2ea07310b4626861c51abc1d7aeeed0bf9d216",
+      "icon.png": "a11f682020a0044a09da37dc572eb27ab29064891109be11c9fd41e65301565a",
+      "inhand-left.png": "44a6863fb1d33363e69f09eb7df4bcf2bc8a2608f6bc66a9f32eef6d5b7c3d9c",
+      "inhand-right.png": "b7e64c912ca55cae5a3ea444b204ec9f3de2e569626abb3f9a655ec74ce343e7",
+      "meta.json": "27c201940b0aef5d0da1191a43330fd943745b41fc6b4072db7f45d720e5d456"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/paramedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/psychologist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/psychologist.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/78a56e1a22ba1d8d6023ed9bdae55a6de7fe8a39 and modified by emisse, suitskirt version made by BackeTako (github) for ss14, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "04adf797a504c50ba9f1c8d7588e20c4c007d3c14c8aebf8e51733896872f8b1",
+      "equipped-INNERCLOTHING.png": "3a7d53aa57c3766254d652db8c7bfcf099677f780972a75c62704f25ae3c5cf5",
+      "icon.png": "a1d826655990989b07329e3b1c97f18c42fa455e4e8275bd6cea33a96e4d25a8",
+      "inhand-left.png": "deea01a49a4299534f24171bfd01314223d22d26d86929af6d8949e58d596ffe",
+      "inhand-right.png": "8f980c5ed0b22e33d8496ed0db782ef1b8bb866bf932e3a7985dcfd9e69400f0",
+      "meta.json": "e88ace9f7d2b57f9b47542b9b7ad39be3d87b4f60bf71927e6e7afca29624a1d"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/psychologist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/qm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/qm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "413be76f08795f76600356d5435d06631c0e9c214726672b0262036d80740962",
+      "equipped-INNERCLOTHING-vox.png": "f54f22b1c737c966c9af244abd4dc161308639596a96cc581d77efb6120c911f",
+      "equipped-INNERCLOTHING.png": "0ae941f223e82065a7dad3015a98b281456670b2f784c83f20f39e35ced99509",
+      "icon.png": "195aafc685078937b15b7b225623b622e2185d00a7ca2e26afdec09b6c58b98c",
+      "inhand-left.png": "a0a0784a77d6cc8ba8ce02d1fbb846f4fda5b7e0d3bf7b0e2582b81d5f9d9727",
+      "inhand-right.png": "3041721624f526413b2d133fd55f3a83f51270356a0dd919f9b09e640ef1ab5f",
+      "meta.json": "162274c1097b756f36101adb1d5d87a6afa6a0fdb9032b3e7e4c7af0fd001b06"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qm.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by semkagamez (discord) for Space Station 14 server Мёртвый Космос, skirt shortened by KingFroozy (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "db0a3a2d82927e48103c24094ff62868ed41483e02a46f22ed7d0faaf1384c8a",
+      "equipped-INNERCLOTHING-vox.png": "db06ace2c90757730eb0ce0ef93d53280c615f5b5ffdbdffda99fb6de6f71995",
+      "equipped-INNERCLOTHING.png": "9e64fb489c5c7cf5ab2d15989c1e31cd7fb74b6b6e55a2d1857ad44186336deb",
+      "icon.png": "122741939595fda5413c0e78589ba4ef2c200c6742f8fa23569555196a2d458a",
+      "inhand-left.png": "31f7bd0078288e1a5f39d8ba9cbae6d833214d26100e74a9be9f08dcba02224b",
+      "inhand-right.png": "eed4c9fdadedb629a637c1e9d6aa6f86ba6e815b95659dfe14355f8c3e3c2cbc",
+      "meta.json": "162274c1097b756f36101adb1d5d87a6afa6a0fdb9032b3e7e4c7af0fd001b06"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/rnd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/rnd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039. Resprite by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "465d40e13ac5dd7bdb9c63d61acf00941baa85aa2786fa4b297dd1063e67a181",
+      "equipped-INNERCLOTHING-vox.png": "8f55de7dafcbb96a88c124f085c9cf174ff8e81a2aeaac7bec71243bba51ce4a",
+      "equipped-INNERCLOTHING.png": "4655739ec99012a094ecb6fa863bccc74d43aeacf9638dcb06ccf000c888029c",
+      "icon.png": "d149b71ef1ab8d2f0306b30058b078789bfe0ff0168b964a193c0055304d7bf0",
+      "inhand-left.png": "3d2eb0c6528d51a57932c10e58774d7e758b77ececd77c0da8d887a786fcd182",
+      "inhand-right.png": "6a478bb926f5c916134076f694aee9d928a7ec88af07640c219306d35b373176",
+      "meta.json": "6fcf6feadd793b09a1810e99c3e273ed889dba68dfc7ca3c00ba34bdcbdaa2ca"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/rnd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/roboticist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/roboticist.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/77314/commits/7a16870a23123fc78cafd2ae55414c8f39ef1a74 and modified by KingFroozy (github) for Space Station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "50b4c979feb971ae82d57e095912f465ebd8b1e4c5296ee749db054a23f03cc0",
+      "equipped-INNERCLOTHING-vox.png": "0e029ce630e8977f9c476a74c854470ca511bf4e94b28f27dc1e25c73977a3b9",
+      "equipped-INNERCLOTHING.png": "d9d19bd31257f0f00c4cf5443b01e967a2b792b99664cc34fe19c6a3ba9a4549",
+      "icon.png": "a941ecaa798425aa5840ad467ac30904371ebe3f39159932a3d22d15b99e9fd5",
+      "inhand-left.png": "262415e5871f8c89f4859b64c489f3655f13113aef319e441531d4ee2915e089",
+      "inhand-right.png": "60cc8cdd7f32440a1d4866f3e4b9f108367d4281ce3d35e59d31603aa349f0dd",
+      "meta.json": "a05abac52464c769c6f61b18dd1f2d1692956e3b9c17a0e73cac6d3b7974ec10"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/roboticist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/scientist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/scientist.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/77314/commits/7a16870a23123fc78cafd2ae55414c8f39ef1a74 and modified by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "6edbb4f8708922bc69343fa201024fcf8016b22c0a7d96a840840a87d77aa1b8",
+      "equipped-INNERCLOTHING-vox.png": "927de7ddbb86f43fc7605a918412e922382977a54c2f7bf6468686405b501c7e",
+      "equipped-INNERCLOTHING.png": "3734b2f079b622a5242a6fe35cd78ec2ae7739d233df59b5489f125804ecd795",
+      "icon.png": "bb27eb7ddeff81a35d3fb5f4aef57af2c5deae456e3d5919f98371848360c29b",
+      "inhand-left.png": "38f1a067493031a9f81593a8539d41709048992ef1b6d6ffb0beba076bb0914f",
+      "inhand-right.png": "90527ef69c93040bb0c112e0e4f3f30dfbaac04a9d62ac9f22465aaf882b4486",
+      "meta.json": "ef8f4b792136d89868c267e785d974b8200aea59587d15ce1a3c7e260c8521b2"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/scientist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/security_grey.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/security_grey.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by @mureixlol, for monkey @hem0mancer, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "d90cbef36c2fcb765074a5e64a76e5bdf30bded43c4287dbfd2db70d862bcc02",
+      "equipped-INNERCLOTHING.png": "a1565b066df4299ddb5ebd7df53cc93f66ab2b61bbe403fc0f2d5accc205a630",
+      "icon.png": "327658dcc25475ccf872b568df2de47bd5488b78ff484bd40b34e0e3e18dba89",
+      "inhand-left.png": "1b59912afc207924a5abb7849e7a895f1f26067d744c78b269ce0b048000b346",
+      "inhand-right.png": "81cd163bf3d7f2d9bf57c72668f73904aedbf9e39bf716aa6d58b0bdf69478e9",
+      "meta.json": "e1cee1ae8f5d62f7bd04c88426fdce58155cc3a46ff63a56bc96b8eb9517c2df"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/security_grey.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sec jumpsuit from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, jumpskirt sprite made by Flareguy for SS14. In hand sprite scaled down by potato1234_x, monkey derivative made by brainfood1183 (github) for ss14, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "0d7b12a5bfbc34688f15c53b34d69affaf31c5d3f5d73df3770b4ec0343ad682",
+      "equipped-INNERCLOTHING.png": "c6d60a1eeca0213ee3bbaa86bfa7d80953951359474ef8a52c9f9a90953246a4",
+      "icon.png": "4d642a5f1a3f65f0115f2d67ddd567ca2b204248aff5781b78d9fd76c42db44e",
+      "inhand-left.png": "d8ab72018a77825f9267f82ca3f21329922571861cacea9ef3cea50d9b2e861a",
+      "inhand-right.png": "e3809879fb2e19a48b95d8186f5e9218a9e0c85782606d1d1c620ef2f84f6e2a",
+      "meta.json": "c55f6173ee8ce80a93a0ba47f139d18c00a65975e9adaafbb61e5c52a1662145"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_officer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/senior_officer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Edit by Nairodian (github) of secskirt taken from tgstation at commit https://github.com/tgstation/tgstation/commit/7779930358ba4776575975690d2c952f0d05c6cc, resprite by pyfya (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "debd8fc7da4af23a2e5f4dce1343626f34f50defcd66ffc7e75d10df024d6eb4",
+      "equipped-INNERCLOTHING.png": "90c245004a4d654828dfe75ea1053761f51a051db4e5f579689a415b5227aae1",
+      "icon.png": "d5f7c8e3b0f84cf8c0754827f78bef71ce6e3ac667146785dd828199a230b57c",
+      "inhand-left.png": "2828f2bc4e756f40b0897b239c0a5d1399e049fd5bba5ba0851985885c8cda05",
+      "inhand-right.png": "9bf5b9db2e5f1428e2c0fc5c7d0f41b31d6efeb3d4d61972f49d11520630f6f1",
+      "meta.json": "31ab12f6bbb497fea022cfe778991d3bb43cf9de4d9354028e7f458fdfa394ca"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_officer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_physician.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/senior_physician.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Edit by Nairodian (github) of paramedic_skirt from tgstation at pull request https://github.com/tgstation/tgstation/pull/48236, resprite by muriexlol, resprite by pyfya (discord) & sakento (discord) for Space Station 14 server Мёртвый Космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "8e0b68a2de97e274f00d6af323d1216b67a2e5b34ac22949bcf9b17ff337d87f",
+      "equipped-INNERCLOTHING.png": "bf3214612d20120bb048cad0588afb404193e8030e240f2e6fef10887a88a0e2",
+      "icon.png": "fa55c88fcf67e3890bc2b01065b47388e3f030829d60412ec80675ac734ede02",
+      "inhand-left.png": "69dbc0402292b682dc806a0315417a4d4e87554a9ea87cb8437b86720b3afb74",
+      "inhand-right.png": "1b8f0f3256fbdfa64b7badb047d22aaa93e8950ea44b6764b98a6e07bca64c96",
+      "meta.json": "c0d0d2d00dfa66987ae3636609a35ddd73089d2714cc8b52cd8538b2615fc3e5"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_physician.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/senior_researcher.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/DeadSpace/Clothing/Uniforms/Jumpskirt/senior_researcher.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/77314/commits/7a16870a23123fc78cafd2ae55414c8f39ef1a74 and modified by KingFroozy (github) for Space station 14 server Мёртвый космос",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "04212ea7e23cce509a2174c6b383d8b80c1a9ad45c9d8a43106fe77bd3123173",
+      "equipped-INNERCLOTHING-vox.png": "1ba49e595403fb8b236c7cd9f950944b99071dc904ec5ca86e799d48c6099781",
+      "equipped-INNERCLOTHING.png": "ec99e3bc7f9d7453950362a8b04d0727b0afefe2e01617f5c31078e305845acc",
+      "icon.png": "0e3e9f2623d42fdd72fe9e91b23aad4988dd304b98a6c9d812177696cab65bca",
+      "inhand-left.png": "af7f20b8b663f40901effca8bfd90ea4e5fb569457495e630da23478cdc44a21",
+      "inhand-right.png": "3b78de1349d03a1be17aec4bc264425f1d13c38a2c66935105b25c8586a6d768",
+      "meta.json": "019bcb521d8caab1c3f01446f9cdedac35e50071b324150a0a0d1f47bb9f1b7d"
+    },
+    "replaces": [
+      "_Lime/Imported/Monolith/Clothing/Uniforms/Jumpskirt/senior_researcher.rsi"
+    ]
+  }
+]
