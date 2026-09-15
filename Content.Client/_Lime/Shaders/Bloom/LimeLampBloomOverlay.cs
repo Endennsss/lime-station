@@ -4,7 +4,6 @@ using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Shared.Enums;
 using Robust.Shared.Prototypes;
-using Robust.Shared.Timing;
 
 namespace Content.Client._Lime.Shaders.Bloom;
 
@@ -13,7 +12,6 @@ public sealed class LimeLampBloomOverlay : Overlay
 {
     [Dependency] private readonly IEntityManager _entity = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
 
     private static readonly ProtoId<ShaderPrototype> HaloShader = "LimeLampHalo";
     private static readonly ProtoId<ShaderPrototype> CoreShader = "LimeLampCore";
@@ -68,7 +66,8 @@ public sealed class LimeLampBloomOverlay : Overlay
                 if (!_sprites.TryComp(lamp, out var sprite) || !sprite.Visible || sprite.ContainerOccluded)
                     continue;
 
-                var texture = _sprite.GetFrame(lamp.Comp.MaskSprite, _timing.RealTime);
+                // Frame0 разрешает путь относительно /Textures, как в YAML SpriteSpecifier.
+                var texture = _sprite.Frame0(lamp.Comp.MaskSprite);
                 var size = (Vector2) texture.Size / EyeManager.PixelsPerMeter * Vector2.Clamp(lamp.Comp.MaskScale, new Vector2(0.01f), new Vector2(2f));
                 handle.SetTransform(_transform.GetWorldMatrix(lamp));
                 var color = light.Color * lamp.Comp.BloomColor;
