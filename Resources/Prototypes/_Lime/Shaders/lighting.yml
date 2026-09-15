@@ -13,3 +13,8 @@
   id: LimeItemBloom
   kind: source
   path: /Textures/_Lime/Shaders/item_bloom.swsl
+
+- type: shader
+  id: LimeItemBlur
+  kind: source
+  path: /Textures/_Lime/Shaders/item_blur.swsl

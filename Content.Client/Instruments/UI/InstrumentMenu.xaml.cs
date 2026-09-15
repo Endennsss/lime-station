@@ -83,7 +83,7 @@ public sealed partial class InstrumentMenu : FancyWindow
         var formatted = new FormattedMessage();
         var styleBox = new StyleBoxFlat
         {
-            BorderColor = Color.FromHex("#3D4059"),
+            BorderColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelBorder, // Lime-Edit
             BorderThickness = new Thickness(2),
         };
 

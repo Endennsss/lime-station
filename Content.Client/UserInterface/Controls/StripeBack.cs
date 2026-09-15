@@ -96,6 +96,12 @@ namespace Content.Client.UserInterface.Controls
 
         protected override void Draw(DrawingHandleScreen handle)
         {
+            // Lime added start - пустой или сжатый блок не должен создавать перевёрнутый прямоугольник
+            var edgeHeight = ((HasMargins ? PadSize : 0) + EdgeSize) * UIScale;
+            var requiredHeight = (HasTopEdge ? edgeHeight : 0) + (HasBottomEdge ? edgeHeight : 0);
+            if (PixelWidth <= 0 || PixelHeight < requiredHeight)
+                return;
+            // Lime added end
             UIBox2 centerBox = PixelSizeBox;
 
             var padSize = HasMargins ? PadSize : 0;

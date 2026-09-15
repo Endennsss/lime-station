@@ -12,8 +12,8 @@ public sealed class ExamineButtonSheetlet : Sheetlet<PalettedStylesheet>
     // Examine button colors
     // TODO: FIX!!
     private static readonly Color ExamineButtonColorContext = Color.Transparent;
-    private static readonly Color ExamineButtonColorContextHover = Color.DarkSlateGray;
-    private static readonly Color ExamineButtonColorContextPressed = Color.LightSlateGray;
+    private static readonly Color ExamineButtonColorContextHover = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight; // Lime-Edit
+    private static readonly Color ExamineButtonColorContextPressed = Content.Client._Lime.Stylesheets.LimePalettes.Primary.PressedElement; // Lime-Edit
     private static readonly Color ExamineButtonColorContextDisabled = Color.FromHex("#5A5A5A");
 
     public override StyleRule[] GetRules(PalettedStylesheet sheet, object config)

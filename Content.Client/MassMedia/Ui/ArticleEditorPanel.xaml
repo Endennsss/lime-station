@@ -57,17 +57,17 @@
     </BoxContainer>
     <PanelContainer>
         <PanelContainer.PanelOverride>
-            <graphics:StyleBoxFlat BorderThickness="2 0 0 0" BorderColor="#1d1d22"/>
+            <graphics:StyleBoxFlat BorderThickness="2 0 0 0" BorderColor="{x:Static lime:LimePalettes.PanelInset}"/> <!-- Lime-Edit -->
         </PanelContainer.PanelOverride>
     </PanelContainer>
     <PanelContainer HorizontalAlignment="Left" VerticalAlignment="Top" SetHeight="27" SetWidth="2">
         <PanelContainer.PanelOverride>
-            <graphics:StyleBoxFlat BorderColor="#2a2a2d" BorderThickness="0 0 0 2"/>
+            <graphics:StyleBoxFlat BorderColor="{x:Static lime:LimePalettes.PanelBackground}" BorderThickness="0 0 0 2"/> <!-- Lime-Edit -->
         </PanelContainer.PanelOverride>
     </PanelContainer>
     <PanelContainer HorizontalAlignment="Left" VerticalAlignment="Top" SetHeight="25" SetWidth="2">
         <PanelContainer.PanelOverride>
-            <graphics:StyleBoxFlat BackgroundColor="#1b1b1f"/>
+            <graphics:StyleBoxFlat BackgroundColor="{x:Static lime:LimePalettes.PanelInset}"/> <!-- Lime-Edit -->
         </PanelContainer.PanelOverride>
     </PanelContainer>
 </Control>

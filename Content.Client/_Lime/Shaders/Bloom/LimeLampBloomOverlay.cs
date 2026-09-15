@@ -14,10 +14,10 @@ public sealed class LimeLampBloomOverlay : Overlay
 {
     [Dependency] private readonly IEntityManager _entity = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
+    [Dependency] private readonly IClyde _clyde = default!;
 
     private static readonly ProtoId<ShaderPrototype> HaloShader = "LimeLampHalo";
     private static readonly ProtoId<ShaderPrototype> CoreShader = "LimeLampCore";
-    private static readonly ProtoId<ShaderPrototype> ItemShader = "LimeItemBloom";
 
     private readonly EntityLookupSystem _lookup;
     private readonly TransformSystem _transform;
@@ -28,7 +28,7 @@ public sealed class LimeLampBloomOverlay : Overlay
     private readonly HashSet<Entity<SpriteComponent>> _visibleSprites = new();
     private readonly EntityQuery<LimeEmissiveBloomComponent> _emissiveQuery;
     private readonly EntityQuery<LimeLampBloomComponent> _lampQuery;
-    private readonly ShaderInstance _itemBloom;
+    private readonly LimeItemBloomCache _itemBloom;
     private readonly ShaderInstance _halo;
     private readonly ShaderInstance _core;
 
@@ -46,7 +46,7 @@ public sealed class LimeLampBloomOverlay : Overlay
         _sprites = _entity.GetEntityQuery<SpriteComponent>();
         _emissiveQuery = _entity.GetEntityQuery<LimeEmissiveBloomComponent>();
         _lampQuery = _entity.GetEntityQuery<LimeLampBloomComponent>();
-        _itemBloom = _prototype.Index(ItemShader).InstanceUnique();
+        _itemBloom = new LimeItemBloomCache(_clyde, _prototype);
         _halo = _prototype.Index(HaloShader).InstanceUnique();
         _core = _prototype.Index(CoreShader).Instance();
         ZIndex = (int) Content.Shared.DrawDepth.DrawDepth.Effects;
@@ -119,7 +119,7 @@ public sealed class LimeLampBloomOverlay : Overlay
     {
         if (!layer.Visible || layer.Blank || layer.CopyToShaderParameters != null)
             return;
-        var strength = settings?.Strength ?? 1.1f;
+        var strength = settings?.Strength ?? 1.6f;
         var radius = settings?.Radius ?? 1.3f;
         if (!float.IsFinite(strength) || !float.IsFinite(radius) || strength <= 0f || radius <= 0f)
             return;
@@ -147,18 +147,13 @@ public sealed class LimeLampBloomOverlay : Overlay
                 _ => renderRotation
             };
         var matrix = layerMatrix * sprite.LocalMatrix * Matrix3Helpers.CreateTransform(_transform.GetWorldPosition(entry), renderRotation);
+        var bloom = _itemBloom.Get(handle, texture, radius);
+        if (bloom == null)
+            return;
         handle.SetTransform(matrix);
-        var pixels = (Vector2)texture.Size;
-        var atlasPixels = texture is AtlasTexture atlas ? (Vector2)atlas.SourceTexture.Size : pixels;
-        var blur = Math.Clamp(radius * 4f, 2f, 9f);
-        const float padding = 6f; // Радиус ядра свёртки в пикселях; пустые поля не увеличиваем.
-        _itemBloom.SetParameter("uvScale", pixels / atlasPixels);
-        _itemBloom.SetParameter("sourcePixels", pixels);
-        _itemBloom.SetParameter("paddingPixels", padding);
-        _itemBloom.SetParameter("blurPixels", blur);
-        handle.UseShader(_itemBloom);
+        handle.UseShader(_core);
         var color = sprite.Color * layer.Color * (settings?.Color ?? Color.White);
-        handle.DrawTextureRect(texture, Box2.CenteredAround(Vector2.Zero, (pixels + new Vector2(padding * 2f)) / EyeManager.PixelsPerMeter),
+        handle.DrawTextureRect(bloom.Texture, Box2.CenteredAround(Vector2.Zero, (Vector2)bloom.Size / EyeManager.PixelsPerMeter),
             color.WithAlpha(color.A * Strength * Math.Clamp(strength, 0f, 2f)));
     }
 

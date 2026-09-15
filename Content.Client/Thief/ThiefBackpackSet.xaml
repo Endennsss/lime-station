@@ -1,10 +1,12 @@
 <Control xmlns="https://spacestation14.io"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
 		xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
 		xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client">
 	<!-- Name and button -->
 	<PanelContainer Margin="5 5 0 5">
 			<PanelContainer.PanelOverride>
-				<gfx:StyleBoxFlat BackgroundColor="#18211b" />
+				<gfx:StyleBoxFlat BackgroundColor="{x:Static lime:LimePalettes.PanelInset}" /> <!-- Lime-Edit -->
 			</PanelContainer.PanelOverride>
 			<BoxContainer Orientation="Vertical" HorizontalExpand="True">
 			<GridContainer Margin="5" Columns="2" MinSize="600 0">

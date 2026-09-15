@@ -111,9 +111,11 @@ namespace Content.Client.Stylesheets
         public static readonly Color ButtonColorCautionPressed = Content.Client.Stylesheets.Palette.Palettes.Red.PressedElement; // Lime-Edit - общий серый стиль
         public static readonly Color ButtonColorCautionDisabled = Color.FromHex("#602a2a");
 
-        public static readonly Color ButtonColorGoodDefault = Color.FromHex("#3E6C45");
-        public static readonly Color ButtonColorGoodHovered = Color.FromHex("#31843E");
-        public static readonly Color ButtonColorGoodDisabled = Color.FromHex("#164420");
+        // Lime edit start - нейтральные кнопки подтверждения; цвет статусов сохраняется
+        public static readonly Color ButtonColorGoodDefault = Content.Client._Lime.Stylesheets.LimePalettes.Primary.Element;
+        public static readonly Color ButtonColorGoodHovered = Content.Client._Lime.Stylesheets.LimePalettes.Primary.HoveredElement;
+        public static readonly Color ButtonColorGoodDisabled = Content.Client._Lime.Stylesheets.LimePalettes.Primary.DisabledElement;
+        // Lime edit end
 
         //NavMap
         public static readonly Color PointRed = Color.FromHex("#B02E26");
@@ -122,14 +124,14 @@ namespace Content.Client.Stylesheets
 
         // Context menu button colors
         public static readonly Color ButtonColorContext = Color.FromHex("#1119");
-        public static readonly Color ButtonColorContextHover = Color.DarkSlateGray;
-        public static readonly Color ButtonColorContextPressed = Color.LightSlateGray;
+        public static readonly Color ButtonColorContextHover = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight; // Lime-Edit
+        public static readonly Color ButtonColorContextPressed = Content.Client._Lime.Stylesheets.LimePalettes.Primary.PressedElement; // Lime-Edit
         public static readonly Color ButtonColorContextDisabled = Color.Black;
 
         // Examine button colors
         public static readonly Color ExamineButtonColorContext = Color.Transparent;
-        public static readonly Color ExamineButtonColorContextHover = Color.DarkSlateGray;
-        public static readonly Color ExamineButtonColorContextPressed = Color.LightSlateGray;
+        public static readonly Color ExamineButtonColorContextHover = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight; // Lime-Edit
+        public static readonly Color ExamineButtonColorContextPressed = Content.Client._Lime.Stylesheets.LimePalettes.Primary.PressedElement; // Lime-Edit
         public static readonly Color ExamineButtonColorContextDisabled = Color.FromHex("#5A5A5A");
 
         // Fancy Tree elements
@@ -415,7 +417,7 @@ namespace Content.Client.Stylesheets
 
             var progressBarForeground = new StyleBoxFlat
             {
-                BackgroundColor = new Color(0.25f, 0.50f, 0.25f)
+                BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.IconNormal // Lime-Edit - нейтральная шкала
             };
             progressBarForeground.SetContentMarginOverride(StyleBox.Margin.Vertical, 14.5f);
 

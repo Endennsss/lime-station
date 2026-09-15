@@ -18,7 +18,7 @@ public sealed class ProgressBarSheetlet : Sheetlet<PalettedStylesheet>
         progressBarBackground.SetContentMarginOverride(StyleBox.Margin.Vertical, 14.5f);
         var progressBarForeground = new StyleBoxFlat
         {
-            BackgroundColor = new Color(0.25f, 0.50f, 0.25f),
+            BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.IconNormal, // Lime-Edit - нейтральная шкала
         };
         progressBarForeground.SetContentMarginOverride(StyleBox.Margin.Vertical, 14.5f);
 

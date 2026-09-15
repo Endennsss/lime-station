@@ -62,7 +62,7 @@ namespace Content.Client.Configurable.UI
             {
                 VerticalExpand = true,
                 HorizontalExpand = true,
-                ModulateSelfOverride = Color.FromHex("#202025")
+                ModulateSelfOverride = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset // Lime-Edit
             };
 
             outerColumn.AddChild(Column);

@@ -119,7 +119,7 @@ public sealed partial class GasTankWindow
 
         var middle = new PanelContainer
         {
-            PanelOverride = new StyleBoxFlat { BackgroundColor = Color.FromHex("#202025") },
+            PanelOverride = new StyleBoxFlat { BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset }, // Lime-Edit
             Children =
             {
                 (contentContainer = new BoxContainer

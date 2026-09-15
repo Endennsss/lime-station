@@ -20,9 +20,9 @@ public sealed class ContextMenuSheetlet<T> : Sheetlet<T>
     // TODO: make this not hardcoded (I am too scared to change the context menu colors)
     private static readonly ColorPalette ContextButtonPalette = ColorPalette.FromHexBase("#000000") with
     {
-        HoveredElement = Color.DarkSlateGray,
+        HoveredElement = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight, // Lime-Edit
         Element = Color.FromHex("#1119"),
-        PressedElement = Color.LightSlateGray,
+        PressedElement = Content.Client._Lime.Stylesheets.LimePalettes.Primary.PressedElement, // Lime-Edit
     };
 
     public override StyleRule[] GetRules(T sheet, object config)

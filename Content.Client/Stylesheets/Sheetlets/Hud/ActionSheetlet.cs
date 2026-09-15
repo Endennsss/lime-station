@@ -19,7 +19,7 @@ public sealed class ActionSheetlet<T> : Sheetlet<T> where T: PalettedStylesheet,
 
         // TODO: absolute texture access
         var handSlotHighlightTex = ResCache.GetTexture("/Textures/Interface/Inventory/hand_slot_highlight.png");
-        var handSlotHighlight = new StyleBoxTexture
+        var handSlotHighlight = new Content.Client._Lime.Stylesheets.LimeGrayStyleBoxTexture // Lime-Edit - нейтральное выделение
         {
             Texture = handSlotHighlightTex,
         };

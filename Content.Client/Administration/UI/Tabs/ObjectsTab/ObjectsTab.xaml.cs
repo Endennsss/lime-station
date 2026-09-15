@@ -17,8 +17,8 @@ public sealed partial class ObjectsTab : Control
     [Dependency] private IEntityManager _entityManager = default!;
     [Dependency] private IClientConsoleHost _console = default!;
 
-    private readonly Color _altColor = Color.FromHex("#292B38");
-    private readonly Color _defaultColor = Color.FromHex("#2F2F3B");
+    private readonly Color _altColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset; // Lime-Edit
+    private readonly Color _defaultColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground; // Lime-Edit
 
     private bool _ascending;
     private ObjectsTabHeader.Header _headerClicked = ObjectsTabHeader.Header.ObjectName;

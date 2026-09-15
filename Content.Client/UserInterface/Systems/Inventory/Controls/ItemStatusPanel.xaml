@@ -1,12 +1,13 @@
 <controls:ItemStatusPanel
     xmlns="https://spacestation14.io"
+    xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
     xmlns:controls="clr-namespace:Content.Client.UserInterface.Systems.Inventory.Controls"
     xmlns:graphics="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
     VerticalAlignment="Bottom"
     HorizontalAlignment="Center">
     <PanelContainer Name="Panel">
         <PanelContainer.PanelOverride>
-            <graphics:StyleBoxTexture
+            <lime:LimeGrayStyleBoxTexture
                 PatchMarginBottom="4"
                 PatchMarginTop="6"
                 TextureScale="2 2"
@@ -15,8 +16,8 @@
     </PanelContainer>
     <PanelContainer Name="HighlightPanel">
         <PanelContainer.PanelOverride>
-            <graphics:StyleBoxTexture PatchMarginBottom="4" PatchMarginTop="6" TextureScale="2 2">
-            </graphics:StyleBoxTexture>
+            <lime:LimeGrayStyleBoxTexture PatchMarginBottom="4" PatchMarginTop="6" TextureScale="2 2">
+            </lime:LimeGrayStyleBoxTexture>
         </PanelContainer.PanelOverride>
     </PanelContainer>
     <BoxContainer Name="Contents" Orientation="Vertical" Margin="2 6 2 4" RectClipContent="True">

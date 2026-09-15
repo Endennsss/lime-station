@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
-// Lime Station: самостоятельная свёртка цветных пикселей текущего кадра.
+// Lime Station: горизонтальный проход независимого размытия текущего кадра.
 light_mode unshaded;
-blend_mode add;
+blend_mode none;
 uniform highp vec2 uvScale;
 uniform highp vec2 sourcePixels;
 uniform highp float paddingPixels;
@@ -21,16 +21,14 @@ void fragment() {
     highp vec2 position = (UV2 - vec2(0.5)) * (sourcePixels + vec2(paddingPixels * 2.0)) / sourcePixels + vec2(0.5);
     highp vec4 glow = vec4(0.0);
     highp float totalWeight = 0.0;
-    for (highp int x = -6; x <= 6; x++) {
-        for (highp int y = -6; y <= 6; y++) {
-            highp vec2 offset = vec2(float(x), float(y));
-            highp float sigma = max(1.0, blurPixels * 0.5);
-            highp float weight = exp(-dot(offset, offset) / (2.0 * sigma * sigma));
-            glow += sourceAt(position + offset / sourcePixels, origin) * weight;
-            totalWeight += weight;
-        }
+    for (highp int x = -12; x <= 12; x++) {
+        highp float offset = float(x);
+        // Плотный ближний свет и широкий мягкий ореол, без квадратной маски.
+        highp float weight = 0.65 * exp(-offset * offset / 4.5) / 1.5
+            + 0.35 * exp(-offset * offset / (2.0 * blurPixels * blurPixels)) / blurPixels;
+        glow += sourceAt(position + vec2(offset, 0.0) / sourcePixels, origin) * weight;
+        totalWeight += weight;
     }
     glow /= totalWeight;
-    // Не перерисовываем резкое ядро поверх предмета: добавляем только мягкий цветной свет.
-    COLOR = vec4(glow.rgb / max(glow.a, 0.0001), glow.a * 0.85);
+    COLOR = glow;
 }

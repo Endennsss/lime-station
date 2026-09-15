@@ -372,7 +372,7 @@ namespace Content.Client.Arcade
             var back = new StyleBoxTexture
             {
                 Texture = panelTex,
-                Modulate = Color.FromHex("#4a4a51"),
+                Modulate = Content.Client._Lime.Stylesheets.LimePalettes.PanelBorder, // Lime-Edit - нейтральная рамка
             };
             back.SetPatchMargin(StyleBox.Margin.All, 10);
 
@@ -384,7 +384,7 @@ namespace Content.Client.Arcade
             };
             var backgroundPanel = new PanelContainer
             {
-                PanelOverride = new StyleBoxFlat { BackgroundColor = Color.FromHex("#86868d") }
+                PanelOverride = new StyleBoxFlat { BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.IconPressed } // Lime-Edit
             };
             backgroundPanel.AddChild(_gameGrid);
             gamePanel.AddChild(backgroundPanel);

@@ -195,7 +195,7 @@ namespace Content.Client.Wires.UI
 
             var middle = new PanelContainer
             {
-                PanelOverride = new StyleBoxFlat {BackgroundColor = Color.FromHex("#202025")},
+                PanelOverride = new StyleBoxFlat {BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset}, // Lime-Edit
                 Children =
                 {
                     new BoxContainer

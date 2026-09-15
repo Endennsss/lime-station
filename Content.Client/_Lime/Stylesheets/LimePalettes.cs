@@ -10,6 +10,7 @@ public static class LimePalettes
     // Lime-Edit - общие цвета для старых контролов и статических ссылок XAML.
     public static readonly Color PanelBackground = Color.FromHex("#282828");
     public static readonly Color PanelInset = Color.FromHex("#202020");
+    public static readonly Color PanelOverlay = PanelInset.WithAlpha(0.4f);
     public static readonly Color PanelBorder = Color.FromHex("#484848");
     public static readonly Color PanelHighlight = Color.FromHex("#383838");
     public static readonly Color IconNormal = Color.FromHex("#B0B0B0");
@@ -21,4 +22,6 @@ public static class LimePalettes
         background: Color.FromHex("#282828"), text: Color.FromHex("#C8C8C8"));
     public static readonly ColorPalette Highlight = ColorPalette.FromHexBase("#888888",
         background: Color.FromHex("#383838"), text: Color.FromHex("#E5E5E5"));
+    // Серый фон подтверждения, но зелёный текст успеха остаётся различимым.
+    public static readonly ColorPalette Positive = Primary with { Text = Color.FromHex("#3C854A"), TextDark = Color.FromHex("#31843E") };
 }
