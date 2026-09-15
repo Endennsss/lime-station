@@ -1,0 +1,13 @@
+light_mode unshaded;
+blend_mode add;
+
+uniform lowp float softness;
+
+void fragment() {
+    highp vec2 position = (UV2 - vec2(0.5)) * 2.0;
+    highp float distanceSquared = dot(position, position);
+    // Конечная граница исключает длинный размах и прямоугольную подложку.
+    highp float edge = max(0.0, 1.0 - distanceSquared);
+    highp float halo = pow(edge, mix(5.0, 2.0, softness));
+    COLOR = vec4(vec3(1.0), halo);
+}

@@ -1,0 +1,10 @@
+- type: shader
+  id: LimeLampHalo
+  kind: source
+  path: /Textures/_Lime/Shaders/lamp_halo.swsl
+
+- type: shader
+  id: LimeLampCore
+  kind: canvas
+  light_mode: unshaded
+  blend_mode: add

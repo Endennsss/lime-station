@@ -9,6 +9,14 @@
     snap:
     - Wallmount
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    maskSprite:
+      sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/strobe_light.rsi
+      state: glow
+    maskOffset: "0, 0" # Lime-Edit - маска повторяет светящуюся часть стробоскопа
+    coreStrength: 0.45
+    haloRadius: 0.6
+    softness: 0.25
   - type: AmbientSound
     volume: -15
     range: 2
@@ -26,7 +34,7 @@
     graph: LightFixture
     node: bulbLight
   - type: Sprite
-    offset: 0, 1
+    offset: 0, 0 # Lime-Edit - направленный спрайт Forge без сдвига на соседний тайл
     sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/strobe_light.rsi # Lime-Edit - текстуры Forge с сохранением лицензии
     drawdepth: WallMountedItems
     layers:
@@ -37,6 +45,7 @@
       shader: unshaded
     state: base
   - type: PointLight
+    sourceSize: 0.12 # Lime-Edit - размер источника отдельно от дальности
     lightMask: ConeDouble
     color: "#FFE4CE"
     energy: 5

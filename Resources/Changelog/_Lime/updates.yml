@@ -2,6 +2,14 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 2
+  author: Endennsss
+  time: '2026-09-16T00:00:00+00:00'
+  changes:
+  - type: Tweak
+    message: Свечение ламп заменено собственной реализацией с компактными ореолами у источников света.
+  - type: Fix
+    message: Светящаяся маска настенных ламп совмещена со светильником, а размер ореола отделён от дальности освещения.
 - id: 1
   author: Endennsss
   time: '2026-09-15T00:00:00+00:00'

@@ -21,6 +21,10 @@
                 <!-- Quality -->
                 <Label Text="{Loc 'ui-options-quality-label'}" StyleClasses="LabelKeyText"/>
                 <ui:OptionDropDown Name="DropDownLightingQuality" Title="{Loc 'ui-options-lighting-label'}" />
+                <!-- Lime added start - параметры свечения -->
+                <CheckBox Name="LimeBloomEnabledCheckBox" Text="{Loc 'lime-options-bloom-enabled'}" />
+                <ui:OptionSlider Name="LimeBloomStrengthSlider" Title="{Loc 'lime-options-bloom-strength'}" />
+                <!-- Lime added end -->
                 <CheckBox Name="ViewportLowResCheckBox" Text="{Loc 'ui-options-vp-low-res'}" />
                 <CheckBox Name="ParallaxLowQualityCheckBox" Text="{Loc 'ui-options-parallax-low-quality'}" />
                 <CheckBox Name="AmbientOcclusionCheckBox" Text="{Loc 'ui-options-ambient-occlusion'}" />

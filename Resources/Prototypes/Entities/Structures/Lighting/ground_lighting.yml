@@ -5,6 +5,14 @@
   suffix: Always Powered
   description: "An always powered light."
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    maskSprite:
+      sprite: Structures/Lighting/LightPosts/small_light_post.rsi
+      state: glow
+    maskOffset: "0, 0" # Lime-Edit - светящийся участок столба находится в центре спрайта
+    coreStrength: 1.2 # Lime-Edit - читаемое свечение столба без увеличения размаха
+    haloRadius: 0.55
+    softness: 0.35
   - type: Sprite
     sprite: Structures/Lighting/LightPosts/small_light_post.rsi
     snapCardinals: true
@@ -31,6 +39,7 @@
         - LowImpassable
         - BulletImpassable
   - type: PointLight
+    sourceSize: 0.3 # Lime-Edit - размер источника отдельно от дальности
     radius: 10
     energy: 0.8
     softness: 1

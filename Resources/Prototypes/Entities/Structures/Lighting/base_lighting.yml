@@ -22,7 +22,7 @@
   - type: InteractionOutline
   - type: Sprite
     drawdepth: WallMountedItems
-    offset: 0, 1
+    offset: 0, 0 # Lime-Edit - направленные спрайты Forge без сдвига на соседний тайл
     layers:
     - map: ["enum.PoweredLightLayers.Base"]
       state: base
@@ -33,6 +33,7 @@
     color: "#FFE4CE" # 5000K color temp
     energy: 0.8
     radius: 10
+    sourceSize: 0.4 # Lime-Edit - размер трубки отдельно от дальности света
     softness: 1
 #    offset: "0, 0.25"
   - type: RCDDeconstructable
@@ -80,6 +81,15 @@
   suffix: Always powered
   description: "An always powered light."
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    maskSprite:
+      sprite: _Lime/Effects/LightMasks/64.rsi
+      state: light_point
+    maskScale: "0.5, 0.25" # Lime-Edit - исходная овальная маска без большого размаха
+    maskOffset: "0, 0.42" # Lime-Edit - центр маски у светящейся трубки
+    coreStrength: 1.5 # Lime-Edit - заметное локальное свечение тонкой трубки
+    haloRadius: 0.75
+    softness: 0.5
   - type: Construction
     graph: LightFixture
     node: tubeLight
@@ -110,7 +120,7 @@
   components:
   - type: Sprite
     sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_tube.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
-    offset: 0, 1
+    offset: 0, 0 # Lime-Edit - пустой корпус совпадает с установленным светильником
     state: empty
   - type: PointLight
     enabled: false
@@ -172,9 +182,14 @@
   id: PoweredlightLED
   suffix: LED
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.72
+    haloRadius: 0.85
+    softness: 0.45
   - type: PoweredLight
     hasLampOnSpawn: LedLightTube
   - type: PointLight
+    sourceSize: 0.18 # Lime-Edit - размер источника отдельно от дальности
     radius: 15
     energy: 1
     softness: 0.9
@@ -190,7 +205,12 @@
   id: AlwaysPoweredLightLED
   suffix: Always Powered, LED
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.72
+    haloRadius: 0.85
+    softness: 0.45
   - type: PointLight
+    sourceSize: 0.18 # Lime-Edit - размер источника отдельно от дальности
     radius: 15
     energy: 1
     softness: 0.9
@@ -202,6 +222,10 @@
   id: PoweredlightExterior
   suffix: Exterior
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.55
+    haloRadius: 1.7
+    softness: 0.9
   - type: PoweredLight
     hasLampOnSpawn: ExteriorLightTube
   - type: PointLight
@@ -220,6 +244,10 @@
   id: AlwaysPoweredLightExterior
   suffix: Always Powered, Exterior
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.55
+    haloRadius: 1.7
+    softness: 0.9
   - type: PointLight
     radius: 12
     energy: 4.5
@@ -232,6 +260,10 @@
   id: PoweredlightSodium
   suffix: Sodium
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.55
+    haloRadius: 1.45
+    softness: 0.85
   - type: PoweredLight
     hasLampOnSpawn: SodiumLightTube
   - type: PointLight
@@ -245,6 +277,10 @@
   id: AlwaysPoweredLightSodium
   suffix: Always Powered, Sodium
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.55
+    haloRadius: 1.45
+    softness: 0.85
   - type: PointLight
     radius: 10
     energy: 4
@@ -259,15 +295,25 @@
   suffix: Always Powered
   description: "An always powered light."
   components:
+    - type: LimeLampBloom # Lime-Edit - профиль свечения
+      maskSprite:
+        sprite: _Lime/Effects/LightMasks/64.rsi
+        state: light_point
+      maskScale: "0.22, 0.18" # Lime-Edit - компактная исходная маска маленькой лампы
+      maskOffset: "0, 0.35" # Lime-Edit - центр у светящегося участка
+      coreStrength: 1.5 # Lime-Edit - компенсируем малую площадь маски без длинного ореола
+      haloRadius: 0.5
+      softness: 0.4
     - type: AmbientSound
       volume: -15
       range: 2
       sound:
         path: /Audio/Ambience/Objects/light_hum.ogg
     - type: Sprite
-      sprite: _Lime/Imported/Monolith/Structures/Wallmounts/Lighting/light_small.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_small.rsi # Lime-Edit - согласованный набор Forge с сохранением лицензии
       state: base
     - type: PointLight
+      sourceSize: 0.15 # Lime-Edit - размер источника отдельно от дальности
       color: "#FFD1A3"
       energy: 1.0
       radius: 6
@@ -305,7 +351,7 @@
   description: "A light fixture. Draws power and produces light when equipped with a light bulb."
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Monolith/Structures/Wallmounts/Lighting/light_small.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+    sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/light_small.rsi # Lime-Edit - согласованный набор Forge с сохранением лицензии
     state: empty
   - type: AmbientSound
     enabled: false
@@ -348,9 +394,14 @@
   id: PoweredLEDSmallLight
   suffix: LED
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.8
+    haloRadius: 0.5
+    softness: 0.1
   - type: Sprite
     state: base
   - type: PointLight
+    sourceSize: 0.12 # Lime-Edit - размер источника отдельно от дальности
     enabled: true
     radius: 8
     energy: 1
@@ -364,9 +415,14 @@
   id: PoweredDimSmallLight
   suffix: Dim
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.45
+    haloRadius: 0.5
+    softness: 0.18
   - type: Sprite
     state: base
   - type: PointLight
+    sourceSize: 0.12 # Lime-Edit - размер источника отдельно от дальности
     enabled: true
     radius: 5
     energy: 0.5
@@ -380,9 +436,14 @@
   id: PoweredWarmSmallLight
   suffix: Warm
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    coreStrength: 0.58
+    haloRadius: 0.55
+    softness: 0.2
   - type: Sprite
     state: base
   - type: PointLight
+    sourceSize: 0.16 # Lime-Edit - размер источника отдельно от дальности
     enabled: true
     radius: 6
     energy: 1
@@ -420,7 +481,16 @@
   name: emergency light
   description: A small light with an internal battery that turns on as soon as it stops receiving any power. Nanotrasen technology allows it to adapt its color to alert crew to the conditions of the station.
   components:
+  - type: LimeLampBloom # Lime-Edit - профиль свечения
+    maskSprite:
+      sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/emergency_light.rsi
+      state: emergency_light_on
+    maskOffset: "0, 0" # Lime-Edit - маска светящихся пикселей аварийной лампы
+    coreStrength: 0.42
+    haloRadius: 0.6
+    softness: 0.25
   - type: PointLight
+    sourceSize: 0.12 # Lime-Edit - размер источника отдельно от дальности
     enabled: false
     radius: 5
     energy: 0.6
@@ -442,7 +512,7 @@
     speed: 40
   - type: Sprite
     sprite: _Lime/Imported/Forge/Structures/Wallmounts/Lighting/emergency_light.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
-    offset: 0, 1
+    offset: 0, 0 # Lime-Edit - аварийная лампа совпадает с маской свечения
     layers:
     - state: base
       map: [ "enum.EmergencyLightVisualLayers.Base" ]
