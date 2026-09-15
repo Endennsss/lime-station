@@ -73,7 +73,7 @@
   description: Now in fun size!
   components:
   - type: Sprite
-    sprite: Objects/Specific/Medical/defibsmall.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Medical/defibsmall.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
       - state: icon
       - state: screen

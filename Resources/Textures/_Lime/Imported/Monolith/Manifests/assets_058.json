@@ -1,0 +1,1043 @@
+[
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/medical-viro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/medical-viro.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "db647118fe8043996ce8cc6221aac3d398b69640d2422dd135035db42f05761c",
+      "closed.png": "6940d2b088907b745440b1811a0f2f724b34095b1fa4556bf1451afa1e00db7a",
+      "closing.png": "d3d3ab6f1a2ee00592ca7370abfeb9e1a2ad6ebf17abfbe78aba02afe13575ea",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d08dc6bef083c2b52543623d168e4f6d0395df8a1682a26d3100f4452ed91fab",
+      "opening.png": "48ea8fb39c773fb4f4399bd15ec11a46e12f7e4bd866af63d57b9cd01c851e77"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/medical-viro.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/science-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/science-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "946ce7198f91752615719b18d402d60e15977da2d270094d2804af0f3f114d54",
+      "closed.png": "2ea02219566a2798b7fae8671467b10817ee699a5415f40a572a9f98bc1ab93f",
+      "closing.png": "ea1e7b2bae28665e6589a831477e74d15a57eafe076e3515f6d2d868c45b30f8",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "f64c01fce07988a9862848fcd51ca05ff0fdd9482c40df638b75a277f5c554d7",
+      "opening.png": "233303df299212a81166ed91a2a8ab2d0be5431ad7bd7a5c92dd93f0556bb8bf"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/science-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/security-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/security-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "902e0b1aa50bdfb0f94b5d88748bb99b727f47d595301538ccd6992b224f3098",
+      "closed.png": "4a53300196e5296c9fb2b19f6b8021f2c33a4d60c0fc40a14f87d23cb5c182e9",
+      "closing.png": "b434de874257d99a7dfa193f1fa0ef95118ed492ef7406831a6263adc33a016a",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "042333a3f2d9f45f2ac56dca7dfd3d19472d2934a76b0a1029066af5f8fa408e",
+      "opening.png": "84ac732f09d0ce211f13f2c5d2576c36584f7d07281086fdbd95299877edeba8"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/security-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/service-botany.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/service-botany.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "141a7a43290886007bd713c2b7a52db67aa1c4acc928c437e8287f22bfc38c0a",
+      "closed.png": "74b5547214bd56671db0311586bc5f40fb4d4ec123f54d36a9ce8583052a0c3c",
+      "closing.png": "895645421e463cd2396ea31fef399aea36d56f775972af4d8e211940c50233d5",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "8e39a0bec2fd528ff62bfbb61602192d36814469f5f80b933478c74797976157",
+      "opening.png": "76fad2e3a0dccb748a2841a3a510a249e5891a4067d885ef6dfeef24217ec5ef"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/service-botany.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/shuttle-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/shuttle-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "6f3e90b04c9d892ef0f9911e2103f2e3bd49fd9ad44dc591926b81505fb5cca1",
+      "closed.png": "1602ced23255c848afebb16cc664ac73163239ebee6b3f95e114022cc1be175b",
+      "closing.png": "8ef09d9747ec3dde7d9567babe0394794b22d33be6704d99b9cee9a3db17c025",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "4b4f8cf0b35399f66dc1276daae960e9d786320fdce3df3da66efacaa92db338",
+      "opening.png": "57eb113e498f6bee820637f9884b7cad6a61c13c4db68b8ff9f6d7f9f54901f6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/shuttle-syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/shuttle-syndicate.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "feafedfdd6da9c6d6ffa81998f5eb04e769f8dc34beb8119b33263e369d66364",
+      "closed.png": "c9ea5cb921194a97ac0e250f0a451d0dbe4c5fa466c604632a4a67248ee2f0a0",
+      "closing.png": "099f54730a685c3175a4bfb18b35c3c42ef6b2aecc8b55facf3550f3afc2e623",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d218c993500e9849d74725ead552a25e9eff22522c44ac25e1eb07df66f31093",
+      "opening.png": "63d0f3df9f17676a422f73f1efe6b4d1e66f7b138cf36dfc6d8ce84771c96657"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/syndicate-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/syndicate-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "1a743a32e2e501dfb849829395f98602fb9d0912719bad19fdb79026cba6f1c6",
+      "closed.png": "f7c58620f7cee9e98d26ed45ef576c8c57b0c3eaac5cd482f248515d161c7267",
+      "closing.png": "b6490de447cb5aa16784d275b54f77d004dec2b230dc711fe2e13d8277da8974",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "8e0e8be5b1e25159746d3ca5f62e3a82266a74bbba7a8d2197346d94d3a3d73a",
+      "opening.png": "ffbec5b7938a2c0673db582c4eb7cf810f54a49e3ee582decf266e7dee88961e"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/syndicate-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "f5adb905923d54660ca70b36c78936769679934c9548ac85adb57e4536b0070f",
+      "closed.png": "fdee21f604a57ea8313d3f8f777adcedf2882e15fadfacd436ff0da8b7f9b3cb",
+      "closing.png": "f8210d14778d6679857f36d7f9c0fd26d14221a0a1e4ef756a0ad6f1691ddf0e",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "1bdd728574213d21b530caf7095e407254521a4d2603eee481a1affcc4ad6e04",
+      "opening.png": "eb4d1e0bfba4f3e8c33f72c048fcd43c7d12de52f68ef985e0e600e7c2dbf32d"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By Twaticus (GitHub), modified extensively by AftrLite (GitHub)",
+    "originalSource": "https://github.com/wall-nerds/wallening/blob/9cc72b5b68aba36399b6e74b23aab10d6d031a9d/icons/obj/doors/blastdoor.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "b678d5baaf35835222702512f5ec1a503f43f0b7003a6cfe191c114096862c8a",
+      "closed.png": "3f0eb4b2bdd36da7acbbc67b0478bf4a814ed36d1da37fadb117422ebc7bfbc9",
+      "closing.png": "f5db773616ee51d2fde1a7f2dedd6c8d47bd88501ce4147712a47d1262c8decf",
+      "meta.json": "4f1c92908e496eaf9a5fecf3588a0ef23839bf2583fce67a47be8fecf4f4d538",
+      "open.png": "0d53a299a172bbe07d00d1428fddfdf8c31364043e0c97614390720a041d5b03",
+      "opening.png": "59b2e799bf1266f2307c6e1e1cf8ec01035a945c16136edc749a5a28f87b62e6"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-hatch-maints.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-hatch-maints.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "f450530a51170d519103b92a2978411efaff6885c0d6a5ce9fe8cef9b38b144a",
+      "closed.png": "93449fee3bd9b902b625be31cfe8d33ab20b0dc93596197a3297f96054b6c08d",
+      "closing.png": "66daafb56808142223add34e85dd145fec0d1e4ed540d8356f5d6af942d9e0cd",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "07e3b9c841c4f5029aa5723cf8b9cc28541c03fb228dd68074375f79a2f6364a",
+      "opening.png": "ef806a51d42f304478005198c8cf01cf0aed49e0afe4437a476bd16c4a54616e"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-hatch-maints.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-hatch-syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-hatch-syndicate.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "cc2a39ee6da92c25f617b942fb96d980855cfe85f9d0159f02e0d8d71a091627",
+      "closed.png": "df32998eb3e8f3ae2d4cfd3666a3614d2668d4276c5c2f0425ce91e686674d57",
+      "closing.png": "1791ab45adbd3f34ed156860c189f66ab471d19fd3099f2328a4bad851379131",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "6a5455778bd270c8ffe0e6e61ed4cdc2524821d4f7236ccd6ff68d26d8d4ce12",
+      "opening.png": "eab674bebacc80435257d3954b1f4dc851898566eef551ae6e6ac61c460285c1"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-hatch-syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-hatch.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-hatch.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "f02cd5655f76028b22c3d7a09c3d46f90c118fba1dfadfb8edf16dfe16966b5b",
+      "closed.png": "4d88882bfa5e36b12dcc0154937d7c82710510e538a4f214d2f4ef5114801801",
+      "closing.png": "0ac4716ebb2a92bdd9d0e125acac6d1f7d91eb318ff1a63dee961dbcdc9adaf1",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "07e3b9c841c4f5029aa5723cf8b9cc28541c03fb228dd68074375f79a2f6364a",
+      "opening.png": "2ecafcc91eafb56ad946859eae5144152faf00cb3309e6e4395e0e87e7b5ce4b"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-hatch.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-maints.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-maints.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "e68a40ccecd16dce8e9a8e18bf95a5732b0b5ec5e8715b9065519220d0a6589c",
+      "closed.png": "2cac6efbb08bf240999fae11543ba1d94cb944a9570a036b84f9d2cc580161de",
+      "closing.png": "7052fbcd0149dffe30c722fc8ccd5efc6291a4f4330f5c9482c82d2c6c9e53ed",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "1bdd728574213d21b530caf7095e407254521a4d2603eee481a1affcc4ad6e04",
+      "opening.png": "ee354bea738d37b5495fdb1bef95b6f1711d7cc9a9f4780cfb3690cd01047e4b"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-maints.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/airlock-vault.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-vault.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "1bc05ae181fb217c5f47c9534710b83622f447677488a6a6d8666d6812b7de96",
+      "closed.png": "aee4dc6656b905ef3f2a84d83d0cec5c505e61388d14d329615600f4345783e2",
+      "closing.png": "1c6c3ceafe6abd3ab6a9300e84a084a42616775106a0a04e70e46a88aa27d433",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "3ce9f8958c9cea0b3bdbf3bc34c7056b48256f7de65dbbbb8bc587fd039e94d3",
+      "opening.png": "514893ee19a7d85c361bc05a585b42697c4af292c77ae6e8036d437d6a103a14"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/airlock-vault.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/cargo-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/cargo-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "710e6301c9fb4b9854bc5222b4138cfe3112f05cfd172a80b08eee2bc682afc0",
+      "closed.png": "89f27b83a17c7a0fc8952813b90e972dd99be0b755769b6770d237f228cf3ed2",
+      "closing.png": "07a965497bd76b0a929a9a525b7b25372c1c893c0756bc426e97f43dcb1da087",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "c0082d3ed05e106e2db4c7aea5c988d09cdd0be083a5833b9a87a9f51bdb7fe5",
+      "opening.png": "324acdac580c2fc2fc8963b26a527cb432ce64957eb1cbbadef524e72f3ae121"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/cargo-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/cargo-mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/cargo-mining.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "c5685dc6d48b5d30aa705502a1290a78736c3f810eb5335e65f5a85afb2cb0ed",
+      "closed.png": "1374da44e4b33b6eac72594d650224a0db8b33c8782e8a07ade207479499f8fd",
+      "closing.png": "2d9b9fec4516c6ae1a6b757262b955d8f0ff001e005525378df43d57f140e97f",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "c0082d3ed05e106e2db4c7aea5c988d09cdd0be083a5833b9a87a9f51bdb7fe5",
+      "opening.png": "588e66b20b6934fd98e802321a9f7838b9ac31129c63827f27e0a7b2a7627549"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/cargo-mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/cargo-salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/cargo-salvage.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "ec71048186c41b548bdb94480077efc95b361ac88f4df10da0ceb0de695d45af",
+      "closed.png": "cc3bbe4e3564bd8883bd17aac6759c51a8cee323995f5cbe4d8d17c54a9e4d71",
+      "closing.png": "55e05f73d0df4ce5c859bfe7c015927f1a3173d9e6087f1efc13e2081b4b2c01",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "c0082d3ed05e106e2db4c7aea5c988d09cdd0be083a5833b9a87a9f51bdb7fe5",
+      "opening.png": "d3eada55df38c1038fb31db6e69ef7f1557dce503b50e711539788a6413a18be"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/cargo-salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/centcomm-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/centcomm-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "84b4d86cba5d5b39359c2b6279eb4be6f2fac84e5c3a67644b07d4d0e8cb2c47",
+      "closed.png": "a525e995031e966477898c51bd9cd56dedcf819528592af073a5b32c1b07448b",
+      "closing.png": "15a9e1bd15e909b9d1bbacea0b2e8108c17585ffdc984818f85eae00b3d79272",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "a5e2c7f5244d6aaabe824eca18b89f69a9b77409459e48d8fdded9b2406401af",
+      "opening.png": "bc81c17d3081a591fdd7a3cfb4887ab6768cf611a2bfc61d3e58d3720b1d30eb"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/centcomm-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/command-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/command-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "bfbb70527242ae8fc2bfea01a1d6a09ef67dbd71bac813c28c8a473fab2033bc",
+      "closed.png": "488d9d8424903968afeada56098a7483f7385c3fb2f5f1f336af394808ce5023",
+      "closing.png": "dbebd2555b64db8f4e05800512a63f99a87566253b67add6171612ddc8fc60b5",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "71d816b95629429226391de9998b8cf1dc77db1e969fd1aba4bec0d6741d125c",
+      "opening.png": "8373ef61e7bc918ffe60d3ba02065909c45b2a9bbc28f62e02d27bd1f8d143b5"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/command-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/engineering-atmos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/engineering-atmos.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "f134914739356d73e0c544c189eda7364bcbd02081166db883d7ec4ac3968e11",
+      "closed.png": "3a1a3c131a30baa291cfcbfefd5a955ed644d07c643b39bbe1ca7f64b62b091b",
+      "closing.png": "e8bf7716f552754225a0b11a2550a858f3e47a63e2e267f7e6fbc6e91939647a",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "dcb215d01e712c5dfcb36b027dacbec618510436d08e22a59b250b2f75ac0911",
+      "opening.png": "c547c32ffe5637c15b7930ecca7de0e937a7154e508e13fdad96127aee9eb372"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/engineering-atmos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/engineering-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/engineering-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "eaebbe15c38f3ecd8f6d014f96a7b99f21b939de546b8fa54b1181ce2bedb76f",
+      "closed.png": "c93575e74804483b6a3c6d317908a8a453e50eb2d6dc72918374e9646c67b1db",
+      "closing.png": "6885fa14fe5c048cb09b7607eef9d6464c1d198cad5ae4a512a0841c24cdce9e",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "dcb215d01e712c5dfcb36b027dacbec618510436d08e22a59b250b2f75ac0911",
+      "opening.png": "d359270964f2324ee2446c7d5f8f99f7e69b2a40df69cc4ab6ec811919f0935f"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/engineering-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/exo-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "4589308bc199920c8413740c20c3a8bf734641a814e222285ed67b0b280a178f",
+      "closed.png": "2623536eb0d45a861029febb85dda9db3ff5b5f3c178968dcd2d40598e701e36",
+      "closing.png": "7b79341625d5a4eaaf1961a109df597191c0d03c3e03864e16cf791fa5deadf6",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "fba07842ebd03fea3b6ffc5db49ac7739948edb43cd30a587ed6324ddbcd3567",
+      "opening.png": "e83f4d1503e54cbe09e99dd6e738cb713d59f8f5136ec438e8170fbab91537e1"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/exo-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "dffeb0cc8f5f843db9ed0d7f81ff457ab258596c21387c9e9474d05ec3d945ed",
+      "closed.png": "e1f9e43ce3dc0c1b84a5db29dc31470728d3450bb410a7ada45cb16ba7feec8f",
+      "closing.png": "a8359f67b4925578b57e959cf5245584ba4f2ccfe0bbe9908dffaf2c5c146a47",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "dd5e3fff32e78d86d95cbdfdcbe51f3594e16f092c240d8a0dc10744495a22a8",
+      "opening.png": "7b0c116d3d6dee8f5071bbf75bab935d523bd17b0db4e544a8c03d43d6a6b9e7"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/exo-xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-xenoborg.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "1c601dff911319cb410b7c2ea25b027b21355aebbbb43a308087e3a23cb8c3b5",
+      "closed.png": "5bc0a794dc6bb5b2065feb50fb173ec9def4497cc4b9667973878887eb4df222",
+      "closing.png": "ae0c239d51e2625d3270dc6a671009c2bb7393f184efd06eafd318ff08e2d100",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "fba07842ebd03fea3b6ffc5db49ac7739948edb43cd30a587ed6324ddbcd3567",
+      "opening.png": "f9ee3fa5e3a8e9c89187eec4067140c8fdf4ebb8988bf9445ec66befe4d010da"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/exo-xenoborg.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/medical-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/medical-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "6f9f4ca47511edb77c57117c9ed2c5a19fd4f681e1ad5f38aef087116e7faec5",
+      "closed.png": "0ef8752f3033466e281e7b3d218f3fa3728d522bf4b41f840f531e3d1cfd91eb",
+      "closing.png": "f8d84eb014068758181339986fddb8f5dd624b09e740e076206ad0ca334a98b7",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d08dc6bef083c2b52543623d168e4f6d0395df8a1682a26d3100f4452ed91fab",
+      "opening.png": "9e4078b184b293cd51fba00f8ad9dabb908543e25ecb0a2c416a0c1ee3792160"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/medical-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/medical-chem.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/medical-chem.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "b614298148f0824cb63f9bec451166d0a039dcfaf98874460d291e7d5bb25d5d",
+      "closed.png": "6fe687b062321eaea7e811afd580bcbb19a77c477fce0cc3bff408f89f138b54",
+      "closing.png": "f763d03225f2dda5426788bd7c0674762ca80c21eb11b85a07674e7b6fdeacec",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d08dc6bef083c2b52543623d168e4f6d0395df8a1682a26d3100f4452ed91fab",
+      "opening.png": "b2fd5c8cbf4d1c8466e4de4e0aedecebcc5f226efd500c9d55647ee4b81b8d24"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/medical-chem.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/medical-viro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/medical-viro.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "15d14cce60d53fd93a501f7b1507133e24335f3f7dcad3aa8bc148c636129583",
+      "closed.png": "540e97d46eb4aa921250c72691262f0dab767daafc1920c254da6aa5661cf278",
+      "closing.png": "f6f12f9fc883091db97144defb3a6d163650bec7ecfaf2442ee62bf56c05658b",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d08dc6bef083c2b52543623d168e4f6d0395df8a1682a26d3100f4452ed91fab",
+      "opening.png": "d870658a8706248e457888bb46b4a7c866588636089b40426e681aa57dcc7146"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/medical-viro.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/science-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/science-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "4a4d26f38dde14471187ad2979e357006dbe16a0ddb1a03e1ec1821067c3c385",
+      "closed.png": "6b7d8144c5523cd1f8e7138b5bd1f616ef1634fe5cf265f977c526ee346b4fff",
+      "closing.png": "e7f18fd428630d97323e7cc558aa194d97bc97888cb1cd9d19f4cd2e42f3d6a1",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "f64c01fce07988a9862848fcd51ca05ff0fdd9482c40df638b75a277f5c554d7",
+      "opening.png": "d9e293bc542a03c2d79bc5babc35903d63011bf3d034ef00954a619efd3867af"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/science-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/security-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/security-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "17a2a51941c9df236dd55a833feebd384dcc5435d1f2330b01e8dd0716583903",
+      "closed.png": "fd7774814bc1ab9b447bd00a9a3d2a7a6cbec79c26a706777a624f6dd47492a1",
+      "closing.png": "3771e1b5644dd8317e7936802e45330901bf5c058de029d1d98f2a98dde4b0d0",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "042333a3f2d9f45f2ac56dca7dfd3d19472d2934a76b0a1029066af5f8fa408e",
+      "opening.png": "2299bb0a0021442e1559b959e7f9808fd0868eb5f1b65bbce264ab2df7b39b0a"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/security-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/service-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/service-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "42a64445958145c5463d2cc72fd4f73d8c2348033789dd063f3168714f6a183e",
+      "closed.png": "58ba2a428b6f5c2c8da8057166c5c466565ca8e4b734b28143e6444cb88479a0",
+      "closing.png": "ed825bcfebc144a93d070b0b9667484c3e628f04b8a5bf25df9358d10d145278",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "1bdd728574213d21b530caf7095e407254521a4d2603eee481a1affcc4ad6e04",
+      "opening.png": "ea4b95a2f67cd972ab95303e554de0d36bbb07ee9db5e623ac1f2aad0d6cf1e3"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/service-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/service-botany.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/service-botany.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "b21a89650c4bd0f7e6fd366f26a0816f3afd870029224b00a0d94ccb3607e9d3",
+      "closed.png": "3eebb2be6c0135a6a79928e73b65c3075cd1d13d9081808679837ebba8ae0e64",
+      "closing.png": "6948f765f7f2f004531776c920d059288c2e95c8c6792832c4c3899c33cc15a9",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "8e39a0bec2fd528ff62bfbb61602192d36814469f5f80b933478c74797976157",
+      "opening.png": "70fdf7b9f07ec29b98b6c69d1038117e5a4de7c7531031a647b43838e8494296"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/service-botany.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/service-freezer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/service-freezer.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "9794c5df84f34494773ee4d705ef395652c38c66eb7b23774a0d5c7fa70ed235",
+      "closed.png": "17d7ed134a24efed4f73a60628152c64d22c3679f3e7e3aaf4d34461d0366a8e",
+      "closing.png": "cdd88f8ab372e3e3dc7c1f7ca0c6c9596dd94f665d65e65e879a1dd123c6639a",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "9bad752bafb60e27816a62de64b8341d2d67c129c6d543276c57abba040e6490",
+      "opening.png": "596f8ea5e028201abb7a420f4193f61e4801d3f7dd77cc623975bcf42b63a3e0"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/service-freezer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/shuttle-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/shuttle-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "9e7c739a649922759192f491de1adbeac2aa515ba1cda3d1034cc87a5f098384",
+      "closed.png": "bc481d3adf518d26f10f3df3d9d6a28da5c5c1003865639d6f944cf0d4460942",
+      "closing.png": "e27fdf5b20d03ff50a4ef1815d799a4cd2930a3e27323b713f167e1cb8e71657",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "4b4f8cf0b35399f66dc1276daae960e9d786320fdce3df3da66efacaa92db338",
+      "opening.png": "1b4f571fa9aae4eddb75a75e946b5a1fa31b25d0e21d2fa9f65b81b67cc3fda0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/shuttle-syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/shuttle-syndicate.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "ceb50700bff4b9407633745746fa895123b0fb2282a50ff3560a0a4db947dc94",
+      "closed.png": "d8eb8d03ca4d64776d8061860052d777669803eadc268298942f77861a0957a4",
+      "closing.png": "f41868e4eac7ee78bfd3423025d36e8981640d99b8d2416a69bd6f6ecb09ba1f",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d218c993500e9849d74725ead552a25e9eff22522c44ac25e1eb07df66f31093",
+      "opening.png": "b92ac8ab1c60edfc2c82f1221aef4c484425cf0877a13d6d1189590793ba7fce"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/shuttle-xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/shuttle-xenoborg.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "7839cb20268403b801131a7ac7fa05d48aa1f505f05a3973f1d50ec9e079181e",
+      "closed.png": "34dfdf1d5d484422cdbd6babd0d93897fb5a4493f9a42e714bc0a4b15694ea96",
+      "closing.png": "f092a5f88a5f03ca5e88e230db0d31045d58adb1b6e5bdd3ef05a0926f1abb2b",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "ca075e1e167e05029d1f441b86dac1d00b42af4873121a07f7eeaf1f29eb08b1",
+      "opening.png": "3322248955c056dda2859668798a3e31b4dde63c9ecab185cd537e495f0d2bb0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Standard/syndicate-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/syndicate-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "c1fc8f6ae6013e1dcce8453833002c45ba29ac07bc3f2a4c36c767a876be2110",
+      "closed.png": "5cfb9f448004d2ebcb59a4985a7406ec73ef550711dcfc85a0d767d8e434de0b",
+      "closing.png": "7ec6e7341c58fa99cff9a1d211d4d14848075bba03d12370d850d0c0305d66bd",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "8e0e8be5b1e25159746d3ca5f62e3a82266a74bbba7a8d2197346d94d3a3d73a",
+      "opening.png": "7c1fdf1d92efc13b1d564f45377a0557cfa5951f52efce8091ee88f09a98696f"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Standard/syndicate-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/assembly.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/assembly.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/commit/59fe5dd2841f47a8abce60eecb9fafad34282bd0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly_0.png": "47e90070bea5ca6be6a3c289f1c2abac782f197b85b674531bc0cc0900ccc461",
+      "assembly_1.png": "07209afb77c10b4a81d93a832b4f955a521a87c9aa8ff372426a039c9ba07b88",
+      "assembly_2.png": "a2a73f129b33487b4e5a6e5309883deeca99b588dbb8d9bc7e8708c291775a16",
+      "fire_0.png": "09b1db97196ee2ac8b078614f27d27874cb8a1c41f060d22608adb5ec20c2faa",
+      "fire_1.png": "9bda04cec117d50014d7f8a08e2144a5368d553f82aa52caabc820c191c422f9",
+      "fire_2.png": "c9a6c7ece50ae692af5eac2e06649a033caf67b6e076f536b42a9af443196079",
+      "fire_3.png": "12c5a0d30bdf0c75aba25bb229ac34afde62c251e14c4d78cc9833b9f13fd21e",
+      "meta.json": "4e927061622f50b2299be8752905b6a3faca78e15126fbeb98f7ce784da301f3"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/assembly.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/edge_door_hazard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/edge_door_hazard.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/ at 38b65a605df7ae2907d6bf0d4aebc5faa1bbc561",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alert_cold.png": "f8dd910e172da71b685b3484e012bb715645f0a73bab3422001743b76bbf4e19",
+      "alert_hot.png": "ed0246f9909390091372fe3a3a4a0c92fd147a8e26693999c00839745a2d502b",
+      "bolted_unlit.png": "8d447892b6efbc450beab391a7003090694cfcd0014d20766150112cab1675a0",
+      "closed.png": "c249e69dac815bce3453ca0a4255144c5fddba6adfa62a68b9afa4792fa8ef82",
+      "closed_unlit.png": "fcd0ea7a0279cd62a7cbc83e83d81994a5700077d20fafeb98138d0e7d0cb8de",
+      "closing.png": "af49c890f22ec81cbac9fb6279bad948c1f139badeca281b22296601db8698cc",
+      "closing_unlit.png": "fcd0ea7a0279cd62a7cbc83e83d81994a5700077d20fafeb98138d0e7d0cb8de",
+      "deny.png": "c249e69dac815bce3453ca0a4255144c5fddba6adfa62a68b9afa4792fa8ef82",
+      "deny_unlit.png": "fcd0ea7a0279cd62a7cbc83e83d81994a5700077d20fafeb98138d0e7d0cb8de",
+      "locked.png": "c249e69dac815bce3453ca0a4255144c5fddba6adfa62a68b9afa4792fa8ef82",
+      "meta.json": "732c370fce8901b79e7597b946e9a226c46bd6cce12d5a8956d898f221300c9a",
+      "open.png": "46ddcb7bda6971d4dae8075d2697b8aff1c6c278f26b72750ff66b435d81387f",
+      "opening.png": "b90135d3e4665e7771b53c90e2ffac0e8a065763a49b0cfa41fd3f03751d2d20",
+      "opening_unlit.png": "fcd0ea7a0279cd62a7cbc83e83d81994a5700077d20fafeb98138d0e7d0cb8de",
+      "palert.png": "6241dc02cdba477ab8150eeedc87bde7598cbae96cddb0ef28eb0df1a5cec090",
+      "panel_closing.png": "bca580e4dc11c7faba17ec78ec9d0fe6ebb11ba378bbf06428a8a5eac8c13a63",
+      "panel_open.png": "7f0454cf217a60dee252fbfe62ff58131b8a89a3c217673574d541b31a8a763f",
+      "panel_opening.png": "334eb0062a3e23a86ff155636c4467c6b66acd2f798300740a215ef6abbf05d9",
+      "pressure_unlit.png": "9000dc8f3228c7a39a95a5dfc8cd969207df11ccc68118760551ed8d1c26b17c",
+      "temperature_unlit.png": "9de5e35646cd0b7943d3209436deb4c1e832e7310b12f9603f9d3e43f240219b",
+      "welded.png": "9f55d88e2f21c62f834d452b966da7de16072377c2f1f527bbd39d9310ad349c",
+      "welded_open.png": "de4c57f753b86f4c5a64e7878d42a4ca2b1b528f5c89618ace71c250c2c8b644"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/effects.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/effects.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/commit/59fe5dd2841f47a8abce60eecb9fafad34282bd0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "bolted_unlit.png": "83cb5ae39104c27128260348d80b3bce2ac1206a6cdafda7cdd739c44bc9aa09",
+      "closed_unlit.png": "3a9e8b95243c4729f390da21eb14df53200fcf54fa9a160695460519a55fe7e0",
+      "closing_unlit.png": "7cca7e260b0341d916f18ba4bcbd6a6b6936564daa89201fd8a931fbc7ed69f5",
+      "deny_unlit.png": "b5575200fff87725f6454ee15e20e31076a60d6938f9769d4d74a4b3e6deef20",
+      "meta.json": "01042bc950b2e9336648ad4b48eb75e3938285c22c35ed29c14ae537b283355c",
+      "opening_unlit.png": "9ca38219466b2b40d0b0b92ee9e623358d07a7fdb482601ab122cc33757db48f",
+      "panel_closing.png": "0c9f1f89539b5444226571151d6139cbb2b10de939b640bf39f4d28b0fdaa863",
+      "panel_open.png": "ea5e30e95fdbdd80e8f7aa93f6b3b2b2bd782b27a5eb13f35611a3d0f5db7e40",
+      "panel_opening.png": "d29abfafeb7b3e474b082991597bc7e5ed52da11379b198749c538c82aefebec",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "49284eca8b030a0d267b94b1e4d5108a1f1b5b617aef9c5aecd8351e9b352538"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/effects.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/bananium_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/bananium_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "closed.png": "6af02260622e831a79920411b238a467b98700dbe9c8d43871a1d644d36519dc",
+      "closing.png": "9a1de962873e2ba821c1e946034f7a9d3ab6da62ee262f8b6db497ea761fc9b7",
+      "meta.json": "c4bbd836075b0415c04b21b70552169aa0c87d0cc5771c4074d1f8df6fe7a8e2",
+      "open.png": "d9211ede73d28608e4156f019907097d1f2acf867a06390345c86ef8a14fb05d",
+      "opening.png": "cafc52de9985f92271ce6d70c2a4ff8a6a5a1cb5cdeb13f125ee34f7a4120b60"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/MineralDoors/bananium_door.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/diamond_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/diamond_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Tgstation https://github.com/tgstation/tgstation/commit/a5eaa18d2192ef9dd7c8d5b8f4ff22bcf304cdd1#diff-4713a9070dd0da77d2f0932685db4d445073695edb05bb49ff96240cbe355036",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "closed.png": "833cab1d21be48f574fdf0b119b1d610eb1f03b5762bcccf30739057db543942",
+      "closing.png": "0b6040539dd6cbc0db18b728e4a4514f7c16a188ccccf657708bdb3a97561108",
+      "meta.json": "9bfbbd4c3ffc859ec5c5da2bfa11b0aff4035669b4b1585a9af35d2456957a2d",
+      "open.png": "ef9609c18001bf03115474edf9b531fd9b97e41ae75a49255d6c862028c711dc",
+      "opening.png": "6755843cd32bf4b34643048874102f78c02625e60028d57fdb11fbe14575e796"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/MineralDoors/diamond_door.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/gold_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/gold_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "2eb9fab26d5666f9170d23da2b188093046ecc6cdfe2a673db5aadc5e51f2d7b",
+      "closing.png": "1ff8c11d3bf5bd3572f8336cf340d4aadc667fb73a3d17832a027424c72e4bd9",
+      "meta.json": "73902d32f32332f48f9983a01dfd279d6c6565ba852afe4ff8f74733de4fd74d",
+      "open.png": "ba9da1ea2207f7c7352fd635abb8af752630c117c3b65e17b5e90e305e71aa7c",
+      "opening.png": "6f4186584ba72d0faea8b23cec89e208103df4a58946b97c09e670fcfb79a918"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/metal_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/metal_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Tgstation https://github.com/tgstation/tgstation/commit/a5eaa18d2192ef9dd7c8d5b8f4ff22bcf304cdd1#diff-4713a9070dd0da77d2f0932685db4d445073695edb05bb49ff96240cbe355036",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "closed.png": "8ecc0c9467839779d533738c29e70f94732b73993a5bbaf2d096301f28ea851f",
+      "closing.png": "fe8eda2a07a7f6ca155a97a135d2c7b5f5492b3f756199b1460252bbdd79f07c",
+      "meta.json": "9bfbbd4c3ffc859ec5c5da2bfa11b0aff4035669b4b1585a9af35d2456957a2d",
+      "open.png": "3e205e46e3c2b43a71eb3f385bd151873af917b2976a76305680b18da3ce0822",
+      "opening.png": "60f3a3ac7172a70c74dc83eb1323feaafe3f6e81ec4bd480603278e0d7f0c59c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/MineralDoors/metal_door.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/paper_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/paper_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "ded2a315c7a2ba55e94673515fe69052627dda6ab60f5827f37b9bc8dd266cb9",
+      "closing.png": "2979af9b4b88cd284d16d4ee433f628148c3a0c848d9da25f2a3d09d95569059",
+      "meta.json": "73902d32f32332f48f9983a01dfd279d6c6565ba852afe4ff8f74733de4fd74d",
+      "open.png": "b4ecc9eac1ac58bf7985f632e1e471dd42255f32b024b9e915dd6e041436ca48",
+      "opening.png": "48945737d9ad4a2a2f5fdc3e426088c0291ec41b376d13fe86045097b0d03c83"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/plasma_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/plasma_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "628f0dae793c8927ee57df06804af09d814118a682a18941ba844e55010a2ffa",
+      "closing.png": "50fc561ee77d7827a6788eebd1b496c626ed89dfa69845ad818c6d99c8c97f02",
+      "meta.json": "73902d32f32332f48f9983a01dfd279d6c6565ba852afe4ff8f74733de4fd74d",
+      "open.png": "4d65db4cc597bbc2a6bf47a7afa6972af4e46e0ef0b74268df457d538a0ef71b",
+      "opening.png": "2a993a007a368dd2e0f6ad61f9c6372414649220ab30eb487633ad65ab2ef6ae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/sandstone_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/sandstone_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Tgstation https://github.com/tgstation/tgstation/commit/a5eaa18d2192ef9dd7c8d5b8f4ff22bcf304cdd1#diff-4713a9070dd0da77d2f0932685db4d445073695edb05bb49ff96240cbe355036",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "closed.png": "f0605ace6bd747787c579223ddd215348177ebb5d5c37ab18ae7f04ee8cec5dd",
+      "closing.png": "1c1cd2458b7f1dbe5b288bfe05a033fe74246f7b28b1fb4813b6cbcece223a00",
+      "meta.json": "9bfbbd4c3ffc859ec5c5da2bfa11b0aff4035669b4b1585a9af35d2456957a2d",
+      "open.png": "a0f772c08de97aae933f070585cd917e3f2ec61e98a5d5e8906baac78a2d84a3",
+      "opening.png": "fa10233d469ac347967985e2190f0a25803c7b7c19969f960101e30b9a71ce41"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/MineralDoors/sandstone_door.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/silver_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/silver_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "574b6c5f8e5547365b7a1fd7b9e8faf332926fda0ca2c489580858e661a81d19",
+      "closing.png": "53bf26566a23073b1e5993043ecbd954074a25357a388e141fc53bb1baf6407f",
+      "meta.json": "73902d32f32332f48f9983a01dfd279d6c6565ba852afe4ff8f74733de4fd74d",
+      "open.png": "519cae1b772d87f8862a31c7ac29b8cfac28ffa4067d45e49ac54f069fedb26d",
+      "opening.png": "218b9663a2180e97653af2cccdc14a38c9d3469c09221c9f48c3fc66543c3b4e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/uranium_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/uranium_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Tgstation https://github.com/tgstation/tgstation/commit/a5eaa18d2192ef9dd7c8d5b8f4ff22bcf304cdd1#diff-4713a9070dd0da77d2f0932685db4d445073695edb05bb49ff96240cbe355036",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "closed.png": "7eba0744d5ece24b83469b8ec3703cecd5c6db5d064f4c2ea467b1d2717e587b",
+      "closing.png": "058ba1ec56bbb182c58fb879ad05095c71e8a10b02f55feb2453231f2683d378",
+      "meta.json": "9bfbbd4c3ffc859ec5c5da2bfa11b0aff4035669b4b1585a9af35d2456957a2d",
+      "open.png": "fbec6f718410310292f5def734e309218ee1f31d686cf2fc755c76feb1e927d9",
+      "opening.png": "b120ddba82aa2e074f5f8815fca05801b1a0390d449a3256e0a747df6ff7a3f7"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Doors/MineralDoors/uranium_door.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/MineralDoors/wood_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/MineralDoors/wood_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "6f25023865556375336e1d6b846d636c49f9e81f41763bd0217e69f6ac192b15",
+      "closing.png": "32314846a0df9076c341b41e356d0c28170f868ec42dab2a3db4a273c41f0881",
+      "meta.json": "73902d32f32332f48f9983a01dfd279d6c6565ba852afe4ff8f74733de4fd74d",
+      "open.png": "280afa63a437c55524ba48d7bbdb5ee833ab7a6584e828fa2327bf96aed3c531",
+      "opening.png": "82513dd23653b57b60553c044e4829fa907d4f0f6b82df748187e2fbf4be970a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/secret_door.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/secret_door.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_2.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_3.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_4.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_5.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "c65f067ce20b1e4e475374f392fce57c7bcfca06cdf42b484bc86c04c3ccde36",
+      "closed.png": "198ab17ef58a994377541711736b95bc4396a514e49594a0e5932a48834978b5",
+      "closing.png": "9bcafbdd431a30af0075bd093f710f75b8f3507fa5ede8739a598cfe8ed844af",
+      "meta.json": "603eeed421d38c12300262d6be91f825588861ca2db334b82c675cd61e795e69",
+      "open.png": "abc208df27ad9981322539e3cec66ed6318302f7f948c8ae474acd5df7943fd6",
+      "opening.png": "eaeddc124065d6a05de9e7f8f713644b6e1bd3fa973a5b24ab134c621a09d925"
+    },
+    "replaces": []
+  }
+]

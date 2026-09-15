@@ -107,9 +107,9 @@
   name: brick wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/brick.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/brick.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/brick.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/brick.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: RCDDeconstructable
     cost: 6
     delay: 8
@@ -141,9 +141,9 @@
   name: brass wall
   components:
   - type: Sprite
-    sprite: Structures/Walls/brass.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/brass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: Structures/Walls/brass.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/brass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: Girder
     node: brassWall
@@ -226,9 +226,9 @@
   name: gold wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/gold.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/gold.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/gold.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/gold.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: Girder
     node: goldWall
@@ -268,9 +268,9 @@
   name: plasma wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/plasma.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plasma.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/plasma.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plasma.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: Girder
     node: plasmaWall
@@ -302,9 +302,9 @@
   suffix: indestructible
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plastitanium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IconSmooth
     key: walls
     base: plastitanium
@@ -346,10 +346,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/plastitanium-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plastitanium_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Icon
-    sprite: Structures/Walls/plastitanium-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plastitanium_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: RadiationBlocker
     resistance: 5
@@ -362,10 +362,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/plastitanium-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plastitanium_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Icon
-    sprite: Structures/Walls/plastitanium-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/plastitanium_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Damageable
     damageModifierSet: PlastitaniumMod
@@ -382,9 +382,9 @@
   name: reinforced wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Structures/Walls/solid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Structures/Walls/solid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: rgeneric
   - type: Construction
     graph: Girder
@@ -439,9 +439,9 @@
   suffix: rusted
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: rgeneric
   - type: Construction
     graph: Girder
@@ -458,10 +458,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/reinforced-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/reinforced_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Icon
-    sprite: Structures/Walls/reinforced-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/reinforced_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Damageable
     damageModifierSet: PlasteelStaticMod
@@ -532,9 +532,9 @@
   name: silver wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/silver.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/silver.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/silver.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/silver.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: Girder
     node: silverWall
@@ -565,10 +565,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/shuttle-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/shuttle_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Icon
-    sprite: Structures/Walls/shuttle-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/shuttle_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Reflect
     reflectProb: 1
@@ -628,9 +628,9 @@
   - type: RadiationBlocker
     resistance: 5
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/shuttle.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/shuttle.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/shuttle.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/shuttle.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Construction
     graph: Girder
@@ -670,13 +670,13 @@
   name: solid wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Structures/Walls/solid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: WallReplacementMarker
   - type: Construction
     graph: Girder
     node: wall
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Structures/Walls/solid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: RCDDeconstructable
     cost: 6
     delay: 8
@@ -705,10 +705,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/solid-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/solid_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Icon
-    sprite: Structures/Walls/solid-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/solid_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Destructible
     thresholds:
@@ -724,9 +724,9 @@
   suffix: rusted
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/solid_rust.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Construction
     graph: Girder
@@ -840,9 +840,9 @@
   name: uranium wall
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/uranium.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/uranium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/uranium.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/uranium.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: Girder
     node: uraniumWall
@@ -881,9 +881,9 @@
   description: The traditional greytide defense.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/wood.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/wood.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: _Lime/Imported/Goob/Structures/Walls/wood.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Structures/Walls/wood.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: Barricade
     node: woodWall
@@ -921,9 +921,9 @@
   - type: Damageable
     damageModifierSet: ThreadMod
   - type: Sprite
-    sprite: Structures/Walls/web.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/web.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: Structures/Walls/web.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/web.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Destructible
     thresholds:
     - trigger:
@@ -972,10 +972,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/mining-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/mining_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Icon
-    sprite: Structures/Walls/mining-diagonal.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/mining_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: state0
   - type: Damageable
     damageModifierSet: SteelStaticMod

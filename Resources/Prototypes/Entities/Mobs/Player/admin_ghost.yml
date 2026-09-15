@@ -122,7 +122,7 @@
     keywords: [ "AI", "console", "interface" ]
     priority: -10
   - type: Sprite
-    sprite: Structures/Machines/parts.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: box_0
       map: ["enum.ActionVisuals.Icon"]

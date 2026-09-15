@@ -10,13 +10,13 @@
   description: A horn off of a bicycle.
   components:
   - type: Sprite
-    sprite: Objects/Fun/bikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Fun/bikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Tiny
   - type: Clothing
-    sprite: Objects/Fun/bikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     slots: [Belt]
     quickEquip: false
   - type: UseDelay
@@ -57,13 +57,13 @@
   components:
   - type: UseDelay
   - type: Sprite
-    sprite: Objects/Fun/cluwnehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/cluwnehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Fun/cluwnehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/cluwnehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Tiny
   - type: Clothing
-    sprite: Objects/Fun/cluwnehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/cluwnehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     slots: [Belt]
     quickEquip: false
   - type: Tag
@@ -98,13 +98,13 @@
   categories: [ DoNotMap ]
   components:
   - type: Sprite
-    sprite: Objects/Fun/goldbikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/goldbikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Fun/goldbikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/goldbikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Tiny
   - type: Clothing
-    sprite: Objects/Fun/goldbikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/goldbikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     slots: [Belt]
   - type: Prayable
   - type: StaticPrice
@@ -122,13 +122,13 @@
   description: An air horn made from bananium.
   components:
   - type: Sprite
-    sprite: Objects/Fun/bananiumhorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bananiumhorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: Objects/Fun/bananiumhorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bananiumhorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Small
   - type: Clothing
-    sprite: Objects/Fun/bananiumhorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bananiumhorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     slots: [Belt]
     quickEquip: false
   - type: UseDelay

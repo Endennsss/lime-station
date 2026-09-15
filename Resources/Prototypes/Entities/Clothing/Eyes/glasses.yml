@@ -93,9 +93,9 @@
   description: A pair of yellow tinted folding glasses. You never asked for these.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/jensen.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/jensen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/jensen.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/jensen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -123,9 +123,9 @@
   description: A must for every self-respecting undercover agent.
   components:
   - type: Sprite
-    sprite: Clothing/Eyes/Glasses/outlawglasses.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/outlawglasses.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Eyes/Glasses/outlawglasses.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/outlawglasses.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: VisionCorrection
   - type: IdentityBlocker
   - type: StaticPrice
@@ -276,9 +276,9 @@
   description: An advanced visor protecting a ninja's eyes from flashing lights.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Eyes/Glasses/ninjavisor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: FlashImmunity
 
 - type: entity

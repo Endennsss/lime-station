@@ -20,10 +20,10 @@
   name: brown briefcase
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Briefcases/briefcase_brown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: BriefcaseBrown

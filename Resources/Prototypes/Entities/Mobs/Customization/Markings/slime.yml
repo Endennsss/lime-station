@@ -3,7 +3,7 @@
   bodyPart: LArm
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_l_arm
 
 - type: marking
@@ -11,7 +11,7 @@
   bodyPart: RArm
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_r_arm
 
 - type: marking
@@ -19,7 +19,7 @@
   bodyPart: LLeg
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_l_leg
 
 - type: marking
@@ -27,7 +27,7 @@
   bodyPart: RLeg
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_r_leg
 
 - type: marking
@@ -35,7 +35,7 @@
   bodyPart: LFoot
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_l_foot
 
 - type: marking
@@ -43,7 +43,7 @@
   bodyPart: RFoot
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_r_foot
 
 - type: marking
@@ -51,7 +51,7 @@
   bodyPart: LHand
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_l_hand
 
 - type: marking
@@ -59,5 +59,5 @@
   bodyPart: RHand
   groupWhitelist: [Slime]
   sprites:
-  - sprite: Mobs/Customization/slime_parts.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Customization/slime_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: gradient_r_hand

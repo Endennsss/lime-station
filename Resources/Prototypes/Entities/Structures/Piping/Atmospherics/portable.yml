@@ -110,7 +110,7 @@
   - type: ApcPowerReceiver
     powerDisabled: true #starts off
   - type: Sprite
-    sprite: Structures/Piping/Atmospherics/Portable/portable_sheater.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Piping/Atmospherics/Portable/portable_sheater.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     noRot: true
     layers:
     - state: sheaterOff

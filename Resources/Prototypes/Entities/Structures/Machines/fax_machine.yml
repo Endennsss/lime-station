@@ -5,7 +5,7 @@
   description: Bluespace technologies on the application of bureaucracy.
   components:
   - type: Sprite
-    sprite: Structures/Machines/fax_machine.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/fax_machine.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     drawdepth: SmallObjects
     layers:
     - state: icon
@@ -17,7 +17,7 @@
     - state:
       map: [ "enum.FaxMachineVisuals.VisualState" ]
   - type: Icon
-    sprite: Structures/Machines/fax_machine.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/fax_machine.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Appearance
   - type: Physics

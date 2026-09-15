@@ -12,7 +12,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -32,7 +32,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -46,7 +46,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_engineering
   - type: RandomSpawner
     prototypes:
@@ -60,7 +60,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -74,7 +74,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -88,7 +88,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_security
   - type: RandomSpawner
     prototypes:
@@ -102,7 +102,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_science
   - type: RandomSpawner
     prototypes:
@@ -116,7 +116,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_cargo
   - type: RandomSpawner
     prototypes:
@@ -132,7 +132,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_security
   - type: RandomSpawner
     prototypes:
@@ -152,7 +152,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_security
   - type: RandomSpawner
     prototypes:
@@ -166,7 +166,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_security
   - type: RandomSpawner
     prototypes:
@@ -180,7 +180,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_security
   - type: RandomSpawner
     prototypes:
@@ -194,7 +194,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_security
   - type: RandomSpawner
     prototypes:
@@ -210,7 +210,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_cargo
   - type: RandomSpawner
     prototypes:
@@ -228,7 +228,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_cargo
   - type: RandomSpawner
     prototypes:
@@ -242,7 +242,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_cargo
   - type: RandomSpawner
     prototypes:
@@ -258,7 +258,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_engineering
   - type: RandomSpawner
     prototypes:
@@ -277,7 +277,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_engineering
   - type: RandomSpawner
     prototypes:
@@ -291,7 +291,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_engineering
   - type: RandomSpawner
     prototypes:
@@ -305,7 +305,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_engineering
   - type: RandomSpawner
     prototypes:
@@ -321,7 +321,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -345,7 +345,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -359,7 +359,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -373,7 +373,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -387,7 +387,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -401,7 +401,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -415,7 +415,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -429,7 +429,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -443,7 +443,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_medical
   - type: RandomSpawner
     prototypes:
@@ -459,7 +459,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_science
   - type: RandomSpawner
     prototypes:
@@ -477,7 +477,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_science
   - type: RandomSpawner
     prototypes:
@@ -491,7 +491,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_science
   - type: RandomSpawner
     prototypes:
@@ -507,7 +507,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -537,7 +537,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -551,7 +551,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -565,7 +565,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -579,7 +579,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -593,7 +593,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -607,7 +607,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -621,7 +621,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -635,7 +635,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -649,7 +649,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -663,7 +663,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -677,7 +677,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -691,7 +691,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -705,7 +705,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -719,7 +719,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -733,7 +733,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -747,7 +747,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -761,7 +761,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -781,7 +781,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -809,7 +809,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_cargo
   - type: RandomSpawner
     prototypes:
@@ -834,7 +834,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: RandomSpawner
     prototypes:
@@ -889,7 +889,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner
   - type: ConditionalSpawner
     prototypes:
@@ -950,7 +950,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_syndicate
   - type: RandomSpawner
     prototypes:
@@ -964,7 +964,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_syndicate
   - type: RandomSpawner
     prototypes:
@@ -978,7 +978,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner_syndicate
   - type: RandomSpawner
     prototypes:
@@ -993,7 +993,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner-red
   - type: RandomSpawner
     prototypes:
@@ -1008,7 +1008,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner-red
   - type: RandomSpawner
     prototypes:
@@ -1024,7 +1024,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner-yellow
   - type: RandomSpawner
     prototypes:
@@ -1038,7 +1038,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Structures/Decoration/banner.rsi
+      - sprite: _Lime/Imported/Monolith/NF/Structures/Decoration/banner.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: banner-yellow
   - type: RandomSpawner
     prototypes:

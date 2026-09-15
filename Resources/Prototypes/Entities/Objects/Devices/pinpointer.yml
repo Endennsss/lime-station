@@ -9,7 +9,7 @@
     noRot: True
   - type: Sprite
     noRot: True
-    sprite: Objects/Devices/pinpointer.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: pinpointer
       map: ["enum.PinpointerLayers.Base"]
@@ -18,10 +18,10 @@
       shader: unshaded
       visible: false
   - type: Icon
-    sprite: Objects/Devices/pinpointer.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: pinpointer
   - type: Item
-    sprite: Objects/Devices/pinpointer.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     inhandVisuals:
       left:
       - state: inhand-left-base
@@ -205,7 +205,7 @@
   description: A piece of a core pinpointer. You need four pieces to repair it.
   components:
   - type: Sprite
-    sprite: Objects/Devices/pinpointer.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: pinpointer-xenoborg-piece-1
       map: [ "base" ]

@@ -16,7 +16,7 @@
   description: A pompous and comfy blue cloak with a nice gold trim, while not particularly valuable as your other possessions, it sure is fancy.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -27,7 +27,7 @@
   description: An exquisite dark and red cloak fitting for those who can assert dominance over wrongdoers. Take a stab at being civil in prosecution!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Neck/Cloaks/hos.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/hos.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -82,7 +82,7 @@
   description: A blue cloak with red shoulders and gold buttons, proving you are the gatekeeper to any airlock on the station.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Neck/Cloaks/hop.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/hop.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -111,7 +111,7 @@
   description: A lavish and decorated cloak for special occasions.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Neck/Cloaks/capcloakformal.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/capcloakformal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: StealTarget
     stealGroup: HeadCloak
 

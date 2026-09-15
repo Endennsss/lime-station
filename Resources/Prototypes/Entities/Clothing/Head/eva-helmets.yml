@@ -79,7 +79,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/paramedhelm.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Hardsuits/paramedhelm.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
     - state: light-overlay

@@ -1,0 +1,1151 @@
+[
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Launchers/grappling_gun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Launchers/grappling_gun.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/456cd10d94084c7c2574f628cf7ac9b67087ba26. Recolored, adjusted, and inhands created by EmoGarbage404",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-unshaded-off.png": "d77e4d0603f4803213a6a48f4bd8a74d76a1c290e0f4a8efc7409f457e4fa312",
+      "base-unshaded.png": "7ecad65ad1f9b58143f1a4f901dcc63c0808e5acc4c6ca83325e0589c4e011e0",
+      "base.png": "1685b97f1e5d510077b8406d51d4558a4dde749280e142afabb498eaf0445c38",
+      "hook.png": "213c1431c0142f1c97cceac1954c804c7aa96d1b3e523178091923b67ee3c356",
+      "inhand-left.png": "ac16510b2ad6cc841ccf4ce176eb3147b1df76374e83d22e461b102f68e1fddb",
+      "inhand-right.png": "f805206da06eeca42dbd86104c92c2a1a7876ab2ab03260ce8ea0c3330548f93",
+      "meta.json": "0d9e3749575029100ce1160c9163bc5bdcba99b6d134cf7db6ad3b1baf8cf016",
+      "rope.png": "2f9e2e183e8eff8440624a4405bb05b12397af3a5a58a2702f6cc5efd40cf4da"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Launchers/grappling_gun.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/LMGs/l6.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/LMGs/l6.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/237d8f7894617007d75c71d5d9feb4354c78debd/icons/obj/guns/lmg.dmi, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "d9aab8265666ff308a41ade1f13d811d817db1cc4dd74a015e53a883c29b7291",
+      "bolt-open.png": "cfdd25d1d6418d76c33db6ef4d5598db5a4d8a399502737a91f4375c4f69a313",
+      "equipped-BACKPACK.png": "2d5bec08f8d9aff5f238c111488f73178dbb8cd2a819e35dfbc298bee211625d",
+      "equipped-SUITSTORAGE.png": "2d5bec08f8d9aff5f238c111488f73178dbb8cd2a819e35dfbc298bee211625d",
+      "icon.png": "5ac93c5425ea21c29e52a21df294aaaf5b50ee62537dc98855bd5720c1151373",
+      "inhand-left.png": "9a4d81d171ddeabd5ddf412aa9375c8cedd164f20c395b1ddb8d6ab1eca2130f",
+      "inhand-right.png": "711a630abf82fe43c8bc9c12901fc3acfcec793d0a5013d630035d7ead550ce0",
+      "mag-0.png": "e0e2cfc9a293cf56e64ba4cd8fa8b07209db390177f7eb5f3e89e78d682a56b7",
+      "mag-1.png": "4c6923c9e3ec79289f06afc4030f3fd5baa2d9e84c6846bc6ad7acdeecb7020d",
+      "mag-2.png": "b5a4e9bce23b71291676003b8ddcb804be630415db0e82c583497b3d7ad38b63",
+      "mag-3.png": "48f1c7ab64051167f83dc16149a357b5399a36e3c2f3d87cd531e1786b596d30",
+      "meta.json": "fc1f7c90d10620109759c8af2ebee22d3e0cc2df57b6bcca0019171d66b590d8",
+      "wielded-inhand-left.png": "c3c2d2d84522d96ab7e9cef3444169a30702e98a77d9d9b310d1d03e70331a3b",
+      "wielded-inhand-right.png": "0d2f564e2a4c5633f1d5e39f580b221c82122c4b47be15b11518437ba7ab3298"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/LMGs/l6.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Pistols/cobra.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/cobra.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from pireamaineach at https://github.com/tgstation/tgstation/pull/43407/commits/b92e11e94466be5bcb465b781decf83764401ac1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "d9074c1367201bb507089b7ac6ffedb47d644c96589e2eacfe868ff142b7dcc2",
+      "equipped-BELT.png": "30beb627af1cf4e8c4a12dd0467babd86b05a2993afb1e69d83b738274daade1",
+      "equipped-SUITSTORAGE.png": "30beb627af1cf4e8c4a12dd0467babd86b05a2993afb1e69d83b738274daade1",
+      "icon.png": "cae431262a5a9a8247929f8cec03a85b7b5eb9770c3ad47bb16d40af9991b9a7",
+      "inhand-left.png": "27c03f36ff92225e341e3511b20e31202fe300351dcdd6f8e84ab4f80afed890",
+      "inhand-right.png": "ecedaf57e69422d43dbd79766e72ce4cddcffea077e7572fc5510115ccdf8687",
+      "mag-0.png": "7479d6dfa1b1a875b8e60126e781a0a2b02e1e61db29160ee2a3d79feb61600c",
+      "meta.json": "ff85c4e524fe82c3e47df2314fd5e877f7c4d52f29c1e7667e6b923fc0f66f39"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Pistols/cobra.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Pistols/mk32.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/mk32.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from desertrose at https://github.com/DesertRose2/desertrose/commit/120961e254d7f83a6e00a02c76e734f9e5019345, https://github.com/DesertRose2/desertrose/blob/master/icons/obj/guns/projectile.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "f997e7ecc262a6c0de2cf1eb4a284b8d741d56420054d94432ff0f8ce25efd7c",
+      "bolt-open.png": "c822a71258869052b3cc62aee51669df89d8f6a7798a9acfb4c42e5f5080fee9",
+      "equipped-BELT.png": "e254d056a1cf86fdd692cfea64466ea32da2a78b5fafa373c25a1fd16dd87c9b",
+      "equipped-SUITSTORAGE.png": "e254d056a1cf86fdd692cfea64466ea32da2a78b5fafa373c25a1fd16dd87c9b",
+      "icon.png": "5ae36c40917d5ac3ce7576404ee7d2ec496ba4ffdfae66ee3542900098332b8e",
+      "inhand-left.png": "591030e562b0f5f2f4cc4cbb49f325c9bd2fede0010df2a9a7b7fe26da4e1be4",
+      "inhand-right.png": "473a9b9efc4f6b4765be591cb9f9e70564cb822cc9f39ce731979961b92cc4f0",
+      "mag-0.png": "62faf1fcae9ab42a7cb1089bfcdfcc0b03b8cdd8a7dfeab42bba589f6575d2cc",
+      "meta.json": "4c2f6ad1aec858494c28aa031ad6eb47f25cea374c265ac2da8e5d9e1b211d22"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Pistols/mk58.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/mk58.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Original work by TJohnson. Suppressed & LAM state by _starch_ (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "c8bc0cc8d29c1b880f3a592d4ee2081efd31eeabed01464a144bb96b38446f05",
+      "bolt-open.png": "75eba4af92c6f5a7d4f90c0a79a68719566dd7ece578b7685f0ae3c46d93cfa2",
+      "equipped-BELT.png": "6615082e36910759328a27ea7416fda45f9e6f16dec8e1a2cce41b64ddd27582",
+      "equipped-SUITSTORAGE.png": "92b8cfc38607a7424fd11cae028abbbbea03ac26460779a8e4643307ede417c8",
+      "icon.png": "5e2740c88f7fa6212fb5c0a6da67dbb9559c8cc6d88a595f0a6c341afe4b2552",
+      "inhand-left.png": "59c7538cfcfc958b2403786c00d5ea1b163b2305bc1c3998c13b171d8e7a429c",
+      "inhand-right.png": "d88cdc23f707dd18884157fcec7c2f8f8a9d3cd1205e88280ea7b47f50cf51f5",
+      "lam.png": "5e3db3cf146b14b335611c1dfb954d90e8f9f0b05f8f7f30193169fe9693eb9c",
+      "mag-0.png": "bcfc36688cb0985551bff50426add0429e7e497699707e3e5fdee80cb370af01",
+      "meta.json": "a5c24e3497a11fae389e8ed468ac61ed1a46694a8428ba5675aa1095d8150437",
+      "suppressed.png": "8c577fcbc433dc05480f0d4eea9e3c3c635fe7a9cb942540c9a35ebd5dd283b8"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Pistols/mk58.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Pistols/viper.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/viper.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from tgstation at https://github.com/tgstation/tgstation/pull/41804/commits/1baf679a544505960cebd071425f1df60669cdf3. Attachment states by _starch_ (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "cc8d29a4f28baaf40c79e4346622e3a73cb192436b91d5d4f1d41fae8b23e4c2",
+      "bolt-open.png": "f253689ba2150f546692bb007251d9ec776e1fbacca4229c1af3642918fd9400",
+      "equipped-BELT.png": "30beb627af1cf4e8c4a12dd0467babd86b05a2993afb1e69d83b738274daade1",
+      "equipped-SUITSTORAGE.png": "30beb627af1cf4e8c4a12dd0467babd86b05a2993afb1e69d83b738274daade1",
+      "icon.png": "78147e9bf0098aa7082255e3c09175eee4da7e2a42e346189e50ef16ebc7b523",
+      "inhand-left.png": "8ec637d71d0eb84805bc49473ac0a490bd02b2f4f058917c06759af0253398a0",
+      "inhand-right.png": "66dfa07931e024c26f3f99e2a00f512c8c154a0007d56c5d93309de02d816911",
+      "lam.png": "7916b57f0815d9826ea05178bee9cfcb25bb292a1974d1bcbdf6b9a802037dc8",
+      "mag-0.png": "f8967f7f2bb642981683de6fa59fdd6b8f04a898dcf6fc7453af2b8219a1ff37",
+      "meta.json": "0c5e3aa56579f52744a974a4b4226c78dadffe247b31ad1a59e2e89530010e23",
+      "suppressed.png": "26d3a7d6f4d859dc3534b01a91f2615117b325649bdb30faf07992463eebdf6e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Projectiles/magic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Tgstation at https://github.com/tgstation/tgstation/commit/906fb0682bab6a0975b45036001c54f021f58ae7",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "arcane_barrage.png": "53631d1abc28cffd97e60fd62b8829b64aa82a558ea98f51a9bf3302b9ea87b3",
+      "blastwave.png": "92f105dae3cc4080c1ab9de1a6f7a089ca3f4b8586fbbf15af1ed319fd3a92d9",
+      "bluespace.png": "642227e340bf8d2d4184b2fe27ab1aef77c9d9c148abd510790097d2d08f6dc1",
+      "chronobolt.png": "ca6c05582511d1bdb052affa1ed42871e442e2cb430556c61363f0dcb729cabe",
+      "cryoshot.png": "adf2807c53de2dd4c0d1f6ab51c605f280cb30686fc12a880166f8b0ab8cd01a",
+      "declone.png": "222d0ec3bca7e5924236da73252a7ddad415eeadc2f15e31fa0d71dc4dd73185",
+      "emp_projectile.png": "d847d32a371f675c703248e90b7b8894ee918d06af0285f9b52ffefc1c8019ad",
+      "fireball.png": "78aeb8eb8acc1d208c394fd742aa4231e96d4595647adf2713af742c1b261845",
+      "ice.png": "1072853155c5b4a6ed4091fe7285725a87c13862ecca3b1be1c8f265bdb190f1",
+      "infernoshot.png": "fd2e297896b66085437d69d88140842b195ed5c3f3beaaba3e186840f43978c8",
+      "magicm.png": "067063015d4792f60595c80a42ff8bd783028aa1c459621838eeab9df6718fb5",
+      "magicm_cyan.png": "53bcc876f8131219926ad0f748613fd8d694c869d4a55c79b512a72d8063c1d6",
+      "magicm_green.png": "9d23795339369833a5d5774f2387ab2c8bd667e5e930552ad5cc307d1c78402e",
+      "magicm_red.png": "c1238ce205379315fc3272673739e50c37c2159d87931e925a9f9ddd1d3ec4d1",
+      "magicm_yellow.png": "edbb666416c62848eef80ef01b4aebaf2f78dfcc839ae4dba36df40859e0a179",
+      "meta.json": "2fae32787259d9fa80b2487d0b5a0e158dd9a1bc71d194af08cbe8bbb30f353d",
+      "spell.png": "2d50c4819a7af211bea04ce2955364f40fd8aca2798caf5aeda89227a76f7198",
+      "spellcard.png": "86fbdc9b95927078fe09fb50020fdcbace09e8bae05a090f13782e54af634e45"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Projectiles/magic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Projectiles/projectiles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/projectiles.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken and modified from cev-eris at https://github.com/discordia-space/CEV-Eris/tree/7ff8f28ea4de734f3cc3cb70f2d4e4b4263a988d",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "beam.png": "06ebcb809d664cf16078af0d1e31084f153b80b530460724ee84a7f960684846",
+      "beam_blue.png": "518fa489f5880e16d73f3eeb1dbb12a1c1638fb88433a985838920eb13a20f72",
+      "beam_heavy.png": "d53b78cf17beec8e751a9f848077a00743904193557b08c1dd5a8887107ce534",
+      "beam_heavy2.png": "b6759f993801c5935016dec984d6885baa5ef00b43866caffefb8d439eacfba4",
+      "beam_omni.png": "c67d1f8023cc3680c185e53bb1a5034431fdff36a050984d6c72653dc8d29948",
+      "bolt.png": "50dadb8130d23c22ed99a1017f7d1d057d2fa855e76da58cb93a76482931f93f",
+      "impact_beam_heavy.png": "c997a0a9ad73906b291c32142584c2ad9d3286527f6494eb2bdbe05ba13f5fd2",
+      "impact_beam_heavy2.png": "2f3a7577e8e813c144c3d9036ec7a5eb8b9e60f1fca3ca8db9a0fd46740f859e",
+      "impact_blue.png": "da47d5381be22c8a42997ddd94479a6e6fcb028eeb3d900fcaca68813f4cfe80",
+      "impact_laser.png": "23294b4bceb5639f16fa3f10c2cf37707318ccae06ed18589408625885ef88f0",
+      "impact_omni.png": "b524ad2561ed88aaf690a81781b38cd7b71d8c4f282665fec0c956350bf5256c",
+      "impact_u_laser.png": "54ac798377c41233a34ee2d4cecacbdc25bfcec7234300c2cd0b036ce75afba2",
+      "impact_xray.png": "2911291277260463a688c3ecd6204097650844e9db3ba17aa1cab833caa91fa7",
+      "meta.json": "3dc009c632ff74b86d5463cd72d1c0d0f41343f6abb405028c04a671d8a85ab6",
+      "muzzle_beam_heavy.png": "0b0e232f2eb861ac23cec56cd846572452a39938fd06f0b3e710eb081726b554",
+      "muzzle_beam_heavy2.png": "69718760a9a5b6001464b74fd3eb1726bde75f60218d7ad5e7789a823e431f42",
+      "muzzle_blue.png": "0ded3c88d834181a5656323da72d830e686bdf4e83062e4c4a53e2dfd0853f65",
+      "muzzle_bullet.png": "23089b784fb600ef035cff2612b3b23b24ef079981580b6fd351c227a1b72626",
+      "muzzle_laser.png": "675792dff944c2207ea94357e40da2563fd1f8b3a61f320b4c9542788e57686e",
+      "muzzle_omni.png": "5ef90d01ca2be97eb1f27577abc45cd9301d6ff53706df8499fa92546490e745",
+      "muzzle_u_laser.png": "5c21de45def7f0292d10d611df8a6b335fe7da9c643eb7ef71d92ec7a0d5bcbc",
+      "muzzle_xray.png": "f0a1b8ffc19ddbbbb36c75a7f9b571c82e2356e8569202c546da949d0200cae2",
+      "u_laser.png": "6c0c415791191cf2af082bd64c1bd736ba75342e23c16cdbafbbdd789a149157",
+      "xray.png": "337c3bfab73b8e4587c127ee050aa45bc99daa16f7b7e153abbf8cf2e46ad642"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Projectiles/projectiles2.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/projectiles2.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/56cbafd6ad8c013ccd5472d6c4a0db790f7f872a, ball made by brainfood1183 (Github) for ss14, the uranium sprite is a modified version of the buckshot pellet by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ball.png": "3dd0ab22f964af47ea052cbcd412f0cb7e0951a4ae7531fdd71a94f3bcec1fc9",
+      "buckshot-flare.png": "9243a55ec3ead9b9e17e996e42e7d19aeced547d1c3fa06b94c8d2622e50ba09",
+      "buckshot.png": "f596eeb06f09ffb6c0825afbfd0c2590c2fbf56f4544c490011d8734905b973c",
+      "bullet.png": "3074fafe11099276d62fb74314fd592e844e62aec10d4a29998fc69fb20a5fc0",
+      "depleted-uranium.png": "75e9647be887e2668290bd9e6c908b41f3e20524321aacd27674caf09b1834f0",
+      "frag.png": "b2d7ccdc994b8b04377719c6b2fcdc29e88d436f3026de4b37937f0f38b0e93e",
+      "grapeshot.png": "f714a1c1b31bc753d395d0b3a045beafdb908ef57e5c16cc4c84667491b3ddeb",
+      "grenade.png": "a5862b7b1a528f88556e2092307e3e355fc6376045296da611149f43bd9f6d70",
+      "meta.json": "2e0ce096377c08aabbc3e9d6c807ada2e5f1c2f0700d6410e016c8ea4d90ea3c",
+      "piercing.png": "05bad94959bed7d9b8490b58239955a4dab557c6c3b9501718d55385af3a6096",
+      "practice.png": "91d2abc0f483f284f33e7dd3a4f70741acb0593bb9e0fb3c5f34db653b7d61ed",
+      "rubber.png": "86cf401fab03cebc635e16eae9ead30dbf35e74b62b5f154085b4ed0c208fa15",
+      "shard.png": "e842d7754616216078701a8b02e0b016d1e8daca8f63914f0bbc6a0a457f2947",
+      "slug.png": "01480aa28bdb997cca8b3ba9e69b31224a90fcc99a71641e9ea9735f6891fa6e",
+      "smallfrag.png": "7cb4140f510d355083ac350ea53b261e2b0655e8a96a06555aadd916b2a3bfb7",
+      "spark.png": "3a07631a95a6505cece2e428330473c4bf39aa7aade15b1be3494cf02c4dc1c6",
+      "uranium.png": "17dbb910600babf6249a6ded9858904d0cefbfd503a637f87932a6a9262e6119"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Revolvers/python.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Revolvers/python.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from desertrose at https://github.com/DesertRose2/desertrose/commit/0b8f7b7694a4a814724ba8ed59f695916ce845ce , https://github.com/DesertRose2/desertrose/blob/master/icons/obj/guns/projectile.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "bolt-open.png": "1c0fc50af283225de764a7eeca7a61f6abe5800916ef635d13e540935c22c749",
+      "equipped-BELT.png": "9256933c124e6a7e10e366bdc8fde86a2ea1a7668d6184493e55bc43f9adfbc6",
+      "equipped-SUITSTORAGE.png": "9256933c124e6a7e10e366bdc8fde86a2ea1a7668d6184493e55bc43f9adfbc6",
+      "icon.png": "db8e71ebdaafaa97801021fc8bd602efc7b3d05ab1af3cab5549ad323498fb48",
+      "inhand-left.png": "23b23455c6c25895e605b9d8006fd1f387b9484a656bc58083f60646e7277c89",
+      "inhand-right.png": "cd8c75ae2805e9c6ca12a9ecf4bcbef4f5eaa6a25424907847e5bc63bd551b66",
+      "meta.json": "fa4c8ab894bdbbe83a72b44f48667d5073a356748d759ee36b7b9c6761c8153c"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Revolvers/python.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/carbine.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Rifles/carbine.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Polaris at https://github.com/PolarisSS13/Polaris/commit/ff87150c3dfc387c46db7d1c956abf19ddff7819, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "8de350be5fcfd26624f8ff763a439b48ea80b2ebad68bab0b483da7d137c68be",
+      "bolt-open.png": "973fe2d80850fbe04e5d9b5f6cc25f3931710f9ae75c1ebb961b212ff5b0cfb4",
+      "equipped-BACKPACK.png": "f3e60d5254fd26a1628584dc8a17be729accdd043a2919f89e22edcd84de8d4c",
+      "equipped-SUITSTORAGE.png": "f3e60d5254fd26a1628584dc8a17be729accdd043a2919f89e22edcd84de8d4c",
+      "icon.png": "ed305b7c08ca858ded147878c45e589a3a82d8a546a3d0fbba63b1348100ff6a",
+      "inhand-left.png": "078b6c7797a5580ef233f0c595b470c644fdc908e64465e91489e56e2a261cf6",
+      "inhand-right.png": "038759d841f4c38a61ae22af7fc7f2e7c7cd9ee9dae930c8436a6742890c447c",
+      "mag-0.png": "4f48b1f356b885c812a447c36d612d33dc29569c2e6833dfd55daa835e4d9c2d",
+      "meta.json": "5f6fa4c705f32a116f662495ab2a9bf56aaeebc90bfade680ec688b6abdc65b8"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Weapons/Guns/Rifles/carbine.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/foam_rifle_inhand_64x.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Rifles/foam_rifle_inhand_64x.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from  at commit https://github.com/tgstation/tgstation/commit/f01de25493e2bd2706ef9b0303cb0d7b5e3e471b sprite created from foam force poster by IProduceWidgets (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "inhand-left.png": "c5dc050acf6f4700e574e49eeb3dc0bc716e60c29bb13e9f6bdc03bb2e2fd63a",
+      "inhand-right.png": "603acd08867cd50613ea00b93eb7bb84edd97a74d67aceea8d58d7d245975c96",
+      "meta.json": "4991b76fead227c293c3d7cdfef7adc117daed7b6ecc08e53cf2a2dfe74d916e",
+      "wielded-inhand-left.png": "d9b9e2e3233fddcf0355b550fa01eaafffd757ed63324bd0ecda8a3f76d28771",
+      "wielded-inhand-right.png": "7c5e92867d34054dbd4bc0229c7d62fa274f2e76348d71efef4e36eae63a6cd1"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Weapons/Guns/Rifles/foam_rifle_inhand_64x.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/foam_rifle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Rifles/foam_rifle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from  at commit https://github.com/tgstation/tgstation/commit/f01de25493e2bd2706ef9b0303cb0d7b5e3e471b and modified from the foam force poster by IProduceWidgets (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "bolt-open.png": "3e6b84bca996a6db996e6c528ad9e5310a595c4750431da1342da20424e5c531",
+      "equipped-BACKPACK.png": "bd4f015f2f68ed2309b126a09f849c1778c3ace13a7c39c9d679d9441bf41686",
+      "equipped-SUITSTORAGE.png": "bd4f015f2f68ed2309b126a09f849c1778c3ace13a7c39c9d679d9441bf41686",
+      "icon.png": "389031ce2dd7468e619f939bc6424c24b020dc871c0d8df712429c18711ed3c2",
+      "meta.json": "3e6a09aa817278f8c52a448ea1dfe550b053a14ffa4b991ce5765949d82ca390"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Weapons/Guns/Rifles/foam_rifle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Rifles/lecter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Rifles/lecter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sprite by Emisse (GitHub), all altered sprites by https://github.com/august-sun.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "16dc06c757269487a42bdaa337f70affbd89430465fe4cb780e61b728da9890f",
+      "bolt-open.png": "14415c2e444f04823ea786e0a1a7612c23c717678fbfb50f3adf4deabd4011a8",
+      "equipped-BACKPACK.png": "8cf7079151596e0be58908ee60fc59e1e04220ac212f6b41fc870c0359af782e",
+      "equipped-SUITSTORAGE.png": "8cf7079151596e0be58908ee60fc59e1e04220ac212f6b41fc870c0359af782e",
+      "icon.png": "13d2499786d60ac8f6ab2e8a8b14454e0b353ee5f9613c9dfbf1606272e41be5",
+      "inhand-left.png": "29132ca2dca439f2834f1b2be9163af758692519a2efb547a789e7d68beed5a0",
+      "inhand-right.png": "c3b1ff8ea0af89e427f5d5a53cda47cb618a92d48804161665cc2e3e81e55e2f",
+      "mag-0.png": "0662b4f1ba0b0239de1a69bf4e2c42ba58010e75dd1c0319ecf13ec8208ed064",
+      "meta.json": "67aed9c1727f3e69804872fa9195d6d95deb941ea48968af689eaabd0df3f4f6",
+      "wielded-inhand-left.png": "cb9f7e13cb1edbf1be8c544203473861fbc1147a6ef01f406abdf3de28b6cfe2",
+      "wielded-inhand-right.png": "44bb60c7c2cd9c706bd049c1f071b8fa4f51b8b9b41730e0448ce86f44a765f3"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Weapons/Guns/Rifles/lecter.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/SMGs/c20r.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/c20r.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Icon states made by _starch_ (discord). Inhands/onmob states taken from tgstation at https://github.com/tgstation/tgstation/pull/41804/commits/1baf679a544505960cebd071425f1df60669cdf3, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "2532e53bee96b6901d54d3b2dff6e6e195a9f9abef3763da929f3a2c6bae1ca9",
+      "bolt-open.png": "3db24bb28115adb73ad86647bb167c20b2cfad6208e91d9487568713b4ac6ac3",
+      "equipped-BACKPACK.png": "4171e1fbf5650f25408c120a00ddb7f1ee89ad7cdc7e8e57fbbed9fe223269e1",
+      "equipped-SUITSTORAGE.png": "4171e1fbf5650f25408c120a00ddb7f1ee89ad7cdc7e8e57fbbed9fe223269e1",
+      "icon.png": "7329d92eb3ab966588002ea1c6e90c8145e578f9e3662164da951415c6aacd14",
+      "inhand-left.png": "0414558b1eb3c103be8533919a764f43b68819f5e8eac74665e7131d14a46dee",
+      "inhand-right.png": "8db936af2350ec627e86c84ce0fb7043764c57d6cf16101602b29bc5a1478d17",
+      "mag-0.png": "7c2c58612089d7520849092f0f77e28429053eea5399913c0e3a0572128cd95c",
+      "mag-1.png": "945463a51638c11277d06ac6b6cb610cfcc278a2f33a30909b994465cdc69bb2",
+      "mag-2.png": "728cdf1dd644d94adca536d2c16b217ac66e75dc2cdf873513db0dfca5ccedd5",
+      "mag-3.png": "517d12be293a9a4cbb2441d88992f2320600eb1b66297a211b984cdfe2857a70",
+      "mag-4.png": "be6968878b75b465292205e3ac7026dbc44012b2f6876e0366338f42f691810f",
+      "mag-5.png": "21073539fd00be8d07f858517fdc5bb65c4fd48528d67f8b6fa405d7a4eff07c",
+      "meta.json": "cc9ca12a94d16631d5a2a3888489704ba4d1973fa27a33defe7fff630f1c2f42",
+      "suppressor.png": "c0af27b793fb24fcca4956f71a2b8305ec568770bdf0311a93a9377abc787ef8",
+      "wielded-inhand-left.png": "0742b70349f62ca89726462c3643846d3335f63da95efad3d0c2fcf464f96037",
+      "wielded-inhand-right.png": "4444b2b69639a85fbd85ac6729de63c7fea6164cc03e9755a9ce858764bbb9fd"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/SMGs/c20r.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/SMGs/drozd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/drozd.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/56cbafd6ad8c013ccd5472d6c4a0db790f7f872a/icons/obj/guns/projectile/drozd.dmi, sprite modification by Jaсkal 298/TaralGit, backpack sling sprite edited by Boaz1111, wield sprites by RiceMar1244, all sprites minus suppressor heavily edited by Emisse for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "079f2e88b0839bfe4851f56c7a062b06b59c3cf4da62cedc7f28e330d2ce9a30",
+      "bolt-open.png": "5b1adb422409b872604bd84402f8e90470932d1f757a3fd7646647769548e12c",
+      "equipped-BACKPACK.png": "aecbcb90114719e169058e80daa592e64809c93b52787ccde70d5f8aedf75b43",
+      "equipped-SUITSTORAGE.png": "aecbcb90114719e169058e80daa592e64809c93b52787ccde70d5f8aedf75b43",
+      "icon.png": "086f0ec9405c3eec922b649c12cfeae4195f72b4cafac5918b907cd0a9599282",
+      "inhand-left.png": "569f7e0cb94ca4c97c485a2e8c3502b2d106df828c1d03cf0c1a68a4f77f70da",
+      "inhand-right.png": "f3887121d0d20319ff5bbb3f5c96d6cc6177a33896fb16a54c2a4770dbb8676b",
+      "mag-0.png": "14a92a05c53f1bc1b9d434e80e2ef1100e215c07e425a68639b50df5bae628a4",
+      "meta.json": "3cd083130136fb93a9404549e9a965890bf2f6a71cae2e05fda40a756b094e95",
+      "suppressor.png": "18c6b9a3dd9f108ab457ecc38c4d4e040392dc4633b9a480aabd2f11c1a33ca0",
+      "wielded-inhand-left.png": "a6592820d3f7d0b2ff381235c5e1b963d3730a877a9c51224a64a4f13c44c6e1",
+      "wielded-inhand-right.png": "1e16a099e9cbaad957569ebc99bc88a11bcc6098e89f7425cbd74e018cca7eb0"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Weapons/Guns/SMGs/drozd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/SMGs/wt550.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/wt550.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/e1a3cbe9ba2e6e29b7f1cad1bb456b390aac936d/icons/obj/guns/projectile.dmi, backpack sprite by Peptide (copy of Atreides), and sprite modification by Jaсkal 298, backpack sling sprite edited by Boaz1111",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-unshaded.png": "38c3891f7a5be3253b5391d525689766fceb729df4d433f1a8b5728d9227f6b8",
+      "base.png": "7c7c11e1b9479247883ca7eb4248d40578ed481650211bea77375745a179d727",
+      "equipped-BACKPACK.png": "d89bd0194c8ee061d443836cf26b06621814eeddd59a250152665067e2b517e3",
+      "equipped-SUITSTORAGE.png": "d89bd0194c8ee061d443836cf26b06621814eeddd59a250152665067e2b517e3",
+      "icon.png": "cf2cc8b89e5660a546498b399ba63f6cb6fd0ff74d593dfbdfb3d55c1756a672",
+      "inhand-left.png": "32f9eda3ae429d18f16d92b37e0f0ce94629ecd525915946a91addb69edb906e",
+      "inhand-right.png": "8597acd70818c9fef6d186fa00f838f803606c3bce1ffc9c5bc43f04210e4d4b",
+      "mag-0.png": "85e0d9a4d8fd8bff1f06c2ccba5c43e8515cafde9ec6a4ff7749ddc8870bdb70",
+      "mag-1.png": "0e6759d6e874eafb01a01b37015c77a29c0357a97929bdab64e768e42191a720",
+      "mag-2.png": "950ac4e2b3b1809372038becba600409efc60c3e1b31e8754e910a7549dd14ce",
+      "mag-3.png": "984c7adac1354a56dd97a5fc44062f893e533d467bb27c3ce9e159abbb0ac21e",
+      "mag-4.png": "3b1a5e592bd4ebf5725e88e880693ff3bf74f04f4107402b2826fa62116be837",
+      "mag-5.png": "61945f208c2af5ea37cc09894c30af22d57721f0a9e1294ba12b5611ef438caf",
+      "mag-unshaded-0.png": "7c5c02fa43a447204b901bd2aedcfdff1eb97c9437f0dbac0dd1e5936970bda4",
+      "mag-unshaded-1.png": "6ac5306a6a5e91ec21a39ba3bfb537842e67ebee5acc4883688e9e30758f0d1e",
+      "mag-unshaded-2.png": "97c810437609b8fc445fa2c581b6ac8f9780d683be1a38eb479ca2adcfbea770",
+      "mag-unshaded-3.png": "52068405df448aa9295129f90f021d05357235c8ac7aa20e31ba8e9e4df5817f",
+      "mag-unshaded-4.png": "2f2a27fc0fa26a77a312f33126c1c1e51d85b53e4ed745fbf50078e9748dba56",
+      "mag-unshaded-5.png": "31205c1e18c97a3a782400d9fdab9c78d7d8d2f7f6302f282b8168888e7f03c1",
+      "meta.json": "08bef049837a2e428c87fd5256c061d5f7d847bf415a57d9285a0108ecf0534c"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/SMGs/wt550.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Snipers/hristov.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Snipers/hristov.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/13612/commits/c1cf3c42b0cd00023937e46845a7c32d6beefa0e, backpack sling sprite edited by Boaz1111, wield sprites by RiceMar1244",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "d2bf14a75b50c37a2ebb09ec20d76a2d1f78c55c9ef31bb4887028e309aff8c0",
+      "bolt-open.png": "e21ce9f52b245e7516d04bb1a8bc4bd196a7e2bbd6f38ecc9ef57a29e0766e2d",
+      "equipped-BACKPACK.png": "bd093819eeafec07128b111ab7a401f5ae95026890ad3dc26cbd2f2b34f979e7",
+      "equipped-SUITSTORAGE.png": "bd093819eeafec07128b111ab7a401f5ae95026890ad3dc26cbd2f2b34f979e7",
+      "inhand-left.png": "42ad9dae43d19cd35f96ded45e39a8569fa97d38b232773d0aa5d9aa411af6dd",
+      "inhand-right.png": "38517b794c3060f2113e6ba2286a3806fdc4c9357044fb926d98064dbc31bf85",
+      "meta.json": "a334cb387e7fe79a5ba096e5bc20cbaf1a1a0b61caa291fee78790492bedacb3",
+      "wielded-inhand-left.png": "435728f8d5fd1831a45680a12a9068f208ea6e0e6627bcca4f3b242e58272df6",
+      "wielded-inhand-right.png": "921ea028215efecd78b47289ee930c153359525924788cb2ece7369d0dc72296"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Melee/e_shield.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Melee/e_shield.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadel station 13 at https://github.com/Citadel-Station-13/Citadel-Station-13/commit/84223c65f5caf667a84f3c0f49bc2a41cdc6c4e3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "eshield-icon.png": "8640d632e789ec86efe2158eb9739320aa88b2e557abd2529a3d6e884cc2d13e",
+      "eshield-inhand-left.png": "6957f09d359b1a16db48f490d82cf2232d3913fcbd8d26c5d3fe96b4763b8923",
+      "eshield-inhand-right.png": "13010c11a8a641cd282e47ec53d2f3d6bb6e2840d53765bbbef17212ae51e816",
+      "eshield-on.png": "825849c1b06ad3f8864e1cd5b524e407f7f7e8d3a7bfc3178a45fbd9a5559a5a",
+      "inhand-left-shield.png": "8febd1f4979c0a57d5ef079c864ba9455e895b99a0a08e4d367ae0d49af52b1b",
+      "inhand-right-shield.png": "c3948b52094c00281af54a79850f30ec5e06229c47747dfafbe04e57953a989c",
+      "meta.json": "36a07972f04f6fea13b598056ff637e2917dcab257723d9291c3b0955fc7c075"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/e_shield.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Melee/stunbaton.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Melee/stunbaton.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/commit/1cdfb0230cc96d0ba751fa002d04f8aa2f25ad7d",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "988111e643e917f35df52a670a3f219666c3659aaec3a9a0ab513884a8b8df2e",
+      "meta.json": "bb2a8015ef30e7d86208809093ffde8f649f8a5f8d539a8164d06388bcfc2ab2",
+      "off-inhand-left.png": "752f846352c4dcf1c0dab23016a6a9131201642ab5a14ef33e8e39a8d0779f99",
+      "off-inhand-right.png": "fb026ca607ac976ff9b2de8528e2333c8dca1bc4037708fa7198a035a5e531f4",
+      "on-inhand-left.png": "3681fb113ee4dd07b3a00951feeec68012a524de4b3f170b2084bc6091bf5e9f",
+      "on-inhand-right.png": "32bf9c7fd9a13c4f7f2989ef09a781eb60720c40d9606917d35c88e1af96fed7",
+      "stunbaton_nocell.png": "1f4eac0d30ffecf7df3b0a8b5f7518c06a3186e5b3014974707fb1810a76df20",
+      "stunbaton_off.png": "7d8eb43bd6b9442404be2ae415f97d7a724a9a36193fcafc2d91cfdd38197ca9",
+      "stunbaton_on.png": "22276fb79a57f23966f25d3aa4d11979cfc4270db193d416ce8a43cba99e23b9"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/stunbaton.rsi",
+      "_Lime/Imported/Goob/Objects/Weapons/Melee/stunbaton.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Melee/stunprod.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Melee/stunprod.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite by https://github.com/noudoit",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "17ac962188cfd91e3664a902862a559eab33a4a3ebdd5d2f5289e015c5fe32a6",
+      "meta.json": "5a7461332a08eec73e7c8253a1d4239a852dd5f232b0b6b2564378e8c39e50b4",
+      "off-inhand-left.png": "7e3c399418d194338ab87b5c4fcc1e53c974fe0bee5489bbb3582a0b1d92eb8f",
+      "off-inhand-right.png": "6f696d97f73aa64adb0e7612b8ef1a25b88137fe04904db9d5e6662f7b6648e9",
+      "on-inhand-left.png": "884696d57c445a2ee8e1196254e73f292119c272c8aaafbdb4bcad7b033257fc",
+      "on-inhand-right.png": "31e0005340e6821d3e915f67ae4124af555e06e2ddaedbe5fab2dc63465ec24a",
+      "stunprod_nocell.png": "b625364083e31d3daaf259c2cd5006679a7003f4d31a3bcfe2e5363b4e35483f",
+      "stunprod_off.png": "0f79e3128693d39598fbd81e7ef01e1ed767397d4296fa0ce11348f7c08b912a",
+      "stunprod_on.png": "1e9438776254b298da85764d8da7a24b567a8d3f7fcf0863406df4f04d3efbb9"
+    },
+    "replaces": [
+      "Objects/Weapons/Melee/stunprod.rsi",
+      "_Lime/Imported/Goob/Objects/Weapons/Melee/stunprod.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Throwable/bola.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Throwable/bola.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadel Station at https://github.com/Citadel-Station-13/Citadel-Station-13/commit/3cfea7eb92246d311de8b531347795bc76d6dab6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "c6debd21f32c272724a6ae0703f686ee73dd79ec9b2c5db942ef10ddb3c1110d",
+      "meta.json": "815008f3232117b5add435b90f7e05c29570d4d9bdc7fdff16aac55053397305"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/parkbench_bamboo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/parkbench_bamboo.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "left.png": "6a4bb39cbce5619f500b767eddef79df0de2a7e672c1f6105bf263dd6cc23039",
+      "meta.json": "fd2a6cebd6cf8df91449b2e63516f6b77fd9ad1ef4e297b5a5aec0598f32ccd0",
+      "middle.png": "6b1640b8cb8c0e814c119e25671b8e29cde2071bac25bb2283dcf1461ee94197",
+      "right.png": "6353fd7d3a7d68c1778b0d5c01b808af741689050c27764e6b610005a5988be2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/parkbench_wooden.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/parkbench_wooden.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "left.png": "67655ce521aa92ede58867778ab36cf8bd867f5a383d082317a692b40c1edf24",
+      "meta.json": "fd2a6cebd6cf8df91449b2e63516f6b77fd9ad1ef4e297b5a5aec0598f32ccd0",
+      "middle.png": "092b827dff20c040c094f319195d03ceb06dc51873a27ded91a65f2f77a379b2",
+      "right.png": "bd29b68592aba029ee9989cd90b40c11bf05a87f14a7b4d2ae3079fdd2f42f48"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/pews.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/pews.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "arm_left.png": "9ec4198e9d6ae38311508c741e37fd865361bc297385ddbcb0cce844f6badaaa",
+      "arm_right.png": "9f47112334b5507d428510046caff207f1132f32ea77d752dd2b6c04f1475330",
+      "left.png": "d7cf41aa40aab3eefa3ee5547ee0c258a1153cb945ef6b0a075f6df06a1a461c",
+      "meta.json": "4932c9b4d6eec0a2cae83d8c5432561a8874a1e17342b7b8f9731ff29ae7b4ac",
+      "middle.png": "55ad2726dde6e3ac9b16a90864c74577d7a7bc72fb153921c7a9846b380f6871",
+      "right.png": "408ad5a02532711017d786f60700d3eae1a63242f19a73307eb4b85404d6b660"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/sofa_corp.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/sofa_corp.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "arm_left.png": "a9633f0a3aab4ec3dc7532cc1e0157372874804d67a361fab3f3ce9aec544a7f",
+      "arm_right.png": "66ff8b2679039324650101064d7bf9ea5db5d8a905c566a9596f3d364e5ee7f2",
+      "corner.png": "415fb6a4864573db24070f22582ef1ef4e749955ca0799d6fecedbe4c9bce5cb",
+      "left.png": "dedc7324668cd4dd3991cc2c8ccdc1a7fb2bfdd31903ecefed01e5671b5e58b2",
+      "meta.json": "9ec009eed6f97420275fa2a43eb78b1d3b5edf0853855d99194af6ba9a229f6d",
+      "middle.png": "6ed06882478aee826305c0c1bfa9805eb96a3e34f7a3b3b411dd9675854952f9",
+      "right.png": "071b7f8642392a320229e8783fd16d34ad0886b442e1c2f427fe6df1df3de31c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/sofa.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/sofa.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "arm_left.png": "040a1e3a737350648c2c1c3b559524ab4781b40c6d8ec8197a9e801f181dd60f",
+      "arm_right.png": "175c2ae3940561f63944978635d0a0172a791cb03511e2cb4e2bb9d7b1e486bf",
+      "corner.png": "685ef4ca4469c74e7a680f507d5a9cacf002a21f6cb62f273be019bd63b5b3c4",
+      "left.png": "fcd1d7bf0e4ebc80aa01ad8814161e15bb362d62754c05e4d51d431ab59befd0",
+      "meta.json": "9ec009eed6f97420275fa2a43eb78b1d3b5edf0853855d99194af6ba9a229f6d",
+      "middle.png": "17dcc51d4185fe4ceb0c9b2fde088e1dbf3bed24c476609025223627c5b7a828",
+      "right.png": "b6946e6f7e70fd6729f00689dc432452d7d0ee27424d191224e6f08a4348c726"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/steel_bench_white.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/steel_bench_white.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "left.png": "d89e671708ce79b3793b78027c6282035bfe4a0a7c66524141d02918585e3dd6",
+      "meta.json": "fd2a6cebd6cf8df91449b2e63516f6b77fd9ad1ef4e297b5a5aec0598f32ccd0",
+      "middle.png": "7f3e166eeea1ba78dab3481d7e587342927dda8e3d15ef04b1f1a10adfb0ebd6",
+      "right.png": "727b2eceb4ec43fa7adc1cf26f7e2272c1fd08f180a1980d7cc3a503b324a723"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/SimpleStation14/Structures/Furniture/Benches/steel_bench.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation14/Structures/Furniture/Benches/steel_bench.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "TGStation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "left.png": "df575bc7c1b5d4d7846421bbe3f795e24af90df52c01b61ed04fe19fe52e01b7",
+      "meta.json": "fd2a6cebd6cf8df91449b2e63516f6b77fd9ad1ef4e297b5a5aec0598f32ccd0",
+      "middle.png": "e28965f7a34d109f220aa5e8448fc3626477817fd533452340debdcc991021be",
+      "right.png": "473fb8d9b73df388cb766ec86018bad0b6576cb8a79deffdd40160111f889f08"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/catwalk.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/catwalk.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24 and modified by Swept",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "catwalk_0.png": "5cd6393e3507b04a15a93c59d2d1309b3d3e136f17196bd78eb566ff5ff011d4",
+      "catwalk_1.png": "d3680a59a00bdb2194ded20f5604bb008bbdac024572119af4790db92babac5b",
+      "catwalk_2.png": "5cd6393e3507b04a15a93c59d2d1309b3d3e136f17196bd78eb566ff5ff011d4",
+      "catwalk_3.png": "d3680a59a00bdb2194ded20f5604bb008bbdac024572119af4790db92babac5b",
+      "catwalk_4.png": "95cd85c8d5f93299f77d74aa2e89fcefd1e33244b56de711a6034d5d3b5cebb4",
+      "catwalk_5.png": "29ac2d07cda70206fbe998a809f0afe174290eeb00fd60233a7674d856c42278",
+      "catwalk_6.png": "95cd85c8d5f93299f77d74aa2e89fcefd1e33244b56de711a6034d5d3b5cebb4",
+      "catwalk_7.png": "6db0cf83264209cab3154ff0bdfa92d2b30c8cdb567ebbf780a66ad9e535a09f",
+      "catwalk_preview.png": "0ebf4ce7fa346df506439e55fe8c11f25bdb171a3a09f022751be1e43ceb5a97",
+      "meta.json": "0d56f2df9bf5fc40c48b910946aa73dbe2cd5611612e9b36a1770119e2521e25"
+    },
+    "replaces": [
+      "Structures/catwalk.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/conveyor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/conveyor.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24 and modified by Swept",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "conveyor_loose.png": "8f50e5817f685616dc48c20cf9b469c7b7e6aeefa886cde82959dd1f125a51ef",
+      "conveyor_started_ccw.png": "85e2026bf29527453456191a9896d08d27b6a60dabeb1354dcfa6290509a0663",
+      "conveyor_started_ccw_r.png": "0428c78371bd6b7735f3d3f70d7b2e70d56aa67f14de502fe8c3893497e21dac",
+      "conveyor_started_cw.png": "8bb8982435081979a523d1b782c69e33ad744da5ae35b1e08bfac66f6f8f5436",
+      "conveyor_started_cw_r.png": "9bbb79082d736d18a28ad871f960ca74e082015050e8098d94d5dcd28997bc48",
+      "conveyor_stopped_ccw.png": "29ba17e9e315b8e6df11a9369cee901db7dd859b985e74287d93974f6f5282c3",
+      "conveyor_stopped_cw.png": "b5f9b58b67275c1eb5f7a03fc4c390159f9a16777a2f904bd59737575667f9d0",
+      "greenlight.png": "4e554f640536068fb1b76d7ba8124e80ee35259b664e1716cded4153d365d570",
+      "meta.json": "a2ed01ff55d9289c5b1e7968c431ac765c0edd769009db16a79856ea390f26aa",
+      "redlight.png": "d7ef18164913de77098cc230161450cb88f96f24ca9589f3f03c06428edfb1f2",
+      "switch-fwd.png": "e0ad9ab528cdc4b091e87d7b1793c9c365465a7fc71e8269a970ae132c98d045",
+      "switch-off.png": "3e561b4bfb9a8f202dc72f89705afcebbe2d14d40756078b140067ae85ed609b",
+      "switch-rev.png": "834e294fad7878928ee097559231b7c6634b97a605b0bac0a580a44d2285de11",
+      "switch.png": "3e561b4bfb9a8f202dc72f89705afcebbe2d14d40756078b140067ae85ed609b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Decoration/crystal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Decoration/crystal.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/Citadel-Station-13/Citadel-Station-13-RP/blob/fd35c5efa6973db72eaa646c3e653d230b8412ca/icons/obj/mining.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "crystal_grey.png": "6179070c678188f4875bc43c5d112c23ff3d915f22d0e9c226d544298f57a479",
+      "meta.json": "1b6f6b03189753a50247fb6a6f2c733a0135dc1d76c2494f80e4cc1f2013b29c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Decoration/fireplace.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Decoration/fireplace.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/6449b65d307312a111deb592e7a1bb4093e085e4, fireplacefestive by Alekshhh (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "fireplace.png": "d5aa2d92fc9d71fc5d47531382a62bcc3d6fc7fac0d3f4c79dc14c03a703b133",
+      "fireplace_fire4.png": "d3c7741f1c90feaf6f0932d9fd75a411420da5fa9e423f050cb66489c577da80",
+      "fireplace_glow.png": "7fc34b493ebb9f07271d789df2f8a6292eb8ec233037eea6c0f35c920c512018",
+      "fireplacefestive.png": "aa4fd55d3d2d32375cee7e18962c12456be7b44a5cd60786aed6001fd58eba58",
+      "meta.json": "3eb7a0a9dc8c4c2db64ee98fc20501462fa9b9634a665f388e41fbb29d9e0973"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/dispensers.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/dispensers.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Shiptest.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "industrial-off.png": "f69a49302561c52ebe137ba1dd45cac60e21eda0b7409b810a52d406887b25a0",
+      "industrial-panel.png": "80130d135c26c9a69e23fe8e76caac09ea8b8f9b762757105e75702a1452a6a2",
+      "industrial-working.png": "668cb142f31a6cc6c820fd7d66aa4f1553c7d40ceb472dc76d843787f90f4f5a",
+      "industrial.png": "ef8aa51a5e46972531c52b15e1dc3cb0e7c2bde9ad28432b0c9387e3211824e9",
+      "meta.json": "39c472b40c1f191d454e8067a2934afadfd70e9b4fb6d17dcb2b84bcd58fa847"
+    },
+    "replaces": [
+      "Structures/dispensers.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-exo-xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-exo-xenoborg.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "bolted_unlit.png": "88c4892e11bf852d429d1835138e54276e1d9a7356fd0b38b3c827bcf0f369e1",
+      "closed_unlit.png": "b018f36eca63516ec8c60a1d72bf080da536325f47b3147eeded5e8b57684a44",
+      "closing_unlit.png": "8abd61bf406c2ee53411697c24b9b84d205194ddc0e5f6dbf87dfd5857f4e165",
+      "deny_unlit.png": "e2d5e9b6ee42b4036d4c5e735a2f42b7f12b4f4259ed48bd8ee4fa5d22aa825b",
+      "emergency_unlit.png": "bb654e0ce932c2dcfecebdc5b8eea74786c478ad84986245b1fb10ae195e5dc6",
+      "meta.json": "a883637471a7a6b6931075219ae3612240dd15d9901c034fcbf696e915657807",
+      "open_unlit.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "opening_unlit.png": "b54b133c57d7b236ac9a9946df2d69c01c36b060412ae62541b3b159daa53235"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Effects/airlock-effects-exo-xenoborg.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-exo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-exo.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "bolted_unlit.png": "88c4892e11bf852d429d1835138e54276e1d9a7356fd0b38b3c827bcf0f369e1",
+      "closed_unlit.png": "d8db14d3f04ae4e13042cb819cfca8ce37c1890b6e473677076586e5fc92bdbb",
+      "closing_unlit.png": "8abd61bf406c2ee53411697c24b9b84d205194ddc0e5f6dbf87dfd5857f4e165",
+      "deny_unlit.png": "e2d5e9b6ee42b4036d4c5e735a2f42b7f12b4f4259ed48bd8ee4fa5d22aa825b",
+      "emergency_unlit.png": "bb654e0ce932c2dcfecebdc5b8eea74786c478ad84986245b1fb10ae195e5dc6",
+      "meta.json": "f57c9bb6ebfd5563abe89a373c34f636e4e3eadc784992a40e30f9adc27b0fb1",
+      "open_unlit.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "opening_unlit.png": "b54b133c57d7b236ac9a9946df2d69c01c36b060412ae62541b3b159daa53235",
+      "welded.png": "495b54c2411da74b284eae513936acba7e08cdb8bcc050592e3d9ada81a82051"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Effects/airlock-effects-exo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "bolted_unlit.png": "f4a5826943972729c4eab93f6ca1b3501d57621ef298a9598200bdcf14b590c0",
+      "closed_unlit.png": "237a52ea5453d73c1193b04aa023a110132c1c316d4d8b2f7dd8edd7a0d847b0",
+      "closing_unlit.png": "5d6767f92930056aaa17a18703d0b6a46940b59e5e3692df82c2bf87f8080c49",
+      "deny_unlit.png": "cf161395e87edf3fd49f36fac108c2e63d63df6833c860a8d0ff5838fcd8c3bb",
+      "emergency_unlit.png": "4ee71a20491c87c43ff11cf1682c6f04de3afa78d133f446de863481c8135953",
+      "meta.json": "a883637471a7a6b6931075219ae3612240dd15d9901c034fcbf696e915657807",
+      "open_unlit.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "opening_unlit.png": "9f0c75e6ade51019b67f6e9078f4f2935f38f8786a7b5e8110abe2429411a636"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "bolted_unlit.png": "a7d43d19c7fd8e7a07c79c5a7f930339989e84f8c734736f6a2da6f6faf0c622",
+      "closed_unlit.png": "5fe9a9b597744ddd38669fcc87d8b7955b564a0cc37ebc92f2cf99859374ef36",
+      "closing_unlit.png": "5d50d36240d031f9bc2c619c3ee358ac1c1ec183d6df540358fe07bf5c8d3d10",
+      "deny_unlit.png": "d65485967b4718af5bd8bfb7319121712fb119be1277f898bc7c512a8c7106fb",
+      "emergency_unlit.png": "14bedc4b96687891332e6ffb193c5eec1d1a607477960467c5c2d34bab788fa7",
+      "meta.json": "f57c9bb6ebfd5563abe89a373c34f636e4e3eadc784992a40e30f9adc27b0fb1",
+      "open_unlit.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "opening_unlit.png": "7ba7fe6132a645f75e6dc737765a74c1a6bc5d21c618c7940b0a8040657fd78d",
+      "welded.png": "1ae587d0f729f6ac31c0ce4981dc03892722fb6f5cfe5d3a58a073df192909e7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Effects/airlock-effects.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "bolted_unlit.png": "7ba150a71a8efd52f6670d5999f4b5cf5a3dd1a4e96513ce5cef28c8dd59aea1",
+      "closed_unlit.png": "5116b54e181b7856f9ff658f4d4abe1a058ff4b16cb1d5782fa56cbb90e07307",
+      "closing_unlit.png": "28a69f8dce3099e291463630fbc96ded28a0003d90a2995505a6ccd2aed9e8bc",
+      "deny_unlit.png": "2ae6fa8071f920ae600948a49e81ffd25dbbac0ecc5e4108340ef1ad054c218b",
+      "emergency_unlit.png": "0f9fa75785497de990ac8d89449ec2e233459f7052de8ad23993938e1f02622c",
+      "meta.json": "7418619725c6aad11d496d18c5c7153e1219528b30df56119369ea25bae29fc4",
+      "open_unlit.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "opening_unlit.png": "41f3b9e1f675ea9c59fe5ba4a79e838da8c8171019e39606f3f45c1d32afd98b",
+      "panel_closed.png": "706e3cb30ded5de57dab57fd12aac6335059a927f23876c33816f21cfe84f6cc",
+      "panel_closing.png": "2de3aaded302d80272237050b3cda5255d60d25f341a5682575e759fa94b0ebb",
+      "panel_open.png": "706e3cb30ded5de57dab57fd12aac6335059a927f23876c33816f21cfe84f6cc",
+      "panel_opening.png": "16c1cdc4d3c3c9048d74043d509102ea821122aa89dc418dedfb41a675d39f2b",
+      "sparks.png": "900ea75b2bc48c41b1712dbbb56e5ca7c99942ab6c0989791180f349a2f4f65a",
+      "sparks_broken.png": "900ea75b2bc48c41b1712dbbb56e5ca7c99942ab6c0989791180f349a2f4f65a",
+      "sparks_damaged.png": "900ea75b2bc48c41b1712dbbb56e5ca7c99942ab6c0989791180f349a2f4f65a",
+      "sparks_open.png": "900ea75b2bc48c41b1712dbbb56e5ca7c99942ab6c0989791180f349a2f4f65a",
+      "welded.png": "495b54c2411da74b284eae513936acba7e08cdb8bcc050592e3d9ada81a82051"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Effects/airlock-effects.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/airlock-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/airlock-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "7036b205d19f02e2f1d9982f121b8f77b33de4212444f2afc4fd76f1365bccd9",
+      "closed.png": "910549183f8f2eac120eff40fdea63c243b27721cc5698f1a7871e7e0fcd1ac2",
+      "closing.png": "c8621ecfd4b8fbe45975eb99793740517ffe719a219856e740289ed7ae070115",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "191584073a01e315462ad183c4f5f067c89b89e7e70827202c55b91657dddfc8",
+      "opening.png": "d21551ff3948c393f2ad2cb2ac8eae3c9ef7ece3f017576026c7eb84b14e842a"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/airlock-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/airlock-maints.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/airlock-maints.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "e0da432694800fd7169f1bfd892db5559643daf400616dc7b4706d58c0a7f086",
+      "closed.png": "5b9bb7e93f515be2d61c3f28c3076911d2efb62b6c31b7f6aa113b1525d454d0",
+      "closing.png": "4ee93e223394117cc7b12652aa921f3c1c2b7c69fbec3f2ec974059b9872c0a6",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "1bdd728574213d21b530caf7095e407254521a4d2603eee481a1affcc4ad6e04",
+      "opening.png": "b6a37c73c76a7fa51dcfd84605c0152395e786633be685562c4109f6220e3977"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/airlock-maints.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/cargo-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/cargo-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "0f1cdf61de1e443614d3acf65545dc1b7091ce7477aea7f05bab1aa245d09ebe",
+      "closed.png": "7ae644b58445b0859ee0ab6ecca9f1e54d05d4cc7b9284e8c7efa26d5350e156",
+      "closing.png": "7de6cc30baf8ea4645fc5f604994a5f540ed8de8a3d214b30df3035c6c8ad6ba",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "c0082d3ed05e106e2db4c7aea5c988d09cdd0be083a5833b9a87a9f51bdb7fe5",
+      "opening.png": "ef5fc272d2e4a5d3d25ad4e462511673d041971536d23c6c1444bbafb5eead6b"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/cargo-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/cargo-mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/cargo-mining.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "5112e32401a97739a2e44ab1298e0eb9ebfe9f698edf59c3964f2e37b2d98742",
+      "closed.png": "48ed5185e7b503d55ee04c33e0eb8d1557049c381d1e9615886eb035c6123c75",
+      "closing.png": "85f599b5d352cda0ccab809af9d52985df117da2bb834fe6bb7cc21a53004125",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "c0082d3ed05e106e2db4c7aea5c988d09cdd0be083a5833b9a87a9f51bdb7fe5",
+      "opening.png": "05d312ce41b309310913f80d991e4dd3916316ab083b7de0f06d0a998d5e6395"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/cargo-mining.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/cargo-salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/cargo-salvage.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "447867cfc401968813cd3b06a2c1dfb621275fc33829bd3b00e79c8cc2b23b2d",
+      "closed.png": "563115c9125286c91b986e447a7674a289f03ea61e82f4d7b29336d7010c454a",
+      "closing.png": "bfe336011aac8375929d9bb6c59b6075592a8ae9df22a634c2a736b6763f021c",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "c0082d3ed05e106e2db4c7aea5c988d09cdd0be083a5833b9a87a9f51bdb7fe5",
+      "opening.png": "b9820b59e53df5196efa519bcdce9508be1a5ac3a3f41dcb38d52e60c7246d0a"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/cargo-salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/centcomm-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/centcomm-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "4b9b883d940732fbed3809bbccd0c3a428fe9c74261e3bfcca1f4ab0a77cf7c4",
+      "closed.png": "c44c2d760042863dea5c6855a7b02b671c777cacefbdc7ef1c4180251fae69bb",
+      "closing.png": "3dbd54a12271a168490469b962fef7e0c5cfe3a24cbff7d5ef15c73b071b7ed4",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "a5e2c7f5244d6aaabe824eca18b89f69a9b77409459e48d8fdded9b2406401af",
+      "opening.png": "2bcc77a8ad1ceb65de5fb14f6aa9d5cb8bb608255666d8a657bb73283ba5ea87"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/centcomm-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/command-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/command-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "7b2e4f364e92a7368a31a1fe121295dbf3a06a3c40922cc727cce83c45b7c888",
+      "closed.png": "96c49a95daa04091366f646d5b1b48b7293c17c24dc013a729de35737b68d929",
+      "closing.png": "0eba8ebcce2eecb88b089e9c235ff13348c1237f46d73fff23bf2582b3e69135",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "71d816b95629429226391de9998b8cf1dc77db1e969fd1aba4bec0d6741d125c",
+      "opening.png": "909acb6bb41d61cb07a7a6c8e532d07f40b36ac2f35fb7b061c400de6a6724ae"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/command-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/engineering-atmos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/engineering-atmos.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "c33be0c4d7ee34a55f289da411b1ca2eb599b3203ae572f2a4b6c1e1fa8dff33",
+      "closed.png": "d1dfe7f2e8f53fb3f85b3df3744cbd694f3eaacd7618174ace94d1e293cbb12d",
+      "closing.png": "b8e66fa953a96a2d2812034086271b45949094963632889134b16f86ba840248",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "dcb215d01e712c5dfcb36b027dacbec618510436d08e22a59b250b2f75ac0911",
+      "opening.png": "4b08978258bce689e49ebf539c381501907e6e277db1cfcdd4bb3ca0638c7c78"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/engineering-atmos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/engineering-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/engineering-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "5af8bdf0d1da62df943348e0d928745abc050abd8ee3ce58088a3e2c3a1d3b6f",
+      "closed.png": "da981c901559962c00ff7776bca33a5d6ba3f4f11f3cdff538cd2db46d8bc06d",
+      "closing.png": "0c26f70d77a453aae4f95c17c60b8b04d049e0524076b32810ed3e81f4cda98b",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "dcb215d01e712c5dfcb36b027dacbec618510436d08e22a59b250b2f75ac0911",
+      "opening.png": "020bb8ca2a3f3526634fe27104a844f19504a30d5c3c363bd7e850e89f50ae40"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/engineering-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/medical-base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/medical-base.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "f632b8711726e0edeeb44c783f73cc535511a58d2dc94369a34d4f52e2d16368",
+      "closed.png": "f4516900877b94cd7e9a5673e2b07865d250b6774ebeebfdca192b042425ac6d",
+      "closing.png": "948d6eb7329a36e99194c0c204c7862b0e4a0424df5a4993409f1fc8fcf6d656",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d08dc6bef083c2b52543623d168e4f6d0395df8a1682a26d3100f4452ed91fab",
+      "opening.png": "9c193ead38ec3a272d878edb7292f680ec0436337316c170b9b0ce17308909b0"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/medical-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Doors/Airlocks/Glass/medical-chem.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Doors/Airlocks/Glass/medical-chem.rsi",
+    "category": "doors",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "By AftrLite",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "assembly.png": "d47253da978ec34909e4a2194586de69babeefe7872170087e9a1ddcff68300c",
+      "closed.png": "6ca73eb935e44662055ecfa77e32d266ad78e052457902eba8c151e0ee6cc264",
+      "closing.png": "6fa96f2633f4986d2a79d34acb4b760c9a4f927c4ffcf4e5c19f3fab106ccf4c",
+      "meta.json": "3ca17fb3a36e8bfb8a833e3e53f1458c1245953cbf23f6451482189457fc121d",
+      "open.png": "d08dc6bef083c2b52543623d168e4f6d0395df8a1682a26d3100f4452ed91fab",
+      "opening.png": "abfcbe9967ccd05376ad1f86cda64241c900d46b6b0382e285e02d491c35b1aa"
+    },
+    "replaces": [
+      "Structures/Doors/Airlocks/Glass/medical-chem.rsi"
+    ]
+  }
+]

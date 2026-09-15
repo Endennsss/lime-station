@@ -38,9 +38,9 @@
   description: You wish these made quacking sounds as you walked. It's a good thing they don't, though.
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Misc/duck-slippers.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Misc/duck-slippers.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Shoes/Misc/duck-slippers.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Misc/duck-slippers.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: FootstepModifier
     footstepSoundCollection:
       collection: FootstepCarpet
@@ -170,11 +170,11 @@
   description: Special anti-gravity boots developed with a speciality blend of lunar rock gel. Shipped from the Netherlands.
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Boots/moonboots.rsi
+    sprite: _Lime/Imported/Monolith/NF/Clothing/Shoes/Boots/moonboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: Clothing
-    sprite: Clothing/Shoes/Boots/moonboots.rsi
+    sprite: _Lime/Imported/Monolith/NF/Clothing/Shoes/Boots/moonboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: AntiGravityClothing
   - type: StaticPrice
     price: 75

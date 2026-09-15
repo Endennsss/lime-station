@@ -7,12 +7,12 @@
   - type: AccessReader
     containerAccessProvider: board
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
     - state: welded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.WeldableLayers.BaseWelded"]
   - type: Door
     closeTimeOne: 0.4
@@ -88,7 +88,7 @@
   description: Blast-retardant AND fire-retardant!
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: assembly
   - type: InteractionOutline
   - type: Damageable
@@ -129,12 +129,12 @@
   description: Don't lose an arm!
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
     - state: welded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.WeldableLayers.BaseWelded"]
   - type: Door
     closeTimeOne: 0.4
@@ -171,7 +171,7 @@
   description: Blast-retardant AND fire-retardant!
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/exo-blastdoor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: assembly
 
 - type: entity
@@ -181,12 +181,12 @@
   description: Don't lose a head!
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-blastdoor.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
     - state: welded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.WeldableLayers.BaseWelded"]
       visible: true
   - type: Door

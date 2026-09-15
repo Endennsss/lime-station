@@ -1,0 +1,1081 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/security-warden.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/security-warden.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/97ec5ed1a0fc8263df5df5a5afbb653d4684992e & light version made by github:Morb0. Vox states by Flareguy for Space Station 14, vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "acdeac3a8172b1952813f515310b6b8ab582ac2f476d2c7df451d7be4d233ee2",
+      "icon.png": "df59e261010ca664d3b45b5e3b79a9e1b01259667d9c59d39fbd9f5142e08718",
+      "meta.json": "3bf4fa2498a722dcbb214c2a1c8bc7879c6daf16a51ac6945dce0a2adb58dd1e",
+      "off-equipped-HELMET-hydrakin.png": "97e9dfc38982baee75404c4b88f94e0685195b528dda683ac7b1a47a7175b892",
+      "off-equipped-HELMET-vox.png": "d897c4c85f3962c17ef9aeb9232d4c8da460f97fdfcf5fe41b45d191042543ad",
+      "off-equipped-HELMET-vulpkanin.png": "c5d77d30d363a3d47a8aa5a55ff97432ce646872c206ba48ba46ad544f2e58f8",
+      "off-equipped-HELMET.png": "de8a5bfb44e8ba06c05ecbd49756fd4ad719e56f56ac59bd4f83b33fd40a9020",
+      "on-equipped-HELMET-hydrakin.png": "fa4b617217ebe90ad2b15970286584e925abe96b9dc59663e5a612b0081998b0",
+      "on-equipped-HELMET-vox.png": "d3aa284a290764e3826619e44b3bacac9b06a45971938e8123fd0011dc008e45",
+      "on-equipped-HELMET-vulpkanin.png": "8c36a37dc0ea090c7dcd67eb869cd3200074436df9209b91fb555aff12a6d3c3",
+      "on-equipped-HELMET.png": "12d687ad3c79c363dbdfd63b2c296a20fd141a5fec27fec1c7e8dbbadf9b4fba"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Base sprite from Baystation 12. Vox states by Flareguy for Space Station 14, redesigned by InfinityRedPanda, vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "7e1cba4c22fa37f8b6f11b01363915948301fdf613e642084f3481481ae6b5d4",
+      "icon.png": "ad797f9db3353f5845e068779e1a4d7299823e7cd1cae08796b5879a97990d7f",
+      "meta.json": "0978d5fdcc4c36e41a857f880807fff3c5137658814d5ec816db0e570cff8eda",
+      "off-equipped-HELMET-hydrakin.png": "7e7615a6a1e7056f30de5a4378aff73ab6db6d79ba0505bb70faf390c149c717",
+      "off-equipped-HELMET-vox.png": "3d7ffe3310283ab57856b3f794234f8c5791f71d1f69cdefbc886b433d5e5a7e",
+      "off-equipped-HELMET-vulpkanin.png": "19496ddd1648ddb44d1136e6a7ffaecafc4af32c2135a3a7c3d7c384a8eb778a",
+      "off-equipped-HELMET.png": "1066d15fbe1c50756c8f5fa358f5c7860ebf66d4304800073a8326af202c9b91",
+      "on-equipped-HELMET-hydrakin.png": "5fe50b333cbc48b8725242f5b824232e294c9276fb21c994090916bb5a14a017",
+      "on-equipped-HELMET-vox.png": "3115346c9a336a77df7bc21d5155cc71f4ef717620608d561a020f98b1d2e914",
+      "on-equipped-HELMET-vulpkanin.png": "c262d9cca20ac650510d98117f0b6e100736f871a4c6052f6b90a039e125e555",
+      "on-equipped-HELMET.png": "d83decc86b239e9cf0293f373f71be81ebeef6a21d17b8af5e5ea5c1b9b12845"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/spatiohelm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/spatiohelm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/97ec5ed1a0fc8263df5df5a5afbb653d4684992e & modified by Kuro. Vox states by Flareguy for SS14, equipped-head-hydrakin by Zethine / @synthetic_086 (discord), vulp sprites made by YERO.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-head-hydrakin.png": "9a28f4d1fc4b55761ff0a4fefa267c63448602b0bc2aa08adf02cf5b4033b7f7",
+      "equipped-head-light-hydrakin.png": "c6107a8b0159d5c8a412bba22b62e7ddbd2c86ea941c18705e19666aeae5d86a",
+      "equipped-head-light-vox.png": "d35f708c760b566b262c331bba40c959b5a7820b49026d5080914d761fccd77e",
+      "equipped-head-light-vulpkanin.png": "2953522e86767968b3c28458d7a94f8a3e7346d8d0ee3fef001ae63439dfbabc",
+      "equipped-head-light.png": "2953522e86767968b3c28458d7a94f8a3e7346d8d0ee3fef001ae63439dfbabc",
+      "equipped-head-unshaded-hydrakin.png": "25023fc44f3883eeaab0e5afb2a0a7bedc5d380bb98bb7d976fac12d10ef3c13",
+      "equipped-head-unshaded-vox.png": "281dd43235cd5825a21a799054b659daf0ee1581e26d534deb74296d6e8644a7",
+      "equipped-head-unshaded-vulpkanin.png": "07bd1d0aba294e91795e9555e7542af52faef29312787e5d1c62b1571d268dd7",
+      "equipped-head-unshaded.png": "07bd1d0aba294e91795e9555e7542af52faef29312787e5d1c62b1571d268dd7",
+      "equipped-head-vox.png": "adb734c2182830f93049e076048aaaee8aa856c5f459b4a5287b5e4960c65efe",
+      "equipped-head-vulpkanin.png": "23afa977cf8b8d410c05cdd44ee699139d7ae67be886518728d102a611d34557",
+      "equipped-head.png": "2a0dfcb52f5b0fd88692214995d29bec394a350d1895cba11aaa25c93b980cd4",
+      "icon-flash.png": "b9a5aa0b3eae47f6ecd21290b296c0c77a2728c9a314191e60cb72079c54e7c8",
+      "icon-unshaded.png": "1286b63105dc8fdedb5fe9df1f1f89a402e53c96ce0df63a1fd59126cc3d786f",
+      "icon.png": "fa81e20b1f6510926860e672874d08eb467d1551999e3739dae46527044687e0",
+      "light-overlay.png": "67956129684b0299205c75c4a3ec9dfefb1fb799cd7fcb2ce3c3bb2ed30e5c7e",
+      "meta.json": "55f51fefe3feca462bb28a7496491e4edd1887a1a5b2136ee16314f08cf8572a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3b364b1cea497ccf414539719b6b79f39d42cb1b, modified by whateverusername0. Vox states by Flareguy for Space Station 14. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites made by YERO.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "combat-equipped-HELMET-vulpkanin.png": "cb9b9726f2bfa40c6b2ed8401e0660de249aefc7d61f136294367a625f966123",
+      "combat-equipped-HELMET.png": "06d4524a71808c6f99ca6a306eb7547b2515fa6b426a9cfcbde87c0f57db478b",
+      "icon-flash.png": "65d28981824fb3194d846e627b2f1872e7e07c7d2ee60cdd3877378cf11096e8",
+      "icon.png": "5fd35efe61f521919bbc40bbf4c1b28ba727dd16bde15a0702e65e079e5372b3",
+      "meta.json": "7a2284d1e13b7711e10119a22667b72f918888d0bc7b57849ab3637fdc690b53",
+      "off-equipped-HELMET-hydrakin.png": "227630acace0c9b5978c45d5e77ab494e6977290705e2be175958182683c358a",
+      "off-equipped-HELMET-vox.png": "f1e9ffe7dea2d314b2f8c45919fab4fd34c8394b9031fa6a8f1b77fd5a4c67a8",
+      "off-equipped-HELMET-vulpkanin.png": "cb9b9726f2bfa40c6b2ed8401e0660de249aefc7d61f136294367a625f966123",
+      "off-equipped-HELMET.png": "991ac6839c64c206ef9e6743a534a7317cf4e5bd912cd0f56184d3adae3deb37",
+      "on-equipped-HELMET-hydrakin.png": "c0f26bb5d3119d4a0bd056315055bc6e55bf9173c736c0cec7ef2822cbfacfaf",
+      "on-equipped-HELMET-vox.png": "901537ea5f80f402d8938af48e42abb60954794642e0b77f0abde23cdfaafbee",
+      "on-equipped-HELMET-vulpkanin.png": "a0f2d7bb2ea2531a2e36bf9b7a90541187e304b46b0a6227e6aab18b9c8d04e0",
+      "on-equipped-HELMET.png": "3bce5f21f0b082c2a12de25f5a2ae5b62c0be3bfd08f3e2b3fccd64fd5b33748"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/syndiecommander.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/syndiecommander.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tg at commit https://github.com/tgstation/tgstation/commit/3b364b1cea497ccf414539719b6b79f39d42cb1b, modified by whateverusername0. Vox states by Flareguy for Space Station 14. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites made by YERO.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "241ec3e7ef595295ca13d2fb4470c3aade4cee7d99bca610d7d274cc31b82f1f",
+      "icon.png": "241ec3e7ef595295ca13d2fb4470c3aade4cee7d99bca610d7d274cc31b82f1f",
+      "meta.json": "458fbbad2c6e367db8a36a8e1b3a0df9f53178b43cf8983d42d0b20d7bb1060a",
+      "off-equipped-HELMET-hydrakin.png": "5af2c55e9c0e7858435c502a63e2f3baa61661993b3d2528c84a062bc5c73d02",
+      "off-equipped-HELMET-vox.png": "f1e9ffe7dea2d314b2f8c45919fab4fd34c8394b9031fa6a8f1b77fd5a4c67a8",
+      "off-equipped-HELMET-vulpkanin.png": "9644ae38102575944fa4f560a2831881aed77b1ed882da4d20a28ce31f3fd375",
+      "off-equipped-HELMET.png": "06d4524a71808c6f99ca6a306eb7547b2515fa6b426a9cfcbde87c0f57db478b",
+      "on-equipped-HELMET-hydrakin.png": "638ff4b0c76bc92f3bb72f106370253795f0ba26abb770984f28172713216f97",
+      "on-equipped-HELMET-vox.png": "901537ea5f80f402d8938af48e42abb60954794642e0b77f0abde23cdfaafbee",
+      "on-equipped-HELMET-vulpkanin.png": "daef59c1030592e9b87ff5ac820608f92f3d3084c2aeea61577eb823d39cd77f",
+      "on-equipped-HELMET.png": "06d4524a71808c6f99ca6a306eb7547b2515fa6b426a9cfcbde87c0f57db478b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/syndieelite.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/syndieelite.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tg at commit https://github.com/tgstation/tgstation/commit/3b364b1cea497ccf414539719b6b79f39d42cb1b. Vox states by Flareguy for Space Station 14, color tweaked by InfinityRedPanda, hydrakin states by Zethine07 (github), vulp sprites made by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "c1745dac9cd2f0ba0aa345770b56ec22e4e5ee023ce17466f186679aec9348dd",
+      "icon.png": "d128b5816ed68b788cd3ba2f5b94baae6368ea7c98956d80b30b4dd41cd88a60",
+      "meta.json": "3da6a7d943d98bec319126c4fdbb64a357070821a6241fc2e7d7f7067dcd7c3f",
+      "off-equipped-HELMET-hydrakin.png": "0d3a428ea9b5c4bb770a2a3f61a978189f1b29681f6e2ee3efb3077ccd730356",
+      "off-equipped-HELMET-vox.png": "0f26fa5ec9ee705676625feecbd83691652c16bcdae5e0f1697fda7bfec32b8f",
+      "off-equipped-HELMET-vulpkanin.png": "94ab87c1c82414d09ddfb1f02b15af6a895e972583a083401251e320028b36f7",
+      "off-equipped-HELMET.png": "3b00711cc04f8e24449ed45e87d55de0afa5f1b832b09c82f761cc25c3de554b",
+      "on-equipped-HELMET-hydrakin.png": "05c943c02aeb59006ea10e96229acb04485cd0a162c725c788aae4b9b9aefbd9",
+      "on-equipped-HELMET-vox.png": "0884cee91eec753baa8f856cef4d0cc0a470fa963c8ffa1a543afbc32d0c9215",
+      "on-equipped-HELMET-vulpkanin.png": "eea2426f9a58f78ec75b60b6427a0f8b9fbf36664c0ae816ccef9745f0b4d3c7",
+      "on-equipped-HELMET.png": "88e2c1365394c6a356ec0baaa1bcaf212fc24cfb79563c047ef7d9b0dc3e1d65"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/syndiemedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/syndiemedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Based on tgstation at commit https://github.com/tgstation/tgstation/commit/3b364b1cea497ccf414539719b6b79f39d42cb1b, modified by EmoGarbage404 (github), modified by whateverusername0. Vox states by Flareguy for Space Station 14. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp version made by YERO.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "65d28981824fb3194d846e627b2f1872e7e07c7d2ee60cdd3877378cf11096e8",
+      "icon.png": "5fd35efe61f521919bbc40bbf4c1b28ba727dd16bde15a0702e65e079e5372b3",
+      "meta.json": "79a3c740d45c6f3ad8c444ec1914cdfcf0ba2fd9e8afbb97f32acdfb1b867b88",
+      "off-equipped-HELMET-hydrakin.png": "1368d3170c769a56ac17fba55bba6cca00ff1869c72034bcbbfdcd966938b3cf",
+      "off-equipped-HELMET-vox.png": "f1e9ffe7dea2d314b2f8c45919fab4fd34c8394b9031fa6a8f1b77fd5a4c67a8",
+      "off-equipped-HELMET-vulpkanin.png": "b92e8fa0b005d95ee7e9a2701b07fa89e6f888515e38422aaecda092d8fbcb19",
+      "off-equipped-HELMET.png": "991ac6839c64c206ef9e6743a534a7317cf4e5bd912cd0f56184d3adae3deb37",
+      "on-equipped-HELMET-hydrakin.png": "1368d3170c769a56ac17fba55bba6cca00ff1869c72034bcbbfdcd966938b3cf",
+      "on-equipped-HELMET-vox.png": "901537ea5f80f402d8938af48e42abb60954794642e0b77f0abde23cdfaafbee",
+      "on-equipped-HELMET-vulpkanin.png": "3ad02b32cc8408e26a33c72fcd681350e776b8566bed7e8b35da885a78f9663f",
+      "on-equipped-HELMET.png": "3bce5f21f0b082c2a12de25f5a2ae5b62c0be3bfd08f3e2b3fccd64fd5b33748"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hardsuits/wizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hardsuits/wizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox states by Flareguy for Space Station 14. Dog states modified from base states by Sparlight (GitHub)., Vulp sprites taken from https://github.com/DeltaV-Station/Delta-v/pull/517. Hydrakin sprites by bobbble (discord) ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "7858deae38be57cf777516bfb03f593f69f1dc3adb0f8711f783d43da9f0de80",
+      "icon.png": "94dded8446e5911cc7b56aec02a5cc79589957be73f3f43776ef323193732b10",
+      "meta.json": "a2f1768599f013176c70c409c1b2ef083a600270245c9ac4cb349e6dcd295fcb",
+      "off-equipped-HELMET-hydrakin.png": "3787b778fd7ae2b792c9477e6e58b0d20ad170d9d08d6471ffc6f25ba58a3d87",
+      "off-equipped-HELMET-vox.png": "38c9c9478a5ac8d907b82ef86052488865a560628f10290a2bcee507c36d3f89",
+      "off-equipped-HELMET-vulpkanin.png": "02f55ae01c183541a0a9919e33b717a8c274de49e7fda23ca94772e975c655cc",
+      "off-equipped-HELMET.png": "f1e19aa57cbb1923998fffa96917f55a25b1fcbcde8fdd84c4f54440f16d34c0",
+      "on-equipped-HELMET-hydrakin.png": "8bf5d1d5c078fabd762273ec1d084b27fdba2abde16c86d48114598b9992ded3",
+      "on-equipped-HELMET-vox.png": "d1a1cf0ea4d265b4a1202eef35c4a68c6604512f0a941b911610c0e49221a034",
+      "on-equipped-HELMET-vulpkanin.png": "227b905480faa1804517414dd280b1e42193706d4b2fcf656830181f6ea6ee07",
+      "on-equipped-HELMET.png": "6ba289a8b03cc42eed3db297333e9cdf313e367fec59cb2613a4118a3c42508d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/beerhat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/beerhat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by gixer94 (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "883c2e1240a98e9fd29a1b119516c5f5cf2e1a5d40daf9b0818d5ab94e1591de",
+      "icon.png": "2b4e045b64bfc2e47c20c63b2c92b4be55804acaffa80ff2a384cc4fe046877f",
+      "inhand-left.png": "0ced506a29a9cf2ce991ffb5b0d3857561b7799ad91f564c3aef560d08e60738",
+      "inhand-right.png": "9676b704136fdf24848e85e2a326bcb943e58dc6c9a5bfcc99372cb9de02c570",
+      "meta.json": "2a8c9e4befe6830c96d6dd001df3d451d0401b854e0da5d4c4eae5d2047f454c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/beret_security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/beret_security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e and modified by Flareguy, Colors tweaked by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "07d5668c569a484442901684d9e979b25982842dbdbb24506e858dc3796d6137",
+      "equipped-HELMET.png": "7ec9387ba6215aaecc874d7d37ce9cd811052fbd04b1a73f9aa01196f7bd4248",
+      "icon.png": "5abef1bb1cb7728012f8e333337c5e7e251426b71f7b83594066d0b58e304e3a",
+      "inhand-left.png": "99b98282326e3a56461ec73657348ad0a8bef6bb1bde3ab3ea8263ead7ba0b00",
+      "inhand-right.png": "e0153fa78a239ff3a33866f748d3a333a61aa2b94fe1159c8c75f563d49620e1",
+      "meta.json": "b55fa1ec8551758faaa3abb50d2f8bb0c0f2ba326ff93f5dac8111ae58c38dcc"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/beret_security.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hats/beret_security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/browncap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/browncap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/0671297bb1c1b31d5885f2768aecbe9dc51d39e7 , edited by Skarletto (github), edited by Emisse for ss14, recolored by InfinityPandaRed, and recolored again by Athrun",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "89c2ec8d594ba9937390329ddbb8f780b0166ed054d7f966b1f3f748a434a44e",
+      "icon.png": "ec91dae33947af55121ff7ee093ad8a98333785f90667a6beaaf87aae57665db",
+      "meta.json": "82c74f93705ad213ad1c2343f44e588e119f7872ecdbf596105f292956c41e87"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/brownfedora.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/brownfedora.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e and modified by Flareguy for SS14. icon state made by Flareguy for Space Station 14, colors tweaked by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "0eefc92e19b9cda771895a94b583b7b6fbf76b2e584cc23e1d0f83eb9577e03c",
+      "icon.png": "af3827e150a3d1e04c8511172a6fa914756c7a55025c3168a94d491b4ab856eb",
+      "inhand-left.png": "c6d089eb0b85395dff4c38670ce6d392b46bad40ceeb95c3b40d9d19f00ee467",
+      "inhand-right.png": "796b2492dcffee9837748a429b41a392fdb2a2b2fb74472d1998573e24b3191b",
+      "meta.json": "643e84c25117954570698fdf9dc7e7a53c38ec2df09e2f123062796eb82c597d"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/brownfedora.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hats/brownfedora.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/capcap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/capcap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/0671297bb1c1b31d5885f2768aecbe9dc51d39e7 , edited by Skarletto (github), edited by Emisse for ss14, recolored by InfinityPandaRed",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "6b861c1573208fdebe9a9c0006892ade5b36925ddfe7eb1b70b148eafbf7032b",
+      "equipped-HELMET.png": "ff2b8fd095f40b06bd5588589cf1a4e9cd2b5ef6cb9dae2085225720d0bc4653",
+      "icon.png": "dca17b7fa4e87846909755cdd6365e61879653e3bdb084cce89ae95da5d85b42",
+      "meta.json": "7cbaab2af3c00e243842b623ae2b3feb5c66f99115db0bf6276a5dcf23c4e8a3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/69842/commits/d8138946b0ed06fced522729ac8eaa0596864329 edited by Skarletto (github), edited by Emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "2ee36e074e0823b04dafe754c9f0e86f18512cd00500326c34b1bda570690f66",
+      "equipped-HELMET.png": "19b095c75262fb0d6972369f0e86675742d9179156a903b842b98abf7c18d455",
+      "icon.png": "62513bd7f4b71ae2fb140acdfaeeb7d88c3b188c275c68779fcdb222672f40c2",
+      "inhand-left.png": "7c2c871aa7708a700fb647a2df344f1b50dbf57db2fec22ae9f1d9c1c04b9a4e",
+      "inhand-right.png": "89b299ab4805ca2a746b11687bf2fa1fbdbde251d1f4ada3f46893bf6303710f",
+      "meta.json": "68424c3bdf468477990d7c70f3c5b7bce400657dd4cba416b3e43b84ba0a2bfa"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/hopcap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/hopcap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, sprite updated by JORJ949",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "46851108be0256e0b03d30e9a99c7793abadae469584617372c4d523c4182bfd",
+      "equipped-HELMET.png": "0297a8a17084a50ec43237dd6a375f6b567a5f20b3f81e0f1d49a9318cf4f6f5",
+      "icon.png": "4c424b03d2915614f8b1556b430c9a987a31eace1a1bf0fc65528222a9fdff6d",
+      "inhand-left.png": "9cc5162a7986f9a09b3aea50b9b1acf0607b359da7f2977430d8b702ed392b91",
+      "inhand-right.png": "a617e5495c2e358bbea31b296e75a45a09d0ef6d4b862504751be4ce0cadb69f",
+      "meta.json": "1e159f8a9ef024a6346bad057bca9619693a20ad79dfc351676ecf6e78ab918e"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/hopcap.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hats/hopcap.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/hoshat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/hoshat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Flareguy for SS14. Based on the HOS cap sprite taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d90c7e5de6f6d94596c164da78dbc8d3cd35bb99, updated by JORJ949.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "6b151ef639c1a0993bf2f5f86f70d4003cefefc6ff71e36707bb51454690a922",
+      "icon.png": "3dc45c76bba2931b80fdf070c7d6813915f7480b8e12dfee3ace0eb867a48f49",
+      "inhand-left.png": "7a55551d2958814434888114b2b7554bfe3b7329df67f67d60f44ee482caff60",
+      "inhand-right.png": "e548a10ba35b44dc3064c32a7fe5f5c9dec009c581e77b7641fb495c637baa50",
+      "meta.json": "531c131f44583e498e155de1896f83357d1dbbaa033e79f3b099d25d1849f072"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/hoshat.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hats/hoshat.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/purplecap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/purplecap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/0671297bb1c1b31d5885f2768aecbe9dc51d39e7 , edited by Skarletto (github), edited by Emisse for ss14, recolored by InfinityPandaRed, and recolored again by Athrun",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "16a9f92261accab85226f0e7e96e5b0d01387f6d2dc5b70e27fd585ea787118a",
+      "icon.png": "693190829d7b6790169299f8a75f98f63969eaf8a6921d117b480d163acfe892",
+      "meta.json": "82c74f93705ad213ad1c2343f44e588e119f7872ecdbf596105f292956c41e87"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/redwizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/redwizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "f9b2043a2a7202feb2a0276995ba9f3fefafbe364682ed78cda602dda2f395c4",
+      "icon.png": "fa7f67c07eddbbac5bdb0fb857944e74856d508a034fc9e1e82e80f7f321f31e",
+      "inhand-left.png": "12a41c5196fcbee0b6cb96a9501c833ca238356f9678ea59d00af49304fb06b4",
+      "inhand-right.png": "e4cfc162a6c744957a35bcc872eb7f9ad6b751da281a00f40191b2f003576d3d",
+      "meta.json": "c6aa32b20866cbe70005d9597124cb912e65693acc4cc8fe3544a757dc9d0150"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/redwizard.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/santahat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/santahat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. vox state by Flareguy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-vox.png": "4910fee9b851a56fb2a9ce65416bdb91065fafb17fa03cebb00475519a1b00f8",
+      "equipped-HELMET.png": "872cdb160dccabb0c59a7f617b4232117c3d36158e3d98776d55b64449446016",
+      "icon.png": "c04a921fe3d0f7ec4a7b983005c8091355f304f26d394f7fff5b03a209d48558",
+      "inhand-left.png": "c2a9b0b2a27bf5ed501c5139c7222b3f7a7f3f51eccded311ff4f2138bbc2026",
+      "inhand-right.png": "fdbda03700083ad6908e848c31e338a8d20acb2e3043aa24a93ad37f315057c2",
+      "meta.json": "02fd80fd931b541b345ba851aa3c8b70318a8045d76524ee08a60e1e90d046a9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/ushanka.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/ushanka.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "e3b776f4dbf00d20ca1f17bc32ebd434ac26a4b35ae0c858a06abc935586be24",
+      "icon-up.png": "80d62aafe2a3aabbf86573abf027b58aeec54005c3813b6314abe85ed8feadf5",
+      "icon.png": "27ea3aa960b149558af72a7e30364885ef9cb451fa264f307f9b787c3b064dca",
+      "meta.json": "ab78b9b679a36b9fc08195a67e19752661f0d8ff5ea35bbbd754e67532daa600",
+      "up-equipped-HELMET.png": "929a9d709e53142441c963c80ba2b09042f7b4b15fee9031bfe5845cc3c0f928"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/ushanka.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hats/ushanka.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/violetwizard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/violetwizard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "f802275c4724f43b15a0fdc668667a0e42cdde49638385b2817c023fc03dac68",
+      "icon.png": "0098d52862a1a568e828896f735a6fdb2c54ea276938f0cf25691b9cdead7e23",
+      "inhand-left.png": "ae052e25ed21401b583fb6cbe101308d0c137d186964d560eca713a9d5c849fe",
+      "inhand-right.png": "78999dc4ae67dcd8d64a0d28163f0aba706131627aca2de5c86a80f8bf9b4c57",
+      "meta.json": "c6aa32b20866cbe70005d9597124cb912e65693acc4cc8fe3544a757dc9d0150"
+    },
+    "replaces": [
+      "Clothing/Head/Hats/violetwizard.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hats/wizardhat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hats/wizardhat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "77b3573fa234186ca6733ea020b18d4b09abcb2bd2bf8950f3750cc62616d103",
+      "equipped-HELMET.png": "309ecbadc857023a4207335b45b1f3de63a336a903941938854d8e080c8343a0",
+      "icon.png": "fd10e12c9915d9cb8340c428d5b228f53ee619040cbc3317a23601cb59a35748",
+      "inhand-left.png": "9b9d0cbc135eb80b1b2081e54b639601c840ed4661fb19cfc1c96bc51377bec4",
+      "inhand-right.png": "1b51305caff4da6c8a49896d9bde6ad41940e2647a303bd52dbb741e3507ae3d",
+      "meta.json": "00c48bde5e89112035096c0d25fb062c2d324125e171ef4664401a1714136381"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/atmos_firehelmet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/atmos_firehelmet.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/blob/master/icons/mob/clothing/head.dmi. Vox states taken from paradise at https://github.com/ParadiseSS13/Paradise/blob/765461f14aa4dd4f1edc33242c667843134678b5/icons/mob/clothing/species/vox/head.dmi, Vulp version modified by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "78ad18596c0a458d74dfe3c6257d76d2720e70b12e9db0eec51b0509e6ebbe32",
+      "icon.png": "e24860530b74b23f2ee7a2e0d9ef45035a2d8552dc12fcb8e4767681ed1ded0c",
+      "meta.json": "221fff64a621b94e9d8b2868a71b574f6e291bc57eecf5637fd4e73119af6cdf",
+      "off-equipped-HELMET-vox.png": "006ad73dac7bb4c922851f9a2488a5d3a258fd1ca8335b4e78d396a523991da0",
+      "off-equipped-HELMET-vulpkanin.png": "d88ded17f5dc8ee70f76e3ff68411fd5c8d0577bbaf6092dca7e2cba29427e79",
+      "off-equipped-HELMET.png": "cf0157f1715118fd94fb01e5cc566b1c843bfd196079fde4dc84c0189ccfc556",
+      "off-inhand-left.png": "d9141e81b8cf4714b0151ce0a0336d2ae9fd86d392a897ab8d45ffb9ac9f45fb",
+      "off-inhand-right.png": "5ea7984e49a21f32bd28f47ff49e4640b5c98b1c108db31b9321630e6f2e1a18",
+      "on-equipped-HELMET-vox.png": "e50ef9194dc19e5cf7dfb8f2d7099c3da642d30615421d04762c0cf7b3b15b2a",
+      "on-equipped-HELMET-vulpkanin.png": "c79d503960621a1e483f0bba6f29dc578b1f102bf06935fa080a80b0fbbad72c",
+      "on-equipped-HELMET.png": "c0b3fff1003fe6cc8d5c5fa577d88bd3a590cda4260a162a0ab861dd6b381b98",
+      "on-inhand-left.png": "debbbaa09dcea889750e478b2ce4f3487c6ef3a628a89ae77179e820570bb16c",
+      "on-inhand-right.png": "051fa1da10cc6f961b6509dc8b76ed0be3d6817864b3a34454dfd727146101f3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/bombsuit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/bombsuit.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at commit https://github.com/discordia-space/CEV-Eris/commit/a75dee2e6d236612dbd403dd5f8687ca930c01f1. Vox state by Flareguy for SS14, vulp version modied by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "74069b3c3e6adf32aba60486f30f45ca2c80204a6d3ccfe19a72942c6c1026ed",
+      "equipped-HELMET-vulpkanin.png": "f5ab81ffd7187277c21f6b5983f1a4150351bc22e081016f9473311f159273cd",
+      "equipped-HELMET.png": "9e5ef02584464045c0e0c943cd42aa9c98152d37805a2130e1e6929482aab78d",
+      "icon.png": "1766aa003ed72a6a242272be9621b1cb210fa99022af8b1be8daccce17a0f799",
+      "inhand-left.png": "2588424dffc07dfa4bea0aee80df9a6ed8264dee73e9a0c3019ad640bbecccf6",
+      "inhand-right.png": "914c797724197789e44f106b23d008087b2fada20c320949dad69e1f5ffaeea1",
+      "meta.json": "5ed592aa765e7a83fa66ef5c0112f24a0643f2a070e3957c7637f13a01af7de9"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/bombsuit.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/bone_helmet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/bone_helmet.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, Vox refit by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "3e96b4d711399760e77bf5fa7f6c2389789ab057bc97f4ac194a05091a401697",
+      "equipped-HELMET.png": "9f3e0bbaf4988cfe3c815119817ee62898fa0dba03bd92fc99d806a1147f2909",
+      "icon.png": "b2918579e259f351c0f3304ab42ad879f13123a2f855bbef16e88a795b408051",
+      "inhand-left.png": "12987a8891404fd2db4088741f111ebfd59a2fff3661f73d2abe5324f356c692",
+      "inhand-right.png": "3185e48fd87140714fc932c73ed289b8d1ab08def21acb481b2364b5099720d0",
+      "meta.json": "ad02d406b2677690b68bb2c0d863691b7656624471794211bec19443aec83248"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/bone_helmet.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/bone_helmet.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/cult.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/cult.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, vulp version modified by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vulpkanin.png": "7a5369b743d44f062280ba2bb0fcbaf4914b153c58dcb0278c06fa7754398106",
+      "equipped-HELMET.png": "a961c815945c1cb73bd562e2d607f62f9dc166b8ad57e2a366beafb3855cfe2d",
+      "icon.png": "3720ba00cc187a4272b6158a56d7fc43547a0656fac85ef994bfaf23553c62aa",
+      "inhand-left.png": "35b958ccb7c58a0407c0f4ed5db4d69c3fa0bb285f29ecdf9fc8ff4fc00d1004",
+      "inhand-right.png": "29e389daa625d9ea905417d3f7b4ce52f217bda6664be25b40df03db4739fbe4",
+      "meta.json": "20ba18781d4153040e17ddad296f53a0770b3800cc56211b98c9567b4f68f422"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/cult.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/cult.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/eva_large.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/eva_large.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite edited by Flareguy for SS14, original unedited sprite can be found in https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a, Vulp helmet taken from DeltaV https://github.com/DeltaV-Station/Delta-v/pull/517",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-vox.png": "61ffe539c7a995c05bec41664ff7a22a9e49a200fcd65c8a2fa616815ea4abe3",
+      "equipped-HELMET-vulpkanin.png": "84e6f113e49f43a2a2ba61d3950c0409f68da573759430bf56262097d8e3b50d",
+      "equipped-HELMET.png": "5395fb65a1002b283d9c07bf4067ef8be187c73fb3716a84a4c0cc23a16a0c4e",
+      "icon.png": "aa9494a9c2edc87b2192d939c705eb0e4117c89ee17bfb7069ae981821f3de7d",
+      "inhand-left.png": "cb9d1ab9896483edd181c8de624807822c5196e92b326e197c2fff48a1e3ed07",
+      "inhand-right.png": "252964b0379e12613871225d33ebf4242daf5e4b5992b27640af0d55c571f303",
+      "meta.json": "423555f09dc0f9f5a80e912352a2bfcccfe30182ced24a97da7db921746756e8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/eva_syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/eva_syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite edited by Flareguy for SS14, original unedited sprite can be found in https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a, Vulp helmet taken from DeltaV https://github.com/DeltaV-Station/Delta-v/pull/517\"",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-vox.png": "ace638fabd6a2f94206484ddd44ebee574958d75f6578ad487a1ca52d7c06510",
+      "equipped-HELMET-vulpkanin.png": "dc9fec4935fab6fa5254fc79c34e94d16ffba23c4607382c743d622f78bd996f",
+      "equipped-HELMET.png": "c810f2860dd1dfe971ea0e48faa06d7c837ac373f85b611a6c1436af5f16d155",
+      "icon.png": "be5fb767ec2aa2d61842779b4076179e75c0c9bc628fdbb8aecbe355aa12938e",
+      "inhand-left.png": "7c8296ff6127d1208ad01097ea9ab5edc617d7fb087e93532bc51092e71f6a70",
+      "inhand-right.png": "ad7d0e71e7460a47464f901cabd52abb851de8c12a6809344ea8929646e0f3f0",
+      "meta.json": "6a9644fc2187ad34d52384f6296185ed5c5ad2fb8e93fc13d505f6fe6cc63509"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/eva.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/eva.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite edited by Flareguy for SS14, original unedited sprite can be found in https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a, Vulp helmet taken from DeltaV https://github.com/DeltaV-Station/Delta-v/pull/517",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-vox.png": "6662f54bfb07b2de804f09a8c198493d0592cff10ecbdbb7adbafe4cf071ed9b",
+      "equipped-HELMET-vulpkanin.png": "69fc0b6066c6d2d0d800521aab56e2a443b771cbb9d88f5f9f52a3f445153dfd",
+      "equipped-HELMET.png": "9456403eaff1aadc9b73da6549fe03064b0b075691b7a2f0e8ae44df15032a93",
+      "icon.png": "9557518459e27c210c275c0261412f87027f052dcd4fa4a856f3fbd24c637a6e",
+      "inhand-left.png": "0c46f7ee207d65f59204ac95e832928a8f836489d78966a8181fa690a8465f1b",
+      "inhand-right.png": "f2a09936cb636e0a6c4b17fb9fdb266f9319fdf0d1da58aa52064ef17d60c579",
+      "meta.json": "423555f09dc0f9f5a80e912352a2bfcccfe30182ced24a97da7db921746756e8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/firehelmet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/firehelmet.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise station and modified by Peptide90 https://github.com/ParadiseSS13/Paradise/commit/46bb8d448f52278a8f027b3f5bdf061e39d06140. Vox states by Flareguy for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "78ad18596c0a458d74dfe3c6257d76d2720e70b12e9db0eec51b0509e6ebbe32",
+      "icon.png": "fab49d785660d2e136a0567c29e3e894e53bf5baa75b859f794e6f5744e4ae0b",
+      "meta.json": "a4c0d34161a7a20944994d1304badffc2d3c79c2cf6842c2d35091569d03b6ae",
+      "off-equipped-HELMET-vox.png": "6289979e715875736da267a934cbbffc0c2e0cd71ea4b7606617aa22bb84cdca",
+      "off-equipped-HELMET.png": "7cb85963fb79a7720297c7e69deb8d8eee4257f84c0950b22bf26b5acd884677",
+      "off-inhand-left.png": "272ce3abd61e47680f30955ec211441eb8b678ff8c7100938ad52db00f28b37a",
+      "off-inhand-right.png": "638460ffd3d8f6733c6e69df691eeaaf73eba04bdae68d0438d3c1ba66007d43",
+      "on-equipped-HELMET-vox.png": "3e0ddf698e7c278bcc285b9d2556b3857a7165bbbb7947873b1f4f71a54c918b",
+      "on-equipped-HELMET.png": "2c6763f553ea14d17f675826054cbe2d28b9e78fe175b5e034f1eee589ee8edb",
+      "on-inhand-left.png": "ea6de521bf128a44d37a3231b395a06b44bf1a11a440bbcada523ba040d0a5e7",
+      "on-inhand-right.png": "9d130a0b97c779881b0547733de333d28c99dc569f878f73ac6298b4d843c235"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/ihvoid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/ihvoid.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox state by Flareguy for Space Station 14, Vulp helmet taken from DeltaV https://github.com/DeltaV-Station/Delta-v/pull/517",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "cabc54daebd6f5877e1fc4b78c010e2b65c487a5cd610f4f0fdb367fee34d167",
+      "equipped-HELMET-vulpkanin.png": "16e8fca5f173e48a4de10249b831876d1a62b69b4384ca34a7eb3702ce39f94d",
+      "equipped-HELMET.png": "199b1f7c1e8cd1b430a39763118304aeacd5caa32e126c5bf941b2049c7940ea",
+      "icon.png": "cf6fe59fa9d92e76bd1afede9a61f9706c109ff14876dc8a7389c9c6ff0126e8",
+      "inhand-left.png": "339b5152c028a62d918925110e5cbcdf4aaf4d6a4d51efc01d16ab0f374699aa",
+      "inhand-right.png": "cdd725f514e4145a0088d0a0ef371b0193ecaab214406ca67caf102fe274789d",
+      "meta.json": "76f92ad3d29642b075017ba1b7f727ecf4375938e86831788eb169d398d3ccf7"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/ihvoid.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/ihvoid.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/light_riot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/light_riot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d90c7e5de6f6d94596c164da78dbc8d3cd35bb99 and modified by Flareguy for SS14; colors tweaked by saintmuntzer, colors tweaked by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "7c1c5e42edf41619365367698da48d901b79834280c4d437221f7037d63d3877",
+      "equipped-HELMET.png": "63080615334c060ee19d4942766cb5e161b29d3348cd348b80bc23fdc99cf3ce",
+      "icon.png": "d00007d91b695385beae8b4f0492b6c829b809589829b364e67b335b2425cc50",
+      "inhand-left.png": "ab432c4b8017ee6d922868d16ad7c2b108c51404ddd1531a9fb73d1c49d229bd",
+      "inhand-right.png": "8a3346223c6c3d7c43dded83e5c61dc8b47e1b057e3c9f1537c70dfd6c2df2bf",
+      "meta.json": "2af1a7b616b622adf15f4d6ba446b7bdf367d3886fe5dd54e99f5011c30e4237"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/light_riot.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by DieselMohawk for use in SS14, colors tweaked by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "89788110a5eb97421ac2bc34fcea78292e0b735dd8420c7019391f78a21ac40c",
+      "equipped-HELMET.png": "e3edb58b1cc4fd24b17efbf8c0cc4deed1f884dfb1ecaf7c85ccefd07ee8107f",
+      "icon.png": "b44d3a11ae3607e2ce3c644b1aee0f73ca83aea4150fbea9b27191dfe322d2f8",
+      "inhand-left.png": "efc64cf78b6071b8f1d492b5a7db1403e201a188f69a75f6721502d01a97a875",
+      "inhand-right.png": "1852ba750625c14a11e73a53b4d8b10ef50e927a664e9163f798e24f87bfe13b",
+      "meta.json": "5b340bd11e76e047b93ae8fbb5356361c528ac944f8b0905a309742ac5187a4e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/spaceninja.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/spaceninja.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation (unknown commit). Vox state by Flareguy for SS14, vulp version fixed by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "ba5f17367f01ddf56616eec7a7295fd7e4ecbb4dcbcac563a5913535d41d9e76",
+      "equipped-HELMET-vulpkanin.png": "b992a10eda1c9391e8f753bf3806411127a93cc8a814aadc036824c6aba6d7a4",
+      "equipped-HELMET.png": "05e1226ba042e7496cbad2eb91059009c9bfbd35a2613a61f327fa37c80021eb",
+      "icon.png": "981bed9576a051b843ecc076e4d3a0c746c705b4c04f469a53763f56ca5947ad",
+      "inhand-left.png": "4ebbb0c6e95de47765d7d4b27b8bdfb80549164d8897a2cb9204d90fad562977",
+      "inhand-right.png": "a56da21adc2ff798b3c25ecd353e24efd42d3206174b24cb4ba5cc4c51cfb341",
+      "meta.json": "58360c9766f27a7adff0c2db6fda748fcb7ccb1029670a0cdabfefedbcb41629"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/spaceninja.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/swat_syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/swat_syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d90c7e5de6f6d94596c164da78dbc8d3cd35bb99 and modified by Flareguy for SS14, vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "ffca5f76fa0e4c5b0d1f176ac07476d58805b3ec67f677902a0cd85ef625e065",
+      "equipped-HELMET-vulpkanin.png": "1b7a22c20857a60bda9638315424da331e743e0a0777b959d13c7dc8534ef2cf",
+      "equipped-HELMET.png": "321cece7cc4f9e3fdb0b38bd8fd00e2f65263647c4922c8af2bce853856834ea",
+      "icon.png": "644e7f1ae48fb3e13f9c96e85abda6b366dc31ce53c7d96de170a89342ef3e38",
+      "inhand-left.png": "b7d948b7ba4b8870a00abac75a5a690fc962ca0e3402ae172ef7841bafbd1a27",
+      "inhand-right.png": "d319a48a7cc8f9b218688b15446be41502d17d1780fb464b40c442291d289af2",
+      "meta.json": "6210dda5aebf61d7d85e68c0688a7a6b76f0bce885f5300b833da0b8f18eacc7"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/swat_syndicate.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/swat_syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/swat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/swat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d90c7e5de6f6d94596c164da78dbc8d3cd35bb99 and modified by Flareguy for SS14, vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "85b36466b1132923b1579c098e7bbe91b005e494da301e8658a20da5ea66a8df",
+      "equipped-HELMET-vulpkanin.png": "eaf84e34c40d0428901b634ec1f3ab64379107d9495c890eaa4a99742f55007b",
+      "equipped-HELMET.png": "57a91c95258cc49b751f4e109258c60ff4c177ea09ecdfa5aae49220ee2524da",
+      "icon.png": "39652e5f86f844da3a2956513f106e725edd4fadeee5d3ba943293089b84ee45",
+      "inhand-left.png": "4cd673fbb6e193ab020c3790d16ba10e9fbd5ac23a77a4bb3b1fbfa4b8dc2575",
+      "inhand-right.png": "8e568f9a6f044243a2c080660e52eaf8edff0b02bc988ac94f7b3223718a2ee7",
+      "meta.json": "6210dda5aebf61d7d85e68c0688a7a6b76f0bce885f5300b833da0b8f18eacc7"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/swat.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/swat.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Helmets/syndie-raid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Helmets/syndie-raid.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by alzore_(Discord) for SS14 using the colors of the blood-red hardsuit, vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "7e1f35e6df48af6ad38c2d5bbc50c2b8263eb430c073b3dcb527ad50bbeee161",
+      "equipped-HELMET-vulpkanin.png": "64e14ae3af80d6835935616140ccabcaea0878d9ca4bfa86e15f86259244d818",
+      "equipped-HELMET.png": "70264af1cb781a5123fcc8e60492416b78a4b01ca19f96cc09c6b3947de288d4",
+      "icon.png": "af95efedb2d1c0dcd19142d092319845244c6df4a592e086972417faccc10618",
+      "inhand-left.png": "b61bcb7d004e00e3a265c60926f76c31795fb7eaf61a4e7c306694e9ac108252",
+      "inhand-right.png": "fb9f36470cb05e6a025b832a421ba010c52bee90746f3a4c5a31c597ff6d3eae",
+      "meta.json": "1e2e15d3ae5a41ade8b141b3664465273a069f7fb51160ab12573fe74abbbd28"
+    },
+    "replaces": [
+      "Clothing/Head/Helmets/syndie-raid.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Helmets/syndie-raid.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Bio/janitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/janitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-HELMET-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "9fe370fcdd20f6dfd3fd63796b27a1fea93332c50cd52e7b3f72fdc11605bfb5",
+      "equipped-HELMET-vulpkanin.png": "37daa138f15ce0403b61543110b26008a90d316fce3cc681f0baacc91d58a807",
+      "equipped-HELMET.png": "53bfda9a640c407723d2c570af596cd4545805b4461ba0fb1de4464dbfc9d90a",
+      "icon.png": "cec9d3b747396610ab89b1a285bed160ca111a04be0c61b755620989e6dc51ee",
+      "inhand-left.png": "76c93845304017762c3e4d283e865ce0c3ebf50bc11ece737a9f07358bb36e12",
+      "inhand-right.png": "4409ab62ad5a73241f5d1d0479969aa4d6a0e8f6c3e99967337991656d1d1a5b",
+      "meta.json": "e8d1f089f5798e4174244b20cad667034f29f2f6a353e60bd9793cc9eb1dfead"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Bio/janitor.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/Bio/janitor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Bio/scientist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/scientist.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-helmet-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79,  vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "8c01d3ce0f70dcc732d6b76b4dccad60829726fab64b87b1b6ddab34c96af0a9",
+      "equipped-HELMET-vulpkanin.png": "c46bac288479418aaa96abebcb5ace3f0f77f860ace8a9debab6a1cb3570424f",
+      "equipped-HELMET.png": "23a7cf370ee84b36dc545f2a236c72ce65b4e56a8be7af0a787961740fd9f35b",
+      "icon.png": "ba4251e0479fb65416109673cfebffcde9e73ebc2a52c139529a43d3898e7872",
+      "inhand-left.png": "425ea16c0c03546b0b93aa8bc932e63391de4e8f1d2ef176d1cabdf2f70d2c15",
+      "inhand-right.png": "ce27ca2874db11939104887501b3dd4d0b61b05efcf8dae6b4ce7f03a0b8242d",
+      "meta.json": "67457ff06c51370d45b6c58d4ea6a427fc7a03f391b02b9926912a7b976a04e8"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Bio/scientist.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/Bio/scientist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/Bio/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/Bio/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-HELMET-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79,  vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "9b3c1de45ca4e4bbf8968f07440e7caf2695f29c330a86f31e230ad8ce3e213b",
+      "equipped-HELMET-vulpkanin.png": "e17cd91bcf27f0f21529ce4c3f4a7ca076ba79abdbcc74e63f495e3df493c410",
+      "equipped-HELMET.png": "8ee8815f26d6aa0d5a191d85a6bd8031d6c3665ade30aeaa63754dbb38ecc52d",
+      "icon.png": "0edc0cc3714c298b48e0497aee9f4a17b9a20e2e1a6c2867631c1725ed2879d2",
+      "inhand-left.png": "dcf9f8f5aec09dd11d959b161230f9bdbf84f3182b1439ec04ad58579e4c91c5",
+      "inhand-right.png": "ea9cd87f74ef67a96939cf42013e027e08485f2360c996abf905e6c90d530436",
+      "meta.json": "954817fbe6a149feaff5fe8dcf137c265dfbf6cb51014cceaf0a861e5f6bf060"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/Bio/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/carpsuit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/carpsuit.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Modified by deltanedas (github). Resomi state created by Huaqas (GitHub), vulp version by YERO.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-resomi.png": "5673a24106687b12ffc9c1c1226d1933f0283fa73a7e9e1115167b767a8c0605",
+      "equipped-HELMET-vulpkanin.png": "8db5fb7beb5c1cb3ec35bff63b04a145428e7d6ff495b51f0e0ed34e1ef8cbf3",
+      "equipped-HELMET.png": "ebcdb08173855e8d70a7750448ff619ae9e728dde609c178a0535d5469377d07",
+      "icon.png": "dbbfcd668acb393131a1a6632d61613e57e7a66b45c61258cde8dbb59834b786",
+      "meta.json": "5454b2a5f3c676c22de097dadd60f5491ae4547cf1bd46a2b549e008b02aa7cf"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/carpsuit.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/chaplain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/chaplain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "5829d83465117104bcecf7632862be709c935715ae08f165a07ecf10d25af46e",
+      "equipped-HELMET-vulpkanin.png": "0390dc71f01350d87d15f7a1bc1a0c1219d57b35526f67177b4dfd621cb499c0",
+      "equipped-HELMET.png": "1c1f2896ceb33e6b54d51017acb7cf975d3161f5fa1a68f4d5f5538e72d0e493",
+      "icon.png": "216dad29a836b454745c2995720ac928416dbd15b37eb447d1364f301d1c52b4",
+      "inhand-left.png": "7acae426fd1375c2978e2011c145cd15840aa972af0bbf0e0642e3839496099d",
+      "inhand-right.png": "407d0caa91cad580f7860f02cdfb948fe064891ffd57a2d003b01a141f941b53",
+      "meta.json": "e43471ed959bea1a78603c7164d0830191a396a4034b22500ffccd0addd2d202"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/chaplain.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/chaplain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/cult.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/cult.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, vulp version by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vulpkanin.png": "5547f290093b91f979f8db709bdae0aca13de1b4a8a38b3348731f6c3537a0fd",
+      "equipped-HELMET.png": "03ab3a6ec8363bdcc4cd03603722685e1a2332394c1e326be57c73e74720ecd9",
+      "icon.png": "149c749277d126219ceacb1b51ec7897906a11728578566514ef1743e362be58",
+      "inhand-left.png": "2e41819141782907bd0bf657b2957212c641d025c65ba0268a18a4f9d1b35bd6",
+      "inhand-right.png": "60f9dc06373e8caf8d4ce95bd91323192a2c29b4ffae6e5017924604ea4a31c0",
+      "meta.json": "ef928adef0f547748add6951bc1835f061bfc0d59f6e67373952da14126090f6"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/cult.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/cult.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/goliathcloak.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/goliathcloak.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGstation from this PR https://github.com/tgstation/tgstation/pull/27537, original sprite by TechnoAlchemisto (https://github.com/TechnoAlchemisto) and modified sprite by FantasticFwoosh (https://github.com/FantasticFwoosh)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vulpkanin.png": "7beac6af936a19419f51b7c006b70570410cc2655e2136f657a66765ca81669e",
+      "equipped-HELMET.png": "b1d224b04894f3e1bc0eb4612cd55ace76155615791060eb8436589f9a41af77",
+      "icon.png": "43f80bc9f96d5a6e29850714cf0af647e3eafb273ac8f8b95f5eb09be1a973f0",
+      "meta.json": "240de1752be48d3ca9533da4934601216e4a01e804a02ef76d83bf8001bfe076"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/goliathcloak.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/goliathcloak.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/iansuit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/iansuit.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Modified by deltanedas (github). Resomi state created by Huaqas (Github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-resomi.png": "fa86fc780c574220aedff847cbaa36cd5f01b1d96d2d09adbdc4581d2eba3a89",
+      "equipped-HELMET.png": "9ea9cbfee1768b91b9a1a99d00374a2e45783e8b0ffc472c812af4823ef6db16",
+      "icon.png": "4bb137a800c64cdeebbfa698f16fadb770243e6857d7828892f60a810b0ba0dd",
+      "meta.json": "2f014888394f15b2964e400fc4a501a7f4dc9e432830769b271cc016320912d0"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/iansuit.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/nun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/nun.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, vulp version by Yero",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "0f388db28983f8bb821f0b560757804227df0e14ac7d9683e813154bee2a3c4b",
+      "equipped-HELMET-vulpkanin.png": "b7e41f777d2156abb1ea9c72c38f025bbdf504c5698948d5044d847f8836c46b",
+      "equipped-HELMET.png": "89ace9a5596742c106fb4cbc2d71e683ab195bf4a67edb027d7ced0021191bac",
+      "icon.png": "9247d9f40d079c0e0ea6cd0f82ea6d199b034cd0e7e10b1c8c5b909601253799",
+      "inhand-left.png": "0948843174fbf2cee78e224499ac82a40e80ace9b740cf5b6237cbbbbd3eb420",
+      "inhand-right.png": "a099691f8b57f51cd7f5c7765653af145dd2beb7ac20e2697d831cdcaaf24954",
+      "meta.json": "e0a544c16cd9606ba92569539d51bd6318ac674f6eebe25e9ff02ec097825aee"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/nun.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/nun.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/rad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/rad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/pull/26671/files, Vulp version by Yero",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vox.png": "68ddadcf90aaa17cccc73c6b51ff67b8fe2eb2026bdd28496b528e602da34b2a",
+      "equipped-HELMET-vulpkanin.png": "bdb50205ba39b3307d7533fc5d687996e097fefb29c630f8b0841062cdfa5716",
+      "equipped-HELMET.png": "0df26f226d467389ddbbdae7f5aade13dee6e824007057a3a5530a648cd052e5",
+      "icon.png": "b0229d3dfa340a0a18927373dd399cd05612c968ae4845e4e4aa2378f7d0dd67",
+      "meta.json": "1a98d2c23560dc5e24424340cc3b001d9471aab666722f2ff3c7082c3fafe5eb"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/rad.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/rad.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Hoods/voidcloak.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Hoods/voidcloak.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Made by Dezzzix; Discord: dezzzix, vulp version by YERO;Discord: AweonaoYero",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-vulpkanin.png": "2d7434656a7592f4ddbe61fe86e97a9bec81517686450a6ece63606816dc5d14",
+      "equipped-HELMET.png": "d38869c4a0c7f1f11aeaef432d8ecd233412222eebb079b13fae91b19d311b4c",
+      "icon.png": "4c513bb37481fb24f31ecb0c111cba7461f0e70db6bd668538a14408f94d3ae7",
+      "meta.json": "80156985ba2aff310601a034ef63c9e77e1f2a2ffa3e9887b9d2fa43476a4992"
+    },
+    "replaces": [
+      "Clothing/Head/Hoods/voidcloak.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Hoods/voidcloak.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/chickenhead.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/chickenhead.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-HELMET-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79 and modified to remove duplicate states, Resomi state created by Huaqas (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-resomi.png": "9371882e10734a5f418e68e1704b1e662d87e3b4fba4d5b1ac97d665dd597f37",
+      "equipped-HELMET-vox.png": "119f18780315a93f6007a5964904ddd62fdc986e1f3c397a03cf18b235564bb7",
+      "equipped-HELMET.png": "05878ec4d4118f45d1f379e6e326f1f0f23bcd4eb338f5f055a44c1279515abc",
+      "icon.png": "bf3b9205cf1499e4a460f733a27429276c08fe0ffd5595a9561329b9e53f1414",
+      "inhand-left.png": "f85aaf9ba60b6582142a3c29b5f6bddef7821e373c8660c0703d66ae6080c74e",
+      "inhand-right.png": "9afafe67cd53fb64a178aef97ad6c73b3109a5f2795c286340824540653ed9d0",
+      "meta.json": "18b477ab7ba9d659d22d012eb1c849c9a052e639ace11af19615d21ec2c78d25"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/chickenhead.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/cone.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/cone.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/a0ea68909c06529bac03c27283134196f4fd4a97",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "68f72d7b4d0dfc145c7dfd5dec0e9713d45d99487761d4b068f4f91bc0e92ff2",
+      "icon.png": "7ebf099004d4bd76d238a42ab61978bb75ae6ed3c38aa2a6c5e5b29defec8aab",
+      "meta.json": "7fc2a1e07dc0cb06a8a5a2d6f4ca28a3619e71822f8a23671166cd12e839a4a6"
+    },
+    "replaces": []
+  }
+]

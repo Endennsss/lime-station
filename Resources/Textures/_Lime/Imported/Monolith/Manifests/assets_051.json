@@ -1,0 +1,967 @@
+[
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Consumable/Drinks/sojuglass.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Consumable/Drinks/sojuglass.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "710efbc8a3856332fd9b62e6397748efcbb20fbc5ffd0716a045744d0355d437",
+      "meta.json": "1d66887f30f5395469534183ef65ce5ac6e8da53791254bd4091efedd5f4d7d5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Consumable/Food/cheese.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Consumable/Food/cheese.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/5c97b13e18b6cc8afcac911b44f115162c477ad6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cheesecurds.png": "a050d3ba63cf341378d2aa4084dbc25c270f787430c950e71d3e705a61f3e37a",
+      "curdcheese.png": "4bb03ac6a4b435814b5353c740f425fc3140c86ab33e39bac97a6f8ab394d25d",
+      "meta.json": "c934e0c6e347b0c9dd5e10d82b799180e4a83eb3a2c184c63ab4fc5634f75482",
+      "mozzarella.png": "4429e15b14fc7a1d34e7e6a466dd69de857634d9c1e86a4ee06f72cf4a496bce"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Consumable/Food/moth.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Consumable/Food/moth.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/cf899a1821ee05318f75bc1d72240b2df51c0965, Pizza sprites edited by FluffiestFloof",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bakedcheese.png": "a27526fc23cb900f22f74494d5e2688480fbbc9005b736b794150560a012e5c7",
+      "bakedcheeseplatter.png": "80a1230b4609397adffaee6f692ba98881dc53318ebf5a76828036a38647e9e1",
+      "bakedcorn.png": "7e6ebd1cd57551ff19232046436185baf7cd9a006c7da8057804ca0c12d7589a",
+      "bakedrice-portion.png": "940ed7d437295d9d95d20728a91f290b702082b1847f3441e94c24300e8b09d9",
+      "bakedrice.png": "afabaf0d8d83632f7a3f91ab865bde8060ece682d75472ef6adbd47a947f7da8",
+      "beanstew.png": "878bfc6d593f39bea00b93d9deaeb95f9a58ef4d8098f051fd48a8ecd5acf4c0",
+      "bechamel-1.png": "dcdc2b1c532595f1451fb68a8f988c6db324b91e5ee348701e8438d1aed92f71",
+      "bechamel-2.png": "2f00e2b4ab2411d3daa361e9739d3de2e8a19f366e9d46ad0a5d096fb9a88334",
+      "bechamel-3.png": "7f6e25e8f18b138fbcfca7e77077352ade948dc5af327c15f04f5c85e79d789f",
+      "butteredbakedcorn.png": "1d5dd132c297db894d98c800e49d83cb139d9991c89352887575a7643c92190f",
+      "capresesalad.png": "12fea5be6195c06aad42aeed012054ab1f8880ad8dd48bff7e2d3ff02bbf9792",
+      "cheesecakes.png": "7bf13b1c26b6c2224de7e3dbe2278990b4251603487a69c1354412092f2bfc94",
+      "cheesesoup.png": "97d8cba81566dd40ea82424a3cd492c80809dbcb14f61973fb3af9278c1a6e6d",
+      "cheesyporridge.png": "c01a8dddc9fd6e2912b1a7aedc2a0ab46eda995282430d0acdbc988c75a3adba",
+      "condimentbowl.png": "94402aae6b3cc7a3604747d44ca8df416b639878451f65adc93ac3abf127a91b",
+      "cornmealporridge.png": "59d2095d54a55bafd0ece6852d293eae3512b6b11b538c7240fc1e976e144e5a",
+      "cottonsalad.png": "892dfcc0c2383264e96cf501a7c0d458170363b434d27bcbec9edd8f4e42373d",
+      "cottonsoup.png": "780419b1792bc93bbced284516308d70fb288925041ef6128361b140fbcf6bb0",
+      "eggplantpolenta.png": "c340491fdc70ab4e568a4bbbac766be3a891813df2beda807c3b10de5fa4caa2",
+      "eyesoup.png": "effffa121533167d1159ab1c484114d648b7c538d7254d8ec0bc25258a55d7a3",
+      "fleetsalad.png": "0f26fd1099115e2cee3fadd0812c417e65cdc19bd1ac29e92e5c3cc121239cf3",
+      "greenlasagne-slice.png": "1e3061dd3fec5d8ae62b4a00a6592c36d5d62b7e14cea15e78090d14d0da528c",
+      "greenlasagne.png": "a87e564401ce3cecf607ae53f5f8b9f7cd187e4e952e80d50dd32c5551e461ea",
+      "heartburnsoup.png": "f2b37282c605396346b43510aa1cc0d45d7cf2952b39c735b161fb6954fb40c6",
+      "herbycheese.png": "af8d7f9be36cda219ce9f658aaf49502f97eb9469f0811604a9bee9b65caa65b",
+      "huamulancongee.png": "f515f53fac24352d30adc14b0fe3ba240ce10e95b8d068088dbeb7b0074e2281",
+      "kachumbarisalad.png": "a6ee6230336e8e9c7a9ebba0d72f09ac535d31eee991c12c00dfacb817aed950",
+      "macballs.png": "e537db3664c35cbc35f4464e580bdb54695309fe27f710d2a256d89642752e7f",
+      "meta.json": "33c610448f8839134845df1513e50bc156b1267b19fcb57bb984d4e531d58e97",
+      "moffin.png": "eee5f97f5b2a1dcbb5ab4f9eab53b7dea460bfbeaefda3a9e282ea1dbe0ea7ab",
+      "moffin2.png": "4a3f52da73163c6a52be0ebb2f5044f81f2745e55ecdba53a51f3f3213f1d9fa",
+      "moffin3.png": "c83609cef9b9891d71c7e588302ef046305ff214f3db6619c3a2d02193255ef2",
+      "mothmallow-slice.png": "82e2c220b0ac5f0e8dd095ce4db777615cee87a0b3a7b4f9cea2509fd3579ce7",
+      "mothmallow.png": "26eead043adbdd012914994f73606ed023f5a8b24456d2a981710d0c141e647e",
+      "mothsaladbase.png": "50fd1479e93094ea7847e432da517a950d3aee53381a36edbd931d4c0cb9574e",
+      "mozzarellasticks.png": "b7dbc23ad096a6dc8b5ec8f61afdd64669a19e1bb089ec6fbe6d1febd1e8a738",
+      "oatstew.png": "17b2134fb21e81c0b1492ccda1b08fa8b7532af72f07f3602a90a3800671fe8b",
+      "pesto-1.png": "95b39e9037608dd3a4e69bace930e3a32a509f08fccbb0d870ae648e5dbaca33",
+      "pesto-2.png": "ad02476902d6a8767a14c9e70a29a8427006bc54df4fb7da22a8b1934ecf3cae",
+      "pesto-3.png": "eaba50470f93041abb44032ec57f28cffce5fb2305e0b44e1551e078b703e60b",
+      "pizza-cotton-slice.png": "3ca2bfb0c29c1bdd469c32df96aee37f3333a6a56d6402c569233b8964ef8b39",
+      "pizza-cotton.png": "4f74603bec571dabcf4be5189d5cade0b0347d0845a89bb5b20281fc5398f276",
+      "pizza-firecracker-slice.png": "69818c4ad67db3d1566627b93c34dc533e2212eb153d1b83e5b14d889d1057c7",
+      "pizza-firecracker.png": "e92302ffd729129826773886035f70efcd8e7fe8ec828d1db476e2fbed3fae5a",
+      "pizza-fivecheese-slice.png": "80dde5f1657e3d137cbe3a7d2022c3b88fc385ba2a7f16fbd992241009021a03",
+      "pizza-fivecheese.png": "dc21171882c7b05b3525d3931238875bd7fa0b19a3474697ce6d7479a5fe8088",
+      "pizza-garlic-slice.png": "5b32d45c727c43cdc06acfb22b3cdd9968585d093431451faf6e1a6b9fa6423e",
+      "pizza-garlic.png": "967ec42699b57dcaec44778798dacb36f0c74bc021d4fc9c085f63434b38fb34",
+      "pizza-pesto-slice.png": "b35c6f8eeea96bed446a49aeb79d2c4802f2177832948c3676718471fb03191d",
+      "pizza-pesto.png": "3c3a7253c953dfc8471020e8d5fef058ed650edaf9f503858843278380e43a50",
+      "seedsoup.png": "2a0fb7277d33f9d88a1e520c3e83c7dcf5d21d0ff6c49ebbd8a780668e0a2046",
+      "squeakingstirfry.png": "60584b3ab9995d2015670ddff09045d03ff78035e8949148f759a97bc9454509",
+      "sweetchilicabbagewrap.png": "b7d55cfd9b200314ad8d9d01704a75e52a9572796259cb0e74d53aaa730bf8a8",
+      "toastedseeds.png": "0f4b54601cc1603fe848dda8a4b2f1547140c2b2ae8ad007a3dee9b601959885",
+      "tomatosauce-1.png": "539b83d30bd98b84d41b9d1e8fdc5b14d80edca0827cd869476f3b1be66285a0",
+      "tomatosauce-2.png": "9974adbb9b2b14d40aadd3ab30595c81e3ef7ec49afeee36b89e82b7e99fd41c",
+      "tomatosauce-3.png": "cfab33daa7247c909c0c4e93b227001bf9c1eacdf90f8c99b77184699cf18d29"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Consumable/Food/ration.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Consumable/Food/ration.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/cf899a1821ee05318f75bc1d72240b2df51c0965, wrapper edit by FluffiestFloof, bars sprited by Kurzaen",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "de56cb10acf2f041903e3a2cd1ff08ad00b9345fcf8441f681d7cf021e4d99cb",
+      "psb-bar-banana.png": "052b97be758651663fb543b7dad769e0c1f2af50347ca726210bb4162f789f21",
+      "psb-bar-brownie.png": "9f0fc542e2828508de2910fa68d20ce663d9cc004126ad9a8e7ee9dbdc4109d2",
+      "psb-bar-cheese.png": "53577963cc0f0ebb7eb456dc7394401a40755988f6245dae281c4721e853026b",
+      "psb-bar-meat.png": "8ddcc20b31e79a7437c6e5f104ff557f1b1b5097741b40606aeacbcc48549a64",
+      "psb-bar-mint.png": "8a1e896d6acf903323fa7ce683278f120035983ef6c155015365f2af6849da26",
+      "psb-bar-neapolitan.png": "e7cbc180c3adf26293eb57fd2e6306570b2c9e98ed3b65e45eefd95ed6d506df",
+      "psb-bar-soy.png": "5df8cf796c0bf90e7170447133f22f2b36d7ebf76278e6cadaf8263a6244143c",
+      "psb-bar-vegetable.png": "77b3c53996429bbc2e86a03060ac47cea98cd3c5f421ab0f99876a11c60d4f1e",
+      "psb-bar-wonka.png": "65f3b08ff4c07e10d09f76539ca75738405d3c74cc45a6a6811ed04e3e4a8a20",
+      "psb-trash.png": "6a8eb1294e76c3543d603c51660332716adef347a8e8189762b32b43aed40288",
+      "psb.png": "09ad4bc19cafd206be9312cccad9e961e6c8e21a64996e89e1521495aba2e6d5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Consumable/Food/snacks.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Consumable/Food/snacks.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24, brownie_batch by Velcroboy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "brownie-batch.png": "2710876b15daef70db166c864610f08a6dedcaf5dc0061758da3971ff5055169",
+      "meta.json": "b37501d3d5e5d99fd5c6c908b50d2c039182240c7e1205271a4d3232e2cbb587"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Devices/forensic_scanner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Devices/forensic_scanner.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "forensicnew.png": "ad45faf2fe937ea535197456e165afab68268b549e21b062a04182c1b7815f51",
+      "meta.json": "635133f764b91eb8ce5d9861ef324a245a932b8ccc6777c54f5149938dd246e8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Devices/Holoprojectors/eng.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Devices/Holoprojectors/eng.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1a3e90100ddf713a0154211cfbdb3b3d2b2ebaa9ae5b74c55b564ecf8e7117b5",
+      "meta.json": "7e63c581b82f5312077043953062a38c97861c225fd20316e7e6d708deb055f9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Devices/QSI.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Devices/QSI.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "0ed40f6f45c1ff32b71d7391e94d84e6853effabed58a87623e21426a616721e",
+      "meta.json": "0fe3a0abec8ca2088c4d98c38fb3d8d60a34135ad84750f3cd33ebee19409f59"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Fun/Instruments/rickenbacker.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Fun/Instruments/rickenbacker.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Daemon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "b22589d6d5a62e72be8a04f7ae54dc92aa042ad6f7f4a9d32655c901426fb70f",
+      "inhand-left.png": "f7f9cd1caee56b01cc52acad4a923046c2aef1f2678dbb18e2bbfdac24c6774b",
+      "inhand-right.png": "f7f9cd1caee56b01cc52acad4a923046c2aef1f2678dbb18e2bbfdac24c6774b",
+      "meta.json": "f2ddcb77e66b99dd9201636438794a365efa506b5a48712038df4f0962f47470",
+      "wielded-inhand-left.png": "f7f9cd1caee56b01cc52acad4a923046c2aef1f2678dbb18e2bbfdac24c6774b",
+      "wielded-inhand-right.png": "f7f9cd1caee56b01cc52acad4a923046c2aef1f2678dbb18e2bbfdac24c6774b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Fun/Tabletop/shogi_board.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Fun/Tabletop/shogi_board.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e9e30ed56e0002acab05885962d09a02a68917944450e8210ebfb3656f70bfc4",
+      "shogi_board.png": "93f08018dd19039d7e4bb0e2c1e4e42e2fb94b564753d56d808fe0c188549fec"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Fun/Tabletop/shogi_pieces.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Fun/Tabletop/shogi_pieces.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "bishop.png": "bbb048f94139599538f54a6f34a04d55156469e26e41c3b667af2f8ba9f3ef76",
+      "dragon.png": "e1b99575fa532a72b28bec2baa2146a4196edfb405b6b60dbb7d7ad02e2dc520",
+      "gold.png": "63c39cf418008be9235404fe6bec1c6a838a5d5672d724515bae54f281db0a49",
+      "horse.png": "26c506c73f52bc2a4469fbf5b75b786064167b92a82cf0956d00e6dc39e4e057",
+      "king.png": "7b7b7091db9117afcbb6e09c6d008aace37d16462c87cf1e5845db11014c3fcc",
+      "king_jeweled.png": "74e6fba01eb4c1b2eb726fe3b9fa303f478a16e4f1c99aaad7ce3d7eabfffd4f",
+      "knight.png": "a4f81ba7b450e8c55d87b60c7a957d76e4dd07c851f440f2be1f95fc91659d34",
+      "lance.png": "5d277c9d6528bd7ee711fa22f5e8cadd422321570b9e6a73835336bf3e3da08b",
+      "meta.json": "1996c9efd2de4b2242e89db772bdbb74f29b3bce4663dd24403efdc36aa34f5b",
+      "pawn.png": "87603dc3d9c106a6cdb068abbf30234112f9247e38f6a5c1e30211b6f47fc678",
+      "promoted_knight.png": "591fcd21c00008774c0f46c816b3cdfbf5b707e967014f18d6cc97e4617ab429",
+      "promoted_lance.png": "723b12cf309d183687526ef7c60160bc4419efac20a2b9d2397fc331992f48e0",
+      "promoted_pawn.png": "37567a040290a3c8cdfbd792ef4f20e46df91e3f56283b1b0cae0969ae183ff0",
+      "promoted_silver.png": "037019efbdfe8c10e9339da9318ed75ef2fdaa9eb1a7b3f6531074254f7c7970",
+      "rook.png": "8f60a4b8680a205e3145971cb04554b7c90907688f80d7e7a9dee1c587f3fd70",
+      "silver.png": "0d340890b73e882afaa177f1148ef22254eb63fbb272be85f77e4d5e4edc4bfe"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Fun/Tabletop/shogi_tabletop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Fun/Tabletop/shogi_tabletop.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "6b563d8bb53971082c7bf1da15c639ee8d47d510a83a46eea7ac43959e200ca6",
+      "shogi_tabletop.png": "95cd2973634a5ca290f2158bba84c872df65db48873b35b84f305bebab178fb0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Fun/Toys/moff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Fun/Toys/moff.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/BeeStation/BeeStation-Hornet/commit/ecf8ff1138fa975fadbc58c98b6ca97241fde850",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "60de4e14dd410ce20a7cf821b1a71952bc2f303526f0c6b5d87fde5ae80ea352",
+      "moff.png": "4eaadc6ae5d7e474e0f4da012cf9ddd2daafe61c4db08ed5843f6b8394208f64",
+      "moff1.png": "4c695abfcce21d4331f5a21f3aea52f5dfeea65b527cc81cec440713604017c8",
+      "moff10.png": "cdcea5de848fef3dca17946e46bc5948f5845a3f4ce381aec4b84fc055b1afe8",
+      "moff11.png": "2743b46d3aa589ac0af341aa3cfef77c168ab9604efb4ba5fcff48411c930c7e",
+      "moff12.png": "6f7b71c09a90632d8ac35ad119cc92278f66862e54c23c6e842d9e1422a03fd7",
+      "moff13.png": "78242ee57a94bec445f11b5113e7e5da6d51d1caa3b155a49e6920a7e5fab2b2",
+      "moff14.png": "228cadcc414258b84226877ede6725faf8233e1e0dfa57b0825b4e9e933df364",
+      "moff2.png": "6ee675007ce91630af16f04e0bb91b2ebbf6c8453a08b75c7ffb45569c026151",
+      "moff3.png": "14b33c6587d530c664bd0f1d7d0b7442f58dc91da21695531ebfc70198715761",
+      "moff4.png": "90f63c4e85b6bf01ce380eff4e068184388e881c0f5928b08db86b367a2d6a42",
+      "moff5.png": "5d979fa4ab290f592e6aee23f368e81f5327f9bc77cd75680c680665ed8661cd",
+      "moff6.png": "3dc0332ce76d4cdb3aec74827aeee2f702e6471f1a75c4df84f7d3d50d066f9f",
+      "moff7.png": "29dbbedf2d8c7d304e73cfa8d9e1a0663467b8dbffde202d8ab34618f0ed1c0e",
+      "moff8.png": "e4eda44f218cc384c5e57b9311c7a587d5a4f184cfda52a14533e4b86a96ae9e",
+      "moff9.png": "037784ce2b5d2e05747020dc7aa1cda7e28546df94b6e1f7599209a2fbda9d04",
+      "moffbar.png": "f8e63c73d731df2f2cffc118fdd0cfdf5859bc1f554c08ec59e630fc4ed427d6",
+      "moffsician.png": "15f5be7600b6431ceb180ec0fb41fd2f72ac5fb724629178dacbb0ca7b750597"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Materials/materials.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Materials/materials.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bluespace.png": "c2e1d60d3ed5af13a57df340e5622400cb58415bfb8fbd027d8df2f61612cfc2",
+      "bluespace_2.png": "5cd5df92faed1beac4877ea0992939cd04180d9da53332d7e1eb278c59fcf71e",
+      "bluespace_3.png": "7643550b08b20bf06e972e069103d6522e1d0ead7d105f94f6468b133e73e1d1",
+      "meta.json": "429b4aec868104b640180f226bb16ab895ad74ee3684a5fd54d1b7f3f36ab057"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Materials/mothroach.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Materials/mothroach.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/fulpstation/fulpstation/commit/edb232b692ec9f356ec554ea1971da552b9bc447",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "021c128e4516e280fecf85fe0e041578b81d398f32ef0d710cd0a96aec58c652",
+      "mothroachhide.png": "be9faf1770e431a16372cdd4adf70492679f0816a78d20db0722295e4b705b16"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Misc/books.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Misc/books.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "law_space.png": "e91edeae8c77821aeee6cb9dc6c4bd868afb1439c5ec398404b381d7818e7d0f",
+      "law_trial.png": "94a3c03c732ec0e4f946d08ec58e4c5d192f83845a68d0c0fea0440c6c91aa13",
+      "meta.json": "93ebfe3c949590ce439403d51b4a080946e370ba6d0f068f57fe12a92e69c597",
+      "nfsd_sop.png": "009e9c632874c7445f77aeb94e8dcddf3c025b741bc575617fa0eef624eb6745"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Misc/forensic_pad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Misc/forensic_pad.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "a2d539cd7f6d2cfa5b646db817867512baec57ac4517f185e900bd02785a3ad9",
+      "meta.json": "3a3726530238686a764bc5025bf186ef985bd9766560df5b71cbe5547f2d68fe",
+      "used.png": "6a565cc0babb39af7792d8022497baeded042bd61f8d1ab6957e343fb60f90b1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Misc/proximity_sensor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Misc/proximity_sensor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "5085b986896405bdd3a76e7e7b62897833f18e7de44aef643e6be7fdd690066d",
+      "meta.json": "cf89d79e143d8ced09eac8acbfb3b148ce9991b844f1636443144f20aaaeb6b2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Misc/signet_rings.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Misc/signet_rings.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "0f66e4e1e31e5f248ed5124979aa46a68ca057168382af18219d975fd4786624",
+      "mystagogue.png": "dbbbc70fa59c88f9a97aaed7064fe97f7cf9aab4cce862ef4ddfa13a98034018"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Specific/Chapel/amphorae.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Specific/Chapel/amphorae.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "amphora3.png": "328c87caed5c5c3f9768f8e9d31a2aed9c2be4cc495552b82df6a195dd7ada8a",
+      "meta.json": "b656f41b77a84c12664add8503d44349bf6708bd48cca2d466b4e0a9d047522d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Specific/Chapel/holylight.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Specific/Chapel/holylight.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "edfe1a118656120e8ea7114933cb42b581c423057579ee5b820c8f84c13f0c69",
+      "inhand-left.png": "b623b4c6271fa69a23f226f6f7f12b0ec990a2873b08edaaa372bd5fa002d7cd",
+      "inhand-right.png": "de8c46c66a497b3d687901061f49adb5a30e3b83b4955f92c6924bc02026059b",
+      "meta.json": "2242b4c291f270209ca031a43747e6f1e5ab77954e2dc0b9c649f9f4078f4647"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Specific/Mail/mail.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Specific/Mail/mail.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "0636a4f28bb13c531a08444be96130be6b776aa224254f7f97687ea908ca7d22",
+      "fragile.png": "5416fdca70ee59c28811cf8c522209a2a91262d4df6fa1a0de1b400bdfe2c0c9",
+      "icon.png": "f6f26ab5d6c2f5820ffc03abc8a490f97b4df7e0eacda1901a3699fc4ceef27f",
+      "locked.png": "822bdc75378bfe4f52db1f06ff5a5b149de7a6c5c443ad4d2bb928bfb888ab56",
+      "meta.json": "b65e263b5a2874907ed18235ba4f7dd87d02ebd7c27826c7b84a281e52d4860d",
+      "postmark.png": "be29411911355648e088edaae45d2f8b81d3d367dc57b6e62fa8d16bfadfd96d",
+      "priority.png": "224f33da216d531658a15ca0c716890df212246c0ddbe53683d70a4b66d96d9e",
+      "priority_inactive.png": "0173fb0c33b428859341f440825f963e03549cd140082e3f2ef91839fa32d3eb",
+      "trash.png": "3a831cf3509a4e9235a7dcdfae28394413e7bbd022f35cc5f888b75a94345633"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Specific/Research/datadisk.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Specific/Research/datadisk.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e850d96a2767699ceb9c46dc7f9a7019baa8e7d6bcd78b843468b62ca7376164",
+      "meta.json": "25de8f45969b2b2a5d1b6877bde654adf72864246b3e60b815ef1137bd3837f7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Specific/Species/felinid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Specific/Species/felinid.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by QuizzyQuin",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "76fe632923959bb9168a15e07af2f43b662cb0cec1e4cd920b00390970a4fc1c",
+      "meta.json": "bca11b1da8ed96731a4c954e178e39a5ce5d46db197229fd655749c2d73397f8"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Nyanotrasen/Objects/Specific/Species/felinid.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Storage/forensic_box.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Storage/forensic_box.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e828fd7e265c9186fe8013a5dfab328bca5eb69e81a3388606312c4e475a13d9",
+      "overlay.png": "954f6ed33e9596df75a5917bc97d8a804bbc2a1f76fcba8422b6626f2e6461b7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Storage/lockbox.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Storage/lockbox.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "12f6e159b7a46250423f9d78a5f0123406f5b70fb3f51d5c4ce7fcd5cfaf5192",
+      "inhand-left.png": "9e4e22a21b1aa614cc76b6f5acd37f5ad870d05a122f98bc10204f3c6bf10989",
+      "inhand-right.png": "52acfd5520c3fb2b327959fd4c83cf4dc0c9406d4482a65a4ac16b2ec3c0a05f",
+      "locked.png": "6c32531291ba61cbcb029f04c32d6c13d14cc2eeb2937444b5bc16f4b3bd8aeb",
+      "meta.json": "9d3c58e6a00561448fc56c081df1257e974adc5d49df98dc86346562ff4b2fb2",
+      "unlocked.png": "4aab4dd870126297f265fd822ab0d4eb7532068b53f51e2ce6b7fe4377704a67"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Tiles/tiles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Tiles/tiles.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24, additional copyrights see tiles folder.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bedrock-inhand-left.png": "e634b1da707583f53bbaafd982b0ad69a1c089af34fae57598dd839ebf33a8fc",
+      "bedrock-inhand-right.png": "39f2f1df2f9cedce3daed93b9472cb9df3cb2d391b6111cc99e7565c45b1c473",
+      "bedrock.png": "d2d7ab8ce3023785f0dda1e82f60f4225c68efce0bc32418de433609e0858d3e",
+      "dirt-inhand-left.png": "1ea75a8fb819821421fa7781541fe4f38bcc69fc43c467896cb0fc7c9eac4191",
+      "dirt-inhand-right.png": "d96f52f84a17ab8e882eaa112564d4add61bc1e270521eddbea1d6e3cb141157",
+      "dirt.png": "52766eea673826c1e2db1f786cd3bc35fb815b27f154e5976a76b5ca2a8887b9",
+      "grassdark-inhand-left.png": "e17f1e50365048ea07b1de7e773f9e74519af8f3faf3bd3aa1c632e60c6c6d2b",
+      "grassdark-inhand-right.png": "5602ba689348a831b133bfb5e74b007a94b2277f2600ace9053f479b9347074a",
+      "grassdark.png": "6d13512050260b085ac4657f50bac93375e631833ff0dd58f2bfb48b6bf148dc",
+      "grassjungle-inhand-left.png": "cf557a9d736aa161242b3494a405bd2ec84976f6baaff66ece15929c12b6d5bc",
+      "grassjungle-inhand-right.png": "0224cdad1eee7722d734b92ef49f803da1c0e28e5291a8ca36c7cf68f0db9291",
+      "grasslight-inhand-left.png": "10788097066eeb01bbda0fc308bb2a3e2f848dd0394e708917e765d8b58ba583",
+      "grasslight-inhand-right.png": "48040c1aa9c7ccd8ec9e80fbf2d480b3e4c36a5288b479fd310dc87807fbdb34",
+      "grasslight.png": "176ee72ce6042e209d9f9f35e79d5b03b0da4094ba76e6ea03bb81e7a923808b",
+      "meta.json": "1df3b862b9c576de3ec5ba2d16b1c83eaa34c37f845eebf9679030ce159d5752"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Tools/ifrit_hand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Tools/ifrit_hand.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ba1a0038be965e228bc523750b713fc122ae7937889368bc92cd809852cef7b5",
+      "inhand-left-flame.png": "f103a7493d9eae93767a8bc47a7f33b1bd8efe958ff5bdcc0e9ff76e4265a8a6",
+      "inhand-left.png": "c3a89ae7279fab05403a985c5aeaeebfda8bf86ef6e233e0dcaf57e0dbcdd52c",
+      "inhand-right-flame.png": "51ee12fa5abcd9b4ab0108ac94d37b4a25a2ddfb2a304eb999a2c9918c284e96",
+      "inhand-right.png": "c3a89ae7279fab05403a985c5aeaeebfda8bf86ef6e233e0dcaf57e0dbcdd52c",
+      "meta.json": "2286406ccb7aad3f9e98d625c81f53e2c6ec01896c5f5b6eafb88480c4181a61",
+      "welder_flame.png": "7d32a83b8458ca39829e21aac35021b4f137a3dc12fb96fc2d5a2930aa743a34"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Guns/Battery/decloner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Guns/Battery/decloner.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "18545db6bdab6e422311a714b600e6050acce96458a033d316cef4f9b49741e7",
+      "inhand-left.png": "f2638aea43ce7e63c5f9a07bca6d11679b07f22d9f3632c96c460371172777e1",
+      "inhand-right.png": "f65315dea4a2691930b934a61f9472356ed9bbc3359133ef10a0608cbd739a4b",
+      "meta.json": "4f1031ce7658f4ac1ef0d6b3635186176869403ea2b08d35c878739c8fd09a04"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Guns/Projectiles/plasma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Guns/Projectiles/plasma.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "See copyright for above folder (Weapons/Guns/Projectiles)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bullet.png": "392accaa3fbe2b2ccbf0d7843c945af66e6fa8191b722bec7fa00c85e7dae207",
+      "meta.json": "b461e2bffa634f0965b9e00527335671622cfa76422f65a0f406529efe7d39e0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Guns/Recharge/mini-ebow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Guns/Recharge/mini-ebow.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bolt.png": "d1df7e13d30e92fe3a2d077f60ca78e5e28692fff3c4c6e3024b1a4f313e70f2",
+      "empty.png": "4ec11e645b6c660eb360938b86540a16a679b65f00460f5c37bf1def652ee3b6",
+      "icon.png": "179295b08fe5672152a7def61f300d716ca6e37d2ab415fce4b1175b6319da42",
+      "inhand-left.png": "9ee57ebf68a68a5c1b167275e88803bc73894a2048fc63314c7583ebee609e46",
+      "inhand-right.png": "d68047f7d768469b43a9fe5e9704fee68f97889f16d4c05d15cc579cafa89442",
+      "meta.json": "acac3eb87ec4f5d66a876a5357df47b686e5c8e54667b4bf7b6a417fc72cf0cd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Melee/anti_psychic_knife.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Melee/anti_psychic_knife.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "7c28c174bc618f8fdbf65fe50f210b6fe59cf67432205de04325b54d914c72ed",
+      "icon.png": "cfe852b7062f6ce7892cd6f3ea25daac074ddc9f59ddca921726e1040ed5b29d",
+      "inhand-left.png": "22ae22866f5ef3dbe70c6008b5dc79f9cce7634d351a86a46b2f1c0356809dc6",
+      "inhand-right.png": "300f4ddeaf1f4f2e955fd6752240102536b41b016d52093c13922688be7d174d",
+      "meta.json": "1a069d79aec16fc5fe2175423d22f92ad2b153b7e5a79cb4429106edf5efbabb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Melee/breaching_hammer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Melee/breaching_hammer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Hyenh#6078 and inspired by https://github.com/goonstation/goonstation/blob/master/icons/obj/items/weapons.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "510a41cee6a081d8826df5cd6028f654f5aa2d52cf1a7b812e636e4d4c01be1f",
+      "icon.png": "8f0a204e9a8e84f397c10e4dbda29f1bb124bb84c732b1088d99df8ab9234c6a",
+      "inhand-left.png": "d843fb03045637d26c795187e3bdca09c7465d51292ea310cc9a98a40d6a764c",
+      "inhand-right.png": "ae7fc41fa91f2d645eff9986fda1c0be7a7f0a211bc74c42ca4a5647d13416a2",
+      "meta.json": "c465bd7f0c4ee3096020080205b1a16cf99f0732ac0de00da6c901e0c906b1d8",
+      "wielded-inhand-left.png": "40a1e88d0a5eeb69c4bb17242d181f5491b7708be7603cb0077fd7d2a43b7ecc",
+      "wielded-inhand-right.png": "f52ab800fa080c8dbca101959f412ba07d992eae8f3f7036778cd5517ba395cd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Melee/kanabou.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Melee/kanabou.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Findorsal",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "80aa6b01014e4599182d78e755d8edf568a1a11efa4c4415a96444c6c741cdc2",
+      "icon.png": "44c14b32b1ae2918659fcdc4fab8a36adb189f8fae468a7a14f5db6779e6d56f",
+      "inhand-left.png": "0ce970a4c091070b7eecddb2622cc2a351846f4093942d811fd5783e5c6f6489",
+      "inhand-right.png": "2f31e42a2267a62ed6ba1709680985d971abf05df6fe4b55e6492d5bf0be1d1d",
+      "meta.json": "c6640541219198d4738c3f828da5c8ea2e397c92858a57a7b352d14666c1e046",
+      "wielded-inhand-left.png": "2b9c4b7079bc360b40ebc15226df36f64e912db1220d516ce56f53a406c3050a",
+      "wielded-inhand-right.png": "fe413ad16da2c88c2a4de249696f649af72e63b40e068329390474b51e5f279b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Melee/shinai.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Melee/shinai.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Hyenh#6078, resprited from https://github.com/goonstation/goonstation/pull/1258/files#diff-fea8f9ea07076507bb1209d042372dd23757bb458850f1e0eaca584c8e23538a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "0e363b9b597d8966612feb505e7d203a9691036e3082e3baa136e04d439dfa48",
+      "inhand-left.png": "c429f2d898cb56c96f843d2929e60252719c721957d43477f40eaa1583cdabcd",
+      "inhand-right.png": "a2dae9dc8b19d0cd647f7472ddde0e30622b1e3de22a958a56d9647464217719",
+      "meta.json": "563fe1969595619c7c71b97dd5905c648c0b25ae1461564da100a77aa19b67ab"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Objects/Weapons/Melee/telebaton.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Objects/Weapons/Melee/telebaton.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/555fa0ed9f380509156d94131bd8a3f1c1fee1cf",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-on.png": "c1106b6f2b2f9da96c15b9d841c20b5b54c0fa2feae9605d6e5f06abc148a110",
+      "icon.png": "dd017766d5970d9e2668df9e6792301b7b844388cc51c31356d721c96317d4ee",
+      "inhand-left.png": "6fe635dd95019f4acaae44ef5981fffecdc2dc590b98c31bdd0a6fb9c20bf409",
+      "inhand-right.png": "d560ba72a8c48f01c220935528b143af70e870598b079b4768779e4532a618c2",
+      "meta.json": "6aa28f6f589f08ba86591be43b8af18387e3f6f0d79be771a78950ed74785797"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/cocoon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/cocoon.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cocoon1.png": "921ecec724614e2ecf2e6fdef9984b8667a05fde3e77ec7c28f399ae33f2d8e1",
+      "cocoon2.png": "d9de4684f737d8d05cb7710b9fd43c67af8b060934c88f202412b44792838df7",
+      "cocoon3.png": "9a16d6e48191871f9870174a611017aef76f34877dafcc0b35f2a834932fb4f9",
+      "cocoon_large1.png": "2126b6dd9e6fb2fe4c89970b75f42a2ad5bde1c42cbcf90f1885dd7ad4952858",
+      "cocoon_large2.png": "4a3c21ad821c9c924923ab8d5ac2f13e4948e00f17b77fcedf03e014b53ecefb",
+      "cocoon_large3.png": "d0b1389db97f37d912e6deb9585b803e30893c4ec6bdd556f111fe00dec16cd6",
+      "meta.json": "442b6308dd18c2bc80baa1dd4efb72dda51cb997af92231a36f1b897219c3a8d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Decoration/statues.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Decoration/statues.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "2fc90d3f94f76e93cdba6aa0d1223d6d37e6b436276718565fbfc2c1474d5959",
+      "oracle-0.png": "8941e02e0340bb3bce41ebf18d956a50ce5e3234ab9c193ab21ad4d26d087101",
+      "oracle-1.png": "ea6cada91f2ba9e4cde998f7a20b9908a288ef07e87e472804ffe8291c963d89",
+      "oracle-10.png": "2824570a226377994a320d3b7071d109ff7bc2ab90822c12df46400888adba10",
+      "oracle-2.png": "fbc3cedf7cb87d0ccf46216f38ef1b11b00addccec62e9861b9b69c1e9a02046",
+      "oracle-3.png": "327df3c21f6e2547e64d783558a387087637259dbb56671ad26517bd58ec3be5",
+      "oracle-4.png": "c3a3499b159ba3ee490d7aeb114d7f6393153692fc77ac46828b50281d9ed260",
+      "oracle-5.png": "b91617aa75a786d532984f1b100caa391aa6a7dc8973d38cc562a04137e68c6e",
+      "oracle-6.png": "9a3ffd9c82e1c180e339b17c64811c88436ad03bb71a21a231614dcbfdb7dc37",
+      "oracle-7.png": "ca317b5d4000a1c2479ca1b9ea8bfba0cd746959c8feced8a76e3daeaf49eca6",
+      "oracle-8.png": "e31771010cddf74fcc22d1ac891d02777604495912b84c796c54f35cd91e2e6a",
+      "oracle-9.png": "5393bf58696e9ea0e492de9827d53cb3ba43f42ae0d70f9263835fc1e423ca0e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Furniture/Tables/rwood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Furniture/Tables/rwood.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprite by Hyenh based on reinforced table and wooden counter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "169678b97f0f74aada4caa2184855dea4f71942e7092a5443931b955485f79b6",
+      "meta.json": "0dcb774bd0c78e304362889826e7fa6be9d7f9cf8bc5a41c811800e703f43cfc",
+      "state_0.png": "67c955c38c1cf694465a3658af884b0cb898b159ab4abde1c666b5393e392114",
+      "state_1.png": "061cd6515ce6cc702e7ef177bfd8849840d885285ad40c265967a0096decbaf5",
+      "state_2.png": "8c79d09b14c5580b17095435da08725af6f2b5d49d960ff5c8e3b5b64b194320",
+      "state_3.png": "f4d5c7959e4d340b520ba90fd4c38dae14e3ad3121ebc3545cca06488a469e47",
+      "state_4.png": "02f6e517ef725cba00548cc3f04b8193446d92859800a46cfb1c15ccad49c17a",
+      "state_5.png": "546c951555b315bcde93da1d49b74024a13228b8b7cc2f011e1aa36cec26535b",
+      "state_6.png": "548108031ef26c3e5cd0c664be1ab126a76370aef42dd10cee82c3f26671425f",
+      "state_7.png": "73faf1943bf9e1a5b6bba4cfe562bb25c447da2f17c238de2d44578492698d9f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Furniture/tatami.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Furniture/tatami.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e9458e32e41369585754e2592d56b348f7463cd2332ba80b1642ef61a0676db4",
+      "tatami_1x1.png": "9029ad7d60c8f8f5cc678e2af67663281d931617b879a9ddaea6f2aaba3bfec6",
+      "tatami_1x1P.png": "14315f2306af922bd7f1eb8ff491d910b592da97b84228203bbabe58023122c3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Holo/eng.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Holo/eng.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "980977b3f78fd4bd7fc91e3099fccab576d5591d7dcfd8696c8b051619896900",
+      "meta.json": "7e63c581b82f5312077043953062a38c97861c225fd20316e7e6d708deb055f9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/glimmer_machines.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/glimmer_machines.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "638293405955155c98af96c0e045d2b98cdb9c7f02dee60f3104a744a9b200fb",
+      "drain.png": "184fa65e21c3afef350e2ae9ae98ee1dddfd3e50f796c5251b4d9cb381e12f4c",
+      "intermediate.png": "fd1e6e1edf0ee12478e0c7bc94067c63e0fd8e8a1ab82818b2913eaab7b12bbf",
+      "meta.json": "9023b706647fa21daf28c80379c67729f6e8ea33962edf6e25e91de236c0c4ec",
+      "powered.png": "5d04b418f594584e1264fbb016120b0c68ffadfab1cef65feb7b54bc15eef51c",
+      "prober.png": "ce8d9bd32bb3a0f404d1855a033fe79bad0abfc0eaa9eca2653ac13ce99fc859",
+      "prober_glimmer_fx_1.png": "38750f8e8d275d48bd72194196eddbf1b64ccd0b48b636526fdf6b5cb438ef58",
+      "prober_glimmer_fx_2.png": "5e68fb8f8f11e6d8de4487718f773e90bfce060995c3a5c16e3b1ed22271a9ae",
+      "prober_glimmer_fx_3.png": "69c7d24eeb0424205bc7584eee61c7e588b663b0cf129df6c46a1b3a5ef21606",
+      "prober_glimmer_fx_4.png": "35d1597a78d3952ce106c14056173fccd01a77bbcc8974e942b8e40c1ff8b3a3",
+      "prober_glimmer_fx_5.png": "4f465b21df5ed1a2799062064a85f3a6801edcbb114b72c62dcba4c5b4e81f1f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/metempsychotic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/metempsychotic.rsi",
+    "category": "structures",
+    "license": "CC-BY-4.0",
+    "copyright": "Created by discord user Four Hydra Heads#2075 (971500282364178512)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "41716b9730da1eb0b23eef200bfe1a33414b219c08c1b12fd3988b92c9e348a8",
+      "pod_0.png": "c3fa8c3f95ded6f46184493994b98344bc88c870afca8ad7f465ead56d5649f3",
+      "pod_1.png": "57cccc10c22fc2da58598765d001b8194554e25cd8f9a947960093a1e3774b20"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/reverse_engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/reverse_engineering.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "router",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "ef8d6901f0f35ba0b63be05ce85c42328b938984c59cf10413a9534c37154d19",
+      "meta.json": "1033e217327dc3b0032d07c04b69e40223af2972d6e0c5034bff8a6627a72ba2",
+      "open.png": "c67d6ab5ab2fca65826e5d7086fdf64a923b782dd8f1ff27b92d033f90abccd1",
+      "unlit.png": "7d2945fbb83401645268186a7d41582dd363f952a14474fde0e231f3b525add2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/VendingMachines/boxingdrobe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/VendingMachines/boxingdrobe.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078 Modified by potato1234x (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "2cf73e44de95a53edec065ed2ff85e6e4c0137eac5dfad484a2c4f88a317fac6",
+      "meta.json": "99df3ef47846b9b970ac7efee8e06dd5713912ca88d262cd3835f550d30e2458",
+      "normal-unshaded.png": "84c8aa8f1d17640ed20876ef48cb1876b0954f7cbdfaf2b290d5d2dcb80d3678",
+      "off.png": "30ec4a11893485f920e3bd00e15252b70a1379cf34cad4abed8198d866bc3f8f",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/VendingMachines/discount.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/VendingMachines/discount.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "6a5321e129bc82af6bbd90bfb8d7ea9462f055e5ffd48787e16e7bafe3683523",
+      "deny-unshaded.png": "4ac057f64b8aec5b761a5616abbf0dec80d50d803947f1d92ab0e289615a4a5c",
+      "eject-unshaded.png": "6eb6ab21a2494051b56982447b2e5a4f6f14e31e6800f68a559cd0bab8c71e35",
+      "meta.json": "cc7b26ef2ee672e26f001232ab6a595552e085487526f5f2793e543e20f12a53",
+      "normal-unshaded.png": "d2a8052ded8ceb3b31f0bc076372e9476e89f9fd9db33334a590149b73be0700",
+      "off.png": "f9f607b74f0da3f0b138fd22a1eb6bb59f3cd69d857fb865ebed0632780f591a",
+      "panel.png": "43ec3a281d465d3ae548954940757b15c0dcb8a03f07f9c5159318c66f6929ec"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/VendingMachines/maildrobe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/VendingMachines/maildrobe.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078 Modified by potato1234x (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "cc6cf3112ef3e408adb8ef1571d5aec4bc1233cdc81739a0177153baa8cc2f90",
+      "meta.json": "99df3ef47846b9b970ac7efee8e06dd5713912ca88d262cd3835f550d30e2458",
+      "normal-unshaded.png": "558c380973222136e870cf7a8724a983c5e467c69e8d9e1ab5b6c987e8d1d928",
+      "off.png": "849712d50e04d7bed3136d838b7e6203d94eb8db406a4cafa589a827675b834a",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Machines/VendingMachines/robotech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Machines/VendingMachines/robotech.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a. Further modifications & derivate works under the same license.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "15bc31f90963eee9818e88dc9b2325e4acf14f164262b01f65516b1402e57fa7",
+      "deny-unshaded.png": "b5e33f29b5bd0da50d98b97145a258ebc70b7bf279c3c5c58a4799e9e2639cc4",
+      "meta.json": "13671dc6de954269c6fc3182763f7016bd0d72e6c1678685ee6331783c33e86a",
+      "normal-unshaded.png": "afb3125aab51431c24a06b89bfa3f0aa56eef2a27f724a1f2a3eb526ae949560",
+      "off.png": "cd79a4e706a7a13af3cd9d49f0f2cb84430f97612d07984693da5d3661d0d19b",
+      "panel.png": "74d8315d8e7cc5b689d680b838747460c496255f6c727e95b2c2a09e3528334d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/mailbox.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/mailbox.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by potato1234x",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "2cbee4ebd572d69cf7e3aa4222bab60472ad2c2d0c56cee9fe5510442356192a",
+      "meta.json": "809e4cb8ec3be457346e20ce19022a0e726d754b4953bccf45aee528994648cc",
+      "unlit.png": "7c6057d34e17969ccfe79926daf74ea531c9eb5ae6630a37e5cb67ccdd1daa11"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Structures/Wallmounts/conspiracy_board.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Structures/Wallmounts/conspiracy_board.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ab56a7fd59ad64cfa88e78753fe155e1322cc6de4471656fa62be278d6a3c7fd",
+      "meta.json": "60d522192d3ba08fc5762acf698f7d6ac36e370e3d376e77c4b720ad9251b12f"
+    },
+    "replaces": []
+  }
+]

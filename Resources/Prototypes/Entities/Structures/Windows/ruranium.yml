@@ -4,9 +4,9 @@
   name: reinforced uranium window
   components:
   - type: Sprite
-    sprite: Structures/Windows/window-uranium-reinf.rsi
+    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/reinforced_uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: Structures/Windows/window-uranium-reinf.rsi
+    sprite: _Lime/Imported/Monolith/NF/Structures/Windows/reinforced_uranium_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: Damageable
     damageModifierSet: GlassReinforcedMod
@@ -164,7 +164,7 @@
     - East
   - type: DamageVisuals
     damageOverlay:
-      sprite: Structures/Windows/cracks-diagonal.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Windows/cracks_diagonal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: WindowDiagonal
     node: reinforcedUraniumWindowDiagonal

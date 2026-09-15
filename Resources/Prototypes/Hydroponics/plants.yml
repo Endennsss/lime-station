@@ -895,7 +895,7 @@
   name: garlic head
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/garlic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/garlic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-garlic-name
     packetPrototype: GarlicSeeds
@@ -998,7 +998,7 @@
   name: ear of corn
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/corn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-corn-name
     packetPrototype: CornSeeds
@@ -1150,7 +1150,7 @@
   name: egg-plant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/eggy.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-eggy-name
     packetPrototype: EggySeeds
@@ -1443,7 +1443,7 @@
   name: poppy
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/poppy.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/poppy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-poppy-name
     packetPrototype: PoppySeeds
@@ -1476,7 +1476,7 @@
   name: lily
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/lily.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/lily.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-lily-name
     packetPrototype: LilySeeds
@@ -1868,7 +1868,7 @@
   name: soy plant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/soybeans.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/soybeans.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-soybeans-name
     packetPrototype: SoybeanSeeds
@@ -1929,7 +1929,7 @@
   name: koibean plant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/koibean.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/koibean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-koibean-name
     packetPrototype: KoibeanSeeds
@@ -2368,7 +2368,7 @@
   name: cherry tree
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/cherry.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PlantData
     name: seeds-cherry-name
     packetPrototype: CherrySeeds

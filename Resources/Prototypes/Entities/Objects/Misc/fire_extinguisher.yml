@@ -59,12 +59,12 @@
   description: It extinguishes fires.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Misc/fire_extinguisher.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Misc/fire_extinguisher.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: fire_extinguisher_closed
       map: [ "enum.ToggleableVisuals.Layer" ]
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Misc/fire_extinguisher.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Misc/fire_extinguisher.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Normal
   - type: MeleeWeapon
     wideAnimationRotation: 180

@@ -1,0 +1,962 @@
+[
+  {
+    "source": "Resources/Textures/_CD/Objects/Misc/dogtags.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CD/Objects/Misc/dogtags.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cmss13 at https://github.com/cmss13-devs/cmss13/blob/a2d5ca6e69725341f0fa261a4a3f89c737e843b3/icons/obj/items/card.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dogtag.png": "ca308eb1535992fc927c960ce685535c714dbb438226c4be5a2f933c6034e4be",
+      "equipped-NECK.png": "722e17a3ffcc24a694f49182406314892e673a2297fa3f12007ce26a3a3a7cc0",
+      "meta.json": "231c9acb8f5736cbae74531b090a4d07a29fb83a9c2c440283ea661e1c938d96"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Actions/zLevels.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Actions/zLevels.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "down.png": "919c979f2766458cc837078348f47ea02f0b43b4c957b3fed2a8d3492a04815c",
+      "eye.png": "d0521b9e3abc6f8833a7129f4fff579f30fc0f32d405602be9ff01dfdccf071a",
+      "meta.json": "3c530090ed3cc60b83884cec49acc0bf076b007ee3ab38bf2766db89ff30d109",
+      "toggle_flight.png": "76f49e5397a4d08b80c8e5f3ca088edc56bc12440d5f542d8bb6c78614865127",
+      "toggle_flight_on.png": "25345c0891b13f0713247462a6b2aa0b97c4f4acb413146504835e566dec0e66",
+      "up.png": "d42361a204f7592eb1ce011462f686633c00428748e9d24a82761a1840351091"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Effects/dust.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Effects/dust.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dust.png": "565ddfb68872c50e572f18fd84e6f5116cab87fd7878294c7783039f3de78b57",
+      "meta.json": "fb51f5381e6d05767679f59c0359b5d76569b061843af3ba885fdd06a232c070"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Structures/Architecture/Ladders/dirt_cliff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Structures/Architecture/Ladders/dirt_cliff.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "stone and wood by TheShuEd (discord), stone_corner and wood_corner by Vojner",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "corner.png": "46b1cec9dde7c0f26f056cce06fc149bd406b7b7fafc186de38a4bb0b91e9c8e",
+      "internal_corner.png": "221bc700adfb9374cdf841c0fc2b4e6073278778726d2d527e74eff397e5272c",
+      "meta.json": "664a5a0f323f08bd1649e4d905566892ef1b39a4170105078c6cb98daa1d2b8b",
+      "straight.png": "d0bd640f410595ebd71fda6d260b98d95f490cc263c2a8ba9d535ea6a6b98e71"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Structures/Architecture/Ladders/roof_green.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Structures/Architecture/Ladders/roof_green.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by omsoyk (Discord), recolored by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "corner.png": "c89a7c083816a67c764bfca3a4d5f84199c9c611479543d96b401582b2552b0c",
+      "internal_corner.png": "672743de1229679406fcf90941a71cbfa81a6479d1c3caad3b1bce3c761b2d4d",
+      "meta.json": "f5bcbd5c33af68432239febbc6dc4d69e5a702e2d4c7921f015837d3eb381c16",
+      "straight.png": "17f3a157acb49b3ed2a599dae68bf6c2c3d4e91b9c9a1554db97348b180750f7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Structures/Architecture/Ladders/roof_red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Structures/Architecture/Ladders/roof_red.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by omsoyk (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "corner.png": "dc8e84198eef466a10098d649a37650eabb90e796f3f45231d2a8ea32b27d46b",
+      "internal_corner.png": "9f04e7957addc1ab2c5568d2ed95ce0071338c7010da466da5d02dfec131cb34",
+      "meta.json": "ed5504267e1758d5d9694d4c5893b70681a0a31c704e7611d0744841717e0546",
+      "straight.png": "8b0d85de0153311fafefa335fcce7ffb954736fa8154369807850e15296c5c4c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Structures/Architecture/Ladders/stone.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Structures/Architecture/Ladders/stone.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "stone and wood by TheShuEd (discord), stone_corner and wood_corner by Vojner",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "corner.png": "b1649c7f3ebc49fd7ded75bd5d8ccec1111d2190df4367129b414ef2b6afa684",
+      "internal_corner.png": "25626a5357aa70a305647dc46210a891ea5dcca1de909d5de5616787fceaa393",
+      "meta.json": "664a5a0f323f08bd1649e4d905566892ef1b39a4170105078c6cb98daa1d2b8b",
+      "straight.png": "4d701d8031733288c01e4c6ce6feb91901b02f2a04bb32423fa75c08966e0af2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Structures/Architecture/Ladders/wooden.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Structures/Architecture/Ladders/wooden.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "stone and wood by TheShuEd (discord), stone_corner and wood_corner by Vojner",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "corner.png": "38574bfaf7155e86dd9ec60a7f7afbe2e4be502574b914fb2d0284ccafda78dd",
+      "meta.json": "188fedd92438c7ab869f1c5cc70c2c72bd4342597a5e856af6d1747e79cc47ae",
+      "straight.png": "6f90c99d1615761651329957389047136657fc1f8291a66c062483a35789a187"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Structures/Nature/water.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Structures/Nature/water.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "3b0a210da897af296eae2b1329ac0af5694375a57f4926257771ed53f70998a5",
+      "moving.png": "b8c7c9f3880b92485732510ef6411a1bb8c2b1c6f8d409ed79cc1d880934ba4b",
+      "static.png": "0daea9678edbdf89fa48d44b9a13285036b558427836fb89663c3b38e6f1ffbc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Tiles/Edges/dirt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Tiles/Edges/dirt.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "8bb98f2c20d624343fd0d7eac398d57081d16b57cf4583e3289fdcf73fbd7a02",
+      "meta.json": "c3135506d573747a1176915b4e726bffb90cc3d52a23398f6f8f60df3b9c65a0",
+      "tile_0.png": "b9a6d4e90aef3f3a59964c52509ecb61f824a93efc0f2fba93a08838366bf8ab",
+      "tile_1.png": "a6f489601cc172d1648c9f02aab5bae40fbe0dc56964ed691fb68a423d932625",
+      "tile_2.png": "b9a6d4e90aef3f3a59964c52509ecb61f824a93efc0f2fba93a08838366bf8ab",
+      "tile_3.png": "3450ca60a2fa9e55e03197765e333d8575ac2397568509a4f04bec9a1e1cd4d3",
+      "tile_4.png": "fb02e1d7d16e94d58d0d5b479b698403d9e077d9e0afdb5a0a0a6eed7f72a056",
+      "tile_5.png": "b4df764fa04c108c6b3723833c0c551ad1fe8245a50b741ff3adbda24f1c86d4",
+      "tile_6.png": "70fe05f5b52357b6838be5167b64a9a365b5e5b3ffb8169e713e31cf09f99777"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Tiles/Edges/grass_light.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Tiles/Edges/grass_light.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "71224bc48a32f25e17a924ab706e4ff151dffe71fee601c6dcb8610089f3c2be",
+      "meta.json": "c3135506d573747a1176915b4e726bffb90cc3d52a23398f6f8f60df3b9c65a0",
+      "tile_0.png": "a08b1dddc93aa99c4f496f8370d4178b3b93bf8bf863bb908b29c37b20bf8470",
+      "tile_1.png": "d47b3d25746aad6551017e5b8d7a6b9ea936d796ddb49928fd68d08c53ea10ca",
+      "tile_2.png": "ecd2184cf98352f6c6b49ce0f84677504454c7dccacd6ed94aa4f92f6036d1fc",
+      "tile_3.png": "9f9039b68035590ac2042969ed82277f61159253178ca6e913832b306c82f8cc",
+      "tile_4.png": "e1c73efb9639e7c725bc1d2593766e56ba676dbcdfac27b514876e9e7ca65401",
+      "tile_5.png": "9ca9e263880911f558880221b9f491c900728db950a59da74bd722829cd25fc7",
+      "tile_6.png": "53ac6624fedaf73648f0b40f9f18a7deab72fd54f4e6ba1c811c1a2281f74e6a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Tiles/Edges/grass_tall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Tiles/Edges/grass_tall.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "936d16b083bf67df36f73be19e4ef03794106592e0ffb41c9b200d954330afbd",
+      "meta.json": "c3135506d573747a1176915b4e726bffb90cc3d52a23398f6f8f60df3b9c65a0",
+      "tile_0.png": "9c632f8b04b7c681413e618ef1f646ec0c64a98e5316278c4650f7ffa7021587",
+      "tile_1.png": "e932dd638d3c5aeca2f09d550598d57f52cb9e6ddec30afa422e2042aa597270",
+      "tile_2.png": "b0015b18d6de1768bd6da3c3b0f67af4fad09142b32055110556b79bb65cb190",
+      "tile_3.png": "d688a16636729453e167853db6fa418e2b9317e55223ed5bd8d80c32b04ace8d",
+      "tile_4.png": "e410fae6c5f4608d46037fa2a0171b5fcd65abb8c4ffc042862ae2001257d0b4",
+      "tile_5.png": "da8c547506bdbbaa4c81a3ef9e3eeb449e6d4a8a5a1960ef6ce38a39eb4474d8",
+      "tile_6.png": "b3fb6b0243881c59e6b4fdd1aac5c7ddce81d65a1f6313b9bc622b9af68e1ea8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Tiles/Edges/grass.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Tiles/Edges/grass.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "c7e582562a758a9b9a1ca5cd6cf189b3449bd8267b887b0cab3ebe12bd8e8c72",
+      "meta.json": "c3135506d573747a1176915b4e726bffb90cc3d52a23398f6f8f60df3b9c65a0",
+      "tile_0.png": "52e2b98bce0016c87423d7d8901211e34abafc5b633c773cbda8f0d4503c5b7a",
+      "tile_1.png": "326226d44ea3644ab128c93462b0bcd71c7d67bdb2b3cea7d012b5f5a54bd954",
+      "tile_2.png": "1cbba4460367f8cde6323edb51002007e033d84f8f58863905da39937d506d8b",
+      "tile_3.png": "6b5192303c998624eaa0d4d70d8815d390717fdcd94ed12043edc7f504472964",
+      "tile_4.png": "fd8bd6c390f8e671616d9f38dc1a4a4635ca49aeaf78d2c2d93f78d4668b0901",
+      "tile_5.png": "420cc268b5f519def2a1648744e0151a68680850b69978ea6ac47ebdf845b44f",
+      "tile_6.png": "f67ca58a31d36d9747fbbd0028a74b53515d28ec6a8838548f246eb76d86a0ae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_CE/Tiles/Edges/stonebricks.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/CE/Tiles/Edges/stonebricks.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "5f5bc28a04cbc9cfe00834a178c8246347fd7ae9d6296cfd17bb46e9b2db62c1",
+      "meta.json": "c3135506d573747a1176915b4e726bffb90cc3d52a23398f6f8f60df3b9c65a0",
+      "tile_0.png": "9459a352fb0541ff6c88f2d90399f0dab0a312e35ba5cec02f2e5f514e8e48f2",
+      "tile_1.png": "99354d538ca531e9d547b94907796e0d035860c8f65bf7684eff2a89e7229e82",
+      "tile_2.png": "9459a352fb0541ff6c88f2d90399f0dab0a312e35ba5cec02f2e5f514e8e48f2",
+      "tile_3.png": "99354d538ca531e9d547b94907796e0d035860c8f65bf7684eff2a89e7229e82",
+      "tile_4.png": "9bb2c8025c1b64826aff5109a8c79cfb03dc599c2e1bce05f43462fd99e112c3",
+      "tile_5.png": "bd66842c9c7100ec51641581f6ae4d4ae96070862f31fed56ceaf4fc0f793813",
+      "tile_6.png": "42cd4898c9df1a62ff16d0ca478c002a2a88ddcbc4c79894eaab774a81e6195e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/bleed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/bleed.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bleed0.png": "a8bc1a97ed8dec4a376bb85e5547c02b9540d942c4dee9ed653300d33ff208bd",
+      "bleed1.png": "8ba44ded95354be8e5be72326f184bb366c91b5cec1cbdc27c9ae01e88a0a454",
+      "bleed10.png": "0dcc2e240a053fe6dad002735fd17708eb60fc86839c5996f67b3594aa5b5040",
+      "bleed2.png": "d0879b5cea3910fb9630af67d084390fdb6a798f1841150c83eb07554696cf18",
+      "bleed3.png": "7e80a99008c9e0db9ea910389a88428d032e3e77198f4606e57083f3f7060c93",
+      "bleed4.png": "749960151e40f88b3800ed251c290500245eba060e62c21a9bdcba9c90fea87f",
+      "bleed5.png": "2483e63e71fe083380c02ff937d808c4e47f1e25d92130a09cf945675746f1cc",
+      "bleed6.png": "3848e77bbd4b7d480d4bb53bec49d01454c6e0bc8b91e7621515ba3ad37b4efa",
+      "bleed7.png": "2d0173c3be3d28d58d240b981b23edf39a39548cabf5ea6556a6f7fbc5ace167",
+      "bleed8.png": "64e5f4f67730181555e5031e58938a4e9d78403c569fdc83c7fabd172aaa85e1",
+      "bleed9.png": "64bc2e8f2ea78c3846abbd37cbfbcf7577239d3187dcce207e5fc21049a241a8",
+      "meta.json": "0cc711e95653fefd788d33626691ca35a6a78e7ca631cda279c7bd5e67d1ea40"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/breathing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/breathing.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket. not_enough_nitro edited from not_enough_oxy by kasature90.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "947105012e71c73bbf86271c3cc1fec5efdba5741e40e90cc93f8b6fd3d39ffe",
+      "not_enough_nitro.png": "016c570d5442f303e875fb54573435b49517eda4b3a6c36360fbac44b72b9c18",
+      "not_enough_oxy.png": "1801fff6bb54e791f932bb19644bfd2df616fc9d397e6f5100556492017e6a70",
+      "not_enough_tox.png": "c93c17cc637f7a4aac250bc10d8413c973fb6d78bad43b2abfe6024ce8828794",
+      "too_much_oxy.png": "caf1442505b8b692858e83b7f6036a3e5590232b52e308f7a8bcf222a1ec8f22",
+      "too_much_tox.png": "c93c17cc637f7a4aac250bc10d8413c973fb6d78bad43b2abfe6024ce8828794"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/buckled.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/buckled.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "buckled.png": "b6b77851f3c635496adb7d4f27f5ce18acee493b7bb3aa84ba566003bfc9f488",
+      "meta.json": "7961ba1b918ae9f544c57d0f9efe114baa1660f187645a633a5beffe8ae10d0e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/fire.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/fire.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "fire.png": "042f3befe096bd57cc1cb8a768becbc22b5e419e450e1d2a4445c46d332ff571",
+      "meta.json": "4fe2962241eda738d418aed22a7e5a37309ce5682a66ac5a8da679a65ca07377"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/human_alive.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_alive.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites provided by @WillyBillyGilly, edited by onezero00 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "health0.png": "50299addcd5192e559d0f3304dfc8b978c5c1ff52bb052f22abdd02c6becda00",
+      "health1.png": "2fe36cb2dd353249da73067f34c5ebf7bba924aef9dd0a4642144ca34932ee41",
+      "health2.png": "360d30b29fef3d45e6b5c13230a1b1f9af3eff526f37fbe194e058441ba85473",
+      "health3.png": "21ba8d2f97c77cb5727fd2dccb86af69bcf52473d252da58acc12022c5578b1d",
+      "health4.png": "21ba8d2f97c77cb5727fd2dccb86af69bcf52473d252da58acc12022c5578b1d",
+      "meta.json": "67ad87ca716cb62ca462e24d4d279681b7d47f238b1bb426114dde2d9f8d89ba"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/human_critical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_critical.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites provided by @WillyBillyGilly, edited by onezero00 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "critical.png": "2f71fbd50d453c935dfe24e663ab895479655c5244f71916baff9a7cb48e4ea9",
+      "meta.json": "522dc2f30a856978f460e72036bb8d9fd1edde10781f58846f6a35226664010d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/human_dead.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/human_dead.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites provided by @WillyBillyGilly",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dead.png": "a9c11902b3d90928012a4dbe6dfdeefe7d9b4a05083a9e128949258807c5897a",
+      "meta.json": "02eeeb8b10ec80098071970e2d3587e07a43ce55b562ee626b8a97614766da3e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/hunger.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/hunger.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "b9fad1ad2addde63eea372eff10a3c78f4549f4cd2bc8051b9ee0610cf69ed18",
+      "overfed.png": "b39cb2ec6e1a5e2f24c261aa65d0279567e6c6238059b2d44dd64e25b06f8134",
+      "peckish.png": "b063a26a7c94d2a1a366a4d6056b5e1c8deaef807b717b1e6c691c2dec135c5f",
+      "starving.png": "2617e4191910a6896523758be142c5f87f9ac38d3079b03ecfa9398d8f143f41"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/internals.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/internals.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "internal0.png": "9682bf74ffb9fe7f9e3c98e0c414181f9dc9b34f3a7a024558b6114909c05bca",
+      "internal1.png": "31afb3103c2f7bceaef7b9a35d8f9c0ea1fcf2dca464d0bf23f1ee14aa84adfe",
+      "internal2.png": "7548f68a6ef872774ccfce94a5ef0355ab359b409207c387eaebf38fe5c76281",
+      "meta.json": "b41d5da94213b87b1207184a446c58570e3f1987cf95f7c18228a1f57e55deb1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/pressure.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pressure.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "highpressure1.png": "8f02aacdd61e62ec8a17fa8e057b179feac8cb9c9e1cd6ae5a24945258378285",
+      "highpressure2.png": "d78f151f6634472c15d5beac30edfe8d976a25d5d91d67546bbac102ff864828",
+      "lowpressure1.png": "8abab65d696746948a9c2fcfd361b58033b0961e7741c9a5f4530a8a76521918",
+      "lowpressure2.png": "d9397473f273a72e5aa6b73b733c55b29cdfccb54850813c722ae9c0f737b1ad",
+      "meta.json": "f081e47382c8eb15833402ae15f65fb290528d790b36e6abe80f52f0eac1249d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/pull.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/pull.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "grab-choke.png": "8c0c01cf36ee1036af42d34d0cf8f86c189f47f49e578ee54e658012d761e698",
+      "grab-hard.png": "dcf47d40130915e18479824c178c9c3071d93f4fe34dbdd7b5851a5cffce3e7a",
+      "grab-soft.png": "2770e5f4045e46d41681941fa9cef5e2b0e023d8319ccab9066ecf6803ab532c",
+      "grabbed-choke.png": "076cad2cdf1f5c8bf15ff2d5ec11776423ac9bc5deb628571289e7882276a981",
+      "grabbed-hard.png": "fbec13bc53e087ec4d40a93f35a7e63afe342ecb74b20a0167fe6fc420bb52f7",
+      "grabbed-soft.png": "018b8375907e35a0871937d6c34526fdb7a59f63dc7d71997ea7a027c0018c2d",
+      "meta.json": "8e4c4544e8ef3805d4586a0aa091986d08abd75a1719ab9917dd422a3bd42cc4",
+      "pulled.png": "a46ab1675099bbb78c3fe69f8166fa0c2abfe9cb5d0b0c12250e36d978897791",
+      "pulling.png": "4725535e02fd92c0b3b8fb805db09c8a57a8974004c146456ab1df6a30792262"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/stamina.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/stamina.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites provided by @WillyBillyGilly. Edited by onezero00 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "53c482fe8103d5853dbe90d4346b6936ef95759784574c4c350ee6e36b1a790e",
+      "stamina0.png": "583221f04f0a7d9f615a3b2bcdc3d2e623bbf06ded356f74646db484d2288354",
+      "stamina1.png": "59a107ddcf4b4c20508555b245b124b3c11adcf4c7e5ac9262756a43dbdcdc36",
+      "stamina2.png": "840067009334e705b6e7a4bdc13048ddd7a4a8bc599d07e50ad5c00b460be6ca",
+      "stamina3.png": "b4a984411a6eeb8abf9dae5831fbf44683f4f7cdced301657369221c03e26c0d",
+      "stamina4.png": "126f7e87f7ffb6b634e344bad703d7315126e09f912a979d1ad1356fb608df25",
+      "stamina5.png": "8fd56fedd9950526cb2ae08779272110bbada55f873a3ba7be445fc790359c40",
+      "stamina6.png": "8fd56fedd9950526cb2ae08779272110bbada55f873a3ba7be445fc790359c40"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/temperature.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/temperature.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cold1.png": "862186772bc86f03225a595d0d4a4311928746dc275d07cdd4732c628d31e192",
+      "cold2.png": "ca3ec5f3edc498155b947a6eb3ca696fb8dd2418251d4ee7ec89b3db7a4ecb35",
+      "cold3.png": "ca3ec5f3edc498155b947a6eb3ca696fb8dd2418251d4ee7ec89b3db7a4ecb35",
+      "hot1.png": "3a78a8f622fff5e3f9c41d58f70be9039ceaa86f0024b60af6e2ff88a9acc5ac",
+      "hot2.png": "d240d7e069c22f31d8e5afef1b30ebcca078303f59197a678cfcaac3bee45fec",
+      "hot3.png": "d240d7e069c22f31d8e5afef1b30ebcca078303f59197a678cfcaac3bee45fec",
+      "meta.json": "8f9be20971753a57aab9dc40f57ea61b700ce0f49db7cec4214a24fdae11b4cd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/thirst.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/thirst.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "92f2aee5ed9c4b8904e24a6109469b08a7f366e3652141f64bd06eb13eefe1fa",
+      "overhydrated.png": "822b465aad8d8e6c275c417251eaf6fe5ab41eb88943ca461d18aae882abc455",
+      "parched.png": "ede0361ed0928940ae5ede371591cfd2da1ec3f02eff70ff2592ed2659ead4c6",
+      "thirsty.png": "605fe8bae07c239b170b5ef4812b9588cfd4f41c8cbe34f3bef09b63e561cbf2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/walking.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/walking.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites provided by @WillyBillyGilly",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "bac7d7a994ad4f6b4253cf5ae86ebc8363fe29d072baf17ec500b0097f8e2fd4",
+      "walking0.png": "0a35ecb42928f32d26a1b277a041dfd2890ee48e92ae8f38ecf17dc7232af980",
+      "walking1.png": "f90359daf4d79280cd8942b8460bae08ea7e392f0874168a0cbf669ed8e4b731"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Alerts/zero_g.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Alerts/zero_g.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "be131c05ae64abbc72cec4521f43818d0345155c469264b652373dc49dd94e4d",
+      "zero_g.png": "776fecf5572da71fa891a64a221bc40050816ab3359b4d810cc09b7816999408"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/groin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/groin.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "groin_0.png": "2acc1959b19b3d9bfeb124341fe862793ca1c2573c294aa4cd1e35145458f2f1",
+      "groin_1.png": "70d7ab9cf0336607fe6fc74f60b114e52ced58c9a0fb79c2ca572e9f6fd6363c",
+      "groin_2.png": "70d7ab9cf0336607fe6fc74f60b114e52ced58c9a0fb79c2ca572e9f6fd6363c",
+      "groin_3.png": "7ddc3ede4375faf10b8236ae66610f2e01801d78bf3d2a2711cd86cc8fb27559",
+      "groin_4.png": "7ddc3ede4375faf10b8236ae66610f2e01801d78bf3d2a2711cd86cc8fb27559",
+      "groin_5.png": "883a1313d59c0f74b803713790d286ecb9057bb97478ca453e371c63b3f8ef43",
+      "groin_6.png": "883a1313d59c0f74b803713790d286ecb9057bb97478ca453e371c63b3f8ef43",
+      "groin_7.png": "2f78f16ffb42d3ec2eb0e7cca6e9a0953d429fd6cf623c1c72fcd40de4027f37",
+      "groin_8.png": "65eba1767bb6c79dc0dcb2c4c6d36af46dcc71a679573cf64695315178d2f497",
+      "meta.json": "8415e1a4eb49808b96238a0bf0cf53c96bbd9d7aa6602d9341e82a4461501d48"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/head.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/head.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "head_0.png": "988d7b5abfb0c1b7464b72622d47435c498059785f1484fb025a54b6af25821e",
+      "head_1.png": "6ca6e7b33cef7d959562e230719704e5345b554bc173941974391ceaed4d6f09",
+      "head_2.png": "6ca6e7b33cef7d959562e230719704e5345b554bc173941974391ceaed4d6f09",
+      "head_3.png": "6912b270c566131353b598a36020ae2446d07b487f8f57189f7a38c4693413f8",
+      "head_4.png": "6912b270c566131353b598a36020ae2446d07b487f8f57189f7a38c4693413f8",
+      "head_5.png": "842c6e378ae5814f89e649c32872852d989fc293c0499340df6c1ccfc6282205",
+      "head_6.png": "842c6e378ae5814f89e649c32872852d989fc293c0499340df6c1ccfc6282205",
+      "head_7.png": "64801f9313671b9ad26f6d40de7fdaf6aa1a7df22a2288822f1c49d040f06991",
+      "head_8.png": "10e8977b6dfaf456ad1758285fbf9e73bcfd630d94a2481cb6ef08917b375e8b",
+      "meta.json": "d1ccd90e541de11eb9ca5e7406103d050613e7a7b996fc668c45f967320698bd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/leftarm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/leftarm.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "leftarm_0.png": "af49a64f56959fa616adf57d941871f04e2c649be6ab6daeec8767b375f683f8",
+      "leftarm_1.png": "4c7fdcc691dcca6c991540f171bc6f07209cc2ef09f76cb599fcc0692aacb83b",
+      "leftarm_2.png": "4c7fdcc691dcca6c991540f171bc6f07209cc2ef09f76cb599fcc0692aacb83b",
+      "leftarm_3.png": "cb1720146a694e2491444f026129c9e1210fde8410d10feaf1c5bb4a385e349d",
+      "leftarm_4.png": "cb1720146a694e2491444f026129c9e1210fde8410d10feaf1c5bb4a385e349d",
+      "leftarm_5.png": "d7370f41264db149f0b381773f0a92dc7f9e45b3e5657ec577e61e0e4bc8e034",
+      "leftarm_6.png": "d7370f41264db149f0b381773f0a92dc7f9e45b3e5657ec577e61e0e4bc8e034",
+      "leftarm_7.png": "33a9ed1941d986a4f1fe068db5605462393d6c9cb61834e916e47d758f0c6e1d",
+      "leftarm_8.png": "b4e47882e68084daecb116dec515b4ff15686de3616e4b46c720fee58f9151e2",
+      "meta.json": "41816e203e1bab8d33c95cb9a6d5bff33b6ce0ab2ce5a80b451f2a5a3aa5125b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/leftfoot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/leftfoot.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "leftfoot_0.png": "45d5552d82bc336a32ab310e0170ae791b042098b5443800f374e72cba6f9d18",
+      "leftfoot_1.png": "3ddc910c4eb83c70e7d8e3aef810a9e62d1c1e0153137699d5c7c5115a5ba971",
+      "leftfoot_2.png": "3ddc910c4eb83c70e7d8e3aef810a9e62d1c1e0153137699d5c7c5115a5ba971",
+      "leftfoot_3.png": "73fdb90b786174b149c246ee0beb964a08300b8d9b3c4d9dad7fb144ceccffd4",
+      "leftfoot_4.png": "73fdb90b786174b149c246ee0beb964a08300b8d9b3c4d9dad7fb144ceccffd4",
+      "leftfoot_5.png": "006705e72f5a63ceafb3bf5871dfae375bd0d18220828addf012dc659d1cf4b0",
+      "leftfoot_6.png": "006705e72f5a63ceafb3bf5871dfae375bd0d18220828addf012dc659d1cf4b0",
+      "leftfoot_7.png": "4bcde52cca63cec7c16028eeeb44711277907f75d1086caafc3f461853978fbd",
+      "leftfoot_8.png": "674a963bce27651a9907657a8dcf57ae041d9a3af0b792e557b49eb651fb23c6",
+      "meta.json": "bedc5c20adc0dd11412c2d62d34bb3c1e83f41b85f57bf56a44ea1720ff6490d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/lefthand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/lefthand.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "lefthand_0.png": "2554baf2e349488190b1fb0cd41dbc40f5c7e38096eed9c9539b01712c1b3f90",
+      "lefthand_1.png": "ae8c5c0b6ef3cc7ee7a1962db80ef9f98c9a807a725d76232abb74e03f627a56",
+      "lefthand_2.png": "ae8c5c0b6ef3cc7ee7a1962db80ef9f98c9a807a725d76232abb74e03f627a56",
+      "lefthand_3.png": "81861f680743c679676837b3f340813ab53ee8cc8864d378b4fb8a6f7a717e7a",
+      "lefthand_4.png": "81861f680743c679676837b3f340813ab53ee8cc8864d378b4fb8a6f7a717e7a",
+      "lefthand_5.png": "d55b31bec991e8a682e0e45fa859ddecaf647785f6b8ecf6c16b9b433b93d551",
+      "lefthand_6.png": "d55b31bec991e8a682e0e45fa859ddecaf647785f6b8ecf6c16b9b433b93d551",
+      "lefthand_7.png": "dd114f4011ae8109985988ef54f07704b6e9df28165161671ec06a698c78f535",
+      "lefthand_8.png": "c9f9cd83bcd2e5451e88436e7786414f80dd7ed3cd4d168449c9be11451ec29d",
+      "meta.json": "35a699647351907f7c5b8f32c97b7b3ec3f16b7ba9388adfb0ab691fe2e53b9c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/leftleg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/leftleg.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "leftleg_0.png": "741c9eb6ad0815e6cbf2c58855118e899295a5679e1fb8204ca5a22af39e5d64",
+      "leftleg_1.png": "decb9228116871e90c25165f5b17f89a668a461bcb154fee9b6ed3b378007e46",
+      "leftleg_2.png": "decb9228116871e90c25165f5b17f89a668a461bcb154fee9b6ed3b378007e46",
+      "leftleg_3.png": "dd0736cf9ef35a7264be365e47a492465f587143cb96e6d10fd04dec63a7a272",
+      "leftleg_4.png": "dd0736cf9ef35a7264be365e47a492465f587143cb96e6d10fd04dec63a7a272",
+      "leftleg_5.png": "7a90522764a764ed890e38e20141f7c1f7f5632826dbcfcd05c9674fcc7d39f5",
+      "leftleg_6.png": "7a90522764a764ed890e38e20141f7c1f7f5632826dbcfcd05c9674fcc7d39f5",
+      "leftleg_7.png": "537dfd48b58b364fb8234bb8b3b443816cda27fa71970922603ce019916631df",
+      "leftleg_8.png": "64e9f5940a81827b5c877d2dd7818b74eebf5e9295742956c0db14ee128c1e2e",
+      "meta.json": "88bada8db2c4ebf82a7fa44891859843c3869881757d59b4750d74065dc941bf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/rightarm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/rightarm.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "cd038dd74af0b2f82ae0701f03f0b6e945f310ae4a675f3d3b43cad0de923ed5",
+      "rightarm_0.png": "c8960a95b087c08fd3b537ded45cb3616061fcfcea21ce3d0c524a4d8c7d8ed7",
+      "rightarm_1.png": "bd2dfaf87ed31de16f90553cfbd39cb05c5629410315039b6ff1f790b42c9edc",
+      "rightarm_2.png": "bd2dfaf87ed31de16f90553cfbd39cb05c5629410315039b6ff1f790b42c9edc",
+      "rightarm_3.png": "c20d9631908eb02b39a548fe21d0778cf0df26103026fda19a36c3f924db5d55",
+      "rightarm_4.png": "c20d9631908eb02b39a548fe21d0778cf0df26103026fda19a36c3f924db5d55",
+      "rightarm_5.png": "30a1a773eba4a7b3b490592eea5d6532665d3f43d72cc829c2621f919ca141be",
+      "rightarm_6.png": "30a1a773eba4a7b3b490592eea5d6532665d3f43d72cc829c2621f919ca141be",
+      "rightarm_7.png": "c3f95f440511fbf5bac69f64001bf821484a4937992b2299581a2307316d71a0",
+      "rightarm_8.png": "a5279e6e3b4910726db26925d835db7a28537862b472fe34b84a7bb302e36210"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/rightfoot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/rightfoot.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "5616df5d35b7cd75d9d10e222e1c19efb21c3b3abf703e2eb148152e5fb58d7e",
+      "rightfoot_0.png": "1fb665e5b6f7f2ba90012a399d1a6873b24dbd0ce6b18b683465e9540ed680da",
+      "rightfoot_1.png": "c4d5befe4429f9b3f4e47770b3d78b84cc42eb286a391e8bbb1a6b0ee98a8fce",
+      "rightfoot_2.png": "c4d5befe4429f9b3f4e47770b3d78b84cc42eb286a391e8bbb1a6b0ee98a8fce",
+      "rightfoot_3.png": "c78c9ef543a63e7c1a32a317746ea560c45f0cce5a4349b9343f1f816396dd77",
+      "rightfoot_4.png": "c78c9ef543a63e7c1a32a317746ea560c45f0cce5a4349b9343f1f816396dd77",
+      "rightfoot_5.png": "dd3be1d1053dbee8dddd9051f1f3eb4320db27ed16efd480027b9ffa0fa49b9a",
+      "rightfoot_6.png": "dd3be1d1053dbee8dddd9051f1f3eb4320db27ed16efd480027b9ffa0fa49b9a",
+      "rightfoot_7.png": "68ca28a2f6ee262feeb1f83c81d56400fe37bb0eaf12e344c8053cbb4d0f65d2",
+      "rightfoot_8.png": "0d5a4cc2c9a281e1acf02b99a1176415cdb5bcd23c0624cd12f6be2994d2e6ef"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/righthand.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/righthand.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "3d0ab476968ede949613d262a8e278b9bda74e8ab5ff68274ba9ab420561b2c3",
+      "righthand_0.png": "cd7c7cb42634d378c9ae980e1c76c5d54aa02ec25ac006d8074e49835a211163",
+      "righthand_1.png": "bc669800af98006d7b402c80179eb59c7c0a0c086b7bdec6ffe93590e8931413",
+      "righthand_2.png": "bc669800af98006d7b402c80179eb59c7c0a0c086b7bdec6ffe93590e8931413",
+      "righthand_3.png": "069e8b723d8e1ff90728362e4c4d0d2dff4baa703f65e618b9edbf10191e086d",
+      "righthand_4.png": "069e8b723d8e1ff90728362e4c4d0d2dff4baa703f65e618b9edbf10191e086d",
+      "righthand_5.png": "3a7d35f0c7c779b3b2eb96eab81d99bc1fdff50a449996e2d39bfec647749e25",
+      "righthand_6.png": "3a7d35f0c7c779b3b2eb96eab81d99bc1fdff50a449996e2d39bfec647749e25",
+      "righthand_7.png": "f91bb2d0f1b1dbbfa8c288f4b7baa5ecc7456d445e2ad83f71caace33eff0f4f",
+      "righthand_8.png": "1b9e82af3b66c7f451e7c7ab15076716d758a2e21fccbb96d624e69e043aa1f6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/rightleg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/rightleg.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "01f2f38105e9402cb6cb01bbe00a543060f47a5045f39a3666fe4187fcc19e50",
+      "rightleg_0.png": "a3a1c197e2ca327964e09f091159d2ca9795c888d5104b11ab46fe58a209771a",
+      "rightleg_1.png": "e56410c3cd0ca5f33e0fca698c023cc4a57c4f862397286afd830eae98a4ebd6",
+      "rightleg_2.png": "e56410c3cd0ca5f33e0fca698c023cc4a57c4f862397286afd830eae98a4ebd6",
+      "rightleg_3.png": "4e6210d05c0656e3671345a99a2e9eedd750b2ee15c46e27a8a1c0bc7614e385",
+      "rightleg_4.png": "4e6210d05c0656e3671345a99a2e9eedd750b2ee15c46e27a8a1c0bc7614e385",
+      "rightleg_5.png": "c0424d528278f008dcb1eb546c42cec7ff684bb84aaa4d290fea5d868dde4a0d",
+      "rightleg_6.png": "c0424d528278f008dcb1eb546c42cec7ff684bb84aaa4d290fea5d868dde4a0d",
+      "rightleg_7.png": "d2ca7a8c8e3081be71a97cb99ec2186a349e0b21794eb81d812ada319254518d",
+      "rightleg_8.png": "a227a0b9c6824dd8496aacdf6feb466f154b9df763ec5f4dc410c359282c2816"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Interface/Targeting/Status/torso.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Interface/Targeting/Status/torso.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites provided by @_miket",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "297b81903e344e66a6b3de5ed481da7d840d1cb2f2f4d9fcb11434c89242b664",
+      "torso_0.png": "afa4f640ad9e0925f0911698aa849ecaa9ae05b12355a3422e81b28022ee48fe",
+      "torso_1.png": "026aa7463aa9aabef808f11e746b429aed234d2c0e7392e32db37757fd787d4c",
+      "torso_2.png": "026aa7463aa9aabef808f11e746b429aed234d2c0e7392e32db37757fd787d4c",
+      "torso_3.png": "6deb4f6db77e2c96e44b72e61f327f3e57b1f1e4a9515b8c3b307dfbbbc2c5ff",
+      "torso_4.png": "6deb4f6db77e2c96e44b72e61f327f3e57b1f1e4a9515b8c3b307dfbbbc2c5ff",
+      "torso_5.png": "18e51886756167a4f700aa933b81a3b66c79b6b04c149881565adda00c2d91f4",
+      "torso_6.png": "18e51886756167a4f700aa933b81a3b66c79b6b04c149881565adda00c2d91f4",
+      "torso_7.png": "53c000986aceef74a5e9181c7a1129a7af7f56d848f44c0bd81dcd1275512b7c",
+      "torso_8.png": "39bf346766b738f44cbf37ec26ba605068d5d9d7445a7e0fc1cda04863ab1a1e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Crescent/Structures/cargochute.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Crescent/Structures/cargochute.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Taken from CEV Eris.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "8fe4c51293c295a458e3a50fe614094ede532c386db587060d5e0f4ab5865110",
+      "meta.json": "3d770c930fbc2a6b9ed71eef2079bcf8c114c92358dd13e00f599fb2ae6c105b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Ears/Headsets/prisoner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Ears/Headsets/prisoner.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Resprited by DangerRevolution from tgstation at commit https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EARS.png": "5682299acc141d114cb99927b811703eec1a2b576f71b7079628bcd5cdf76279",
+      "icon.png": "9b124e497051903d89cd43af91cde40bdda4c1d941c06250bf81ec2b48438f1a",
+      "meta.json": "a89411336697903c24dfc76a53a0c38a6d78f9092476c6dff9c156394f6c957d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Eyes/Glasses/traymeson.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Eyes/Glasses/traymeson.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da. equipped-EYES-secdog modified from equipped-EYES by TJohnson. Equipped-EYES-arachnid and equipped-EYES-moth modified from equipped-EYES by HTMLSystem. equipped-EYES-dog modified from equipped-EYES by Sparlight (GitHub). All versions modified from respective versions by rebe83",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-arachnid.png": "13129d39c58c0a2e347146a7a35256f6cd4075ffd59e37e59b634fcda4acae6f",
+      "equipped-EYES-dog.png": "cb4271fcf73be385e61abb8991e2d18e73edbba92aa245a95b7c68636c901eec",
+      "equipped-EYES-moth.png": "fd10a4be200b37659232fb37b24c1ee5aca1ed029cf7356803c99102e49dca61",
+      "equipped-EYES-secdog.png": "d881cefe29be2da29ddeb1029aad31d832eb9b4e7520ab593da0fedf910db3c0",
+      "equipped-EYES.png": "73d7d26870eccf21c8343a33115c3e5752dcd8e1cd0dca772f77a45636993047",
+      "icon.png": "678519a6ae9fd32e2fcb2126275ad01205dff82b92023eb777d276ba96ba580a",
+      "inhand-left.png": "abb865c365e844ad2641536ffd8e21e72962b096604fb7a6b21e9fffdb47a8ff",
+      "inhand-right.png": "c5c3900e4181aeacd81dac2944bebed8dd2aaa634b8ae893659923ec1dd8bb31",
+      "meta.json": "53d877ab7e8d46427dc6bc7efe835258b6f6648ec5db5b51d84d4f00d6fb87f8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Shoes/Boots/winterbootsatmos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Shoes/Boots/winterbootsatmos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Kilk, modified by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "9d227ef2ba28fc5e074476291388ba69c2238a895561552da6d81cccdbdf2e32",
+      "icon.png": "d1abe611a2e4b23b6b931d5c09c48e4e60b014f655c4e4757835c1467c4b2c7c",
+      "inhand-left.png": "a526949a77116b863707aeb892f1203a670faa0a2448f93dda1c00b695325a5c",
+      "inhand-right.png": "1c548ecc3d6beefabf06aa2e794b09629400757029a750d8b88610f394955da2",
+      "meta.json": "aa8e978bdba8d742b6a4b30d91e40b5d6203f35c1229c497accc2b201323b572"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Shoes/Boots/winterbootscap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Shoes/Boots/winterbootscap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Kilk, modified by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "75e727f72d48e7f91604915470b34a48df310fe8538a987f1104587f7a823dc5",
+      "icon.png": "dcbedb7ba00859075ee19a4c0a0a535a61f63013f08e79ba16f8517f5b290717",
+      "inhand-left.png": "31441a31b728cd438300162f8b7cffeafc60c17cce0207aa4b71200fb33652f5",
+      "inhand-right.png": "4da6fc40c3f42a5f52d079549ac49ec2f98fce4898210885982fd5b0f0a9c6cb",
+      "meta.json": "aa8e978bdba8d742b6a4b30d91e40b5d6203f35c1229c497accc2b201323b572"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Shoes/Boots/winterbootsce.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Shoes/Boots/winterbootsce.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Kilk, modified by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "dd9af35eda965eabcff941737c592d9e0781af5f093b4cf96e70fa63b8882afd",
+      "icon.png": "54ea305d2ef4082cdff58ec8aa77a569652c945b947515c8f354ccac5eead3a6",
+      "inhand-left.png": "0776a439dabdbe493f8b71aa800568f14f2c735e0464796e5358ffd7cab119fa",
+      "inhand-right.png": "e400da2f8c1b312aeb46f0c0847813288473c228c0b7df1a76055e96cb0c655a",
+      "meta.json": "aa8e978bdba8d742b6a4b30d91e40b5d6203f35c1229c497accc2b201323b572"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Shoes/Boots/winterbootscentcom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Shoes/Boots/winterbootscentcom.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Kilk, modified by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "34a6bf13e9435361069266b23e17e90517417ef9abcfe4a74a384e1204339bfb",
+      "icon.png": "d8c9534d0ceca341922275efa57257080f102046579042e2e328e680d4e6d164",
+      "inhand-left.png": "6ce6d45fb1dc26ea3019f1c77183ee1e51aa1cae2c908d01847080a71877bf53",
+      "inhand-right.png": "46fd186a17169e81f0675b2eada0de2bcacf606fb29198458b95df723c32eb6d",
+      "meta.json": "aa8e978bdba8d742b6a4b30d91e40b5d6203f35c1229c497accc2b201323b572"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Shoes/Boots/winterbootschef.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Shoes/Boots/winterbootschef.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Kilk, modified by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "d85f8d241df7ad5b45fdd8cfa20038865835c44c770e40b63fc7f7bedbd4fe8d",
+      "icon.png": "28180e1cb81b6d1203b44690ad0754ee7f745687ca40981d5ce97b07ae85ed81",
+      "inhand-left.png": "3b8d0ebd8e44fd20071214ec4015f3d934773fb47fd1fb1e68b16849093fce7a",
+      "inhand-right.png": "c11a4988a7ea741ddc4e763d283e8798e432b5da268148d25fa71431cd4ec9f4",
+      "meta.json": "aa8e978bdba8d742b6a4b30d91e40b5d6203f35c1229c497accc2b201323b572"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_DV/Clothing/Shoes/Boots/winterbootschem.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/DV/Clothing/Shoes/Boots/winterbootschem.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Kilk, modified by HTMLSystem",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "5788ea355d911fd04e0e76831e34e6cd2f0cf000d92c777017bfe6ea97b333ae",
+      "icon.png": "73a3abb54a6833fd3972b7ae66f075aba0ad16fabd571b8ea3fb500798b27f8c",
+      "inhand-left.png": "d96025b45df184cdbc236513d7f3ba1f686866b8c33f57f7dea7e5e31904282f",
+      "inhand-right.png": "21b3d65fe7b65af8eda53896173a3c7565cf9028966ead7ba0b2a4de8670bedc",
+      "meta.json": "aa8e978bdba8d742b6a4b30d91e40b5d6203f35c1229c497accc2b201323b572"
+    },
+    "replaces": []
+  }
+]

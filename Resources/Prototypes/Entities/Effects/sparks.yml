@@ -30,7 +30,7 @@
     layers:
     - shader: unshaded
       map: ["enum.EffectLayers.Unshaded"]
-      sprite: Effects/atmospherics.rsi
+      sprite: _Lime/Imported/Monolith/Effects/atmospherics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: frezon_old
   - type: EffectVisuals
   - type: Tag

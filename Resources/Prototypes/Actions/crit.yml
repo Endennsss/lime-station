@@ -17,7 +17,7 @@
     startDelay: true
     useDelay: 10
   - type: Sprite
-    sprite: Mobs/Ghosts/ghost_human.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction

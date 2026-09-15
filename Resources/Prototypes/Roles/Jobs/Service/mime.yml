@@ -41,7 +41,7 @@
     priority: -1
     useDelay: 30
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Structures/Walls/solid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Structures/Walls/solid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: full
   - type: InstantAction

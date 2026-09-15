@@ -102,12 +102,12 @@
     tags:
     - Wrench
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     storedSprite:
-      sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: storage
   - type: MeleeWeapon
     wideAnimationRotation: 135
@@ -141,7 +141,7 @@
     sound:
       path: /Audio/Items/multitool_drop.ogg
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
     - state: green-unlit
@@ -149,7 +149,7 @@
   - type: Item
     size: Small
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Belt
@@ -333,12 +333,12 @@
   - type: LimitedCharges
     maxCharges: 30
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
     size: Normal
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Belt
@@ -394,10 +394,10 @@
   components:
   - type: RCDAmmo
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: ammo
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     heldPrefix: ammo
   - type: PhysicalComposition
     materialComposition:
@@ -479,7 +479,7 @@
   description: A large tool for digging and moving dirt.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: 45
@@ -490,7 +490,7 @@
       collection: MetalThud
   - type: Item
     size: Normal
-    sprite: _Lime/Imported/Goob/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/shovel.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: PhysicalComposition
     materialComposition:
       Steel: 100
@@ -506,14 +506,14 @@
   description: A tool used to shape and flatten dough.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Small
     storedRotation: -45
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Belt

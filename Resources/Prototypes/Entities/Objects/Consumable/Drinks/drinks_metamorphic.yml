@@ -62,7 +62,7 @@
       - ReagentId: Absinthe
         Quantity: 30
   - type: Icon
-    sprite: Objects/Consumable/Drinks/absintheglass.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Drinks/absintheglass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: entity

@@ -4,7 +4,7 @@
   id: UplinkStorageImplanter
   name: uplink-storage-implanter-name
   description: uplink-storage-implanter-desc
-  icon: { sprite: /Textures/_Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/backpack.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
   productEntity: StorageImplanter
   discountCategory: rareDiscounts
   discountDownTo:
@@ -149,7 +149,7 @@
   id: UplinkUplinkImplanter # uplink uplink real
   name: uplink-uplink-implanter-name
   description: uplink-uplink-implanter-desc
-  icon: { sprite: /Textures/Objects/Devices/communication.rsi, state: old-radio }
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio } # Lime-Edit - текстуры Monolith с сохранением лицензии
   productEntity: UplinkImplanter
   cost:
     Telecrystal: 1
@@ -184,7 +184,7 @@
   id: UplinkFakeMindshield
   name: uplink-fake-mindshield-name
   description: uplink-fake-mindshield-desc
-  icon: { sprite: Interface/Actions/actions_fakemindshield.rsi, state: icon-on }
+  icon: { sprite: _Lime/Imported/Monolith/Interface/Actions/actions_fakemindshield.rsi, state: icon-on } # Lime-Edit - текстуры Monolith с сохранением лицензии
   productEntity: FakeMindShieldImplanter
   discountDownTo:
     Telecrystal: 2

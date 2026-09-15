@@ -20,7 +20,7 @@
         mask:
         - TableMask
   - type: Sprite
-    sprite: Structures/Furniture/furniture.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Furniture/furniture.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: bed
     noRot: true
   - type: Strap

@@ -2,19 +2,19 @@
   parent: BaseSheetStack
   id: Steel
   name: stack-steel
-  icon: { sprite: /Textures/Objects/Materials/Sheets/metal.rsi, state: steel }
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/Objects/Materials/Sheets/metal.rsi, state: steel } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: SheetSteel1
 
 - type: stack
   parent: BaseSheetStack
   id: Plasteel
   name: stack-plasteel
-  icon: { sprite: /Textures/Objects/Materials/Sheets/metal.rsi, state: plasteel }
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/Objects/Materials/Sheets/metal.rsi, state: plasteel } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: SheetPlasteel1
 
 - type: stack
   parent: BaseSheetStack
   id: Brass
   name: stack-brass
-  icon: { sprite: /Textures/Objects/Materials/Sheets/metal.rsi, state: brass }
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/Objects/Materials/Sheets/metal.rsi, state: brass } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: SheetBrass1

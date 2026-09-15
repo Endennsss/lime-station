@@ -1,0 +1,4 @@
+# Lime-Edit - сохраняем байты сторонних файлов и их контрольные суммы
+* -text
+**/*.rsi/meta.json -whitespace
+LICENSES/*.txt -whitespace

@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: EmergencyFire
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Misc/fire_extinguisher.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Misc/fire_extinguisher.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: fire_extinguisher_closed
   product: CrateEmergencyFire
   cost: 1500

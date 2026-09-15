@@ -1,0 +1,1272 @@
+[
+  {
+    "source": "Resources/Textures/Objects/Specific/Medical/syndihypo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Medical/syndihypo.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/1cdfb0230cc96d0ba751fa002d04f8aa2f25ad7d and modified by emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "hypo.png": "9daadc8b158ad3f57068ddbdc707b1992855ed9df9fe44882a7fb8cc52ce24f9",
+      "inhand-left.png": "f3d0fdc40c549c705d909c1cc264177fcb71cc5fccd92e290bac67e76dcdc7b6",
+      "inhand-right.png": "f3d0fdc40c549c705d909c1cc264177fcb71cc5fccd92e290bac67e76dcdc7b6",
+      "meta.json": "aa4ff62fd16c219cba4c69986fa2d5368b619f04dc6ce8db8a0a58416cd9d057"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Mining/ore_bag_holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Mining/ore_bag_holding.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/5ce5a66c814c4a60118d24885389357fd0240002/icons/obj/mining.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "75d93651662a37217f50ecc9e865e5cd76ddaaa2ec64009112e12e7baf3d17ca",
+      "icon.png": "05dd9cb8cc223276755da82e7a379b7a40ce3f0af1a5ca8680c6d38542f7de6e",
+      "inhand-left.png": "bddc5e942c25122a774d6b95b8ccccd8dba8c216900b0ef7e44804db5bdc1feb",
+      "inhand-right.png": "93cb115885e037a9d780762614652c0ef20a72dad7b58726fbde6c5c7efd250b",
+      "meta.json": "8db317808c524ff1c7a435ddb647af3f6a4a58b062317e2b8db63a364071c879"
+    },
+    "replaces": [
+      "Objects/Specific/Mining/ore_bag_holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Mining/ore_bag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Mining/ore_bag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Homegrown by @ninruB#7795, inhand sprites by lzk228(discord 455630609641897984) | icon_on state by @kilath",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "4e6a397bac8bcaf0bd0b1fd4596f4fe1238eb759f5987ebdc7a0aba6478d1b6f",
+      "icon-on.png": "fd4c676c1ac040aa27bb1896fbc71fe9dc8c3753616f4cc6e428eb8fcecd5da8",
+      "icon.png": "bccf4bda7ed8b9966def8ef985590e1a1fae993281d8a3bcda0be17cc641a905",
+      "inhand-left.png": "da66014c4b665d8d3f9e60d341dd9904c5f28c4da7d21d6f594b3d583fb3cbb8",
+      "inhand-right.png": "2a65887935db7c659eb7d17335d2207eb838af9ae46fbf59003d8d494501d75e",
+      "meta.json": "8e5092b8ad2630e5ed90818aadd56242a4f241a6fcf27804b0dd0257be0aa7f5"
+    },
+    "replaces": [
+      "Objects/Specific/Mining/ore_bag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Robotics/borgmodule.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Robotics/borgmodule.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage404 (github) for Space Station 14. icon-construction.png created by deltanedas (github). syndicateborgbomb.png created by Mangohydra (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "cargo.png": "9c22b9c75306ad91dacb11ce9f712b7dd9f2ec409202c45a307686a7259c4f7a",
+      "engineering.png": "b38f257ae9169ac621d0b88177ead2e830c313287eab669705c8046bade94f2c",
+      "generic.png": "56fb0ceb15e23ae97d07429140b206deb0215bf673addddab57836e9468a51a5",
+      "icon-advanced-surgery.png": "2c8bc739ea1a67ce2b97ea2e3d2fa501a67cb0600837b6b4170e1ba9beae02d6",
+      "icon-anomalies.png": "7a37651884e1cbbdc2bae66a5eb78e51c476c4812653ac04c33f09ca29aa15ed",
+      "icon-appraisal.png": "04ae5f3a236a71b87783c70414fb7c3a57778a61f8f57ec375a3292d471097bf",
+      "icon-artifacts.png": "359b218aa0a07ff28f87f35f770d77123f4dd2d31ad994df473c978cbab17c1f",
+      "icon-bomb.png": "301016fa5c8c0b6912775c323a838041cf63323c15529fa475c2021d83ffc9cd",
+      "icon-cables.png": "f8d0ca577110e093173d77669bd93bb17f90fd4c802edf1c1148a2e931d66481",
+      "icon-chemist.png": "648e69cb8204accc8d129678e64be953125f72b549a96871209379b29ad60e52",
+      "icon-clown.png": "1ac8ba810c2ff2c63a7774c49fde00698c438b0f3b97a79c38e81c1147623ed1",
+      "icon-construction.png": "f75d7cd7e427330b67aa38b488328cc6be5712286571c583736d6df9977cb130",
+      "icon-defib.png": "e2c98878d0329181e00d0c813851c0d22ee3fcbc97426c2d2067c857f9ee0877",
+      "icon-diagnosis.png": "e8616eb4da8a22843c42a37e91c56690010c4554d377deb0225932e30784941d",
+      "icon-fire-extinguisher.png": "aa68cdf2d926083fa59f4ea7d64c2ddf0fae02a34cd0c095f511b8824c12cbb6",
+      "icon-gardening.png": "26b9cfd006a123f2035c29fae222f64177ea6c6790f3151cb2a0b4daf2c105e6",
+      "icon-gas-analyzer.png": "d01abf61a4a51cf9846efe4394ea63b5d8b4ea095a9fc52a2a8301171eba47c4",
+      "icon-gps.png": "bddaaf247d9b6a7459794266844ceed44f96c58118e13ad78dc85db0a4d477b8",
+      "icon-grappling-gun.png": "e145a97dd74f51997e9de60815c9494f471d7da64280d996103f7c726d461308",
+      "icon-harvesting.png": "475ee410aeed3d42ed320f605384c4694de09201f1d2d33d1b3833a28a835fbb",
+      "icon-light-replacer.png": "637ad71c98a32758e5291463e48600aaf36c8380371f86e22ae6117a1486f2e1",
+      "icon-mining.png": "fd0bcff4601abba985f1a219a6812a9c2132fb7afc70343c8183f0588bb4ac86",
+      "icon-mop-adv.png": "d9a8885842beb03f763d2cf6bf1a29f01fbaa97b5a21e588bf05f970404d684a",
+      "icon-mop.png": "db0d6c2e78bcfcf75849be6396e22a3347028c28b6bb4486acced352f0c94bde",
+      "icon-musique.png": "3dd134c7614053209de1d8cc56b61aafdbe1f2d7a35fe22e6bcf7a2bc6f56e6d",
+      "icon-pen.png": "2a9c9dd0a7c95afb19ed22384c157940d38b9eda6769c8bfcd215115b09f209f",
+      "icon-radiation.png": "78de578412ad3f1c700a62b04bd39dfbeb31507046d5dea8d0baea57837015fa",
+      "icon-rcd.png": "d7eb2e5da877a6620066d225e8c3b4398b86705b10b2fd9f34aec30a8fbd9aeb",
+      "icon-surgery.png": "294fdec6e58bff3b123752f91a1596d38bc10f2070918f6dfcbead79ffcce349",
+      "icon-syndicate.png": "0ae6593ac69c9b557007a7d34cead6260bd1779e3225fe0af5c632a11b262226",
+      "icon-template.png": "6548bd0da4dc128404c6249971525ca99f2af3ff085ac8a5d781cea3303490c8",
+      "icon-tools-adv.png": "631c8cce8d86601338a8ba02724bb594fbdf1691ff7bb4ce222eae40d5d63c2b",
+      "icon-tools.png": "0cc153f9fae8834053b51746caca1f70b058a64edcf67e0719d3c006f5a9004f",
+      "icon-trash-bag.png": "257d9311bc67d9bf9417ac31a0153b68276829b67cd9cbde1685ec3b8402e9a9",
+      "icon-treatment.png": "6890bab636cb673beb759ece07233319eab5ae96318d98afa8c415514c91010b",
+      "janitor.png": "9a748b6e70dd8ab888284fba1da22d482a50606407b341ef56eb1a86812f9371",
+      "medical.png": "52ce343caca2d1453502006357bc20052562efe6bbba765c48210cbe2ecdb13e",
+      "meta.json": "b6614a862b8a11d777dbcdae0a5762169610b8f78e73378a489b341271b31ecf",
+      "science.png": "836f36a090d25a8e2ef2508e972798278c9892559e7e7765a763f57bd0755eda",
+      "security.png": "2746d446764335e4ecea3a67371d81594bd6c32e7fa87f4b999034e373e7a7e6",
+      "service.png": "09e9cc357c5f43dc5c19e617ba5d578e7d2d0f4df625edf66e9c2c13e9938563",
+      "syndicate.png": "2846922a9b36fd193117475e8d42e6f3deef73087a4bf6f824deb6a466addc15",
+      "syndicateborgbomb.png": "85f56316086c73a3c8fa05aa4f7893afb6d9e9bc367046e62aa13edfb91bef8a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Specific/Robotics/mmi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Specific/Robotics/mmi.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/cf45322c7ee16f9d7e43d5260daf24ceb77c1b25",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "69c727b53f20e13ae747f7ee947ec5459f041bec3950d30a66c91041f2e304cf",
+      "mmi_alive.png": "413d7142b9cfcd813040a14b3b7d9c2f71ea2b6268b5ac0e61a1aa0c25f23793",
+      "mmi_brain.png": "72798f654916154088f6b806a39bec5c08f40642017371af0a5d23d84dd31ba8",
+      "mmi_brain_alien.png": "04131acf5e57fa24b291100e39faf8cc13c6547e7c63f3bb49b943045003ee8b",
+      "mmi_dead.png": "d0ef525fa24d5699756ac1149e5d434d96260cc7df91256ae539d8d7621f39a3",
+      "mmi_off.png": "59008f3f4284f1de428811ebef0f42f5be42cafac3d58c1a092c74c1fe9a82ae",
+      "posibrain-occupied.png": "d2f98a233ef178c6cf782044a51a16e47f4750b45c2014290e7f61ca9468568a",
+      "posibrain-searching.png": "8ad2435a36bcfe0f8c9bc12aad5e8af9c66c2a25a27d714a33799acfae08db26",
+      "posibrain.png": "c42e03f41426af450d523985460b9d787046677ff849288dac355af52e73758c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Storage/boxes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Storage/boxes.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/ca674eff9d23e04357b7609ef7e07eadfc1a993f and modified by Flareguy (github), encryptokey was taken from Baystation12 at https://github.com/infinitystation/Baystation12/blob/073f678cdce92edb8fcd55f9ffc9f0523bf31506/icons/obj/radio.dmi and modified by lapatison. boxwidetoy, shelltoy, swab, flare, inflatable, trashbag, magazine, holo and forensic created by potato1234x (github) for ss14 based on toys.rsi, mouth_swab.rsi, flare.rsi, inflatable_wall.rsi, trashbag.rsi, caseless_pistol_mag.rsi, guardians.rsi and bureaucracy.rsi respectively, candle and darts created by TheShuEd for ss14, throwing_knives and vials was drawn by Ubaser, evidence_markers by moomoobeef, nitrogentank modified from extendedtank by Errant, agrichemkit by Cerol, modified by ps3moira (github), envelope recolored for envelopemanila for monolith",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "agrichemkit.png": "3fce89218cc9eca7b668b9b709736a9117ba3d370f61afda10fa2ffefde24a72",
+      "beaker.png": "749b8385a275a5987b588c39cf43d4ce219eb396aa120ccfecdff7f5daa98ad0",
+      "bodybags.png": "f2fbc2ee64be57e269e12ea6ed74682d02c4d56092f3637a329365c9a2774ab8",
+      "bottle.png": "8ef46e6cf0b447e4e573c0765b47f37f733792c7b67632fa53cd31b3bbcc2e22",
+      "box.png": "ae5a5e28c1b3622e29dd0a0deff022acc01a21f8c8d9b6e4a82c4f3cb6313d6f",
+      "box_hug.png": "0ebf1031cc88f759b43e302367d51a41333fe98fce6ccf86606badf2a6d588df",
+      "box_of_doom.png": "eda283a40e6ff76e0724dcd588e5123bed48d031e49c45ec3b9708e398eb3229",
+      "box_of_doom_big.png": "9546c2c2f295195643d355a307b604efe8845527188683a8ee4c144e3462ba81",
+      "box_science.png": "cdf4e6d827d46b15d3970debb7d34d5c6c3ac4aeb0d19f4acca1bb8d5b3f2d05",
+      "box_security.png": "e965d9ce8d5448d16441aa72a302a54ff42a78d359dacfed93f7be763b465671",
+      "boxwide.png": "075ae3cfe8ab5c1c98b56ff10628723bf1c304ec0bc9952035f18c0f1917a0b7",
+      "boxwidetoy.png": "146fd9962ae8248d6a7fcfaed933fcf39b816b57db05745d051f5a3b29424bfc",
+      "candle.png": "b8fad0c110065e6a0fecdb7812eb4387b2eeaa2062b60c6d007216c15047e41c",
+      "circuit.png": "c3585f66a85d70fd7019d8d03d1a68082166d2f67633969405c366568beb16b0",
+      "clown.png": "d4bff3a4ef21becaae7be1bd6ecf9ad1b8c0fec37bc33be357f41edd02ccef7a",
+      "darts.png": "f720565b5a659debc27c1f37d7403c55264752488cf755712bf9a25effa85c65",
+      "disk.png": "3fbfd7d1d3aeb79c6dbecfe479c9492dec65f9264637b321b4718df0adf4a09f",
+      "emergencytank.png": "676a2158f76cafa9f91e69bf7f400d5fc056356d854a23ea626241e9733e59f4",
+      "encryptokey.png": "02dbe90c59295470209f1fa0de21d47bfa368c5ddce1eb6691fb18bce14b8268",
+      "envelope.png": "f9505fb7a9b3763831272871bdfe72bda25a38cf3d226d8e57d6387ae8804a84",
+      "envelopemanila.png": "1988475af3953ec3f593183da249476d9ebfefafbdbfa4d1233b2d9b256788a3",
+      "evidence_markers.png": "6ec813a876a8e8a8c96d5356bbf4cf0d55c35ee762719bd586863b9599426ea6",
+      "extendedtank.png": "6fbb0f2ddd3fd46b05d0166bbd90555af119003cecba1aeee4d7b74a4fe33d81",
+      "flare.png": "1b3eb529358cbd481fb1885101dd063c8b3b00d1e648369ecfcda852eb899599",
+      "flashbang.png": "51c87f205233f6a6a8b2846fa99ad11d0775a2e8e6829fea2979002ab2359635",
+      "forensic.png": "21d6f448af9fefe6dd341ba9e0df633c52ce95ab204238b1d7b6c02847252dd6",
+      "france.png": "222297550fc9d886692430cf3728ab8e67e110ce3bdc908dbf2a974beb9e95db",
+      "glasses.png": "a7f9f845a68c8f053c8fde97a0174515753e2f00fc41841f33cd4af1086b93d4",
+      "handcuff.png": "6de5bf2e3941b77783f99792ef650bc4ccf581e93a5642925736970e5e2744c3",
+      "headset.png": "fc9e9fc0b2f07e5d7a01a423cd58882e7d287ff4eb9dead660734e34d53ee35d",
+      "heart.png": "6ae894c6589eb527ef0f56ade6f3f3fbaff0da9cf036a29d84ff4244d059d864",
+      "holo.png": "de52c82d87b7f93955185cb0b4037c4779f2f9f465b9587b34ba047329e77ad0",
+      "hug-inhand-left.png": "1d71891ea7d2636f61ad5ac4f4e8629d54dbb9367ce9d675b2f9b883bd6291a8",
+      "hug-inhand-right.png": "51350d3b71905e9083a131e574724f9d2c91b6d36201f33eaeb5f043883e0649",
+      "implant.png": "536f799a85bec088d2cdb61298d2dce7c497074c30af65e58ac9ae8f18ff8aa2",
+      "inflatable.png": "cdb4a257e39a4da4405ad259f41896dc25e338cb5ec9164e20be05beb9fe29e7",
+      "inhand-left.png": "984be2cf2dc8740e671f18ba48244a2bab469b8c238db00163f97ef9f846fda2",
+      "inhand-right.png": "97f75012499b30a58c2ae8f598092f3b9d5f1e1a33caaaacb9a68860e0fff50b",
+      "internals.png": "ab4fdef0e313949c4becd5ce1fb059ead292877747c459e4f9fc44ae7ba85773",
+      "latex.png": "243421504137c0c93fb8df70bb97996d8fdf10ce77de393307e010c708df4133",
+      "light.png": "0296d64c3aedee221b3b1ace8d7748ebeee5b7bba5631ad37ff22671b916399b",
+      "lightmixed.png": "908ed812d269e80cacfdd5792c06185040c1be3c3b2c68c265d147c21e7e6602",
+      "lighttube.png": "037bcf5075d388fa60722a7f163762bc89e38b4a95b9a6a0489e256d006d2d64",
+      "magazine.png": "0fae57308012bcf90349ce88cbfb71b56ef7e8f32edf2c4e29730e3bd77578d7",
+      "meson.png": "fdd79eaaaa29285571457dbc5eb2a22ccba89498ce418bdbf37fd38bca1791ad",
+      "meta.json": "56b26a2646a18bccfa018c98e3f62696f9c0edd94c661ee4bb0de559a1d33f03",
+      "mousetraps.png": "4a6df3ac590a3452df07f2fbd406001ec7fa2b8e3c7a3c3bad3077fb721fd44c",
+      "nitrile.png": "0e5c0aba26cf628beddd9067f1812a4ad15390dc7e8c0720779c297ff12860b5",
+      "nitrogentank.png": "d01fa070535230c37ae1e1df7f9fd460295ebfefb2210be9f41497073dfd6801",
+      "omegacart.png": "928440f019eabdd34cd44b2e85892ad4702a6b1f57fe5de5efaba2955a545027",
+      "pda.png": "9873ef98a3d859e3d12ab68dd86f91281232c4419f083c9134fee55b14f9d559",
+      "pillbox.png": "339ecae331e7d06e19d8a5a9390b57046ca9f177bc6f815bbed72731fac23c11",
+      "sechud.png": "763a75247dc1993681184498fc840b2fd7a9d78d8baf8d98b95be7d6cc5f586d",
+      "shelltoy.png": "acb744f979afc3dff4ab74d62005f2c262c0191ba6ff56573e42390befcd3636",
+      "solution_trays.png": "39dfdd785b4bba0b90fa762106ea0f65795cb4bbb28ff468bb1a45cd36ad64f7",
+      "sterile.png": "1db93c3ed7a9c307dfe759ad2a850b600c9d7269f19d385b28f6120d9c3b2725",
+      "swab.png": "3be5d65ab51e47a94f61c193feed30d6153fc85bcef9021ae1a04dd6d0c40117",
+      "syringe.png": "fa7ef4d0eb9d7060813c63cbccd0700f80b83af29ec5b3d243b3247609c86b2c",
+      "throwing_knives.png": "79d0726515a01a1fb3829a6e1f3b5d7cbad3519fb347f3869e1f9d8df93e092c",
+      "trashbag.png": "4c6221fee8b77f3c312d7c40adf13f29ba911275db8dab114cb93ecb42a3cac2",
+      "vials.png": "2c94d7b7389d6fb6dc01013d1240d38f34b93ea2c6e039a1671b5edcfcb8d7f7",
+      "watertank.png": "eaf7df5a948b49cc6c98fe4af11aaf765a21c294740fbcc345549d212871adf7",
+      "writing.png": "1860016bb5f360b7686174383342c2f584da9e95ea3dc1bc4ebf11b286c81ff7",
+      "writing_of_doom.png": "86b56d4f5f94375c9c25d456a4c670ec0ea4831562f85320a578c79a5992b435",
+      "ziptie.png": "555b274965549a90d353b276c130a780754b2bf742b087c02adfa3cff55d8358"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Storage/boxicons.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Storage/boxicons.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/ca674eff9d23e04357b7609ef7e07eadfc1a993f and modified by Flareguy (github), throwing_knives and vials are drawn by Ubaser, tracks made by Fazansen(https://github.com/Fazansen), modified by ps3moira (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "beaker.png": "423b2f2689742e7f3c1a33ead38567bd67fb9f4b3da122d08e42c90d145048f6",
+      "bodybags.png": "280e837481b76f21f8d01e22c3f0da8082de4990bb66d5449eb6badd9b67fdbb",
+      "box.png": "a483389067ea7c8aeec064d44cd64cc5e585ea0227246c82d2d37d8342b4eec1",
+      "box_of_doom.png": "46c6dc857163d75352fa702f912288843decf9db12ffb1b44cb973a919bc6cf8",
+      "circuit.png": "0d926d76808a146f8fbe0c2c8385b7293edbab4964318cde86899ce153cbbfac",
+      "disk_kit.png": "6d8afcc5aa5599cb59e6f1cfcfcb33f5387356431cd679ee20a4c1ae28e0165e",
+      "donk_kit.png": "e08ad0314e8110dcb237beb2bfa38b76d35d2354ce01789213dafc634d4e1a95",
+      "flashbang.png": "4a8df483e26fcf5e2f00c05c0f170261441377fe6ca13d82fc5be8794ab8a2c9",
+      "glasses.png": "3f29456872843c59377421c56329ab7468364030517a34dc477d816a85de0710",
+      "handcuff.png": "fc389656097466b2778168d668e0120dbff484bdf3e1fc150f02b1681479d3eb",
+      "implant.png": "dc03c9183358042d63419bb85fc7fcb44cb3c4e6e0e7c0d9f2475c063e20abfa",
+      "latex.png": "e5800e84f77da8423f0042834baac9ef372d7b3517fafc70a7e3375f8fe15f2e",
+      "light.png": "0b73c250935bd45ae4a37fc3d7561abcf9239761040ef611413db3c6e482ca17",
+      "lightmixed.png": "e6c0ec376eeaf37ad40382e4d41251b41446c91985aed7eafcdbbb133a0b78ac",
+      "lighttube.png": "b0757919ffcb05df02887fb22ceef833ff4dfdffe6474df4bcabc712d5abf587",
+      "meson.png": "0a3da2f0a15fd61faa72b33103d6a867c73a323a85c8d4a1ccf3fae2f16b9ce5",
+      "meta.json": "bd985e6100a84f74a489804e181329eb75dac94ce36f067b0ce6ed1e332627ee",
+      "mousetraps.png": "f4e3f927eb8d253702adabdc2c782b2414033bbab128ab9d8b7bc66d59c18076",
+      "pda.png": "f093d438ec080765923a7effff685c916cb0683a893d5b1a74729914430fe07c",
+      "pillbox.png": "07dac9c60e58e2a97fafbd8592826697d361e9affcf3ec48f7a5f4c6fceaba7c",
+      "sechud.png": "871e11c16169159b1f544e185a2e1433bc5e503476079093764e4b90ef7dc800",
+      "solution_trays.png": "5bc31ce9cc25b4ad49341a760d6e1a5bec501031d71013a52fa7aaf8caa2074f",
+      "sterile.png": "be652e25269df7d8d3f3f41d138989d7d5b3d6c3e4868d91e01eb6644e1db513",
+      "syringe.png": "22a597952e2ed002e52f9a20ed967f8d0a32311e6a5fc834bde5cf9e5257e3ee",
+      "throwing_knives.png": "c83066a42ffa9c3eba47068dc86d32d7788809b17960f47c8f8ab2c8d8e5802c",
+      "tracks.png": "1f574fede2982ea33d8d31899db0a92fd7b4d55454397f4eea2ab10af9122bbc",
+      "vials.png": "33228b6ac549b48b5305c0a62f7f611457d0d91501c4054c170f352f554096cd",
+      "ziptie.png": "1b0d2f3cc2644cecb563b6d4201be1cc22f731305c906127ab7c00f3cbee0ca8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/anesthetic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/anesthetic.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "e9edeb5be8e85711e8740c9f9fced0d9744e9a39b51123f93a73e6809eac8b46",
+      "equipped-SUITSTORAGE-cat.png": "36d35fc241cd5a8304b11498eea8a4142e2eef841b6913f897f8f77e9864eff7",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "1a775062b9e7d80a1b8468fa82ef5de7cacd3e03b822f5e55754bf7c56a1fd97",
+      "equipped-SUITSTORAGE-fox.png": "7cad38675c1f464cdfbf95a97497233bf8b9459874df0415392e668fa3e57f6f",
+      "equipped-SUITSTORAGE-hamster.png": "b09929da8880fafd11993d11e6ed50e07ab3fc837cf380c319614c3e18f8ba15",
+      "equipped-SUITSTORAGE-kangaroo.png": "b63dbacadbdb2068163c99a9c58db8441a612895db34ad96dbcc515d63b44cc6",
+      "equipped-SUITSTORAGE-pig.png": "48dc9bd62f36e0f6e4c8eb03b64d93c89d8d639219f93c4d9e443b31b7c2103a",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "e4cd2f125f84bdede855240ba87c36b8b79786dcc7c1c444571c734c2447a212",
+      "equipped-SUITSTORAGE-puppy.png": "5ceff0a78aa4193db77f383a18bb1ac44faa23a83e9462fe7d2250d4a5dc5098",
+      "equipped-SUITSTORAGE-sloth.png": "d2468c916f2e610a11513938576d4dea2c303123e0af0677f8f39a5e8f7344cd",
+      "equipped-SUITSTORAGE.png": "e9edeb5be8e85711e8740c9f9fced0d9744e9a39b51123f93a73e6809eac8b46",
+      "icon.png": "807b27babf85cded4582fa7729476082fafe525f35db9139e544b1e4f7bf9b05",
+      "inhand-left.png": "024f85937c831d24eb799feaa17ce66e859dbe9ee372498d82df95d4a570c728",
+      "inhand-right.png": "6831430c6f767ae76200d0ea7de1a1f6005ba688de980f8f36dc46fabcd00bed",
+      "meta.json": "a63f92100758031bc9e50eb85709f9ee3cc1ffba40f8802093ed4eba10828fe9"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/anesthetic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency_double_red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency_double_red.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Adapted by DangerRevolution from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "9d1b5a14c5192c882cbe2e061d3f1f6f3fd6cc12265f43044bfbf452c8a644bd",
+      "equipped-SUITSTORAGE-cat.png": "4301535c0bc6fce7be3bc7ed5f96fd7015bebc296520bef11adedddc24a0b9db",
+      "equipped-SUITSTORAGE-dog.png": "b67483420394ec71be39679aa37463cc326c587950d63929225702e3bb2ae80e",
+      "equipped-SUITSTORAGE-fox.png": "bf4818853a248915a9d181a9f9ffef50917fd131d0c36c930e474c35f5eb0c76",
+      "equipped-SUITSTORAGE-hamster.png": "3b4670bdec7b09f1982fb578951a84bef6c9d219b1b93fabf4467ba973006338",
+      "equipped-SUITSTORAGE-kangaroo.png": "07cf4e4dfcb0362eb1fc2e66e28874f6a2b80f29e1e8981e034a9066d65a32db",
+      "equipped-SUITSTORAGE-pig.png": "f51e434100c997d69dfc25922eb0befbcd16cdbb4571f3e0da8ab9301e93278b",
+      "equipped-SUITSTORAGE-possum.png": "944274766ff6af670d16606a6b95041d9ddf3650bf5eacf509a98ca92b8648b6",
+      "equipped-SUITSTORAGE-puppy.png": "42bf91aaa5152dcf1eb2a6be0d07925fa1514016e9c21ff5e9db877f6ede2326",
+      "equipped-SUITSTORAGE-sloth.png": "d5052734d6f6b94f6c698f4ca16f3217ad3dac7c4d3de2132077dd7bb0e20d17",
+      "equipped-SUITSTORAGE.png": "9d1b5a14c5192c882cbe2e061d3f1f6f3fd6cc12265f43044bfbf452c8a644bd",
+      "icon.png": "92823ce82e7f60d5254e7af96b714ab489b87e4a6f86d571630f0a6e3ad884f9",
+      "inhand-left.png": "6e600d6242da4690574497e280bf5d828f32e0f1193dc7db374acae8b1cc94df",
+      "inhand-right.png": "19cdb7e32a43e730bf17237ca10e77a26648821d7f20d1a000b71fea5d721650",
+      "meta.json": "e58a09afba5da5cdde5262a64c3695dfb5eb1a6506bb409e3edbd16f1857edb2"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/emergency_double_red.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency_double.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency_double.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "826450c45b6200448d435c3caa75aecf04890d44e0b2d662e1cd58d75ac7971a",
+      "equipped-SUITSTORAGE-cat.png": "f6892fb0197993574c74ea95dd770b40acf2cd5dc467783bc09b989af0257ce4",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "615331e8e642149f690074746976393830868a9f0bb2e1b8ed58907ab101f2ce",
+      "equipped-SUITSTORAGE-fox.png": "5e3afda230bd3065ba279cdde7299d12458fc0d2adffedfb23f79c176c49a986",
+      "equipped-SUITSTORAGE-hamster.png": "9b87afef28916b6114b7c9c1b530f7f39184c3d9412d29a6dae6c907a4e9ae43",
+      "equipped-SUITSTORAGE-kangaroo.png": "7004c1131c04b4e956529f1b4f11e91929344f63000aafa467c60451aab03902",
+      "equipped-SUITSTORAGE-pig.png": "429ce5272fa5e9d895b21e3f9679cd1a0d0d39256e3638ffbd11f3f4d1c0e010",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "33f626fc030843dfc08535ae227c7149b27eebd23494ab3b35ede751d56f65d5",
+      "equipped-SUITSTORAGE-puppy.png": "7fe407465ff158ea097c1c83da7f47fbd17281f0b79514f4e904bc929ea2472e",
+      "equipped-SUITSTORAGE-sloth.png": "62cfcfbad6853d2dd026addc19b509572c9e5de8a8e04493bacf1370eed4acb3",
+      "equipped-SUITSTORAGE.png": "826450c45b6200448d435c3caa75aecf04890d44e0b2d662e1cd58d75ac7971a",
+      "icon.png": "d04a56d6a2d91e7ef4d806cbceba73b8a633ab12a9711d31d9acd3d3a2467540",
+      "inhand-left.png": "466ac4fed34dd1695756fe436c732d64ee89a8aee0ead18f2a87bf7a21f7e98b",
+      "inhand-right.png": "7eafc4ec1ffe7e46691ae39a59e9cabdc030a7e4caff8e8e0e1a8c25cbaca91f",
+      "meta.json": "371d0704ac43a398543e61cb7af8d8f81ca61809a466b1b06f3e69a032d26532"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/emergency_double.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency_red_double.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency_red_double.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "3e5a8d01832db2e513239056dda51f1c02bfb56aabec5e27518a2c9682457d9d",
+      "equipped-SUITSTORAGE-cat.png": "412e626ff0f78831daa160f8303fcb452436f43ea5f362f4cc6606f7788d2b33",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "a4568301f5755fe459e72e345a71b7161648233853ee8df2ca6a40338c3f0816",
+      "equipped-SUITSTORAGE-fox.png": "cf009ef703eeded2f13b8a2d2010fb88b122ca4cc5a7c7b00947bcc9c34faa37",
+      "equipped-SUITSTORAGE-hamster.png": "7130d897059c69f0d4880c72d6a3bbc4eea2583e25a6e1725d4ac6ef15ee6cfe",
+      "equipped-SUITSTORAGE-kangaroo.png": "69d67041c942fc5935ca87b7b4c4f885a96aa68d643bbebf8749825782d2baab",
+      "equipped-SUITSTORAGE-pig.png": "d64cf940aef95115f3302b56ff47edbf07ba341131a49d1aafde8e165ecc7d79",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "ae612c32a5f62dc969610d91b94b40be482717a37beaeebd63ac4dd20dd72375",
+      "equipped-SUITSTORAGE-puppy.png": "37eec18654b84cecbe3931af6988cab4f224c119484d2e6c17bd60b3ced02705",
+      "equipped-SUITSTORAGE-sloth.png": "fea71af762e4d89c04f6f93b60f5a335298d13e4aac28f17181c84aa29bb935b",
+      "icon.png": "8e221e36fdf01fbaf44964bddecfc67c021bfd7c59a0c2681e19966101cd7212",
+      "inhand-left.png": "51012198e8ef0cd666d21f50755ed066cb24b2f734c69ca94fe1871b585d18f3",
+      "inhand-right.png": "b736332de758c59d6ca76527959fa1f9a3ce7adfcfc5677c09bc1f20d610d133",
+      "meta.json": "0891865df631ecff5dd5f4070ad03c4989dc8462adbe3520ef0f6485d667d0ef"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency_red_extended.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency_red_extended.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "fb4f8aeba4f095e6cfd77acc2a36bfbc50c984fe781b6da5385c335df5f88771",
+      "equipped-SUITSTORAGE-cat.png": "412e626ff0f78831daa160f8303fcb452436f43ea5f362f4cc6606f7788d2b33",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "a4568301f5755fe459e72e345a71b7161648233853ee8df2ca6a40338c3f0816",
+      "equipped-SUITSTORAGE-fox.png": "cf009ef703eeded2f13b8a2d2010fb88b122ca4cc5a7c7b00947bcc9c34faa37",
+      "equipped-SUITSTORAGE-hamster.png": "7130d897059c69f0d4880c72d6a3bbc4eea2583e25a6e1725d4ac6ef15ee6cfe",
+      "equipped-SUITSTORAGE-kangaroo.png": "69d67041c942fc5935ca87b7b4c4f885a96aa68d643bbebf8749825782d2baab",
+      "equipped-SUITSTORAGE-pig.png": "d64cf940aef95115f3302b56ff47edbf07ba341131a49d1aafde8e165ecc7d79",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "ae612c32a5f62dc969610d91b94b40be482717a37beaeebd63ac4dd20dd72375",
+      "equipped-SUITSTORAGE-puppy.png": "37eec18654b84cecbe3931af6988cab4f224c119484d2e6c17bd60b3ced02705",
+      "equipped-SUITSTORAGE-sloth.png": "fea71af762e4d89c04f6f93b60f5a335298d13e4aac28f17181c84aa29bb935b",
+      "icon.png": "5c2d35798da424c42a429b8df94c15905351aa00b2d44f0cc0edfd058583d4fe",
+      "inhand-left.png": "51012198e8ef0cd666d21f50755ed066cb24b2f734c69ca94fe1871b585d18f3",
+      "inhand-right.png": "b736332de758c59d6ca76527959fa1f9a3ce7adfcfc5677c09bc1f20d610d133",
+      "meta.json": "de166bcafcac79ba77d5bcadeffc4fcf73664e4c0adbb25db623a2aa3832c74a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency_red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency_red.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Adapted by DangerRevolution from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "8e7167b0a3108c9448c01b28c2bc0c795eb8755455c81ba02a7efd36cee14cf3",
+      "equipped-SUITSTORAGE-cat.png": "412e626ff0f78831daa160f8303fcb452436f43ea5f362f4cc6606f7788d2b33",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "a4568301f5755fe459e72e345a71b7161648233853ee8df2ca6a40338c3f0816",
+      "equipped-SUITSTORAGE-fox.png": "cf009ef703eeded2f13b8a2d2010fb88b122ca4cc5a7c7b00947bcc9c34faa37",
+      "equipped-SUITSTORAGE-hamster.png": "7130d897059c69f0d4880c72d6a3bbc4eea2583e25a6e1725d4ac6ef15ee6cfe",
+      "equipped-SUITSTORAGE-kangaroo.png": "69d67041c942fc5935ca87b7b4c4f885a96aa68d643bbebf8749825782d2baab",
+      "equipped-SUITSTORAGE-pig.png": "d64cf940aef95115f3302b56ff47edbf07ba341131a49d1aafde8e165ecc7d79",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "ae612c32a5f62dc969610d91b94b40be482717a37beaeebd63ac4dd20dd72375",
+      "equipped-SUITSTORAGE-puppy.png": "37eec18654b84cecbe3931af6988cab4f224c119484d2e6c17bd60b3ced02705",
+      "equipped-SUITSTORAGE-sloth.png": "fea71af762e4d89c04f6f93b60f5a335298d13e4aac28f17181c84aa29bb935b",
+      "equipped-SUITSTORAGE.png": "1e19a0cd09ffe628fc8a9584eb703f84ce2af7c4ed0ef1dc8f4013cc74a6beda",
+      "icon.png": "c08bd0434ea8566397df1b0a7813306f9509ed29afab168b557489b9470013f8",
+      "inhand-left.png": "155e19120885f69bcf7e4ed74a074f0ab282356f59d07eb5f5afe2d5e08b0633",
+      "inhand-right.png": "13365619f949f3e81ff69c6808b1a0ccaa6ef12dc9b8f9148033914a7d600ea0",
+      "meta.json": "de4a295f81b287c722ebc0b594d2cd4a7a80ad2bd2b3f4ff13f1e9a83eb4e4a6"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/emergency_red.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency_yellow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency_yellow.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "e5b08dc1f0f4e782cddb037960e2df4e54ec2ba05097133be56af2feb4ddda01",
+      "equipped-SUITSTORAGE-cat.png": "f6892fb0197993574c74ea95dd770b40acf2cd5dc467783bc09b989af0257ce4",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "615331e8e642149f690074746976393830868a9f0bb2e1b8ed58907ab101f2ce",
+      "equipped-SUITSTORAGE-fox.png": "5e3afda230bd3065ba279cdde7299d12458fc0d2adffedfb23f79c176c49a986",
+      "equipped-SUITSTORAGE-hamster.png": "4bea9f21f69a320a0b520d2cf74e1f4b7968de6256f0888fa05839b101d1a2ee",
+      "equipped-SUITSTORAGE-kangaroo.png": "7004c1131c04b4e956529f1b4f11e91929344f63000aafa467c60451aab03902",
+      "equipped-SUITSTORAGE-pig.png": "429ce5272fa5e9d895b21e3f9679cd1a0d0d39256e3638ffbd11f3f4d1c0e010",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "33f626fc030843dfc08535ae227c7149b27eebd23494ab3b35ede751d56f65d5",
+      "equipped-SUITSTORAGE-puppy.png": "7fe407465ff158ea097c1c83da7f47fbd17281f0b79514f4e904bc929ea2472e",
+      "equipped-SUITSTORAGE-sloth.png": "62cfcfbad6853d2dd026addc19b509572c9e5de8a8e04493bacf1370eed4acb3",
+      "equipped-SUITSTORAGE.png": "e5b08dc1f0f4e782cddb037960e2df4e54ec2ba05097133be56af2feb4ddda01",
+      "icon.png": "5fd8748b553c2c7c567273eba1393d82e4d6a6f4adc2f588c3b0f9b2c6484c1d",
+      "inhand-left.png": "466ac4fed34dd1695756fe436c732d64ee89a8aee0ead18f2a87bf7a21f7e98b",
+      "inhand-right.png": "7eafc4ec1ffe7e46691ae39a59e9cabdc030a7e4caff8e8e0e1a8c25cbaca91f",
+      "meta.json": "371d0704ac43a398543e61cb7af8d8f81ca61809a466b1b06f3e69a032d26532"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/emergency_yellow.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/emergency.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/emergency.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "38dd869ea92d2281f909e84529bf8c844c99a2bc3e662d459f3004c1b3593fe8",
+      "equipped-SUITSTORAGE-cat.png": "15400bfb3f92e6543e7edf9fe2a87a5348a4d462f2c55526984abff44b72de62",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "2b520e42238dfaa297bcf79ccf1e2787e440b1d0b4a9efc6c2ac2f057b35f0f8",
+      "equipped-SUITSTORAGE-fox.png": "5f7e4507b95f816092cf9838e823cf37523babdead31d64248a17c0bc7abb121",
+      "equipped-SUITSTORAGE-hamster.png": "16845339c162c1582c69a69c2e471803c70531ccc9b555330ee23b3e10247dff",
+      "equipped-SUITSTORAGE-kangaroo.png": "d802597bea5269f2a97cba9d2d34fb1d616d8dea42a5cdf8bde7083ae6edd67f",
+      "equipped-SUITSTORAGE-pig.png": "0923877fea7087dc780cc51d5c95524808860f71707b7f43c3de5c0503e1f319",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "b4691be83021c500d91447c4db05927fef1b57099b26713b1eb60d064666f47f",
+      "equipped-SUITSTORAGE-puppy.png": "093e7c13fda0f4da576fcbb2d0a21652ff84c3e826fa26d53368039f4106b8aa",
+      "equipped-SUITSTORAGE-sloth.png": "bb8b3857b1392ac519cfa04dd2718cb2c8cb177b8535ac0e03fda3b5cc256f60",
+      "equipped-SUITSTORAGE.png": "38dd869ea92d2281f909e84529bf8c844c99a2bc3e662d459f3004c1b3593fe8",
+      "icon.png": "53447eeb52da81560cb25033c4329bb749a3c234251ea57960cdd951da4b37cf",
+      "inhand-left.png": "c6bf8bfd6add033e9ff932717d0a54f27daf709941b3069a5656cd583870fbef",
+      "inhand-right.png": "00b6c02823a468bf63ba26ca3ab12ab242d2858b9ca126d8f45fc4b9c330d84d",
+      "meta.json": "05df7484f7dea85dacf0c5a70ef2f9a594c76d127788ee994fd78bd36caaed17"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/emergency.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/generic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/generic.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432. Suit and back storages drawn by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "80397a57c6e6e867b6cfc613d67bfe61eb30b2ee302d5e4ca9dcf110fd647260",
+      "equipped-SUITSTORAGE-cat.png": "e9bc5cf4d064ed471617cce9afc436709b8e54583d09bc9bab9ca718e6cf08b7",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "db3730b7a3ad2ef62e3e96b43884cfa74cf3b89a82d5029b482bc054406d51eb",
+      "equipped-SUITSTORAGE-fox.png": "f43a3d48ce47260847819bb7990d59a6931df32cae2e164b52ad189c3740aabe",
+      "equipped-SUITSTORAGE-hamster.png": "b11369e18766dc916c77a4686cae2323a4e38cb8e894447c3ba3e69248fa358f",
+      "equipped-SUITSTORAGE-kangaroo.png": "87af1fcf6f9ac9aec0d59952e7c2f57f44a2bbc0bae14b59c7bda16ece9da662",
+      "equipped-SUITSTORAGE-pig.png": "cf30238b5e562972ca8e44609a6ca26cab6177006c2242159a78bf8e1c11fa3c",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "fa13778116ca69b4431587ffea7c94d8690f55bf7ff1ef62798e84233947f459",
+      "equipped-SUITSTORAGE-puppy.png": "af66770a7064b7ec3e7634251d119923cb94e393f4722e1f1a5a8851e4f79f47",
+      "equipped-SUITSTORAGE-sloth.png": "093398633e66ad05916c251e91e961ed4c7ebd60acdbe1c957b72a7d9f05bad5",
+      "equipped-SUITSTORAGE.png": "80397a57c6e6e867b6cfc613d67bfe61eb30b2ee302d5e4ca9dcf110fd647260",
+      "icon.png": "7bdc34378176862020b2fe7a99db5ee8f4e4b550fd7a29ef52802a5885ee389a",
+      "inhand-left.png": "e9c0580597c582e7701a7a1f26ae120276a9ddfce59061efc8325230bfb3b5c8",
+      "inhand-right.png": "a8caf73e29852eed67059e8a75edec5721823aa03fcd5409163d5494930e13e9",
+      "meta.json": "41c3b263b3f389115d10aa52ce8dfe410ebc233289be09707662192c1f7526f5"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/generic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/Jetpacks/mini.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/Jetpacks/mini.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/1592a112e3d33eec4a0704b518a138d5a976f455",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "0d9b170a1243ba5a83256d90752bae00a319f623e512bd0097b5391fe45099c4",
+      "equipped-SUITSTORAGE.png": "0d9b170a1243ba5a83256d90752bae00a319f623e512bd0097b5391fe45099c4",
+      "icon-on.png": "3003e2f754864065f47bfbc22b0b879ab1b08853758b1e40ba21f1609357caca",
+      "icon.png": "6eee14f2ed51d81caad9a2c26331566a2d7b96ee875b146a7e96f9458026ef28",
+      "inhand-left.png": "bd7b32f689a5dc4217e35c5f2fb3b176a3b12ceeffd95ebe150c32110e3938b0",
+      "inhand-right.png": "c0ddcb7348c7d064d9cae1c619fa58842fed108871fd33020d74b2b7f34aedae",
+      "meta.json": "79af53a9a687e50f1bf1c4a307e22918854cb82af739e56bd53e10a44aaafc5b",
+      "on-equipped-BACKPACK.png": "cbe60d3a58d6ce49965f16dd014f7512da85479c23ad2db61f1f7e1005288b79",
+      "on-equipped-SUITSTORAGE.png": "cbe60d3a58d6ce49965f16dd014f7512da85479c23ad2db61f1f7e1005288b79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/oxygen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/oxygen.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432. Suit and back storages drawn by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "a6364e6d8b019f025e24368e5074a27700fe609ceb5f7462d3c6760763941dd7",
+      "equipped-SUITSTORAGE-cat.png": "15400bfb3f92e6543e7edf9fe2a87a5348a4d462f2c55526984abff44b72de62",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "2b520e42238dfaa297bcf79ccf1e2787e440b1d0b4a9efc6c2ac2f057b35f0f8",
+      "equipped-SUITSTORAGE-fox.png": "5f7e4507b95f816092cf9838e823cf37523babdead31d64248a17c0bc7abb121",
+      "equipped-SUITSTORAGE-hamster.png": "ea0cf1206a46cce85fa155c5a7b9741da8f97a9738fe510e4aba48b3eea29481",
+      "equipped-SUITSTORAGE-kangaroo.png": "d802597bea5269f2a97cba9d2d34fb1d616d8dea42a5cdf8bde7083ae6edd67f",
+      "equipped-SUITSTORAGE-pig.png": "0923877fea7087dc780cc51d5c95524808860f71707b7f43c3de5c0503e1f319",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "b4691be83021c500d91447c4db05927fef1b57099b26713b1eb60d064666f47f",
+      "equipped-SUITSTORAGE-puppy.png": "093e7c13fda0f4da576fcbb2d0a21652ff84c3e826fa26d53368039f4106b8aa",
+      "equipped-SUITSTORAGE-sloth.png": "bb8b3857b1392ac519cfa04dd2718cb2c8cb177b8535ac0e03fda3b5cc256f60",
+      "equipped-SUITSTORAGE.png": "a6364e6d8b019f025e24368e5074a27700fe609ceb5f7462d3c6760763941dd7",
+      "icon.png": "6316d49009b70d141b9d8751c75ed912a03669729de65740b5e7dc80d088abe2",
+      "inhand-left.png": "76f48797fb51d7795bdc286067f6942f345d3d8c3415c420fba0fa58b373cf3e",
+      "inhand-right.png": "5c65047d512df2f7b52562e18345bb7455f6af9e4703d724e17a79fd8a4e9169",
+      "meta.json": "41c3b263b3f389115d10aa52ce8dfe410ebc233289be09707662192c1f7526f5"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/oxygen.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tanks/red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tanks/red.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/e1142f20f5e4661cb6845cfcf2dd69f864d67432. Suit and back storages drawn by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6d3e408285331516000038af672126d039753da19c75f092cdcda2da3bf63c7f",
+      "equipped-SUITSTORAGE-cat.png": "412e626ff0f78831daa160f8303fcb452436f43ea5f362f4cc6606f7788d2b33",
+      "equipped-SUITSTORAGE-chicken.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-dog.png": "a4568301f5755fe459e72e345a71b7161648233853ee8df2ca6a40338c3f0816",
+      "equipped-SUITSTORAGE-fox.png": "cf009ef703eeded2f13b8a2d2010fb88b122ca4cc5a7c7b00947bcc9c34faa37",
+      "equipped-SUITSTORAGE-hamster.png": "7130d897059c69f0d4880c72d6a3bbc4eea2583e25a6e1725d4ac6ef15ee6cfe",
+      "equipped-SUITSTORAGE-kangaroo.png": "69d67041c942fc5935ca87b7b4c4f885a96aa68d643bbebf8749825782d2baab",
+      "equipped-SUITSTORAGE-pig.png": "d64cf940aef95115f3302b56ff47edbf07ba341131a49d1aafde8e165ecc7d79",
+      "equipped-SUITSTORAGE-pitbull.png": "bb4813bf4b7f019a83612c892bb400f176a6663fa18b152d7e6d5b9fbf820295",
+      "equipped-SUITSTORAGE-possum.png": "ae612c32a5f62dc969610d91b94b40be482717a37beaeebd63ac4dd20dd72375",
+      "equipped-SUITSTORAGE-puppy.png": "37eec18654b84cecbe3931af6988cab4f224c119484d2e6c17bd60b3ced02705",
+      "equipped-SUITSTORAGE-sloth.png": "fea71af762e4d89c04f6f93b60f5a335298d13e4aac28f17181c84aa29bb935b",
+      "equipped-SUITSTORAGE.png": "6d3e408285331516000038af672126d039753da19c75f092cdcda2da3bf63c7f",
+      "icon.png": "45e02a9dcb80386fc2586cb1e3fab05f2914a56296266b5c846033cfc215d74b",
+      "inhand-left.png": "4fbdc84d4c41977065c14f1706df4e5a79538a75d3060b18d622175c5f15c6cf",
+      "inhand-right.png": "afccfb9ea5da29c7e2e97be714a6309c34da86a439f522498951dafe3d4f19e3",
+      "meta.json": "41c3b263b3f389115d10aa52ce8dfe410ebc233289be09707662192c1f7526f5"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tanks/red.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/access_breaker.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/access_breaker.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by 20kdc (GitHub), edited by DieselMohawk (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "0951b8b49777a69367e5e92f7f16b1a201ef1d9b9b8dd8a2069f595dc5df4028",
+      "icon.png": "293a990c535d6dbcbee82d01128763500e69b9bb2ba154d5a662bbc7600edaaa",
+      "inhand-left.png": "6c810dea617a1206922f0d1e874e456a82af15c30377c7190b6760af8bb65c66",
+      "inhand-right.png": "af10c4133e51b0c9be47fb222467ba07fd30dba1612589f197275ee1f9182e92",
+      "meta.json": "0a3b469d40d472596c3991e3ddbdb564236811d326d449c6fd24ee061bacbea2"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tools/access_breaker.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/blueprint.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/blueprint.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/commit/dd749c36c416a6960782732cecf25e5ebac326e8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "15a79f4342cf5a6e79aed61ee625bc71d6ba789e25705ceeb2f5367016c56f2b",
+      "inhand-left.png": "df71c9f121f205a0f58d5caa0f7e509c436d6aec208bd1d66288d9373e6b7430",
+      "inhand-right.png": "97e40033be7dfc62be4486345f544213fd88ac8eab6c54fa4ace46e9b8be7d6d",
+      "meta.json": "d06f6e195c804bd1232de924ce91090afaa4e904029c66d0d9252dc87865c966"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/bucket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/bucket.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at commit https://github.com/tgstation/tgstation/commit/f8f4aeda930fcd0805ca4cc76d9bc9412a5b3428, redrawn by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "73f88b632c69f6e98f88623336d7a5ea91bca73f25975ac10768fd8b0f72abf0",
+      "fill-1.png": "de01b3d9907a62cc26ca54029b43c07cf4e1f11f841134a830d513e88b4d2b61",
+      "fill-2.png": "e572b9c5da151a77c4187a6aa360462a078c9f76f12d256dde54c681f4dd182b",
+      "fill-3.png": "aa46e8b721e759487ab76e9b2c485571ee5f97b67f51556721d23b4f44e3e807",
+      "icon.png": "ca063b3e544412301c8cb6ea95d642c27acc49a2b6d92052e9717facca81a3df",
+      "inhand-left.png": "a0e007b1e37d49c3df4216a21e5a2e92ca7deeefdafbb05efc65251ec6d9a17a",
+      "inhand-right.png": "6a971a7029f5b89d0f2380988cebe44423d14d414bcd1e954a2e273aa61cd397",
+      "meta.json": "780575c41520e6c64e9226622b0be7483475e7df4ad08d725fdf39c8bf2cdca7"
+    },
+    "replaces": [
+      "Objects/Tools/bucket.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/bucket.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/cable-coils.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/cable-coils.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by SweptWasTaken at commit https://github.com/tgstation/tgstation/commit/77608a9f46b06a46f0f6b1be061755f68cc255a3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "coil-10.png": "404356b71b3d6db646f7316f0bf6e1d9a9e60153d3ac714f820f8def1ae3a705",
+      "coil-20.png": "9e77a54d6d4263af287da0835bd6024ad39e326543b89c396056fecffac72b24",
+      "coil-30.png": "96a6cf8ca6330f3e04636065cbc0d7e4654b52f6a281e884724b40ab05e5fdde",
+      "coil-equipped-BELT.png": "83541ffdda8054c1dd56e1a46b58cd4b106003833481ebb83c8ebde03544ba4d",
+      "coilall-30.png": "5fb36c9efb3c69eaccc3055e2f89ab7c49242e51b8d2ca837dd33a81a6d85b68",
+      "coilhv-10.png": "d65fbd6a3c65490d3b387ea297be4c2d564dcb68b28ae63a0d9b691f2c1b9c82",
+      "coilhv-20.png": "547468f377d52d4965b69c9230faadedc5594636a69688430f876a052f66b331",
+      "coilhv-30.png": "67d4cd7d945cc40c8b1e0a523a5a60f5704d8031301dc8fea496562ea0918f77",
+      "coilhv-equipped-BELT.png": "5a35f44a6a7b8a624ef98a486c2bb6fc94b73b6b6401670216902fbba6a5ad18",
+      "coilhv-inhand-left.png": "c2bcdb20bd56d0a94ca970dfc1493103c834500244ee3abf3ea22a86a53dca50",
+      "coilhv-inhand-right.png": "8f521557872306355e54427435e2acc665742094d710660f001be069dff47fb6",
+      "coillv-10.png": "4eeac70deceb8fc03838a734f10e31fb882310a35726033932d2995dac646e50",
+      "coillv-20.png": "984e91eb035cd0f78ae64e7d4f73c4edf435fef21c425bd8cfd29e7501975bb9",
+      "coillv-30.png": "42e9bed392f33b2209766522532affc3581e60fa7837e26968e9e483ea609ee8",
+      "coillv-equipped-BELT.png": "cb08ade23e983560967514a268a0fc83481056a8ba66d57f27f59517b8030bc2",
+      "coillv-inhand-left.png": "4bf560bb31ce55c608c44a708737de24988ff0a7990317a825e79910d64a36f4",
+      "coillv-inhand-right.png": "78eed19d818f228bc63f72659ab2829d465832397037c88655c81f86a5bc2fa8",
+      "coilmv-10.png": "5266addaee1af7555c7502a7121bd4e81998daa08b9b32868e84e5aee07a6d45",
+      "coilmv-20.png": "bb0c8a3b0ea5929f16338c1442a608317df06dd8b1ade41845c0ae23e4b674a2",
+      "coilmv-30.png": "026dc3c89e22dbec987b136f4827be789f4b94ae8c156ad71b5f1fbba26a4e5c",
+      "coilmv-equipped-BELT.png": "cfb0746e603a325f6f15c7eace10b77198150d2a10c68913f2c0aab1de609c69",
+      "coilmv-inhand-left.png": "e165c224ebe1890646e2f4df4bb1bcb137e59f4c710a8a9b89833bb39c834d77",
+      "coilmv-inhand-right.png": "c41747bf284327cc4684acfecbd513ab9b8ea0f18309b92b10276421f9530ccc",
+      "meta.json": "4e3674be3b531340278fb972bda02134829a39480621ebfd308973b39c24244b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/emag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/emag.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation wiki at https://tgstation13.org/wiki/File:Emag.png, inhand sprites modified from tgstation at commit https://github.com/tgstation/tgstation/commit/d917f4c2a088419d5c3aec7656b7ff8cebd1822e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "91b7bc4230ff91a828aa5dba92653d59cf73609e5a8af5676217f86c6b08c02d",
+      "inhand-left.png": "49dbec8b7954d65aa7a85adf3a15f136f2a6937dc35f93fe994ebc1e423007fa",
+      "inhand-right.png": "113fde239fe5407ee8b9da4bbc3ea25a98fbb8400d8a5b64741962a1e3634d3f",
+      "meta.json": "cf7eccef42e9b620418e6f0d179f33d7d998fe49327501c1977cfbb0e74101d2"
+    },
+    "replaces": [
+      "Objects/Tools/emag.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/emag.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/fulton.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/fulton.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/a7a67c81afc99d77483c84878173822ee8cbeecd/icons/obj/fulton.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "extraction_pack.png": "ecfeb664626bf744762a2ce861f93aab94adc0b6870d5d7ecb38f9465895cfee",
+      "extraction_point.png": "d6412cc5b05b273d1cf6de2ac33c16bde8d5bb554482615af03fe15208c1a15e",
+      "extraction_point_light.png": "6e3babd7dd1ab773f10cf928644a7fa58730e57d48d7eeb19720302c88ea66eb",
+      "folded_extraction.png": "cfa6c351ca987af0577ebf9fc4ae4da3a34347529c0475de89d726651d54e5fa",
+      "meta.json": "e55c1cc8b62a929544c19f2ce94f4c862bffd018127a6c6a52147ca9330ad8e2"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tools/fulton.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/geiger.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/geiger.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/bfc9c6ba8126ee8c41564d68c4bfb9ce37faa8f8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "geiger_base.png": "c1fef943864efa4fdbd6765c1c4ed3295d04c73a23d3ec3f7e3f51a09acb5903",
+      "geiger_on_ext.png": "3965d743298f827fc22cf431093753fae32dbad37b1eb03ebaefd376132f828f",
+      "geiger_on_high.png": "33a6f3d76b77a766a6b2d64ef848a9f8b65db79e40a3771e3aa152d94dcc5f84",
+      "geiger_on_idle.png": "7c2c20787a5bcb6e71639a75e1efb0b0d91b0e189cec358c7d91165e22237c46",
+      "geiger_on_low.png": "8528532f0781198e700bc32e6c4d12008827bc6e88d423a107b0f888051f2016",
+      "geiger_on_med.png": "4d178380b2574be8a62ab44b62a288ebefc68bf56cb2a3b0265b1fe5eea67442",
+      "inhand-left.png": "afdb0bb464e5938eb009dec23f30884eb47c66d53f5ef576b7c7d26f799c7cea",
+      "inhand-right.png": "9b6a2d3bba548444278c424aab4c57fadab8d06cdbe530808211fe19a3be25d9",
+      "meta.json": "afcf38e592f95d63bc1cfda9190e1753a6661f05e5be391930ec0537efdb77a4"
+    },
+    "replaces": [
+      "Objects/Tools/geiger.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/geiger.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/hand_labeler.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/hand_labeler.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at commit 44636483b7b2868b3e42c92205539f11f6d7968f. Inhand sprites by Macoron.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "hand_labeler.png": "ba010be6e540f05259cb62e73e74ecbc11cc9ee8a7b8cfa13f494a0bb37e71f3",
+      "inhand-left.png": "be223a1426b44e9827182b36ffac8706aaae90442072d8f76d1124ce85dab584",
+      "inhand-right.png": "e1a8e9a8193f220271919c0ba5e78e8a9b80b5cef0ab3b98c98c99d0a3a4d1bf",
+      "meta.json": "e4363d4c77f53664f927bfb6adbc22038ef4af1e8547f2d1bd858022ded06b2c"
+    },
+    "replaces": [
+      "Objects/Tools/hand_labeler.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/hand_labeler.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/lighters.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/lighters.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a28b24f149702527f3eb22f5c686f06c836f2f99; sprite has been edited. Engraved zippo drawn by Darkenson.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "basic_icon_base-1.png": "d9ce15d41071bf382daeb5f32e8830ddef5a43636b9d163456cb27423e10dfb5",
+      "basic_icon_base-10.png": "ef968b510798dcd53afa57073e1ac0822ca302da7672402b1ee58eaa4a74788c",
+      "basic_icon_base-11.png": "b33b774f7aa6622f91174603fcf3307f3480809794b3b237fc03823169f081c0",
+      "basic_icon_base-2.png": "17c6c02b7c7f1c2ad236c661ca40e6552308a138205af41dc9263a21dd164c32",
+      "basic_icon_base-3.png": "87d79ad20ccf1e3472ba00b115b0a6ff156630526aac7b871329a7fa494aa6c0",
+      "basic_icon_base-4.png": "295a719de5465e0dc3bd57c5b42f0a075dd8ddebb4927c82d42d719a66679565",
+      "basic_icon_base-5.png": "3dc002993dfbca627b018dba659bcaee29ca42a12748d0f11f21cad6f05d5503",
+      "basic_icon_base-6.png": "44a4c6b6365c2994232a8929bcb96d8b3e532dabb2c5a934f48dafadb6e4a0ca",
+      "basic_icon_base-7.png": "7065aa109c5cefc7699b90455f61e03f8bacd2717f79ead2d395a13cc27e4edb",
+      "basic_icon_base-8.png": "690647a9d757479632693de5e3ff8dd40dfbe93fe25f94ae1af8440886c9e72d",
+      "basic_icon_base-9.png": "3229d3b81f24f08e2e4416e08fba09bbbc60db98fc57b7a31d76a71e668e8c9f",
+      "basic_icon_top.png": "21208a659e89ba04bb8fff6be23adb4e5f7eb87d67d646460e22abb55b08ef34",
+      "cheap_icon_base.png": "8218cf6892fa3e8d41a1d7314dffab14189ab6a2e4b75cece144d26430941a97",
+      "cheap_icon_top.png": "c5d146f6775cdfe3ad2144f8aff79fcc9b48e0a57334b26424260548ba1872fe",
+      "icon_map.png": "f3f3e992802693d6a239de9472ac7c15fdf50c30a387aa171e1994fa20f7f78a",
+      "inhand-left-flame.png": "27985bca8dc8dbcfc7da8c114b0670a00b235eb8333b218337bb6d27eeaf0d59",
+      "inhand-left.png": "7be89b77bd7295cc410f6a04eb6d1776c1fbb8068ae124d4c53980332fa5bbf5",
+      "inhand-right-flame.png": "59ba013d30e72e7bad2f41d14471e10dc2b495aaa5a1993cc52dd2191fb7b0ce",
+      "inhand-right.png": "cc96dc960d3e3ff185102098c2302b8671661ac10b1c17493204868fce9e5c77",
+      "lighter_flame.png": "2749a25d7c2d2238375e20e6a831a9f9bc3ad2d9cadb7891d8293bbe40d28569",
+      "meta.json": "6d199f8c4310000ad50b129ea463f68ab2a730c1173fca21866e279db617f8b9",
+      "zippo-inhand-left-flame.png": "1bfd9e3e5ccbc782807393382b8c04866fddc9d431c53f823f0a54799d7257f8",
+      "zippo-inhand-left.png": "d180e39c6e98085b3d8dc11670d49630909e7a11f10d154de9a8234ab0346fb1",
+      "zippo-inhand-right-flame.png": "c8074b8047ce77ff10d63566e3911815d806af0d904f4e3b2d1a3a58a143cd82",
+      "zippo-inhand-right.png": "47c1ffca40e9092ef59288cee7dabc5332203bcb28ebd9564257bbe6e35dcb62",
+      "zippo_engraved_icon_base.png": "1d5950a25a7a300f37e4d9587c8705fe9e481f6a975d6d5ea2d04f8e3577f5f0",
+      "zippo_engraved_open.png": "9f482f33dbf37c098596a7eeca3e2be5d052783ceea8ab01979286d3e12e0905",
+      "zippo_icon_base.png": "2ecda73e2545101ae6d75b751668236c50243633fea928251fc0db7716a27804",
+      "zippo_open.png": "e2292ed6a846e01697d906a2523d229a6cbd4c6d759e6a923cb7f9a183902c8a",
+      "zippo_top.png": "697d65ac67c89e5d17da6aacc220031ec854b474331116d53eb0515fd3e7fc5b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/multitool.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/multitool.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/94f27c7b25bbde39c1412e24fb32bf6470fcc394",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "683c2d324bda534f8477beca7ca177afe1a708aa070ac2f853600bd761cafcb1",
+      "green-inhand-left.png": "e6ae725c839f8542104ae9868c69aa4db38451f608be78a89d65c012d111b7b4",
+      "green-inhand-right.png": "aa3fe82ac98ee63e549537ad50280299f069e9fc1c304223cec017865772a989",
+      "green-unlit.png": "7bc8c165b133c5d479a2d43ba65dff209439c02e18541ad717a206647a13bb24",
+      "icon.png": "2494e1072feec705f1ef96b6d20b69bbe7ee12014101368ed24249d9d6cac2bd",
+      "inhand-left.png": "da3c17c79261f42432d42e13d6106f8a1632d9906afda0ff49c42ee59ef47faf",
+      "inhand-right.png": "b8744a6dfcee218b6aed4ff941751803463f079451c9cffb695aff0b669d5b31",
+      "meta.json": "c0b7d51c7d507e77ad6978fe93e97e3e96177f0fb87587f7fb6e6dd60d2b27b3",
+      "red-inhand-left.png": "9f4212f48eea67799807fbef612ed75b566f1645fca9f3a0536ed29117d91c9f",
+      "red-inhand-right.png": "fa43709b5773666aaee3fff57456c80dbcb7b96038962bcbe01d2a668bc676e7",
+      "red-unlit.png": "1be34933f342350f87150e67370bff56ef374e7de1dbec94139f070e1aab53d2",
+      "yellow-inhand-left.png": "288ad047a664b414d96c3691261a423a1258233d98c867583b553a12a42e0e6e",
+      "yellow-inhand-right.png": "5f8abd89f9ce3f7403f3efd8f88d32b7b6e0e119bb782c809c7f84442aeca545",
+      "yellow-unlit.png": "6a41bad92f6d961b006aa624938983709a3aebf760ee153bfb36d2867f09f7f2"
+    },
+    "replaces": [
+      "Objects/Tools/multitool.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/multitool.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/rolling_pin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "icon.png taken from https://github.com/DesertRose2/desertrose/blob/0348c98f8343b5cb82d87df12411ba647b2b1b4f/icons/obj/kitchen.dmi. Inhand sprites created by deltanedas (github) for SS14. Belt sprite taken from unknown file in tgstation at commit https://github.com/tgstation/tgstation/commit/dc89ef0239830774bd3d9d7d6c8da2856da2b869",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT.png": "c6779887cc237fba32b1edddc696a222237a55dbbcd8327fe484e8806060d90a",
+      "icon.png": "273e9c06d8faac8f4267f66a442ce6ee9854729e39b1e023974d7e01eb0c2f20",
+      "inhand-left.png": "5af078b091c8e0c342852d39f7ecb3caa042f380ca06b97b7366a8b362f2e56c",
+      "inhand-right.png": "63e63c1b49488736d8e59914183187737eb4571f10916b81659a0946a203e096",
+      "meta.json": "a9206ea317f3a6d739b04ad1e74ecbcab1804237e7900a62eea2392181e83724"
+    },
+    "replaces": [
+      "Objects/Tools/rolling_pin.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/rpd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/rpd.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from CEV-Eris at https://github.com/discordia-space/CEV-Eris/blob/8009c1d3db5ca5244f14899ffafaae93be0e318d/icons/obj/items.dmi,https://github.com/discordia-space/CEV-Eris/blob/df81fe2d0ba5f541bafffbb73554f3f44289dd76/icons/mob/items/righthand.dmi,https://github.com/discordia-space/CEV-Eris/blob/df81fe2d0ba5f541bafffbb73554f3f44289dd76/icons/mob/items/righthand.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "b90e9e0cabc9f1c867706ca1dfc3e07c3708fbba31e542ecfa58d007fefaa23f",
+      "inhand-left.png": "689d4c97e8dadb77d0effbb94349b8bed1bc7f4cc8b8f51b82eee96ed775d894",
+      "inhand-right.png": "2b496789757ef6dbee9940a5fc53ce2e2f114b28625d7cae4ba921b59d08763b",
+      "meta.json": "2b64d87320d8b1b8c78ec8bd5966f07491c4aa7ca05ab309b3902008e34b8e14"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Tools/rpd.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/shovel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/shovel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "255bc09eda8b95900afac0985468165dfd46731cff43ed35ecf171123027dd4b",
+      "inhand-left.png": "9f7e904385e637d5ad6c46e30734e2ee02562128b20b25118247c18c2e124243",
+      "inhand-right.png": "8f4be914ec5fb9123e2a844061f19d120f464869ed27f5bf7132142ef488c285",
+      "meta.json": "913bae04aa4b6013cc4de7516ed5b2fd028064c55b8eb3452aa37c9c54e2a3c2"
+    },
+    "replaces": [
+      "Objects/Tools/shovel.rsi",
+      "_Lime/Imported/Goob/Objects/Tools/shovel.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Tools/thief_beacon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Tools/thief_beacon.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/austation/austation/commit/e2a4fefd01e702f48d3d4cc8d6a2686d54d104fa and edited by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "extraction_point.png": "8e5f36d46b4243491b7c82d8ce9a853441b8ab624f951873ec97e0975dc71779",
+      "extraction_point_light.png": "be6f09c24d3687832aa1915bd84fd39125f740e289d761dae94b0df58330e6d4",
+      "folded_extraction.png": "0f93e95c1e08b6be46aafe0d563d8403250b484c1ba86fad469666b8fb82d233",
+      "meta.json": "fdcd74d3bf47cb62f4e5b97cd685006ccd0710bfbabc6aad476c5ddd9e8148e1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Vehicles/janicart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Vehicles/janicart.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "destroyed.png": "b0db6dc1c7bd579103a7074ef48610ee48124e06c16a763629af0f85267324f3",
+      "icon.png": "a111e960667d68f5ab24d05afbfc959b385d57037e8bc23806aece491f5204a3",
+      "keys.png": "d2b5fba4d24f8b44fc34bbbfa82f4d9b45d312dbb41d01501f41cf83a5dba156",
+      "meta.json": "cdf1043ed796d6a9d73dff9a61f1ac30b011d01257a14f1e771cf824a0d3c670",
+      "storage.png": "bc93d8e12630cfea233c82c9f968427863478e4e1f5a014319927ac0264f6659",
+      "vehicle.png": "e38e1b059e9a62ea67df72b868355782e1e42f29a05799f5fa5c13e5a963fcb1"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Vehicles/janicart.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Vehicles/wheelchair.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Vehicles/wheelchair.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/8f6e48e30ff85cb58b5b0a91add4a1741b971f0f",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "inhand-left.png": "c7ac54df40e86dfb61a9a412499cff2dc0add225aa5da2aa202962c04b50f4ac",
+      "inhand-right.png": "8fe7af681d9161198d61cd9d73efe4f332f1d8f1342a766c5bcedf38a4b9b0e0",
+      "meta.json": "77b7cd634046c067672befffdc974e89cb3a96f71ccefd831a363ae001e952b2",
+      "vehicle.png": "a4a076b026d279679dfbd6ed3d9a59dadbf68f14c93abeb7099e39c8a1e6796c",
+      "vehicle_folded.png": "bfecfe0970393516daa34ac11fc12650fa9e9e54c46ce50f8262db8a767dd5a8"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Vehicles/wheelchair.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Bombs/hot_potato.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Bombs/hot_potato.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/commit/1dbcf389b0ec6b2c51b002df5fef8dd1519f8068",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "activated.png": "8402ff5b48794193e2620ce8a4b2176b34d756b74a6465dab94ae95d997e324c",
+      "icon.png": "a680be0e23d7e8fb8e945e3c8a3f2967ab3b70d0fff6934752b492c2794a303a",
+      "meta.json": "5c6981caa372fb2bc0f4ee48b4b4dbdffac8d32c630d636834c09f7c712e0e62"
+    },
+    "replaces": [
+      "Objects/Weapons/Bombs/hot_potato.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/empgrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/empgrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "16d884b4280c10fccc3618a6be1e4b837045a166ae5bc3ec6d1d1ca9ad6beafa",
+      "inhand-left.png": "66cd0711f2e705e8dee6ef512e23ac67b0b1fbc5f842c2e925c84e47ea22c201",
+      "inhand-right.png": "d402b6a021ebaa0b917db8a0c6b4755009e4ce03935c7e5528ba365d66f17529",
+      "meta.json": "447bf96a51c4c0fd1ac80efa520584fd5e14dccf49a57920f3ae07e1f1cc5672",
+      "primed.png": "389922a85870a9888a0bab4f0aefb9b772c8c5a3a69c661c2efcc362676e7fd5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/flashbang.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/flashbang.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "79777709dc7570aa1a74859f4e7f7e00b9558c463948072196b9b12a3a74704e",
+      "meta.json": "69f30d08c44f819b9d2f443211800df6bd5a5bf7d3b4c71a3ef7805f4e58c74e",
+      "primed.png": "6c93490a24e25e408cd715c34edb7da51feb8c4c7508313689a0b8ef1417ed17"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/grenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/grenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "38aea364adcd66cf8b2359f09bee3d1ac0ee6eb4637b5ce43b103c8026d1f820",
+      "inhand-left.png": "4d5accfb0b7fa27f86558ce51af35aab75ccbbaa5e8aa384da099af1a8a21871",
+      "inhand-right.png": "15737362c666b07f27d221e68dda5a9a64ab055460abb99b32671585f2393209",
+      "meta.json": "b9716bf80d3878ba9d2d8a3b0adc77c4c2b53745262066046fbe99e276f24cea",
+      "primed.png": "97377e367810062b014a95a55f64942883367251d501954ed7108667a290186b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/janitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/janitor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "8386ed90ebc9c9922b4544bcee425a4a2f6b327970cdb3704cd16ce05b033b90",
+      "meta.json": "3b75698fbdd3fc4af199db2a196ab8c5bc9b93bd2979726f48a191e5098a6330",
+      "primed.png": "4299544ab1c029b092cbb5554a3f63f49111f2678097ef7c4c1e3b1dd38f54d9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/metalfoam.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/metalfoam.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f56cc7f22aeef431aa61b2c1f035f6d0413c1bba37317c4b69c6106c52f1887b",
+      "meta.json": "8765d0e7925c05668bc9a56ddd9b5648b30f15c6bc54202cdd5bdfb7cad51f96",
+      "primed.png": "bf6dc6d53b6282e78140bca3f63e16adadc28872b5ec0cf4ba5ffec4a4891dcb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/nukenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/nukenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "427bf3dfa09a4a0d75a65766fa02b839dc4748e6af413c179aa345e3557d6791",
+      "meta.json": "558af9b2a9e76d39133857fd361ad38c8de45541f9a63df86b697cfdf89d9548",
+      "primed.png": "928cdbdcafed3d292bb4729b0fbe510db34edbb49ef7d8b2ca33dc4f0c78486a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/pyrogrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/pyrogrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1a0cb4662f0b9867c32ca1c614168f71780b34de9315fd83016598af6202324e",
+      "inhand-left.png": "2937ec7e169a03ba5184a4eafe2d99edbed2d1a0dd8aae06498ddc4c8fdd38c1",
+      "inhand-right.png": "e0e41be1595d3911f2e0ef5be7c5605c945124a5ccb3abd05daef9689a4e12dd",
+      "meta.json": "de374205e0b0e262eab382dabfff20ed98714b827c89b301ae4d12c23a3be1f3",
+      "primed.png": "6e561fd712a36045fbaf2676d00d2b105010ab5f5ac00e40875189aedd67da3a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/shrapnelgrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/shrapnelgrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ee838f1d3c97eed8de91ae3a99813e167f05d01f9258a234e7c9037a2795c50a",
+      "meta.json": "d7c4375b1e25ecd4c44318886eaa5651c263c12753a93e9c7c0780ae2c64b85b",
+      "primed.png": "ad6388463a9ca492c9bb575b0e05c0ee7609f698b5b6b5037f7d6ee7f1b830ef"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/smoke.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/smoke.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "61e2e80849f06679b34d174085e18d9996f7fff7f7158f39d4d42d18285953e6",
+      "inhand-left.png": "b27d6f3576b3846516acf1971f928646d5caddf279c5df64ff22c01e093c363e",
+      "inhand-right.png": "4e7bf21c9f30924ac8daf69673ff6c915b2474869a3b6c0fd685901516fbd5b8",
+      "meta.json": "b9716bf80d3878ba9d2d8a3b0adc77c4c2b53745262066046fbe99e276f24cea",
+      "primed.png": "a4859d5478e4f9940a886cf9bc2c1f69d4fae1de76d81488b95df51f4c9be3dc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/stingergrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/stingergrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ec9d61d3e5a8130869887b1b66b070c6693cbff5208b2bf89f338346b17c0e22",
+      "meta.json": "558af9b2a9e76d39133857fd361ad38c8de45541f9a63df86b697cfdf89d9548",
+      "primed.png": "c860a7d0ea267c3a80d5a9b0ae998c4b9e50112c92b6b40f584c6a23c18dbb27"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/syndgrenade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/syndgrenade.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "2907fc083b976076fa3b772139aa16472df5e5705ac7ce4e7c5e3d6445dfb000",
+      "meta.json": "558af9b2a9e76d39133857fd361ad38c8de45541f9a63df86b697cfdf89d9548",
+      "primed.png": "9b19d2a17d66beb122a5c1c0f6459cd09ff31f8c1e2ee6fd881ee01aed92da02"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Grenades/tear_gas.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Grenades/tear_gas.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGMC.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "8d215e6f029e6598ceede37d45348c3bad290a2619f8311338bd29358b15b6e8",
+      "meta.json": "558af9b2a9e76d39133857fd361ad38c8de45541f9a63df86b697cfdf89d9548",
+      "primed.png": "3a51e3c5f3e5f951f17539a024fdb2b7e6160be3600cdb2ba69986bb517d25ef"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/laser_retro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/laser_retro.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/commit/125c975f1b3bf9826b37029e9ab5a5f89e975a7e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "100c9c5afed5b1611a1e51f6d3684cf8b0705b4e5ed6ffc224c0a77e415cd125",
+      "icon.png": "11b0b3bc49976fe876b8153eda377346fb935136ff03f3a2c693cd7786097a9d",
+      "inhand-left-0.png": "5a1f4632d6851bb5316804e914cbd12c8e6180505c04d6a2aa0ac9cd1162d78a",
+      "inhand-left-1.png": "cc1ac45c77907ed3ffbea491648ee181f5f2b4f32f23c1b57af0bd25a58bf2d1",
+      "inhand-left-2.png": "410dc4e296a65a416579d355c249c1c5af53309d61415068052de18f0cadf7cc",
+      "inhand-left-3.png": "799119e1767c39f927bb81c8998bd14c824f14dd12b086ac4b29e8175cc162a1",
+      "inhand-left.png": "799119e1767c39f927bb81c8998bd14c824f14dd12b086ac4b29e8175cc162a1",
+      "inhand-right-0.png": "177ec407fd3d073a53d2ea9571866859e427f8307015838db665b6e465d1fd19",
+      "inhand-right-1.png": "79bba420f11c974cd6d16c16daa288bf3ee63623090b5fa59bb6c3a8b1203d43",
+      "inhand-right-2.png": "218005acfc2dc1091239455fd3557b88d0f3a98d9de84dae90706f99b66f52b5",
+      "inhand-right-3.png": "2bdad57afa3c90f885f5f83f257b4b4587577676ac67d98dd9a130944ba715bf",
+      "inhand-right.png": "2bdad57afa3c90f885f5f83f257b4b4587577676ac67d98dd9a130944ba715bf",
+      "mag-unshaded-0.png": "955ebfee9fd0b7d672d719b534ef34edc4607c4108910c0aeb518022990f4ab3",
+      "mag-unshaded-1.png": "3ce81e680f1c2b51d4b756930001ed327f0d7e9a55c425cc6b97484d29092a0a",
+      "mag-unshaded-2.png": "e746d0550de071b1735de5adbd2af374581b7b511b0f9835a85b398609930606",
+      "mag-unshaded-3.png": "871df331c415b5b257357d2cc72b04a2e743f3b6de69c19cc3e6b2ae9b2e877b",
+      "mag-unshaded-4.png": "db46e94728f0a0f33f7cb0124bba8ab197afa46a714fcef955e80e6952fb4274",
+      "meta.json": "6b44f32067c9f569f79027e88ee47af3f1b5cf16484081a15411e20549ab4adb"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/laser_retro.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/27386/commits/4814da0f8e0d88f430c8b335e541e0a7734755a2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "61cf12b91884bf9e223b27308d3545654eeb118111b856b5ee9202eb75222d93",
+      "icon.png": "1d8786fce9f5f24386da1dbafb4bceb569635d24fde64ea2f8b4b60c88e2c797",
+      "inhand-left.png": "5ee9638dc427ca36c52fb5872c894120611413833d159373db88e09e2d9bdf64",
+      "inhand-right.png": "bfbbf112e16415dea2325b0ac614e3f8a9672a1dc4863bf0608a800eb060515c",
+      "mag-unshaded-1.png": "95fdb5b290012f60b7c5698a65bbbe51191d01a925616a0f0f6565b1ed00920a",
+      "mag-unshaded-2.png": "30c0adcf9a386b8c19cfc64004c04eb8a4acb8b303a2b5bab724e6eb05f92c80",
+      "mag-unshaded-3.png": "8be397cad9da68fb06d352ae9b2485232b68e95da22c2089e5bcddaf68ccd55f",
+      "mag-unshaded-4.png": "535803c9e826449f7091e8f01d0c5793b3791f023f5e4f146fdc4c50ab393b82",
+      "meta.json": "02ef55a37fe5acd95a675607f133d646ccd5274c613ebedc7a3cf591170abcdf"
+    },
+    "replaces": [
+      "Objects/Weapons/Guns/Battery/pulse_pistol.rsi"
+    ]
+  }
+]

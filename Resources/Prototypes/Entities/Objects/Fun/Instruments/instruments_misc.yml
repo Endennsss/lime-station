@@ -5,7 +5,7 @@
   description: The spiritual and magical lung of a former opera singer. Though, to be honest, the vocal chords make the performance.
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/organs.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Species/Human/organs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: lung-l
   - type: Instrument
     program: 121
@@ -134,7 +134,7 @@
     program: 1
     bank: 100 # Defined in space-station-14.sf2
   - type: Sprite
-    sprite: Objects/Fun/Instruments/bike_horn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Instruments/bike_horn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - BrassInstrument #Go figure.

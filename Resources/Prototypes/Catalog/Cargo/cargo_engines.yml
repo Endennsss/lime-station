@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: EngineAmeJar
   icon:
-    sprite: Objects/Power/AME/ame_jar.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Power/AME/ame_jar.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: jar
   product: CrateEngineeringAMEJar
   cost: 2000
@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: EngineSingularityGenerator
   icon:
-    sprite: Structures/Power/Generation/Singularity/generator.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Power/Generation/Singularity/generator.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateEngineeringSingularityGenerator
   cost: 4000

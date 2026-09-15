@@ -12,7 +12,7 @@
   - type: AnomalousParticle
     particleType: Delta
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: magicm_red
       shader: unshaded
@@ -130,7 +130,7 @@
     radius: 2.0
     energy: 7.0
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: magicm_green
       shader: unshaded

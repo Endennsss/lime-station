@@ -12,7 +12,7 @@
     - Anchorable
   - type: Rotatable
   - type: Sprite
-    sprite: Structures/Doors/Shutters/shutters.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Shutters/shutters.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     drawdepth: BlastDoors
     layers:
     - state: closed
@@ -147,7 +147,7 @@
   description: These come with extra-radiation-resistant paint.
   components:
   - type: Sprite
-    sprite: Structures/Doors/Shutters/shutters-radiation.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Shutters/shutters_radiation.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
@@ -185,7 +185,7 @@
   description: The Best (TM) place to see your friends explode!
   components:
   - type: Sprite
-    sprite: Structures/Doors/Shutters/shutters-window.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Shutters/shutters_window.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
@@ -234,7 +234,7 @@
   description: A frame for constructing a shutter.
   components:
   - type: Sprite
-    sprite: Structures/Doors/Shutters/shutters.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Shutters/shutters.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: assembly
   - type: Construction
     graph: Shutters

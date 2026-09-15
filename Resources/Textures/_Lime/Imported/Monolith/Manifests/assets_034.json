@@ -1,0 +1,984 @@
+[
+  {
+    "source": "Resources/Textures/_Shitmed/Mobs/Species/Misc/Pizza/parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Mobs/Species/Misc/Pizza/parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Agoichi (823598558690934824)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "l_arm.png": "03061d86ee685387c4cfc04d6f89b4a4d209bead1934e4d9297f2cd1724ae304",
+      "meta.json": "b5818ad056e162b6b2e3eaa67dbf7583cc415bb30293cdeba31bb611cd53cea8",
+      "r_arm.png": "3900aa929744a205ea7ca5718e8c1a39c1b1cb9c72572a1683b6e14485e50c8e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Mobs/Species/Space/Cobra/organs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Mobs/Species/Space/Cobra/organs.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by wyvernrer (337793232195026944)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "heart-inhand-left.png": "cea3a63c144cc4ea3130a940a582ea6e4f135a22b8a2568e60234b8f756cbc93",
+      "heart-inhand-right.png": "f5a3b2c15dea6061ab6c591f228931df64d7c225059e52ada1f5553fa4016357",
+      "heart-off.png": "03a5f48436ccb5876735f43952990c18bb4a9a0c304468fb152f3e5ec140a0ef",
+      "heart-on.png": "2043e42df37ef4b0aeaf5bf192c69379ed3f39d6591651207dba051f9427fd35",
+      "meta.json": "dfa36c0a2775c0328b3a0434bed23ae08991e6b672ce25cdbd9e883b6086ad98"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Mobs/Species/Space/Goliath/organs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Mobs/Species/Space/Goliath/organs.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by wyvernrer (337793232195026944)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "heart-inhand-left.png": "ffe9cb1589b6de1658af22048a92213ee21241e5e8bc27cc727aaf7f73773a54",
+      "heart-inhand-right.png": "d6394658999d0208af9be9203384f2fd5d1019fd5005c2fa22d45532356cdf48",
+      "heart-off.png": "8b8970d335c55f9dcb72e49fd0653db3bc88039f1705d07bb82ed6710cbda998",
+      "heart-on.png": "1a64bbc9db3fa885856ba30863d295907c7b7a119947174546cafe42e28838fe",
+      "meta.json": "dfa36c0a2775c0328b3a0434bed23ae08991e6b672ce25cdbd9e883b6086ad98"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/adv-retractor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/adv-retractor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "adv-retractor-on.png": "314d26ba3038ac82d35bc0e8f6dec52464dde6c913d421afc21cc10202ec92ef",
+      "adv-retractor.png": "ae8a107d11b718b4c42f9aa1af4192528090c548aefb0003608f36d417775245",
+      "inhand-left-on.png": "e54b2cffc65226d053da27a7f7786b342180fa0ecd1e265f34d03212838dc888",
+      "inhand-left.png": "0b871398a18099a24bb8623f354133ef32d5df85a560b6f9e0e4c37525ccacb7",
+      "inhand-right-on.png": "d4d56060d8b0e261dd84034db6b1f371494e5378945e564641d78d12eef0a182",
+      "inhand-right.png": "4651dc8af0b5da50100bc6e97d7b46ff716e943909d5ea2abbfc0071eb12f2de",
+      "meta.json": "8f8487735dbcb908fd2e4b77962f3b241e34fb3bfc0b5a85d36c2a4ef838234f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/bone-gel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/bone-gel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bone-gel.png": "e23d9fafac2d54d2d01ed71ab6dd168522f15bed23643a16d1f190ec6e59fc5a",
+      "inhand-left.png": "8bfd9b78128bd254545995a390d2ff875119782cb7f4feaa98fe96fd8a15c5f6",
+      "inhand-right.png": "90e4b5c1a33d6376e09080eee55d9933b218ddbb750b76c885162dbc8ae9b623",
+      "meta.json": "770859d9107acf5ffce0e6547db3d4338fec14c6876c969c80acbf9621f0f13e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/bonesetter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/bonesetter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bonesetter.png": "8ca945369892b333be161abdd248f755fb03ab80120cdf6d307c4545e5c16485",
+      "inhand-left.png": "8218f5489a6c64df8a8d3c26dbd44dd4a27c487e38596320b6b797a72111c171",
+      "inhand-right.png": "c2a56309ef275be60b9d1e8b601eb8be7d2d843aa14a6f11a74bc617ea6bf029",
+      "meta.json": "f872ae31c83d76d1730bd0ba43640974afc5a7b0c7269eaf014c05ac95fe56b4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/cautery.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cautery.png": "278b9f38dbbb0e150f344463957d026e142a61cced5ca58465f67079a6b74d91",
+      "inhand-left.png": "4cab16cbbb33ae88fa7f476129047dc6dbd7cda026d9023b9e80b06fd4e50de3",
+      "inhand-right.png": "ba92faffced255ab04bd5452915266c2c15ed9073634f836971000d63d292c04",
+      "meta.json": "75487892de16c60473287dee895b002603ab3c2592ae328c1904a5a3f5003f0e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/circular-saw.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/circular-saw.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "circular-saw.png": "4677936fc796017161b3c419a0b655f17db0a481a92c109da24b243a1df27ebf",
+      "inhand-left.png": "4b084dd306ab509a06e97b466871b98005a2a4f3881a996c900621df8d3dbd24",
+      "inhand-right.png": "dd177d17ad5445c540006670493fbfd752bf4f5a6a96e38f03312511fee4aa89",
+      "meta.json": "d62b9de91ff639f41215b364e77eca848c7507f165818af4a4b2f7a9a1e7ddcc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/drapes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/drapes.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "drapes.png": "18153c017377de043706022d190c068030f3860193e2d7c564a2aaaaafafee83",
+      "inhand-left.png": "1708fb5faf5a8fc1b1c18a4b24a0ebd10151c6b528d7f89d16df5cb5b0cd8804",
+      "inhand-right.png": "7b51c06d769c746cef002dad5fa80ea7335b43d28b4b99714c1e9ff68869e59b",
+      "meta.json": "f5f56823ec3181473f1a8441ed9544842009413d30dd6b406951fe9ce6dfa920"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/drapes.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/drill.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/drill.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "drill.png": "6055ccf487ad0a84de633e2accd9e2017f2432a22c47f21b041409f1896f2f6b",
+      "inhand-left.png": "37393af3635deb9154898b401c54bcaaa66ff7a4a468acd1becdf09b9476ef05",
+      "inhand-right.png": "770e386ab2b9d34df0b42054269fcc1aa4cb1bb0c454390acb7468b675ec5464",
+      "meta.json": "acdd09d88395b8cb0ec540853965b020146d21cbd9e9f40375cbdb43598c6320"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/e-cautery.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/e-cautery.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "e-cautery-on.png": "c51e75b567b9d41ee9ba25f2077a10e5866e1c794630051edf2dc822f43f22b1",
+      "e-cautery.png": "52265b1777294b915e7786c116d4482b544e9eb92f6db1a0766e7257b4673adc",
+      "inhand-left-on.png": "7752400324cd82bd9578bbffc64519d0fc34e3699590868e15afe139813b15b5",
+      "inhand-left.png": "752c9822a471acd959c52d5069ecbb7a41ee6e8df74081e68ca7e6835143f9d2",
+      "inhand-right-on.png": "72dd948ce0217ca9e5d6243f78085e8170bb88937ac8682e21e49a8495b5fbca",
+      "inhand-right.png": "4de0958d356a7aa98e1b490a66e04e7da27676781f77598a8777a6babf2aeba3",
+      "meta.json": "c4bed84138234ae7ff2707dce7756b68cde3b808804ce3c60ffba687581074a1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/e-scalpel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/e-scalpel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "e-scalpel-on.png": "e1e25d184aa41f1126583a348bf2da7789ba94f68ba498dd52b2519935c95b8c",
+      "e-scalpel.png": "2d051f6620e39456ebae091c94f96d1c28c66849196b0ae8943e8aba38a02ced",
+      "inhand-left-on.png": "bc70b2a6473bcffcd84934ad2feb1f9ba3017f20ade7ee874237b5e60db53aa3",
+      "inhand-left.png": "47c3be6734c3a75357ddec7d6fafafb8d9c08c3725bdd4ce1e5631e0f5685c2d",
+      "inhand-right-on.png": "4f3830841f3a7ef7b45ea5fabcdb2fbb6ad1ab6ee62623768a38f96988319d56",
+      "inhand-right.png": "2a034c8d27ae8c89bb95a1d9a6718d7ad695bae8f3e1e03c48cc25d924fa341b",
+      "meta.json": "f2fdb734a24129cff8b3edf03ba445063689600227145f289d602574ce406448"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/hemostat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/hemostat.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "hemostat.png": "522b2c2ce8b3263972ff0c9b6a1981417cadba38c2b8c6cc105ba0e96de83fc3",
+      "inhand-left.png": "683acbe832acbef88dcb181684f9a9197d79a4eb4a309dc6e3f8417b3739dfdb",
+      "inhand-right.png": "2d5f708a2354b3cbbfc3919a4c4213ba0cd8181b928dc6e422006c9f01a1463f",
+      "meta.json": "294e1fe31199696d36e85387a857caae6ba06f26d5832e3027fd34b074ace64d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/manipulation.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/manipulation.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Aurorastation at https://github.com/Aurorastation/Aurora.3/commit/ac435b98e2d0a455ad319dca3bb9bfdc0cd8b051",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "insertion.png": "4efdba00c18135ecb4974705132e274aa680deca808dd6d0ad73f17d58434397",
+      "meta.json": "e33dea6068f94fd9489cbc5d24f7bc057804795a869d3eb2873a592c6b308d17"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/manipulation.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/omnimed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/omnimed.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/commit/b7c3ac536391a3dfe3046f3b5197721af4564d90",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "evil-inhand-left.png": "7d7050e9d359d6ace0e41f5cbbae015d5242bfd4d80b52fce046a82d7929ee42",
+      "evil-inhand-right.png": "9def39b97e6e6128887145b67aeafd32b2cadbb9e57d24864e3f3e2e06b2b045",
+      "evil.png": "55fa0b6fd8f943ee2e1a332e40ad91f1e5d7c3d99002922873975fdec4cd5930",
+      "inhand-left.png": "c33c85e9660491f2570a35c9584fe0a70806b28ce1c30e7d5557e93f56277b70",
+      "inhand-right.png": "cf1576fa941ed1a19ac9bd07660cbe85f9d089cfb81f9fb0221e2d13a506d953",
+      "meta.json": "1ba30d008ce422e0d053ca6aebee12923747479012503be387ffaf21a3d68b4b",
+      "omnimed.png": "a45d08719e9ea9210c2b813dbe746e3dda56611adfd7af5c25032065e2ad5e7e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Shitmed/Objects/Specific/Medical/Surgery/omnimed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/retractor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/retractor.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "a634b303fc01bfb36727c30863ca70b50063f38e22a575c852efa0ec062f5971",
+      "inhand-right.png": "dc8444846c9c5941a12d28335296d41306a40763edde250d4a4588425407a0e4",
+      "meta.json": "507888db9b9f935ec7ee6b1fb2775bb76226d070ae9fc218762e08060a093149",
+      "retractor.png": "aa7ad1cab41c4a518debfd607ee85cc30f49ea948d3dd8d8f1c467b002b948c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Objects/Specific/Medical/Surgery/scalpel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Objects/Specific/Medical/Surgery/scalpel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at https://github.com/tgstation/tgstation/commit/67d7577947b5079408dce1b7646fdd6c3df13bb5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "inhand-left.png": "d0f67fc08941e7aea034360c18dc9057a7091184de920bb505571dbf2d969576",
+      "inhand-right.png": "cd8fde8efbe143629b577fc070563280e9c9356d1c6dfd63ae674d7267425464",
+      "meta.json": "a5193f063accc371c4802ba922d8c2afe896203c9b86250c7472c28fb64733c1",
+      "scalpel.png": "c82798a7e854d0e9f657cb95461bcb0d36bbc6c9ca597a736294d4d1e71c97f8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Structures/Machines/limbgrower.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Structures/Machines/limbgrower.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at commit 85c26c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "limbgrower_fill.png": "13d50290365770c6d22eca8d887191e6254e4f0b9175d996e5e4206e26916b94",
+      "limbgrower_idleoff.png": "f6ca3ce67d10e0789a68ba3bc9f410c92b341d4675c4419539374b368ea6c429",
+      "limbgrower_idleon.png": "ad475d9eb1f1355ec5fb037a1bdd4cacff8d3ffb0f4a3c3fafefd200e78d604f",
+      "limbgrower_openpanel.png": "3f8a3987fff73654ad27ac68d7dec850f5d2c2701c38add79fa9d793ae2e8427",
+      "limbgrower_panelopen.png": "aaddc4d80fbf8cd89da2330fb187c3adee8afc8fb81c697a8cd2909477083fd8",
+      "limbgrower_unfill.png": "d4a8e100ee75e61119f92cc57709c5644741f57096c52c70ffbff44fff12aef3",
+      "meta.json": "e364515db19d973f44eeccf388da7cfa82693f343b48a7152f714c740c9964c0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Structures/Walls/abductor_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Structures/Walls/abductor_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taked From TG Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "43ee6dab4f301c226f8466fe7ee0a969ab5bc92191dd92ada48422d794fe4e6d",
+      "state0.png": "c451d95a5931833ea23816406919f20bb6c5f10214378365db63a1bbc6402c61",
+      "state1.png": "c4c45670a7697e6be6323ac480640ab973a8f40c526436961073d22db585021d"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Shitmed/Structures/Walls/abductor_diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Shitmed/Structures/Walls/abductor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Shitmed/Structures/Walls/abductor.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taked From TG Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "a076bb68c9f02758b91909c61a3e9ef0eb3a3a88fa71c75783300cb4dfaede96",
+      "meta.json": "696211d5bec427a902996a276b40d51bb54fde481a6e6dbec4c644843e39200b",
+      "state0.png": "eed2ac7e34917196bd05be7cbede0bc36a639757e6717c1f62f4078cf11298c3",
+      "state1.png": "23d7c1ab0c182771179abf82fcd365b2f944e0affeca71bf3f219ded6ef05a95",
+      "state2.png": "eed2ac7e34917196bd05be7cbede0bc36a639757e6717c1f62f4078cf11298c3",
+      "state3.png": "23d7c1ab0c182771179abf82fcd365b2f944e0affeca71bf3f219ded6ef05a95",
+      "state4.png": "bcddd185c35fd906970a087c523ce047949ca72ebfe1b3fb0161d2c2afa67afa",
+      "state5.png": "8b94e816b0b4c0795d5600d971e365450a9e2308f773512a158904ba79a43b6a",
+      "state6.png": "bcddd185c35fd906970a087c523ce047949ca72ebfe1b3fb0161d2c2afa67afa",
+      "state7.png": "0d5cd6ba09bcdf918026c0c3fda73e592c28453fc6052d7f9951497151ebc70f"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Shitmed/Structures/Walls/abductor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_SimpleStation/Mobs/Customization/wings96x34.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/SimpleStation/Mobs/Customization/wings96x34.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGStation at commit https://github.com/tgstation/tgstation/commit/e9cc620e9f908e18949031c6e1b5811e3fc5af4e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "8115242562e1b4fa177766266ebd35039cb6c20e33c3b16d36d3fe2d4aec2abc",
+      "robotic.png": "1c18b18e9afb663624551ca7e2478ce40552a1289b8f5e5dadc9a267dc6438fd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_WF/Objects/Economy/depositboxlarge.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/WF/Objects/Economy/depositboxlarge.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Sprites made by RobynIsBlue / Cuffle for Wayfarer 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-open.png": "5deb3c998b445c94fb7f2cb7c5b8ff91792eecc8fb207c90e35e6c4f0c854b47",
+      "icon.png": "bdd404083fce297a456cee5c10ff0fe1fe335d71c5eb425f78003cc6840e9806",
+      "inhand-left.png": "10d3bb4ecfecfc09d3e545b4ec8e0b867f2b2bf3569f641e93f30a1031a780a8",
+      "inhand-right.png": "4fb8642c111270ed0339b60c48aaec8a47efbf6b6388e41d09fdb1aa98ccf476",
+      "meta.json": "186ca754c62ea27952da4cbb807c3f66d7e77406eec33652beeb100190d6e7dd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_WF/Objects/Economy/depositboxmedium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/WF/Objects/Economy/depositboxmedium.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Sprites made by RobynIsBlue / Cuffle for Wayfarer 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-open.png": "56fa0e670952d62ce3c8859977e1527024ff81fdbbcbda307f17f66b6bb8fe02",
+      "icon.png": "6298f872a4df2510f69b8b064f81274b6b59a8e0cd14ccac205fc872d16748e7",
+      "inhand-left.png": "10d3bb4ecfecfc09d3e545b4ec8e0b867f2b2bf3569f641e93f30a1031a780a8",
+      "inhand-right.png": "4fb8642c111270ed0339b60c48aaec8a47efbf6b6388e41d09fdb1aa98ccf476",
+      "meta.json": "186ca754c62ea27952da4cbb807c3f66d7e77406eec33652beeb100190d6e7dd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_WF/Objects/Economy/depositboxsmall.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/WF/Objects/Economy/depositboxsmall.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Sprites made by RobynIsBlue / Cuffle for Wayfarer 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-open.png": "abbdeaa490d81ae1b60f62687fcb50718b843ab6ee4277a59887208c8695a745",
+      "icon.png": "e6dd95643f2919409fe7780eb1448d0a192529cfc0a34babf9e8f8b9b6703325",
+      "inhand-left.png": "d70ccfea25dd8ad1e2bc0b9b291285acc9d837ed90cd81b46f4e9056774d91fd",
+      "inhand-right.png": "8a240805275fc6080bf67b54d15b8ab9c99e316604802c0c3459ffdae6af4b27",
+      "meta.json": "186ca754c62ea27952da4cbb807c3f66d7e77406eec33652beeb100190d6e7dd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_WF/Structures/Machines/atm/depositatm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/WF/Structures/Machines/atm/depositatm.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage, reshaded by Checkraze, modified by RobynIsBlue / Cuffle for Wayfarer 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "dc313c241d0e321021296b143a0c5d2df4ed51580fa3949159af2aa9540f27b8",
+      "meta.json": "23500867105ed5a77e0229f1ea9b706ace7b6a206d4a2bcf8f0557b1f83e283d",
+      "printing.png": "8c056579632eb2bb8066230b6edb0e4442c0b247f457e1743ecc03d9f9bce521",
+      "unshaded.png": "6c5f7e3ed4328cd4d789826b51f5984c1a1bdedef5399232f6e4078cd9fbc78f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Clothing/Eyes/Goggles/nightvision.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Clothing/Eyes/Goggles/nightvision.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES-off.png": "1061d5bab2e4751700101d4303b8650e27dc8e728ad8829d95f742a4333794a1",
+      "equipped-EYES.png": "1325eb65a4bd7d1d623662bd526192add6b2d73934f23bad3613820abac5930a",
+      "icon.png": "a60b6984f0626fe99772f40b195be1ceeaf698da017a2bc19c9fb5aa44780689",
+      "inhand-left.png": "1d75fbca3ee03b450a8a0f85491583fbd873a172d39aeaf51e38bae9c874f725",
+      "inhand-right.png": "ba890be2a6f79b3ac3dcc8feed24917b8afa1840ce56b2eb41e974314c23609e",
+      "meta.json": "4638e0ad73da64f6b3b5dfe8033f040fe83c04531073949953b68c7ef5bc9c21"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/White/Clothing/Eyes/Goggles/nightvision.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_White/Clothing/Eyes/Goggles/thermal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Clothing/Eyes/Goggles/thermal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES.png": "139d505fb5a94e8cbbfd7af4b51d58d7164089cd34e1b24766270e566df0ec60",
+      "icon.png": "79093cdd7d13f5924dba1742f035d4d806a15f55f7217f2bf39be1619af045ef",
+      "inhand-left.png": "075f180e9c765db91f0d2b67c9a51dee0b66c95f2a7c757a7a76ba3ce44571de",
+      "inhand-right.png": "9aac2b436743afa2c9f7b779224ff22a810b361c003278d7fc239ff29a6eacd4",
+      "meta.json": "61334f6491866a83dc978116acc32664231df6538543f8d3bae1e037a290ab34"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/White/Clothing/Eyes/Goggles/thermal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_White/Mobs/Customization/reptilian_64x32.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Mobs/Customization/reptilian_64x32.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Taken from: https://github.com/BlueMoon-Labs/MOLOT-BlueMoon-Station/blob/master/modular_splurt/icons/mob/64_mam_tails.dmi | Reshade by vetochka_igrit (Discord) | Edited and resprited by PuroSlavKing (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a8614a11327e183ad5913753a76eaa04dfa77cc3ce9a996297f095c1d6027554",
+      "snake_large.png": "d6141cbb0e3c63813b31b73999a92829dfa4b9a6c2e2331a910e6dba24aabac4",
+      "snake_large_overlay.png": "12b2a231c01f25109a568687037b1abbe44655c72580d039172fb200e925a282",
+      "snake_large_wagging.png": "ee2fd7e1478b456142fcad2278b96417c298495f4be245955664c4662b7955b4",
+      "snake_large_wagging_overlay.png": "8a30d7096a26ed105aa9d3309d875d59d814a57373861afffab5263a1ab09632"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Mobs/Customization/reptilian_parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Mobs/Customization/reptilian_parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/Skyrat-SS13/Skyrat-tg/tree/40e3cdbb15b8bc0d5ef2fb46133adf805bda5297, while Argali, Ayrshire, Myrsore and Bighorn are drawn by Ubaser, and Kobold Ears are drawn by Pigeonpeas. Body_underbelly made by Nairod(github) for SS14. Large drawn by Ubaser. Wagging tail by SonicDC. Splotch modified from Sharp by KittenColony(github). Frills neckfull come from: https://github.com/Bubberstation/Bubberstation/commit/8bc6b83404803466a560b694bf22ef3c0ac266a2, resprited by @mishutka09 | Edited, resprited and reshaded by PuroSlavKing (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cobra_hood_with_ears.png": "5641cf03749b72b2b7643e772b03221192ebe8310e14447f27b2ae2da07e7f34",
+      "cobra_hood_with_ears_overlay.png": "9ee5cbb5758c9d88b03100f1ca03c3823e733ab6ec44828ee635bd9a02c8f31b",
+      "horns_argali_l.png": "db4f9a2e08e0c9d210086a9c955f1b3c4656842ae592f95058db09965eb8ed8c",
+      "horns_argali_r.png": "689b6a332f3a1bcbd4cd6b362d5756b42cac0229c0ad8e4edf0a094f5ec7ca6b",
+      "horns_ayrshire_l.png": "571b0b06634aacd6f812129a6b18d3c601e8a31828130c7f5901574fd73eeb77",
+      "horns_ayrshire_r.png": "7e0ee151ab0f96bdbcdd9ad0a1f2bc4199632c6f592fbfbe590a43e992240c29",
+      "horns_bighorn_l.png": "ec4af1293d2fad418ca804f070a67beef919f5f8797c4cc39856cc23e4a1ba60",
+      "horns_bighorn_r.png": "e4855f5172c4fdee8d1b0623b37b48850772ca411bca0d5fdadc55855f2250f8",
+      "horns_curled_l.png": "882c3c400710ebf42ecc6386429cbf4f7da2149205660acd01bf1524e0a86d25",
+      "horns_curled_r.png": "67257939df40ad4334c6b5f3646df212b9469cedaccf64b9667cb8b969b4d607",
+      "horns_double_l.png": "15debb64f58db0b853955fb841ce6c6b3fb81374abc30831638db6adf3eeb5c1",
+      "horns_double_r.png": "343bb6825ed3b5abf8a6298a1b675c252be54b37d909001ad4b3a4a92ef298b2",
+      "horns_myrsore_l.png": "0854732ce11a06b3948cc01e26ecc5a8c1286e8922bc3986e9b812dcb5cc5d67",
+      "horns_myrsore_r.png": "1947a655813356949b55ee63e78bb7acf8736ab283267811e2c816410f161365",
+      "horns_ram_l.png": "f8f8034ba085c50dfa8095c349255cebb5e0bb3b050b014e29347b67c18530c9",
+      "horns_ram_r.png": "a17270851e33c2b99da31fe5290862feccab6e24a49f37750c9f800df33420a8",
+      "horns_short_l.png": "007f4088d1109c88f106bebab738cc3e4550575dd2c1516f5f75fd436940c35f",
+      "horns_short_r.png": "80f172e241a604d049c49d8c2f13bb0f3a8de1e422a94079395167e721d1f634",
+      "horns_simple_l.png": "281fe91a657e081b0072b5f05f073b5702fabb0e2bbf0f90a7b7887dc08cb42a",
+      "horns_simple_r.png": "5f0dd5c538a8f909bf03d086a8d57db706ddead5a9320a9b4b35b10a5703d0a3",
+      "meta.json": "a138a76bc64b3b3b1eaa1d3f5b5acec92110af5a8e679694cfa7372f3cb009cc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Mobs/Customization/reptilian.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Mobs/Customization/reptilian.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGStation at commit https://github.com/tgstation/tgstation/tree/e9cc620e9f908e18949031c6e1b5811e3fc5af4e/icons/mob/species/lizard",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a0d77270380350badfdb9afd9bcd328873d8de293e085c9241c01f944ebc1fd5",
+      "spines_aquatic.png": "d4afe3c4fbc363725d5b7fd5596d09298389a6f81561adb325bc653c467010b2",
+      "spines_aquatic_alt.png": "0a361fd8b774f7bdf87501936a0747b77e1caa542eda0e63a96ecc18f2c13fb5",
+      "spines_long.png": "c4d2acf0dc2d8221c47a263921e466be802e1ae81104e0c52a22cbbd85cdcd80",
+      "spines_long_alt.png": "fa9a54d435d7e8604bf602679c7aa656f99f2261e4bd04eef5e5ba29b3ed12ac",
+      "spines_longmembrane.png": "e9178de7694f25de62378861866e3c4347b8e8fc21673f2bb604996878235696",
+      "spines_longmembrane_alt.png": "69a1a67967a3d7bb41d73a033fbdcfc620db0c67b51d2cdb3fefb88f5db7e30a",
+      "spines_short.png": "8adb9e7c5f6b706218ba5a359a0018cdb9891b23bb722745dbd5b24358a3453b",
+      "spines_short_alt.png": "20d0923f91b49d2715b4ee833f6dbb79404aa761763506c8dc22fa5c04fcf733",
+      "spines_shortmembrane.png": "9652f8d396a824263caf12cd68f2ec4289ce7acdd4574244717756f1d4bb315f",
+      "spines_shortmembrane_alt.png": "d1479f3bf9de44d55b21136aa442b2fb9b71b10416e8abcfa3ceee46dee0cf64",
+      "spineswag_aquatic.png": "b65ff2193b9c828ca75f774860bace1f10211d55756e19422a9895a46b21c0b8",
+      "spineswag_long.png": "1ca6a1fd5e76823e4039826ab33e0dc1d1fbe5f37d1aa7c4fa410a256d1fe8e2",
+      "spineswag_longmembrane.png": "b838d722f9fa566b1e3af6dd3e6674324df4a3194506d8e17062e7c0529b6c11",
+      "spineswag_short.png": "473ea7644ee89b4828d4e632d3af5d1faca80467ed49269e764957fc25b11a8f",
+      "spineswag_shortmembrane.png": "02976c8768c8a61adf9f179b054e06d07019546538a970b6233e2f44b4380ccc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Mobs/Customization/snouts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Mobs/Customization/snouts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from S.P.L.U.R.T at commit https://github.com/SPLURT-Station/S.P.L.U.R.T-Station-13/commit/02617f9b08d7767e2feb137a8c96650342bd3c0a | Edited, resprited and reshaded by PuroSlavKing (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "eastern_dragon.png": "12209ccd40717712d112f0cf007b5abde79c2ae661d2914e0f82a94267709841",
+      "eastern_dragon_overlay.png": "cf6a941ba72830e610a78d183e005fa5dff7c08003b310a3bd20280d9b22964b",
+      "eastern_dragon_usiki.png": "6dd4a09c2a66b4ca5eea0907b8523ab975949fd268e03f88aff77f1d427c3afd",
+      "guilmon.png": "0d09ffcd5bcc04ab7f3063cb5a020ca6abecee5c27cdf8333e248f96a3f98c1e",
+      "meta.json": "e518ddbe53c0703603ec969bdb9c764d6d1f530164ab4e507bb7d88ca45c41cd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Mobs/Species/displacement.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Mobs/Species/displacement.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by Litogin",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "jumpsuit-female.png": "1449d20a0cffc33acb35dd79cd520990568183c11c79bf5bbfd1417de9e4d052",
+      "jumpsuit.png": "119702ead2ee7ee3048e486a6cedee117b175fb8d058dceb0a147f75a47b92af",
+      "meta.json": "7d3c54c4556a1e3a65270c765fcc141f7de2d6954b4468b7bf03c8482c24ffcb",
+      "shoes.png": "34b076383dd89f49c733722eb22f9d8c48130fcef396fdfaf88a7a1c631de59b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Mobs/Species/Reptilian/parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Mobs/Species/Reptilian/parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/blob/08898964e67a0d517ca4e47eec7039394b694ac2/icons/mob/species/lizard/bodyparts.dmi | Edited by PuroSlavKing (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "l_foot_digi.png": "19a463a053050ce0ac80c551691c3906ff7a1df7bfd41f8883a2d25726444343",
+      "l_leg_digi.png": "82f5f43be7f8239e39c6412a89ea0015a11708c798a9aae86d271f21e1afc805",
+      "meta.json": "5e27c79bb0d02a4f14a74a560dcc8ccd16a73bba5a24de780407513cde166a39",
+      "r_foot_digi.png": "a8159c73b151d9024fe6fadde3bd33ce7716dc4f6338a91b982e51b00426ee2f",
+      "r_leg_digi.png": "0448e1b988dc74b674f46b11349b27560a48e69e4bc7d974bdeb5b5adc13bafe"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_White/Objects/Weapons/Melee/Daggers/betrayal_knife.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/White/Objects/Weapons/Melee/Daggers/betrayal_knife.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/49264/commits/d0dffe7ca643db2624424fdcebf45863f85c0448",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "f5ff19ed1fcf68fe321517ea9143ca03ba9435b6d4422a503caca18c510448a1",
+      "inhand-left.png": "a523371af13fc3dd92f6571e70950cb44c4ce99676c076ec5405b8ac2b767efd",
+      "inhand-right.png": "7aea3bc1bc8dd14876f8d00c82ef50e7a01f8637b650b64fac32ca26a222c8d3",
+      "meta.json": "d9a6266b7afd27541414a892d92ec33eb80a088481382c82e795e1df4c80c9d8"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/White/Objects/Weapons/Melee/Daggers/betrayal_knife.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/atmosbackpacktank.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/atmosbackpacktank.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/pull/5645/commits/46a3170b2a1a0f9b6f03dd6bda8e443afed85ee3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "aba41faf216a6d7a78964f519c6ec282d15c14a40d1878fec2a7ec35b5215467",
+      "icon.png": "dcbb90323bd2c7f6211b8b38f307bb7638ee39b1343796aba766b968f5135577",
+      "inhand-left.png": "e59de81d74abb6d8a44cb50ef81163ffdab4a847f84aee35fb56c8f7257e5c9e",
+      "inhand-right.png": "fb8d143c207a1eb65e7ef2306ecb32a893923250a28c42dc1a43ae993203f1c9",
+      "meta.json": "09411e8176bdf9b863a4fc7051ac4eaac258a47397591f9b1a19d4b7855a1553"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/atmosbackpacktank.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by KingFroozy (Github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "306092e37bc3b255e408ad4f4afd85b36118c9f395fd182305aa2b9145eed7b8",
+      "icon.png": "748f2ede0bf56f9fe0392e8bab27e9f2b812e2ead499eacc0d79f11383f58d0f",
+      "inhand-left.png": "17144502860d06b70f6ea8a5384c472d9685386b9f45301f77e0671234c7a824",
+      "inhand-right.png": "df96458b68e21ab58bc5b86949bf2eff5897b82c2d869cf82bfbe6669792533f",
+      "meta.json": "8341c31ed24f977bbe791c2846dda97d151c7b710f10c0bed65782b10fd0b44c"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/atmospherics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/atmospherics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/backpack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/backpack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "5a18c8f577028fe999a428d06a121d374493b1bf60d23ab889c4877ac61c356f",
+      "icon.png": "254b57e3247e580110c3895907949481cb7cc0ba4e1ec5c247f4b0e75423d461",
+      "inhand-left.png": "d1dca625486e1d36808d4140839a52f691c95073b86b7f8ee77e236a04ddafa5",
+      "inhand-right.png": "26f88dab909ff76d050182bad7815b8d272d1886f089b0cf6eb3cc2e65fc9222",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/backpack.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Hülle#2562 (Discord), Resprited by MureixloL",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "0b0428fa69141739aa84ddb09db275e32b317ce1f9473d3842d495717b6cc0dd",
+      "icon.png": "8662475e7aeee81ba9b9caf05b5c63239ac641333a212aa36789af25dfae4895",
+      "inhand-left.png": "dc199d2e2b13a98ae9526a1f167f84701d6196c67017f79076bdf276fd56a1f8",
+      "inhand-right.png": "368da7396402fe7d6c5e96e49f583c1af2c36f6d1e9cea78d61433faabaec95e",
+      "meta.json": "0550b564b778860127d873f1013d2cd6895b69ce968a767b85de2f306d5a4bca"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/brigmedic.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "c43b7c8efd3da98bedba8e5ce0d5ca05571ccbd0bac8336a6739318894d9e461",
+      "icon.png": "3ad98ca5ae066e7302a0428d99709f786e69b06a3b5036d27dc2d045eab533f1",
+      "inhand-left.png": "cbeedacd86e291072793bf41968a5df031992dafb51905b433c45ea97bf876e8",
+      "inhand-right.png": "2f4a32ca6645dd3e97028c8e251e0402f3e17673a7c9ada534f9c3a5b71536e7",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/captain.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "54e595bc294e3e138d0370dbbdd6474dba821411b1dfb2f6216289105e5c6ef8",
+      "icon.png": "910eb547b4f8c71df2dbd8dba522f4663e8abc48cf51f85d52ef5119a1f9d851",
+      "inhand-left.png": "c8f193732bb4da55e238bd65c4bfc92cde744d542d9caf9d96e6645020ab39b9",
+      "inhand-right.png": "e10dba99c8c2324518e57dc598df6a8901664aa91ebaa32aab8f53942e3086ad",
+      "meta.json": "c2cfbbad73344d713026342bcec03ddf3a10f25426377e1f986d2b34e3d81f5a"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/cargo.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/cargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "206d93fe6f3c4c547d8fb4e1d3a1144f6a3660a7a424605542cb0cf7efa40963",
+      "icon.png": "0e33c9eba52d4f5cf310d9ccaa1c453223e6961bab2ddd2a1d4bf31748e8915e",
+      "inhand-left.png": "8005411a613625a318349798304da20bc1b0307ab4c479a504b3c7b695ec2746",
+      "inhand-right.png": "44352c269eb3e647de9232f2c9542344e25a91d3eccdbccef5192374f81de840",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/chemistry.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "858e9bbf8151143e47a6e01c93f97959b2d8e5591a480210f497253a0a241c85",
+      "icon.png": "5a870513356fcc7f0dfa586b59fb6d3d9dea9ec6fcc9db1fe5ed89d19e834d02",
+      "inhand-left.png": "e3b0bdca012a8837bcc4e9fd077aca10e15c6b40387e2f445004e19f4b88e518",
+      "inhand-right.png": "1bda92bbbd0fc582d71dd0713567bc3a6dce16af87ae2222acfdab9bf7e006a1",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/clown.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/cluwne.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/cluwne.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "1e650f8976fab434d7c275bc97a48ffa06b447f78feef3a60fb73e4b01c7fe6e",
+      "icon.png": "c3781c4fa86b03f0042404b9c955bce8e26d4537a4fad5d0a6e3f6eb363eaeb6",
+      "meta.json": "68c1c2fcc2c6dcba93914c60e6f9043ce6d0e5705bcefd37c2102b1b09fa9ff5"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/cluwne.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/cluwne.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/electropack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/electropack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2d26ce62c273d025bed77a0e6c4bdc770b789bb0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2b5ce0b7ab634684626ded1f2a20c45f3a88b0ebdb9b862885cef63626464692",
+      "icon.png": "fba8bbf4d166668dc49239c1d434581f40632db4fd9cc5ae89dfa3e0e52dd6a4",
+      "inhand-left.png": "75f079b6c72eb8df2ca11dc78f3a90ddd86f8ea87444a532f4b365fb740619e3",
+      "inhand-right.png": "fadd08f65cda6afe9f01eb081130d2793fdab1c774b113f1e5dc46aaaf407993",
+      "meta.json": "40069391c83b328fba09e4926622383ea5a414cd4fa3783a80a1d6e355933ec1"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/electropack.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/electropack.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "46385b4df4aab382e0809c8cbca3d0b0d4f08d9c57e6871a8c105ba1661cb179",
+      "icon.png": "ef93b4efeb40478d4e44511c962e730091b7658ede8ea88b791b3a4dd50416e0",
+      "inhand-left.png": "faa74cfe9816881bd06cb57ac682c880fe69e95aa718f0a080683c25ca62ba15",
+      "inhand-right.png": "6e820e5f960f1fd0f2cc597e5a9ddf48496f7d7ca4f241f16866f289b3c60f82",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/engineering.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertchaplain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertchaplain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6, inhands by peptide",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "0ca2c66e3c676e92a37a9ea682d07b1d01f668d979b20a2a876836b9f128ca71",
+      "icon.png": "dbfd00203102f7e50701b90bc2adbd1eb188c925540871ad541b010e85855606",
+      "inhand-left.png": "f5896fdb59265c4171fd6354c40106d68dd0229fa23e92d04ff1c9e0a13d372f",
+      "inhand-right.png": "29364e1f616ec2deb1d596dbddd12be7dbf639e050bcacac93da5e8b29aec59a",
+      "meta.json": "b6cd6a2dc3230dcc622cdfa9d56be762c5b97c61d5f577b7d0eb2d4f520f658a"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertchaplain.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ertchaplain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertclown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertclown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "82f048dec6154957c160817c44a576a8c4149c526be981738821dcb21ba9a2a9",
+      "icon.png": "463fd6761400f58ad6eeefafcd6d01ba218fd0f2a9eb78fb6f6a886cbc73d7c1",
+      "inhand-left.png": "d4f995a8e319f831eccf8abad2644bcf8c08b0901f6a79e4cb11bb39f3d5b142",
+      "inhand-right.png": "43b645fd34b7df3c29a96d54d9a35035b74a169c61e384efb80c3e9e01f55eb9",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertclown.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ertclown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/erteng.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/erteng.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "a61bc93aa06f6e588314e81c2fa34c9899af28676e9347b2ffdc0131feb3fd92",
+      "icon.png": "29f3205da99be29e076edeae1de8a3b5fe0a3088c5ab3aedb2ef689257f021c8",
+      "inhand-left.png": "084a320a6b7528ab6274cb203c0f6542ebb3543f5804e7c1ab7330a49edcc95b",
+      "inhand-right.png": "43b399655ddaa1602889db81ee080731fcb79814b246c734048618b2c7a03ba9",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/erteng.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/erteng.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertjanitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertjanitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "84d8ee2c4543247f7cd89f1db925d31705369b9d460198c80c40eb47b1773407",
+      "icon.png": "191eda4416217f608c769e45568cac465d2d4155e1f6da86666fdf1cd64f198d",
+      "inhand-left.png": "126c862ff72a4a863717dbdb01bbbce487f7f7b65d9d8edb0580bd090eed74e2",
+      "inhand-right.png": "1ff489c1b331508f0e91dfb7bdd2ccd1dcee040efb31fbeca4eed3225caba971",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertjanitor.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ertjanitor.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertleader.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertleader.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6, inhands by peptide",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "c04947fb525d3e152cdea8034a9de9afdb8297a898cc330e4869d3f6403710b0",
+      "icon.png": "8f0d0ee14deabfdf38e813348f8d901dd60a2752d9a69baad88d74c9879fdeb0",
+      "inhand-left.png": "74063ad858072c7ea3444d4ebb461fc966be3ffe1f07d2d69e187bf76360aeb1",
+      "inhand-right.png": "074f9189342064c4b981ef8aece281c312ef3412c36fe1deb7b56bc42cfa712a",
+      "meta.json": "b6cd6a2dc3230dcc622cdfa9d56be762c5b97c61d5f577b7d0eb2d4f520f658a"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertleader.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ertleader.rsi"
+    ]
+  }
+]

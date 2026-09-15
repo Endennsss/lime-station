@@ -11,7 +11,7 @@
     shape:
     - 0,0,1,0
   - type: Sprite
-    sprite: Objects/Consumable/Food/noodles.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Food/noodles.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Solution
     solution:
       reagents:

@@ -59,7 +59,7 @@
                 sprite: Objects/Misc/module.rsi
                 state: id_mod
               guideIconParts:
-                sprite: _Lime/Imported/Goob/Objects/Misc/stock_parts.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+                sprite: _Lime/Imported/Monolith/NF/Objects/Misc/stock_parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
                 state: scan_module
           steps:
             - tool: Screwing

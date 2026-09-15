@@ -5,9 +5,9 @@
   description: A sheet of metal, used often on the station in various applications.
   components:
   - type: Sprite
-    sprite: Objects/Materials/Sheets/metal.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: Objects/Materials/Sheets/metal.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Materials/Sheets/metal.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Tag
     tags:
     - Sheet

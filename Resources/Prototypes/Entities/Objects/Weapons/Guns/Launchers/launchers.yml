@@ -299,7 +299,7 @@
   name: grappling gun
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Launchers/grappling_gun.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Launchers/grappling_gun.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
     - state: base-unshaded

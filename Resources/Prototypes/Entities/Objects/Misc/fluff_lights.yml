@@ -104,7 +104,7 @@
   description: A light emitting device that would look great on a desk.
   components:
   - type: Sprite
-    sprite: Objects/Misc/Lights/lampgreen.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Misc/Lights/lampgreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
       - state: lampgreen
         map: [ "base" ]
@@ -113,7 +113,7 @@
         visible: false
         map: [ "light" ]
   - type: Item
-    sprite: Objects/Misc/Lights/lampgreen.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Misc/Lights/lampgreen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: HolidayVisuals
     holidays:
       festive:

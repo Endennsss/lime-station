@@ -18,7 +18,7 @@
   id: UplinkHypoDart
   name: uplink-hypodart-name
   description: uplink-hypodart-desc
-  icon: { sprite: /Textures/Objects/Fun/Darts/dart_red.rsi, state: icon }
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/Objects/Fun/Darts/dart_red.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
   productEntity: HypoDartBox
   discountCategory: veryRareDiscounts
   discountDownTo:

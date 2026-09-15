@@ -199,9 +199,9 @@
   description: Bok bok bok!
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Suits/chicken.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Suits/chicken.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Suits/chicken.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Suits/chicken.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ProtectedFromStepTriggers
     slots: WITHOUT_POCKET
 

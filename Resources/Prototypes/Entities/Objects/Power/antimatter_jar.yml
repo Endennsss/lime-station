@@ -6,9 +6,9 @@
   components:
   - type: Item
     size: Normal
-    sprite: Objects/Power/AME/ame_jar.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Power/AME/ame_jar.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Sprite
-    sprite: Objects/Power/AME/ame_jar.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Power/AME/ame_jar.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: jar
   - type: AmeFuelContainer
   - type: StaticPrice

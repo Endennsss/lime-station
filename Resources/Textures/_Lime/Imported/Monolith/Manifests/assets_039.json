@@ -1,0 +1,1158 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/performer-wig.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/performer-wig.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Velken",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "bcc0c0e93eeb64bd39f2ccfbc5587f1b02d1808e98ab6e8b10577c644dc7f354",
+      "icon.png": "f70131d305b035e213c2157bd3faec095e361963d23e320eb9ccfecfb2567315",
+      "inhand-left.png": "d2138c75502e65df673fa9eec4d07135f6147ea9d8b5c6f81efd48496cf22491",
+      "inhand-right.png": "fc26b5effb226a052fe7e4ec2d2bc9a36f394a2d6d7cb1e2aceb2232acc57006",
+      "meta.json": "6b5aee447ff057030355d49ad47c03166d14cdee960f16f822e46c3d1963b385"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/performer-wig.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/pumpkin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/pumpkin.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. vox states by Flareguy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon-flash.png": "c79419c17bf2afd9f99581f6f6f821b87089cd534dbbd076375102e8c38f7bdc",
+      "icon-on.png": "62f855f91427e4905ad73dab9b5927378baedbb68eec2b421aaa7bd99115bdf7",
+      "icon.png": "576dd533e899360baf48c3afa6b5809960e16dcedbe337cd2485c5a1ec8c02fe",
+      "meta.json": "481e3c9a6dd785d565dd1a7cb3c5af26da8dc5dfec10303afe50e15d2549f9f5",
+      "off-equipped-HELMET-vox.png": "c76588362309e6000f31ed0a0fb39ef20ab5a73ef98750ecb37c53f1fe73f6a3",
+      "off-equipped-HELMET.png": "13f598e8d74ba3ff33b868bd5e87a0a4316e2e333e769b332b58f79c86fc12e9",
+      "off-inhand-left.png": "50c918cf09427f8d4fdd155ea6c448b6a0c83b84f81b6e73977c855382e77d0d",
+      "off-inhand-right.png": "d08f318c2cbc74e2d1cc89b649ea9ee2dc94bd7e74958e6e9534ef90d8f7b4a8",
+      "on-equipped-HELMET-vox.png": "6c60140bd1c41c21c08b54296fb6be8444cc86456af1cad5fb180837ed1c96f8",
+      "on-equipped-HELMET.png": "be1f47e2a968ea2c587c7c429a5ec4c659d955cfc068073588badcbc81b5b206",
+      "on-inhand-left.png": "8592da011be52b17582d16e5d709a43d019071ae165316fb5870c0fd8a7b5a68",
+      "on-inhand-right.png": "183cc5c256c9f8b4cdb493ab11375dda542d192a0152e6b5107973713af7bf5d"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Head/Misc/pumpkin.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Misc/skubhead.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Misc/skubhead.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation, equipped-HELMET-vox state by Flareguy, Resomi state created by Huaqas (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-resomi.png": "ec4dc0d1ee83ad43bab3c20dfe2ceb305f97594bd4f112b716570d744cf6aff4",
+      "equipped-HELMET-vox.png": "4498394973bcc7ed92329fa304309a93098a9d426de619dc0e93df33b6f32e5c",
+      "equipped-HELMET.png": "5ba358a7827b16a2d4d4c378405c59ba7ef6cc95a4d4655700fdbad9d27130eb",
+      "icon.png": "4d798f8cded1544896dc851fa489196d0d13098002e5c87aaced99fadfd76d64",
+      "meta.json": "29bc6b87e9d1590fb69a62b395f7216fddebd46291d522b58265c62940a9b5ae"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/skubhead.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/cargosoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Soft/cargosoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, repaletted for Space Station 14, recolored by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "3ad1ccbd2b33b21e9bfc0bb0dd89e6c19a20027b93632f3c620c4c7b8ddccf4b",
+      "equipped-HELMET.png": "0b96b2288e69c1b136713b85eab8fefceb1344124e77b06ab71265b862cc3880",
+      "flipped-equipped-HELMET-hamster.png": "c5aa3bb40590a60e824aae1a9c0656c44d6238f070fdfdb388d61d036e213177",
+      "flipped-equipped-HELMET.png": "a6bb97e178501b5218da7086a9d3a4e92fed5aa86210a2425fa298a7b89cd8d6",
+      "flipped-inhand-left.png": "3b7b2d3322ea625ed5515a9775d0d75a963ba0c6a841294950a1a5fee71bf570",
+      "flipped-inhand-right.png": "d0602fc7503b83225a31721f85eb8363367664edca4130abe9ed049f6d7db55e",
+      "icon.png": "18631d4d32e992729a19b4698fc45de588a7d63c2df92ba17d61df78282d136d",
+      "icon_flipped.png": "8a3b88e5586e48e44d01e9fd0808b8501bf0fdc64e691ca2420f7ca6f56cb941",
+      "inhand-left.png": "5cd1de531c3d807f986beb113ffa482cedf3a5566d7b84ad2a93e3925c2f3475",
+      "inhand-right.png": "074cc11364099a8e3f698dc733035f65a4d3279d12c3a8bd465d8ab31af3bf56",
+      "meta.json": "df6e501a810f60e2d69bc1f8e2b82863e405199b8675622db957246923999057"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/cargosoft.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Soft/cargosoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Soft/secsoft.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Soft/secsoft.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, Colors tweaked by InfinityRedPanda",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "da31c5c73122be90d5fdc32beb9f495e99202c464f785697265eb8802f0688ed",
+      "flipped-equipped-HELMET.png": "4b6b4233ce43759210e0152df3645a06edfe07a861e9fc2803c92a7f403b8d58",
+      "flipped-inhand-left.png": "c60f08a89c103bad215a7328551582c7ada842fb2183f5fb72da12a4ed5253f0",
+      "flipped-inhand-right.png": "588883a15e838647c1829b5c8853a40d76a1709f2bd075ac7e93b2e7a3a3b97f",
+      "icon.png": "e70fa8d8436b4b9482bbf2accfe3c2d6bb2c2aaf6cdab3c3f79bd83108b30be1",
+      "icon_flipped.png": "57f21b21ff99b475622dca8bf1e699db8e9473209f48f5f4b3426bb19080ddf3",
+      "inhand-left.png": "6bdbd6b5868f5d31d303a28c772fc0950bb312201d828f2f1aa051c6ab99e316",
+      "inhand-right.png": "339d3396162819fdc49fbfef790404962b59780b7196428e56823174001a4efd",
+      "meta.json": "2fcde248ddcbe5d6c59a305e00a9da7b60623ff096ff7eb5de8ee0349018d867"
+    },
+    "replaces": [
+      "Clothing/Head/Soft/secsoft.rsi",
+      "_Lime/Imported/Goob/Clothing/Head/Soft/secsoft.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Head/Welding/welding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Head/Welding/welding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79, vulp masks taken from DeltaV https://github.com/DeltaV-Station/Delta-v/pull/517, hydrakin by @Zethine (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET-hamster.png": "94bc0fe257d9d359d240f56c2a3b210c3822fe214e35674f3c079e8fe5709379",
+      "equipped-HELMET-hydrakin.png": "059f359f7c8c20b2589e93e20103310aaad1ae6efb196688bdc838757d7f98eb",
+      "equipped-HELMET-vox.png": "05b1e611b24e65f5e85dbfbb550154b295df7c0b0d009dd00ef2e1c796fb481a",
+      "equipped-HELMET-vulpkanin.png": "84301cb1568f7d8b92f475c7f88e91ee40698e18d5837ab61b7672b8d08c20c8",
+      "equipped-HELMET.png": "562ed49f45322978f53756b394bc6742fb0d7c5a930096d7a3f84be43d83bd26",
+      "icon-up.png": "b6b8a0525e1f4b6eea820d99f5d262812181593f7caf298a712bcf771bf9a706",
+      "icon.png": "954afe9f7e947336cf8109a7b47f8587e253a07a0da9bfaf4063f1f6fea18cb8",
+      "inhand-left.png": "20cef05706d524372e434543535bb1db2613f530d896edd03f824cec2ce350bb",
+      "inhand-right.png": "8e459748dfe30e7b1a800a43dc54faa6e67bcd9841872009af1e681b7cdc39b8",
+      "meta.json": "5e5fe1c91b349e77e2b2c8a40345c7c700e4ad2a8a613e47a302bb47e534c824",
+      "up-equipped-HELMET-hamster.png": "5a8ffa8fc9bb21f843583a5fa8dbf37cd502e7c4a66d969609a94bd516c9b432",
+      "up-equipped-HELMET-hydrakin.png": "c0dc56546d47ba44f5eba8fa64988a1f2a7db771626725ad3dc9c53977a67f42",
+      "up-equipped-HELMET-vox.png": "b60f28db6704a25f70c4841e4d4ef25cd18ad496ec90869a75a2ed832d56e380",
+      "up-equipped-HELMET-vulpkanin.png": "8083a129c0b8b7034ae012b28c671349975a1dfd1af75662de4dfa3c6b260267",
+      "up-equipped-HELMET.png": "4b30f863ebaa871f9bc719b213aa9e8129a9fc810762c1cda43185aa7145f477",
+      "up-inhand-left.png": "1b29225971979be855b403546487e9d1d8d5335694b50fb00856bbe544d2ee24",
+      "up-inhand-right.png": "4a85d070477e1434f0888e2782d8f85604b16843c4ab4312c783e0732fc50fa0"
+    },
+    "replaces": [
+      "Clothing/Head/Welding/welding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/blushingclown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/blushingclown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/blob/ed466a4c67828b44ddb9d9550366be5c2d745955/icons/obj/clothing/masks.dmi. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-vox.png": "870a16759cf438f0b3a07ebd706ca6878a28d36ce9b53a7bc14fd382ab89b975",
+      "equipped-MASK-vulpkanin.png": "30fef02f6c5c663e6e9c9941d5ac91787841f41995c2d88ade28b13c1b6e56b1",
+      "equipped-MASK.png": "2580cbc9271604a2b1ffe9ccd573fb00bf74f11943aa49e4605963561271465b",
+      "icon.png": "e4249beff819751e3e52316b91cbc74680e679f6cd41cd0acab9bdf080c3a65a",
+      "meta.json": "c7c3ec18b9a3ed154807a29ed7b1ed4d0d0e87d58117999decd7b105209bb62a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/blushingmime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/blushingmime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-vox.png": "7b3e7a47cb24ec90a1d2ab35302639389fb9671ddbc6edf90c82cc4dc7aefcfc",
+      "equipped-MASK-vulpkanin.png": "af730d36930e217d83ec799622a843736936cb4d690e0d932be2675df7165121",
+      "equipped-MASK.png": "70384f10a445951ed37db34dcd2dad114a41263ad4c42aaf44190dd08aefe5f4",
+      "icon.png": "ba90915b550a47ca7abffffa50473fa482072c1c88c5bf1943ce0dc20b146208",
+      "meta.json": "27ce7ed9608a4b885684ce0fd7e5d2e91a29e58abe07952e6b10fb13b500c9f0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/breath.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/breath.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox & up-equipped-MASK-vox state in /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites taken from https://github.com/DeltaV-Station/Delta-v/pull/517.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-cat.png": "fc687728ab1d8fb291e52f794abbc8a20ec51010907ea7dcc7e249a820968d03",
+      "equipped-MASK-dog.png": "c36de0272dda906ce08edc0e74493cefa3d87e4cb03bb20e95f205bb4d066b4d",
+      "equipped-MASK-fox.png": "dee543a2f9cf86c25a4b191a7aad43a975587b4d051b40b192b06fe3437af979",
+      "equipped-MASK-hamster.png": "b06b1be01464c4426d300bdb7240601f4e27df77f15e1b6435f41e3a391e5289",
+      "equipped-MASK-hydrakin.png": "19ab8c775c24b386b3d230f35aabbfc610a29eadb5e5fd421eec1b80c475d39a",
+      "equipped-MASK-kangaroo.png": "dabd0e68576bcf095c47a6177f912424f15773ea854486d41fff8fa816cfb079",
+      "equipped-MASK-pig.png": "023df031e0f1155bb9cb3cfe2d749e4765901265c8fdac1e8da8c24a39d85635",
+      "equipped-MASK-possum.png": "95e1ae3d01260addf1c7b754a2c3280b63d816d89ae3ca3dae9d1ff64d5981be",
+      "equipped-MASK-puppy.png": "1293e6bbfdb1e4ef2c2bee907979d218aef0caa9c09c77d15625f5d63e7c8e3d",
+      "equipped-MASK-reptilian.png": "1c00889c678e3549565776db1ba5c9f2175cf34879d4ef4171ccf29993577d01",
+      "equipped-MASK-sloth.png": "494475060ab7af9401e932eff92b37c83a258db6a1d63328dbc3d33217e29a9e",
+      "equipped-MASK-vox.png": "35577f50441882b3fa10895865d1d331f59da58348b4df2668e1399a317b70ab",
+      "equipped-MASK-vulpkanin.png": "01604a1fac16eda7702831779623649e2e82a6ba26a25f7f6f70b3ac79b2a52f",
+      "equipped-MASK.png": "68510f4c1156f60bd80d889b91882acbf9135391aa166f54efb9519d622b1042",
+      "icon.png": "cfdce69ff9934c05647e979848b599ed6f9da8983a7450510c981cf11e9b8602",
+      "inhand-left.png": "8a5c880446ae4a90486cc8d1837c49a0c6511d7e414a13c06b0a87d3d11b04e0",
+      "inhand-right.png": "8afaaeee8609f354401bf3c527c80d720006ebf06e2769e5aed08ca0e9931671",
+      "meta.json": "c116f16989566deffa626c702784e0979258ee2f2fcaaf13c263f8f10fdf8fba",
+      "up-equipped-MASK-vox.png": "3fb7b31757d08fdf8092febdb2f03502718decffd4486d0822c350eb89ad32e2",
+      "up-equipped-MASK-vulpkanin.png": "fa7281ebe9ba2fea25a5b6532355e7c8f9dd171012d9c25b53e572f61c7f1730",
+      "up-equipped-MASK.png": "0d7c6f57b8c6e748b9a1fb693812879361ab94d9b6ef3f60cd0ae13fed7c15c4"
+    },
+    "replaces": [
+      "Clothing/Mask/breath.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/clown_banana.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/clown_banana.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by KREKS (ss14 discord) for ss14. Reptilian edit by Nairod(Github), vox edit by Flareguy, vulp sprites edited by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hamster.png": "1b7e204de3b05b308a686992f1c87ab9aa26576aab868839bddd9cf4fc793e2b",
+      "equipped-MASK-reptilian.png": "c35a736a4beea905df04151b4fe7f7fbfd0c308fd07b17c1f4a08d17b3b8ab25",
+      "equipped-MASK-vox.png": "1882b181221642e086420bd76dee16d876158c4b8ec53c6cdbe110593be89dbd",
+      "equipped-MASK-vulpkanin.png": "7ef9d1324dbb15f6ab5cd74193bd416d5e1212250bbfc0392b9fc9d98b354bdb",
+      "equipped-MASK.png": "fbdfc7129f6486d9e4b0e876286f6125b73afb68872fd9f2a46743c6a60795ae",
+      "icon.png": "0186a755066cc17ea2a992f069574d618411aba18c866a10d06f66ffc288c868",
+      "inhand-left.png": "496e56bf80946cc37a2a851375d8e1578763159d2161a8ddc37214d9036bdaa2",
+      "inhand-right.png": "7affc87dc72e85b9ece5caf0445e984710baa59df32009ded55d96f7934e1f52",
+      "meta.json": "1805195330aadcb209a4b00e1bd8deaf0cfa4df50580a0ea468f1dd383c85569"
+    },
+    "replaces": [
+      "Clothing/Mask/clown_banana.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/clown_security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/clown_security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified version of clown mask by GoldenCan(github) (Copyright for clown mask: Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and slightly modified by Flareguy), vulp sprites by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hamster.png": "273c62bee691d4a042deb0e963117a4763f96f344304b31e506586ef24e6957a",
+      "equipped-MASK-reptilian.png": "d2f7493e00480c2b7c9089d07e07597e8eb85c53a0190cec4b6904dcdcbbf087",
+      "equipped-MASK-vox.png": "a64ec4fd8cd8e1548f8a89741279558d631b2438e4912325cbae8b82648d757e",
+      "equipped-MASK-vulpkanin.png": "b23ce66c0870e4902ac03c54caf444a816a584996b59080aec4d2e039180e189",
+      "equipped-MASK.png": "81a28ae2976acad65e04382e1a42f9b98cc01b17647ed4bdfcfc08c1a375a0a9",
+      "icon.png": "9ead851da251f8bac36506178dfc98aa871e7eddfce0cae8df56bda29033d550",
+      "inhand-left.png": "b2aecccbff6fcc5f57ed335e0b706796d805abf8848dc001b8aa36f55bfd9807",
+      "inhand-right.png": "22f7d03c80c7b1d6a3083c2fe21626c5f99c6fc444af4b6b55a141b305938ec4",
+      "meta.json": "3f887d0d5482445f10dd3912df048d72092e6a8d51b566f264d95585af91c4d1"
+    },
+    "replaces": [
+      "Clothing/Mask/clown_security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and slightly modified by Flareguy, edited by InfinityRedPanda(github). hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites from https://github.com/DeltaV-Station/Delta-v/pull/517.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-hamster.png": "39c5a2b5c8bc346725b4ab0ca2531455bb2e95dca4bcaf86cd4ea2947229619b",
+      "equipped-MASK-hydrakin.png": "28c903720039e5aedd0d2c9e623d803faacd0242b06a7fdccc347bd1a07b9adb",
+      "equipped-MASK-reptilian.png": "c37bff7e3f73b4a541eb975440ad8607b42b158332dc6e409f94e4589c3e6dec",
+      "equipped-MASK-vox.png": "19715fad972efcad353df5f116d84ead146580bf472c7c5c8bd27dfd4f450a2d",
+      "equipped-MASK-vulpkanin.png": "c82dd4f08fb7cde717dfe17eedeaecee0aebc641de192ed5910d246be491d7cb",
+      "equipped-MASK.png": "8d1aa26edcdc33debb1564e42ac60ac89d39a75edff04e2bcab8576bdcbfe30d",
+      "icon.png": "2391c550325d78bb9393b546401964c431dbaf89809f81b7cc4176a489d02089",
+      "inhand-left.png": "12e8e2eb7abd21d9db0d11c9a4b6017ae456652c7e4c201b3cf2218c5cf47cd6",
+      "inhand-right.png": "a49e5cb956fdcd1fe9b4465ad0cdba79cd0d1d02f34bf678428ed2ef2a9a2a34",
+      "meta.json": "ed7495a72c02b1e47d7d3ecfd75d58b9604cd6419ac6a0c43eaa6039e498fcb7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/gas.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/gas.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and modified by Flareguy. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites from https://github.com/DeltaV-Station/Delta-v/pull/517.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hamster.png": "4abc0b819ab90f091c095aea5249e6bff92aefdc63d1f784cfff70b7091f4091",
+      "equipped-MASK-hydrakin.png": "ef93ca3c1e2ab38c6cb73bc30e99839c213a29982fe68d51ad52b39ec76ebe53",
+      "equipped-MASK-reptilian.png": "b2fb232593ce4cbc818800a8434a8226020b66993a75a40d00d8bab7279f2cb3",
+      "equipped-MASK-vox.png": "5c46563678572ea317176625d19a7b48f44e7913f8f089acd65c94aded387dbd",
+      "equipped-MASK-vulpkanin.png": "18cad7faf7c03ad378ae7ed02e92fe3a10e4e071fdbc6ecce82efd7f732a4be5",
+      "equipped-MASK.png": "5d95c1462791b59b795b016ba8892e87fae41a18eea2aced5bd6963912c1223d",
+      "icon.png": "87e0ef3322725cfde29daca752d8d46030a601adae4e374b8c212b4071d560b4",
+      "inhand-left.png": "baee5994c411a360323855997f31aedd3d190b62bcf83500f7c60d74cc7e4e19",
+      "inhand-right.png": "4c1b13f3c77d7c63a2d28fb820c89b1e521ea7675d5973622f04bbf8b13a04a1",
+      "meta.json": "6a50aaecf2a2774c5964d26a48a59326efe58304c564a3a15164e05012ede031"
+    },
+    "replaces": [
+      "Clothing/Mask/gas.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/gasatmos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/gasatmos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state modified by Flareguy from 'gas-alt' state in /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites taken from https://github.com/DeltaV-Station/Delta-v/pull/517.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "51be2eb65946d92b8e61682bbc0a404c48beb6c81f5929a68b9baae9f5584ba4",
+      "equipped-MASK-reptilian.png": "ad3414d9ab914a3bc0083c00b871fe1843a862ff48b3ae7635c165b2b96b46ad",
+      "equipped-MASK-vox.png": "f5592bde0ecaff8c348265d00fbea576cbaee19dd695bfed21f682eeb8ef0f3c",
+      "equipped-MASK-vulpkanin.png": "98aa1cd2a7d20c6b4ccf29949962dc661b65c0c3dfe3e6731553a53c83e84446",
+      "equipped-MASK.png": "a9e2ef84342ea3d53f8c92bc3dc41e7958aaa84c3ea9278b576afc150d5db7bd",
+      "icon.png": "3dd490aec0575d0d836f8141e5d29e2d43d5fd1c661299f430c8207c9f75f8cb",
+      "inhand-left.png": "5e5fb4938f0dddab6a50af5a68ba26d520453847e59646f8e7cad314bde34bc7",
+      "inhand-right.png": "4e28b7263ba78c7826dc8af3e999e2dae3ba6925fed2b28188cb02019745d252",
+      "meta.json": "63552daf10bc5ba8c06ba54cb659f335963b2893e4329e03d434eed2210a9a08"
+    },
+    "replaces": [
+      "Clothing/Mask/gasatmos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/gascaptain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/gascaptain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, remade by 𝚆𝚊𝚛𝚝𝚊𝚐𝚕𝚎𝚡#0912. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from 'gas-alt' state in /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e, and modified by Flareguy. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "0651c6be46f7f293c035cd8e5dcbc4f48d46e7d8b25df78e294b568256ce2a1b",
+      "equipped-MASK-reptilian.png": "cc1128b59334bce9498b4f74ca85f0db7bd508085ef980b15f278b1f3b35af06",
+      "equipped-MASK-vox.png": "43a96d0743022119a766b044a458b76d6d432d4f841bef9d5b9946bd2cf531b3",
+      "equipped-MASK-vulpkanin.png": "9b9a0e9831749fc9f69cf0753d1beb2d5c0fc20deed3d2a1b53dbd8bf1617784",
+      "equipped-MASK.png": "66e711b4c3a4675da95974ccaa7b7d6a3c3ee73a87f1d8795fadbcaacb8572bd",
+      "icon.png": "99f1a5513d2cc24c02a1560c35aea82e99cb2a84c455f62cf6fc56a8700935e6",
+      "inhand-left.png": "90b8968958aad433048c1c0bef5c412461965439a5aabe3b4c705b184f5586da",
+      "inhand-right.png": "a7017c4a8417ac03c72efb67472d54602e6dae122c3b95076df73ab89311fcd0",
+      "meta.json": "a5643235f91a98b2365b49de4831587f18a1ff1467f7801f357700d8c378e407"
+    },
+    "replaces": [
+      "Clothing/Mask/gascaptain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/gascentcom.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/gascentcom.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and modified by Flareguy. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "94c50cd5a1462d29b558054351ccf70d6697e1a82003c37346d1eba7ca77c171",
+      "equipped-MASK-reptilian.png": "e46d9c1c6507bb988f7570865df135cc1caa6b6a6368c09e26d65beef17f2988",
+      "equipped-MASK-vox.png": "b9e2aa881cbd01d83d809b373e933621751ac702964eb04a12b93e89ac590ac8",
+      "equipped-MASK-vulpkanin.png": "9d383829c72a598e56ec40e4d267b519863af95dd5acd37ed31aace23a0c9f7a",
+      "equipped-MASK.png": "3e45c3c98808a09b36167d7fe4b1323461b178ec95ab2a26334c5c084c076a51",
+      "icon.png": "2ebf3cf4e00431223609bef54b959e8b3f8cc14c6315842785ff4583a9810e8c",
+      "inhand-left.png": "fffe99f25d0ecdf61f4a2f7c6eb8eae5b9016eb121946785f72c9d0681e967a9",
+      "inhand-right.png": "f8f64004258c2b85cc55432e8b7070161b76a284d80ebe7305902ff65179a9d8",
+      "meta.json": "53c7cafa518eafadd18bce0322e99866cf6670e4cb000f11fc8393db3f47c082"
+    },
+    "replaces": [
+      "Clothing/Mask/gascentcom.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/gasexplorer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/gasexplorer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). Vox state by Flareguy for SS14 | vulpkanin version edited by Floofers | Vox unequipped by MissKay1994(Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "f78a262a95376a106d66999ea4c8064c6928bf83d4c01b749b1d527b07f912b7",
+      "equipped-MASK-reptilian.png": "addffc6b68a66b6431348f559549f0d4b20cc8ca7fb64b269a4091f15e1e15d1",
+      "equipped-MASK-vox.png": "3526c85e3601a1a58e48745933953b57acf625dc4fa8e31402bb817e20043843",
+      "equipped-MASK-vulpkanin.png": "8033f85abf84a97c02bd47de36aa4b571307b68917059153560db772a31d660d",
+      "equipped-MASK.png": "a410b46d800547fdff1fdaf5b4a4fc92927c21b84870927663e1a5368b80759d",
+      "icon.png": "461fe7abcbee9bdd56618a483c4d4cec41542ac0eb5e1971dd4466a087ebf34f",
+      "inhand-left.png": "e678478ce4eb2d2dd88845c22bd4a4583ae0eb55de0e12e358d533a447a93392",
+      "inhand-right.png": "4c1b13f3c77d7c63a2d28fb820c89b1e521ea7675d5973622f04bbf8b13a04a1",
+      "meta.json": "49b1665dd8f05b7df4e3d08de0fafc5e09b45aba9928f6faec690a30d07f03a0",
+      "up-equipped-MASK-vox.png": "006b3d20902513b1a27222893f5d43a0e87edf90756824ad9eed8cbf6c4a904b",
+      "up-equipped-MASK.png": "252639d8516e204056839f853d41caca4b691ee48614c5a3a4ba816a8adf9f87"
+    },
+    "replaces": [
+      "Clothing/Mask/gasexplorer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/gassecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/gassecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox & up-equipped-MASK-vox states taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/bc095ad398790a2b718b2bab4f2157cdd80a51da/icons/mob/clothing/species/vox/mask.dmi. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "a3b4d95193f35be958653aac9cb016d52beb60dca3853642f83918ca2ff0905c",
+      "equipped-MASK-reptilian.png": "b15d496f82cbb97591bb20c4bd42eded77d0d2240bc1444d0864696b97e79339",
+      "equipped-MASK-vox.png": "07dabddee5c7b9b72fee809f5b751a87b88e2d589974249ed395196270b7fe16",
+      "equipped-MASK-vulpkanin.png": "2b55e5f84ca193ff35b3f70edbb75a84dd4cc2982fe92cb81e4022085425d8a8",
+      "equipped-MASK.png": "329b1764b56e942f900d21b3d5c8acbd34087b41016a8c30c3f0a39e022249a4",
+      "icon.png": "b9c323c82d02aec670d8b1c2e89c7f7b7b0e0275e9105ba9afcf19f8ec069a09",
+      "inhand-left.png": "44552b5fd8bafd8f8b180c9f16dcae67a4acdb7ba8f039840424e4308589aca5",
+      "inhand-right.png": "afc9a244ba80eeedd9d2a97317aedde8e8ccaf216959c22c92c401bb9603d9bb",
+      "meta.json": "ab6216d69fae55ef5230fa1f6c2cc484e30cd0ce45d9e058f5e766e0d0372be0",
+      "up-equipped-MASK-vox.png": "f8cf5b9609ed257f2ec629a64b3fd1f8b6c8fc4d347070f94a241322e8313b59",
+      "up-equipped-MASK.png": "361d07c677d0bfddee076114b4dbeac1f767c4c187b35b42468f83be869c9919"
+    },
+    "replaces": [
+      "Clothing/Mask/gassecurity.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/goldenmask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/goldenmask.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/vgstation-coders/vgstation13/blob/HEAD/icons/obj/clothing/masks.dmi. Vox and Reptilian edits by EmoGarbage404 (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-vox.png": "393177d585639af633231f27ee105e425bba8169cce99f54ba5c7f69847eeab3",
+      "equipped-MASK-vulpkanin.png": "29090b340d8e751dac03ec0ab4bbee8ca64a15c6b21fa5200a4b2fdbf190c6b0",
+      "equipped-MASK.png": "5f04af8b37294b9dbd00aaff520c5ff06b63e6867ee49612ee8420a1d4dcdae2",
+      "icon-anger.png": "e4a313a31c157935f773372028e1149e452f3ef9e7c544588edaeb91816a5b7d",
+      "icon-despair.png": "f775870f4127d6bc9c44ffc16ebf3cf2ddc319cbd65e22c3de60f3adda546a14",
+      "icon-joy.png": "aa86deda87532ec0db82028b4549ae285a132653ac6e6ae51f3bb82cdf5ccd5e",
+      "icon.png": "7be018ded40aab57d7ef349dc3c6f39e94c805fadb2763f946381753953f4051",
+      "inhand-left.png": "023c019f7b9029ac20dcf6d5645d400bbf32128846461e75add8bc1440abb0fe",
+      "inhand-right.png": "1289f8283298400c482d4d2e7d72c7e3005a2290bcd3db2e0cd5f9efc164525a",
+      "meta.json": "b7f23fabcfd992c0bf8f1db1e770f4c6598c55bb16d669c6d1ea9c04cdb4ccfc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/italian_moustache.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/italian_moustache.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae. equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "a5b4e79cb2d676279f2020ecc1cd1e3c6946086d13b0c74adbe49cd529c8759d",
+      "equipped-MASK-vox.png": "c2a6def238af67bf563cb45373243c9ca4d8d8a193125a025ba4cfa840ef0f40",
+      "equipped-MASK-vulpkanin.png": "0439e98169848d34f387e0f19ddf4706abc905b0bcb2d18ba265d1391bb83071",
+      "equipped-MASK.png": "a41b48ff56adf53301d9850b1b99ebe086d24198302c916b5d236dd06c372500",
+      "icon.png": "5f87b5ee68f3867680e63ea509bb5090291e433bf6d2edb8a5319f9790783973",
+      "inhand-left.png": "771c986c54b3db0494965cb933a439764755f4293b03e5eb2a7e0f46feb80809",
+      "inhand-right.png": "a4f0ff3b9c6ec5d5ef2410ee1ca0f3cdcc6e15e6e6591d0c6b0b3956665ab64e",
+      "meta.json": "bfc0c45ab3d3bffb584816a186f0f0b17d7d570be1a39787440918536e1a34eb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox & up-equipped-MASK-vox states taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-cat.png": "c38b4d9aed7c7c248e05e8ae4c3d9fcf449d0b144b1477f5222af81b427e498b",
+      "equipped-MASK-dog.png": "c36de0272dda906ce08edc0e74493cefa3d87e4cb03bb20e95f205bb4d066b4d",
+      "equipped-MASK-fox.png": "ef2c88e2f5f7591766814c2d8a36c1dfc64f44a3babf59f6d2fcb4ab39280ce9",
+      "equipped-MASK-hamster.png": "4a4fadd5b4cda2c7eef1de53f7de8bd23e35f5f4812c86d0e58227ae0585c89f",
+      "equipped-MASK-hydrakin.png": "ea37fd9b53f08754a58fda4223865dbd25106cb4d431571a592894cff2b8ad94",
+      "equipped-MASK-kangaroo.png": "dabd0e68576bcf095c47a6177f912424f15773ea854486d41fff8fa816cfb079",
+      "equipped-MASK-pig.png": "023df031e0f1155bb9cb3cfe2d749e4765901265c8fdac1e8da8c24a39d85635",
+      "equipped-MASK-possum.png": "6750374e52e5533e8a91702bbd20ff98d1196ccef6576887d47116cdd737b1da",
+      "equipped-MASK-puppy.png": "1293e6bbfdb1e4ef2c2bee907979d218aef0caa9c09c77d15625f5d63e7c8e3d",
+      "equipped-MASK-reptilian.png": "3d22766f118ca99bc703c52c8f951e1b91374f0b85f51eb017cc5990909cb612",
+      "equipped-MASK-sloth.png": "4360227ef85f35f333e92b350cc99ea683dd710eb21bc0c9080e38fd6137744a",
+      "equipped-MASK-vox.png": "06a8cdb451ef49fd9fcf97c0b1d7ba8abb4da24c773791908ea4e66e9ca73a59",
+      "equipped-MASK-vulpkanin.png": "b6e8576d9bd56a4291fe7e437831497913d5d0277970e9d5dbfefbf54acaece6",
+      "equipped-MASK.png": "dfbc13e007a4f2a755de42a4b5c941ca0115db0da72c006869bf8bb659618416",
+      "icon.png": "f787f12a923ee35ecc2b90c04e7cd7d2b3ba8af8107154ae1176a2f68e4c407f",
+      "inhand-left.png": "8a5c880446ae4a90486cc8d1837c49a0c6511d7e414a13c06b0a87d3d11b04e0",
+      "inhand-right.png": "8afaaeee8609f354401bf3c527c80d720006ebf06e2769e5aed08ca0e9931671",
+      "meta.json": "ba5feb73a22e9217bc20bcc3dae641a3cbb77584ecd7ab30053531fc3bf1557c",
+      "up-equipped-MASK-vox.png": "78c8024df6236aa55ea3016778bdda1460b87e33a63a2e7d884b13a4e1f844a2",
+      "up-equipped-MASK-vulpkanin.png": "31235ed9e45755ad34c6b84bb73b5202f37f2bbeae5713f44036b0c562fb1b7c",
+      "up-equipped-MASK.png": "75e20f57d3c91f9a6618e484dc54acce3b665ed277099700be2c61b16ac1c4ae"
+    },
+    "replaces": [
+      "Clothing/Mask/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/medicalsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/medicalsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by LinkUyx#6557. Reptilian edit by Nairod(Github). hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-cat.png": "15190167e665146e50a6b36a0b67fe859fc7ec77cf05148ce99dd1bc2f8b410b",
+      "equipped-MASK-dog.png": "9df7cd10d335791d7dd9f722616b3827ce587de08c837970733b3a10b4ba3d2f",
+      "equipped-MASK-fox.png": "3fbb6c5ce701a0a7432676cbc41649066dbe1b4214a0dd23eb3ab2d31e857146",
+      "equipped-MASK-hydrakin.png": "a955c10eac6a3b51c28af739ab9bd3d09b9f1288bdc83591e3037407614c8d96",
+      "equipped-MASK-pig.png": "36aed62aca6c7c3ebb2efcfe3dfb55e2458f74f37a69c4311a0a5bb61d7b620c",
+      "equipped-MASK-possum.png": "fff4a16b71bf1756a74cff8c72393640b203c0b17e43859cbca00d7a8ebc5561",
+      "equipped-MASK-puppy.png": "f254868bb8808e476e3cf9daefb5580577ed80808fcb1b335b4989ff56a3e3e4",
+      "equipped-MASK-reptilian.png": "1bee189d0ba2e26c1f2ac939cae675fc4854949a8e73a406cc219868d45e8def",
+      "equipped-MASK-sloth.png": "3ca0c73dedf9a8a54aa316541d1f670f149c397586b2ce4b0e74a1bdced18c22",
+      "equipped-MASK-vulpkanin.png": "01604a1fac16eda7702831779623649e2e82a6ba26a25f7f6f70b3ac79b2a52f",
+      "equipped-MASK.png": "3bbc29689101885e05849baea1473f78c3016d2c2ac39bdfba96ed2882458a2d",
+      "icon.png": "0247f2558db084441034533ae644ebef5f89268e3e899666ebefa6c771b8ffe8",
+      "inhand-left.png": "765106466f0584747757508b85a63c8278efeb426200d241fbbfc9b0d35da0fb",
+      "inhand-right.png": "a8e9e76d0c0c5a4832dff69a582f2eb154db6c2031ca5f6ed492e73fd1423c20",
+      "meta.json": "495ed57e2f725cd61c7811c70eed901f90715139ce084a0856028b60ab7b6944",
+      "up-equipped-MASK-vulpkanin.png": "fa7281ebe9ba2fea25a5b6532355e7c8f9dd171012d9c25b53e572f61c7f1730",
+      "up-equipped-MASK.png": "1078ba57db880c5b7dee2f313167159b1b20e85cbe8c4f78f83c5dba6633ad7d"
+    },
+    "replaces": [
+      "Clothing/Mask/medicalsecurity.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/merc.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/merc.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "modified sprite from Jackal298 based on the sprite from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github), equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and modified to look like mercenary gas mask by Flareguy. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "dcb9f00b0ced177ef17a4a05d30d0cd912a1b2dd8210ba9ace64f8106fb522e3",
+      "equipped-MASK-reptilian.png": "291505e9f72ba51e8c03edc1a73538e8489ad037a8633fed0479cda04f63a3b0",
+      "equipped-MASK-vox.png": "c59056675858d67e211c8e3171d00b0b93f6a855f2d2f3d80804d20febf5fb03",
+      "equipped-MASK-vulpkanin.png": "950affe6711955555a030454d5d5f542fbbeb46bb51a781dbe70b7b24b955d3f",
+      "equipped-MASK.png": "920c10d4cb2e304103a954957edd9da5a9760d7bd61465914b82dcdb5ec8ee71",
+      "icon.png": "570c63c087feda980bb96858b210badd793d489cafb5a525286418337474df92",
+      "inhand-left.png": "a2f053b45c850fb61fe83dfc02501f3228ce3c9544f160b06a7d70d404beabc6",
+      "inhand-right.png": "a46ca551d0f47d7da37ca03841d7f9a73e6e85f50b5a9f59e0b0584f6ff80ff0",
+      "meta.json": "1fb6b23ef8d877700c27d72322dba5d87d1557363fe717cc9b10a01d87326f06"
+    },
+    "replaces": [
+      "Clothing/Mask/merc.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/muzzle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/muzzle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "5357982af1dd4a768b2ea82814e54eb0d1f54b62843a3efa339acd74e1481c7f",
+      "equipped-MASK-reptilian.png": "8d6bab62db3195749a1ed75d6e9b6de0d8ebe090ca5719248e1dab91490ca8d4",
+      "equipped-MASK-vox.png": "c2cb7f335b09d4d757e94c405259138dab977b7ed98ac4ec2f51ac0bb2a7cbdf",
+      "equipped-MASK-vulpkanin.png": "455cc3702606f76be69afbebdea34c1500a0890fbf4ceabbc71d294866f1d4b8",
+      "equipped-MASK.png": "4a8bd4d5ea8e81b01626e3757433624bc6733c9a0498c4ac3efb51f5b93fe496",
+      "icon.png": "3171e3f91847c84503dc64485188ffa86d65cbd9a45d2396d9e95d65e3272274",
+      "inhand-left.png": "771c986c54b3db0494965cb933a439764755f4293b03e5eb2a7e0f46feb80809",
+      "inhand-right.png": "a4f0ff3b9c6ec5d5ef2410ee1ca0f3cdcc6e15e6e6591d0c6b0b3956665ab64e",
+      "meta.json": "4fcc0d1e758777f891759cad495661439a5d2b0c2fb855ff025304b3b143aef7"
+    },
+    "replaces": [
+      "Clothing/Mask/muzzle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/neckgaiter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/neckgaiter.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by belay5 (Discord) | equipped-MASK-vox sprited by PuroSlavKing (Github) | hydrakin sprite by Zethine / @synthetic_086 (discord) |  equipped-EYES-resomi modified from equipped-EYES by Huaqas (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "88d9be18f149d66df1b7940babd40c1cab233ef1a15d612d3a753dc39fe7f69a",
+      "equipped-MASK-reptilian.png": "3398fc33cd6e099a78d9999a2618e031ca9c584ca562a4d3db2579fb5b86b673",
+      "equipped-MASK-resomi.png": "ac83fa535f0cbb6e8b8dd4dd2caaa0cfd4e6f2dc5d31bdade00c2c36310bf8f5",
+      "equipped-MASK-vox.png": "853dae779c635090f7a60ef13c6ad6a190fc50dc41a65d3b011a19a8102b045d",
+      "equipped-MASK-vulpkanin.png": "c4ea3654e953776ff511e8b4f163ba1bc6c9f6c8f41eb9ba814d3375d9c26cda",
+      "equipped-MASK.png": "96f24242e2b79a6af3d4b77311775205e3785d7c5315d55af393aaca41ad0af7",
+      "icon.png": "51d601f7c295ecd54263bd6d8266b250c8dab2d77bc6ba9d375470056183fdc5",
+      "inhand-left.png": "8e24fdbf4e9546d23365bf0ca13b79e107b66ce0bfc4ced73c1794a0d4945a09",
+      "inhand-right.png": "241d5b11caa85da5877724939c0819849fcc4edf23b84789fdcc9dcaf40de6a9",
+      "meta.json": "94227d7ffe4e3d236344075bce60e4c091a1bdeaa5c95ea7161fcb582a64da08"
+    },
+    "replaces": [
+      "Clothing/Mask/neckgaiter.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/neckgaiterred.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/neckgaiterred.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Originally sprited by belay5 (Discord) then recolored by Nairod (Github). equipped-MASK-vox sprited by PuroSlavKing (Github) and recolored by Flareguy, equipped-EYES-resomi modified from equipped-EYES by Huaqas (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-reptilian.png": "959be67c3460810c17f983321796241eac73cd20773a084a657576d9c046d3ef",
+      "equipped-MASK-resomi.png": "e90abd5ea35c61d580c2ef51c8d8ae0343d247ba82651534c6a4ebd6f61e348c",
+      "equipped-MASK-vox.png": "142f875f7760c5c1c6f34d35173593ce4b8939fbc19a9980556879b47c48e41f",
+      "equipped-MASK-vulpkanin.png": "95b582c7440bdce3ce1f64d1c3fbd9ac2c0b0efc712e41a6f3c744315b706fa9",
+      "equipped-MASK.png": "9d70437cf04047b196c83f8f9078d2ded0332fc07d7a31a0d4e1e972f8a52fc7",
+      "icon.png": "91b46328e4c1d2bc2d8418fd9e98b7f6cccf843ca6c7de8ee340cbba1f8ac832",
+      "inhand-left.png": "b19cbd1dedc2f207b97a4acf2a233f996f39a7c8f6b620b58ddf6e2d7dd21ce5",
+      "inhand-right.png": "5269af37d1270cb2462b1d992ce749736720bf278dfd24e2332d07cc4e4ea961",
+      "meta.json": "d1fa85d42724dc9365307fc1b6b7ca64b1f3189bbac58260210898fb0b41db42"
+    },
+    "replaces": [
+      "Clothing/Mask/neckgaiterred.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/ninja.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/ninja.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise at commit https://github.com/ParadiseSS13/Paradise/commit/33f7c1ef477fa67db5dda48078b469ab59aa7997. equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "48e700bed5f0388d38ffc57ff4e1a327602e9b45a47e84ba051cfb80a51b8f93",
+      "equipped-MASK-vox.png": "a4de55a1fb005bf1eaf37793ce522571b869e1391fa29bf84706150c5d568377",
+      "equipped-MASK-vulpkanin.png": "4fcc74cc16a8f114f7bb2f73f995ff9448782f0b1b1dc73507f94b1547472611",
+      "equipped-MASK.png": "5711944de196a85b8b7f2c4768b9235d64c69fe5b4146279438086e19ba3421f",
+      "icon.png": "2e4d36cb4463fb7a38dc96911f5aabceb7e988f5349ac3d668b040ec9fe0268a",
+      "inhand-left.png": "0736a4b78c7f54869bd93178eac1ed38753834750a9fe0d3cb75eabd58d1f8ba",
+      "inhand-right.png": "23d67d1b27106602d0724682aa918449e80e7038cc1cc9c5de36cb22c6bccc13",
+      "meta.json": "e61a26faaddf43077591ee17f93a96ef1760de0c49d6cdcaf2c4e1fd710a6c85"
+    },
+    "replaces": [
+      "Clothing/Mask/ninja.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/plaguedoctormask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/plaguedoctormask.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGstation github https://github.com/tgstation/tgstation/commit/e89db4dd4f42377b0adafb06806a763314a89034 , edited by Alekshhh. equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-vox.png": "db64ee9de36866fedfa52b294d36dc404fbd43d6be0cde4ed876b1abc7942a1e",
+      "equipped-MASK-vulpkanin.png": "da6547485d453307a2c953e0e4f5f45b122794a567069c5ed819d77248857a54",
+      "equipped-MASK.png": "02f642607c500f0225de593ca81bcfed73126842328ceb82c3f58dc3483fb684",
+      "icon.png": "fc4a059fa3771f4c70ae735e5c75949f7cc25e1206db23ad8903e64c188feb04",
+      "inhand-left.png": "b1437ec5cfb648fc759c7eedf4574b403fd0ba1c367852e887f95794ca07bddf",
+      "inhand-right.png": "8fecf0535bb6e9164a8b0593ee892429c98ac2dc917c8886c56418655af1146b",
+      "meta.json": "341532a02bcb6ed7a47fbde449cf29ebf8b77cf995dedaef9fc78a8c6bb5256e"
+    },
+    "replaces": [
+      "Clothing/Mask/plaguedoctormask.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/sadmime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/sadmime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/harmonyn/-tg-station/blob/11043a07f6136d3d196b0378c31deb3dc1a9532f/icons/obj/clothing/masks.dmi. Reptilian edit by Nairod(Github).Vox edit by foboscheshir (github). hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "315b7f3dfb2396824ab8ca9d1b4125f1f2ab6648ad42045b9a6da13ee4e6c305",
+      "equipped-MASK-reptilian.png": "4d60e7a66d0039006883d6e71301389ba2e804d383c4ef4c2ccc6e218862e01d",
+      "equipped-MASK-vox.png": "166c1111c320d16776b22af3a0fe724c3f3a8667bc755011b104b4495eb98a12",
+      "equipped-MASK-vulpkanin.png": "21bc89256d13afe1040720983e908e22ec0d2d6ec76a6810335c693a7405642a",
+      "equipped-MASK.png": "c268bc0b6310a73ceeeabaca96edd78f6be8c9942f51bf3039c3672fc2c5c0a5",
+      "icon.png": "f491e5536af957670b2ce2616a67d300909f5585913076e98526d8ebc591fb0e",
+      "meta.json": "399801efc0175b47a083af65d8c2527a9380c2c492c2e8e2569e3ae379a8a5aa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/scaredmime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/scaredmime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/harmonyn/-tg-station/blob/11043a07f6136d3d196b0378c31deb3dc1a9532f/icons/obj/clothing/masks.dmi. Reptilian edit by Nairod(Github). . Vox edit by foboscheshir (github). hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "315b7f3dfb2396824ab8ca9d1b4125f1f2ab6648ad42045b9a6da13ee4e6c305",
+      "equipped-MASK-reptilian.png": "c56e29154bfb45b995e99641a9320118500e1a224f33b1e8d983f61e3cbcb9b4",
+      "equipped-MASK-vox.png": "b8e3f5058654fca895a093880336185ecdfcec6be9d91e30b1e4099590400fa0",
+      "equipped-MASK-vulpkanin.png": "21bc89256d13afe1040720983e908e22ec0d2d6ec76a6810335c693a7405642a",
+      "equipped-MASK.png": "ab8c253f46abd01862957f3acb0f806286301b5ac8e82a2159d9af690ad1b7dc",
+      "icon.png": "00a3100d595f02dde8c77aabb8401cb56168483639b220562c81ea11fd8cdd05",
+      "meta.json": "16f31c86a67aa316ffd660f020f5303c0b041acb78a0abe5b2d75238a7157b21"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/squadron.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/squadron.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Nimfar11 (GitHub) for Space Station 14. Reptilian edit by Nairod(Github), vox edit by Flareguy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-reptilian.png": "a1414e4cf58aff675a5b9722a3707800c708f5bbd991fe9d023cb191b3617168",
+      "equipped-MASK-vox.png": "d8e74a98cd5d8b74a6cdbe6e25b820a473ca762eeca2a9d52fd9bb509e9b57a7",
+      "equipped-MASK-vulpkanin.png": "97aa2eba55d60cffa99dda8b7e4ed9730f4839e3cd7ff5438e77eab1207f7ee6",
+      "equipped-MASK.png": "2bcce9b4df03c8c9484f6a4c5d60e9e2c24d459d7bd68a002394ba3717131b0d",
+      "icon.png": "5ea23d392ea27468f4b89fa4f0dd721b959df7e004931913641aba40d3c0233d",
+      "inhand-left.png": "c33b1db2ecf901d55126f19b7924e8cc57c126fa1890eae4f79870f2b27b5561",
+      "inhand-right.png": "380a0739ed09afb88bdc4102aff56f662263406fef1727ef298655fbf4114e50",
+      "meta.json": "bb9d6bd8fd7908284e3f4dbda25149339221a0178fc963c5807d9c0024c6a29f"
+    },
+    "replaces": [
+      "Clothing/Mask/squadron.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/sterile.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/sterile.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/blob/ed466a4c67828b44ddb9d9550366be5c2d745955/icons/obj/clothing/masks.dmi. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e. hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "092111ada0bc67a545b68b2a5dad261026884e7592faa0a108581d8561ba25ef",
+      "equipped-MASK-reptilian.png": "14bf58d845eb8d9d8b477cabde2362a68d7f3eb175e749ee78b0ff4c7de4a44d",
+      "equipped-MASK-vox.png": "2ec508381c615f196d7f90dce1aad4edaf14ade50e1f81098eb025d13af13c0d",
+      "equipped-MASK-vulpkanin.png": "be83dcbcee42a8a97dc11e5430172ac34eca886375c5284e491168f84c0abfbb",
+      "equipped-MASK.png": "602beab674775c5a20177d4dbc67d4015dee8985a1c61ca923fa15541aae7596",
+      "icon.png": "a77d13d91f0c13aacca269c3d535f72c5d3a71b50b70fd5b567d5807a6c6e0cc",
+      "inhand-left.png": "d1c9cf2ffe59aba1d150c66fff74a7701d352f82388f0c2f59f1024f001fe02f",
+      "inhand-right.png": "cfe3e7fd7a31cf7547b358662cc4e3d402bfdff2afdae31e3aa0b8eb075fd5d5",
+      "meta.json": "f129294cb4091e255d3460238d225a51939e611091bb10a5aca63458182df63a",
+      "up-equipped-MASK-vox.png": "3fb7b31757d08fdf8092febdb2f03502718decffd4486d0822c350eb89ad32e2",
+      "up-equipped-MASK-vulpkanin.png": "7060dba7ddebd17b54f6cd7ad794a37f31b48ccf93dadc019b2c789fc3b77ae4",
+      "up-equipped-MASK.png": "651ff0c6c892d91e93c55374fb897514c884ec78f3b94dc55645d86a6c574c49"
+    },
+    "replaces": [
+      "Clothing/Mask/sterile.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/swat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/swat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/RemieRichards/-tg-station/blob/f8c05e21694cd3cb703e40edc5cfc375017944b1/icons/obj/clothing/masks.dmi. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/bc095ad398790a2b718b2bab4f2157cdd80a51da/icons/mob/clothing/species/vox/mask.dmi. hydrakin sprite by Zethine / @synthetic_086 (discord), vulp sprites taken from https://github.com/DeltaV-Station/Delta-v/pull/517.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "cec8dd3ea196c0ca61cf31ff43e669bedd86d20b16c41d007b645aae27c9abe0",
+      "equipped-MASK-reptilian.png": "b9d82e8e8b4a55146d49c36856b1ef0245a23872ce37a3aad94f2bc1144a5168",
+      "equipped-MASK-vox.png": "ba5f58e7aab668d45552afb211af143a6c36a9263e830cb046f39d172a06c7be",
+      "equipped-MASK-vulpkanin.png": "3324680da6e45e00fd4bde45fb63657626afe821094da9f46ad02cc71a4f070c",
+      "equipped-MASK.png": "14c1d28871472e9f1a23e93c1be7d3ac48c4443ac037462ef16d00cf5ef3abe1",
+      "icon.png": "9ecc714f84d4a0f1cab58a0a3034bd8342f6eb73088a342d7cde7ebc04b8c031",
+      "inhand-left.png": "2108dac36a9929f866542619f844c0cdb69127f0603ba2da3f68c4d4d72691dc",
+      "inhand-right.png": "5230f930afc23d322f396560ab92b7377ca92e2d377f78192eb4cf062f10b19d",
+      "meta.json": "475ee14c168eef089d8db56cf7f87c51aee8cc82ef143494c113c24c1db53509"
+    },
+    "replaces": [
+      "Clothing/Mask/swat.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Mask/welding-gas.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Mask/welding-gas.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/6f5ca45e3ac06b30fb1957042214a888d8c01722. Inhands, worn sprites, and vox sprites created by EmoGarbage404 (github). hydrakin sprite by Zethine / @synthetic_086 (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK-hydrakin.png": "a7e0a7554c9483f542e9a33a83756917ab1cd9240f291006be46ab03a1951789",
+      "equipped-MASK-vox.png": "96f0ac8ff137a5953b13906ed424dc71acb4154373b98ee2e581767b674aa2d5",
+      "equipped-MASK-vulpkanin.png": "17d9688f59dec4033fab3e3ef097ba4498db499812f90fbc5c5d3037c216c2ab",
+      "equipped-MASK.png": "e73a892001b8502ca6f6a8b070f7dd109a9b7bb81b2d7ec04e9d526f994110b6",
+      "icon-up.png": "75cd06a436156f185289302f311ee4459c19b2e8b763e79299ac7dff0a63cf9c",
+      "icon.png": "f5b650d25230b0ce890e8c8419ab75ed40219524adcb40ef9886a40481d3c1f2",
+      "inhand-left.png": "40d9d44b569ca6e3dd9f22cb21eb1339e4821d6341ca1b6a22df5dbf5368d675",
+      "inhand-right.png": "5e8cc06e2f6049cacc06162fd4cefd7d32a545fea1eeb005e812cf6f386f971e",
+      "meta.json": "2f69b5e27db546efd7305c544329c549dcbac3e7d944fb33bdecc820ff368ddc",
+      "up-equipped-MASK-vox.png": "4ccfd2712aa51ecc3329b25cc217daf2e24ef3115785f4c1652278a92e1fd37a",
+      "up-equipped-MASK-vulpkanin.png": "6b8a291ac389fd710fbd88b09f56bc50382a04ab127027aea06bbe3e1ba3fce9",
+      "up-equipped-MASK.png": "268e1defda722490c1c0b088eaa24a70abe6c95f706e74399b3bb178c6a6ba67",
+      "up-inhand-left.png": "fcbd84790abd30c293a9bf2a6e36caa9092dd9d6ebaa44e8cde58b32b01dfcfc",
+      "up-inhand-right.png": "df5f84df5ae701ccde2751c4972db22d8f575cac1847214815d3f94d3e07f182"
+    },
+    "replaces": [
+      "Clothing/Mask/welding-gas.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/cap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, colors edited by Skarletto (github), recolored by infinityPandaRed",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "8fb3cc92729428dfd60dc10beddb3bc05da089b97920973b596e898d8fd7724c",
+      "icon.png": "43d5e9b1d53d7484f8d9f982db7e2e498ade80693bf28f3d1bfe752014a97a09",
+      "inhand-left.png": "6796c44c1d6b1eebf1061bb51f4cf9172d613deb5df279cebdd427feaed7bab9",
+      "inhand-right.png": "b3cdff3fde86a47b1192ac794ec5d3f9adfe131d80e82cc2ba7c9ebdab8912b8",
+      "meta.json": "a5192adc7d38da43b4c9443b5ea08c506ca239e265063274b709525cc3310d20"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/cap.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/Cloaks/cap.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/capcloakformal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/capcloakformal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/pull/62603 which was taken from bee station. Bee station does not have a history on the cloaks on their github, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875 , colors edited by Skarletto (github), edited by Emisse for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "e55e85a05e323417479048c6390211e3e53c130ce13e9c46def73da74a0e7f64",
+      "icon.png": "b5e6b7833cf918c989b236577ed8dd9ecbfcc326a556fb898618faa8ee5db517",
+      "inhand-left.png": "5760b432740c3ba1c005f599731829c280de89d213412b3ff40e14c4c38f1e35",
+      "inhand-right.png": "ee584d8af034dce00b557ef304a062f192b0f4a551bcc5eeb0891c0aa1e1d48d",
+      "meta.json": "2a8e7a231efd447f3e212ddf022477a08a7558843b5a02e642e30075a2cb1403"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/capcloakformal.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/Cloaks/capcloakformal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/hop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/hop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, sprites updated by JORJ949",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "02f9c5ee105de1dce82b8bdc46e475e87753959c0d4fb9606e3fdc63c9fb3b60",
+      "icon.png": "c431715876acd893fa2dc575b2498326817407ef8d9a6c5b5f872c395d619e40",
+      "inhand-left.png": "cbfcd4984d5768b60b99417579053888bfa1aac553220a50db567ba65ed51f1c",
+      "inhand-right.png": "4f97aa8e85d5768b1c758a371277a1d2633871787e3e93208fc6494a05336acf",
+      "meta.json": "19b905453af7a06ad23c0a428b353ca4e4ad3a721d75f2616aa8e4a7c34a4f5f"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/hop.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/Cloaks/hop.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Cloaks/hos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Cloaks/hos.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, sprites updated by JORJ949",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "3e24f5135a5577db0700d33c8891a6355fce78771c91be3812ceafb88ef3dba9",
+      "icon.png": "71947e84177c7b785ff108c41d08088c353622fdb2f6050ec8c31a7a1dc96f91",
+      "inhand-left.png": "0d69f485e026e39c7153b3302e46615044eb031952791aa8f95f7b96a6d1c664",
+      "inhand-right.png": "5e285e2633cda19baa5da91dec56ca4a9d3d796a006dc372e69a57fdcf6f6366",
+      "meta.json": "7b531d1e4fa5071a56ec89036964dec92ca9b89ce6926d5a1f9e4048f547e473"
+    },
+    "replaces": [
+      "Clothing/Neck/Cloaks/hos.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/Cloaks/hos.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/capmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/capmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by Emisse (github) for ss14, edited by Skarletto (github), Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "e70175f903219792d1aa882946b164ad9b7bc63ac572c688fd2eaad6e789a6e2",
+      "equipped-NECK.png": "7bd3b4bbf77e267d24c0a16b5f31baef9e338b51722bce60ba0baa20aaf66add",
+      "icon.png": "124c8fbfe06231dd20908e1aa444b365cb4dc84f3c782a420d8bd9926ecbe52f",
+      "meta.json": "ed48297b34896a8761c1141d226848796fd62d6af78f46e90578b6f1fe2b3fa4"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/capmantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/capmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/cemantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/cemantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "02f0798abc038e8a94e675f6d8f0575c896715f90f601e2bd584ecdaf6a15d59",
+      "equipped-NECK.png": "dd9721c8004752cbd4d78c79274c3c228a330d564fae336b6344627106aed9d9",
+      "icon.png": "fef03b1101c15bb82dcb40c806919e8f481ef73fa4a617e4c7774504cf86deb8",
+      "meta.json": "a9eec7ee2303c4df6ec3e9983e38afa8e87b0d799778ad1fde7bebdd2f4b98fd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/cemantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/cemantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/cmomantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/cmomantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "d8fc3b31bf58a08726ed83f688fdc150e7a3934080031e3faba1f161f08d1758",
+      "equipped-NECK.png": "cf97654f7c650e7bc3aad60da6832f9b5348854e927996f5aae7e088048ffd36",
+      "icon.png": "fca3087e2f2be38baeb4d48aca8e982e3d04cd51118d5763c2f80c4f8399ed25",
+      "meta.json": "a9eec7ee2303c4df6ec3e9983e38afa8e87b0d799778ad1fde7bebdd2f4b98fd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/cmomantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/cmomantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/hopmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/hopmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "4f91c297f24ec5052406b90960065f4f75fb14fbf2977aeb4f544cd2863168b9",
+      "equipped-NECK.png": "96d2cc7aff2555718b38f5bef2762f9794c0b89766a69e798f503d93e1ebf903",
+      "icon.png": "5d92c368171c93ddeee2297b4c4fae80a842a26697381f00a1d1d4ae07983f6b",
+      "meta.json": "a9eec7ee2303c4df6ec3e9983e38afa8e87b0d799778ad1fde7bebdd2f4b98fd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/hopmantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/hopmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/hosmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/hosmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "7633cdd9fa47f965310c1937ab0511b8d65566910b59b2fda82a1e2298229895",
+      "equipped-NECK.png": "9f7f8db16f6a76625b4ce19b9058a0f07f6ae0595abc46ff4fcc404b6bb1fe16",
+      "icon.png": "9ad7b377d7cad95f54ea4db0b0ee8f92016cfef34443fc79832bdac7f5c124eb",
+      "meta.json": "a9eec7ee2303c4df6ec3e9983e38afa8e87b0d799778ad1fde7bebdd2f4b98fd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/hosmantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/hosmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/mantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/mantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Pigeonpeas, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "1042dd5fe2d8b04a0d0341dfb6da5ec86f8cb8535e22038508a7dd7b44340422",
+      "equipped-NECK.png": "d3fa2ad5fa63eb7d266fa4c7a8600c986d42189379c80d0e3c0dda6dabcb6124",
+      "icon.png": "cdb1ffdd4d69042c470d62f04ab114233972bee369af486fe1163ad0b8312570",
+      "meta.json": "acf58a41b109015371030b62bd5784517f5beb4e4023c763dfb55e59b0aec175"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/mantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/mantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/qmmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/qmmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "drawn by Ubaser, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "30d4d1874a84ec58be17d2a09e8950d241ad5e6d0ffcf5d6cbf15a80ceffe6f8",
+      "equipped-NECK.png": "b14076a1133fb6ef916a1458366a64170791dff3b344e3f44482129764ec02dc",
+      "icon.png": "d68b10f8943ec68db41f054fe357f3009f9bef87e70d1cb047735c16bd3dffc0",
+      "meta.json": "a85cd748160ca8c9a7be7c60fd7000537a0afa3e02ecd89db6f5af37b419ef88"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/qmmantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/qmmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/mantles/rdmantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/mantles/rdmantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK-vox.png": "a0a07b69c90e44d2b0d4b45b7ac778c560e3501c562843f15e045ffe4e2fda47",
+      "equipped-NECK.png": "3bd734b35ac42a7090701a7fba5d11e26e25096a09737d374215586aa471d99f",
+      "icon.png": "1c14aee4db54d705cec4757282935a8b0d3c749f4589ddf508c7055e9e28d8d2",
+      "meta.json": "a9eec7ee2303c4df6ec3e9983e38afa8e87b0d799778ad1fde7bebdd2f4b98fd"
+    },
+    "replaces": [
+      "Clothing/Neck/mantles/rdmantle.rsi",
+      "_Lime/Imported/Goob/Clothing/Neck/mantles/rdmantle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Medals/bronzeheart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Medals/bronzeheart.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from tg git at https://github.com/tgstation/tgstation/blob/master/icons/obj/clothing/accessories.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "632ec3c3c0ce4595ee2c250ca06e9da0181ac6e3f13e67992e375042e4fe68f2",
+      "icon.png": "1cd56c3d794d44490a1285a7c11d0364bac18c6bd1c0f294a57b7f7f47ab786b",
+      "meta.json": "2f05f500002268f258ac119c699ef940c834f275f614a180e678dfcaa75c31ec"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Neck/Medals/bronzeheart.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Medals/cargomedal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Medals/cargomedal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by AsikKEsel",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "7249c52b5ef2716a1f72018f726928ee59d8609f9d1161f3a8c273d8d74810e3",
+      "icon.png": "e6afd488eb1a7b935c7e9da750876cf015714886d882b7023cea3bb09d114584",
+      "meta.json": "bffb87def0c9cd19fc55b3531ffb4371550e838f9e0248200b5f0c17d5684619"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Neck/Medals/cargomedal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Medals/clownmedal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Medals/clownmedal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by AsikKEsel",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "aa608f55262d171040fc9973bc836d7f31038c93f37386485cd9447a266ba3c7",
+      "icon.png": "866e09db797dde0ff915fa022b718e20c1f27d654fee0d4eb10d49faa7de3edd",
+      "meta.json": "bffb87def0c9cd19fc55b3531ffb4371550e838f9e0248200b5f0c17d5684619"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Neck/Medals/clownmedal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Neck/Medals/engineermedal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Neck/Medals/engineermedal.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by AsikKEsel",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "f122daa936b4733387567ab9a6f06da543f712bf8392b917df445b1eaa16701a",
+      "icon.png": "54031b3ab10e6746eba53443cd00a604d95b08824326392433b9821d4a1b365f",
+      "meta.json": "3651e9b20e84ba33c1cdf3e1510f4a31e1de9dbaf63d830879f802e01c6bc0f5"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Clothing/Neck/Medals/engineermedal.rsi"
+    ]
+  }
+]

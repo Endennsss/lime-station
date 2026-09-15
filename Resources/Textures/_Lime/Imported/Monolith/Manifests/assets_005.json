@@ -1,0 +1,1037 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Back/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "control-sealed.png": "d3f193c7d0fe2a1af4c91958b4d394b018c35a969faa7c2c613330c288fdeec7",
+      "control.png": "aa2650fa44aa4814f6f8999a967eb15d8aa8f833736d9a5d0de0c83c3ce688ef",
+      "equipped-BACKPACK-sealed.png": "41d9bffbaf844184524a477bb0b2f859ebd2adb6290e2a3aae5c6ae74b63abd8",
+      "equipped-BACKPACK.png": "659d4c7d7ef532461a02da23a1eba51e03fe6c05f155a1c653b59e5714711841",
+      "meta.json": "de28902949277d6349fabddc51bda1b1e0791f5bfbb534fb03dad70c8701b5ab"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/researchdirector.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Back/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "control-sealed.png": "85fa55b7c4323743cd5532f52879de694fa786c1eed94046d13a2191ef3a0ccc",
+      "control.png": "4220f4dced76a7417bb0b511618fdfd54513c56d251dda350d51f396e6d57548",
+      "equipped-BACKPACK-sealed.png": "c0c6cf075308ee2e70607ce69a70c5b9edcd12af2d14d2962e368983e16dc47a",
+      "equipped-BACKPACK.png": "0826098fb93e25612bbd7396db435597d6112ec696629388c49706de0bb31b5f",
+      "meta.json": "de28902949277d6349fabddc51bda1b1e0791f5bfbb534fb03dad70c8701b5ab"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Back/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Back/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "control-sealed.png": "ef7d21f1a8e9061036d5468709586ed24d964df25181d05863ff7220879d3536",
+      "control.png": "7ec27de290fd7e35197236deab1f65257b9bf74c6fc3843675d2cdf7e346f105",
+      "equipped-BACKPACK-sealed.png": "86683af608303519c5be775b930746218147b3d2c3cd13ff44975057980e67d2",
+      "equipped-BACKPACK.png": "d70ce62938cf358e96cd89f0408c374c04206d33644f295d8967cd46f6b7616c",
+      "meta.json": "de28902949277d6349fabddc51bda1b1e0791f5bfbb534fb03dad70c8701b5ab"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Back/Modsuits/standard.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Belt/cmowebbing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Belt/cmowebbing.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by emisse for ss14. Further modified by TJohnson",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BELT-vox.png": "b9dd26e2ae61d4418b34b6bcd6a3e401222a6af4d88f5687979bfab586e86375",
+      "equipped-BELT.png": "c7cc3334ed4eb29cf4fb8d0988237b63c407b16a2e460a05b328c4798fca0589",
+      "icon.png": "14a0e01e521ef5762d595d7e203c49bae2b7016a7e97aac19e73769192a6907b",
+      "inhand-left.png": "85d9338ba0a2792a1252ac81139dc2b1bfe5b13be9e94164d75e5cbee771299c",
+      "inhand-right.png": "b56c4e022cd30612f05d33de294aaa35b39edd5f8a23185618c98c1b8df0edfc",
+      "meta.json": "7fa70534f5faa2f059fe4131518002003eb23202833d3f42c6f7ce01aa339300"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Belt/cmowebbing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Ears/Headsets/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EARS.png": "ddef7d5dc542142feb24d8fdccbe5faa9af0c2a394a7e6f23c25aa7acf22c7eb",
+      "icon.png": "fbb79fea787b5f2f8ce81e7ba4457b072cedb75cb47dc14497d0a89138bbe071",
+      "meta.json": "1c2d05c7ce7ebe8245a4feebbec6dd792477b16233b4fd09dd334d365ad01388"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/chronolegioneer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Ears/Headsets/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Ears/Headsets/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @ShootsTheMoon.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alt-equipped-EARS.png": "7198e26415690f3a6322edad9bc8aa9d45697fba9dbc78309411762c6cbc5820",
+      "icon_alt.png": "5020e7e0a56244f749ef034b2b860bc3defb0cf5d097f1fb45fd4e32d55b969e",
+      "meta.json": "c709d2a9c46585e75df1b6631a0e3245c78af5afb36cb039d18171f6dc38a201"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Ears/Headsets/deathsquad.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/centcommglasses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Eyes/Glasses/centcommglasses.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Taro Verne",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-hamster.png": "faa726c4294cc7d83ee71240f5d43c0ad855ac6cf80c33b0ff37515e6c31f863",
+      "equipped-EYES.png": "17e4d66ce14bc36964201f2ac4f6271c4e26a3d4948a053d248691d548e43bc3",
+      "icon.png": "108acde0b578d74b21d97ed9a69d822a8bba4a64d2561a623b70a91b7539429c",
+      "inhand-left.png": "c40c6b94ccb951738b4b5d643a8f863b33da96b83d86ba5b9434ac0d2f21652c",
+      "inhand-right.png": "d6436993f43386eef25cb263aee8dea4ad20a4d861b40b1ab2cf366171b13177",
+      "meta.json": "5ca72dbd5dc264c0322bad410d8827147ab32c77d8bb9fb405390139a3624cc1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Glasses/deathsquad.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Eyes/Glasses/deathsquad.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-EYES-hamster.png": "3f76666b6b2a1a54dd61bb5e5493540d54abf1e51800432ada4b49f4e3f3d077",
+      "equipped-EYES.png": "479f6ec5f82b2533f0a3fe8d894f537130210c8d8c06e0eb70c6a6ba3c6981db",
+      "icon.png": "4ecc8576ca2e2a2c55f51c33659e4baf5a797ab30f9411ad73e89b082671210e",
+      "inhand-left.png": "6da99f2bf8726d13fde4ff17a110430e666ddb73b9a98f1b042483f94f4f0a96",
+      "inhand-right.png": "d071ad2ec9059073918c1fa0ee3c4c3c9c3cb32916d6aee672cf4b60d44aa687",
+      "meta.json": "acc9366307eb11d900b5b930bc2e3203d4c851ad354f0ba684552fdad5807322"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Eyes/Hud/chrono.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Eyes/Hud/chrono.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-EYES.png": "8f0e1e543d36875c07060afbe082b5d02ad7f15760634d52112b9085b170de6e",
+      "icon.png": "e5fa3836db1c6d7fb81a8919966aa2c15f7dba7a7a839859c8350479bbc0d08e",
+      "inhand-left.png": "5dcb842eae7a0e386286a28bf13b99ab936f0b3a2ea09254c321fc48fc254f93",
+      "inhand-right.png": "b66f7b4a30bcc9340ffd89135eb6035045478fe20528ccc443c0e307e47ebc33",
+      "meta.json": "b11fc241b9bd6a7fedff32da596f2cc75f19db68a936a230c81ead70ecfa8ea7"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Eyes/Hud/chrono.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Gloves/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HAND.png": "683ff4e25d8156627e879d9aafdc1af3964b35909b166b06164df83226505063",
+      "icon.png": "293f2370071ecf2b52ebf07fd52e95ae172f29409cd63053928af3d9356bdd5a",
+      "meta.json": "eaf8b7055f9eaa33291b5d8cccd3c75b99f05cd0c1b57d14d3de2cb0853d2d1f"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/chronolegioneer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Gloves/goldtrim.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Gloves/goldtrim.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited (badly) by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HAND.png": "41589ff7e5a7aa5984ee8a0efde10480ce0c0785f047f73262e1f345e48ca46f",
+      "icon.png": "067c542fc7da4db480a7393f801ed4a49234859f423b64f972776bb4f3fa6e29",
+      "inhand-left.png": "f4a8a523812fcbf63c7c894984aa8b6444d4eb155f6f1a0b7d0d9773b1648f3c",
+      "inhand-right.png": "b4abe2d825d1b8f8e75efec0aa046422c32c15f75c8548636dc7cc94dd2dd652",
+      "meta.json": "7ae8211139212c8a7a1f7501dadef54adbc7ba33c542b3b42e93ddb42b213116"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Hands/Gloves/goldtrim.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/atmostech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/atmostech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "b6e492fc3fa21475e2d47b21fad8fab14eb3440e4f8eddbe631d86d469d9c85d",
+      "equipped-HAND-sealed.png": "33ea67f665019e65854fb3eff6107e897ad58a532b8692d77c188c2f9901fb9f",
+      "equipped-HAND-vox.png": "241a4079dcf76a55bc71533073810a279c010e2ddf5f35f1ef74929d083a8ce6",
+      "equipped-HAND.png": "cc33a1136332594d2e6b39e3baa12199bac7732c18dab025f155fef551484764",
+      "gauntlets-sealed.png": "bae0fcd00da35e3e4bc6ec0da5b7f0d29ac2a44c132738071b1749aa1d596f5a",
+      "gauntlets.png": "3e755e23c7670781d90187b050ef8caa67a4e4b07ed8f988407f9a5092bd9c5d",
+      "meta.json": "05e16da796ef87361aff691d23543a1292b27b28cc9b31d2625c997e2a59a691"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "7160e5d22351466a2066ba122875a9ea9a68fb90b19e227d47cb639c6783da16",
+      "equipped-HAND-sealed.png": "bf83f221a2be3bed2f9d07daf73e8f2065dc31380b53c5d3b85afd6fd2588946",
+      "equipped-HAND-vox.png": "a149eff9c3d30e02a9314e6670f10a6443ccd90d9843bbf8a2fcf352b538ede4",
+      "equipped-HAND.png": "73cdfd82db674f3f5d79afc27ceea8358183b896df79bdf2c0575e41502a4a4b",
+      "gauntlets-sealed.png": "4ef99b5b409144b26face5d53d01d7f084aaa65ef8d217ad66d22356d99b6fc3",
+      "gauntlets.png": "1fba3c35fe0354afa3b218ceb78aae47b8cc6238f664b0dd05835be61419de7e",
+      "meta.json": "05e16da796ef87361aff691d23543a1292b27b28cc9b31d2625c997e2a59a691"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "6638cfb1ff06dd0bb759a3b12266b3e20ab8596c18d4a03326228ac9bc4c59dd",
+      "equipped-HAND-sealed.png": "f8ff95bea015630516f45ce7835b2a715c6e7749fac00862db99145d67ed8a7a",
+      "equipped-HAND-vox.png": "f8d9e2434dc6b5b99f52090acb1490669c5ba48506e0d5d429d59f3462984307",
+      "equipped-HAND.png": "53c2d287e90444593f27fd668511b3ddd8d741780d6fd3589dfb80121de3f5a2",
+      "gauntlets-sealed.png": "8eb9304976cbaf13255c9722ee3a6c29c1d2a6b5f5d0cd17803372b67a6b45f5",
+      "gauntlets.png": "e2a2b9e763523d3fc42db521ebf3f71a9f3c483573382b7dc536d14d786b7dba",
+      "meta.json": "7d7db311a162cd1069625355a0b064f81a319f3055d831de178ed0666e2bfa94"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "43387d48695992fabcb7f9349413b23ee671ba555b7a64caf30818629a12a24a",
+      "equipped-HAND-sealed.png": "ddcd856bba804012fd47ff490bf788be1b70afe1f32edf058657b41fc93d8873",
+      "equipped-HAND-vox.png": "13e590e08e01f69a45b737a42559c58f9ce229012bf7ae23802ffc0fa114a9d3",
+      "equipped-HAND.png": "c494bc9684a87a50e038c0ee017b0ad1eaba0d2147507a2abce64c32740344c5",
+      "gauntlets-sealed.png": "3917f606eaa34d1969c11105a745a52b0a6f9473d4cf9c2f7472d8bdb66e4587",
+      "gauntlets.png": "2dbfe45be064f6da1c5ed60050f32ee1cea87bf09db60527c005bc05f3789d13",
+      "meta.json": "fba17c1f2c29780d5ec5e7aa14341ba4dfb7ccc44fa0ec9e456e6643f53b1665"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, sealed and unsealed equipped sprite edited manually by JoeHammad1844, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "b1e4c0fdab6787a36b6e5bcf5c4b7f81c8967528ffedbcd381837b751d919817",
+      "equipped-HAND-sealed.png": "95f1ae11a3af7a8ec172facddc81bdf4708c7dcb3b92da017356a3213ff45ac2",
+      "equipped-HAND-vox.png": "508c794921d8c6306c3d738941e565e6b5323f63acd1e787dbe8a149645442ee",
+      "equipped-HAND.png": "c7ee479832e4339f588661ffc64e5852cc66051ea308008cc789f02e1381208b",
+      "gauntlets-sealed.png": "e7783bd34ea708b62549e78c5ea1af103e81b197d7fcb5cc5169ef080cbf2116",
+      "gauntlets.png": "69ee4e85a660f0afab7afac232a1de4dc1e5962193e85fd350efc9cb026a90e1",
+      "meta.json": "16ab75f560bac3ada27ad18bf8b8eecd27c54984690eeca2859406fc05e45597"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "4ac446845e2cff28328e18470ced7b2d7d405fe6e1644d0ce7e1bb00502b3f28",
+      "equipped-HAND-sealed.png": "63e7bf88204b65dacde5b3f3604af97489ef745e5f3a6fee10d072a1b4d519ad",
+      "equipped-HAND-vox.png": "341db2630bb65603bced432125679051164cbf3fd7ca8687aceb92990e5719b1",
+      "equipped-HAND.png": "a2a9c718e61962552ff11c184b808ec4076ae34481efffbccf78268a22d266ab",
+      "gauntlets-sealed.png": "3e95dcffdd51de120226a6e3fed1232b7d0d8a10cbf08369ee3676b497e028e3",
+      "gauntlets.png": "b46f6f6308a89c7c049d197e2ee105403d7c8237308d2303ea0078f7ad117bc6",
+      "meta.json": "fba17c1f2c29780d5ec5e7aa14341ba4dfb7ccc44fa0ec9e456e6643f53b1665"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, blue-ified by JoeHammad, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HAND-sealed-vox.png": "2a9664a202f755678d2efd79dee5543d6de2759513f8e02b6de2ad5a3da7d948",
+      "equipped-HAND-sealed.png": "11ae73c12e594f57ab77880f68122340585705c39448f342441e8ffd29d30ecb",
+      "equipped-HAND-vox.png": "be02d16362c5f459a6059547b821952a322bc0b639bca5cc8ab03940814c520a",
+      "equipped-HAND.png": "7720ac9165be54e55de45b478ef4107ef4a730110642169866df965aa226777c",
+      "gauntlets-sealed.png": "6a5f3253887e07501f980755e0895eaa5732e6d9be29f0b6ee8040bfcff0c765",
+      "gauntlets.png": "da4e00beca9f964e7d3fb1b1d7ad2f077a65b0366a0473f43522984fd41c0aa6",
+      "meta.json": "b6e21b9885990364b4250a7cd3025a541dded958250c10e19299aa1b05495602"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Hands/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Hands/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HAND-sealed.png": "76c375f525fba9426a5844215f6eb4bc45f0014af6fd088c25710fb09a8e06b3",
+      "equipped-HAND.png": "088b483a56eb53baca3f7fa6b1ba19dd7866a03d139c99c5a2955d08ea9b19b3",
+      "gauntlets-sealed.png": "c3b95189b32f52296a44d8d58f6710edf785188deea9e10a620bc4c1907ff985",
+      "gauntlets.png": "d8d5dbf628dbb7c3088c541c714f6c63dadb11130747c1dc944d50704f7a64ff",
+      "meta.json": "a33b13832ceacd6e359658fb5ba18bf58598368c4f8418921b502220177bdab2"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Hands/Modsuits/standard.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hardsuits/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hardsuits/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon-flash.png": "495568d6a94981dc3b560a35203ee56012a974a99bb89396051c5cf837e39907",
+      "icon.png": "c114382668a04c9155e7d1f8d99221cbdb8a39b35e9325dba39beb281112f9ac",
+      "meta.json": "0e2be1fdc237acd9f08c7946831c72bfcc1a9790683765831f98ffed6d655c63",
+      "off-equipped-HELMET.png": "d69a410b784c48bd01b32ac5a7508d3327a682fd098f01a341b6b6fceba43dff",
+      "on-equipped-HELMET.png": "422eca2b6c9b56a935e37921e26f8bee84b793e7351248cacae6dc818e4bc1df"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Head/Hardsuits/chronolegioneer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hardsuits/cybersunstealth.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hardsuits/cybersunstealth.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites made by InfinityPandaRed for Goobstation, Vox modifications by 10KE, Vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "195797d0bab2c196b17961d2f1d7f1db569a4e6a6520da531ea81f2b0d28f7b0",
+      "icon.png": "97da38ea72fbf7ed93e77c9593f437ff1bc8bb0cdaa668af582751adb5056c9f",
+      "meta.json": "15b3805ec0cbd72a1b0d18aeb8439155b54d65614226af542612f786db4c32c6",
+      "off-equipped-HELMET-hydrakin.png": "c7b25b3cfd207efb303c45403d759ccffd646d2e4878073b95ae45887ce71259",
+      "off-equipped-HELMET-vox.png": "a5b8d27d84ea72d66ec372e9dca8f6aad80ef5616218b30247e94707d73a3324",
+      "off-equipped-HELMET-vulpkanin.png": "d5fa455b840514561f82e2d3e8a1cf9a9039b43bf8a26a0cb106bf7955a22ace",
+      "off-equipped-HELMET.png": "ee4b221d57a32454c728cb992eefa2cbdd0b98d8ae525948ddcb6fb6c2a094c8",
+      "on-equipped-HELMET-hydrakin.png": "30c433d8b713f3c0227598bc58b66f61fdad30ad1610c52456f84b1a0d7fb97e",
+      "on-equipped-HELMET-vox.png": "aa0023742cd3b93dd1a36ffebdc9ea2c812a4fe75f8c8567d1341d8106905e39",
+      "on-equipped-HELMET-vulpkanin.png": "ec082a8064b6e8344b0fca063a06556ff7a2ba2c8c653894aa11f965b3996173",
+      "on-equipped-HELMET.png": "c48fa44299b864c077ef4e698550832dce5eae59c0b39c6321a934add99c86fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hardsuits/goobparamed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hardsuits/goobparamed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by realfakesoof on discord for goobstation, vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon-flash.png": "f2190f0e10ff1b6cc9450544fb9f54b8c3906e9c81ac252cb0f9510a6674150e",
+      "icon.png": "591c05d8cf50f94e72b73b0137a49080a19a1adb51e59a3e4c24f2e8154f044d",
+      "meta.json": "2da6e8a140d7bf9318a1260fae982fd76eb9a345e45a9ed2f017587fe86b9a98",
+      "off-equipped-HELMET-hydrakin.png": "dbfe9416df5ce9731a6c65f7a2c41435f509d5f4bcd39e1073dbe47b99f68d2f",
+      "off-equipped-HELMET-vulpkanin.png": "885b6dc2dfd458936cfecbc7ef1af5ac61de9887e5612620a72038c02131b60e",
+      "off-equipped-HELMET.png": "3cb83d9e99476152258885b534284dc7df740cbcb985b091450ca29eb4fd7c68",
+      "on-equipped-HELMET-hydrakin.png": "b2228320ccd8bb4e746e9a7cfb6b9b11375ebcd45d4157d6551bcedee2c60965",
+      "on-equipped-HELMET-vulpkanin.png": "e55166a2fe8d9c6bf9c31c489bcef46332dcf55b2b22ff54b39776b129831c6e",
+      "on-equipped-HELMET.png": "c3d828b0551061e3766436bd1b03bbfd2b36fb529e53c90c2977ab7f89c8cd6c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Head/Hardsuits/goobparamed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hats/navy_captain_beret.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hats/navy_captain_beret.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "505b3b6e79d5065458752dd1e3f30193e92eb1bd4d7a02baff9c5049c79e8b70",
+      "icon.png": "51c325fbad308e0e45914ba9c48701a23a8fcb4f855f4c91808219d0bdcfa15c",
+      "meta.json": "4a1075f00f0a9c0e194d2989b1ea5675ad4736f874a1c4de9bdeb1561644226e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Head/Hats/navy_captain_beret.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hats/navy_officer_beret.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hats/navy_officer_beret.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station at commit https://github.com/ParadiseSS13/Paradise/pull/26498/commits/17c167b6648e8b67eb9c2f23f2f5b61e1a86f028",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "0089068c73e07247d7902ba95b8237dea8ed9dd35a8e6acdd684d1bba6369577",
+      "icon.png": "71481f8c0c7365d6c7e4d14ec7b9a30a56113cd977fb18dc8b83db86f15f0466",
+      "inhand-left.png": "67b465023016b07e1a049622bdc39c5a97810fa3c4f9829106640065b4b3af68",
+      "inhand-right.png": "f11371c72da8744850bad015f922fca1ea2d75cb57d642a42545f3cbad8829d5",
+      "meta.json": "e3158bd011af3da644cb39cbf4cb7d35e5ebf4e3194f760f49210809af4cf9b0"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Head/Hats/navy_officer_beret.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hats/officer_beret.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hats/officer_beret.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station at commit https://github.com/ParadiseSS13/Paradise/pull/26498/commits/17c167b6648e8b67eb9c2f23f2f5b61e1a86f028",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "d3d8d93bc42eeb4aab11b9b5e3a3fcd2dc1b285b1eeb1e572337caa4bcc74227",
+      "icon.png": "34c5af1fa536bc08055db532600b623b437b12241b2266a1cd3aeddce307da91",
+      "inhand-left.png": "9bf4d4cd40918a3f8751e70cfac0c9189fec4c9d379b81186778d0a3906996cd",
+      "inhand-right.png": "ac28d9a8f3c5301bc4b868dbd95a097cd93b4512093f6ed88e3900ae7f813b0c",
+      "meta.json": "2d3ae48de1272758fcd2400424bb6de692d8472098a7be3a22b22c8b5852cbf7"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Head/Hats/officer_beret.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Hats/sanabi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Hats/sanabi.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Skyrat-tg at commit https://github.com/Skyrat-SS13/Skyrat-tg/commit/42bb106e0e78142cad7e6239549b60b18da960ec, modified by rouden_ (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "6015604f13fbcf9ac66ef7427044aeb62feded52601492797ec5464dcb414a18",
+      "icon.png": "6d5f61c06a7fc32726a9f3f97c0f231535482b75642bacddca0b04e90027e472",
+      "inhand-left.png": "dddf54e2f08bb4e54e1a0dcd98fd51849e60b4211196c1f064643b0fbccd8b04",
+      "inhand-right.png": "f725ff45395c2a893a4193e9c7ab590dd79bfec01e77dec8b8bffbff7f2ea6b9",
+      "meta.json": "1b76e1b6ef9df4b8d4ab211920540c63881455689ffa826792165e4068afefc7"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Head/Hats/sanabi.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Helmets/helmet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Helmets/helmet.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by XcenLegend (discord:xcenlegend)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET-vox.png": "4891dd019973c69e16b32ad7347d1c448eef8f58ba08b996316247634cf07cfd",
+      "equipped-HELMET.png": "636f6ff15735116d2e86f388460a13d44b52a2a155bf7e73ab7b9a6095f45e98",
+      "icon.png": "70e22b2dd85853e49092ba2f01ed66bfedb324500bbbbf1f617b8690200daa3f",
+      "inhand-left.png": "ef4a3991316beae7ee394cf80374e5709e32f4743898f23dc5afac02bbf0200a",
+      "inhand-right.png": "a18067f335c222db9cb66d3e7f9eee8c7de0e06beeb3d2e5e8e3458d6ae252ef",
+      "meta.json": "c9629c9d9b63be807f59ac1db1c1c2945d2c4f55db6bec0c88dc52f14e1979d7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/atmostech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/atmostech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE, vulp sealed and unsealed made by YERO, Hydrakin sprites by Zethine",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "709d6e0fb7fcd23f18bb7bf2fd0513fc0aeb07a5897289d4e42bd92422f9340f",
+      "equipped-HEAD-sealed-hydrakin.png": "1f32067d9f31e7ed5cc3e92fe5fb6cf6a9a07114dece877c77c58d6de24a9a6a",
+      "equipped-HEAD-sealed-vox.png": "552ee1dc6870a09d2642cc172fe78629c96a403c782c09a137d0daa779baf3e8",
+      "equipped-HEAD-sealed-vulpkanin.png": "9cd8d298aaf51aaf468c17eeffa86ca178c5992263bd8d67c1e43ef1f5734846",
+      "equipped-HEAD-sealed.png": "6cbbc811d7e45995d11bc4d9ed6c2bdfe6d9a9982ebaea0588d9cd4ed35f64d9",
+      "equipped-HEAD-vox.png": "6fb26fe80cc0285b4b2ad6ef01fd05e9f97fe8922b45bdcfc761d1ce5c67fd15",
+      "equipped-HEAD-vulpkanin.png": "080c68222ea5168533d2bca5244a3723f9da66907dfc57cdd728bf90c9eabb24",
+      "equipped-HEAD.png": "f62a92e51919f60a9133d3621251bdde411b0c4c4f5ab9ad92fe8cc41d612303",
+      "helmet-sealed.png": "df51e903cc6299be2c7e91659bfac2413b20045e621df5bc6e9c172203026b14",
+      "helmet.png": "0179d1ff15bd6ab4d913d8e20d7d5bafba6e8cc44c86e2ad5a6691c0e41f5d43",
+      "meta.json": "0a3b6fe750e5368fe6ce0827d19b53ec765ed0fc60e85182f7f793ad09f08422"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE, vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "8a0547877b7c49c6fc224ccc1cffd87189c7d5b4ffde56393431341f20d4d8d8",
+      "equipped-HEAD-sealed-hydrakin.png": "14cbd63e52bd14cbb7ce1fc0ba557efe304a262dc6b6a7dd962a712e2364b989",
+      "equipped-HEAD-sealed-vox.png": "1043d1c7bad01af5c53766cb916bfdccca5182c0daeb3c9555ef5ab6d82b18ea",
+      "equipped-HEAD-sealed-vulpkanin.png": "5d6112251d2f5431bbb666b2907c7d11ce77cb77ca63de5cb2defa2b08680d88",
+      "equipped-HEAD-sealed.png": "c81f8d5e3fc46b8d0cacfde4d5504d6ac50265c501a310fdee0058f03f6ae517",
+      "equipped-HEAD-vox.png": "7b935f083c46f422792051b0239c379e4cba21c0ea1973cc271d5cf0421c39de",
+      "equipped-HEAD.png": "ee3c55af4d6134e60146a41ed006282fef25dbbbf9eb8bd66a77254345324382",
+      "helmet-sealed.png": "cc1e2f4b1a0f78c5efd36ffa35511aea39d5bfae973926006d14e1f660fbe696",
+      "helmet.png": "56353dc0e18fbadeba0777d287624111f64ce21bc735a5dedc4b37128ca70406",
+      "meta.json": "3196389dbe4565a377c60d87ef3abbc5bdca676b8ba00dc93c3b6c5594d1b2c3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, Vox modifications by 10KE, vulp sprites made by YERO, Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "bdf85e598e4a8c3d26be4b044e9f8bd00760b4632376271755f69e133f28f8c2",
+      "equipped-HEAD-sealed-hydrakin.png": "d4179cdb6f78ef64cbd05b86e2918f5891beb392ff05faa1fdc884a8ac89de7c",
+      "equipped-HEAD-sealed-vox.png": "9e65d8f1533451948c8691ff557c115abc616c6c18921e1d72d0df168c3b680d",
+      "equipped-HEAD-sealed-vulpkanin.png": "2bed8be8f11f1ca3916a4a120e5853a27164978e5c4e51021cc62b420e4996aa",
+      "equipped-HEAD-sealed.png": "2fe7aed5713ab6cccd71e0a0dba3e82fcda5b54acc3c84dfaa64fba40db8ce3e",
+      "equipped-HEAD-vox.png": "a7bf4a63be2d85a21f61ad7e088f82f820909515c9b52dfc954db63b7d43be53",
+      "equipped-HEAD-vulpkanin.png": "434786e28b6459b1aea0b8fee6f6ac8575004344f49023d01c2a9825e0f6fd41",
+      "equipped-HEAD.png": "50c7315d137e31daf45fc1d533a57e49b41b456b17349e179866872fedb4ce1a",
+      "helmet-sealed.png": "b64e3658d9ccf3fbadbe2cb21fad570acce4b49b059d8efff89e7f29704d5ce6",
+      "helmet.png": "af5e4d9177b4aff040eeb6e9bada6ec6a3d2a4485b80394ed5b60dc5cca6dc5e",
+      "meta.json": "a68025166d0b066ff16c9f26008895c1e5293acb98c54a650f2c10754d8bf6ad"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, blueified by JoeHammad, Vox modifications by 10KE, vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "4d7a1c4ad3cb79412bfe4a4f84441f2ddb1e890902315520ae3290ac7ef32adc",
+      "equipped-HEAD-resomi.png": "c44de95c74ac7169b12ced0c16df8771c5f3b19750a2c91ac36e27b3daf92ec9",
+      "equipped-HEAD-sealed-hydrakin.png": "dfa3b9596fa13773696fff82227a77de93db49030c7a8f14a1343fe79f6d64e5",
+      "equipped-HEAD-sealed-resomi.png": "b3463a32596e7c7dcbd396af5ebc1fad03c539f8d9b8b30a33c28b10d292d1cf",
+      "equipped-HEAD-sealed-vox.png": "2e7a536de74504766234f79bec413750bb4699f977b2c7fbcc95db22822eed40",
+      "equipped-HEAD-sealed-vulpkanin.png": "cd26a864d41b91ffd98053e2225f9428dea506d2614485ff676566d301afdab8",
+      "equipped-HEAD-sealed.png": "cd26a864d41b91ffd98053e2225f9428dea506d2614485ff676566d301afdab8",
+      "equipped-HEAD-vox.png": "ccba65d282ebf352d55b59e32ecbdd4407dc62ec1f0be6d6b03dd2869d59331b",
+      "equipped-HEAD-vulpkanin.png": "2cba8ee5558f631d235073c483eeeae472fa71739236f96dc98f80ce9a081144",
+      "equipped-HEAD.png": "b0010810531dbc58fd908bb616fbccbfaae60e982e433f70f25a355d660c67ac",
+      "helmet-sealed.png": "78e0eb62d43d5840debd8039eb99d88d2ee32136b83d72f3f78354df5e0a197d",
+      "helmet.png": "25e1626705d5123a444c4b898aa2b78d657bc2fbffeb764b67c496243738231b",
+      "meta.json": "71d37f02a4e8c0fe942d0598db961c4f17c9ff665bc6641b5e023789730dea73"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, Vox modifications by 10KE, vulp sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "34b6edab774aee8feea3a30f189103a1edce9782531607fc3badd50bb1a0de90",
+      "equipped-HEAD-sealed-hydrakin.png": "fd13aac83ad90f0054ea294fa5708125d0cd461f5c382101bcb3a73749d249a3",
+      "equipped-HEAD-sealed-vox.png": "64d7c752e91919505595a8ba571d1c4b263eecf9decd11018eb69c5bb172c647",
+      "equipped-HEAD-sealed-vulpkanin.png": "433f9b293c84ac52a3f9e9ab0f01efe008d5bc866259a75866cedec0e66d0c53",
+      "equipped-HEAD-sealed.png": "678546f981f986ac00ea03b8d4a222689c50b290fd7ce39d3d9410d7654116e5",
+      "equipped-HEAD-vox.png": "aeeb2935159f9ae684e3b486bfdfc644c168c8425888ae992e892c9ffdf5c7da",
+      "equipped-HEAD-vulpkanin.png": "4582ea8a2c8b06eda70c1d2fe0b2f6992498c978e4ee114a1f723b45568786a0",
+      "equipped-HEAD.png": "7decc7d6a35def4156f8676d82acaf40875ad63a49722b9743e5e3c2a88c5388",
+      "helmet-sealed.png": "b6e828cd835fa53b05203447f948cce9527e59b95de769c4ad69c618331b8ac1",
+      "helmet.png": "d359969810a9b3d7134c5b7f963bf6af06944a5ab9704bc19fa677feab860386",
+      "meta.json": "e2f6afbff85a9c16d83f3d413a715cd749e7c0bf4dd9bef17ddd7f248d8d5bb5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE, vulp version made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "f4bf5731333d5f6db0b447968226bb7b226d3a520db492bc66c967cd24dc6dc7",
+      "equipped-HEAD-sealed-hydrakin.png": "0bd44d1620a5e005e0d50688b0032c13fa10baa92a139f53b2386820886a8811",
+      "equipped-HEAD-sealed-vox.png": "3c8186aa345fd5308f4de1765b9b2b917050acca8b752f84a53b1d76264261a5",
+      "equipped-HEAD-sealed-vulpkanin.png": "36dadb8c9c89b3947f9cf786f27879066dd50427faf9f6566310fe0af64279c1",
+      "equipped-HEAD-sealed.png": "dcc36c76f518b1170dfc0079d86976aa5f0bc0c30689dc378414ec4e25f3f836",
+      "equipped-HEAD-vox.png": "16e210b6bc44f1b079f356b631b1257d6672bd934d21e3d13430a8cddaaa7f45",
+      "equipped-HEAD-vulpkanin.png": "fbe5f1ad2a94d2959a7b0fb407480bc53920ed95c04a3129bcca541c12745658",
+      "equipped-HEAD.png": "08ed057662934b4ae7f2917b35b6b01762143bc16a301cec69ef53b9df568a5b",
+      "helmet-sealed.png": "2f57a60dddbec9be25c5592d27fee455e2b12f0dad94d40bc81087ef6c2b82a7",
+      "helmet.png": "0197a96824b847819d2888a0e22d0a239260ba3bdcd4345baf98e3a86d2dba7f",
+      "meta.json": "f241b4e46a109fbdace69be17f79be657c1d3a4cc00e1687b22769c71b2b6db4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, slightly edited my JoeHammad to have a blue visor, Vox modifications by 10KE, vulps sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "afb9cfe9a7339fa5165d4e257c9cb2d0af3517f2c0a7756806f043f913d33494",
+      "equipped-HEAD-sealed-hydrakin.png": "f1fefed683f5834181e43680a1ab1b27ac193f6f1d5033720d25fcfa5c1d9e54",
+      "equipped-HEAD-sealed-vox.png": "8eb93efe978e4416f4a88b563e6532c3f03895a2978cd401f36df569b4acb1fb",
+      "equipped-HEAD-sealed-vulpkanin.png": "abd86ceae9d3a817f4a60e713b026807cb28c184d427c86cd3770405f25e0133",
+      "equipped-HEAD-sealed.png": "abd86ceae9d3a817f4a60e713b026807cb28c184d427c86cd3770405f25e0133",
+      "equipped-HEAD-vox.png": "69f1320f9fb670881d0cf6b5e49f2ac009590e50746dafe19696103b0db7502d",
+      "equipped-HEAD-vulpkanin.png": "2506d237f4fa80fdcd9d58f6030c4f4a89732d21a98eac43166c0f174065b925",
+      "equipped-HEAD.png": "2613349a67796dd7d2a00f02ac76b66e9b124b05f6591e5f65aa776d42091ce8",
+      "helmet-sealed.png": "82ceccd406ec7a9094873e48db18e9aeb2fe33a0e31b3bc4dd484cc8d3d67563",
+      "helmet.png": "0e5295ec34d305b322c108fb51ea36c99c8a999cddb427eecf17660be80fd276",
+      "meta.json": "fe9b147cb3cc04895f68453e3662909f890c56802868b234a8382fba765de6eb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE, vulps sprites made by YERO. Hydrakin sprites by bobbble (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HEAD-hydrakin.png": "632e2400a752746fb8eb6eb8e4cb0a1ea3752bc89efb9d54520b34821040bcda",
+      "equipped-HEAD-sealed-hydrakin.png": "39d57d9cc01c9b66afc9b314ee7d3438780df6f302c8c0797cc232377fd16845",
+      "equipped-HEAD-sealed-vox.png": "5f68c7dde64b3dc796885ee13177ef41c899e54409026e0394184aa0e3c2cc58",
+      "equipped-HEAD-sealed-vulpkanin.png": "62d2448215021d3edfc1e2b71d078f38cae62c24277fa5fec997c2d9dde8f31c",
+      "equipped-HEAD-sealed.png": "6e92919b636278a2da85d51972a29100c5c03ffa6a3ddd582cbcb5a23ba4ea3c",
+      "equipped-HEAD-vox.png": "665aff463bf24091327f842bfa1c1ced23bc819747c5a1255640ba2767fd57f8",
+      "equipped-HEAD-vulpkanin.png": "3e20b44adb0e00913381d92e327d8776abb16b0dccdda9413c4ba2a96d1a73f7",
+      "equipped-HEAD.png": "3e20b44adb0e00913381d92e327d8776abb16b0dccdda9413c4ba2a96d1a73f7",
+      "helmet-sealed.png": "9867c2a1520587c64a51ecbee82472c2f9b6fdcd892e41ae57a61107a5e1d574",
+      "helmet.png": "957e327f29df5a2ab27893a528566e2be721dca53b741b8b45abf7a995c2b5c3",
+      "meta.json": "b22d770ed36edc506f2fa0add18cbeaa2fab34d2dbf0aa6bf554e361ca6d1e46"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Head/Voidsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Head/Voidsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Baystation12, flash on sprites bye JoeHammad - vox taken from headhardsuitssecurity.rsi, Vulp version made by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-flash.png": "7e1cba4c22fa37f8b6f11b01363915948301fdf613e642084f3481481ae6b5d4",
+      "icon.png": "ad797f9db3353f5845e068779e1a4d7299823e7cd1cae08796b5879a97990d7f",
+      "meta.json": "8e4238f47c87aca8ff4c71050a715db00b4edcdf144bbcf3ea66b8955eb23510",
+      "off-equipped-HELMET-vox.png": "3d7ffe3310283ab57856b3f794234f8c5791f71d1f69cdefbc886b433d5e5a7e",
+      "off-equipped-HELMET-vulpkanin.png": "19496ddd1648ddb44d1136e6a7ffaecafc4af32c2135a3a7c3d7c384a8eb778a",
+      "off-equipped-HELMET.png": "1066d15fbe1c50756c8f5fa358f5c7860ebf66d4304800073a8326af202c9b91",
+      "on-equipped-HELMET-vox.png": "3115346c9a336a77df7bc21d5155cc71f4ef717620608d561a020f98b1d2e914",
+      "on-equipped-HELMET-vulpkanin.png": "c262d9cca20ac650510d98117f0b6e100736f871a4c6052f6b90a039e125e555",
+      "on-equipped-HELMET.png": "d83decc86b239e9cf0293f373f71be81ebeef6a21d17b8af5e5ea5c1b9b12845"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Mask/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Mask/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-MASK.png": "d310269a7849f0f0ce60d0403e91ebd74d065263f97c2a79d367451d797ba94d",
+      "icon.png": "84d12a89c0d9db2a20c585bd9b7e7b99a646a97bff35dcb46748a6e245b70046",
+      "inhand-left.png": "98d54a66a9e3ad09b1f7a0a0765998e6e17158f252dd1f2e93ae3aab0ed1eae6",
+      "inhand-right.png": "4e2f978b758c5f40cb40b55c77426d2a2debde4b89d4103544bb16216c615834",
+      "meta.json": "a77c8b10595f54ff930b049b3a57e2c67f7a140ce9e1febf317defa391183aaa"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Mask/chronolegioneer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Neck/Cloaks/sanabi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Neck/Cloaks/sanabi.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by fizzoghoster",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "497546cc8d9e00ec5ccb237a3fbc6d9b67f18c5716bcd778668947254871cbe0",
+      "icon.png": "905a61e3ffddefd86000aeffaa68eb913e49d7f7eb940c4a1c9c176ea2742df7",
+      "inhand-left.png": "253d09b8e601aaff7bd790026409d61a5a0e2fc3f435579e31e3e10ca910e0a2",
+      "inhand-right.png": "d487a96a499730d028f95b03f2f07d60686a8005e61b28352fd0c0fd89ce7de2",
+      "meta.json": "cd42a4edb064fbb4cc08032fbd9dce47382566a99778e13318f53f198a310c3f"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Neck/Cloaks/sanabi.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Hardsuits/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Hardsuits/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "b1d51077e1188fd650888765c55933321ce00a134d8712c6beda4091b4c82732",
+      "icon.png": "e2ed44007f93ceb912c5210d2f2180e62f24923bd681e871bcf0a45aa6e87620",
+      "inhand-left.png": "224cb1d102415884f6c3ce055f9fc1e2a4a2058eb0effb332b6d61d224477616",
+      "inhand-right.png": "cab43f3717b207a87e7d9b5c2a2e83d982e6a3fc6868c3adfe77a79f73fcd348",
+      "meta.json": "6807d4ece2873307bc6653038d0338cc6af4937ff492538a395be41d1a413c1e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/OuterClothing/Hardsuits/chronolegioneer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Hardsuits/cybersunstealth.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Hardsuits/cybersunstealth.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by InfinityPandaRed for goob station, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-vox.png": "cec7447c9620fcf83c06262b7a9373778bb8531ba61c7fa4ef18aba2a85276ec",
+      "equipped-OUTERCLOTHING.png": "3f6d8895f9d6891b2a75e1f5ba2d9578608021200efa9be4533bc8f98617ae95",
+      "icon.png": "beeb965f75a53c6016b7245b7ffdb68730694fb7b6f077ff8a7d3076156e2c6c",
+      "inhand-left.png": "6a23e3537c14cca448761907c245c648141223f051b86a3fa1b35b2577cfeaaa",
+      "inhand-right.png": "315f98957baa057c9efc8b4c663df8cefa996daea87493e8e1f34e69a37e1ce7",
+      "meta.json": "30dcf48967acbdb5b61cd714ed309b2436ce5983658e1d64396aba1eb4ca170f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/atmostech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/atmostech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "538ef14f059b4cbaede6fc3e36cfbce931f1a2608e06652e0471476be7e091fc",
+      "chestplate.png": "3ee657f0c8dc42992397bde5511018a7013e203f57e3b44166d4b4af72224a55",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "f0b413f38055a4073a903399ef07be66ba138391972781eb8e05bceffa640b31",
+      "equipped-OUTERCLOTHING-sealed.png": "de4e31bba36fdc8540acc17e55f7b0f64406282fca94b9a9b44432e93d13bb52",
+      "equipped-OUTERCLOTHING-vox.png": "dfb745ad0ab1bf4948a0e3883e072da60738db9df2696a276c9d057b09c8d3a6",
+      "equipped-OUTERCLOTHING.png": "7644ea33774c9c5ba09036a9490a82efd1be5c7225f6326a3b0874e8905c5048",
+      "meta.json": "3da400cfc7893b1bae6030c9e94d497d0f9bd9fd35e95b4f4b6f924c29e98d85"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "2b2c3cf1c08702c1c77a08e62a1cfc57c02403a19e8931780bea23c912dd4740",
+      "chestplate.png": "ec221a3e907d51951f0eb8baa9cf7b3d3e96efcb21d007bf3f0f3a899a0188fb",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "2f4901b8eeefe06faa11567c05be8bd7493fc0a9cc37bf07c5ec7d857c824457",
+      "equipped-OUTERCLOTHING-sealed.png": "5decae19a231c5efb64804d4cff7528b9aeec6003c919af2f7df15a723168eb4",
+      "equipped-OUTERCLOTHING-vox.png": "52c0dcd89625edcbdbfa8a0cdab865073cc51411b1992a53cafd186d2b31cce6",
+      "equipped-OUTERCLOTHING.png": "76672cd69d3853a3d99934fd9451421e6f679118752f6cb2933fe0230affab34",
+      "meta.json": "3da400cfc7893b1bae6030c9e94d497d0f9bd9fd35e95b4f4b6f924c29e98d85"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "fea1086f1762fa497864c3226fb886c2da3fd8134756738dd94af7d9ecc681aa",
+      "chestplate.png": "afdbfdb168d9d5e8f63286625777bdfe7547e3eb61f45a632bd70a2f5df20a35",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "4c0f63cbed3083cff5ca10aab80fa72d8c3aa05fb90298e30535e4f6c7411280",
+      "equipped-OUTERCLOTHING-sealed.png": "c8ab6e497e73152aa0c7120aa7f722a1e75399fd3ac990ce34676f6d01680896",
+      "equipped-OUTERCLOTHING-vox.png": "98610701a927e2422adecb78165075b20236b0d7bc378ab1614c8465d04fc0c1",
+      "equipped-OUTERCLOTHING.png": "52e9b10d57177d21cf155741ce5776f559e1ebdbbe3674ee051edc71e7f30fd6",
+      "meta.json": "2696e1657048ff7e9ace2323eedd6b9846422584fb48c9623b2b838811b8103c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "a50b8c26dcccde7a11e311ff40b11d2cd90443b6298cb7da84288a90d51443a5",
+      "chestplate.png": "1574bea2718b548f29103ea47b915f866c3a6087bcc896a573c4c28f070574c0",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "b5084787b021464179c8f7c39e4ed5264e31963f36f169c1673d5f2d232cce76",
+      "equipped-OUTERCLOTHING-sealed.png": "9ace34b1f8773f4e79dbf56ec48a3756bf2f9f6facf6b1defb1dd945ce5a5def",
+      "equipped-OUTERCLOTHING-vox.png": "bb1fddd571c7653256eda234be10cc3d964d8072f79d74f06e52513f2b1220a6",
+      "equipped-OUTERCLOTHING.png": "e8accf3d8218810eb2edf0ad4796100f0f7f6e91007c3ba42da4153560647d45",
+      "meta.json": "3da400cfc7893b1bae6030c9e94d497d0f9bd9fd35e95b4f4b6f924c29e98d85"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "4f6fe33718878fa3dabd97974dbec171d3fd4500dbfbebf9bba44a2e79ecc78c",
+      "chestplate.png": "ef3d2f32890b17f33debf469ac3215444ccf96848a75a8a5e7ea91e29ba2fff5",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "9f24fcf6024d6acb5d2d97e58f02aaa411f83a91cd3175739a8c5db227655830",
+      "equipped-OUTERCLOTHING-sealed.png": "2196370de25b2d4605c1594deeda29fced43a38e95b7d2b9d44d27bd9fae5839",
+      "equipped-OUTERCLOTHING-vox.png": "e5fa3b0349d1e67a75b3816cb4113dc26f6d7c9f13da1673c7b601e1f2355d38",
+      "equipped-OUTERCLOTHING.png": "19ce9b0c92e386220a01a8255b6029b8928822b9bbdfe029ccead0546ae2d5de",
+      "meta.json": "2696e1657048ff7e9ace2323eedd6b9846422584fb48c9623b2b838811b8103c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "f5a97a492f5ba032e9d8e1841d143868bdcfa75af7861ecb750522135a4d1914",
+      "chestplate.png": "2ad13171888cc39ee96e4689fefccb25c0c128fc677bc98eccbdde39ad8e54f9",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "ca0ec764c8e3eae617224724c6bf45b96d7412be5307be01e0651a5b6be14992",
+      "equipped-OUTERCLOTHING-sealed.png": "0587990ebdbaeedc4ea50883e036d709153976afe8d021f1b33931098c9b4a8f",
+      "equipped-OUTERCLOTHING-vox.png": "db48b5765faa63a57a1694716a88e95f8b04a5c7bdccf0d72869223e22ef9955",
+      "equipped-OUTERCLOTHING.png": "ba6e761a6a32124c2829f1c366e6ba11c81f61cb2a522fdfd5d93fb6375b287b",
+      "meta.json": "3da400cfc7893b1bae6030c9e94d497d0f9bd9fd35e95b4f4b6f924c29e98d85"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "3bf0b52309851ecc5af3f315ef157b0fa86ea368544e495fe2312c4c362aba2e",
+      "chestplate.png": "d3043c1bd0a67924770da93a2c7e92eb1c75f886469a8f0ed17aae1ec268900c",
+      "equipped-OUTERCLOTHING-sealed-vox.png": "2f788eeb1c66485e017d4b2900242be1f11caa328acc08450f49f059206d509a",
+      "equipped-OUTERCLOTHING-sealed.png": "1a7aa66148ccfe3b23f068d3edc0baf2d3f30111192d8d66e077f6b839ad6f76",
+      "equipped-OUTERCLOTHING-vox.png": "d092b31934d4dd196e5b4f726e83d68a55065976b5599ea362e804935c0c7881",
+      "equipped-OUTERCLOTHING.png": "f05feb14fcbda3b9169dea9b34e3446f9f1c40e5ac4581053c35dd40d072c561",
+      "meta.json": "3da400cfc7893b1bae6030c9e94d497d0f9bd9fd35e95b4f4b6f924c29e98d85"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "chestplate-sealed.png": "3e5bf2950ce850cc4a5798073751c61b9e7f942692724c7cd37b5a4c1509c6e8",
+      "chestplate.png": "265f17b5d627e97dd5f5ac6240a0e1a048b34d57a005012b8e7fc1f1d9e5359c",
+      "equipped-OUTERCLOTHING-sealed.png": "fa13b31e1d500fefc0dd1973160a9151d2730b0fd02b2ed25787a8ef210fe4ea",
+      "equipped-OUTERCLOTHING-vox.png": "86b5db7bddf937d44aa16cc271281b175b77b04946e312cf6557df9eef5b2e34",
+      "equipped-OUTERCLOTHING.png": "86b73d378c64d1d225bfb394431081eb21df92f7e3c2774f99005d73549a26d6",
+      "meta.json": "ab5a8bcbb1ee2a010f888074329539cbc01586ddbe404a7cc0c6204acc708f52"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/OuterClothing/Voidsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/OuterClothing/Voidsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from baystation 12 (ONLY equipped-OUTERCLOTHING)- Goob Editre-added the base security.rsi because one sprite isn't enough why wouldnt we just use the one we HAD",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-reptilian.png": "de7bb3f161b534355ea46717f257c9926a21f78d2003e7fcaa4fbf5a89389349",
+      "equipped-OUTERCLOTHING-vox.png": "6ffa09ef9f540005aba1db8d815bfc1410415a5124368de28302e0a013bf2ad6",
+      "equipped-OUTERCLOTHING.png": "63bced928379d86cce083777f712f821b3726b489d20538b25b6bab88279c808",
+      "icon.png": "6bc932eb27b34a85c3e65d6229abe31a4dcf72d0ccce3eced9d3bcef62dc6fb0",
+      "inhand-left.png": "8b9da4f63fc4b7350465c590dd4e20f76206909795e34d7df26b1168003e6f98",
+      "inhand-right.png": "c1d378108b256c2e63e016d55b4ad9964337c04966a47dcc05c97fe82dbee0aa",
+      "meta.json": "5b47f75310348a155336b4ef659b115c036ceac3bc1760a6cc748291b15fd389"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/chronolegioneer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Boots/chronolegioneer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-FEET.png": "c4d83f0f58e6c7f7eb6642c42b50adb967ec557a848d31229afe87a1b30b8d83",
+      "icon-on.png": "e8dc0698e729d1d0abda793398a112eb4aebedc524e8c95441218864ef2f189d",
+      "icon.png": "d737dd909ade9b0797bfede69fe2c9512fe46b56a6bb23af93274d49d1be0eef",
+      "inhand-left.png": "147f171726e1517ecbdd37cccf9d4f7ead96b4c0d0ea179d04084bf64c4635ab",
+      "inhand-right.png": "6f42c143ce9cc6557646fc649d83e06c8fdc14409e0fdcca0742de84b5c7946b",
+      "meta.json": "fe5eca87fb13b419ae1192108f250d41f089bb2f3769bad9fcd7e555bcb7e5b3",
+      "on-equipped-FEET.png": "901769acfe694de48a1c1647d5b7f7386907d813ca626087b8cfda130fdfd243",
+      "on-inhand-left.png": "f6e84ebeb727becd4097b96d9031896ada5644b7a3bcebdced521c685a510d07",
+      "on-inhand-right.png": "de83cebd73d2c05338be51afcccefe49d5519029c3354677b07a4e01c72fd166"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Boots/chronolegioneer.rsi"
+    ]
+  }
+]

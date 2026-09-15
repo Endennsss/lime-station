@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: MedicalSupplies
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: firstaid
   product: CrateMedicalSupplies
   cost: 2400
@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: EmergencyBurnKit
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: burnkit
   product: CrateEmergencyBurnKit
   cost: 700
@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: EmergencyToxinKit
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: toxinkit
   product: CrateEmergencyToxinKit
   cost: 600
@@ -41,7 +41,7 @@
 - type: cargoProduct
   id: EmergencyO2Kit
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: o2kit
   product: CrateEmergencyO2Kit
   cost: 600
@@ -51,7 +51,7 @@
 - type: cargoProduct
   id: EmergencyBruteKit
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: brutekit
   product: CrateEmergencyBruteKit
   cost: 600
@@ -61,7 +61,7 @@
 - type: cargoProduct
   id: EmergencyAdvancedKit
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: advkit
   product: CrateEmergencyAdvancedKit
   cost: 1200
@@ -71,7 +71,7 @@
 - type: cargoProduct
   id: EmergencyRadiationKit
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: radkit
   product: CrateEmergencyRadiationKit
   cost: 600

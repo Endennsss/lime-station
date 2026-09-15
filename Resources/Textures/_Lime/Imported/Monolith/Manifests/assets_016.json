@@ -1,0 +1,804 @@
+[
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/charon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/charon.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "bbd7c4ddb95f435bddeb9d71016c6d07e9a6a3fdb593e435b8dac7ee4b8264a8",
+      "space_artillery.png": "4498d4e7e4461de33f84dca678e87254d2a6967cdebab9d1d465b371426caff4"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/charon.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/charonette.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/charonette.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "bf2b3cca0faed02aa75286427e2e4c56eb22f430198043bf65b12232d09d314a",
+      "space_artillery.png": "fd8a49ab0643706cef64f28d5eca95371a79af246cd18e88cd505bc8abe7bf39"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/cyrexa.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/cyrexa.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord), Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "8561ae62de82a2f647f24147e1289d9b5aa395603abc751b1196ac28a9f643df",
+      "space_artillery.png": "2f5ca2277b0c003c49d75256849e30c8b54d1c0d8d441a2604604116bd1d477a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/dravon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/dravon.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Created by kyres1 (discord), modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "96c726546658c7dbf0a1164d8678af17bf513ef507c579cf575ce110026d9545",
+      "space_artillery.png": "4c55ed98c84532779e75b20d98a7d4537bd0d3689ee849f394a24a6b0880cb46"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/dymere.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/dymere.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "43deb4942560878a2a3a8c9d5f0097fe240cd86336bf5af8f822e43cff5a7ee4",
+      "space_artillery.png": "f4075c2c3eb47a0dd58b8ecd93cd7136e92e1a7d9e4fd7b4d6a005361fc9aa16"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/entropy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/entropy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1 (Discord), modified by Avalon-proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "434765f86b0a5dd26f834b3d87f3abca92b4cf1d98a12f8f22df8573e066ad07",
+      "space_artillery.png": "db4705c6743d13211e3c3e715bba05f33bec8105c23b497af839beace2a0bcfb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/fang.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/fang.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1, modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "4544f646537c1bf00f000976fe9aa8b312e6d45966a70861f313fa9548dfdfb7",
+      "space_artillery.png": "fd1e0abf1b4fb8a818c53475fdff7b3ebbf83883a8be12b7c55195ca396f6055"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/flare.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/flare.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Based off of the shipgun sprites by Kyres1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "6518efce66c978a9e35d574d97d346447dda5e4e342083e430f88a04b6c50830",
+      "space_artillery.png": "fac16ec5fdd01cceb453908a514c8af010c9f2d796b79ff6ac9341840bc028d2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/flayer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/flayer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Kyres1, Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "7a7b8c94d6aa17e6123b25bf4ddbb87d880c0e41c3a1116946d104c152d1bc20",
+      "space_artillery.png": "6a4016899a7784d40652a5308649dae3289e145c725e99d2456cd516b4c14b2d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/fragment.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/fragment.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Avalon (@427991401624502274 on Discord) for Monolith and modified by Ilya246",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "41994d8bfdcf8c7373aec2e39c9d971467114586505495795765d1f0cbf715e9",
+      "space_artillery.png": "4d5a54fc1b728743f54b805923d463881235f84b0b806fb820af45d861c9e7a6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/hades.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/hades.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "385bbe67e58d8ecb6a377e291bbd889e8389cb1e438531c1140e2d152b4d6402",
+      "space_artillery.png": "96916e33f5589d3c61342150f3017850f7ee8518172a1b5631ef38beb286239f"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/hades.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/harbringer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/harbringer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Kyres1, modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "09b14c5dd8ee43763d6f7c15d464a0974d4ac4ac707215a504772fed403a50b1",
+      "space_artillery.png": "5a5b40568d283923f2625491624f3409bccc07852fcab3a17020ef21a19b738f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/hlgg9.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/hlgg9.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1 (discord) modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "439d6ca38482e2d2faf499ee64969fa549d28f5ef1dc2377a001924f032069be",
+      "space_artillery.png": "24e961a2c87e250868c663b90d38e71375eda48840270cfaaa82f1c961bc8925"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/hydra.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/hydra.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1, modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f927a8eb075cd5163430a1e0e8b06420e6c0d3ec66e0bc02b5e3f247652afdd6",
+      "space_artillery.png": "8b9c63dea063e59d70be87e31574d6e56c8026a8f608efe54a93ec6cb2376787"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/kargil.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/kargil.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by zeranov",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "7b76548105e5d200d0dd13338dfa134c780c008e9e586ba99e21053a5836d5f6",
+      "space_artillery.png": "84517e2f41b7f538386b40c8864e7f3c4038dd0696df5220e85cb798a2f613ac"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/kargil.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/L85.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/L85.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Onezero0 for Monolith",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "8addcf2b640108589a09d82c763e57ec78666e944d94e19cab6b6465589d967c",
+      "meta.json": "c216ff06673e769f30ee1c012c1068a76b2109b2af94d6661a6f8107ffe5e49f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/leviathan.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/leviathan.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Base made by kyres1 (discord), Designed by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "3cf134a4581dc371ee6b942dbe04422200a7d579f398acc5865fbd9af51ec038",
+      "space_artillery.png": "c22ef588e955b6badc4cae97593367a70203010170d800976bafbd2556f50729"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/lightmunitionsbay.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/lightmunitionsbay.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Onezero0 for Monolith",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f15bb04e50c694bb8258922b75638ff7f6534ef0b7959dcfebf52a0cc6bc800f",
+      "space_artillery.png": "c113a3f41bd70f96e4521930e8f9a6e301b49ec6224e9231a480d4cf9c16d32e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/longbow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/longbow.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Kyres1, Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a89a979ac111a7d80f27c33be3c90d23a82a17c2e0ab8a9803777e730d90d761",
+      "space_artillery.png": "161e42872d9a11b7a89f6f8aa297b6d94920e3200b534dd6f6e7db9910f0b4b7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/m25.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/m25.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord), modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "657850265746445540665e77ddeaf014a835a6ae23980bf0f1b379f85b4dc8f8",
+      "space_artillery.png": "325f3be527d323ac8c057e8ea9c321c426807d86c1ebabc85b53526f76fb92fc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/paladin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/paladin.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by NazrinNya (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e16ad857d2b100ab093a14ca0fc5b4d6eaab47c6b946031053b3c36fa740ac83",
+      "space_artillery.png": "f30309f3c46c4dcbcb39a3ef06266efe920acc4a5bf87dc718aba3e02ef4254c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/pinhole.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/pinhole.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Avalon (@427991401624502274 on Discord) for Monolith",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a5673f9e3c00a8962c8e213a36268e431274444cbdd744c3a0487fbdb88e6198",
+      "space_artillery.png": "642c1a2634d73664b90ddb190863e21d1a247de21928c6f34e28ed32ce682922"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/prometheus.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/prometheus.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Avalon Proto, Base by Kyres1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "55c542144dfaa9749963658b93c8c5fd4a9322c43140be23997d2a2630c1b9f6",
+      "space_artillery.png": "e1ac5211f16205aa9fedf5711e9c34863ac591302a750c2b1ab5ce1a1b025be4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/rac-30_draupnir.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/rac-30_draupnir.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1 (github), modified by Avalon_Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "4f26aaf8c623cce40687e37cad6f3cf313c1d9aefa92aefa6012bd24621108cd",
+      "space_artillery.png": "42e1fff71c3285e44911066a2b80e61ad38dd269e8fba4c33524a1973540dfd8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/reaper.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/reaper.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Kyres1, modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "09b14c5dd8ee43763d6f7c15d464a0974d4ac4ac707215a504772fed403a50b1",
+      "space_artillery.png": "50fc4fb4141ea753f8e971eb2aefabb77f9c4bf91f02da03c6e399c2f468756b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/rubicon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/rubicon.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord), modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "657850265746445540665e77ddeaf014a835a6ae23980bf0f1b379f85b4dc8f8",
+      "space_artillery.png": "4d0600f9150330be5bd02bb8dbee3cf76d33137c674eca6a4fae1c40f7154adc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/sandbox.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/sandbox.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Onezero0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "AShMtube.png": "f120e7962a9cea9fae0cab252908f960e52150fd9cfbb314ab300b7dcad9dbcb",
+      "mag-0.png": "18939ba2e2b28d267e28af4f304302c61f557cd1e47d300474427617c7b4d9ce",
+      "mag-1.png": "1208bff8d3f260d1ad8a19a5f4b36feb49d59df289004864fa52f1f2db46cb6c",
+      "mag-2.png": "e8c9c97d17efd70d972018b5ac3b065ade7c42957b5a5490f0cad457e1cfe4e1",
+      "meta.json": "28a5a43f6172b799b137820170c9ddd04e0b1d7c7fffc9b22cd1b5f8315a37a4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/scylla.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/scylla.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Avalon-Proto, base by Kyres1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "9adcd7b1158fce813c430abeff4e8a0b9c348b111754bde95a74e47d5852a4a6",
+      "space_artillery.png": "1947f42fe80538811e09a2b4c7b36851a12cd0c091a9ff94dc708b39b45a9505"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/scythe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/scythe.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Kyres1, Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f67c5e7c48eaf85ffb17843b6341be63e58f1dba5c3a9a3013a656eacf653a0f",
+      "space_artillery.png": "f92369505aa182bc7d9bc4f650d44c936a6d3b20f46e2d72b295451ce11c0871"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/serpent.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/serpent.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1, modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "9526ae71668bb96bd872e97b91a6f7c4d1436d4f44e47df6ad4d5ee0ad04bc8e",
+      "space_artillery.png": "7a9c3da7ca165f3cbf7bd7dba0e4368d2e82d044289b120b9020d189c7f00ddd"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/shard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/shard.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Avalon (@427991401624502274 on Discord) for Monolith",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "3b2ad694a1b74c82aa863eb9207bcd67fdf540dcbf9c8897a57b2095334eb89e",
+      "space_artillery.png": "db6386f9062fb7f3251217361cb5b0f163d267ae41a1e742be567c0906d48b97"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/sunder.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/sunder.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by Kyres1, Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f67c5e7c48eaf85ffb17843b6341be63e58f1dba5c3a9a3013a656eacf653a0f",
+      "space_artillery.png": "23844a080e94eca02df38aa20aaf3862e54cd42c03e9f9f51173e168a55c5214"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/t241.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/t241.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Made by kyres1 (discord), modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "b603ba103d81f223442d153441f2a25ae00a2e46f1850a127ef35efcba0d8a42",
+      "space_artillery.png": "19e96c192806d2aeb057c3e5679379132d4f2e422626b6298c2a76685480f6b3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/t35.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/t35.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord), modified by Avalon-proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "6744730dec5ea37a30618b95a885e0c0880f93f41e9ffd05366b19ce47638934",
+      "space_artillery.png": "b8f9cf75b644e0365e9f9fd6c25b9b46f2fe64ed832abf74b0da26905d649ef0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/t54.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/t54.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord), Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "b7cdf3fcbdaa273d3cebbf203cad1d10dcdaa6ffa5c0bdf26f01384459407f8c",
+      "space_artillery.png": "884cc1e721ecbd586244203e3b3ea9f03d6ccc2187153bd256ddb16d58d118c4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/tarnyx.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/tarnyx.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Created by kyres1 (discord), Modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "1101051ef2b2a858f77fe19b7f524ee8dff2490e06b393769f05e923aa831673",
+      "space_artillery.png": "0997a1802218a475e140fabfc984a910fd9a4a33195ab73c13589da79cb0eea5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/tartarus.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/tartarus.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1, modified by Avalon-Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f927a8eb075cd5163430a1e0e8b06420e6c0d3ec66e0bc02b5e3f247652afdd6",
+      "space_artillery.png": "fd363d57bab5d3d9e7581dfacd925f100b93e4a96a2cdc460bd37a09d0fbe701"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/thanatos.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/thanatos.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by kyres1 (github), modified by Avalon_Proto",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "1e0eea0cbd1f6509eadfb5d8b6fd7230b089b72b762fbeef51ac68196fb91a81",
+      "space_artillery.png": "0d11097a033d303dab2f3defaddad218b00d49ac5e9c050dfe1036981cd582b7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/tovek.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/tovek.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Created by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "91e590a05630b8144ad80e712413f4f8333ad80f7a4ca8e0e7f891e4452ccf4b",
+      "space_artillery.png": "8737b6428be29ebc64c3b3e61e3215a472ce05e1269a985473c9e2a64ad91861"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/tovek.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/vanquisher.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/vanquisher.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by NazrinNya (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e16ad857d2b100ab093a14ca0fc5b4d6eaab47c6b946031053b3c36fa740ac83",
+      "space_artillery.png": "3004ffbfc50d1558b782d09447e80029cf91a346faa0b006136796b414f22c37"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/vanyk-MK2.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/vanyk-MK2.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by UnicornOnLSD (GitHub), original sprite taken from https://github.com/Monolith-Station/Monolith/pull/67/commits/336edc25edbbf4bd78c682be67028f213ac1cd18",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "73c1aae086559e9b82dc888b567c5acde40a859f016069835a4692f164649fcb",
+      "space_artillery.png": "07ce4b4d30d0c2968e1aec66db204e9f2371f4c94beafe24f663b37f1efbd253"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/vanyk.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/vanyk.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "61562d03f6c2a75a53a92b385dd6031b526bb16b0429dfbec9d6e2eb4f55aba8",
+      "space_artillery.png": "3c4e52095e5a60c1e779c05b4f7a027a16ce1d34e49e66395c5eb6c3a3d9243b"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/vanyk.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/vespera.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/ShuttleWeapons/vespera.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Created by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "1fbaa565d1da10c2c29144f2093bc6cc8852a33eb7be675a1831dd5d01a0e474",
+      "space_artillery.png": "85c477fe970aeea89abac93c060a37f5d1029ecabb79c47a0ca0e9070b6a6221"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/ShuttleWeapons/vespera.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/50_armorpiercing_machinegun_casing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/50_armorpiercing_machinegun_casing.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/8a848cde3e8610455f77704e861e5a06315a3b0e/icons/obj/ammo.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-projectile.png": "d95b1ae45da109118cf2f1371deeb71b3997436163b39edbb04f1f7c2b268690",
+      "base-spent.png": "662a2778bf6517f0cd313ee3c32f5009fe2fbd5d7ac2dbed3a94f89b5a97d441",
+      "base.png": "72d38730badc548e197313f53d1a738061660d90d1d1d95e5af45444b6a51bba",
+      "meta.json": "8253b507634b3b80ae5eb53c1a1115631c118aca52c73825611c7b19b705b478"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/SpaceArtillery/50_armorpiercing_machinegun_casing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/630_armorpiercing_shell_casing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/630_armorpiercing_shell_casing.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/8a848cde3e8610455f77704e861e5a06315a3b0e/icons/obj/ammo.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-projectile.png": "ff9db3c44dfe4e850eb5410944da5f3e0df52f2fbeaaf57bbf24e2fa4195a705",
+      "base-spent.png": "02e4aea52af0e31a6730ce0f385ef870c60474abc32ff20f944bb00c82d15b79",
+      "base.png": "cf892353ceff7d0d6fcdc161e31f03b540184ad195fb11e1d7cee28ac9805dd6",
+      "meta.json": "8253b507634b3b80ae5eb53c1a1115631c118aca52c73825611c7b19b705b478"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/SpaceArtillery/630_armorpiercing_shell_casing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/flare_countermeasure.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/flare_countermeasure.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0f6496a55ceefa0f1bf1668fcef49b5182471695 - Recolored by Mrrpip 3/17/26",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a107e375980bb8c7bac14d40236d792d47f9a2cfd5107a33b3b278e8690ea9c8",
+      "sunny-flare.png": "84b85cd2dd573460d544e2bee1bfc32371cc6a75e2c69f310c87000e2faab413"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/hybrid_missile.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/hybrid_missile.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": true,
+    "sha256": {
+      "hybrid-missile.png": "cdf090b4948d02f0d7853dd69c6d887216d859046a0a7f18b5f82765e2f7d8a8",
+      "meta.json": "6f27292aadc81b998e48c8120914440c2b34ca347be8fd4b9ba57052079641d9"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/SpaceArtillery/hybrid_missile.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/magazines.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/magazines.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Made by Onezero0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "57mmHE.png": "4256d7ad74c007ec63b4e5b9b553bbd52787bff4e6be2487859af12e0f402b06",
+      "57mmHMNG.png": "7709a189c3a19de55ef12c26fc921ec1487c6acf2d83edb39590b63cc22df514",
+      "57mmSACLOS.png": "b4aa667e100883ec7c8ec591779cc976231e9956035574f6c1b6532439120aeb",
+      "90mmAP.png": "ddfd936770638cf0ce30b7fbef28ec400f97076d02ce31f2dbf439bf807bf0a5",
+      "90mmFLAK.png": "83f2ee3ffee1c843285d95e12ea8893025341ab5f92e736b13aff313cb725e6e",
+      "90mmHE.png": "f62ef544aa90ae2dd0680e4f30abcf1e2dc0cf28de859357957f10761cb1325f",
+      "90mmMINE.png": "a836b5562917be390a43e8fe0b3129e81c0ae981f4abb333f8f772e7e04e2a56",
+      "meta.json": "0325a6281a28fab4a0af9489c524a87ca21bbd81afb2c6ac43695ee2fa5779e8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/mini_rocket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/mini_rocket.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Made by kyres1 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "1c8bc9acc440e1bf4a131e84448472af91c6a296d015501f04c8e19e71f80f9b",
+      "mini-rocket.png": "ef37acf995294ade5539e4eb48789c4da384387c818420a92f484eca28914a9e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Mono/Objects/SpaceArtillery/mini_rocket.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/shells.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Objects/SpaceArtillery/shells.rsi",
+    "category": "objects",
+    "license": "CC-BY-3.0",
+    "copyright": "Made by kyres1 (discord), tweaked by Onezero0. Mine state from NSV-13.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "150mmAP.png": "09d4ac3224792f5082c263027258e1733b34a32eed559d51d7994b99f053e4ad",
+      "150mmSACLOS.png": "ea6f355e19949bfa1701ff02537406e4e40c9c411a44a0876473c9d813e0d28c",
+      "220mmAPHE.png": "b17e80947f2de6aede655102712282554b38600a549642929303797094c5509d",
+      "220mmEMP.png": "1d9726b6c0ad2ebc3beb24c57031162305b6f3b5f9ff47e86b53a2291bc23608",
+      "220mmHE.png": "8790ad231f873bbd928bb2a311ff6753ac67af210e3313c8948466a845c4ef94",
+      "220mmHECLST.png": "342bdbbf3ae88bb58a0f9230b216daf741570625f20379e8207a3d5632308481",
+      "220mmHMNGCLST.png": "72dec7a67539942a635f72bb60c0dac6e646cc3bf9dece3257400f3d142596ad",
+      "255mmAPHE.png": "bc7422ade8114b77df5390512e6ca0b5a14baa01c6b53140a0991031e1e1400a",
+      "255mmEMP.png": "585d4e09cff79fe0342d1160f36fb2de8661af033804488b5a2817e479bfbb62",
+      "255mmHE.png": "a7714e2f1bcee1bbaaae31919939528bbbb4d0fec6b6bfd62e96c2f5e278193a",
+      "255mmMINE.png": "cb6e14fcc8dd1b1020a34033bed1eff06cbf2bb9a4d72782ae09c4e4ff3ed446",
+      "57mmHE.png": "699ea63e60c95eeaaa8f680034b024cff0f79ecc5203e428aed4d61b7c1b5b16",
+      "57mmHMNG.png": "960f58096af5d4518d700e1e1bd41e237c178d90fc8204fccc2d28caf1adec34",
+      "57mmSACLOS.png": "f3b16d43b69d36ac8bce9aab45f2b65556f29ac9145e9bc9e321276b173e8fef",
+      "90mmAP.png": "a38a3cee7b980216d238ae488f77f432b5ffa78e4682c6a819b6a96d121b5821",
+      "90mmEMP.png": "2767d730eae8ac12eaf7135694daba5fa03a088f574542e001193250e771c5ec",
+      "90mmFLAK.png": "25988df93fa5ea2d3f13864c29cff59c01f3e63b7e334091f547ac50e851121d",
+      "90mmHE.png": "bacfeb5b583257ec7a1920c63a1e58305f402669ba77f294fce4564d7a99f1b0",
+      "90mmMINE.png": "b719dd5bb21c4ae26ab2e7795fd5fdcd461b833e00ff7282532f0d2072f4024e",
+      "meta.json": "462fce922544ee930c7035c1fec27ac826284acc8606181c74b7588d62d6ae41",
+      "mine.png": "63e70645eaefcedb5b97341458dcfe2566cd620f0b1ce2aa4804ed6ac75ba09f"
+    },
+    "replaces": []
+  }
+]

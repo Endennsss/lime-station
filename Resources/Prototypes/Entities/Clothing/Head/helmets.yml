@@ -82,9 +82,9 @@
   description: An extremely robust helmet, commonly used by paramilitary forces. This one has the Nanotrasen logo emblazoned on the top.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/swat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/swat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/swat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/swat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor #This is intentionally not spaceproof, when the time comes to port the values from SS13 this should be buffed from what it was.
     modifiers:
       coefficients:
@@ -109,9 +109,9 @@
   description: An extremely robust helmet, commonly used by paramilitary forces. It is adorned in a nefarious red and black stripe pattern.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/swat_syndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: HideLayerClothing
     layers:
       Hair: HEAD
@@ -204,9 +204,9 @@
   description: A robust, evil-looking cult helmet.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/cult.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/cult.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/cult.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/cult.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IngestionBlocker
   - type: Armor
     modifiers:
@@ -482,9 +482,9 @@
   description: An armored helmet for use with the syndicate raid suit. Very stylish.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/syndie-raid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/syndie-raid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/syndie-raid.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/syndie-raid.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor
     modifiers: #There's gotta be SOME reason to use this over other helmets.
       coefficients:
@@ -505,9 +505,9 @@
   description: Cool-looking helmet made of skull of your enemies.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/bone_helmet.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/bone_helmet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Head/Helmets/bone_helmet.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Helmets/bone_helmet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Construction
     graph: BoneHelmet
     node: helmet

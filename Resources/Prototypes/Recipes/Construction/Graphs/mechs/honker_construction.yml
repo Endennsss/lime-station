@@ -101,7 +101,7 @@
 
       - tag: ClownShoes
         icon:
-          sprite: "_Lime/Imported/Goob/Clothing/Shoes/Specific/clown.rsi" # Lime-Edit - текстуры Goob с сохранением лицензии
+          sprite: "_Lime/Imported/Monolith/Clothing/Shoes/Specific/clown.rsi" # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: "icon"
         name: construction-graph-tag-clown-shoes
         doAfter: 1

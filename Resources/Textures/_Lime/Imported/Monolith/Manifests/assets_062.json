@@ -1,0 +1,47 @@
+[
+  {
+    "source": "Resources/Textures/Tiles/Misc/clockwork/clockwork_lattice.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Tiles/Misc/clockwork/clockwork_lattice.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/99e6a1b09e800f1dd5ac6003053e0a8b05939511/icons/obj/smooth_structures/lattice_clockwork.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "clock_lattice.png": "5a8571eeac3c6e7cc742ad92d03c461b68898139245d35c2484656f8cc8e3bc1",
+      "meta.json": "9a9eef18c14035bf3d799f814dcad824d993a571692f1e00d50cd99b3f370311"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Tiles/Planet/dirt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Tiles/Planet/dirt.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/FortunaSS13/Fortuna Fortuna commit 2a9408a47e2f83d945335e4feeeeafb552173e6f, grasslight and dirt by Peptide based on grassdark.png and dirt.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dirt.png": "82264780e0c7a5816f97ea322f99cf7cc016f73a422410b5e1cad6f7ae9e75a7",
+      "meta.json": "944bc35b7ae8c91f2a72dee77a1e0bca82af95096bb79d7b2e549415a1ccef6b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Tiles/Planet/water.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Tiles/Planet/water.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/Citadel-Station-13/Citadel-Station-13-RP/tree/2ac1c566b89a6862c46380de02700c7c0d21a10d/icons/turf",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f6efd67478806a0c46b93ca6e7e3cf4eb63d833b423853fabb4e05850dcdcb3e",
+      "shoreline_water.png": "997858c7d8a130b48d741cc0dc08e05ff470beafe7f98b5760fcad6f7782328e"
+    },
+    "replaces": []
+  }
+]

@@ -51,7 +51,7 @@
       - !type:ChangeConstructionNodeBehavior
         node: start
   - type: Sprite
-    sprite: Structures/Machines/parts.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: box_0
     snapCardinals: true
 
@@ -114,7 +114,7 @@
       machine_board: !type:Container
       machine_parts: !type:Container
   - type: Sprite
-    sprite: Structures/Machines/parts.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: box_1
     snapCardinals: true
   - type: Appearance
@@ -156,5 +156,5 @@
             min: 1
             max: 3
   - type: Sprite
-    sprite: Structures/Machines/parts.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: destroyed

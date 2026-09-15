@@ -1,0 +1,1127 @@
+[
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/rewriter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/rewriter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "48aeddf02a68285eb447e50cec4021b9147bf3b98ebee6cef46ee87e08af6bf0",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/robustnukie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/robustnukie.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Potato1234x (github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "84397f531500f65a2d5214e7d8cc138b5980aa3b4508d2bdb1c0bbf9386579e1",
+      "icon_open.png": "8bd17c7855ba85b1ab3f1c2dfea52a252491c27f2bdd8d6b307ea36b165be1f5",
+      "inhand-left.png": "c759ad2ec21785149af89fb330757967eddc7dea5e8415b499e00d55e7d96bc9",
+      "inhand-right.png": "0cce80783cab63323f65666d70aae4705cf5353d3915d2ffa58e521a43960a09",
+      "meta.json": "e79622c33f61992dc6b10f9e0edff032a37a6c0f57e72dfc3060bdd410b09952"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/robustnukie.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/rootbeer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/rootbeer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi (EDITED BY Plasmaguy#6148 [Discord, liable to change] / jrjr3000 [Steam])",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "53f61db225ac4127281e3e08feebc71164be190265f85bd3c111f3d2ea04a4a3",
+      "icon_open.png": "b8d71a80c4a68c3b3af98bde4550853e4eda8bfccfad83ea634472fb87d50e20",
+      "inhand-left.png": "cef236d39724ff775aba457d27137bac443389aaf0581b895200165b829a13f1",
+      "inhand-right.png": "5369241c4b0aa23630c0e2437faa04a014da08a71e0e4a6c2bba00a520dab001",
+      "meta.json": "18d3a50a6a9c9feb68fde7ab572a5f3b5cbdd377ffca773a95708a2b57d07f85"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/rootbeer.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/royrogers.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/royrogers.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "37b9c36eb92135097bdd44c73a03790c0e7cd445cf5a9a58ea8a889d9e42f9e2",
+      "meta.json": "66229635a8728bf64a0373d2f2724447656b9741092145dab05ff8cd299c65a2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/sakebottle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/sakebottle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi, recolored by PursuitinAshes (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "7eff985885c3b63f4cb8627f304c6876cf1c04661d51a63902fc84b981183283",
+      "icon_open.png": "1d85aa8e7567ccbdfca89da4724c94f86fac4fc8b9667e071c149f45b56e6abc",
+      "meta.json": "f5913944dac97548e964ab6312601f8e749dc7cce74a7cafe22b4ecea28ba4fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/saketokkuri.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/saketokkuri.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "b75b0325644572fa145652ddd29d5e7ebebf4902596c7cc1b13eddfa6bf1c016",
+      "meta.json": "a94b17d365dac524f5def6e7f74e3604dab485977915359bbfd5b0201bb19462"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/shamblersjuice.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/shamblersjuice.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/70ccd0f2305286a1312425a85365881fac16fcac. Modified by potato1234x (github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "290374bec61c728a79441256d1c9379d89bd9d8175a6d0d9594b371cbdab4170",
+      "icon_open.png": "035ba8fd4f0297bce0beec355ba74367fc3bac197b1e958d652807728dcca11c",
+      "inhand-left.png": "df3d088366f0d6d3b009cbce168ac1ccc72167585b3e3964fbecfdc1cf306863",
+      "inhand-right.png": "b47f1dd507cb73381597ba7a2b784be22287ac33d19052c80025c7ca7cb773e1",
+      "meta.json": "869b15bfa3b841492aa94b5fadcd23d0a5bc669fe138db9fb31d7d29f546e9b7"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/shamblersjuice.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/shirleytemple.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/shirleytemple.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e5345df36a456f31a86ed690f4064e66373a8fd942b799ae34a416f49f326d46",
+      "meta.json": "6b97dc1dd94d1d75c88f5610c71c181c384d6ae50f74c07bfa93d347cfe8a6f2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/shotglass.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/shotglass.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi, modified heavily by github user moonheart08, inhands by TiniestShark (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "fill1.png": "09086898aebebecbb2a0995c0d4bd55e2fcd25aeb140191fde00884edd2f1a32",
+      "fill2.png": "ffc0d067a685fe64d0dabf5277292660d3d240bf690c8038d4bb242508c46c18",
+      "icon-front.png": "1d63ff7a5b482a27d5a04e588739031908bc3947ea196a1552a284e5cac54be2",
+      "icon.png": "0d7aa81d0ee48b1f34ab48a3d66a062453c04b748d9aa55a7d3545706ca9376c",
+      "inhand-left-fill-1.png": "311b838e76f3bebf0f0b7dea391dc89c1bf488de52a6d8f71d7651807d40f45d",
+      "inhand-left.png": "28862036aa19bb22addbfdb0c1a443395c4589689eff1fb1cc3f5c617862f8af",
+      "inhand-right-fill-1.png": "72604aad30de39d4fd28574e53f866ff454dc5cb6396251aa93430f52179c75f",
+      "inhand-right.png": "0200a0f2e9952973784300fd51b6e1bf595e0eafc8988e4dc33b24cdae79e7d4",
+      "meta.json": "963f821258c4df64bb662cd78f59e5bdc8144b0311c8fa6ce951edcc3d39abc7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/sodawater.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/sodawater.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "e48beabc023e622a5371928986f0b9ebc828e9edf92eaed61392f99687ac0d0b",
+      "icon_open.png": "65baf5b9148ab1754cfb25a8d3734a37d2ae880f20102deb84531c7ea9d4b7be",
+      "inhand-left.png": "12b0d8f662057ab2f3f5f7b839e8ca8b36d4dd29387170fa6df88d5393e12291",
+      "inhand-right.png": "e34b29d237f53bb5eef9ce46990df94d28e8085de30bc42de33c2e4104f83ce4",
+      "meta.json": "c5236e64c4c049e7d2e7a0781794b00071fcc0205fe162ec765f17a07c382686"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/sodawater.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/sol_dry_glass.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/sol_dry_glass.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f25c7e18eb09f112a8f4579004117ef692a0a4bdf823dd44b52790c3350e8215",
+      "meta.json": "6b97dc1dd94d1d75c88f5610c71c181c384d6ae50f74c07bfa93d347cfe8a6f2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/sol_dry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/sol_dry.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi, Sol Dry from /tg/.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "5109034c7fdaada74aa30f3d57a89e44ef51ef624c7d340ea4a8ab93fe69213b",
+      "icon_open.png": "46aff760b1fd340023f0829676deef11a3da13a8d7c21c806f20a7d894af9231",
+      "inhand-left.png": "23141e15a4f91c87438c0794352a95854198ab48db1bd767adc1ccff193100e2",
+      "inhand-right.png": "b34a0d194f044cb3c4312b326a6df1ff686f931fec9d20e4587096acfbf2316e",
+      "meta.json": "9021ae898b30e5c9fce1a3ed4dfd067175acd0db4833dd706fa0466c6ea0f271"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/sol_dry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/space_mountain_wind.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/space_mountain_wind.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "dd3130cd43c9d2b9bb3a46ec8a2344036172f0b606566b39bb00d7ad3753e892",
+      "icon_open.png": "1c5029423112e83f6b0962e003b8823b583edcbbce8eb00849a494b6be8b9f2e",
+      "inhand-left.png": "c68c6f1d4b66332cad0a8092b4e01590838d6135a77748eeff52b9bab910b9fa",
+      "inhand-right.png": "3055865aa862ea7a476380443919f15c9a031d8eed65f19f78fd61411549aae1",
+      "meta.json": "c5236e64c4c049e7d2e7a0781794b00071fcc0205fe162ec765f17a07c382686"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/space_mountain_wind.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/space-up.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/space-up.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "ae9cfde200631619a0b3a024d3539f9eff22c1db53ae4e5806b816d54d860a03",
+      "icon_open.png": "fa57bb343af80b70f3faa8cd5ba4aecceaa6cb461271084383bc8a93189332bd",
+      "inhand-left.png": "cfa5947a5c2c4013c51502310064f7d47bc720b845880b07a2156a3b8174afb7",
+      "inhand-right.png": "7f801dde3415b5f85329a736ccd970f7df4a1c40e3cc2f2b343272989c56af84",
+      "meta.json": "c5236e64c4c049e7d2e7a0781794b00071fcc0205fe162ec765f17a07c382686"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/space-up.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/starkist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/starkist.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "07c667a4d112c3655082f7426cc5b4b37851a2ae7cd911c056b41806deb847dc",
+      "icon_open.png": "ec8ad225e71a6ac1777866d2886c9133dfb26efdee65a353e5ff06d18757bd33",
+      "inhand-left.png": "51f5bc01d06ecbf007dad9cb1e8c32e6efcae1b1b9a45109cdd3210c9efc197e",
+      "inhand-right.png": "efc058256efde5d91040530737f5069a0d92c5d6c308fcfdafe7ad74bdc00c96",
+      "meta.json": "c5236e64c4c049e7d2e7a0781794b00071fcc0205fe162ec765f17a07c382686"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/starkist.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/teacup.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/teacup.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-0.png": "d39b625f6cbc3bcf5bb3ba8a77edd944abb8b4bbbd6fcae1997d2e704467c0ef",
+      "icon-1.png": "93d2e3be94407c45e6de191f87eb8399ee324524b279c8631ce81243141e6d8d",
+      "icon-2.png": "9f68aee482c1abfc049d2223c05000350022b8c999b82fbf5949db47c2a89aac",
+      "icon-3.png": "05f65ba964bcf047ff2da456ae36401a71ab4c7db25df994a8301605dfba18e5",
+      "icon-4.png": "e1e5fbe4879efc7cfdd8d813082d1e3cbc62516b3874b00482e3edd28f19d01a",
+      "icon-vend-green-tea.png": "8d7b389818026c7701511b7b53ca548bc03daceaf9196f24f94ab1403756268a",
+      "icon-vend-tea.png": "db5dd36f06a5809c9ab59eb504992b3aea97ada9fb0bb2c825d56c468be69756",
+      "meta.json": "a484e7811b46c78d2ec4b8f6f0a8ccb3083e387076a7a5ffbe2b85c349d5c803"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/tonic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/tonic.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/9c980cb9bc84d07b1c210c5447798af525185f80/icons/obj/food.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "2e8a0cf81373771db25c94167c10d2f2566b977c57e7f1ab8caa05633069ac7e",
+      "icon_open.png": "bec260c9fac4aab36512d133d47859e00922b485cdf216d89d3e7449e5cd1906",
+      "inhand-left.png": "fdad41ce23b3b967a4da328086121f2ca6a7bffa60bcc8d9edf2c91b480b089d",
+      "inhand-right.png": "f889dd39d45b7668950f0314c6233483b671c18da36f1d72aff0645c5b62257b",
+      "meta.json": "ea5d358121ff9429d9959552eb7dab63768ef3278b2479ff1a017ef28b0c82bb"
+    },
+    "replaces": [
+      "Objects/Consumable/Drinks/tonic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/vodkatonicglass.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/vodkatonicglass.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "b49c0f220bad26d9b5f6606d302d0a66ee2c6bc6cc7bd9313634d5a0089a11cf",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/water_cup.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/water_cup.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-0.png": "65d8eef390ce31460b1d104dc6a7a6c11b6f7c9e93ff06390c5e705b74ca9e0a",
+      "icon-1.png": "5fca12b8215b282b9c34c8cf7bfeddb6a6322a3fbbdb2a91e699739af67e430b",
+      "meta.json": "022fef49f3270ec8fe3dae08d3910e2777f2a77e6b06f7666c65e04bd8f5d31e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/water.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/water.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "5963a55ec57980ee5d495837f064a482181423a12f7c9ee92a6596d7582a703b",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Objects/Consumable/Drinks/water.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Drinks/waterbottle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Drinks/waterbottle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-1.png": "ef2ddd0c551e1d871ac3d48a5b63d0d491b5ae3add27d76f876fc8da257cfefa",
+      "icon-2.png": "05cd0ce6b198a3e26286d8d20ccd44cfd875a84962bf6da5b028239511fbbf07",
+      "icon-3.png": "d617a4560bd92d3d712ff72d4f923dfbe194b0e2d7131f1bee0d5d880bb848d7",
+      "icon-4.png": "b9b0b6003d0187ff7387fed33a02ed6fc2cb36d54ce0534b1aa50e694e5c14da",
+      "icon-5.png": "31de3ae959a3dd85a8416bc0a26fababb158728f80fab03650d9628fe6e34fba",
+      "icon.png": "88d0170f1972ea40cf01e540cf6eb860348eeb19b8c0b483568efa349dcc0304",
+      "icon_open.png": "9a76dcaa856796d1120630628a10ad76367e7f2112586365ea899a39d024de9a",
+      "inhand-left-fill-1.png": "fef1bb50051e6ce9cc9f0b40d7e9dc32e936aa266c5a92995624fad1d015b73c",
+      "inhand-left-fill-2.png": "ab4bfaa2d978ea0e06577493175f52ed94a2ae44927799b7d6c225027cfacd13",
+      "inhand-left.png": "e0a713515fd8967224cff23060db2edb14a00381ee5e4dbd6bbb1be05012cb84",
+      "inhand-right-fill-1.png": "672048748d5934d24c4b41c6987eb8bc77038a35d99b7f574034b65bc8ffb27e",
+      "inhand-right-fill-2.png": "cb51c5cfdfc61230578094728cbda71f146f73400c93148b9974633940c2800c",
+      "inhand-right.png": "6713665a6ee8068f12e485939aa402dfb461531b5dade19c1ab7f8aba29b12ea",
+      "meta.json": "86c225318f3062afc27813a545ab67e11c7b2ae356752ba0cdb915a09adeec43"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/Baked/bread.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/Baked/bread.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by potato1234x at https://github.com/tgstation/tgstation/commit/0631fe5bde73a68b4c12bdfa633c30b2cee442d5. Crostini created by Github user deathride58, baguette taken from tgstation at commit https://github.com/tgstation/tgstation/commit/7ffd61b6fa6a6183daa8900f9a490f46f7a81955, cotton made by mlexf (discord 1143460554963427380). Cotton baguette and crostini variants by JuneSzalkowska",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alpha-filling.png": "06186ac387fee947d0473b6f18791ead89591da61dacc040a3a92c1bf89fd0fd",
+      "alpha-filling2.png": "8818fc951bd204eeb772248ccac750f7847b1ea2a3fb8bfe424362edc9df7f12",
+      "alpha-slice-filling.png": "52f7f48445f33c58369de578691d85d37233907c0c20ad199d74fc7fef8e0375",
+      "alpha-slice.png": "3faf3c50611ef8c3affbde3162bc45a92823e9cd81665f87ad9d4ddea6f3b27d",
+      "alpha-slice2-filling.png": "4a38e37f997359c3cdf82c9a8661154bbdf823f2dbbe73a8447ab78949fa1eb3",
+      "alpha-slice2.png": "178ab8d3517ac4a835fa4c95b49a5fc329590cffc118fc79ec196e9a915ad228",
+      "alpha.png": "d1b7d3e915be31275a63749921e8e297c29be6dbe13631c7415ed3673982fb38",
+      "alpha2.png": "31a997c771a11290b18657bec32537ca61dfbe3455b65b10ffa5c91d57e67967",
+      "baguette-cotton-equipped-BELT.png": "d52e7dd747e4c53101812d3211aacd7997308c5696fa84e700178bdf6b2b18b5",
+      "baguette-cotton-inhand-left.png": "2ce023a5c74d2dd56c3708cf5adeb7fe910d387fa9fc07f4e43b05b8f7851e0e",
+      "baguette-cotton-inhand-right.png": "d83fff33d4b5e6db324cc483e4322a7fcafdd61506218c5c3e75695003eb62b7",
+      "baguette-cotton.png": "7d63bb55a1441885d7a6afcccac138940e271759121b3108b5f404d74fbd3f55",
+      "baguette-equipped-BELT.png": "9798747b96e7fb5bb45b42c83107c1f3efb39a21a643ebf863272048b2e9fa12",
+      "baguette-inhand-left.png": "fc6c8b08a87263f17940e798faacd79bd61f522323072b3772808d404b593b2e",
+      "baguette-inhand-right.png": "659fb4e68de08820bce450b85b86189fa0dd026630c82c48b7c5c46a0dbd0de0",
+      "baguette.png": "9bea8fe4cfc9b6a89cd0928d901e14c366d866e0a4f1f54e0663a3d19b05cb88",
+      "banana-slice.png": "87bd81cc55084f189282bb20355bf01cfe56a8165144a94117c45ca4ccd59535",
+      "banana.png": "a3864793706fc493c8f036773a3e73a7188350ae47e5b92343207f0b9e07156f",
+      "buttered-toast.png": "3518d76b056ceb0c2575d698e9cc1c8b7f5e6c39b26e34b049df10b267f316ba",
+      "cornbread-slice.png": "19b3d68ba829bcf8fdea5dce11c2a9b45c23709e4c089c245c51b124da7f0f52",
+      "cornbread.png": "076f529394a9923fb3feb57deadb7a63cc994e71a3f240e84f9aebdcd13d630b",
+      "cotton-slice.png": "dbacf01bd1cf62980d58b6d8aa3cd2bd1652c1ad33c200446fc6c1b54d3fbd2c",
+      "cotton.png": "885d4a54958d7887c1823d38e4d496af55f1912a8541708eeed9e43202a75757",
+      "creamcheese-slice.png": "5961139c7afb1db8a01f79468860bdf0b2d31cb3df2ac7503952cd550260eae7",
+      "creamcheese.png": "981da6d8f44a5dd350b79770db31b5a52c7ac4577cb208c11c284c2608c91153",
+      "crostini-cotton.png": "9a537587d7e3d8a5b0eaafc2da81b03bafa88cd2c44a45a55df036dcbc7507bd",
+      "crostini.png": "4131efaca497bb37b332ba34a045b1fd82df64739b7096820b6ea7b386f31b80",
+      "french-toast.png": "81372cbf9f00c002660be29f5e1c457e8e0a9a684dbe1c1ff3b3bb7c6c8d0127",
+      "garlic-slice.png": "5238b912227d5a6e39834aa64efe3223aa1cf7dc55a492b92c6a4aca82e2b0e1",
+      "jelly-toast.png": "6e58355e16c38a8d072b88bb4b183069d519665e4fb4e87df5962d44107f8361",
+      "meat-slice.png": "bcc2c73cd7099c806eeb80faa29a67bafaceeb1cd1352d988a2a071416cad30d",
+      "meat.png": "591fe724553331c06301265b31b538e8e3a6fda4647a6e611321700863828321",
+      "meta.json": "3d5676723f218b4e07f851c49b9e7540740650a939a43086e0d095b072121e20",
+      "mimana-slice.png": "7c5e2d11cc49370bc0d0bc197b4a4005d153e32198fef79edf2abec430c9ce69",
+      "mimana.png": "2a44b64d07c4f580551c1439d3a81450f9768120111d0fe0a76d3af309e2fc27",
+      "moldy-slice.png": "4be01ab9e05e9031f7754641feeaf612a5ff3936a3489f03f519db8df686344c",
+      "moldy.png": "3b9c42476d6a0e7b49d52cbc73969963335fd1e1a0322d0e1120af2ae83e8e08",
+      "plain-slice.png": "e13d212e65a7564d98497016ac1ec8b8051d823dea4ea9f3d1ccce046281a93b",
+      "plain.png": "8a154711cfd6a352ffa3122587ae2dc980ac34554986c6daa03310fdc4a8912f",
+      "plate.png": "81f32e54e9aa8297e431680488b6af999f2b4a77f062c7d74871705be4a5665b",
+      "sausage-slice.png": "d39fcf16658c90a80481411d612abc2a1251d643b35517b842f1293523e8a9e3",
+      "sausage.png": "8678b67c05da2c5373ec0f49a982e8acce270eff24bbb9eae9270b5a18fcfeb5",
+      "spidermeat-slice.png": "31d2c50132674f78cd735089b5c43490f527450e7ce57d67f6583b4028951fd1",
+      "spidermeat.png": "aa6d48820877e7dcf5e40da7aa17992a8eadf2b112d4de38e5bbb09275c602a3",
+      "tofu-slice.png": "9e3b376de0a94a8a3de7ed7c6fe9142a281d99ac3e4218178e73ba27330045fa",
+      "tofu.png": "9f6fa44f0a9c001c9e99fcb995d0b140ae1e60fd32ee7797ddde216f7760748b",
+      "two-slice.png": "cc4d66715929f80de609bb0a43cc05015b943702dac5d973ad699fd5801cbb71",
+      "xenomeat-slice.png": "2f7c0838724b093caccb5ec9581d6de07d26392d5946fc1a46720ab7922796dc",
+      "xenomeat.png": "491d12c86733a2d08756a7baff60f28fdaf550cad41dde609cc481b7e9534a28"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/Baked/cake.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/Baked/cake.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/40d75cc340c63582fb66ce15bf75a36115f6bdaa",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alpha-filling.png": "c1c38b080ff8a9b7f3f77003afdaf3c974a91f0387313d04bc9bc10f1ff74a03",
+      "alpha-slice-filling.png": "7476259914cb0c41abc7614839d4353ca215cb4c335e713a6fa28537fead4ad3",
+      "alpha-slice.png": "7166e1a7bedd6ef4476d86bd04c4b40fc164c952b10e02bc332185c762df1782",
+      "alpha.png": "9ef8e32cc1ec3535e2e5ea0f7fe50e9a4e31b99877b59963cbf51c7c62f65ee2",
+      "apple-slice.png": "70460c025e1a6921c88c215c005c30ee238d99e6400cc00baef602b2086b0427",
+      "apple.png": "031b16a81af4d4d5357ddff364397debe6dfc234db8db241c444e24e30951d5f",
+      "birthday-slice.png": "7f4beef3f9cba6f14d77bcdcd81f7608b8549f4056258d012f25126a881ec857",
+      "birthday.png": "9adbfeed7807fe84bba2eee85216837a321a183a8ed64b2e5d0124d8e78df7cf",
+      "brain-large.png": "cb95a0509a9172bdf879385591391790d750a025866544975066a32644e83ae4",
+      "brain-slice.png": "82efe989ba2d2c75984a276c7e3f83b7888eb62f05ecaf6102c1cf742af48b55",
+      "brain.png": "411485e2c6a4e502211773f15214b622d557bcdae0bd5ef029f32c2b29d48b67",
+      "carrot-slice.png": "6646e8117f2cdb71ec3238c8d830080ce51923a76e24ba11c30a45acbbee9462",
+      "carrot.png": "becbdfeb1636e127887e87f51cccd322509ce0a4c5753afc5286d18bf4a910c2",
+      "cheese-slice.png": "e5de6c86ce782253c9a1a816867f9cdcc0fac6b9494033be1c0e83b96cab167d",
+      "cheese.png": "7ba72496f30be10c95d669885ee56f60c7773ab25deeb351df57bcc585976782",
+      "chocolate-slice.png": "ea78a7c3afe6ff2143829e1e5b66877df26fc948094010309f2a0db35116b010",
+      "chocolate.png": "4bfb80620e699facb909f2d444d31e6b000f9c2fd62c0b7cb9422d9a9a135516",
+      "christmas-slice.png": "296762c3415c4bca5993ccb9ea736330bb53d6d5cf577fe5fb38bbd8e85a1433",
+      "christmas.png": "985ea4c886371814d4e4ca79b952018270fa56547f04ca311380d7d722c550f2",
+      "clown-slice.png": "552003d05c4f54be59b1d57d5cb2073306cd0b7115541e35e966500ded97d832",
+      "clown.png": "e723f14b78ab0fd51680fb8b5496b7dcccc3cac0851420f30f31543c9df63e2e",
+      "lemon-slice.png": "65c7658071346139b687275d3136557396e8b5b93334354493841448d809b047",
+      "lemon.png": "9cc0e7fa06674f2403880bb095964b0498fe18a30d96ccb9bbd59c43e19f1d62",
+      "lemoon-slice.png": "9869a126922abcbf0f54e045f1634f256457fce2858c7b595949bf253f0009c7",
+      "lemoon.png": "d37d4276718c20dfe2c32fe689f6fd8ff27e35054a89089416ecff30ff7e9a60",
+      "lime-slice.png": "2cd745a572a500f40a6ecab6364d0b6abe98ebbd26a8d8dce00cff3f7ad41ed2",
+      "lime.png": "75bd54ea37612b02672bacf22ed9c474e52292fa40418037b7685a4f5481e76d",
+      "meta.json": "9817040979ebaed73e3a45f26ed59c3165fe15136cd78876bcf6c178819ae1db",
+      "orange-slice.png": "b79b9767e1c0d568caf91eb6a1ecde9be0345cbb76604a0924df1cde7c1a0d75",
+      "orange.png": "ea2eaa0e77c513e04517dfb3032b56e300312c137eb330099bbd400805fb2df2",
+      "plain-slice.png": "f0d7f232f0e0c45864a36593f525e701492a0dd5e93699ae4ff027bd7388ef8f",
+      "plain.png": "319a6c7c83e9feeb09e866968ae10a8166737876c38e074ee56503a9056a248c",
+      "plate-plastic.png": "8ea89a8267418f71632774feca8169674fa3fe30664312728f7a5a19f07e84f9",
+      "plate-slice-shading.png": "59dfe97afa482fa8c5145f2fef3b40974c46e22166af5f0ec8feef2c7925c6f0",
+      "plate-small-plastic.png": "7730cb83b1b115e5aada06fd62157881a2d4b47b6cbd104b3c13a593173dd586",
+      "plate-small.png": "89d9048e967aaad4f91abd8f26f4ceab2c1974bc92a7c019405a9606e947a3f4",
+      "plate.png": "81f32e54e9aa8297e431680488b6af999f2b4a77f062c7d74871705be4a5665b",
+      "pumpkinspice-slice.png": "8e2211bb2f467e7379f63f3ae013ca10fe7b190e52688b3d44e90c52d405aff6",
+      "pumpkinspice.png": "5f45e713251aa1984b7c5222dc9807100acab16fd9d46f94165d8b83ba6a27c1",
+      "slime-slice.png": "c7cb7a223ca37a0f1a35f5ae69c7073781b45b9e9d34b45555658e2c102a395c",
+      "slime.png": "75f7ece78c009d0825c54218da039fda670dd34c02ac0063bf801960aa858fe7",
+      "suppermatter-shard.png": "366f2b49925bd461bc4b561120980b017a9225749ba15876d6915a908a535f78",
+      "suppermatter.png": "ecc70f5cb46315ada75cd33a92248d4c8e05bc179cab3acaa795ee995734f7cd",
+      "trumpet-slice.png": "ca4e92d2d82fcc42804413ff78f52d6e7defacbac11ac37802fc9c0902adcd4e",
+      "trumpet.png": "de72d65c8e441b476df977c20accb7db063f96dc2fb826dc17c3b6138b2d90ac",
+      "vanilla-slice.png": "00a8f79ec7a8820135b95dba045679dab655a3b8a6a98a8ad5cc072d8266dde3",
+      "vanilla.png": "b424c09c645db074a0fc00d6419c50879c07330cce048b39a00977cd4dc9a68b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/Baked/pie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/Baked/pie.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24, the pumpkin and pumpkin slice are made by ss14nekow (Mute Maid), the mime tart slice and banana cream pie slice are made by rosysyntax.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alpha-slice-filling.png": "d5bf4cc1ce1675e547efbd33016734467ec1936548fcd80fc453c874e77a409e",
+      "alpha-tart.png": "d04acc24f3a4a9063b42d6451d4ea858bf52a15dbfdf2686d48b1e6b5221b760",
+      "amanita.png": "c4ebf947041655f98bc8bbe923bc66d9dd793d0f6b8396af96aa6987adbec38a",
+      "apple.png": "85fb5be756fba2f97603c95ddae31b47d63175a9844f7d79f688a02e9d6ddda9",
+      "baklava-slice.png": "7517382d0839804c4e8ba2dc8bdabcfa37da3d62b81b86d83e7eed8edfd18c49",
+      "baklava.png": "eb04fba2dc26e4e34444e14fc2d710ec668f544b702026775477db91e6718c33",
+      "bananapie-slice.png": "e8c9cf2d039f2c10f775e59e272d2e2fbef90b3adf314cbad3bc1eb50005efb2",
+      "berryclafoutis.png": "7d770419e8bb016691f49dd84e0c5b684306e07379728e8cf247e7ada535842b",
+      "cherry.png": "1a30ef0b04901f4aa5d1b2a269eca02e7bc2cd062083e8f66f9eddb0739ba1b7",
+      "cocolava.png": "5f1cdd134f80716d638022c7239ece41baf1f75f1ca055af86b5dfac4de489ac",
+      "frosty.png": "f025bdef74de5fce675f8c55d4da8868edf02ec348ff7f752e866419c821a766",
+      "gapple.png": "e73392ac18f7e6597bbd732ab3137b09accecde3d0652811c870fe1d662d8369",
+      "grape.png": "c168154a4f4478b2ce1e4096ed29b3321203090096fe0de7774917bd64c72cc7",
+      "happy.png": "6e12b9b5a65a4b65209852a134161732ea603db01909066b35fc21b91535c81d",
+      "inhand-left.png": "b9c7aa3fccbee0e7f22573a4ef8f2fc2646962097230d0289cb419d75108fe7e",
+      "inhand-right.png": "b398127f43fb5b8cf1ddb80e169b021affa4e7a7dadd9271c5d13eae0de9a8a5",
+      "meat.png": "4f532ca729f1875a51d4f4907935a041396dca6c75e0c9cacddcca048c6e17a2",
+      "meta.json": "0cbc904aa34563443e4eea632b6c4f64110073be5a7b8e43d1456ea88786e22f",
+      "mime-inhand-left.png": "7f7285c5ebaab1cf3b83c5c0bc1b322316c1cb5fa17cbb03d7b30dfb136e6a82",
+      "mime-inhand-right.png": "76c8b177043997e76ddd5bd9ec84a5136f45b12f5cb80377825b231b037b9d73",
+      "mime.png": "e2b342c63ea4d22fc871d8f265f12f76e3c5f64009571015e41ec477cc77acf2",
+      "mimetart-slice.png": "a6a362924c32526323c6c88aa296c8f2ac8aae82241610e4f0519ce8a80b645e",
+      "plain-slice.png": "5a144ed7971bc9b537b9d1955e384f22dddcbf55ca6bc3b877c9757e27509bc5",
+      "plain.png": "5b186918d299e818f19890ffe35230dfb2d082eae0f289d6e65740fcf234bad3",
+      "plate-slice-shading.png": "59dfe97afa482fa8c5145f2fef3b40974c46e22166af5f0ec8feef2c7925c6f0",
+      "plate-small.png": "89d9048e967aaad4f91abd8f26f4ceab2c1974bc92a7c019405a9606e947a3f4",
+      "plate-tart.png": "fe16a523c5a2729cda70c7aed5bd660840992c8191c29930352490370b3cd1a5",
+      "plate.png": "81f32e54e9aa8297e431680488b6af999f2b4a77f062c7d74871705be4a5665b",
+      "plump.png": "48aedf42c5f33aee311bb7939101f3886ab286c177f89770606ec8345598bbeb",
+      "pumpkin-slice.png": "8e956a660f0f503783a0d8cd600874e95b53114604fbc4a6ea76612f0be962ab",
+      "pumpkin.png": "a755a850990f607524460b47fa87e979000d5f3953add3bc04cac4d76f4549f9",
+      "tin.png": "4e662a9616a0333e73305e8f64e45d849c9de884d62d8b6a05f75fefa519da69",
+      "whippedcream.png": "9a4b440c8167182e88948cfd28da83dfa5bc1415599af0bf63bbaf1010e90611",
+      "xeno.png": "9a29ab754181694b273afe48768a289342182652918305b2d2feadfe43b14b46"
+    },
+    "replaces": [
+      "Objects/Consumable/Food/Baked/pie.rsi",
+      "_Lime/Imported/Goob/Objects/Consumable/Food/Baked/pie.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/bowl.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/bowl.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/40d75cc340c63582fb66ce15bf75a36115f6bdaa. escargot from tgstation at https://github.com/tgstation/tgstation/commit/7ffd61b6fa6a6183daa8900f9a490f46f7a81955. Fills created by potato1234_x",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "aesir.png": "7223928aba6c305685e3cddfd0f83efc3b02ee3c7b9d08d98038cdabb1a62d2d",
+      "alpha-filling.png": "e5d28136c6f45587cce4045efaa01cb038e1a24a911577d2e245b64bdc4a42aa",
+      "alpha2-filling.png": "876afbe8b52ebce0df42c76ef7e36c7fd72e1a68cc453d4d77042896e92fbbea",
+      "ambrosiavulgaris.png": "e7310ed173a5753dc4a5798d316ef07dd56ccc185964f3f304b18eef08278e5c",
+      "beet.png": "722cd255b9cbddb4df056b9c1ae87efe778e14baa93ce9f8e15ab78ed8ecf7fd",
+      "bisque.png": "4bc6c35579f83784af4b873790a481224fc3093eea119a178f598e23fde04778",
+      "bowl-trash.png": "aa7e2ad9db37c1782408ce07f0bb2dc1971387db0fd9ca187fce8d75d2660f50",
+      "bowl.png": "44a806ceaeda8e5b27bfc6bdd71e7dc6f1341a07b9db0754c3ca7ed857ebd23f",
+      "bowl2.png": "f49a6baabced79cbc5dc021e8166fbe35116617760cf950826d5a5148fb7452b",
+      "bungo.png": "b0e8d54d7599ca50dfe06f4a93176c36e4a9268a92672f54a352d08e514c4c14",
+      "caesar.png": "43850a62dac919cdd3a163e983a1f8c27eaf8fec413d35eacc70afd9e8dec0de",
+      "chili-clown.png": "3a3d5bb834c007267f2306c08e106024885cb0ad21d29e25dea172d3b2e40c8d",
+      "chili-cold.png": "147c6ae55e253382c8626fd45e7ada1b42615d7fe315c4107e07ab239591685b",
+      "chili-hot.png": "f84b3f362076f0b92631b78bf6fb53dabf78ba47f978da654c0ecc0034c3e6b5",
+      "citrusdelight.png": "20ac05f013ed26bb991106f0438135bb4655c5727d222b698bddf3385e6f051d",
+      "clowntears.png": "b8e5a5b37490a8b51b621315efc40f7c0165108c2889f610e99e07b27e73b016",
+      "coleslaw.png": "e67f6ef8337f949322bbf0d76551d3c65c764bcf2efe28ea14b5ea257d56cda8",
+      "eden.png": "8c2bc23e35df3409a7dcfc0e0ab10ee18f338a76c2b3a337a318f7deecbd1960",
+      "electron.png": "b0567bd66da65f6876151f72d357e9d753730e5fbd3b814b62277fc7028e4ec3",
+      "escargot.png": "a43d55c87b79c9fa90c3951b3bdfe8de49fd0a988dbea40d8caf7488ab9d9a2e",
+      "eyeball.png": "797e6ad62c705c4678e62c66e5830e895e4bb2ce854fa05af6c6bcaabebccf25",
+      "fill-1.png": "86a670876bb9bc8ff5b20fb2406488190d9bd3116a920f25766a775bd9dcf88d",
+      "fill-2.png": "1f413f8ce01b3d80a04b5c5907b76c1924405211dc23b84977291e6735478684",
+      "fill-3.png": "0e71f1ec03a5ece28fdefb07ed6015b7a1b6aebd3fd389b49034e9576ea4aa8b",
+      "fill-4.png": "d57ed50f555bc5b4adaf754994b331e301095c10f0bc8cfea4eca91f80184c85",
+      "fill-5.png": "f636239fe8d9a64b68779a2990aff1cc050f823af2d63f51f91e88e5fe71cfce",
+      "fruit.png": "9b7d6aa596466f78c5f2a760ea321855a528596c6b4f0c28e791f2c286bbd60e",
+      "grits-butter.png": "9c6f5e71d138af090a81ff05714ebed17322bfe4f481ed80fac01a22b3d586dc",
+      "grits-cheese.png": "4b7c983c2e2c164ab66ebfaf168e6dbb83f3b4c3f8447ff23c4445c3db9041ac",
+      "gumbo.png": "a32f4d2b50c5ddcd8e90e9b52dcfc5aa93bb2546cea54fddd5612a9dce997765",
+      "herb.png": "4f9781a6da477c42dd451b05014ce0f1fa29fed89e3d4322fe0d21ec5cd2d6e0",
+      "jungle.png": "069b5e236d9dbf4e9c2e38a8c630aa9b90bfe1c626b1408c99eaedaf8f10aa4c",
+      "kimchi.png": "2213a586c9a69a2d7433d9f3cb6774db0157862281a3bd38ac845badd05fc39f",
+      "meatball.png": "4691128114190e457727ae87cfe2d5ad3de3c20cbe50836d5002f37ef0d222e3",
+      "meta.json": "46ce240597cab057287ae590e54b7804a6f83e3ee59f00d4f5f4d091d9332e42",
+      "miso.png": "e53b01133931caf09340fd5e7b9d3a010d34a038dac8fada7d1023a4ee5b860e",
+      "monkeydelight.png": "73171bde26de5b688c14ea0e333a12197dc43248bacc484a07cb02ef435ce7da",
+      "mushroom.png": "d53a4ab0e993d00d16b742f336a43fa2cbeee3db2d8bc83777aa4d0fa7627ca9",
+      "mystery.png": "78f55bd31d95e8a1c0fc732c83c9cf6ca81cc317ffa20820e5e4f65da92124e6",
+      "nettle.png": "38aa2f76b41f4a61c1bf81284da5ed1f96a837e87a95a07c9eafd424b18cd459",
+      "oatmeal.png": "c11af23286f4ea73c8e29b1288ba948fc5ae3271fa5c7f0e301274a5e7352384",
+      "onion.png": "3c77d16eb0b4bfdf3697bd380d9c5a0599ed526761a8bda76f69cadac864ea2e",
+      "redbeet.png": "e3f6742cb3842cfe90f0dec03be1b832b400e8ccbe007864c02892d55ccb11e6",
+      "rice-egg.png": "8f3cda33dce9b2f2db66a62a5564fa0d1165e3de686cbc587ccbc1477fbef3d4",
+      "rice-pork.png": "1828a0121afcb1de14993339ee5ee4a74947b490bc5a6dd6e81b434cdf8f7da9",
+      "rice-pudding.png": "d2b6043ad0e4a2fa4982a399d5c9db066c68f7cb6875b621c936f560a6eb318d",
+      "rice.png": "ca2aa51e6104938abbb685a90bc8ce16c9f37c9b0ffabf66dad564a3a64dd3d5",
+      "slime.png": "a3b935d4140ca938abf7a261325c16f210bfa0415092e5e08f5a39ae49c7ac65",
+      "spacelibertyduff.png": "13f30092b59951043a72b60b2fd5bcbbd493f897670f70fe62fc63abd2f5950a",
+      "stew.png": "79a3bd09b243cdc761a353499eb0fa541999a6ea9ed41bf8c1fa6e3172645ce7",
+      "sweetpotato.png": "51ef3660b1f25bf47541ba84202b801b5bb4a382c5e2d9b481b1ec85050d2a41",
+      "tomato.png": "8782e714dd99e01fd53d6f99f65f02e0cba22c4d226db4a86973a0ecbdb330bd",
+      "valid.png": "83cdb450123e2e8a5df020d630cedbf48a17d481763f896f728893c9628dd423",
+      "vegetable.png": "16c735d4fbc67b87337ec09a2ef961de6bb547d62c61bab8416cde2174094538",
+      "wingfangchu.png": "d0e3e364ba7f5e34bb6a9d50278348bbc841251c18d15fe7604a8fd899232402"
+    },
+    "replaces": [
+      "Objects/Consumable/Food/bowl.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/burger.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/burger.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept and potato1234x at https://github.com/tgstation/tgstation/commit/40d75cc340c63582fb66ce15bf75a36115f6bdaa, ian.png created by EmoGarbage, mothroach.png created by TurboTracker, screwed by TheShuEd",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "appendix.png": "3deef84dbc3df0faa69e9e5d7b176dc5335dbfed594c5ff8f746a7605b3b02ea",
+      "bacon.png": "1360b377fdcd6c5a6e7f3c633cd990e5fbe95c30ebb82842aa61b4ceded06a87",
+      "baseball.png": "a4be427619450e51b02fcf13f243d7dcd649985841120c76f54225494d0f1760",
+      "bearger.png": "48b55a0e754a49c91cec20dd7c72965c5dc2539bdb36002a9a8b07493e74d541",
+      "bigbite.png": "6816a6f4b233f416830563ad103f49c37b5eeaec4f439607315029d375b4a706",
+      "brain.png": "f36cd20fb45538597fdd6445324eb8b96ec2266e62cdb08b0e953682f92be714",
+      "bun.png": "6f34a40bd3be59490638de4ec557936ec04d2a6155594a11714ea356b7d81dca",
+      "c.png": "1ff5cea5e223046756db6a6cbd4ed343a818d17da8b000f53f50e886d7a5636b",
+      "cat.png": "bbda5a9bf7d7acffb627fa391f1dfa12f60bc2b6398ea3f7b83811eba0467cb0",
+      "cheese.png": "dc8de65caa6cf547bb537533511f4aea017c27cba652a0b3bb075966c212a6b3",
+      "cheesealt.png": "2b2e4aed3442ebb8e41884c35f13a61f544ae24de516e71c499eef69ea26175d",
+      "chicken.png": "f549688f30d3917eea40418b08ca5cc7b2ba8c231349a1735ce98f4c108c185c",
+      "clown.png": "6341184fd8f04ae25f34c81e755ce799d8c6ca6b66e72ad7a85891afab29281c",
+      "crab.png": "f71afd70bfd96931e0a7ab16b8a1691a99e9d26997387f55808e1a778fd8a75e",
+      "crazy.png": "e0bf89f940732fe04578dcaf50374c5ec4e95658dea585e4e683a9965d517850",
+      "custburg-bottom.png": "5c6d9619c84e21dbb2892f68e3c1f8e8568de73435b3badb1574a4fcaed04543",
+      "custburg-filling.png": "26c7fca811bde84707ccddfb6447976e9b7eed549d5c7145e5bb863a5c20e279",
+      "custburg-top.png": "7d5d0ca8ee3ff7ea76b046c94712b4ce9755574f9987fc0446c2da0b044e45bc",
+      "empowered.png": "0a8b6bb3bb6cc777bb8e099af555d2cadae60fd4cad42c11b1f2a1493aae7791",
+      "fish.png": "db41aaa1a6cdf482d646d898b1a10691d0f4e0765f3d0f3f5586f0f00fd397da",
+      "fivealarm.png": "d4a9b510f11e1cebebe87a05df8f8865b33af68840d7f0ef4a31fb7a4029e8cf",
+      "ghost.png": "c1ac3ccebe26cf65c50a85182721248be567279a4475d1e39189e3cb998099a7",
+      "human.png": "7c97c92a7356392c1110564c47030af3fa9d723a4cc80e06c306d2a0c7e05bb2",
+      "ian.png": "9b39fada5b9f6cd5decb84cea32192ffe5b68e96bed0fcad2b14adc9d2509f36",
+      "inhand-left.png": "883711544249347076637b924d867891a0c8c6a250b3c94e1291a4366ebc15cb",
+      "inhand-right.png": "8f307c5648c7811675d1376137874f5a9bbc96b436941ebfc7689ea4b8d457df",
+      "mcguffin.png": "647fdeea82c4da33c1a4d45fecea905db48fb8c7fba415041fffcfc9a94d4a39",
+      "mcrib.png": "876298fb91b3ed0108f553bd09c8ea024cc7389a6e5c538573108e95bec1812d",
+      "meta.json": "09cfd7d51f3941f7e7005cec648d8f38e6a209f97774ade60202540dc8b9a8dc",
+      "mime.png": "155bd8f383ea96ecf4b5cd0bd6a4ed6c5a7fbc56a632dcb7fd76d5f04f56c090",
+      "mothroach.png": "459467dbfe12e8e928083159509c074bb64eb4d0e71154576149ea76388ab0bd",
+      "plain.png": "2c734779fb812218630a0928bcfec6679d06974c2f0267fc2490bde7e8a31602",
+      "plate.png": "89d9048e967aaad4f91abd8f26f4ceab2c1974bc92a7c019405a9606e947a3f4",
+      "rat.png": "3e13527138dcdb02e6d671c6a942503f0e419fdcbf0202777904c26ee87b0c99",
+      "ro.png": "f3acd8a0939884db9c5b451e4cd2d2bc06733308018dcb6b49184cd0848510c2",
+      "screwed.png": "1ea64dc6aa18fc1f00487ac4706b7a57605f4a506034f77101cc4cf74b4550ab",
+      "soylent.png": "7a0f332cac46031a5e028760510ba39ada374f38ef67b3d1957d90b7ced474c2",
+      "spell.png": "2be6a0657baf94c7e4c3a45195e62d42768f492cbccaab763674c5a4972cb5e2",
+      "superbite.png": "8210f3819ac6248db20621f5470d89e9ad6bd8b426b7611c87ddc3205917d0a5",
+      "tofu.png": "d89f994ba9ea861456f539d40228107d921a8604590f9a6cc0ebe859dfff4c46",
+      "x.png": "45323974dc9847db9f00dc9182c4cbc50b4a45cf9e43b8da9b5e01b56c967f7f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/candy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/candy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "apple.png": "2cadf908823009662e1fc659537ed8f07c71d023b483ba751301441af5130c85",
+      "bubblegum.png": "6176b20bab4e39cb3744d860d1e9a900e499c19fa774336b846142899137f1dc",
+      "bunny.png": "86a4cf2536655c2323b65d9794afdbca943108d5711968b5247090a57874942f",
+      "chocolate-inhand-left.png": "3badc898f78b903463155371ed61c0881fd1582119e49d35a5671d15298d2381",
+      "chocolate-inhand-right.png": "04e3d741cf6fae0350dd2fedc8a44af550bcb660cbfc16cd30abd94c1c0c9e79",
+      "cocoa.png": "235e3a021c2e646f24d0649bf106945f9ac517a4be24e33ca6492c32b035aef0",
+      "coin.png": "08844328901b9bd1f3a40517573fa7d895841bbbb479afb7d7064949562f9069",
+      "corn.png": "d87ddf272867d1fced3e3b18f9c56e725c55125804d758b63ed978c6c35467a2",
+      "dice.png": "0f7119135304103d87c7d2d38d4e46d8cdf8fa96dccf16c07dc139833fa2eeb7",
+      "egg.png": "31654a6c0ee0e688624900c4e1cd13a97aea15335fd67233c696a5da46f05409",
+      "gumball.png": "0d3490257bf50100df4e13dcb1703246fd85fe93052d6b1ca04a2f48bbab353c",
+      "lollipop.png": "b70ac22f0bab26d32223ffc6bdcd78c58674c10cd2181ec81acf6d4d2a1840ed",
+      "meta.json": "b2bb15ecff3daa68c81fa098ec540226689ffba45ca2e8a315e0d39a7ae811b2",
+      "orange.png": "0e50cd267628d996df01c0248441975b7b7be07920434e939e8e8098f8249f17"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/ingredients.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/ingredients.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and baystation and modified by potato1234x at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24 and https://github.com/Baystation12/Baystation12/commit/a6067826de7fd8f698793f6d84e6c2f1f9b1f188. Tofu and tofu-slice were created by Discord user rosysyntax#6514. Chevrelog and chevredisk created by Github user deathride58, tortilladough tortillaflat and tortillaslice added by Phunny, butter-slice and croissant-raw taken from tgstation at commit https://github.com/tgstation/tgstation/commit/7ffd61b6fa6a6183daa8900f9a490f46f7a81955, cotton made by mlexf (discord 1143460554963427380). Croissant-raw-cotton, cotton-dough-slice and cotton-dough-rope by JuneSzalkowska, cloth-box by Janet Blackquill <uhhadd@gmail.com> 2024",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "badrecipe.png": "11e66276deb6a4deb37c07984efccd7f188d15933884dcfcdaf64b24fad6db5e",
+      "butter-slice.png": "a39cacb8b274922d86832fe200be651757138e3495d4565667ad0b1ad22c27d0",
+      "butter.png": "11517ce340c1ac66a4942491ee658102eb8fed008c79281c68b922267873f70c",
+      "cakebatter.png": "8d0067b1857fcf7e9781af0815d34c3fd2fedeb7ce02962762a1e6259f0e9d08",
+      "cheesewedge.png": "f40fcf64678ee05780265b509784ba0a6ddf61846c5f55155203c4af34da0329",
+      "cheesewheel.png": "831e02b982b10960c9683fd7ba87397329506d18bfb9c237a19030747bd94dc2",
+      "chevredisk.png": "e73a1b86c8297c173b803c70ca64ecb206c5ce2e334214c0a0eec207d6b24417",
+      "chevrelog.png": "4852ff1eba9b809f0f85dcc2438f47f849d0f31876f3a1ae6f1fcc935f795412",
+      "cloth-box.png": "75cc2187d8285aa8260fb83fa47d6e7a08de2279b703fcd38aaebbb271b641c2",
+      "cornmeal-big.png": "1aa591d41fa23c44367dfdc3541ec31ef08eab346c7dd9d3f101f856fd527251",
+      "cornmeal.png": "263900a32e88c1284096e4f36dc3e807538841ce0f9d435c56a1f6e74ea2a6c6",
+      "cornmealdough-slice.png": "3c832ceab2cfe9d7dd7cc0476f080ae714a5dc495ce1477dfc1625d59e25c145",
+      "cornmealdough.png": "d54a02b25a7691ac34b03a4fdbf6b47f40fcace85e9feda96b8f4ddd25817dca",
+      "cotton-dough-flat.png": "6a189b09d0d312d678dfe4e74c8f512118a2993686187a9775102ba76f0071d7",
+      "cotton-dough-rope.png": "3348b60feb0426e35f44554231457c0b78f7fe3cd84dfe7d14eb80634068a4b2",
+      "cotton-dough-slice.png": "7b2e44f5e184b145f21af8a1baf0e7917ea0e298cd89a873c826705bbbed68b0",
+      "cotton-dough.png": "fabfb50bcd3fc9aaf919d73b73fe41c6f8710e8fd7fdf43e29eede4df56feaf5",
+      "croissant-raw-cotton.png": "2b6857153c8a4ae59326287be5088177f4c0c6778ac4b888338ff0962593453f",
+      "croissant-raw.png": "730fa94b7462b9f91868be0b81246ac861cceca1d27442af0486474a0b2735b1",
+      "dough-flat.png": "f7b71db665349a5d8a448db8917b3fe218e699fc7b17eb1888fab942b3b6ecf6",
+      "dough-pastry-baked.png": "c1ef8fa6037a5138b0200aaa798ca93e08fc8ec90c09c07522a7d5bc9257e2e0",
+      "dough-pastry.png": "9c5f0154255fee560f359958b7065d5d7992b4803d556fbf194d1600374d5645",
+      "dough-pie.png": "af819f2c7c8413633bcc2c94b0654f7070e0143def21312986e0388c2bf16e83",
+      "dough-rope.png": "d66f982b87550cd4ff17201e1f236115ca0aa716ca772da517d2a8f40e8d58b1",
+      "dough-slice.png": "1a915be36ab8b5ac7a5ec22f014bae4348f83792deac273771fe7eb66dc4546b",
+      "dough.png": "3b40d752355e0fdad523507761ef839ff8ba2676c08974ebc5130ff03c6679e0",
+      "flour-big.png": "926b747cf2809a80a4e2c950404cd172b1a1d86ad91301973fec034a10279079",
+      "flour-small.png": "cb7acbcb216746c273fe4a6c412020892ab09f25fa4b2ee3ea3089962353c448",
+      "mayo.png": "967e53adb91e76d0747a34e9a87bbe5a4740335717082a10809bea40b2d43a7e",
+      "meta.json": "48cbcc51fd3f807f0180b694096dc49627e4baec761a154af047fdcfc3966cb8",
+      "oliveoil.png": "2435815c3e6c9f92ff5fde428d0335c9ddc5b2a952ae308b5edd3984222d7915",
+      "pizzabread.png": "9e0b93990fd5a8e3121189094a74e1aeb718aedffbf26cec63a9a63d1fff4c4c",
+      "rice-big.png": "bd1ee041f9a76c4d903cd50577bec32205c72a5afb7e648553b0d45636a93ce7",
+      "rice-small.png": "30e6abe691b8a4c1d3135e6b67c8a6f159e84221bd1ad5e3af27242b168d280f",
+      "soylent-green.png": "f7309cc4965f0c6b798a5c13d380f07bc9ec0970bd47cc7db3bda9e8d033a08c",
+      "soylent-yellow.png": "03f9a090637ecb9218fb2a70379089e4c1c1080e7c9e6db7dd5b88d0733f9aa6",
+      "spice.png": "4093c2fb5006289a41a2f54923884038ebfae53b9897d112cbcf86ab4a72a9ce",
+      "sugar-big.png": "31750bad3e20d25e8642bdf67981cd612a8685b791c285d5c974717036ed3126",
+      "sugar-small.png": "82f0ed7146ef445696e285029af4a7d853fc6909ff3b6bf2aadc5557464f9963",
+      "tofu-slice.png": "6d4fe6c0bccd5925ef50f715a3d5abd8c28a4d8ed59d02022ca1e3d002c350de",
+      "tofu.png": "e69746e9f9598b39f353462aa61b381a9b1dc6a18d090d1f5b154e2156a37179",
+      "tortilladough-flat.png": "70b37dea88de62c4bbbfa6ac79df841832b3516cc54b0c2a9526eaf1efa406eb",
+      "tortilladough-slice.png": "a2e65e17a34cce6ff0dbdb0e4760e032cc208bd951e35d5823b5d6b6292698e2",
+      "tortilladough.png": "6c11caa19d6717af3f34d0885347bea5c19c90ca31878191f3150eec4d231139"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/Food/noodles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/Food/noodles.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and modified by Swept at https://github.com/tgstation/tgstation/commit/40d75cc340c63582fb66ce15bf75a36115f6bdaa",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alpha-filling.png": "2b850386eecb2131d696dd371dbcd88ff00a99878a010f499fd678448f07f09c",
+      "boiled.png": "d034f95d07570894d699a7a9f527823d405879d23badc2584c00bced904a92f7",
+      "butter.png": "5b6611143b2d3954c32ea30c7ceb63939a7f2a49bc8c4c71961b9e4584bb2cbe",
+      "chowmein.png": "450d1a9abac9f21970af3ae35e77795d3d1fd71a49853843be70b94089f8b5db",
+      "copypasta.png": "7f847e978fb699778897112f1cddc965729f07d8b328cd1f2ab017f9926bb176",
+      "macncheese.png": "1edbb70db0e897681ca64b693661cca5f6f091525a5203e4037941ca48e844e3",
+      "meatball.png": "0537498b91d6dc703e72b6ff19145b8c062599fc7d7dd8c85a23a6095078ab21",
+      "meta.json": "d0b0a3d7e5f4eeea50846cb87aef7bb0e782e5fd93f2029a678e224f7fce9ac1",
+      "packet.png": "8afbe384f9030c15d9476186e995cb19da2ff6adcd741d23fe3b1412157f710b",
+      "plate.png": "497d00066b0b10aace72d8649c2b84ead862eef93c33992582e04943e1d6aeb1",
+      "spesslaw.png": "fbc084d72ca2bbd19a5b7d2a72c8ef0fa89d15ba3ca34097ba0c57908b5790ef",
+      "tomato.png": "18ae347d4e18e305e2bb3f39f9cbc18f7693be646dd6ee053c4dd55e3a3970f0"
+    },
+    "replaces": [
+      "Objects/Consumable/Food/noodles.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/absinthebottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/absinthebottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f6224574b2d493811bb38dbabf49d7f51a429d668780daf19b00dafbae8bbe7f",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/alco-clear.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/alco-clear.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "6e167f42b486391a74eab292782372ed1faae3169143eaef93da75f96e4b16c3",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/alebottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/alebottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "5a42930895b8127c43bc49eba24f915731c09c2895da8ea5fe99851dcf21e734",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/beer_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/beer_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "005030876adb5ad124d2c6cf40a8bca0bd1881b97835c0ff883f01ba31d1ab73",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/broken_bottle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/broken_bottle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e8f014b474bb4f6e4538ac686f6014567a311c341cd9c3d4b5739a3d85647dae",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/coffeeliqueurbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/coffeeliqueurbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e09e3acf618d3a8e25ed3db733aea8e4ec2d3816984073da1f2b4673843c5842",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/cognacbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/cognacbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "a3bd4f529a0be1a408c21538e8c3eb7a877bc216e0b868bb7bf9a79ac6043b7b",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/gildlagerbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/gildlagerbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "c4e097a01dc9c5c98ea37f55e942c2dd0faf8cef12265846e479d5ff05c87cd6",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/ginbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/ginbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "bd3b5525449c0cf959a73822f118a5f6b47cf360d5180c560a1ec065ca36e820",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/glass_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/glass_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "2e3f5730b4e0f0989268462210c037ab1bae76197a82d1795712000438285fb5",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/ntcahors_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/ntcahors_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "3e4d51bde3a45cf4c40cd8a5f44999ab259a1ef8c7b4516eb5d53d57728cfa0b",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/patronbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/patronbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "1627f4b19876e11fb0ab9bb606e96f0ca6ebb49c654c7e2ce671f28f7721a7b5",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/pwinebottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/pwinebottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "96d0657b8b741aa29f706925508926e177323a8627ac514ab4cddd3d6fb95c62",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/rumbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/rumbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "e5d7a4ba7f3fb487210812133e5a25a993f7a20e1c262e92964aba41225d86e1",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/tequillabottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/tequillabottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "7be592a28f73ffc1edacd54d1b54f61ed3acfbda65a69f610a85abbe43e4e573",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/vermouthbottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/vermouthbottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f5f2cf70e917fc6d64021ff7ae5e0e6075ce0622576d555efa5a4fffc8aaaf82",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/vodkabottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/vodkabottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "7a587d3435fc6e6b04bbef9e8e344ac3a956fcedd741fde4619f8946791f223a",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/whiskeybottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/whiskeybottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "ed23778d9bf228091b518b6ffe5e52c944c60bc55cedd1adb28e136f9589b023",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Consumable/TrashDrinks/winebottle_empty.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Consumable/TrashDrinks/winebottle_empty.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/discordia-space/CEV-Eris/raw/f7aa28fd4b4d0386c3393d829681ebca526f1d2d/icons/obj/drinks.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "5dff5613f6e5de6fc78138299fd658e04e035d9ef136f8a8826d738410a7d7cc",
+      "meta.json": "1008cecbe904401be967c3c4c12e86ee4e466db55cc06f95c9afad80b60b981c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Decoration/ashtray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Decoration/ashtray.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by joshepvodka",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-0.png": "511484fc0a17eb2f360b54d4e2b1315c6292a268280085f66e3cbd54d05077ee",
+      "icon-1.png": "602e661e246b60b5519960389b7080adab14ee625e9b7e33d04ae5027d70415a",
+      "icon-10.png": "8218eb031a44de04956e8b9eb5b3d58ab37bae0e66e50deffed9663b11d24a89",
+      "icon-2.png": "1fdecd9126754151aa9858153d617eeb175125682d6a9506151c6dc3fe2d56a6",
+      "icon-3.png": "e72ab3d730f8c373129fb5206dcf8af507b64da8bb3185c8f573795ca65ff548",
+      "icon-4.png": "4903ab2eaceaa57cda25d5fa1a28860dfcbaf947d2caf3f67ee17504d27ec764",
+      "icon-5.png": "4714861a8f2ea6479669a36f9c3888f633d027ca95cdd762ba227c6982547b92",
+      "icon-6.png": "c6cdb692343a91f8360e9baa8b6448f22da1c413a7d60f6e2bd8e7ae08c56942",
+      "icon-7.png": "ffaaaa3f8ddca4c150eb0324958bb96605e0938f4b93890ece861f017c750e26",
+      "icon-8.png": "b0ac69b1b8e0fd392ada06c75f3933e8a94571570eaa4dcb782284dde2d413ed",
+      "icon-9.png": "469eead8915bd49b2a29544a9df5c0323a0920473495a606d169b45cc0052703",
+      "meta.json": "e1dc3d98f62c563de5814b6562282c1879475cac2bde1dedd30144bef2b10265"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Objects/Devices/ai_card.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Objects/Devices/ai_card.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/1feffb747a33434a9d28450fc52ade75253aeba5/icons/obj/aicards.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "6d56d78ea39d1bdc12fd0b9403f6f23aff28fee240eb389d06aad1ebd5abea9b",
+      "empty.png": "016c1540d3dc4aee4fc26656f53a8db88619276c2710dc34edeb85dcd4abbbd6",
+      "full.png": "070091bcb39280cddfe697900dc6794ea9dbe699c4c4ec3afe679ef70451480e",
+      "inhand-left.png": "fa3ef7c32864cd92cb2d2048fb9c1614ed746fc154dbeeb710f1e56be8f404ee",
+      "inhand-right.png": "ad021bdb1139b0aa37fcf1a423a6887f0bf9b127b04ef789fd2454eb602507df",
+      "meta.json": "018154961a209aeae86bc2a00b7a341fdfa5af876b4c20087526d52a3526ff9d"
+    },
+    "replaces": []
+  }
+]

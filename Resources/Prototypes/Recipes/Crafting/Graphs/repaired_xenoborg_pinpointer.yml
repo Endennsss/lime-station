@@ -9,25 +9,25 @@
       - tag: MothershipPinpointerPiece
         name: construction-graph-tag-core-pinpointer-piece
         icon:
-          sprite: Objects/Devices/pinpointer.rsi
+          sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: pinpointer-xenoborg-piece-1
         doAfter: 4
       - tag: MothershipPinpointerPiece
         name: construction-graph-tag-core-pinpointer-piece
         icon:
-          sprite: Objects/Devices/pinpointer.rsi
+          sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: pinpointer-xenoborg-piece-1
         doAfter: 4
       - tag: MothershipPinpointerPiece
         name: construction-graph-tag-core-pinpointer-piece
         icon:
-          sprite: Objects/Devices/pinpointer.rsi
+          sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: pinpointer-xenoborg-piece-1
         doAfter: 4
       - tag: MothershipPinpointerPiece
         name: construction-graph-tag-core-pinpointer-piece
         icon:
-          sprite: Objects/Devices/pinpointer.rsi
+          sprite: _Lime/Imported/Monolith/Objects/Devices/pinpointer.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: pinpointer-xenoborg-piece-1
         doAfter: 4
   - node: repairedPinpointer

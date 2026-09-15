@@ -1,0 +1,977 @@
+[
+  {
+    "source": "Resources/Textures/_NF/Structures/Holo/nfsd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Holo/nfsd.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Made by Ghost Prince for use on Frontier Server.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "abb19f14a3f14fcffe9d742086ca0eefdf9b0d769cff788b3b21fa933f2df854",
+      "meta.json": "7cd7080923f6e4f9760bebe6d0f1fa56d5cff9a2f44dc4ba525c3fd3420c732a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Hydroponics/containers.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Hydroponics/containers.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "gentlejester-148196053781315584",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "hydrotrayanchored.png": "78a04b9e1d2f9c65c4df8164d6301603400005ca7950dc3a652db3819209992d",
+      "meta.json": "8e2707bef65354223b06b5696a58ef3368a802b4a963e0d348cf449bcec5cf19"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/assembler.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/assembler.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise at commit https://github.com/ParadiseSS13/Paradise/commit/bd91a1b962fe9bd38e346e9fafd4ebb10784fcb3. | Edited by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "assembler-blinky-unlit.png": "81491890ae8a5eb47395dd9ad2c45418bf8d6d1f3cf24dd9ee21f44091599f9f",
+      "assembler-broken-unlit.png": "75bfca3a96aabb9892dcbd8cc2fb10b6db36afedc6e99f1b0f62b1aff2ada909",
+      "assembler-invisible.png": "9423dbf97e033d531f681d5a6856eab97f7a0745438d00bf6c3cda8b4d9a35ac",
+      "assembler-on-unlit.png": "0fa80ff08b71e3015c3de873a96534f5cb0d7587bc305c030148b58f1b2851af",
+      "assembler-running-unlit.png": "3704d6ecd04863d0a86af5c87ade9c6c8f5ce99ce5c97a2cbf4a3158d0c6b162",
+      "assembler-scan-unlit.png": "b8b766d48baa44ba1d6914d7023b3a83dec317f512cbd87867ec41ff47d8de93",
+      "assembler.png": "1f340a1de32810c44f232db89e3be1e0be516c1440477bd0365a77b0344d9e5b",
+      "meta.json": "b398e2242e3243dfdc0e916163e94c8fd2b222cdcfd4fd3613d7edd7ec0b2d03"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/atm/atm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/atm/atm.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage, reshaded by Checkraze",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "04e31c1e5f24c38de317e4977988762d12d501904ce3edbd913f5a92f2912c49",
+      "meta.json": "9be58df9d96bea670d63ea8dd7081a5ecf7470afed267d63139c46be01a8606c",
+      "printing.png": "0a3b97685b8b80f54775bb097747658a2bf55ff70c1d25b321dcba1283e2d11b",
+      "unshaded.png": "48d2f496def9b1df4f84bddbc2ffa3e7e4a6e4ae9ef0e7e2d18a49ece8aad842"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/atm/illegal_atm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/atm/illegal_atm.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage, reshaded by Checkraze, re-reshaded by terezi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "c95609e169a3dea4f8b617ab3c618968587b0e9048070a815b51eca32233143e",
+      "meta.json": "b245cf02f9e2f19d12017be34f5d57fecc4ff82e15fd50c6f6a37da9cd78e206",
+      "printing.png": "0a3b97685b8b80f54775bb097747658a2bf55ff70c1d25b321dcba1283e2d11b",
+      "unshaded.png": "4ead81f2b7444e81996a8eb19370373fb090fc9e162cca94401e5d3ea13f441e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/atm/wall_atm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/atm/wall_atm.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage, reshaded by Checkraze, resized and edited to wall version by sTiKyt",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "45868775d8a27b998c2a1c5ce7336e2bc36f0d3ba28a3d55a42c1362e231822f",
+      "meta.json": "369885927e5f75ed7e0aab4235a19e1bd96f1f5033b4023afb2b2ed45321f000",
+      "printing.png": "1f4c7fcbfae1f9188069a545b57d8e431323e797c2284276c023a66c727d0c50",
+      "unshaded.png": "b2abe63a943171b16c96a4a0a7066c9e32b04694d96ae7b84f1b8745ac672a74"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/atm/wall_illegal_atm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/atm/wall_illegal_atm.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage, reshaded by Checkraze, resized and edited to wall version by sTiKyt, recolored by terezi, what a journey!",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "6b764b3517e1e1b44cfbce10ef728f8d7ca7d05b4e52d53d6e121a50faaaba1d",
+      "meta.json": "6ae906bc46327cec5f52d8b7e80b98ed0eda8d4b098aae723ad602569edca60b",
+      "printing.png": "1f4c7fcbfae1f9188069a545b57d8e431323e797c2284276c023a66c727d0c50",
+      "unshaded.png": "a31585383a571c74fdb0cf34bfef2b8b77c3ce47205cfcfe3e6cd908a3d92773"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/blueprint_printer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/blueprint_printer.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a | Resprited by ErhardSteinhauer (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "building.png": "2f68ed0e86c506b104aa76bd9b9081db318b2287d44b498cea0b88a56f0b2bda",
+      "icon.png": "3b656098ad24f935f23deae311ace8f6c3f8c903ab20306ca09bd34935ba28c4",
+      "meta.json": "2d19e555482596fbc164f944cdaf87e0638cb1b6349f371c679b6bc01cd560f3",
+      "panel.png": "a30403cada91d27fcf922c09a6c0a55c8a2d17a901c6b0dc35b6722748855205",
+      "unlit.png": "6120713cc2d5de4c924ae56646cdda5e97bbd97ef35bd7ee07dc9e3782464639"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/body_retrieval_unit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/body_retrieval_unit.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by whatston3 (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "both_on_unlit.png": "fe0fac33e833f6286204371fb05e4324a9645730215ba63c11cf442b3f2e54ec",
+      "closed.png": "316310ec7581a795fa3b149efbdf3eaed955a4d6e7fd52d206a934d2149e6007",
+      "closed_full.png": "edc6e86fe3afc6d3fa443cb535a76e0bcdd3e246739794db7efa714a316d5a6e",
+      "left_on_unlit.png": "df52a5ae8256d908c6408f03ff51451a0acaf3344ca2749404cc7a703d68245f",
+      "meta.json": "e9f5463e0f4adcb14692040bf8afb1a987b754826f8b41b2511864df47aa2cc0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/cauldron.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/cauldron.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Bing Guss (gentlebutter) for Frontier Station 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "35149cfcb995575ace54f692a6a7009edbf1ee9c41ac4c47a4f9bf645f58d44b",
+      "off-0.png": "c1e614b9e7e2770de96962e15c68815cb3a536f39a47d1fbcd66c437205c34ec",
+      "off-1.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-2.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-3.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-4.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-5.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-6.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-7.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "off-8.png": "f02472bf8e5f1e77f25c4d768e144e7a3fef49454140754c99c71234a6350d6f",
+      "on-1.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-2.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-3.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-4.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-5.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-6.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-7.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3",
+      "on-8.png": "c6fffe949f229a7e6d4c8a4005eac1aac1f94ded12f16699a29f06a196d964d3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/computer_tabletop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/computer_tabletop.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/bd6873fd4dd6a61d7e46f1d75cd4d90f64c40894. | Resprited by UnicornOnLSD (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken_tabletop.png": "65cfdb532d4b35b12b70c0434fb13379d40493149c3bd3191f98ff5f15f7538d",
+      "computer_board_exposed.png": "9713f18c717b871fd358a678e82cd89d75712b57212928cbe40bd1c8a6765b4e",
+      "computer_monitor_unscrewed.png": "1582d34fab9937add36fee399c16b6448e0dee71ff7f5e6861f986dc17173796",
+      "computer_no_monitor.png": "fd9cfc05c71bbe5a8c88cbf4d34d9f1215ca439431c8e6b08cfba4b49b51d6d6",
+      "computer_tabletop.png": "1abf8999aeb3f30bcea77703bce0397d28916ba334c5552017cb9fddf0ce6c94",
+      "computer_tabletop_frame.png": "20ee738d0be4e83103cfab5edba2d5aecc2bdc24f1a3e76313d5392cebbe1aaf",
+      "generic_keyboard_tabletop.png": "01ca5911457bb6086051b715af427eb44c31e037fc88653bb839f471d13f1deb",
+      "meta.json": "905f746349038d593d25b90ea4eb632d0a606c37272b7fc267e2b2b66d7d6620"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/computer_wallmount.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/computer_wallmount.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "screen_mass, screen_radar by Tych0thesynth (GitHub), screen_crew, screen_records edited by dustylens (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken_wallmount.png": "9529816b51a109fa40b37597f5e197643bd775b0297617f6a40ff934ad92e8dd",
+      "computer_board_exposed.png": "b41a2d96e7d021c21f3f1ee24dfd114ce23b2f3e16491c1ee739a8945536a32f",
+      "computer_monitor_unscrewed.png": "d1e22accf4d4694ed31a2dbb1c8ce967b0761aff3b638c07aa758d2ed3716100",
+      "computer_needs_wires.png": "2df78327012d610e4b268e43cd07467ce10b2d9000899a4c90763a1fd6b7780b",
+      "computer_no_monitor.png": "a98ecb29fb08f400a90846383b1dd93dbb5ecda3f24587f55dc52ca07607ac85",
+      "computer_wallmount.png": "f58013182fac20637eebee6a6540036c61a7ccfa2d8fb1662f6857e06773a29b",
+      "computer_wallmount_frame.png": "4924185c0248f29df376b525d26e2376b05c67ada480daa91d02126c3fd5bea3",
+      "meta.json": "cd4e1470b4da3cf366f88ea27d4efd4acbd39249523789f18daf739e3bcd1999",
+      "screen_crew.png": "02b0b22243a506ed04757cc9e31695aae7336013785d775a566d6200633ddebc",
+      "screen_mass.png": "f0050b939437809c2b0714a262d3bd45ab50ee40c7818ace929abaec4ec948ba",
+      "screen_radar.png": "2caad62ccb1ff96aee6d6804a0ce22ce532d72cd874c334d97042a53816a4551",
+      "screen_records.png": "1496c65a659ddfab61e6e41aa270ed6fb7040211bfb68e3817d160606723590f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/computers.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/computers.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "contraband by gentlebutter, animated by whatston3; cargo_market, cargo_sale, shuttle_records, solar_screen, station_atm by whatston3. Factional shipyard states edited from shipyard_security by _starch_ (discord)/kasature90 (github).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "atmos_key.png": "524d8a9446ba3101726b83f4697d3d3aff1894092b1a859c1de84bca15d044e2",
+      "blackmarket_key.png": "58741fa0d12d62a06385e3f0451a3cd8837b8ad7865b19776cffb566280acb76",
+      "cargo_market.png": "e411b7a07c7e6e3ea1aa16cc5917a0463737a786d0b6ef5c9ff3237fb91de60f",
+      "cargo_sale.png": "dc060da11a9c4d7dfaa8b2f42504bdca105946b39656a980664b701c174bb0d5",
+      "computer.png": "0166928a39aebab851dc8d124c218ff821582faf7d1659036ef562261dfeee1e",
+      "computer_blackmarket.png": "0166928a39aebab851dc8d124c218ff821582faf7d1659036ef562261dfeee1e",
+      "computer_medical.png": "0166928a39aebab851dc8d124c218ff821582faf7d1659036ef562261dfeee1e",
+      "computer_sr.png": "0166928a39aebab851dc8d124c218ff821582faf7d1659036ef562261dfeee1e",
+      "contraband.png": "b7d0e449d3403163ec51ffa61f26f79cf1eb9713637ab1f35718e17928c1b32f",
+      "gas_sale_point.png": "53a69bcfa56e58c3cb8685c4b6b6dfdd8a4bfd121a7beff2dc3f2f2680c5004a",
+      "generic_keyboard.png": "9e7d2fc4635eba736c1691b8b6b1762d3c525071cdbe242966e042e59d12bc6e",
+      "generic_keys.png": "ac5c348fedf5918d07d8b01d1e54fcb5e57452bd7088578a8c561d4cd4e2e387",
+      "generic_panel_open.png": "084ff6b9c328c37d9a0627c7eadabca6f0aa717b41a63531b0477eaea8aa9f74",
+      "meta.json": "e8eb5044eb471eb1354995f539c3c8466de3daa2099784dbdec7f35840768f7b",
+      "piratebounty.png": "bdef085b2a6f13b13a4d7a770a6b5f2a126e764353a731ba0f93a8efc08dc0a5",
+      "piratebounty_pad.png": "65f67e5ab0f955c51c4ca6129a5fbdee421994d5277b663be92d11fdfff0bf92",
+      "shipyard.png": "0f67fa6b949a57cd7b1ce07536d8cc12f0d1164de12c4c0c59cee031525c32af",
+      "shipyard_blackmarket.png": "8da7efad537efc523e67dab6475e583743f0130507b474da69a3705e87b7fbf6",
+      "shipyard_expedition.png": "47d4b2630451ee39d82e54a342374248097642c7d5e442f250e73c7d24691e60",
+      "shipyard_medical.png": "2d8735a644588e3fab36bce2983d0b3a3e8622faaa53d565ea6c2b55ef60b9fe",
+      "shipyard_nfsd.png": "ffdb93d6734400fb29434f3a11642d086b5476ba550bd12cac4b715dd67dd677",
+      "shipyard_pdv.png": "743915afb29e764131862eba5c0b1d4fd84638d4e5adc244967a7da6861b48f9",
+      "shipyard_scrapyard.png": "676027bdd29617cd063914f01290e114636e416ee4d17f956a6323e983627b40",
+      "shipyard_security.png": "e4b7d69756745ba746da915d0bdda346a2c75bbe9a0c73908aeabc5cffc244b0",
+      "shipyard_sr.png": "cae5084de2cf4d1834492a0843e0ac9cd9bdb8a8f6d602330c9121af7ff2263a",
+      "shipyard_ussp.png": "d2ab5898f4b0b7920bd4d7bf1d41633befd50256b44cf24f4f4cc38057f30d22",
+      "shuttle_records.png": "a320666c6247cb0081548ed64c74f35f434e9635cd7bb4b4c39ec563af3cd68c",
+      "solar_screen.png": "826ca3ab43f5afb9a2d9b0f82dbc1cca4560c60aa87d0e14d2bd2334509e3486",
+      "station_atm.png": "398513d5f51b493ec923a5d9e663c71fbdc7abd207cd60b51406e53d292531e9",
+      "telesci_key.png": "e8fa8f3f51523eedb106e969fa466c9e5adcb151b453ecae15ad863997576af3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/crate_machine.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/crate_machine.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by MatthewBadger (discord username) on frontier station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "background.png": "36942e0351d662a161c6f33e7c711ece71095620bf50a9e0a0fbc5f867d7b5ce",
+      "closed.png": "329bff1a6085ed39359bf1aeb34bde1b67f6842d7fdcccf0c64a9d1981e20482",
+      "closing.png": "0accec05afb3891b62ac710f22089011c1238256f9e108b2bb68254646099a70",
+      "crate.png": "9088a770b867ea1e63ded7af3c0a591890d0be8b5c4ca4c18ee272b6509c0a5e",
+      "meta.json": "d83f14ac0629e760e93d62eca7a642cb0f3d2c0a6f0b7b26ff15298a81d8f922",
+      "open.png": "614ab369fca96b510b6228304e4494a17f4e5ad1045837b6e972766a1bbfdbd1",
+      "opening.png": "5f16a47fd9bcd0ade46baef7522d31038e5c69a96925663d2f033053c6d16adb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/cryopod.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/cryopod.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/1da0b5547e02db0db48d0bc93926c26bd8888347",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "94eb453c5bafa9ae385534ff85c223efac40cb1d528ec15c722d1f9cf8fa6b99",
+      "meta.json": "1a8b7b8e7a880c00b822e6d1d4779ed0da4fc336bfb1d6a76de2031a9c37ec40",
+      "open.png": "95b6f54e8a691e4fa51b20f27e6807c5f89dfb530b1c5eee564e4e2fefdc6c1a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/jukebox.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/jukebox.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at f349b842c84f500399bd5673e5e34a6bc45b001a, direct dmi link https://github.com/tgstation/tgstation/blob/f349b842c84f500399bd5673e5e34a6bc45b001a/icons/obj/stationobjs.dmi, Edited by stagnation on Frontier Discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "1ac1d8e8b2e7dfa21e521644526ed8ad41df32c962b86fd4b34e7b822d35a3b6",
+      "off.png": "55d4d55af2bbbebddb2aa39dc8986eff2e2c1c238fe8e209787a6f086071b587",
+      "on.png": "671cac8780598cf0aa63822c84a52d2687f3151bef604360e49410877b01e6ef",
+      "select.png": "2ecbd3fbe9e0b65b5827cfdb07b6d2a58f2300ae6efd42f528195bc1f8090231"
+    },
+    "replaces": [
+      "Structures/Machines/jukebox.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/material_reclaimer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/material_reclaimer.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage404 (github) for Space Station 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "fill-1.png": "60c2bbffed1e3b84aa45c3cf0df5268d2cd552da820a8f4e8eddc3835b74020f",
+      "fill-2.png": "f639bf4863dc1d866a7238ab161f7d09341d8cc580cf70c5e65d5c5642c04925",
+      "fill-3.png": "8407ae6179909ffac2af731386001adb73f8303f4929dd9bee4a9925cce2ed49",
+      "fill-4.png": "b81eedc3cc5d4eb6fe2d6a443ba4eaf602e90662322af33b5127cc651f84ab80",
+      "fill-5.png": "dbfd8bfff396dae414f5504517b51e3c20d374cb0cb9c221e1e0f4bd2ecec830",
+      "fill-6.png": "821c93f7fb07cfa38d335ace3808bfac6dd5fca60f53b40f985a8737c236cd10",
+      "gear-active.png": "c78fb7bf174f08ecdfb804cf205ca5072168531ca83b1ee66a3f73358949ff1b",
+      "gear-idle.png": "fb0bc6f15a1004db3498ac825f7b5a786697fd7fc6e601c28e0889ff698584ab",
+      "icon.png": "9b6c697fc03c3af977efab186e2bcff8e02223267035c169b070b29b8fde8a3c",
+      "meta.json": "452f9d0378d2036bdb626e75976a556d39d7e2d067987d5fffee3e261e75ede1",
+      "panel.png": "e6269b8e95629c54d7e645bd4f8b1f583be4ad1a3e3d815f61b6af698f32a950",
+      "unlit.png": "d36e8fd92e1c12ee6874a1121a8654865f108622ed915535300bc93fe2945bdc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/medical_assembler.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/medical_assembler.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from chemmaster.dmi from NebulaSS13 at https://github.com/NebulaSS13/Nebula/commit/413dc17c9757bf33984534a4d9b3e3db538a6285 by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "4a6ee97ad4c2989efaa88a97c90b07e5d47e194a1a40eb6534dcbf8abf3c794f",
+      "mediwave-base.png": "173b0f02a7eb727bb75336531b7f17017686f45c5456cb9714a89c0dcbda9f62",
+      "mediwave-off-unlit.png": "300c662d5a5a136442f992e65b422555a14251070a92e3c492d579ebebd63ae9",
+      "mediwave-on-unlit.png": "d960d5ecd5bafce779942bbdcd54bd0d15b52434e40a43fff69e2968c9e41ff5",
+      "meta.json": "e7483acc1b5973f8715a5dd11bbb244053907258ded6e14555699039e9b7efb3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/mini_station_anchor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/mini_station_anchor.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by ubaser (Discord), edited by whatston3 (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "56b57bfeb97bb6e3e54c43c75c061ce0132ca8fa60018f920a42b4a4491d44bb",
+      "station_anchor.png": "79be353366541234501fcd56d34d081277f6ba5d7acc02af85632768c09a1e2e",
+      "station_anchor_unlit.png": "98047dc68183b6c9139be3e2d3a94e44302cbe99a23a25f90ad66a0087f6aede"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/prizecounter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/prizecounter.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "53a89a673068a1b78d08e4bafd3e761e706468f458c8deea896ec2b2883c5400",
+      "meta.json": "9d9ebc0192feb9bbbc20f266c3435fe5209dee8b556ebbece7fb4c1ecc189e59",
+      "panel.png": "d2c8e98291efd4b09b296363880081988bccfbd14badc983272144a579cc83e1",
+      "unlit.png": "bc031501370426ac5bce9766f8d2b2770e158d0ed2ff38da26b42dc8ff09e3a9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/scrap_processor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/scrap_processor.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from goonstation at https://github.com/goonstation/goonstation/blob/master/icons/obj/manufacturer.dmi | Altered (added computer display) by erhardsteinhauer (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "building-unshaded.png": "a2a8c22accab73c0ab264467ac2855fdd31a740187b056d8eec9e6b22586abd7",
+      "building.png": "d925819a701e0de2c7e0a850945750a2816522e5090c845ebc362fc5da420add",
+      "icon.png": "e97c132bb2076c693e9c432d3bf187c0fb1ed85d0cec35c0d7b1e003aa429861",
+      "inserting.png": "824957c5ff0ee9143c7b2efaa516b4ed28fd097975a98f5177c6a5b5f21cee63",
+      "meta.json": "26b60ac99d0c35dd4104d7cd318c62267e12820c98b30cb5de6450142eee3599",
+      "panel.png": "435ddb0d797c5183c5aba42ec267deed0166d25d379f352eab90bb0c46d73ac8",
+      "unshaded.png": "d8fbd168c2332031eeb01298a4b5f0c13764228f3a26d1a88580ff7dffc5b3da"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/techfab.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/techfab.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by EmoGarbage, modified by ghostprince",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "31064c296245cfc9b4c3da3569f3df96b4b18442de36c8a4190648e8e0520b8c",
+      "inserting.png": "c721bf52098743a56645a8ff30f85c8a499dbe7d5fd37c9ad5ec5c30942f3f70",
+      "mercenary.png": "4fe35f8e995cb18e8cf7c8224494375e8b8000aecc191cb94b3a39abcbd51bcb",
+      "meta.json": "c49349ac41ccc441a4374b63157c501f8f0a1fee612879806ed75a027626d35f",
+      "nfsd.png": "adb4bdf15d9ff198d2ad023e7ae7741ff2dc32905a8ab46db1b9f1c8d8f3cb54",
+      "panel.png": "a1608e67793f7b1f0854c16c6f9c9d398ebbf7e7cbe1a320df626e65fdd6d72f",
+      "salvage.png": "a8dbfe308d3b281e31ccb30c87730b68774109728fec26581e6ffeb71e61d9dd",
+      "unlit.png": "a3a7ab629c89d8b90516003fb31a287b7a78a90ea9316c7bc8c4132e00d60177"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/arcadiadrobe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/arcadiadrobe.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a879151ef04192ae2a791278ee882c1bce7c5062 modified by Potato1234x (Github) for SS14 | slightly modified by AjexRose for NewFrontier",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "6c5ac9059203e994ab93a932f54f4c40c165ba1e095052180f709e95b170c99f",
+      "meta.json": "0dd71652a6f1eaa33b9b021fe5a8c2474a6e7fb76005f3c681efb6c2203fcfdd",
+      "normal-unshaded.png": "6e239ceb7fc692311b96fd3c8d6d783563e4ef07be9db809c52aca2ebc2f1bce",
+      "off.png": "c778e6f1777308ce80c0bc5d1d09c8e9034fca22d32fdcdf63beee46fd5306d6",
+      "panel.png": "7855977ca345f8eb02f46f87fa9e1d35628af570fd7752635ad0a158bf288e0d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/astrovend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/astrovend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078 Modified by potato1234x (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "cc6cf3112ef3e408adb8ef1571d5aec4bc1233cdc81739a0177153baa8cc2f90",
+      "drive-unshaded.png": "531b2e01cfc8c4079fa48ff201658bea44e03e2769c306caaf3fea0d6a73de85",
+      "meta.json": "3a9e65f6572d2a70b7de6a6facd9f67b6469a584b0a47e6bf0d8def7c9093d76",
+      "normal-unshaded.png": "24766d4accd14c6769d1b378b7dc63a13e653c8cf545c4a68fcd4673eb4b6f3b",
+      "off.png": "849712d50e04d7bed3136d838b7e6203d94eb8db406a4cafa589a827675b834a",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/autotunevend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/autotunevend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by [Data_Redacted]",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "6082362653763d5ffc875bec9474118697d03fa7cd832d97d42ffd1079753d48",
+      "deny-unshaded.png": "79843d69d0ce39b061503a9fea7a225f730f83efc9425f295d4a956937851658",
+      "eject-unshaded.png": "800d3555e8c19932fc52c10500f7c99cf5a358ee1581704fb84751b25126c3f7",
+      "meta.json": "c7523e51264cc7cd8ff9ccf68c9a56895172258ca1ae9a2354bc04bd157f5028",
+      "normal-unshaded.png": "7be72a17950be6ee9470d93f436da621923432bdd40a72d5e0c6edf64abda76d",
+      "off.png": "27b052141f293ca4091860c40f74ed76bf3e586fa85ee170310131aed5edab26",
+      "panel.png": "553765755dcb748fec1ef56c9bbb462ed0eb2a0aaa124427cc09042956c19e37"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/bountyvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/bountyvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078 Modified by potato1234x (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "508938c619ccf3dd2a63751ea64ba2aa158893adfe1b87686f2775dedd4d6d91",
+      "meta.json": "99df3ef47846b9b970ac7efee8e06dd5713912ca88d262cd3835f550d30e2458",
+      "normal-unshaded.png": "c386c17b4909325334331b3cc6b920f8c9c8eac07b731239e9123598e32f12e8",
+      "off.png": "d703dcff3177716e9dd3ea4ede4a423255e4835a7f0b614a1cfc40cf19d6d969",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/civimed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/civimed.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by Dusty Lens",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "19ebe2aa339b63fa3748e5a3860044befda200928ffa8ba9bef66dd1087fbfad",
+      "deny-unshaded.png": "2f4b64bd0be14adfd1d5dd1e498b31c8ae3eb350b056f742536018d444a8505c",
+      "eject-unshaded.png": "268470110b4fb35b31691c0cd5d76b0db66092510f31ce36bbfc8149366349d1",
+      "meta.json": "7b742bae0a75b1b7cc8d135cdf00e2fca1c999b4df9a8adc5c2c8306373bc518",
+      "normal-unshaded.png": "d6dac3c25d64c712fb0107cfb2f60a127b2a356c7368c34e4f84720638441704",
+      "off.png": "473790c4af610e3124f5549316690fd4ead9474c43e0488c333da200b9de045e",
+      "panel.png": "06934837d9e7afacb81a723268cc1a384aa0301ff642d8d2b818dee0b8690255"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/cuddlycritter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/cuddlycritter.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "gentlejester-148196053781315584",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "cd0718318bfc80346877c2ad47744f807f6798c407ae8e41927554fec2e21ddc",
+      "meta.json": "a8b84d07f32c098d8d71484cfe7227c23c9360a8dbbba3cb5971e04254cfb2fc",
+      "normal-unshaded.png": "57455ab246814b326faeee8bc85e06b4a595ef4c5c26caf198f1df8841fa5bc6",
+      "off.png": "70748871105dd0e95f2651bae18f816a335373e1a1d0805f078dbeb9b715e840",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/expeditionaryflatpackvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/expeditionaryflatpackvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by [Data_Redacted]",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "0f44375b48f74066612c98567aa87f072e37790fe35c17c19d5ea16155eae3be",
+      "deny-unshaded.png": "4adb82dd1d2236f050f9253e37e7bb5a2b291ee16b4a2de85c6d69c8bbc66e75",
+      "eject-unshaded.png": "148a9e4513d82b89dfb66583d97ff7c615e37184fc1766ed45aa19c3be1e60f6",
+      "meta.json": "c7523e51264cc7cd8ff9ccf68c9a56895172258ca1ae9a2354bc04bd157f5028",
+      "normal-unshaded.png": "6059d8f7bba09399e0bc90a3dbfe58c6d90f33e20dfd234b3cf06a6bb93f041f",
+      "off.png": "5257a25d53845892f964d0ec82830b792e1c59f1caa4d329aa793e112073d6db",
+      "panel.png": "553765755dcb748fec1ef56c9bbb462ed0eb2a0aaa124427cc09042956c19e37"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/flatpackvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/flatpackvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/1516a728931b4985c1e86f0c5995a5aa1554a1ad and modified by [Data_Redacted]",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "c19b389baebec0e27c369dbaee0de249f3e55bc66f6c83afc53a5ca6d5150a8f",
+      "deny-unshaded.png": "4adb82dd1d2236f050f9253e37e7bb5a2b291ee16b4a2de85c6d69c8bbc66e75",
+      "eject-unshaded.png": "148a9e4513d82b89dfb66583d97ff7c615e37184fc1766ed45aa19c3be1e60f6",
+      "meta.json": "c7523e51264cc7cd8ff9ccf68c9a56895172258ca1ae9a2354bc04bd157f5028",
+      "normal-unshaded.png": "6059d8f7bba09399e0bc90a3dbfe58c6d90f33e20dfd234b3cf06a6bb93f041f",
+      "off.png": "fecceb7ee62300461a2b1fe66047660a46dce8e78eb5c8d3bce1ad1d2d80f341",
+      "panel.png": "553765755dcb748fec1ef56c9bbb462ed0eb2a0aaa124427cc09042956c19e37"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/lesslethalvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/lesslethalvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by [Data_Redacted] https://github.com/IData-RedactedI",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "e06e059703cde8bbf28694a538992ad55a36b0b9af27690692d760c4cf843430",
+      "deny-unshaded.png": "4364ca2f198d259961f9a12cee84c5a5e7e6f608d0c6418fb133c0ad5493f2e7",
+      "eject-unshaded.png": "526d6cb58d2b9b200d0480910cfe892835f603a22dbe45ee26baa6ea4b519890",
+      "meta.json": "cced8c722359f056d64a659a6374111bd6e4797a9f1fecaa166bdb02223ea861",
+      "normal-unshaded.png": "deb8dc9d963dfcc6c5d83f277e135a155556dd7429ce56b5fc734d89b4979abd",
+      "off.png": "d9d4b5b185ccb1979abb08c56e0958cab0e3af3dfc3e0ff9623037568671217a",
+      "panel.png": "04adc392d66dbbd00313c78dacd9065fc636d3b5e57e84cf8523a6fdde03c95f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/mailvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/mailvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078 Modified by potato1234x (Github), modified by Whatstone (Discord). normal-unshaded based on luxury_pen by Ubaser",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "ff7062559a2e12644d3a564c1ad357592fcd42ee701f44bd6becdcd7100f8e59",
+      "meta.json": "02ca5d32755fe2e5fa8080dfe71c7ad0442a8cfbba6dcd7f8ff9daf724ccdf86",
+      "normal-unshaded.png": "de4106f34c768f52f0e96abb173ec723cace392011e01ae20ae3bc8b0ae6b6f8",
+      "off.png": "a1c3ce59ffd58d1d5d2f777965729e22719f9e794f3dad47c00878a87d80c4d2",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/nfsddrobe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/nfsddrobe.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by GhostPrince for Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "9de227f6123722e37be62943ea875d3680581de1babd7d7dbbeafb1b92487d0a",
+      "meta.json": "3fe6f866892fac4f54afacf8a6b5d9535f61cafd2215103d145522292328972c",
+      "normal-unshaded.png": "44c665896a70771890a844196c9cabcbcf938030a804aadaf6207926a66a50ab",
+      "off.png": "de5a46f5431307510ae207de3edfc0c67647cf26cae8516e3c8aaa1822785a40",
+      "panel.png": "7855977ca345f8eb02f46f87fa9e1d35628af570fd7752635ad0a158bf288e0d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/nfsdtech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/nfsdtech.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by GhostPrince for Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "2d35fd92801036caa4f5a3ee61d1f01ac3f5180820010bfe6ece03b0e31c8795",
+      "meta.json": "3fe6f866892fac4f54afacf8a6b5d9535f61cafd2215103d145522292328972c",
+      "normal-unshaded.png": "3dd9ba8ec3de43f6c70322de96e8fda96e0b8cfdb79891cb044bed8d4da6f591",
+      "off.png": "d10e44601e7dfe66bb91205a42c73f0e6d37fecd15d41d3b268fdd8722ab4ece",
+      "panel.png": "27ca74851a105ce91ff00b6cd842fc44992057a4466cd34b6ccd93697d6003cc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/nonlethalvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/nonlethalvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by [Data_Redacted] https://github.com/IData-RedactedI and art edited by Slush [Disord: slush6789]",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "aefea3f658ed721040f6f36cbc5777c3521752b1c4b37df08a292b47da0f4df1",
+      "deny-unshaded.png": "82eccdfe798ea545039c022816c93f3ee52fae421b0c6dc9d055a4721e9dc12c",
+      "eject-unshaded.png": "2573a71be2383eab7ba1d7b501674ae615b34d7a721e4d1b04ab976972e818be",
+      "meta.json": "22bcb310c878b1f291b4525fa88b8f9ca42ff69a9387966218caa59631eaf992",
+      "normal-unshaded.png": "68eef85053c9770c95cf8115119308b40465c95641f89798d526b7a2e579d46c",
+      "off.png": "8a276367c739ddb09775ec49a6a96fb1882d6858e5525f11bf0dddea1f9e9eba",
+      "panel.png": "6950090dd5f1d9a0a143b16b53b6811e246c8f84789d00184a9d13692c203157"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/pottedplantvend.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/pottedplantvend.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by @minnie (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "9543de8517ac1d59c1c3db508f9ec38959755b6bb70332257b0a739b42f4b1f1",
+      "deny-unshaded.png": "45f6cf9e5ee95cb8ea43367345b43930b9cab7262aff04cbe6e52afba0061d8e",
+      "eject-unshaded.png": "53847891a3a03c55bdb2a1bcd9956ef55c0033cc2683b1e6913bbc89dc527b2b",
+      "meta.json": "61d774c477b2362766fe49bc653506bc4641c7ec098cf929d128d188c049eb88",
+      "normal-unshaded.png": "b512e755900861c90e5506d376349a3e7b73f77158f0b3ca23b682c0c33170a5",
+      "off.png": "0305f00659a41b625d0a92d11739a2dd67d9070987e60ebe4f9d7e0864faa01f",
+      "panel.png": "fe1e870089d607e169f629e15d5e270166fcc45a30709897321e3c7c7da3722e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/valetdrobe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/valetdrobe.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078 Modified by potato1234x (Github), modified by Whatstone (Discord). normal-unshaded based on bellhop.rsi and valet.rsi from Nyanotrasen",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "c951a8f2a72e3cb0ab331a27c071d30475256e544ef800f62b0b2b37902a1bc7",
+      "meta.json": "7badb9c23e64efb6c1c976380c21e8d56241a64525c3e87d1b6167790f3dd045",
+      "normal-unshaded.png": "0bc8a5a6439cf25e9fdc67ddf49784725765382ea4459cdb1a8fa8da9f0864d4",
+      "off.png": "6815c10d5e40e2c09b214e4bd4cfd86d119c32a474093c61c43138d6c7e74ef6",
+      "panel.png": "b73731ffcb6c3cc72822762054666e53bb1f4477dbdf6255a2ef06962e849bff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/vandalized.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/vandalized.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24 , edited by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "clothing-vandalized-deny-unshaded.png": "3ad4cbcff0ed8449d3098b527fcd2ab34e88670df1b049e6c1ae602fba9f1807",
+      "clothing-vandalized-unshaded.png": "c240bcde8571e68f424ef2ff646a8a32cfd155c33c15b726b81a98bcf02b2406",
+      "meta.json": "76a33937874f3d4a12069c15f20c3e895f9d5803924f7711725d0f5c2066bdac"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/wallcivimed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/wallcivimed.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from /tg/station at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae, off.png taken from /tg/station commit ede31369cfa5ea1bed9262b5ef4bbef85f60fe26 and edited by @Flareguy, unshaded sprites edited by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "c7ada2e3c41cea6f5f88fbbd8d1038df8470f98b011fb349080667f52b41ee71",
+      "deny-unshaded.png": "10a331ed1dbd0c95e3806e92d55426e185d908fd4c17892c60801c946ca6eb88",
+      "meta.json": "25c66c1531e26d212865167a3ffc76213851d2de98f8a5aa02c760b9277defff",
+      "normal-unshaded.png": "3d5f04353530a122525c80d796a22aaecea106816b400eee7f48e216b43db431",
+      "off.png": "93918ef2d55f87b0fbfb4197fef549bf5cb6b7af00e3b58d927e8d4058d1fd3b",
+      "panel.png": "8f300f0ebeb226ff7be9367abcebda8b3a081fee466878a83ce15e1be609e986"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/yarrrdrobe.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Machines/VendingMachines/yarrrdrobe.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Gentlebutter for Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "broken.png": "c8fb436cd398222e1e0aa2c4e74ec2c8621956060e157523f3ce56f8c9f62f24",
+      "meta.json": "e4a17f2d491998ba85a33946fab831ac72ba5a8cabffef24c2b57c7612243978",
+      "normal-unshaded.png": "b77ae978a123c14b0a0f0992535a3013391d762debdebb2f3f865b5a32c3ca6b",
+      "off.png": "ddd66d8d82ecb17ebd500c3d7e6222a7e34f3777e00d967a2b5e49b0179313a0",
+      "panel.png": "7855977ca345f8eb02f46f87fa9e1d35628af570fd7752635ad0a158bf288e0d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Piping/Atmospherics/gaslock.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Piping/Atmospherics/gaslock.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "pump* taken from https://github.com/tgstation/tgstation at commit 57cd1d59ca019dd0e7811ac451f295f818e573da, modified by whatston3.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "closed.png": "863d6dbfd70020484f552394ab9763023a492836ac7f700120d1fc1ffaba020d",
+      "closed_unlit.png": "91f89a1656bae1666e6951d9d98bf5f4b287db50478591adb5fda5d230791aa0",
+      "meta.json": "53ce9528452609dfdc1cae0687981da1c000c1db1c59fce4820c93a2529b02fa",
+      "panel_open.png": "cfc18f82321c7a5e490e0e02ea0f71b313230bb214cdac313916df36070d01ef",
+      "pipeStraight.png": "499704b83973e26eb22d5fa0ea86fc18cb7a47197a8fd7cc335fa20cf57fb88b",
+      "pumpPressure.png": "bdf27d6498dfeb1ccf6e7b88ee50162fe3dfbcc0d6607d31333011c32d1d1d9b",
+      "pumpPressureOnIn.png": "45fa3a345f794592d5cbc3de77d56ecd9288c5832c42531219988f344c724365",
+      "pumpPressureOnOut.png": "c4f9561c14f0b4dcf3b892775e5292adfdf226263615caedf06e632353351ce2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Piping/Atmospherics/portable_gaslock.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Piping/Atmospherics/portable_gaslock.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "pump* taken from https://github.com/tgstation/tgstation at commit 57cd1d59ca019dd0e7811ac451f295f818e573da, modified by whatston3.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "d4ed8773b49a51eb87a9300631703d697bb331fd2f02eedde3ad0c2390314d2e",
+      "closed_unlit.png": "91f89a1656bae1666e6951d9d98bf5f4b287db50478591adb5fda5d230791aa0",
+      "meta.json": "3bb4e7ad1ea41fa555354e8c3a4ddf2517a66a3e9065fc21acf0c0d7609ce9bc",
+      "panel_open.png": "a0595054985224cb214fce2a5421adb0d1ec8d024df0102d4f77d8b3c566ee65",
+      "pipeStraight.png": "499704b83973e26eb22d5fa0ea86fc18cb7a47197a8fd7cc335fa20cf57fb88b",
+      "pumpPressure.png": "bdf27d6498dfeb1ccf6e7b88ee50162fe3dfbcc0d6607d31333011c32d1d1d9b",
+      "pumpPressureOnIn.png": "45fa3a345f794592d5cbc3de77d56ecd9288c5832c42531219988f344c724365",
+      "pumpPressureOnOut.png": "c4f9561c14f0b4dcf3b892775e5292adfdf226263615caedf06e632353351ce2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Piping/Atmospherics/salepoint.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Piping/Atmospherics/salepoint.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/b9982f69706135ceea703817586128b298cbf5e5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base-unlit.png": "8bf2d39ed7f05e911a6ca9ed67a5ed9f926278c8ac83b79cceb75bd2eba210c3",
+      "base.png": "c40815062ab757e57a747c66e507d6d395bed81e64568c9fd31a42877fdf52fb",
+      "docked-unlit.png": "3ba9db07988c45a5876b4347c64cb3bf7e8c1d19af75dde57de0b2960a76cc7b",
+      "meta.json": "8de210426345f01dec66037ab419ce0adc3e2a89ecd44bdd52424ea2cd7aa7b6",
+      "on-unlit.png": "cdd4ca6472405e05cbb5f56f7ba386e3ab42143e24899bdb6952e638ca865574",
+      "pipe.png": "35592d6ac1991e5ca4dcb9c5915bec32b6020ecfc33fd8824773614d3f1770cc",
+      "struts.png": "cd981759e4c6cbfa90517a7a5f827d4c4a050dd73991fa29b7b908bc1241d5c7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Piping/Atmospherics/scrubber.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Piping/Atmospherics/scrubber.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/, edited by @arimah for Frontier Station 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "9121bc08a2bcfbdaff503ce9c6ea2af48587aba872666a833d098d0a59967713",
+      "scrub_off.png": "b4f85bcb56ab3804ff178bb1b6fb9fbbb1117fcc4621e42cb60cb9b0bf5f4eef",
+      "scrub_on.png": "16309a85f74d5a69d7406def22c859474845c2cc28dad8f1da0155c2094c76d4",
+      "scrub_purge.png": "fea85fd99195562e1852f3c750777b951a2ce2295ebda260b522e3223b894a04",
+      "scrub_welded.png": "9aa8c4b2c56e506c1169866b146a21527e2ef6c7ef866a14fb9ff5b1a94a9056",
+      "scrub_wide.png": "cbb8f0f52dea9426597d412e7417d31b31bfd10014f8544dfabf87415577f1ac"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Piping/Atmospherics/vent.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Piping/Atmospherics/vent.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise/, edited by @arimah for Frontier Station 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "399e7a1fa8c32e3a3f51a8abd9485834b36d6c3d550c89ead28b1e62cd30cd00",
+      "vent_in.png": "927344cda807070e725c4f911d9882b3c47427a6d618bacb041f2f628f18f48f",
+      "vent_lockout.png": "2157ac887ed806b9ce4a3fc7568a1fe75785fc44d132baad980f2703bcc217f1",
+      "vent_off.png": "5c2f60441332b945809a8fbe1427dc2e1c3b4571f88c7966800b136854ad6ae0",
+      "vent_out.png": "2e10283941d20069dd82e18e9b3b38da4d578bb7a485fce12b921b0a5208467b",
+      "vent_passive.png": "26e29b63575f37831b231055f65e9b54accfc2830bf34084ad857bd3a7abcbc7",
+      "vent_welded.png": "f91167e386434c15e91dde56634a6ec7fd648caa012825ffea8b2688df919777"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Power/Generation/portable_generator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Power/Generation/portable_generator.rsi",
+    "category": "power",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Taken from https://github.com/Baystation12/Baystation12/blob/caa635edb97c58301ccdc64757eba323b6673cf3/icons/obj/structures/portgen.dmi. Resprited by @Stagnation on frontier discord server",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "981e3a24e7b961198575bf533c11581ffe2e1f0ecc3c7659bc555b14484877dd",
+      "portgen1.png": "007b8c816bdbdd2b800c61be43db14ecf3df880f6f871b34b4f84a5a81fe19b3",
+      "portgen1on.png": "c812b8dc8cf0de9af948a4c9b00eb50a41e2af31528aed1cb1459c66020cd84f",
+      "portgen_on_unlit.png": "2e4411c59496d3517b3f4f2ec813aebf094b2d62e8e93e0be689940e5489a394"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Shuttles/gyroscope.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Shuttles/gyroscope.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made with love by Shaeone",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "cef896a7b0ff037f05d17deb43a534b8f73c4010043fafb35437c7421b03cd31",
+      "meta.json": "d043e395b663da1e3da4d58d21498b242366695ad54b2439a6f4e26fc0c5a5fd",
+      "thrust.png": "f25ee04a0d71725c5e56a3ecdce5ccac13657522075882bff8302efb7c745f70",
+      "thrust_burn.png": "c689ee6bcd0ebd33fb2ad364695d43f8d93cd282b03246c691bf43c3f768fcec",
+      "thrust_burn_unshaded.png": "41dedef347120dba0d3fbc560d8e96e76eee3df88b3b3bcd5bc56c9cda39932b"
+    },
+    "replaces": [
+      "Structures/Shuttles/gyroscope.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Shuttles/nfsdgyroscope.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Shuttles/nfsdgyroscope.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "db1f87016b0a5a82efc221ad3ab5c48745df7f541e28ff7937f6da26e1cbe23a",
+      "meta.json": "a7c92b763fca15b4aa2d1387cceab76ba2ab0f5cce6a0be5eaae7d6a2da8e5f9",
+      "thrust.png": "f25ee04a0d71725c5e56a3ecdce5ccac13657522075882bff8302efb7c745f70",
+      "thrust_burn.png": "69af4a494942bd464c23efd29b44c84163155ec0b3ef1884f52138ff0c9afb54",
+      "thrust_burn_unshaded.png": "41dedef347120dba0d3fbc560d8e96e76eee3df88b3b3bcd5bc56c9cda39932b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Shuttles/thrusternfsd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Shuttles/thrusternfsd.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "f6452c6c765b3aaf6f3faf5bf1da4da2bb1a852c6eba705a826b912309bad855",
+      "meta.json": "f80182088c82dac5d57291529be4ebfd6f6459776c8e9b6378512534002c4cf8",
+      "thrust.png": "c420caa5d17587693b16eddd195154217a3e709f8f27edcfa538960a51cf7ea3",
+      "thrust_burn_unshaded.png": "6e0ceabbb860fff9d41cdebcab397e24b4d5653b0cbd619defce1002ad9731b4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Structures/Shuttles/thrustersecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Structures/Shuttles/thrustersecurity.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/Baystation12/Baystation12/tree/7274e5654c3cf82d4104dbf818ef00fdc0082aa8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "e70936f47b6b52005339b9936e02ffc3e7c596a0033071c1b75e2f6c45b564d3",
+      "meta.json": "e43daf8d04d86a2f9f918c2b3014d67fc74ff5880a0a7e46a17d167e7a4b70be",
+      "thrust.png": "7bdab2ab08ae2e270b7fc70fd8ce7f307b8d4cdaee34f97bb05befcf3595fe8f",
+      "thrust_burn_unshaded.png": "4ba688dc199c89f21b344b24092f67652acbebb1ec4f520deebb186d082e5286"
+    },
+    "replaces": []
+  }
+]

@@ -27,7 +27,7 @@
   suffix: Wizard
   components:
   - type: Sprite
-    sprite: Mobs/Ghosts/ghost_human.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     color: "#60f7eb"
     layers:
     - state: animated

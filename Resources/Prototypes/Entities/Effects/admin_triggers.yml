@@ -4,7 +4,7 @@
   name: instant effect
   components:
   - type: Sprite
-    sprite: /Textures/Objects/Fun/goldbikehorn.rsi
+    sprite: /Textures/_Lime/Imported/Monolith/Objects/Fun/goldbikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     visible: false
     state: icon
   - type: TriggerOnSpawn

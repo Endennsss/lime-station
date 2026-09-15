@@ -8,10 +8,10 @@
     size: Small
     storedRotation: 90
   - type: Handcuff
-    cuffedRSI: _Lime/Imported/Goob/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    cuffedRSI: _Lime/Imported/Monolith/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     bodyIconState: body-overlay
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: handcuff
   - type: Tag
     tags:

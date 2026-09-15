@@ -7,7 +7,7 @@
   - type: Item
     size: Huge
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Battery/laser_retro.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/laser_retro.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     quickEquip: false
     slots:
     - Back
@@ -185,7 +185,7 @@
   description: A weapon using light amplified by the stimulated emission of radiation.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Battery/laser_retro.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/laser_retro.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -300,7 +300,7 @@
   description: A state of the art energy pistol favoured as a sidearm by the NT operatives.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Battery/pulse_pistol.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -315,7 +315,7 @@
     zeroVisible: false
   - type: Appearance
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Battery/pulse_pistol.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Battery/pulse_pistol.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Gun
     selectedMode: SemiAuto
     availableModes:

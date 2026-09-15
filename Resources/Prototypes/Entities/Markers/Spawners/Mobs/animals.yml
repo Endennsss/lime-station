@@ -197,7 +197,7 @@
     layers:
     - state: green
     - state: monkey
-      sprite: Mobs/Animals/monkey.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Animals/monkey.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ConditionalSpawner
     prototypes:
     - MobMonkey
@@ -210,7 +210,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Animals/mouse.rsi
+    - sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: icon-2
     - state: ai
   - type: ConditionalSpawner

@@ -1,0 +1,1772 @@
+{
+  "repository": "https://github.com/Monolith-Station/Monolith",
+  "commit": "ce8ff03774b9ae68530483298899f85068f0eb10",
+  "policy": "Explicit permissive or CC-BY/CC-BY-SA/CC0 asset license; original bytes and attribution preserved. No foreign code imported.",
+  "summary": {
+    "commit": "ce8ff03774b9ae68530483298899f85068f0eb10",
+    "imported": 3053,
+    "replacements": 1013,
+    "replacedPaths": 1191,
+    "airlockPaths": 0,
+    "prototypeFiles": 268,
+    "unchanged": 1710,
+    "excluded": 327,
+    "byCategory": {
+      "clothing": {
+        "imported": 1197,
+        "replacements": 611
+      },
+      "doors": {
+        "imported": 102,
+        "replacements": 63
+      },
+      "lights": {
+        "imported": 3,
+        "replacements": 3
+      },
+      "objects": {
+        "imported": 928,
+        "replacements": 216
+      },
+      "other": {
+        "imported": 432,
+        "replacements": 19
+      },
+      "power": {
+        "imported": 17,
+        "replacements": 5
+      },
+      "structures": {
+        "imported": 277,
+        "replacements": 32
+      },
+      "walls": {
+        "imported": 54,
+        "replacements": 44
+      },
+      "windows": {
+        "imported": 43,
+        "replacements": 20
+      }
+    },
+    "byLicense": {
+      "CC0-1.0": 77,
+      "CC-BY-3.0": 22,
+      "CC-BY-4.0": 2,
+      "CC-BY-SA-3.0": 2744,
+      "CC-BY-SA-4.0": 208,
+      "MIT": 0
+    },
+    "exclusions": {
+      "license:CC-BY-NC-3.0": 2,
+      "license:CC-BY-NC-SA-3.0": 143,
+      "missing-copyright": 6,
+      "license:CC-BY-NC-SA-4.0": 104,
+      "license:CC-BY-NC-4.0": 13,
+      "invalid-rsi-metadata": 52,
+      "third-party-franchise-review-required": 1,
+      "invalid-png": 6
+    }
+  },
+  "assetManifests": [
+    "Manifests/assets_001.json",
+    "Manifests/assets_002.json",
+    "Manifests/assets_003.json",
+    "Manifests/assets_004.json",
+    "Manifests/assets_005.json",
+    "Manifests/assets_006.json",
+    "Manifests/assets_007.json",
+    "Manifests/assets_008.json",
+    "Manifests/assets_009.json",
+    "Manifests/assets_010.json",
+    "Manifests/assets_011.json",
+    "Manifests/assets_012.json",
+    "Manifests/assets_013.json",
+    "Manifests/assets_014.json",
+    "Manifests/assets_015.json",
+    "Manifests/assets_016.json",
+    "Manifests/assets_017.json",
+    "Manifests/assets_018.json",
+    "Manifests/assets_019.json",
+    "Manifests/assets_020.json",
+    "Manifests/assets_021.json",
+    "Manifests/assets_022.json",
+    "Manifests/assets_023.json",
+    "Manifests/assets_024.json",
+    "Manifests/assets_025.json",
+    "Manifests/assets_026.json",
+    "Manifests/assets_027.json",
+    "Manifests/assets_028.json",
+    "Manifests/assets_029.json",
+    "Manifests/assets_030.json",
+    "Manifests/assets_031.json",
+    "Manifests/assets_032.json",
+    "Manifests/assets_033.json",
+    "Manifests/assets_034.json",
+    "Manifests/assets_035.json",
+    "Manifests/assets_036.json",
+    "Manifests/assets_037.json",
+    "Manifests/assets_038.json",
+    "Manifests/assets_039.json",
+    "Manifests/assets_040.json",
+    "Manifests/assets_041.json",
+    "Manifests/assets_042.json",
+    "Manifests/assets_043.json",
+    "Manifests/assets_044.json",
+    "Manifests/assets_045.json",
+    "Manifests/assets_046.json",
+    "Manifests/assets_047.json",
+    "Manifests/assets_048.json",
+    "Manifests/assets_049.json",
+    "Manifests/assets_050.json",
+    "Manifests/assets_051.json",
+    "Manifests/assets_052.json",
+    "Manifests/assets_053.json",
+    "Manifests/assets_054.json",
+    "Manifests/assets_055.json",
+    "Manifests/assets_056.json",
+    "Manifests/assets_057.json",
+    "Manifests/assets_058.json",
+    "Manifests/assets_059.json",
+    "Manifests/assets_060.json",
+    "Manifests/assets_061.json",
+    "Manifests/assets_062.json"
+  ],
+  "excluded": [
+    {
+      "source": "Resources/Textures/Clothing/Shoes/Boots/performer.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-3.0"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpskirt/performer.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-3.0"
+    },
+    {
+      "source": "Resources/Textures/Clothing/Uniforms/Jumpsuit/rainbow.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Decals/Overlays/greyscalediagonal.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Nyanotrasen/Clothing/Head/Hats/bellhop.rsi",
+      "category": "clothing",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Vests/valet.rsi",
+      "category": "clothing",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/Nyanotrasen/Structures/Machines/deep_fryer.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/glass_clear.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/glass_coupe_shape.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/glue-tube.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Consumable/Drinks/lube-tube.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Economy/cash.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Materials/ore.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Misc/killsign.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Grenades/foamdart.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/fireaxe.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Objects/Weapons/Melee/fireaxeflaming.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Furniture/toilet.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Machines/deep_fryer.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/Structures/Piping/Atmospherics/directionalfan.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DV/Mobs/Customization/Feroxi/body_markings.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DV/Mobs/Customization/Feroxi/ear_markings.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DV/Mobs/Customization/Feroxi/snout_markings.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DV/Mobs/Customization/Feroxi/tail_markings.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_DV/Objects/Weapons/Guns/Shotguns/sawn.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_EinsteinEngines/Mobs/Species/IPC/parts.rsi",
+      "category": "other",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_EinsteinEngines/Objects/Devices/translator.rsi",
+      "category": "objects",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_FarHorizons/Structures/Machines/nuclear_centrifuge.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_FarHorizons/Structures/Power/Generation/FissionGenerator/cargo_icons.rsi",
+      "category": "power",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_FarHorizons/Structures/Power/Generation/FissionGenerator/nuclear_debris.rsi",
+      "category": "power",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_FarHorizons/Structures/Power/Generation/FissionGenerator/small_nuclear_reactor.rsi",
+      "category": "power",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_FarHorizons/Structures/Power/Generation/FissionGenerator/small_turbine.rsi",
+      "category": "power",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Mobs/Customization/IPCwings.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Devices/makeshift_id.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Tools/sonic_screwdriver.rsi",
+      "category": "objects",
+      "reason": "third-party-franchise-review-required"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Melee/Ghetto/metal_bat.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Melee/e_sword_welder-inhands.rsi",
+      "category": "objects",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Goobstation/Objects/Weapons/Melee/e_sword_welder.rsi",
+      "category": "objects",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Cloaks/cogcloak.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/m82.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/m86.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/merc_warlordsuit.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/mmc_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/mmc_mining.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/pdv_medic.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/pdv_vizier.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/scaf_pirate.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/syndicate.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/syndieelite.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/ussp_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/ussp_combat_light.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/ussp_combat_light_officer.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/ussp_combat_lightmk2.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/ussp_commissar_parade.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/ussp_officer_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/viper_group_initiate.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/viper_group_juggernaut.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/viper_group_medic.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/viper_group_shield.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Head/Hardsuits/viper_group_standard.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Mask/cogmask.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Cloaks/cogcloak.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Cloaks/cogcloakicon.rsi",
+      "category": "clothing",
+      "reason": "invalid-png"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Misc/tsfcoat.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Misc/tsfcolonelcoat.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Neck/Misc/tsfsilvercoat.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/m82b.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/m82c.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/m86.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/merc_warlordsuit.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/pdv_medic.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/pdv_vizier.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/scaf_pirate.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/syndicate.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/syndieelite.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/tsfmc_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/tsfmc_experimental.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/ussp_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/ussp_combat_light.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/ussp_combat_light_officer.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/ussp_combat_lightmk2.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/ussp_commissar_parade.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/ussp_officer_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/viper_group_initiate.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/viper_group_juggernaut.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/viper_group_medic.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/viper_group_shield.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Hardsuits/viper_group_standard.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/mopp-tsfmc.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Mobs/Aliens/cortical_borer.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Mobs/Aliens/cortical_borer_egg.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Mobs/Chimera/rook.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Mobs/monolithic.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/Baked/misc.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/bucket_paper.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/cookiebox.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/meat.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/mre_bar.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/mre_main.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/mre_package.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Consumable/Food/mre_side.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Devices/rogue_uplink.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Fun/googlyeyes.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Fun/sevastopolplush.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Materials/ore.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Misc/lpcnew.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Misc/syringecase_alt.rsi",
+      "category": "objects",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/ak820.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/artillery.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/ShuttleWeapons/r300.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/SpaceArtillery/plasmashot.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Specific/Mech/flail_construction.rsi",
+      "category": "objects",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Specific/Mech/mechaS2.rsi",
+      "category": "objects",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Specific/Mech/mechaS4.rsi",
+      "category": "objects",
+      "reason": "missing-copyright"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Specific/Xeno/xeno_materials.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Storage/Cases/ammocaseheavy.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Tools/mieyo_srd.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Tools/mieyo_srd_inhands.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/TradeGoods/contraband.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/TradeGoods/trade.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Ammunition/Explosives/generic_cartridges.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Ammunition/Magazine/35mm_grenade/35mm_grenade_drum.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Ammunition/Magazine/ppl.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/hml.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/hml_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/lrc21.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Battery/nt_longarm_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/LMGs/fenghuang.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/LMGs/grizzly/Grizzly-icon.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/LMGs/grizzly/Grizzly-inhands.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/LMGs/smilodon.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/mk348.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/mk348_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/mk6-tpgl.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/mk6-tpgl_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/mpssm.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/mpssm_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/osiris.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/osiris_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/panzero.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Launchers/panzero_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/akm.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/akm_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/annie.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/annie_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/basilisk.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/calico.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/calico_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/dragonfang.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/dragonfang_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/lecter.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/lecter_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/mla34.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/molot.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/molot_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/prometheus_a3.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/prometheus_a3_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/riversong.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/riversong_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/v78.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/v78_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/v79p.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/v79p_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/vympel.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/vympel_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/wspr.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/wspr_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/wspr_tarkhan.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/wspr_tarkhan_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/xian.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/xian_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/xlr556.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Rifles/xlr556_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/SMGs/ak220.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/SMGs/drozd.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/SMGs/drozd_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/BigBuddy.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/BigBuddy_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/BigJohnny.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/BigJohnny_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/BigLeady.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/BigLeady_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/Helepolis.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/SultansPulsar.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/SultansPulsar_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/flagbearer.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/flagbearer_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/jack.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Shotguns/jack_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Snipers/ak410.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Snipers/ak410_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Snipers/lee_enfield.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Snipers/lee_enfield_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Snipers/shenzhen.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Objects/Weapons/Guns/Snipers/shenzhen_inhands_32x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Structures/Furniture/Tables/battletable.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_Mono/Structures/Power/Generators/pinchreactor.rsi",
+      "category": "power",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/nfsd_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/nfsd_cream.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Duffels/nfsd_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Duffels/nfsd_cream.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Satchels/nfsd_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Back/Satchels/nfsd_cream.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Belt/nfsd_belt.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Belt/nfsd_webbing.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Ears/Headsets/nfsd_e_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Ears/Headsets/nfsd_e_cb.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Ears/Headsets/nfsd_e_green.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Ears/Headsets/nfsd_h_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Ears/Headsets/nfsd_h_cb.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Ears/Headsets/nfsd_h_green.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Eyes/Glasses/nfsd_glasses.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Eyes/Hud/nfsd_hud.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Hands/Gloves/nfsd_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Hands/Gloves/nfsd_cream.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hardsuits/mercenary.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hardsuits/nfsd_combat.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hardsuits/nfsd_experimental.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hardsuits/nfsd_sheriff.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hardsuits/pirate_elite.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/nfsd_beret_brown.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/nfsd_beret_cream.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/nfsd_beret_green.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/nfsd_campaign.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/nfsd_campaign_small.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/pirate_hat.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/pirate_hat_luffy.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/sr_beret.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Head/Hats/sr_cap.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Cloaks/nfsdsheriff.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Mantles/nfsdsheriff.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Misc/palbadge.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/nfsd_bronze_badge.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/nfsd_gold_badge.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/nfsd_silver_badge.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/nfsd_silvercross_badge.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/nfsd_star_badge.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/nfsd_armor.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Hardsuits/mercenary.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Hardsuits/pirate_elite.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Hardsuits/scaf.rsi",
+      "category": "clothing",
+      "reason": "invalid-rsi-metadata"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/nfsd_bomber.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/nfsd_brigmed_bomber.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/nfsd_formal.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/nfsd_long.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/nfsd_sheriff_formal.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/pirate_captain.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/OuterClothing/Misc/sr_jacket.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Shoes/Boots/magboots-nfsd.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Shoes/Boots/nfsd_brown_boots.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Shoes/Boots/nfsd_cream_boots.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Shoes/Boots/pirate.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Shoes/Boots/pirate_luffy.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpskirt/nfsd_skirt.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpskirt/nfsd_skirt_short.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpskirt/public_affairs.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/nfsd_jump.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/nfsd_jump_short.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/nfsd_tac_black.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/nfsd_tac_camo.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/nfsd_tac_cream.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/nfsd_tac_gray.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/pirate_luffy.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/pirate_slops.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Clothing/Uniforms/Jumpsuit/public_affairs.rsi",
+      "category": "clothing",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Interface/Actions/actions_borg.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/ArcadiaIndustries/arcind_blasters.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/ArcadiaIndustries/arcind_guardians.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/ArcadiaIndustries/arcind_shredder.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/RogueSilicons/ancient.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Mobs/RogueSilicons/robots.rsi",
+      "category": "other",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/beesknees.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/ginandsonic.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/goldencat.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/pineappleblast.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/pumpkinspicelatte.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Drinks/torpedojuice.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Food/Baked/donut.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Consumable/Food/meat.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Devices/pirate_uplink.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Economy/cash.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Economy/counterfeit_cash.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Fun/birthdaypresent.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Materials/ore.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Misc/mold.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Misc/pal_clipboard.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Hydroponics/avocado.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Hydroponics/bees.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Hydroponics/coffee.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Hydroponics/cucumber.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Pirate/pirate_doubloon.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Specific/Robotics/borgmodule.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Cases/guncaseheavy.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Pouches/pouch.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Storage/Pouches/tobacco_pouch.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Guns/Ammunition/Magazine/Turret/box_mag.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Guns/Shotguns/pump.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Guns/Shotguns/pump_inhands_64x.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Guns/Turrets/disabler.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Guns/Turrets/laser.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Guns/Turrets/magazinefed.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Melee/pirate_anchor.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Objects/Weapons/Melee/pirate_hook.rsi",
+      "category": "objects",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Furniture/chairs.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Furniture/mc_toilet.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/contravend.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/VendingMachines/fuelvend.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/contraband_pallet.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/oven.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/oven_syndie.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/piratebounty_pallet.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/shredder.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Machines/shredder_syndie.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Specific/AberrantFlesh/digestivesack.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Specific/Mercenaries/counterfeitcache.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Specific/Punks/partysupplies.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/contraband3_crate.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/cybersun_crate.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/donkco_crate.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-3.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/mccargo.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/nfsd_brigmed.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/nfsd_secure1.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Storage/Crates/nfsd_secure2.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Wallmounts/paintings.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Wallmounts/paintings_directional.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Structures/Wallmounts/posters.rsi",
+      "category": "structures",
+      "reason": "license:CC-BY-NC-SA-4.0"
+    },
+    {
+      "source": "Resources/Textures/_NF/Tips/clippy.rsi",
+      "category": "other",
+      "reason": "missing-copyright"
+    }
+  ]
+}

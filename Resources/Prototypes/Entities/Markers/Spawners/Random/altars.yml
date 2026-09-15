@@ -6,7 +6,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Structures/Furniture/Altars/Gods/nanotrasen.rsi
+    - sprite: _Lime/Imported/Monolith/Structures/Furniture/Altars/Gods/nanotrasen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: nanotrasen
   - type: EntityTableSpawner
     table: !type:GroupSelector

@@ -55,7 +55,7 @@
       map: ["enum.DoorVisualLayers.BaseBolted"]
       visible: false
     - state: panel_open
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
     - state: pressure_unlit
       visible: false
@@ -227,7 +227,7 @@
         map: [ "enum.DoorVisualLayers.BaseBolted" ]
         visible: false
       - state: panel_open
-        sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+        sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
       - state: pressure_unlit
         visible: false

@@ -5,7 +5,7 @@
   description: Keeps the bad out and keeps the good in.
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/airlock-vault.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-vault.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Door
     crushDamage:
       types:

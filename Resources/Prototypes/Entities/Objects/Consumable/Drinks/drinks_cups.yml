@@ -326,9 +326,9 @@
       - ReagentId: JuiceGrape
         Quantity: 60
   - type: Sprite
-    sprite: Objects/Consumable/Drinks/lean.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Drinks/lean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: Objects/Consumable/Drinks/lean.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Drinks/lean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     size: Small
   - type: TrashOnSolutionEmpty
     solution: drink

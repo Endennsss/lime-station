@@ -22,7 +22,7 @@
   - type: Clothing
     slots:
     - ears
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: GuideHelp
     guides:
     - Radio
@@ -33,7 +33,7 @@
   name: passenger headset
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadset
@@ -47,9 +47,9 @@
       - EncryptionKeyCargo
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/cargo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/cargo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/cargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadsetCargo
@@ -58,9 +58,9 @@
   description: Headset used by shaft miners.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/mining.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadsetCargo, BaseCommandContraband]
@@ -87,9 +87,9 @@
       - EncryptionKeyCentCom
       - EncryptionKeyStationMaster
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/centcom.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/centcom.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/centcom.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/centcom.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadset, BaseCommandContraband]
@@ -102,9 +102,9 @@
       key_slots:
       - EncryptionKeyStationMaster
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/command.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/command.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/command.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/command.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadset
@@ -118,9 +118,9 @@
       - EncryptionKeyEngineering
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/engineering.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/engineering.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/engineering.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/engineering.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadsetEngineering, BaseCommandContraband]
@@ -147,9 +147,9 @@
       - EncryptionKeyMedical
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadsetMedical, BaseCommandContraband]
@@ -176,9 +176,9 @@
       - EncryptionKeyScience
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/science.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/science.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/science.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadsetScience
@@ -192,9 +192,9 @@
       - EncryptionKeyMedicalScience
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/medicalscience.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadsetScience
@@ -208,9 +208,9 @@
       - EncryptionKeyRobo
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/robotics.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadsetScience, BaseCommandContraband]
@@ -237,9 +237,9 @@
       - EncryptionKeySecurity
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/security.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/security.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadset, BaseSecurityContraband]
@@ -270,9 +270,9 @@
       - EncryptionKeyService
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/service.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingHeadset
@@ -285,9 +285,9 @@
         key_slots:
         - EncryptionKeyFreelance
     - type: Sprite
-      sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/freelance.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/freelance.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - type: Clothing
-      sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/freelance.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/freelance.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingHeadset, BaseMagicalContraband]

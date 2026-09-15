@@ -15,11 +15,11 @@
   id: RatBurger
   name: food-sequence-burger-content-rat
   sprites:
-  - sprite: Mobs/Animals/mouse.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: dead-0
-  - sprite: Mobs/Animals/mouse.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: dead-1
-  - sprite: Mobs/Animals/mouse.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: dead-2
 
 - type: foodSequenceElement
@@ -479,7 +479,7 @@
   id: Brain
   name: food-sequence-content-brain
   sprites:
-  - sprite: Mobs/Species/Human/organs.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Species/Human/organs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: brain
   tags:
   - Brain
@@ -553,7 +553,7 @@
   id: Garlic
   name: food-sequence-content-garlic
   sprites:
-  - sprite: Objects/Specific/Hydroponics/garlic.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/garlic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -562,7 +562,7 @@
   id: GarlicBurger
   name: food-sequence-burger-content-garlic
   sprites:
-  - sprite: Objects/Specific/Hydroponics/garlic.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/garlic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -887,7 +887,7 @@
   id: Corn
   name: food-sequence-content-corn
   sprites:
-  - sprite: Objects/Specific/Hydroponics/corn.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -918,7 +918,7 @@
   id: Poppy
   name: food-sequence-content-poppy
   sprites:
-  - sprite: Objects/Specific/Hydroponics/poppy.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/poppy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Flower
@@ -929,7 +929,7 @@
   id: Lily
   name: food-sequence-content-lily
   sprites:
-  - sprite: Objects/Specific/Hydroponics/lily.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/lily.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Flower
@@ -1050,7 +1050,7 @@
   id: Soybeans
   name: food-sequence-content-soy
   sprites:
-  - sprite: Objects/Specific/Hydroponics/soybeans.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/soybeans.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -1059,7 +1059,7 @@
   id: SoybeansBurger
   name: food-sequence-burger-content-soy
   sprites:
-  - sprite: Objects/Specific/Hydroponics/soybeans.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/soybeans.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Vegetable
@@ -1090,7 +1090,7 @@
   id: Koibean
   name: food-sequence-content-koibean
   sprites:
-  - sprite: Objects/Specific/Hydroponics/koibean.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/koibean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Fruit
@@ -1099,7 +1099,7 @@
   id: KoibeanBurger
   name: food-sequence-burger-content-koibean
   sprites:
-  - sprite: Objects/Specific/Hydroponics/koibean.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/koibean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Fruit
@@ -1172,7 +1172,7 @@
   id: Cherry
   name: food-sequence-content-cherry
   sprites:
-  - sprite: Objects/Specific/Hydroponics/cherry.rsi
+  - sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: produce
   tags:
   - Fruit
@@ -1277,7 +1277,7 @@
   name: food-sequence-cotton-burger-content-plushie-ghost
   scale: 0.8, 0.8
   sprites:
-  - sprite: Mobs/Ghosts/ghost_human.rsi
+  - sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
     noRot: true
 

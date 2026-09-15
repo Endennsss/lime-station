@@ -297,7 +297,7 @@
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
       shader: unshaded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseUnlit"]
       visible: true
     - state: welded
@@ -305,10 +305,10 @@
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
       shader: unshaded
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseBolted"]
     - state: emergency_unlit
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects-shuttle-xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseEmergencyAccess"]
       shader: unshaded
     - state: panel_open
@@ -325,7 +325,7 @@
       visible: false
       map: ["enum.ElectrifiedLayers.Sparks"]
     - state: sparks
-      sprite: Structures/Doors/Airlocks/Effects/airlock-effects.rsi
+      sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Effects/airlock-effects.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.DoorVisualLayers.BaseEmagging"]
       shader: unshaded
       visible: false

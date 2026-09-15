@@ -16,9 +16,9 @@
   description: An 20th-century trenchcoat with an armored underlay. Someone who wears this means serious business.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/detective.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/detective.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: EntityTableContainerFill
     containers:
       storagebase: !type:AllSelector
@@ -33,9 +33,9 @@
   description: Ah, your trusty coat. There's a few tears here and there, giving it a more timely look. Or at least, that's what you told yourself when you found out gettin' it repaired would set you back 200 spesos.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective_grey.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/detective_grey.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/detective_grey.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/detective_grey.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 
 - type: entity
@@ -95,9 +95,9 @@
   description: A greatcoat enhanced with a special alloy for some extra protection and style for those with a commanding presence.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/hos_trenchcoat.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingOuterJacketToggleableBase
@@ -246,9 +246,9 @@
   description: A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_sci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:
@@ -286,9 +286,9 @@
   description: Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Coats/labcoat_rd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Armor
     modifiers:
       coefficients:

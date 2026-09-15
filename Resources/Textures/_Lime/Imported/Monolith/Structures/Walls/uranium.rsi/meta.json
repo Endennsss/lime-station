@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "full"
+        },
+        {
+            "name": "uranium0",
+            "directions": 4
+        },
+        {
+            "name": "uranium1",
+            "directions": 4
+        },
+        {
+            "name": "uranium2",
+            "directions": 4
+        },
+        {
+            "name": "uranium3",
+            "directions": 4
+        },
+        {
+            "name": "uranium4",
+            "directions": 4
+        },
+        {
+            "name": "uranium5",
+            "directions": 4
+        },
+        {
+            "name": "uranium6",
+            "directions": 4
+        },
+        {
+            "name": "uranium7",
+            "directions": 4
+        }
+    ]
+}

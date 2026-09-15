@@ -25,14 +25,14 @@
   id: HandTeleporter
   name: steal-target-groups-hand-teleporter
   sprite:
-    sprite: _Lime/Imported/Goob/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Devices/hand_teleporter.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
   id: ClothingShoesBootsMagAdv
   name: steal-target-groups-clothing-shoes-boots-mag-adv
   sprite:
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/magboots-advanced.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -97,7 +97,7 @@
   id: HeadCloak
   name: steal-target-groups-heads-cloaks
   sprite:
-    sprite: _Lime/Imported/Goob/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Neck/Cloaks/cap.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
@@ -125,7 +125,7 @@
   id: OfficerHandgun
   name: steal-target-groups-officer-handguns
   sprite:
-    sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/mk58.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: base
 
 - type: stealTargetGroup
@@ -218,7 +218,7 @@
   id: ClothingHeadsetAltMedical
   name: steal-target-groups-clothing-headset-alt-medical
   sprite:
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/medical.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/medical.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon_alt
 
 - type: stealTargetGroup
@@ -311,14 +311,14 @@
   id: FaxMachineCaptain
   name: steal-target-groups-fax-machine-captain
   sprite:
-    sprite: Structures/Machines/fax_machine.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/fax_machine.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
 
 - type: stealTargetGroup
   id: ChemDispenser
   name: steal-target-groups-chem-dispenser
   sprite:
-    sprite: Structures/dispensers.rsi
+    sprite: _Lime/Imported/Monolith/Structures/dispensers.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: industrial-working
 
 - type: stealTargetGroup
@@ -353,7 +353,7 @@
   id: AltarNanotrasen
   name: steal-target-groups-altar-nanotrasen
   sprite:
-    sprite: Structures/Furniture/Altars/Gods/nanotrasen.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Furniture/Altars/Gods/nanotrasen.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: nanotrasen
 
 - type: stealTargetGroup

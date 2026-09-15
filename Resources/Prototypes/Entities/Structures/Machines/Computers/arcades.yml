@@ -12,7 +12,7 @@
     color: "#3db83b"
   - type: LitOnPowered
   - type: Sprite
-    sprite: Structures/Machines/arcade.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/arcade.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: ["computerLayerBody"]
       state: arcade
@@ -22,7 +22,7 @@
       state: panel
       visible: false
   - type: Icon
-    sprite: Structures/Machines/arcade.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/arcade.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: arcade
   - type: WiresPanel
   - type: Wires
@@ -58,7 +58,7 @@
   parent: ArcadeBase
   components:
   - type: Sprite
-    sprite: Structures/Machines/arcade.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/arcade.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: ["computerLayerBody"]
       state: arcade
@@ -197,7 +197,7 @@
   parent: ArcadeBase
   components:
   - type: Sprite
-    sprite: Structures/Machines/arcade.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/arcade.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: ["computerLayerBody"]
       state: arcade

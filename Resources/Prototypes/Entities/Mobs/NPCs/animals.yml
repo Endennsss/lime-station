@@ -1652,11 +1652,11 @@
     layers:
     - map: ["enum.DamageStateVisualLayers.Base"]
       state: monkey
-      sprite: Mobs/Animals/monkey.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Animals/monkey.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     - map: [ "jumpsuit" ]
     - map: [ "enum.HumanoidVisualLayers.Handcuffs" ]
       color: "#ffffff"
-      sprite: _Lime/Imported/Goob/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/Monolith/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: body-overlay-2
       visible: false
     - map: [ "ears" ]
@@ -1863,17 +1863,17 @@
     drawdepth: Mobs
     layers:
     - map: ["enum.DamageStateVisualLayers.Base"]
-      sprite: Mobs/Animals/kobold.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Animals/kobold.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: kobold
     - map: [ "outline" ]
-      sprite: Mobs/Animals/kobold.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Animals/kobold.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: outline
     - map: [ "horns" ]
       sprite: Mobs/Customization/reptilian_parts.rsi
       state: horns_short
     - map: [ "enum.HumanoidVisualLayers.Handcuffs" ]
       color: "#ffffff"
-      sprite: _Lime/Imported/Goob/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+      sprite: _Lime/Imported/Monolith/Objects/Misc/handcuffs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: body-overlay-2
       visible: false
     - map: [ "ears" ]
@@ -1984,7 +1984,7 @@
     allowedEmotes: ['Squeak']
   - type: Sprite
     drawdepth: SmallMobs
-    sprite: Mobs/Animals/mouse.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: ["enum.DamageStateVisualLayers.Base", "movement"]
       state: mouse-0
@@ -2000,7 +2000,7 @@
     heldPrefix: 0
   - type: Clothing
     quickEquip: false
-    sprite: Mobs/Animals/mouse.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     equippedPrefix: 0
     slots:
     - HEAD

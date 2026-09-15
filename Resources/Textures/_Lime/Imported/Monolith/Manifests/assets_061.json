@@ -1,0 +1,1191 @@
+[
+  {
+    "source": "Resources/Textures/Structures/Walls/plasma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plasma.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "fd1ca14756fd3f9472ee2d67e7cf34fde306e7a9ef50907369bc5e12424b430f",
+      "meta.json": "3978131cdde4445967fcd3671e9132cc52dd148d131eebe948e159d1675af334",
+      "plasma0.png": "7239f7704637a1bb3950ab07177de993086d4bb5e860dd6b9130123f110837b2",
+      "plasma1.png": "5bea3168ef51bb06730a85e05fc52d44389fc5ebf11060fff93499d64c35c139",
+      "plasma2.png": "7239f7704637a1bb3950ab07177de993086d4bb5e860dd6b9130123f110837b2",
+      "plasma3.png": "5bea3168ef51bb06730a85e05fc52d44389fc5ebf11060fff93499d64c35c139",
+      "plasma4.png": "ac224efc89526d91baa24ec6927df3bccdbceaa6bc5f58b84efc4ccdf3f0f264",
+      "plasma5.png": "1defc88dc001a4fe24fc8f0d6eba1d827414d403d061a0c4cc2720dfc508c5f7",
+      "plasma6.png": "ac224efc89526d91baa24ec6927df3bccdbceaa6bc5f58b84efc4ccdf3f0f264",
+      "plasma7.png": "cda5a90987676614473101ee969e47b5e39f96a94af1a564a27e80bf19266dd4"
+    },
+    "replaces": [
+      "Structures/Walls/plasma.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/plasma.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/plastic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plastic.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "8fe7691f12cbba3aad43d85753f97a6d2b57f4b5bc92b1c48dc03f33a754e174",
+      "meta.json": "d8cc7ecffeb93be7d4e7342c1d80c74f6939307de0058262cbccea49b6bb057c",
+      "plastic0.png": "74886561f5d5236206d3258046e0a9c04a8d55c8ed7944d07e40b83775d00ef0",
+      "plastic1.png": "51f25afe5567c317c739952e265947a0c076e1925cc747e95dedad2cbf53487f",
+      "plastic2.png": "74886561f5d5236206d3258046e0a9c04a8d55c8ed7944d07e40b83775d00ef0",
+      "plastic3.png": "51f25afe5567c317c739952e265947a0c076e1925cc747e95dedad2cbf53487f",
+      "plastic4.png": "97fb8219b7db23b19fcff2a5230aa20adc3e9b9933a3f53c7f761cb56d3401fe",
+      "plastic5.png": "1d02575198083a3e094d0797bb6b8c56004b18283f7f989792b36027e31a9b91",
+      "plastic6.png": "97fb8219b7db23b19fcff2a5230aa20adc3e9b9933a3f53c7f761cb56d3401fe",
+      "plastic7.png": "1d02575198083a3e094d0797bb6b8c56004b18283f7f989792b36027e31a9b91"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/plastic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/plastitanium_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plastitanium_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/plastitanium_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "6abc9f7fb12a22833df1ea16230eceba8844d80ea1c21fb69671ba04d0ab34f7",
+      "state0.png": "e752059a5844a872a2d1ee570550bf69bbf14069be60de5ee0afda7a13626809",
+      "state1.png": "05eb905cadba0aa39e69667754bab0ee4f9eed5d615efe8edece6e0a0f7454f4"
+    },
+    "replaces": [
+      "Structures/Walls/plastitanium-diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/plastitanium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/plastitanium.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/plastitanium_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "9f08d6e122f39c0ab8ad675750b5cfca04549cd068efc8972c4611ea24d9cfab",
+      "meta.json": "c622d7ab23c50479e34f5541ece81238806596c32e27b6d23ea29044b8d5cb5c",
+      "plastitanium0.png": "83c2d4ae544443fdfffbe58fc988bb6e341af23350dabdd994c435442f6b22f0",
+      "plastitanium1.png": "6cf2a3cccc26eb2f1b5d138f07dc5742561916c81d2d76e0e6858c6b7b8086c5",
+      "plastitanium2.png": "6b24f0c6ac8c9e8b55453e9342ca6d3b591e24c35fcf6ac18de4da2826242e84",
+      "plastitanium3.png": "fc72e4e0233f54f419efe0779cf04f0a4d9c49f23057052218c98996d13d2f68",
+      "plastitanium4.png": "cf4ef05b0cafda0f1bb024b4a99ad264e162da0a80c5a640c015f6f59878c093",
+      "plastitanium5.png": "4b670ef88fcde730680dbbd63fdec56fe4b0ab7b68968b82e8ab9c33620003ac",
+      "plastitanium6.png": "56752e43f4565d07c6266452cea02a513f5b4e3491b48242f11db78a54da82b1",
+      "plastitanium7.png": "c5feaf7e1240a692ba441959584e5c2abdf78fcd2a7b1a7975cdab682a636c3f"
+    },
+    "replaces": [
+      "Structures/Walls/plastitanium.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/plastitanium.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/railing.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/railing.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from SS13 Shiptest.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "corner.png": "55a3156207eb6f032e9824893d028f6b1a818c3ad7268dd4faccecf4b9f46dea",
+      "corner_small.png": "e2618b781f66c6d7e06a733280185dcabd595980d7bbeb0ff3ee9a8e5b330a4f",
+      "meta.json": "9b71f853b2255f5d1490c241d7dd62ad192635e73e53503f55ce3b26f9e30d10",
+      "round.png": "7d0f97c8e78b9d53a8d95d846472e06c32ea454287d19ea1f672ee8dbfeb391b",
+      "side.png": "36939de9140615fc4cd625e52f5c58f393830800b94fe9d6fac9bf3ad7b1462a"
+    },
+    "replaces": [
+      "Structures/Walls/railing.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/reinforced_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/reinforced_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "c97098b486a407326775b5beb440f69c6b31d1912e6aa3476c510406db776f14",
+      "state0.png": "3ca89639f78379626aa18efa2c0976400e348a476446cfba733b21506c5a3806",
+      "state1.png": "9a45f9b55065bdc7f33b9e698ed707c33eb77a5468c1deb573de847abf79ec2c"
+    },
+    "replaces": [
+      "Structures/Walls/reinforced-diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/riveted.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/riveted.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi modified by ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "e69978ec3e78ca9392f737b23ff6defbdbd1855ecfa2ba1fafe8b08b8d85507e",
+      "meta.json": "4c9029bd89b1ed0226cabe9fdfda8667153fc1ecedb749114a12f18b49e6c333",
+      "riveted0.png": "a5c9c2d5d2f9a9e68c0c39e1573fe68070f649292122183a10d19a8c26412900",
+      "riveted1.png": "4a5563c17e4761edc8c83d01857564f931767f85386c9f407dfda2dc8de723c9",
+      "riveted2.png": "85b30cf2f5a84ca6cc16d7f05458c6f4daa729933e860a1c263769a12c082b82",
+      "riveted3.png": "e1a99f4622f7e02c0405f710f8601583d990dbdb74328892ef5760e4f5d437cf",
+      "riveted4.png": "d5aa71e19c2f8576c4e774c251faa8fa615de7e93e631403686901e46f8e528f",
+      "riveted5.png": "7d633691799a264f4443420c83348168d42645451958f5dafea95d3271aa6bb2",
+      "riveted6.png": "894a65be581b51cbe6bd03b63e815e8d1f72f0cfb36ddb3f39527bf17d5f3916",
+      "riveted7.png": "ebd5db3d8deb424bf452b30e647dcf9622cbb4c8deca4b8c253d9aebd3b6a6bd"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/riveted.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/rock.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/rock.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/Citadel-Station-13/Citadel-Station-13-RP/blob/817e7c1f225876b45891e3f06908e6d032f0a8bc/icons/turf/walls.dmi, rock_bananium made by brainfood1183 (github) for ss14, rock_snow, rock_asteroid, & rock_wall and co from https://github.com/tgstation/tgstation/tree/e929cf39cded5207d63df1fa8521f41f2816b383. ironrock taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/02b9f6894af4419c9f7e699a22c402b086d8067e, sand rock made by TheShuEd for ss14, copper recolored by _starch_ (discord)/kasature90 (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ironrock.png": "fa084de60321b6dcb8a4d17430249fab7a44219e9e80eaf1e413a9abb0321917",
+      "ironrock_east.png": "df807d5e32ef0d31be13ed823c97fdaf85cb052d9e0ef832767381b2eacec824",
+      "ironrock_north.png": "6025c295b34175838ae33da6696e077e550ac4976eeaa82f831c52d2a3e45234",
+      "ironrock_south.png": "933f7f3eaf6e50333d72b66516b5b779899f37d04c8cc591b0ce120b06b3d923",
+      "ironrock_west.png": "ab72bf3ddc608ad5a5667d5aa50bcd8aaf4c83f400d2e898c831936e21d01625",
+      "meta.json": "4397af96e3a287ea19adb09614461f668c937c000e94a389e634a5ad32309e15",
+      "rock.png": "36aad3021279148fabdce3b2f35c3fe23211db3116dda9c380e2354c6244c499",
+      "rock_andesite.png": "7bdeb0fd547f0b4cbd9df750d56e1e6edfd8e89f568beeabe45d87af5e050aa2",
+      "rock_andesite_east.png": "2166fba55623ec74412d701e9ab8164ebf543209c3e33967e9c77d0fe9f960ec",
+      "rock_andesite_north.png": "4b895be8bb54088176c08c6cd706c776474ce01cc0e716a4dc2d8ea389af8c14",
+      "rock_andesite_south.png": "46c4e743c5fcc52738d3ad973daf2c3ae81b95bc2c3cc70ee54b5a93b0f21e9a",
+      "rock_andesite_west.png": "05f9a1b11592e0325ed1b8d234fa8d349387aa4257333b1c9876b2d68851deca",
+      "rock_artifact_fragment.png": "4993cc79b16dbf765678218eb83b688217a832ea6a53eb71fc319d1aac149a4a",
+      "rock_asteroid.png": "b74bfd42184d2ba3590bd1e9de1432f240135d8d9a32bafefc71558ce9d94fd0",
+      "rock_asteroid_east.png": "b8be4a93c2d7c53a2486d03f04f530186d25a9e541826b92f7b2ebe42422d708",
+      "rock_asteroid_north.png": "9b902d3ee4dcfe2b605592e50335fec6601d47610397889b16985470f6b1cdf6",
+      "rock_asteroid_ore.png": "1beb5bf956d554a4cdb369d07eec9ea9bfd0d22cb041b37d35caa05413d7157f",
+      "rock_asteroid_ore1.png": "01d9ca89daaaaa10e8dbe22877990cb3fd1acdbc49ef9fb9c97545ed1c52a390",
+      "rock_asteroid_south.png": "11c762cc568dc59d49be11d343f2ed7ec17e53b4da742146cd36b9ab506a7720",
+      "rock_asteroid_west.png": "8194eabb8a4f678892c473f6b270d91521e8e381b0f84541a0808df515e6f90f",
+      "rock_bananium.png": "a08f04c1c5e5f7e717a284d6ee44bc25caa0a4ebf348f262d1476bb3eadb5cc3",
+      "rock_bauxite.png": "0133813d2bd72bc54431960b09bfd641906fb1f592b428823c184fd708034dde",
+      "rock_carbon.png": "ad49809f5d4456c9464b1c713466de4fcef47f1dd827e92cd2b39c0f347159d4",
+      "rock_chromite.png": "8206efcdf0836791b03225c69f052af94549fc72330187b49a5434e8c81f95c4",
+      "rock_chromite_east.png": "a8bf2973b848f9cf85dd980f5b828484c53ed81c7495d79c6d9c1960c1097404",
+      "rock_chromite_north.png": "e2cbf31f60c5a9bfa49f16b5dbbdf49b099a572ca9393dfe539b8e7faabe9ff2",
+      "rock_chromite_south.png": "ac4a4aa01c9e8bfd16502cd04dc154d470d18387385caa888417df6dfc2fa69d",
+      "rock_chromite_west.png": "54d5e7072dd9eaef804e6b9cf2911fc1a8a5e0e94467417f4fa7dd16d7871bca",
+      "rock_coal.png": "ea5e17fb344f90c88eb97e2014b397d3345af369ad0cfc39441a08c72a73cd37",
+      "rock_copper.png": "2d4d9d094d1f8847aa342aeb005183df7490707b033dd8ee9459631faae38d15",
+      "rock_diamond.png": "6358adb67a76eb28f2a38760d493f03de84733c9e936cb559b0a92bd2127c7c3",
+      "rock_east.png": "1a8ad23d65056821c0ab31ccef1a5cbcf2b753a1b191322f1201e07ee06c2b2b",
+      "rock_gold.png": "96258b918271658de0f831f92b08627bc6cb64031ecd65f07bfe1be4496f0f02",
+      "rock_hematite.png": "634705ad9fa5646965175274f65a2faec10520d8c3da30bd400506fbb68bdd74",
+      "rock_lead.png": "fdcab6c9ccf24e4251c5e5d070248aa560f0b4f5a7cbf2d2f2aa759417b6c9c2",
+      "rock_marble.png": "454eb9aee3250b090a2bcada2114817557ae0c5cf2dad7903d3d99cdce159558",
+      "rock_north.png": "74140df7fe635a4db7190f6bc71399d75fb6f5fe7dc84e3b688409f693c8651c",
+      "rock_painite.png": "1536988b8dde815415844843d2ed841405e0f39a5122644927aab4d60a24e569",
+      "rock_phoron.png": "025d603adbbee7eceae2a2b43cf1d1765f8e0650ebe99fa25f995f4c0444dc41",
+      "rock_platinum.png": "599e90e301715fb60c4d5245b69eceea69a37f568bb70a97ae9209909c3c5638",
+      "rock_quartz.png": "8ec125103fadcf161633182324804cdf04acfe265b02cca923ae0cab5dbac72f",
+      "rock_rutile.png": "3d106cc0a280b68fccfdf08cabe1ee0a4d073f7ece2eaf726d264b0a1b0c54b2",
+      "rock_salt.png": "29b6cae13959fdde3548657973dc29b64b86bcb11f47bfccf0b69b38bc2f03b4",
+      "rock_sand.png": "04f898c6a3bce4e37aea028ea166f2983d54acadbdb184911d75b01e600bbba9",
+      "rock_sand_east.png": "b79a4e0dc6d6b1a5ee16a29bc006f10baaed8d735655b2ed899e08193c107ede",
+      "rock_sand_north.png": "c58350f79f7181fec9252a6d276363bcc08445a764c3712364f78688502cdf6d",
+      "rock_sand_south.png": "f0b93bda46fe2db94b099db343f8089c6c26ba2b34dc5b86cf46469782e6950e",
+      "rock_sand_west.png": "fc9ad8d29e6bd4a9fb713f3e02cf4895930ecd2bfa1cb97c9f8f019619693064",
+      "rock_silver.png": "e26a2945dd9846556605c957d6c5b5910411356148cd070ef1e3b9fbf83b24a8",
+      "rock_snow.png": "daa7a83622d0df60bde81c34f26805cd7432d96b4b0c75363f745977d4f4a1b8",
+      "rock_snow_east.png": "363c899a301b42ac7741dc7eee904e873fdb87d5bdf03d17040b83d8164a6d5a",
+      "rock_snow_north.png": "1172db94bc6416356950539d361d1ae199c8dbe2fe94e442fa4f8e7329c869b0",
+      "rock_snow_south.png": "1012815c29d010478d631e8b2262c569376d2190e7d3f4352bb3f92c504dd3bd",
+      "rock_snow_west.png": "de3c9110a3374b7186a66c95ef97bd09883ed4cb74b0d680b43127f9effea348",
+      "rock_south.png": "4695f9c17a614b2843b44c45bf0ab77aa9757007688cde401df0a85b8b03b155",
+      "rock_tin.png": "5fa762668402f3df160869993b864930f5b4aa95d31bfd85bb0dd116c647efe6",
+      "rock_uranium.png": "49aecae8e3c650a9f3099afe8afdc345bb4900489dc267db96fefbfd93eeea72",
+      "rock_verdantium.png": "6417c4ad13dc0b7dcff04f68d2462aed23943134a74f40928be3d7bc94317b70",
+      "rock_void_opal.png": "189fd2ccfc27d9be660a43c6375e737893a1b092b75fd8942e8d6112fe761011",
+      "rock_wall.png": "f5e371f5e1d9aba5579c25acb67b3c806ea37408858d236d68b7c816ec13b4d0",
+      "rock_wall_east.png": "79340af86f1c44dbcfb940e9c1b3ba80ed0d93a37e9e6af4ed74eaad097ac88b",
+      "rock_wall_north.png": "f2ad2321064f1c1db6efab04c1d072ec732dc4e191ecc460eac9a5c196c02e84",
+      "rock_wall_south.png": "253b6d4fb22a4cffee5cac2362d48ecb346e37e27c773dd680e860f3c6a44650",
+      "rock_wall_west.png": "9834d0fbf1c124cbb8bcef00dd056c83f23c89b88440cc1800cdfce48d9a6552",
+      "rock_west.png": "ecdfd2bb6835aafa69614d617fbfc9e5037453143ee5abb696af3e3b98517e47"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/sandstone.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/sandstone.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "31c2c7f64deb7d54b36d0cc71527e09426e03db6ff41bbbb1ddba56474285d85",
+      "meta.json": "b59b0d5bc412fd30288f079b3366f4549222a8ec2f5176752db87ea74a25c94d",
+      "sandstone0.png": "542bad73ba3fe2874ffc3dbe7093fdeeac68e03995ca76d3c84a4e4da0160b7d",
+      "sandstone1.png": "7c4c33fb5dbf12f944801002e33d17c298f698fe34c5f0a375edf5eef0fb4faa",
+      "sandstone2.png": "542bad73ba3fe2874ffc3dbe7093fdeeac68e03995ca76d3c84a4e4da0160b7d",
+      "sandstone3.png": "7c4c33fb5dbf12f944801002e33d17c298f698fe34c5f0a375edf5eef0fb4faa",
+      "sandstone4.png": "3ba920a610f622fabb60ae3af808aa565c7d7548a804f3ecc61af32460b00661",
+      "sandstone5.png": "6a3f50e22977dacc1f96fa076955d2cb401bae801bdb1af5665356b7fcc848c3",
+      "sandstone6.png": "3ba920a610f622fabb60ae3af808aa565c7d7548a804f3ecc61af32460b00661",
+      "sandstone7.png": "6a3f50e22977dacc1f96fa076955d2cb401bae801bdb1af5665356b7fcc848c3"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/sandstone.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/shuttle_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/shuttle_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/shuttle_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "137e4fef421832e691c2400eea447437462d86df37071cb77393b0ec36952d59",
+      "state0.png": "21a314b48d4231427bb4028652d9cfa2bded832b2bf14504cc489c4d54593ab1",
+      "state1.png": "3631b70d898b17172b5786921d6a7c74a4ff2ea96a38c9db84247895183a179e"
+    },
+    "replaces": [
+      "Structures/Walls/shuttle-diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/shuttle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/shuttle.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/shuttle_wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_2.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_3.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_4.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_5.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "6701cd823e5ed411623de57ac301bc13071ab001bdd172cbb751713ce2d7afc2",
+      "meta.json": "ea2cc05453352c8df311976026fda5c59744788a0a7e047628df5fcc5c20a7a1",
+      "shuttle_construct-0.png": "c7f387a6c98d43d894486235409d362e842989ac804fda268f65b917e51764cf",
+      "shuttle_construct-1.png": "ac35b1c212c3163aca6398ec2ede4cf4697f59001b46fe4a78b7098df74fcd61",
+      "shuttle_construct-2.png": "a5ebafe0cad9b6490b73b84d0402aa82882ebc758251089fbd81183ceb8e56d8",
+      "shuttle_construct-3.png": "690f732109a3e08835b276a5a39240cbd524046ae8112118b902074199a0c068",
+      "shuttle_construct-4.png": "ec2783a81df3453880a8ace28218f193cf545b2624b25c43627cc284c8f44de4",
+      "shuttle_construct-5.png": "30075b1bf5bfe57ab55b29fd59447ebadc1d3941b9074859dc2223f80a64827e",
+      "state0.png": "afaae5250897c610afc41ea5a13041dac2cefa979a6b6c14d6b8567acfeccbb5",
+      "state1.png": "f4882ae82331fa785857d314d4f1647f69ba291152b368a43601a061176b13d6",
+      "state2.png": "21e395f288e023e4a3287444033efbaeeadbdfa1564a27ad1afbea670bcccae2",
+      "state3.png": "607724ec4addab0c36fd30aee707c49a268932fa801dd8b1c684776ad7128f3f",
+      "state4.png": "42f35f3933f91e25c3c74425ad531490b46370d773ddc3f7be17c8d04a11d6ab",
+      "state5.png": "c913c40313caef05369c6b6b2d910f0c781cb7bf2b80a4cd0c7b89f268a66cff",
+      "state6.png": "29af2cec90b584cacb8276452cd20c11bec9ac41e8a38c90b0f46e7e0615da40",
+      "state7.png": "c352be7902dd46f4406f141ea4ba730a4111f217883704e0e7c13ff318338650"
+    },
+    "replaces": [
+      "Structures/Walls/shuttle.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/shuttle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/silver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/silver.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "1aa529ec9e202f1e259d719961f077d2d121a13aa730b4d2ba4557808ccedcb8",
+      "meta.json": "17cdb2305ee9339168784d6c1094570a654fffd5d16f8b772c9e9ed4c88fad6e",
+      "silver0.png": "fc9c0033e09e71b3ecc9037c05ea5cf6d787b5c6d0593fab58a5be4d23beb17b",
+      "silver1.png": "5f0e53e71ca95ce504c5b67899808da976ad39f0f65b19c21bcadda38a6c3b10",
+      "silver2.png": "fc9c0033e09e71b3ecc9037c05ea5cf6d787b5c6d0593fab58a5be4d23beb17b",
+      "silver3.png": "5f0e53e71ca95ce504c5b67899808da976ad39f0f65b19c21bcadda38a6c3b10",
+      "silver4.png": "5cbeda2159467eef0a28698d8f5dc645775f812b49e7aff4b2165729ff9dad7b",
+      "silver5.png": "a818a05695ad3b447805804218a83d32d8d5f7892d72c56eab04b295ec17cd82",
+      "silver6.png": "5cbeda2159467eef0a28698d8f5dc645775f812b49e7aff4b2165729ff9dad7b",
+      "silver7.png": "40729579176d13bcc5051b357134c0ce5b82ea36e771b879ee869c398ef11cd7"
+    },
+    "replaces": [
+      "Structures/Walls/silver.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/silver.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/solid_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/solid_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "88c43dccea9b2ce1d434852c1461f581071bb2896be48a346e56e99c92664ee2",
+      "state0.png": "225394508f480e9849e2a3b5b7f058c8bc36c18e37ad87bf5f48288a14ac8339",
+      "state1.png": "3e875a871ab35b1738b9c5d0946e088e4afacfbc3689625362573085162fb97d"
+    },
+    "replaces": [
+      "Structures/Walls/solid-diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/solid_rust.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/solid_rust.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rusty_wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rusty_reinforced_wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_2.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_3.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_4.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_5.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "c282401de9341fb6393e339d5d0e2149748e7c7542b18025d37b92097529d5ca",
+      "meta.json": "aaecb8d025004839988ae12c574af1908865a1d154997bedb1da21a49fa6f63a",
+      "reinf_construct-0.png": "3e67fbef9316e9722ec2d642e7eeb3fa8504546f7be5d06d3e4c9e6540d0e817",
+      "reinf_construct-1.png": "9d42a9e42a781211286202fc587dc93f7f63f036b0295318930f47f7e7c48700",
+      "reinf_construct-2.png": "065c2ed6790ac37673b62e40875e1eb4a70219cb4c9df5dbe02fd07316198a74",
+      "reinf_construct-3.png": "d816876d9f67cdc1137b6c5eb0e1e87ae241fedac906e7c45d6dd900aca5621b",
+      "reinf_construct-4.png": "9031e5c50a7b7136592da152e19c468293271f3dff6c32b8500ca800b8c9f064",
+      "reinf_construct-5.png": "98c5b1bb285d7d7398606fa63a5bd6673c2673d91c0d1fe2af58d3288c26ee90",
+      "reinf_over0.png": "e8e2fef3ea03e9a73c29797d16500eb6b4fac9d259e76a544019d8f22e96d1a1",
+      "reinf_over1.png": "1aa56cbef2b6327c514ec61804091a2c42d2bdb3933cc92f0382281b5a83d8a5",
+      "reinf_over2.png": "d967bc2c2dd0d5df0fe56ac875107da49d60efe5335adf0379e474f4f7030e16",
+      "reinf_over3.png": "c0333cf81e4a9b0b4d8c7ad54158d8ed0069a47839c6ad0fd8d45cd3a4f0a353",
+      "reinf_over4.png": "32ac6f8b9f2dfedc69461f203b6b71f214a7ad1bd15a0870a1ea2d4d11d79b46",
+      "reinf_over5.png": "5610187bc5445375b7b2f53f5c2e56dc55f8a657b7cabdc0f77b0b2be237a2d5",
+      "reinf_over6.png": "d8fd79d93ac86e466e50e2fa77a17d1651c6d958da2f94747109f0e96c61c4e3",
+      "reinf_over7.png": "a8a20fa4aa11e0048b1756fed96904d889dfe43ec6796ceba8f975cdca65dcd8",
+      "rgeneric.png": "98c5b1bb285d7d7398606fa63a5bd6673c2673d91c0d1fe2af58d3288c26ee90",
+      "solid0.png": "b100f0fbd78c7fccc7a050e865bea4dc8916997bf819017ffae55171e25cb232",
+      "solid1.png": "bf729e1cbe4e34161601ca3e0226a4d4f1e29e10368834249ece7764ba838df6",
+      "solid2.png": "b100f0fbd78c7fccc7a050e865bea4dc8916997bf819017ffae55171e25cb232",
+      "solid3.png": "71d120785daa8efb2d001804d1a1c8b9ad4d54c90f4cae166caea6f3f6b42c16",
+      "solid4.png": "ef23bc60bb6d1887251716f60af3adaebc3a12870d63c3ec7d61378211ebc4fc",
+      "solid5.png": "361589d17a59c4bf3f97a607da969ea1545b8428a314e2ba1792b0c957f0e6cd",
+      "solid6.png": "aba3772793180e8299d6b56f5f67dda0efb0dfa8ffc183b8e87e09f6f9a10f48",
+      "solid7.png": "48064b02547e923a18560850966278dcfdcca3062d386bc1600949f0628056df"
+    },
+    "replaces": [
+      "Structures/Walls/solid-rust.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/solid_rust.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/solid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/solid.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_2.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_3.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_4.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_5.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "a838ea2415d06b512324e2dee0ca40ac84fd434a352708ee9f5cae74291fb223",
+      "meta.json": "4c1da269ace376a551998dd691a793f53e592198d494d21c832fd8418115742b",
+      "reinf_construct-0.png": "3e67fbef9316e9722ec2d642e7eeb3fa8504546f7be5d06d3e4c9e6540d0e817",
+      "reinf_construct-1.png": "9d42a9e42a781211286202fc587dc93f7f63f036b0295318930f47f7e7c48700",
+      "reinf_construct-2.png": "065c2ed6790ac37673b62e40875e1eb4a70219cb4c9df5dbe02fd07316198a74",
+      "reinf_construct-3.png": "d816876d9f67cdc1137b6c5eb0e1e87ae241fedac906e7c45d6dd900aca5621b",
+      "reinf_construct-4.png": "9031e5c50a7b7136592da152e19c468293271f3dff6c32b8500ca800b8c9f064",
+      "reinf_construct-5.png": "80f9aff0c542ef5c103780dddc6184453908c6bc1002c9be43d021d8adfa652e",
+      "reinf_over0.png": "294df2180dfe9fa9092dde17ec05e24b2ff2a4b6b973da85b731b6f83cd82b94",
+      "reinf_over1.png": "dbbc6a4cf69aa5f5f284c647b2841d88aec3ec47a169b9d2e42080d2c4bd113e",
+      "reinf_over2.png": "030e78394dc85924e4a82fcabfe2ce80fb3596ef97e619b5663dae0fb9ea05f9",
+      "reinf_over3.png": "c73379c4a4b758029aca102ac4cdb84a633ee3fe11202d6cec143acef5c786d0",
+      "reinf_over4.png": "89419f9efa122a5c1f92b4424ebc3e761f39491562d041e3097f279c965f8bc1",
+      "reinf_over5.png": "881317c9f556e4a01338c73c548447b6229d71ea65a95ed1e0d039aabac840e1",
+      "reinf_over6.png": "a799c4a07370421a91e1fdb9269e2c6b0896ae5eaf78f667cb3da4ce57f6e3f6",
+      "reinf_over7.png": "1b3b04a5ff374d93700a122e701043d7bb8d94e652c8f343247e1c0fab6ba99d",
+      "reinforced_wall_girder.png": "b84e6f920f37c49eb3e3ebd1561a09fdcd775a3e2216eead2ffcf43ad1106e21",
+      "rgeneric.png": "80f9aff0c542ef5c103780dddc6184453908c6bc1002c9be43d021d8adfa652e",
+      "solid0.png": "d2d633ed03399f9b0305de8ddddd698e9e812d70798aef75f48cb54d4b0d5079",
+      "solid1.png": "3d0359e9c838fbc17ef0bc3794cf3a6d4553105d38251a101f6e3d77a521381a",
+      "solid2.png": "e4633e424614cae6bf2971c04605a7244256295a1095d0076d8871113fc52917",
+      "solid3.png": "a2a1699160019ba1f15a9af824f7e3b294be201b0449f3653dcb5efb73673f9f",
+      "solid4.png": "24d960b2829e51e5ae3a851a0a077f43fc45b1f615146af91f2d2159f503eefb",
+      "solid5.png": "e539d2d6ca2bc4cbb7112771a0f71b0b838a4f46cf6ec9af8c7b3e05a3720b06",
+      "solid6.png": "df3887d0c33c3c50005b85648473754a24e0dd3d9b076ab31276599f049eab89",
+      "solid7.png": "3bbce28524f7cab49b791ed6d2f5a6c92550ff1f9f9e6017c03cc558a6c54f68",
+      "wall_girder.png": "873f2a8be4a8339888d02071f3380476663d680266d9946332c9200f27f6ee6c"
+    },
+    "replaces": [
+      "Structures/Walls/solid.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/uranium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/uranium.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "41feb34c6f329db25e254bf9c028af7b5ca0e537f1e0ae468aa636357599b50b",
+      "meta.json": "9e6d84ae2ff6e6d62977188e82032b7350ae6fd419e0a1dbf4c85a7b59c306f6",
+      "uranium0.png": "d611b968199b7ff249b89d9c55783a2adc68056fd50950cdd7dffd77ede48513",
+      "uranium1.png": "cc40c24991f7738d3d27d87135fc9c7d9484234325b82062ec0c175142abedb5",
+      "uranium2.png": "d611b968199b7ff249b89d9c55783a2adc68056fd50950cdd7dffd77ede48513",
+      "uranium3.png": "cc40c24991f7738d3d27d87135fc9c7d9484234325b82062ec0c175142abedb5",
+      "uranium4.png": "3b9e3f436c46aebb0a61ef3bee2e38ce58861f9047db6246b05cb2aa4e745aaf",
+      "uranium5.png": "14dd36fd0dbca5509343568130f9df6e142482dd23577ef4fcf9ca580cf60bfe",
+      "uranium6.png": "3b9e3f436c46aebb0a61ef3bee2e38ce58861f9047db6246b05cb2aa4e745aaf",
+      "uranium7.png": "dcdd60f4bccf6a103a31f34f6e4635d5bb0d1fd5a78501674c2b8975217cd09c"
+    },
+    "replaces": [
+      "Structures/Walls/uranium.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/uranium.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/vault.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/vault.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/e09101cb4be860ff02e035b18bef93a08b9c204c modified by Peptide",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alienvault.png": "b3352680048d7c510650ee3c36aa7aca93e6f4f62c5f5c2038afbc7130f139d6",
+      "meta.json": "9dee01d1552643e71cd8e77d72f85e8809dea8f2eabd6e2b28e513f8ba6d0570",
+      "rockvault.png": "80dbd42ff3bea4cd642021dca55fe4fa0b14a5f2679709c77511bf075ff53834",
+      "sandstonevault.png": "ba2ec8f622ca8a241c5882df714c9bd11473a750899552e856aab3c4779b1255"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/vault.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/web.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/web.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "f2b6867f0bf0574fd98dd665267d3f0d5b838a972917ba7fce45a253cdcb9490",
+      "meta.json": "f7b418ae399e4d040920c9a3d1558ea8b88c49ab711085e3a1811e9b345aaae1",
+      "wall0.png": "c40094c0a639a50949363c9c698d16109370020ce36d12d96fba8a38160f1287",
+      "wall1.png": "007ecd97cef007f3f2a66e09348d15d338bf49bc3e1adf0c98df191c27a2b658",
+      "wall2.png": "785f307c0cadf515418bc25c418244afcf2ad21f374081d8e1968874b5d19dae",
+      "wall3.png": "820cf875658d693d96c3292ebcf9424fae5839f19bf0cf0de235f3122babda77",
+      "wall4.png": "cabae2971e757076eeaef425b2f31233dd887b892d0655c7c8f601075f3a36ca",
+      "wall5.png": "401b55807b4483e18a4ef440101dcc2941d9affb1fca9cdb61c12d5785973bc1",
+      "wall6.png": "623d9da6d4f2a6dbd90da1871bf985245a6b51801140c497c86203817be53bcf",
+      "wall7.png": "bb824d0254e3a738690b04aee90257dbbb7a8aff03e6b51c5c68b2ba31352128"
+    },
+    "replaces": [
+      "Structures/Walls/web.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/wood.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/wood.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/wood_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "ea2e0ff30f5f893a18b52b37dbfbd773b6c8fea2a6189b529f1e2f23535b2af5",
+      "meta.json": "a73e485e57fcabcf7f6cc424ad5a39094b4b80162e3c91f6db8ef022a358dfcf",
+      "wood0.png": "d2794e4583d1dc78d70566fe82a4a3155e994d76e108d715ae306f18f9c9ca1f",
+      "wood1.png": "872eb9278bce2e1b89bef068dbb1ee17c31dd24c48106c5edc870afde9aee198",
+      "wood2.png": "d2794e4583d1dc78d70566fe82a4a3155e994d76e108d715ae306f18f9c9ca1f",
+      "wood3.png": "baaf49ee9de9aca34b9a155ed848ed6e47ed6d6ac475ec02fc484cedd0d7b63b",
+      "wood4.png": "3dda4332a35b3cbf53d612453b9e64eaef8819aaa9982cfc5a88223db243796e",
+      "wood5.png": "05af6c3068958868a64b9a0c67f926ac2a26d7728f50c2f304ce730a6e7ff012",
+      "wood6.png": "c4ffb5dd0011d747c8ff885963ff8edd3ecd5262b15b87d8f3997218c2f909af",
+      "wood7.png": "8b37cfa6d6959febfa49a9ecdba4582c94258c46e194d02980bd957dbc3f5e70"
+    },
+    "replaces": [
+      "Structures/Walls/wood.rsi",
+      "_Lime/Imported/Goob/Structures/Walls/wood.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/xeno.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/xeno.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub). Construction states & Girders by 20nypercent and rye-rice (GitHub), modified slightly by AftrLite (GitHub).",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_2.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_3.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_4.dmi, https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/rwalls/reinforced_wall_5.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "ea2c83ba82f895a1c25e13d6e4e07c557d005bf555c547aa329cbfe644bd96d8",
+      "meta.json": "951f4acecf786f18dd234e6df4f3b1732aec6a2b7b317d8f4cb413541d9067d7",
+      "reinf_construct-0.png": "bfc6ff5e7dfc3d6e63c5b7fb280aa1d3a8e537b31f1ca953b1d7122304bda779",
+      "reinf_construct-1.png": "c556e7701a92b0735ab2f2871c57fde58cdbaf81bd779f85510310fee773682f",
+      "reinf_construct-2.png": "508c145875a256a7df60f0f82004d4166208e8e826a835c8efe26453d1963e86",
+      "reinf_construct-3.png": "dba3a64421f823f3f40dbe67917e5b853ebd9ec41bda3c64b0cb2e06b52eab24",
+      "reinf_construct-4.png": "9c76e90a840f19611929c67cccd8d8537e28ae21f3226d704b5b50ff8e788e3a",
+      "reinf_construct-5.png": "7164bc819c43822c829815820ebc1c5255e0bf5dcec63b2f631caf413074ce53",
+      "reinf_over0.png": "2884dfe6b3c827b6a826fa761d3022e0c450e818d608e8aa8f7514d663e1402a",
+      "reinf_over1.png": "0030d5901ce94fdf7dcdc8a882d82676efe57a0f53d8174a06cd03f0c3f010cc",
+      "reinf_over2.png": "1bae5b6199a8044eccfffa85048af84a388322dc1d478b02604b9226996d5186",
+      "reinf_over3.png": "941d343f62c19add6c243a5818a54971b4cd8d4e1768ed889facfeb754433148",
+      "reinf_over4.png": "cd3004c682c955dc1ee86b9fd15a432336f796b9b03342378fad227a41510187",
+      "reinf_over5.png": "2c7d08467cdb952c5da8fac6d85f6b408f6b3d0a67506c3ed4483d0ddab46abb",
+      "reinf_over6.png": "3c4313b541bb16c88b8d3362861848540f6b862ba40bb818eb4976e6f9d2817e",
+      "reinf_over7.png": "7fd70474ecdc074e7b874df01e55143b6edd55a34d80191b441b17b5c121c16f",
+      "reinforced_wall_girder.png": "3aa4bd9e51bbf5dd5ba6059b741cc49e6627d01ca3b504cef586a0f3adb247c0",
+      "rgeneric.png": "7164bc819c43822c829815820ebc1c5255e0bf5dcec63b2f631caf413074ce53",
+      "solid0.png": "493236d8b76cb30ab4a078457876e2947d443cdfe372f2441530cd6dbd560c45",
+      "solid1.png": "26f27b363b63242713ecd5bf26118aaf1025ad716e476e76015f491830e03964",
+      "solid2.png": "1bae5b6199a8044eccfffa85048af84a388322dc1d478b02604b9226996d5186",
+      "solid3.png": "cb1552a0836a7909faaf7c4b1090f874eb2190397af553704fbb6e2dbdc0cea0",
+      "solid4.png": "af1785cbf473a6124dc530a5917a8259998ef4114e8dcfd2b581aabf51a4793f",
+      "solid5.png": "dc84663c0f0f97c5b0590ad3f3cb489009c8451f04d5e0bfb83a32cbe89584db",
+      "solid6.png": "17134b0d4f9fb5cbfa07295c32ee1c09be35b0a4064597a6fe5482413249ccff",
+      "solid7.png": "be30326f960a6d9ab566b8de95b4e56e543a4db9c0e085be7057530e2c61420e",
+      "wall_girder.png": "902351be7250d6bc278222e2ad406421cb6c5478bbddfd8fd0d070d765e8a2ca"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/xeno.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/xenoborg_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/xenoborg_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "ed730adf254bf51c11fcb86b3d1cfe07831b131688e7a6510ea38bcd994204d3",
+      "state1.png": "b16b5fd07ad3f87f51cec5ea100b898ac5d04cd91bf81167c8e28c8b60d07c81"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/xenoborg_diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Walls/xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Walls/xenoborg.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "7592c735e9d76c00384b56580182339ef1272e8cd7825936aec658921c3e6c01",
+      "meta.json": "316ea543762988cc04eb01f85703b03bc805c02db324c8334b4844c2f58d481e",
+      "xenoborg0.png": "b5b2d8c8dc819e0946427a9370b778758fe5e66b612a3c6fbb68c859d1193d97",
+      "xenoborg1.png": "c67aa4b5ed5b5919220860b75127349c9d808151355e8eabd59309ef388f0e56",
+      "xenoborg2.png": "1bae5b6199a8044eccfffa85048af84a388322dc1d478b02604b9226996d5186",
+      "xenoborg3.png": "9967b2d87d1061f429f33f92c29b800c6a440ab683a5e31c6ca494a1b9198f26",
+      "xenoborg4.png": "d16b007cf39c089cbd6e7a60d2feb67d004eede08831727e67403bf37b190cb9",
+      "xenoborg5.png": "d7e65581650fc1d884cb51e6502aca325c348eca9d7a24c03409044374085077",
+      "xenoborg6.png": "67d1658bf747b2585e59b509292a7c1962e48f618bb5e8465184bea46a220f9b",
+      "xenoborg7.png": "2fd53006dbf7d70270d79aca60b4b34cd4b3785e9d63bcb2f43f897f9ea556bb"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Structures/Walls/xenoborg.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Web/nest.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Web/nest.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Heroman3003",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "9e218ac618d78f5d22dfeb2e788f974d4a03aa52ee44d04abaa071f5de0a6c3f",
+      "meta.json": "285528cdc71c632104ebedc85ad5329375ec38f442a67e4b649fc98930cde4a1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/clockwork_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/clockwork_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/b8fc9b367ebb26def792a68bcb25294e518698d8/icons/obj/smooth_structures/clockwork_window.dmi diagonalized by MACMAN2003, transparency tweaked by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "52e23e5c659d9ee184206919014315d06436f9f600194f6fc75d02eba9489c8f",
+      "state0.png": "17f6b1b348795f6a6f70b3a1ab65c002306e716825e8164a7f78aa3e3137d630",
+      "state1.png": "96263b90c940e9c3c82616f2bbebc8b279a20c74bf04487f5719ba44d79ebaee"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/clockwork_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/clockwork_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/b8fc9b367ebb26def792a68bcb25294e518698d8/icons/obj/smooth_structures/clockwork_window.dmi, transparency tweaked by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cwindow0.png": "57c491708b41cc2b29d397285e455069a2dd7492b8707504f59680962f4f638f",
+      "cwindow1.png": "5a9e37b892105ba07526e482e55aa56539e92473ed0de4af8ead2fc0402ed41d",
+      "cwindow2.png": "57c491708b41cc2b29d397285e455069a2dd7492b8707504f59680962f4f638f",
+      "cwindow3.png": "5a9e37b892105ba07526e482e55aa56539e92473ed0de4af8ead2fc0402ed41d",
+      "cwindow4.png": "9da07e00e35a16a68538e80f018f1b6167b0de4469fe2b8cdecafa21ac142d92",
+      "cwindow5.png": "963b2c6f20e9032715723b4eb8b5711b8f7678dc6c05ea24a26d77f384f5a88a",
+      "cwindow6.png": "9da07e00e35a16a68538e80f018f1b6167b0de4469fe2b8cdecafa21ac142d92",
+      "cwindow7.png": "67b66e147001386ce349aef02c26ea2bec90f7ae40aff47c978d44a73a3ad823",
+      "full.png": "285ebfc5f3ecdb698d64061619a9c1696647481a1e5a4d34f77540e58a35fd34",
+      "meta.json": "3e036ff6653f2906baa9b7cb7aacec2e84ce46d792a9dc1b885322e6393695f2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/cracks_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/cracks_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at commit e06b82a7f4b2b09216fb28fd384c95a2e1dc50e5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "DamageOverlay_10.png": "696cc995fe1da7fd8fad83a5b9a9d4243501e9f26937f9d952b3cd1ac49148f6",
+      "DamageOverlay_20.png": "bda3bfb48f32ab55aa59641fba38b0e9631fc100a88109a5b22376a9acd1d398",
+      "DamageOverlay_5.png": "ab538cda01ca1d09d2f9f3addf4b02abcdf11546147e59c58e4b587ee5c714ce",
+      "meta.json": "d63541afcabcdd11886a2351a99649beec225823a0730418e17c6e6ee2168b8e"
+    },
+    "replaces": [
+      "Structures/Windows/cracks-diagonal.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/cracks_directional.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/cracks_directional.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Adapted from https://github.com/space-wizards/space-station-14/ at commit f57e8ec6b9b4b72ef56c8146be0bc159ed2691ee, originally added by Zumorica, and modified for directional use by Darkie",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "DamageOverlay_10.png": "73668323e1124273dc4bd9db452fee585ff5e75d28c7760a910ef06295394239",
+      "DamageOverlay_20.png": "aad7ff4511da9210d97301bb5737c18120c0429e793f8461a8065e53133cc763",
+      "DamageOverlay_5.png": "19b5b5cfc49c0d615a4e25063293989afa5208edc901e9773ab2018ab140bc62",
+      "meta.json": "225881c156c01cacad33cb0fb12903f0dd7033fa89e3e6c3def017c2262b29ac"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/directional.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/directional.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from skyrat-tg at commit https://github.com/Skyrat-SS13/Skyrat-tg/commit/639e77f6e957bce88d9734b4b97b249738af42b1, uranium windows made via edit by SphiraI(github), clockwork windows from https://github.com/tgstation/tgstation/blob/21b42d49ecf2b87f665b5f122368f6a247676721/icons/obj/smooth_structures/structure_variations.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "clock_window.png": "c009556070fde6d2c6fa3193cf635df9e724d1659bc2da12ee8f37f39dd6babe",
+      "frosted_window.png": "3493067020fc89409caf6c80e59c65c743fdb1271b2aead21641665381f46967",
+      "meta.json": "6befcee8efda4c3c7cdfe15da177b063b869fb5eacbec35ee7dff6820cf68f11",
+      "plasma_reinforced_window.png": "8b98d6d33ba9524d6d4028ad4aa44b9194384c4fa0031377a3bf4cf68df2bfd6",
+      "plasma_window.png": "cb17d7f18cc47dfa01cb2a0597fca9ebd46d85af491201f6abc6ffb02722b429",
+      "reinforced_window.png": "ee8bb3b077170a92c5d0b19dbb1cf923d45db12c7bd4f7beda41f22f75b944a7",
+      "tinted_window.png": "3493067020fc89409caf6c80e59c65c743fdb1271b2aead21641665381f46967",
+      "uranium_reinforced_window.png": "6a2264e449c356f38d4023bdadee8f8d652a83f48f06bcfb607ed7c764619e3e",
+      "uranium_window.png": "70c9b91aca5a3f38bd0f8e2d125b374836aa55e6d9bec342ca33f20a19b34717",
+      "window.png": "f93d36f37a9f7c603deb25e6233ec142d2989d9414d3b25b474da97e4f6021d0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/mining_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/mining_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by NULL882 (github), transparency tweaked by Ubaser.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "3fd6602f84090d86287df042b3af4335c2184fe6b56d8ab78f4043f14fc1b08a",
+      "state0.png": "020f07e1bf4f1896170af42e89cefb3e6c5759fb0b7eff2ee4c450c4c0df7d0c",
+      "state1.png": "020f07e1bf4f1896170af42e89cefb3e6c5759fb0b7eff2ee4c450c4c0df7d0c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/mining.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/mining.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise station https://github.com/ParadiseSS13/Paradise/blob/master/icons/obj/smooth_structures/windows/pod_window.dmi. Modified by Ko4erga (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "3b2536b1f2f802e2bf233b2cca45dc9bae25795980e6f23c83c0760a44db86d5",
+      "meta.json": "1734a6f0e3e93f99e048db604337cf22ab36c492b7947b1ad23e7edc5e954bac",
+      "mwindow0.png": "a51dd8ddc3668901534302ec1f79c7a30667b457a7d4e7f6b6570779ddbe9d14",
+      "mwindow1.png": "e973b44782120fe97354de9f399d0eb8945ca853297249d3de464d0ef1e5b53b",
+      "mwindow2.png": "a51dd8ddc3668901534302ec1f79c7a30667b457a7d4e7f6b6570779ddbe9d14",
+      "mwindow3.png": "e973b44782120fe97354de9f399d0eb8945ca853297249d3de464d0ef1e5b53b",
+      "mwindow4.png": "ac2508af680f49b44878e9aecd704ea8e71a9bb31fe19b2eb580dc9b245d60ba",
+      "mwindow5.png": "e0ea97457eb491868439621bb2ffed6191f938ffb3ac8f571f399e1fbd6db657",
+      "mwindow6.png": "ac2508af680f49b44878e9aecd704ea8e71a9bb31fe19b2eb580dc9b245d60ba",
+      "mwindow7.png": "de7a9ccb49954785ed5d6a31a4e38d577d28f34486180d8b0211fd21d4ae64d4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/plasma_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/plasma_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "72eaec9224cf692dbfd697a13142f30b5a63564d08e5eb6298779c81b778a4d9",
+      "state1.png": "987f76a04c20a8c59065818c81237f729db622b18b9408a661377a52c39cd157"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/plasma_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/plasma_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "b1f3a3ac33927f15800518014844f492ef1a7a37adf6b8701e4df59411f043cd",
+      "meta.json": "9845b2729203bc3b96de8142b202f72a02b18d2c09c956e397e33166558ebaf8",
+      "pwindow0.png": "f3609a3da290102725696c838083abc91f39b929b5a81058eba0e269c4e373a6",
+      "pwindow1.png": "b162592477e3bb36e604a02540a224349802843b257e4f52551d75323d48cbf9",
+      "pwindow2.png": "092857d329834059146dae33f7286d6e756d832c1a87fb816a2d3a5c6d46b8f5",
+      "pwindow3.png": "fa0c7dcbbf07e5570e32d12709184c54d9a2de3b8325db23daca4443c808710d",
+      "pwindow4.png": "c77eef4e319038ff23bbb373bc992347fb2e31e3543bd7b878477142b9aa7eb9",
+      "pwindow5.png": "b893e1c2b08198456984093a69143e6582d37fe4c41c6b1439203e84ef979755",
+      "pwindow6.png": "048dc0f846a46bfb6e92c4dbe175ee310beb3c90f9981973a8c315e42e20baa0",
+      "pwindow7.png": "770a5ee83ac64467a90f3ab23a57ca66eec24d7a41ee27b282be1007b6fd5278"
+    },
+    "replaces": [
+      "Structures/Windows/window-plasma.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/plastitanium_window_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/plastitanium_window_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "eac6d0c0b99100f929e0bba38b2fe765a1671dd5bcf526c4f208afd5942bdf4b",
+      "state1.png": "54b1fb09fc81bc7a1c4b8698e6e1109c3aec592086adca2919c1569bbddd2376"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/plastitanium_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/plastitanium_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "521d7b782706b63e9e2726479c26a745001577cef80fdfdef5555a6fcca53e5b",
+      "meta.json": "ea587ae9bd95a624c5c94ac84b152c9697f233eab4167e9f863021d16cce1e1b",
+      "ptwindow0.png": "d286324f754f221815d720a82e61584effc22bcd2ae3778f90418531e498a71d",
+      "ptwindow1.png": "241473bbd9cc51d8b1a5e1fb0e542b7f50362b019c3ef1a7c3065b35c340313f",
+      "ptwindow2.png": "1f0e37be6ef9dc2bd1f71f96e8b6a18672b89d031629b7212657c9bb7462fa38",
+      "ptwindow3.png": "241473bbd9cc51d8b1a5e1fb0e542b7f50362b019c3ef1a7c3065b35c340313f",
+      "ptwindow4.png": "d686fb5f3b06cea913f12bfade6de8d7c9d23b5f061cc33103ed4eec7b16d2c5",
+      "ptwindow5.png": "aab6931393a2cf9fff2e84bff5636a1c8fef25db3b4b46df88ddaf5e8c37dca3",
+      "ptwindow6.png": "d686fb5f3b06cea913f12bfade6de8d7c9d23b5f061cc33103ed4eec7b16d2c5",
+      "ptwindow7.png": "8b86b472af72b3e6d76071729f261ab870b87b24eac08ab0e026339ca6b01fc5"
+    },
+    "replaces": [
+      "Structures/Windows/window-plastitanium.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/reinforced_plasma_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_plasma_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "9dc92a33dfcf82585bd8f300cad48edb9e7dbc57f4437c620492f388684f7e08",
+      "state1.png": "61b855c44cf88a2abeb1c7ce8f4c1974c8df04c17b53433fd56213352566afad"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/reinforced_plasma_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_plasma_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "0516a9e68629a43f6631819be6f970b1f0cb72832100958eba92a8bd2892a657",
+      "meta.json": "7b971d06d514a9168f7315622b79771e82542cce3d8f5be43241bf3052848a76",
+      "rpwindow0.png": "0d375b3389e4bdb1bf8448499c23b0054e86da3bfdab22ea3140ceda8fbe8fdd",
+      "rpwindow1.png": "99eeb384186a22a412f4b9df84d0ba5ea01a0df892b1572da3b1af84b6110eff",
+      "rpwindow2.png": "93daef258680643b8bd4daa42ad9bb301788a47fa06d5a0a52111c0d1ea1fdaa",
+      "rpwindow3.png": "99eeb384186a22a412f4b9df84d0ba5ea01a0df892b1572da3b1af84b6110eff",
+      "rpwindow4.png": "c84ad98fe214238c23e85cee77a1514931e621706791401a047810db01766abc",
+      "rpwindow5.png": "c2406a3d5c18f63f2df8f1a4cdfeac36ce8f4eba9d0799f2deae03cd48127798",
+      "rpwindow6.png": "c84ad98fe214238c23e85cee77a1514931e621706791401a047810db01766abc",
+      "rpwindow7.png": "d8c965f4ba7172241d8ee6999e40a0b6103d93e0aa5b67693495f8df95306759"
+    },
+    "replaces": [
+      "Structures/Windows/window-plasma-reinf.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/reinforced_uranium_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_uranium_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "1fb27bf985bbbb3e4e41273bcc2541cbd604b29d3578d4410f36490baf0e035e",
+      "state1.png": "4d7686859c322183fa8491d1377c6dae6c5928cf10f6c7e4191de79515a5fad3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/reinforced_uranium_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_uranium_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "80db85ebf6811d67bffd7990f9b673c6ada3b0d02bb79f5bb5dac58979cb71fa",
+      "meta.json": "c19157cac3c1727a62e5ff0da9345f29ec97248d22f5395aedfb72b2b5b7d5b5",
+      "ruwindow0.png": "cd3660c5962369b002ec52f41824497db352e78f144f91423c5559574cba8a6e",
+      "ruwindow1.png": "60b8f044613bcab68f6a64b401178ec9a687f086458a7663d817d5c4f5859493",
+      "ruwindow2.png": "d4817646ab29c3815a0d16f6a163a8e8fc986ed500df4395885bae1c870aaf1a",
+      "ruwindow3.png": "60b8f044613bcab68f6a64b401178ec9a687f086458a7663d817d5c4f5859493",
+      "ruwindow4.png": "e6fbbb32860ceafa4003974d268eec7a7146eca764b356529fd626c663183ca4",
+      "ruwindow5.png": "677250850eb03e123ed388fc6f666c7faee57ecaa5b17de35d4c584ece722c95",
+      "ruwindow6.png": "e6fbbb32860ceafa4003974d268eec7a7146eca764b356529fd626c663183ca4",
+      "ruwindow7.png": "6f9869e0f00ffeaa0267fcaf4b6cef2bd81c4fcab93aec6fdaf5bd712615d496"
+    },
+    "replaces": [
+      "Structures/Windows/window-uranium-reinf.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/reinforced_window_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_window_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "4c513d77d9e7646e59daef388ea8281d450ebba51cb72f8ce4b8a06e38326464",
+      "state1.png": "ee1bc2635fb1a7346d01f220d769dc4dc89765bf92d96d74f9d53442f9561ae7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/reinforced_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/reinforced_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "8d4bdff5e4b770525a05f950b58201dc7018bfa6637b9c1225f22a7a86cb530b",
+      "meta.json": "3d9daf07b1b049f47ecda68005e22521692553f5fc471fb7958ad139543883b7",
+      "rwindow0.png": "ae22363275be929a9b5f07fc7a830f58d2c67b7acad2043a1e5158e1eec20679",
+      "rwindow1.png": "c57ece4d3f7ddf3f121feb074b6096a9e82981d0c4a63ec94fec1aabe8d60339",
+      "rwindow2.png": "4de19b3590ce05841c8880389c08fb500af737475d7c47966e9987cdbb05a5b1",
+      "rwindow3.png": "c57ece4d3f7ddf3f121feb074b6096a9e82981d0c4a63ec94fec1aabe8d60339",
+      "rwindow4.png": "e3c88373436a5533cefe1265bc4c36f70376aca280118505fe8f8fa735b8263a",
+      "rwindow5.png": "b44975bd0a956cf9e690002c27e4a746aaef02c444382628ae8b890df55e13db",
+      "rwindow6.png": "e3c88373436a5533cefe1265bc4c36f70376aca280118505fe8f8fa735b8263a",
+      "rwindow7.png": "5d25b3b7cbc9f8e6a37ffd2a7cf66b65895ef0087e6bbc63af280baa9c62e60e"
+    },
+    "replaces": [
+      "Structures/Windows/window-base-reinf.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/shuttle_window_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/shuttle_window_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "125fa97cbd10e382b9eab39a83eab2bb49a7a2d6441d9e59dac40aa045baa02e",
+      "state1.png": "0295b160262d132e32a9e53a6cd23ca31a42b64a8b5c6f908a0cd8f59726ca77"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/shuttle_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/shuttle_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "3acfba821add342941e205b5c9919840b3904991e44c5c169d7ef618b9424866",
+      "meta.json": "a42cd5c03ebc2d5b7ef7a3c01b2ae9f0da0254db1dff28a04a61769449d9f251",
+      "swindow0.png": "8bd815138e8b7151f511ff9662222b64a8ce0c4e73e432e33861d833b991fe7b",
+      "swindow1.png": "c1e88d38fa62de77c81801fac1969e40c2f66b668a413474cc847b7a4dab7a2d",
+      "swindow2.png": "7e31807a703768cc79436c3405a7a9e4e6f2981f00d5da586f28256c45a1ab30",
+      "swindow3.png": "afcef034864074262f379a770981989640f4adaf9ff3ce3dbaed77592dd91c15",
+      "swindow4.png": "a382c2efd11f5f00698316116bc55052af9f6d8da3bb951936145a8445f95c5d",
+      "swindow5.png": "fbf0e7b0649710946245c20e076732169569b432f7d0c78e632b016ede54cc45",
+      "swindow6.png": "affcca00a0d56a6551f38e9ac569d26fe72a9bbbc5d294f4c8c221d16b448421",
+      "swindow7.png": "9327b2cb6d1d3f1d37fcd35a23e7c7abd05a8845ed387389287c39a82ddd32dc"
+    },
+    "replaces": [
+      "Structures/Windows/window-shuttle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/tinted_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/tinted_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "274e88d185275932f56b745d520e7c419f065e8fe01852b2306fbcfea6ba537c",
+      "meta.json": "9ca81beccdb6c86514a52076472f4cd34229521699c00f30b1761fc0377755f0",
+      "twindow0.png": "9822eeab69192d9b98c6ba26d5d10e00600275c8565c9d11c185e7de392d9203",
+      "twindow1.png": "f14d6fb9a46d29e3f931f04ca6652cbe6a82a7576d8efcb997649c7ec9dd12e0",
+      "twindow2.png": "79f1ec5dce7f2d864556a367232c9842ec7e6a636f346ba2aa8845220185941d",
+      "twindow3.png": "b099c0c7b684f4215977074c05c8cea44097b759d15d9e30f5f5481230405273",
+      "twindow4.png": "40dd126004c219e941fb63dfcb1c29c2dcff987a7ba2c3450ebab916c3ce632c",
+      "twindow5.png": "0c9fcb58ff1e61c49f34d7aa6053ed2dc05afe4e63a9e43a7a2a9fff27b0bbe0",
+      "twindow6.png": "47070fb2fea4c7ca44bc11cb4b40f0f039b4bb825f0b5526a3ffdae367b1934b",
+      "twindow7.png": "6458a04d945b9ab332a95a2f16b9fd5b5b0a9d91ccfa238efee3e80e5182829d"
+    },
+    "replaces": [
+      "Structures/Windows/window-tinted.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/uranium_window_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/uranium_window_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "470ffc3039ef703eca429f5e99077aa5dd214e20e73be1769e626b161731e569",
+      "state1.png": "c3455f1064d5b108d6582f0544b94e23b76c1ce2d4e4c7cef6d08fc90718334a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/uranium_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/uranium_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "0b8f16306bea8d76f26434babde36f944ddb668878e54c9bd1c4dae11e865a35",
+      "meta.json": "e591a9820517c27f41c24ac6f161aab0e225a98b237d3cd7226f28d6a2c5f6c5",
+      "uwindow0.png": "1538c48c7e480583618765fba438c34156a4f13188fc666961c195d3690e2044",
+      "uwindow1.png": "98954d60b2ef103fcdc506fca8ea2392af6365de4a8034ac7702d5950c6fd436",
+      "uwindow2.png": "02e3e91953cb6961671a9e520047544d25d176d6ca8e4b62a2f732a766284980",
+      "uwindow3.png": "471278c39ba5ca1766974542a021a0d21239fc349fa767b25276c3e74239855a",
+      "uwindow4.png": "3cf04b182303c704b70c39998dc9c9a203eab8e26871bc816e2baa20e54f5544",
+      "uwindow5.png": "e076b7cb6a15f46d8192d6286a1ea79587cf2b6bd4f248c9933937fac9b651d3",
+      "uwindow6.png": "58499f86f95b48fd658cdc794d47d79e2dd61acbc47e467223a3af05d1ba30f9",
+      "uwindow7.png": "ea8cf8ea2992f1df14210d163908336200ee5853e0bb846fe9f787053658ada4"
+    },
+    "replaces": [
+      "Structures/Windows/window-uranium.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/window_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/window_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "db81179b4dedb23440462d70a7baeb5bcc581f34f871e42c4f79b5cec900fef8",
+      "state1.png": "2a5b5f149215181a70d4ed65f91bcf1c4e4a8e1c25ef9ecf29470fb792f763a5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "0d7ea57ec9391c4dca4eec209b3e45cd32078cdb840c9470e3373e2eefb940eb",
+      "meta.json": "d3270ec28bd4ce92104ba66bceb2eeb959c649df4b219b9fb8f216f6eba6d292",
+      "window0.png": "2cb4d31919b6f4556da29907246308d903d882a117dcd2b873a3eda42959dc1b",
+      "window1.png": "8fb02294c1f65a3e091246f363c28aafd396087634d93a55a5c99493303b1f61",
+      "window2.png": "c3d9629d06f615912ec7a32c2896feb0a4b1421054de6bf31c0986b5553f0cc1",
+      "window3.png": "83f8bee8458be66f100c881167b0ace647447594c95fe42812e020082f10683b",
+      "window4.png": "5da0bacb90a8d4770d73d87e760b4a2fda2a50061db2c64c0e8c755bb99d5e08",
+      "window5.png": "64ad9a403f4102d9e52638b33722625068e071c7c368e3305c8905ea5e50f780",
+      "window6.png": "b6c7dd9c77b7f87308ecd0d397c6646be8886401b9d3e26c54d39075d07970ca",
+      "window7.png": "12bc7386efe1e673e9d4ba30c7014cb94c6f97ea8bcaa3f29fe097e8dd0eea04"
+    },
+    "replaces": [
+      "Structures/Windows/window-base.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/xeno_resin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/xeno_resin.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "c5915f834fee37765a85c90537863eb202bd80dd6a808295d5fdd6c06f12ea8f",
+      "meta.json": "330e09f06ea8d5a7feb566b383da680168a383251c7f1139dd3294e8d2512d70",
+      "xwindow0.png": "6826af89f7bfdc86e146176b70c0097fed6a46d7bcb18364c5d5a71205e1ae14",
+      "xwindow1.png": "b7f8de14ac554b2e60a80b9136f65062eb49f3c7757da8baaf66b63c666f2167",
+      "xwindow2.png": "5d27323b8a22b12b62169f3da70324107e867bc1838166b11f22a51cacfbd936",
+      "xwindow3.png": "9dd843885cfb565c70f679d152a206571ab2e7afd8507f5b7abfea802c2f5a07",
+      "xwindow4.png": "603e722563c2065720a6b482c8dcff08982d7718552377616aaaa845f92fa5fd",
+      "xwindow5.png": "b6ce5dc9eab717b915f8b0ad3125cb7a9ba110a04e83b2f885a9661e5dd34c29",
+      "xwindow6.png": "6c7b9484b33abffe0b1c5815bcd4a075cdcb5f4e34bf712dde2ecc6115515114",
+      "xwindow7.png": "96e20f600e56597a8d92787e5187bfb3c6f586d791c643251faee26014f960ad"
+    },
+    "replaces": [
+      "Structures/Windows/exo-resin.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Structures/Windows/xenoborg.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Structures/Windows/xenoborg.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "full.png": "8db0a9cfb4962af97a6342d7a7973d5e8b08640a0b6cb1589cf647faf2264414",
+      "meta.json": "316ea543762988cc04eb01f85703b03bc805c02db324c8334b4844c2f58d481e",
+      "xenoborg0.png": "14cdeabcd7cd5cf6411b550c596fc96296257a0599b44b552420a7bda1923c36",
+      "xenoborg1.png": "a5055a5ad526925c158ac09addd820e0fe6d622c49f3efbf592b33afa0d30629",
+      "xenoborg2.png": "cba9bed100dfd08d44e43db7594bc87e845f5829cfc735891bdb0b49f9d76c4c",
+      "xenoborg3.png": "aa753a47be7661b7d5f0df43503e6c1c6db2865a4e7d752050fd11085cad4fc9",
+      "xenoborg4.png": "c303b1f15385e5ae9a5b7381bf48a7b0cb89fc756cd488911fac43236b380028",
+      "xenoborg5.png": "85af53d0a3f0f995252c1a47c42564d6040b5bc73e016c398b298dc5d2021c1b",
+      "xenoborg6.png": "6afafca510bb3f01a8435daa42e25a8d25df13e5e300641f17d28669092c6373",
+      "xenoborg7.png": "90bc25590e9cfe7f343d3a882c6c3d5bb7259824601132dd3021835ba4164fef"
+    },
+    "replaces": [
+      "Structures/Windows/exo-resin-borg.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Tiles/Misc/bananium.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Tiles/Misc/bananium.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by brainfood1183 (github) for ss14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bananium.png": "e8b0f1a689f686cc6c1351011f30b22d40b44d9ee83f314db1c8c1927a959780",
+      "meta.json": "6b2bf9b856893378d2aa89cd9d029e31879b82108569a57bdc129949529a9b45"
+    },
+    "replaces": []
+  }
+]

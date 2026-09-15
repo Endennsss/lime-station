@@ -26,7 +26,7 @@
         restitution: 0.3
         friction: 0.2
   - type: Sprite
-    sprite: Objects/Fun/Darts/dart_red.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_red.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -45
@@ -43,7 +43,7 @@
         Piercing: 4
   - type: Item
     size: Tiny
-    sprite: Objects/Fun/Darts/dart_red.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_red.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: MeleeChemicalInjector
     solution: melee
   - type: RefillableSolution
@@ -92,27 +92,27 @@
   id: DartBlue
   components:
   - type: Sprite
-    sprite: Objects/Fun/Darts/dart_blue.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_blue.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: Objects/Fun/Darts/dart_blue.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_blue.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: Dart
   id: DartPurple
   components:
   - type: Sprite
-    sprite: Objects/Fun/Darts/dart_purple.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_purple.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: Objects/Fun/Darts/dart_purple.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_purple.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: Dart
   id: DartYellow
   components:
   - type: Sprite
-    sprite: Objects/Fun/Darts/dart_yellow.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_yellow.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: Objects/Fun/Darts/dart_yellow.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_yellow.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: Dart

@@ -158,7 +158,7 @@
     layers:
     - state: green
     - state: purple_snake
-      sprite: Mobs/Aliens/Xenos/purple_snake.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Aliens/Xenos/purple_snake.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ConditionalSpawner
     prototypes:
     - MobPurpleSnake
@@ -172,7 +172,7 @@
     layers:
     - state: green
     - state: small_purple_snake
-      sprite: Mobs/Aliens/Xenos/purple_snake.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Aliens/Xenos/purple_snake.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ConditionalSpawner
     prototypes:
     - MobSmallPurpleSnake

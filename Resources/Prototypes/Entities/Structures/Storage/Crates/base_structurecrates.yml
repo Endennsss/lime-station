@@ -56,7 +56,7 @@
       visible: false
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: paper
-      sprite: Structures/Storage/Crates/labels.rsi
+      sprite: _Lime/Imported/Monolith/NF/Structures/Storage/Crates/labels.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       map: ["enum.PaperLabelVisuals.Layer"]
   - type: Damageable
     damageModifierSet: SteelMod
@@ -107,7 +107,7 @@
       map: ["enum.LockVisualLayers.Lock"]
       shader: unshaded
     - state: paper
-      sprite: Structures/Storage/Crates/labels.rsi
+      sprite: _Lime/Imported/Monolith/NF/Structures/Storage/Crates/labels.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       offset: "-0.5,0"
       map: ["enum.PaperLabelVisuals.Layer"]
   - type: Damageable

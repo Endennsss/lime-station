@@ -365,7 +365,7 @@
   categories: [ DoNotMap ]
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Specific/Medical/healing_toolbox.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/healing_toolbox.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Healing
     damageContainers:

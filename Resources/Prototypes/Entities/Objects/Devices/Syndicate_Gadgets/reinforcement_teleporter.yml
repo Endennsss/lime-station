@@ -6,7 +6,7 @@
   description: Call in a syndicate agent of questionable quality, instantly! Only basic equipment provided.
   components:
   - type: Sprite
-    sprite: Objects/Devices/communication.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: old-radio
   - type: UserInterface

@@ -184,7 +184,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/organs.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Species/Human/organs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: OrganReptilian
@@ -192,10 +192,10 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Species/Reptilian/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: VisualOrgan
     data:
-      sprite: Mobs/Species/Reptilian/parts.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Species/Reptilian/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: VisualOrganMarkings
     markingData:
       group: Reptilian

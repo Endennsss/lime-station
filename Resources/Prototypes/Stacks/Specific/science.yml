@@ -9,5 +9,5 @@
   parent: BaseSmallStack
   id: Manipulator
   name: stack-micro-manipulator
-  icon: { sprite: /Textures/_Lime/Imported/Goob/Objects/Misc/stock_parts.rsi, state: micro_mani } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: /Textures/_Lime/Imported/Monolith/NF/Objects/Misc/stock_parts.rsi, state: micro_mani } # Lime-Edit - текстуры Monolith с сохранением лицензии
   spawn: MicroManipulatorStockPart

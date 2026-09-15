@@ -10,7 +10,7 @@
   flavor: absinthe
   color: "#33EE00"
   metamorphicSprite:
-    sprite: Objects/Consumable/Drinks/absintheglass.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Drinks/absintheglass.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon_empty
   metamorphicMaxFillLevels: 4
   metamorphicFillBaseName: fill-

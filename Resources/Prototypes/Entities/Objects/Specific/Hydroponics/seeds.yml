@@ -103,7 +103,7 @@
     - type: Seed
       plantId: GarlicPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/garlic.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/garlic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -315,7 +315,7 @@
     - type: Seed
       plantId: CornPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/corn.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -335,7 +335,7 @@
     - type: Seed
       plantId: EggyPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/eggy.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/eggy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -434,7 +434,7 @@
     - type: Seed
       plantId: PoppyPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/poppy.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/poppy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -445,7 +445,7 @@
     - type: Seed
       plantId: LilyPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/lily.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/lily.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -553,7 +553,7 @@
     - type: Seed
       plantId: SoybeanPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/soybeans.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/soybeans.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -573,7 +573,7 @@
     - type: Seed
       plantId: KoibeanPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/koibean.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/koibean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase
@@ -736,7 +736,7 @@
     - type: Seed
       plantId: CherryPlants
     - type: Sprite
-      sprite: Objects/Specific/Hydroponics/cherry.rsi
+      sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: SeedBase

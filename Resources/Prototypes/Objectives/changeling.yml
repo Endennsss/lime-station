@@ -19,7 +19,7 @@
   - type: Objective
     difficulty: 0.5
     icon:
-      sprite: Mobs/Species/Human/organs.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Species/Human/organs.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: heart-on
 
 - type: entity

@@ -3,7 +3,7 @@
   name: tool-quality-anchoring-name
   toolName: tool-quality-anchoring-tool-name
   spawn: Wrench
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/wrench.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/Monolith/NF/Objects/Tools/wrench.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: tool
   id: Prying
@@ -38,7 +38,7 @@
   name: tool-quality-pulsing-name
   toolName: tool-quality-pulsing-tool-name
   spawn: Multitool
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: tool
   id: Slicing
@@ -59,14 +59,14 @@
   name: tool-quality-honking-name
   toolName: tool-quality-honking-tool-name
   spawn: BikeHorn
-  icon: { sprite: Objects/Fun/bikehorn.rsi, state: icon }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: tool
   id: Rolling
   name: tool-quality-rolling-name
   toolName: tool-quality-rolling-tool-name
   spawn: RollingPin
-  icon: { sprite: _Lime/Imported/Goob/Objects/Tools/rolling_pin.rsi, state: icon } # Lime-Edit - текстуры Goob с сохранением лицензии
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Tools/rolling_pin.rsi, state: icon } # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: tool
   id: Brushing

@@ -36,7 +36,7 @@
   - type: Sprite
     drawdepth: Items
     noRot: false
-    sprite: Objects/Specific/Mech/ripley_construction.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/ripley_construction.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   id: BaseRipleyPartItem
@@ -71,7 +71,7 @@
         whitelist:
           tags:
           - RipleyRLeg
-    sprite: Objects/Specific/Mech/ripley_construction.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/ripley_construction.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ContainerContainer
     containers:
       mech-assembly-container: !type:Container

@@ -51,7 +51,7 @@
   description: A computer under construction.
   components:
   - type: Sprite
-    sprite: Structures/Machines/parts.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Machines/parts.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: 0
       map: [ "enum.ConstructionVisuals.Layer" ]

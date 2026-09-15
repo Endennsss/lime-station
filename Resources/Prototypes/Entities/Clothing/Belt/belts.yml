@@ -117,9 +117,9 @@
   description: 'A holster to carry a handgun and ammo. WARNING: Badasses only.'
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Belt/holster.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/holster.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Belt/holster.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/holster.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Storage
     grid:
     - 0,0,3,1
@@ -135,9 +135,9 @@
   description: A deep shoulder holster capable of holding many types of ballistics.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Belt/syndieholster.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/syndieholster.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Belt/syndieholster.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/syndieholster.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Storage
     maxItemSize: Huge
     grid:
@@ -165,9 +165,9 @@
   description: Unique and versatile chest rig, can hold security gear.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Belt/securitywebbing.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/securitywebbing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Belt/securitywebbing.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/securitywebbing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ ClothingBeltStorageBase, BaseSecurityCargoContraband ]
@@ -176,9 +176,9 @@
   description: Ideal for storing everything from ammo to weapons and combat essentials.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Belt/mercwebbing.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/mercwebbing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Belt/mercwebbing.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/mercwebbing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingBeltStorageBase
@@ -198,9 +198,9 @@
   description: A set of tactical webbing worn by Syndicate boarding parties.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Belt/militarywebbing.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/militarywebbing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Belt/militarywebbing.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/militarywebbing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ExplosionResistance
     damageCoefficient: 0.1
   - type: StaticPrice
@@ -213,9 +213,9 @@
   description: A set of tactical webbing worn by Gorlex Marauder medic operatives.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Belt/militarywebbingmed.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/militarywebbingmed.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Belt/militarywebbingmed.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Belt/militarywebbingmed.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ BaseCentcommContraband, ClothingBeltMilitaryWebbing ]

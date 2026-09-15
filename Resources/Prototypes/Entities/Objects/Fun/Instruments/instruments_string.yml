@@ -121,7 +121,7 @@
       "Nylon": {24: 0}
       "Steel": {25: 0}
   - type: Sprite
-    sprite: Objects/Fun/Instruments/guitar.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Instruments/guitar.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Wieldable
   - type: Damageable # Smash it! Does 20 damage a hit, but breaks after 1 hit.
   - type: Injurable

@@ -154,7 +154,7 @@
 - type: cargoProduct
   id: FunDartsSet
   icon:
-    sprite: Objects/Fun/Darts/dart_red.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/Darts/dart_red.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateFunDartsSet
   cost: 900

@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: SpaceGyroscope
   icon:
-    sprite: Structures/Shuttles/gyroscope.rsi
+    sprite: _Lime/Imported/Monolith/NF/Structures/Shuttles/gyroscope.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: base
   product: CrateSpaceGyroscope
   cost: 4000

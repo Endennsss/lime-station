@@ -24,7 +24,7 @@
   name: uplink-reinforcement-radio-name
   description: uplink-reinforcement-radio-traitor-desc
   productEntity: ReinforcementRadioSyndicate
-  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-urist }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio-urist } # Lime-Edit - текстуры Monolith с сохранением лицензии
   discountCategory: usualDiscounts
   discountDownTo:
     Telecrystal: 7
@@ -43,7 +43,7 @@
   name: uplink-reinforcement-radio-nukeops-name
   description: uplink-reinforcement-radio-nukeops-desc
   productEntity: ReinforcementRadioSyndicateNukeops
-  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-nukeop }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio-nukeop } # Lime-Edit - текстуры Monolith с сохранением лицензии
   cost:
     Telecrystal: 30
   categories:
@@ -59,7 +59,7 @@
   name:  uplink-reinforcement-radio-cyborg-assault-name
   description: uplink-reinforcement-radio-cyborg-assault-desc
   productEntity: ReinforcementRadioSyndicateCyborgAssault
-  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-borg-assault }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio-borg-assault } # Lime-Edit - текстуры Monolith с сохранением лицензии
   cost:
     Telecrystal: 65
   categories:
@@ -75,7 +75,7 @@
   name: uplink-reinforcement-radio-ancestor-name
   description: uplink-reinforcement-radio-ancestor-desc
   productEntity: ReinforcementRadioSyndicateAncestor
-  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-ancestor }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio-ancestor } # Lime-Edit - текстуры Monolith с сохранением лицензии
   discountCategory: usualDiscounts
   discountDownTo:
     Telecrystal: 4
@@ -94,7 +94,7 @@
   name: uplink-reinforcement-radio-ancestor-name
   description: uplink-reinforcement-radio-ancestor-desc
   productEntity: ReinforcementRadioSyndicateAncestorNukeops
-  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-ancestor }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio-ancestor } # Lime-Edit - текстуры Monolith с сохранением лицензии
   discountCategory: usualDiscounts
   discountDownTo:
     Telecrystal: 4
@@ -127,7 +127,7 @@
   id: UplinkMobCatMicrobomb
   name: uplink-mobcat-microbomb-name
   description: uplink-mobcat-microbomb-desc
-  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-syndicat }
+  icon: { sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi, state: old-radio-syndicat } # Lime-Edit - текстуры Monolith с сохранением лицензии
   productEntity: ReinforcementRadioSyndicateSyndiCat
   discountCategory: usualDiscounts
   discountDownTo:

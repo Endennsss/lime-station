@@ -24,9 +24,9 @@
         pipeDirection: South
   - type: AtmosPipeLayers
     spriteRsiPaths:
-      Primary: Structures/Piping/Atmospherics/pump.rsi
-      Secondary: Structures/Piping/Atmospherics/pump_alt1.rsi
-      Tertiary: Structures/Piping/Atmospherics/pump_alt2.rsi
+      Primary: _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      Secondary: _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
+      Tertiary: _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: GasBinaryBase
@@ -51,7 +51,7 @@
     - enum.SubfloorLayers.FirstLayer
   - type: Sprite
     sprite: !type:CreateVariants
-      values: [ Structures/Piping/Atmospherics/pump.rsi, Structures/Piping/Atmospherics/pump_alt1.rsi, Structures/Piping/Atmospherics/pump_alt2.rsi ]
+      values: [ _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi ] # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - sprite: !type:CreateVariants
         values: [ Structures/Piping/Atmospherics/pipe.rsi, Structures/Piping/Atmospherics/pipe_alt1.rsi, Structures/Piping/Atmospherics/pipe_alt2.rsi ]
@@ -118,7 +118,7 @@
       - enum.SubfloorLayers.FirstLayer
     - type: Sprite
       sprite: !type:CreateVariants
-        values: [ Structures/Piping/Atmospherics/pump.rsi, Structures/Piping/Atmospherics/pump_alt1.rsi, Structures/Piping/Atmospherics/pump_alt2.rsi ]
+        values: [ _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi ] # Lime-Edit - текстуры Monolith с сохранением лицензии
       layers:
         - sprite: !type:CreateVariants
             values: [ Structures/Piping/Atmospherics/pipe.rsi, Structures/Piping/Atmospherics/pipe_alt1.rsi, Structures/Piping/Atmospherics/pipe_alt2.rsi ]
@@ -189,7 +189,7 @@
     - enum.SubfloorLayers.FirstLayer
   - type: Sprite
     sprite: !type:CreateVariants
-      values: [ Structures/Piping/Atmospherics/pump.rsi, Structures/Piping/Atmospherics/pump_alt1.rsi, Structures/Piping/Atmospherics/pump_alt2.rsi ]
+      values: [ _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi ] # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - sprite: !type:CreateVariants
         values: [ Structures/Piping/Atmospherics/pipe.rsi, Structures/Piping/Atmospherics/pipe_alt1.rsi, Structures/Piping/Atmospherics/pipe_alt2.rsi ]
@@ -251,7 +251,7 @@
       - enum.SubfloorLayers.FirstLayer
     - type: Sprite
       sprite: !type:CreateVariants
-        values: [ Structures/Piping/Atmospherics/pump.rsi, Structures/Piping/Atmospherics/pump_alt1.rsi, Structures/Piping/Atmospherics/pump_alt2.rsi ]
+        values: [ _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi ] # Lime-Edit - текстуры Monolith с сохранением лицензии
       layers:
         - sprite: !type:CreateVariants
             values: [ Structures/Piping/Atmospherics/pipe.rsi, Structures/Piping/Atmospherics/pipe_alt1.rsi, Structures/Piping/Atmospherics/pipe_alt2.rsi ]
@@ -298,7 +298,7 @@
       - enum.SubfloorLayers.FirstLayer
     - type: Sprite
       sprite: !type:CreateVariants
-        values: [ Structures/Piping/Atmospherics/pump.rsi, Structures/Piping/Atmospherics/pump_alt1.rsi, Structures/Piping/Atmospherics/pump_alt2.rsi ]
+        values: [ _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi ] # Lime-Edit - текстуры Monolith с сохранением лицензии
       layers:
         - sprite: !type:CreateVariants
             values: [ Structures/Piping/Atmospherics/pipe.rsi, Structures/Piping/Atmospherics/pipe_alt1.rsi, Structures/Piping/Atmospherics/pipe_alt2.rsi ]
@@ -363,7 +363,7 @@
     - enum.SubfloorLayers.FirstLayer
   - type: Sprite
     sprite: !type:CreateVariants
-      values: [ Structures/Piping/Atmospherics/pump.rsi, Structures/Piping/Atmospherics/pump_alt1.rsi, Structures/Piping/Atmospherics/pump_alt2.rsi ]
+      values: [ _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt1.rsi, _Lime/Imported/Monolith/Structures/Piping/Atmospherics/pump_alt2.rsi ] # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - sprite: !type:CreateVariants
         values: [ Structures/Piping/Atmospherics/pipe.rsi, Structures/Piping/Atmospherics/pipe_alt1.rsi, Structures/Piping/Atmospherics/pipe_alt2.rsi ]

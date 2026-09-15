@@ -128,7 +128,7 @@
     priority: -20
     useDelay: 1
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Back/Backpacks/backpack.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction
@@ -191,7 +191,7 @@
     itemIconStyle: BigAction
     priority: -20
   - type: Sprite
-    sprite: Objects/Devices/communication.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: old-radio
   - type: InstantAction
@@ -357,7 +357,7 @@
     clientExclusive: true
     temporary: true
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/multitool.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction
@@ -417,7 +417,7 @@
   - type: Action
     useDelay: 1
   - type: Sprite
-    sprite: Objects/Fun/bikehorn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
 
@@ -480,7 +480,7 @@
     useDelay: 1
     raiseOnUser: true
   - type: Sprite
-    sprite: Interface/Actions/actions_fakemindshield.rsi
+    sprite: _Lime/Imported/Monolith/Interface/Actions/actions_fakemindshield.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.ActionVisuals.Icon"]

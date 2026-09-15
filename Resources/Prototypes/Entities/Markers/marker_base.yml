@@ -14,7 +14,7 @@
     - ForceFixRotations
   - type: Sprite
     drawdepth: Overdoors
-    sprite: Markers/cross.rsi
+    sprite: _Lime/Imported/Monolith/Markers/cross.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 # If serialization was cool this would work.
 #    layers:
 #      - state: blue

@@ -8,7 +8,10 @@ const repo = process.cwd();
 const source = path.resolve(process.argv[2] ?? '.');
 const mode = process.argv[3] ?? '--audit';
 const root = 'Resources/Textures/';
-const destination = `${root}_Lime/Imported/Goob/`;
+const monolith = process.argv.includes('--monolith');
+const provider = monolith ? 'Monolith' : 'Goob';
+const repositoryUrl = monolith ? 'https://github.com/Monolith-Station/Monolith' : 'https://github.com/Goob-Station/Goob-Station';
+const destination = `${root}_Lime/Imported/${provider}/`;
 const manifestPath = `${destination}import_manifest.json`;
 const franchisePath = /(?:^|[/_.-])(amongus|among_us|jojo|kirby|mario|sonic|zelda|omniman|helldivers?|pokemon|warhammer|cosplay|nazgul|goku|naruto|luffy|deltarune|undertale)(?:$|[/_.-])/i;
 const allowed = new Set(['CC0-1.0', 'CC-BY-3.0', 'CC-BY-4.0', 'CC-BY-SA-3.0', 'CC-BY-SA-4.0', 'MIT']);
@@ -92,8 +95,8 @@ if (mode === '--verify' || mode === '--verify-index') {
 }
 
 const origin = git(source, ['remote', 'get-url', 'origin']).trim().replace(/\.git$/, '').toLowerCase();
-if (origin !== 'https://github.com/goob-station/goob-station'
-    && origin !== 'git@github.com:goob-station/goob-station') throw new Error('unexpected-source-repository');
+if (origin !== repositoryUrl.toLowerCase()
+    && origin !== repositoryUrl.toLowerCase().replace('https://github.com/', 'git@github.com:')) throw new Error('unexpected-source-repository');
 const sourceFiles = files(source), localFiles = files(repo);
 const commit = git(source, ['rev-parse', 'HEAD']).trim();
 const assets = [], excluded = [], unchanged = [];
@@ -119,10 +122,15 @@ for (const filename of sourceFiles.keys()) {
 }
 for (const [directory, contents] of groups) {
     const relative = directory.slice(root.length);
-    if (!/(^|\/)(Objects|Clothing)\//.test(relative) && !/(^|\/)Structures\/(Walls|Doors)\//.test(relative)) continue;
+    if (!monolith && !/(^|\/)(Objects|Clothing)\//.test(relative) && !/(^|\/)Structures\/(Walls|Doors)\//.test(relative)) continue;
     const category = /Structures\/Walls\//.test(relative) ? 'walls'
         : /Structures\/Doors\//.test(relative) ? 'doors'
-        : /(^|\/)Clothing\//.test(relative) ? 'clothing' : 'objects';
+        : /Structures\/Windows\//.test(relative) ? 'windows'
+        : /Structures\/.*(?:Lights|Lighting)\//.test(relative) ? 'lights'
+        : /Structures\/Power\//.test(relative) ? 'power'
+        : /(^|\/)Clothing\//.test(relative) ? 'clothing'
+        : /(^|\/)Objects\//.test(relative) ? 'objects'
+        : /(^|\/)Structures\//.test(relative) ? 'structures' : 'other';
     const images = contents.filter(filename => filename.endsWith('.png'));
     if (images.length && images.every(filename => sourceFiles.get(filename) === localFiles.get(filename))) {
         unchanged.push(relative);
@@ -156,16 +164,20 @@ assets.sort((a, b) => a.source.localeCompare(b.source));
 const bindings = new Map(), airlockBindings = new Map();
 const normalize = filename => filename.replaceAll('_', '-');
 const localRsi = [...localFiles.keys()].filter(filename => filename.endsWith('.rsi/meta.json')).map(filename => filename.slice(0, -10));
+// Связываем исходные пути с уже подключёнными наборами Goob, не меняя их файлы.
+const previousAssets = monolith ? json('Resources/Textures/_Lime/Imported/Goob/import_manifest.json').assetManifests
+    .flatMap(filename => json('Resources/Textures/_Lime/Imported/Goob/' + filename)) : [];
 for (const asset of assets) {
     asset.replaces = [];
-    const matches = localRsi.filter(directory => normalize(directory) === normalize(asset.source));
+    const matches = [...new Set([...localRsi.filter(directory => normalize(directory) === normalize(asset.source)),
+        ...previousAssets.filter(previous => normalize(previous.source) === normalize(asset.source)).map(previous => previous.destination)])];
     for (const directory of matches) {
         if (compatible(json(path.join(repo, directory, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))) {
             asset.replaces.push(directory.slice(root.length));
             bindings.set(directory.slice(root.length), asset.destination.slice(root.length));
         }
     }
-    for (const [oldName, newName] of Object.entries(airlockNames)) {
+    for (const [oldName, newName] of Object.entries(monolith ? {} : airlockNames)) {
         for (const kind of ['Standard', 'Glass']) {
             const original = `Structures/Doors/Airlocks/${kind}/${oldName}.rsi`;
             if (asset.source !== `${root}Structures/Doors/Airlocks/${kind}/${newName}.rsi`
@@ -181,6 +193,36 @@ for (const asset of assets) {
         }
     }
     asset.replacement = asset.replaces.length > 0;
+}
+
+if (monolith) {
+    const windowAliases = {
+        'window-base': 'window', 'window-base-reinf': 'reinforced_window',
+        'window-plasma': 'plasma_window', 'window-plasma-reinf': 'reinforced_plasma_window',
+        'window-uranium': 'uranium_window', 'window-uranium-reinf': 'reinforced_uranium_window',
+        'window-plastitanium': 'plastitanium_window', 'window-tinted': 'tinted_window',
+        'window-shuttle': 'shuttle_window', 'window-regal': 'clockwork_window',
+        'exo-resin': 'xeno_resin', 'exo-resin-borg': 'xenoborg',
+    };
+    // Предпочитаем художественные варианты Frontier, опубликованные в Monolith.
+    for (const asset of [...assets.filter(asset => !asset.source.includes('/_NF/')), ...assets.filter(asset => asset.source.includes('/_NF/'))]) {
+        const original = asset.source.replace(`${root}_NF/`, root);
+        const candidates = [original, ...Object.entries(windowAliases)
+            .filter(([, next]) => original === `${root}Structures/Windows/${next}.rsi`)
+            .map(([old]) => `${root}Structures/Windows/${old}.rsi`)];
+        for (const directory of candidates) {
+            const oldMeta = path.join(repo, directory, 'meta.json');
+            if (!fs.existsSync(oldMeta) || !compatible(json(oldMeta), json(path.join(source, asset.source, 'meta.json')))) continue;
+            const paths = [directory.slice(root.length), ...previousAssets.filter(previous => previous.source === directory)
+                .map(previous => previous.destination.slice(root.length))];
+            for (const relative of paths) {
+                if (!compatible(json(path.join(repo, root, relative, 'meta.json')), json(path.join(source, asset.source, 'meta.json')))) continue;
+                bindings.set(relative, asset.destination.slice(root.length));
+                if (!asset.replaces.includes(relative)) asset.replaces.push(relative);
+            }
+            asset.replacement = true;
+        }
+    }
 }
 
 function airlockLayers(sprite, native = false) {
@@ -245,9 +287,9 @@ const edits = [], prototypeFiles = new Set();
 for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
     if (!filename.endsWith('.yml') && !filename.endsWith('.yaml')) continue;
     const before = fs.readFileSync(filename, 'utf8');
-    const adapted = filename.includes(`${path.sep}Doors${path.sep}Airlocks${path.sep}`)
+    const adapted = !monolith && filename.includes(`${path.sep}Doors${path.sep}Airlocks${path.sep}`)
         ? adaptAirlocks(before.replaceAll('\r\n', '\n')) : before;
-    const after = adapted.split('\n').map(line => {
+    let after = adapted.split('\n').map(line => {
         if (line.includes('оригинальный RSI для отсутствующего состояния')) return line;
         const updated = line.replace(/(?:\/?Textures\/)?(?:[_A-Za-z0-9.-]+\/)+[_A-Za-z0-9.-]+\.rsi/g, match => {
             const prefix = match.match(/^\/?Textures\//)?.[0] ?? '';
@@ -255,8 +297,19 @@ for (const filename of walk(path.join(repo, 'Resources/Prototypes'))) {
             return bindings.has(asset) ? prefix + bindings.get(asset) : match;
         });
         if (updated === line || line.trimStart().startsWith('#')) return line;
-        return updated.replace(/\r$/, '') + (updated.includes('Lime-Edit') ? '' : ' # Lime-Edit - текстуры Goob с сохранением лицензии') + (line.endsWith('\r') ? '\r' : '');
+        return updated.replace(/\r$/, '').replace(/текстуры Goob с сохранением лицензии/g, `текстуры ${provider} с сохранением лицензии`) + (updated.includes('Lime-Edit') ? '' : ` # Lime-Edit - текстуры ${provider} с сохранением лицензии`) + (line.endsWith('\r') ? '\r' : '');
     }).join('\n');
+    if (monolith && filename.endsWith(`${path.sep}Power${path.sep}apc.yml`)) {
+        const apc = assets.find(asset => asset.source === `${root}Structures/Power/apc.rsi`);
+        if (apc) {
+            // Новая логика каналов и аварийного индикатора использует ванильный RSI.
+            const sprite = apc.destination.slice(root.length);
+            after = after.replace(/(^    - state: (?:base|panel)\r?\n)(?!      sprite:)/gm,
+                `$1      sprite: ${sprite} # Lime-Edit - корпус ЛКП Monolith\n`)
+                .replace(/(    sprite:) Structures\/Wallmounts\/apc.rsi(\r?\n    state: frame)/g,
+                    `$1 ${sprite} # Lime-Edit - рама ЛКП Monolith$2`);
+        }
+    }
     if (before.replaceAll('\r\n', '\n') !== after.replaceAll('\r\n', '\n')
         || before.includes(destination.slice(root.length))) prototypeFiles.add(filename);
     if (before !== after) edits.push({ filename: path.relative(repo, filename).replaceAll('\\', '/'), before, after });
@@ -265,7 +318,7 @@ const summary = {
     commit, imported: assets.length, replacements: assets.filter(asset => asset.replacement).length,
     replacedPaths: bindings.size, airlockPaths: airlockBindings.size,
     prototypeFiles: prototypeFiles.size, unchanged: unchanged.length, excluded: excluded.length,
-    byCategory: Object.fromEntries(['walls', 'doors', 'objects', 'clothing'].map(category => [category,
+    byCategory: Object.fromEntries([...new Set(assets.map(asset => asset.category))].sort().map(category => [category,
         { imported: assets.filter(asset => asset.category === category).length,
             replacements: assets.filter(asset => asset.category === category && asset.replacement).length }])),
     byLicense: Object.fromEntries([...allowed].map(license => [license, assets.filter(asset => asset.license === license).length])),
@@ -359,8 +412,8 @@ if (mode === '--audit') {
         savePatch(`assets_${offset}.patch`, ['*** Begin Patch', `*** Add File: ${destination}${name}`,
             ...body.split('\n').map(line => '+' + line), '*** End Patch']);
     }
-    const manifest = { repository: 'https://github.com/Goob-Station/Goob-Station', commit,
-        policy: 'Explicit permissive or CC-BY/CC-BY-SA/CC0 asset license; original bytes and attribution preserved. No Goob code imported.',
+    const manifest = { repository: repositoryUrl, commit,
+        policy: 'Explicit permissive or CC-BY/CC-BY-SA/CC0 asset license; original bytes and attribution preserved. No foreign code imported.',
         summary, assetManifests, excluded };
     savePatch('manifest.patch', ['*** Begin Patch', `*** Add File: ${manifestPath}`,
         ...JSON.stringify(manifest, null, 2).split('\n').map(line => '+' + line), '*** End Patch']);

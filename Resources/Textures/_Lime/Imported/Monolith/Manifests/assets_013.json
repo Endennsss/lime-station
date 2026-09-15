@@ -1,0 +1,923 @@
+[
+  {
+    "source": "Resources/Textures/_Mono/Clothing/OuterClothing/Vests/elitevest.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/OuterClothing/Vests/elitevest.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox state by Flareguy for SS14. Minor edits by SlamBamActionman and Minemoder for elite variant.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING-vox.png": "2bc69dccd76ac7c00cf2984d434e20259a9bcdcb756c3690f7570eb309bff4a4",
+      "equipped-OUTERCLOTHING.png": "7c08a835c78c32ab000217a0f74d7dbfc1c3f6e3730dc3a565ce854dda661f2c",
+      "icon.png": "e7395960aff321a1df612e3ba0b65466365d459f1146a50a03b03657c9337691",
+      "inhand-left.png": "dfa175d09cf20a2981d8d7ea675fa389bd2e2c674681622a00efb9a1dffbf223",
+      "inhand-right.png": "010d9cea59a3b0067feedd3bc7180cfb24f78cf3bc3284f7c443215d970f39b6",
+      "meta.json": "c6d4427a3216b92a6ddfe53426da65d3ae7f5256dacc79d3fd4199fa4953a969"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Boots/magboots-ashen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Boots/magboots-ashen.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2fea0a59470c476cf3f927833d3918d89cbe6af8, reptilian made by kuro(388673708753027083). equipped-FEET-vox & on-equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi, and equipped-FEET-vox state modified to fix inconsistencies. Colors edited by _starch_ (discord), Vox modifications by 10KE | inhands by UnicornOnLSD (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "af0d383d11e2243cbdd9045cb4f51632e88b090d84f2572101586566b1c347c3",
+      "equipped-FEET.png": "30e56c9d212436f12e8bd31f02c52a52a295978e3087c2556e243c212e573485",
+      "icon-on.png": "6a7bab95844b6718a546ab31410100611b750b882df7f8e37f8642388a6f27fa",
+      "icon.png": "166e3a4de7c20ba084808dca81ceeda72328456b59d18167517a177ab095e37f",
+      "inhand-left.png": "fe8df3d762b0f715a17ffc8d841a4a33a909549621f65dcbe00b110ceccd7b9e",
+      "inhand-right.png": "ac546a0ac0efdca0da92c2947969c9c568c4367244476b2f10ce1deceee51afc",
+      "meta.json": "8dc0e2c323c8a90838fcd96df57bb58ff5e6c515bac353f1a639102fd3429867",
+      "on-equipped-FEET-vox.png": "40ced67d160f3989efe17942fdba20191d551cae7452b8acdb6a905eeaadeee9",
+      "on-equipped-FEET.png": "dc95f7365c385fef357178fca1d825eab96cfed7b567815e44317dd66fcc6ced",
+      "on-inhand-left.png": "6f12698e01c6bb68b1eb506e40afe8cfad47a7be288d7f6a6e81bc4d010d1741",
+      "on-inhand-right.png": "05dc2733334f1f337f039ee2231ff8aa481a592a1195a7ca4545851e8e0f1705"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Boots/magboots-drake_industries.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Boots/magboots-drake_industries.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Drawn by Ubaser. Vox states made by Flareguy, modified from magboots.rsi, resprited by fazan_saverg (842350861123452948) on discord. Recolored into DI magboots by UnicornOnLSD (GitHub), Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "7272fd671b2edeead1e3107a327b0f3124f6adb4c10e4254f138924e6cb78446",
+      "equipped-FEET.png": "577984321b83648dd8d2da2c55c6e35da74ca442628b6b3421c0409526d7be54",
+      "icon-on.png": "a17e80df0962c221460c9ee640a59423a542784153ce586581a61f8586f513d7",
+      "icon.png": "2afcc541e8d624b30b7814815454c31ad1277ebcdff5e13f9f427aa89f9cf46c",
+      "inhand-left.png": "80585f9e769db5d09fbf3de1009f7ed3b8469e4fe5e43887592a5b9f5a0a2002",
+      "inhand-right.png": "8e5cea695d3e85e00ca7587d73dbbf92dea4bf376b06f216fd8fdd8e7e574b01",
+      "meta.json": "483246c69c1f8282580448a493ae661f2f88635e9c23d862830471fc45473128",
+      "on-equipped-FEET-vox.png": "ae9caa2ff91550d91096558976376838bba8e8b68854698feaf7c3a6f1c24098",
+      "on-equipped-FEET.png": "5725982aeb1adba29583372ff246930aceefa860c31460eaded58f1f6d47fb51",
+      "on-inhand-left.png": "72907d6457a6b7ed2b350f8fa441c89b96f6557b268a038f7e0681c513594b3b",
+      "on-inhand-right.png": "8255ea176197f72fd1b1533477cd3ece77ee6f89a32e0e6d0e6165295fe1e33d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Boots/swat_any.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Boots/swat_any.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Skyrat-tg at commit https://github.com/Skyrat-SS13/Skyrat-tg/commit/b9c06b16579dc828ac4d6f603995e083075725b2, reptilian made by kuro(388673708753027083). equipped-OUTERCLOTHING-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/31d6576ba8102135d058ef49c3cb6ecbe8db8a79. equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "ba1e86555a530d93f26ccc821f11188c5e513db4ce507d6708661eae6f63500f",
+      "icon.png": "40a4971bad0626a9c50d97264209b7cbc034c6be0d0c7d75de8c5bb4667ae0be",
+      "inhand-left.png": "a32700c1850e41eb6444418c00870946669b1889dd220c6c77b2afc0af30e803",
+      "inhand-right.png": "9340071bd1e5104c05a7dd7742c1ca8cca27b655fcea2335d1ec4cbf5c61071e",
+      "meta.json": "be5d9aac43053f3dc52d6b43764d029174aade65a53226de76942851dd924342"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Boots/voidboots.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Boots/voidboots.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from magboots.rsi by Ilya246, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET-vox.png": "c4a93dce3c1f2f68f8a9082fbbefff7f90d7677425c5fc4bdd2f99d46fab3f60",
+      "equipped-FEET.png": "037840612105155d88bdfb6890d7bb374e9ac4bd228f9be0972b11621513dc19",
+      "icon-on.png": "323e74c62050c932074fab5f1364157d3d8a2caae0dfc85af9e52026c004ebd7",
+      "icon.png": "82d0231a4a9273e8742512530791a21842c7db0190c29b7e704073ce0c8472cf",
+      "inhand-left.png": "b7d118130c8b5615f9752da9c4ac2d6d56a0b49e9d43e930effa24ca7e37ea60",
+      "inhand-right.png": "dc7d12e5ea239c4b99ae152a7dff5a9103186eef03da0c4473f0e8d8693d3d26",
+      "meta.json": "1f5442e80a1f8155e3acfba10af535921e93ffdda1c210748201b29f053506d5",
+      "on-equipped-FEET-vox.png": "c4b81df7e03d6f0c0aa5fbfd41beabdb9b6b857d14361ff8a74877c320dc00b0",
+      "on-equipped-FEET.png": "058ce97d687a34f7c1f319317b73303d137afde63cb117d765b086acdce05051",
+      "on-inhand-left.png": "18087b211ff9c46aeb851b793eae929f1aaec1957dc915945e8f5c33518a4c4e",
+      "on-inhand-right.png": "c95aac2142fa0a0a0a5917f7fa39918da7c0fed1c4e4dcd18d38d79aee9f5e1f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Misc/clothwrapblack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Misc/clothwrapblack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise,modified by Wishicoffee(monolith discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "853780ffca60b51b7645f2d1019ac0576ac6c1d210ea3b5432dd9654fc1377aa",
+      "icon.png": "46554fc460807a0df7008378dca953f3653d6c0d26a0cd5407825a6fa05e5e65",
+      "meta.json": "0047846ba09d2e2a3e1f69cb4ee2589d4fb10aa129f3073cd7fe442306eb6149"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Modsuits/mercenary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Modsuits/mercenary.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Greenwall-Exe, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "ab99ac05a487cd771029e4742b7d3f60b278fc0b770a9cafba0849c2c7f60608",
+      "boots.png": "744a08e2095c88228068c409383551a94d2d43a99794cbc201e82b2c119bb81a",
+      "equipped-FEET-sealed-vox.png": "3de6502270e6f0bc978cae0e388cfd68210375a8050a7ec4176c7162219cd470",
+      "equipped-FEET-sealed.png": "6a7517f9c4933a4e2d1f5d8116dd87d3df5419abc3deebae4b0ac966ea22b7f0",
+      "equipped-FEET-vox.png": "3de6502270e6f0bc978cae0e388cfd68210375a8050a7ec4176c7162219cd470",
+      "equipped-FEET.png": "162b6581ecd503bc1ea2910334ca28cf8fbc5a0d96e12487a745f6813c9dc210",
+      "meta.json": "c3ec5bec94561021baa397d825478693dd0920ba335fbf84c8d69f1e60c283ac"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Modsuits/rogue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Modsuits/rogue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by VMSolidus for EE, Remade for Monolith by BluHNT, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "08ac102f2c77d676ee2dc60b8e24360420b76b2e63cb1ce655c19aeb47eebc27",
+      "boots.png": "681884d6089cd3e63808a3dfad71d6cdeee2426834d0108cace8c4f09d8371be",
+      "equipped-FEET-sealed-vox.png": "654ce99de4b1c4c83dc1e95b4083a4b81cb7e0e86e5c87165fc413c195304856",
+      "equipped-FEET-sealed.png": "a8d281a481862a5346e3f3d65427e925de20431f9423b8b4f4a209dc6f70b962",
+      "equipped-FEET-vox.png": "654ce99de4b1c4c83dc1e95b4083a4b81cb7e0e86e5c87165fc413c195304856",
+      "equipped-FEET.png": "a8d281a481862a5346e3f3d65427e925de20431f9423b8b4f4a209dc6f70b962",
+      "meta.json": "ed21e3a8f46f9c22240a2634ea28eba979edff2b9251dc266278308a08aa6a82"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Modsuits/tsfmc-volta.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Modsuits/tsfmc-volta.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From https://github.com/Monolith-Station/Monolith, made by Schepka, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "49b88f7f1570de4449c516045f08683018a459d23fc91d7d59ce9ce8cbfdf7c6",
+      "boots.png": "34d6881b8ebf1000b0889eb792b2fe67779f959e3f3efa246735e41a3929c2b6",
+      "equipped-FEET-sealed-vox.png": "82621adb68b284ea044174cfccb8f83f283aa64c81b35285f94d013437552af1",
+      "equipped-FEET-sealed.png": "52a23ea46faa23adb282fe6c329834e50629b80631d9161f6810de569da449fb",
+      "equipped-FEET-vox.png": "fc1a18c3bcc7472cff76f51755542d03cddcd17e86417b4981a61f364785967c",
+      "equipped-FEET.png": "db25339756f70e1e327a4ec411769434cb23af3ef7eb61aee01313ca258963df",
+      "meta.json": "6b95b833757cfdc66e86e55955e0ab9bd177f4b7df58209b1d9a763558a93e4f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Modsuits/ussp-varyag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Modsuits/ussp-varyag.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, remade for USSP by BlueHNT, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "bc8e5a11860b21c199913db8d5391140d26537080987e17e3b8da5072a5a80e7",
+      "boots.png": "4a31ca758061be6d28974270e23825fe969076cf25b2354b6cb81eca0c674471",
+      "equipped-FEET-sealed-vox.png": "73d1e42d009f37de916cb401b18587b24096afc697d596aa17255db3a8717f21",
+      "equipped-FEET-sealed.png": "a417f9555bfe50f8bd1ac05cdc36bccadb9db43ea0df2dc4f6e247c33ce4cef4",
+      "equipped-FEET-vox.png": "b3ae102ffa09fd414672324a0a715294e1af9eca453bccfbd82d77d4af84e1cd",
+      "equipped-FEET.png": "056ea7b08cb5db341efff2df970dd43e4e6447a80c5e3be37bec77e17512ec25",
+      "meta.json": "e9db4eb2278af68b2468cf3394652107159e617e2129703c3db514cfc3c3f5c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Shoes/Modsuits/ussp-zastavnik.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Shoes/Modsuits/ussp-zastavnik.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, remade for USSP by BlueHNT, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "4ccab4d2867b51cc55b636f71dcbfa1f0a4145cb8f28a4c3ad8e0b84deeb6581",
+      "boots.png": "90af7b69f30476afa7eb04af072e5a1f3f4ff420a1f5d9ba48d40043b34aebfd",
+      "equipped-FEET-sealed-vox.png": "eefd0074d161b23b47ac64192232058e7d7c6fd3f8624ea801a34cbb949eb225",
+      "equipped-FEET-sealed.png": "6f7e0a2238c7c0490835efd7aa2799b1e5695cba82f692ab86a409cb44896dab",
+      "equipped-FEET-vox.png": "a716fa48bb4c7cebb0378b8c1598884e895ed63d9de73a38021b5b1b22b7f8b5",
+      "equipped-FEET.png": "f40137fe96da0efc7b31d435d4a89dc1e0bd5642e830271e9fe168aa7cda0592",
+      "meta.json": "e9db4eb2278af68b2468cf3394652107159e617e2129703c3db514cfc3c3f5c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpskirt/trauma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpskirt/trauma.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites made by @plethorian on discord for Monolith.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "9484108b23a62f74f1782a11758c293829520f2210cb0ea9e69303df8b28bda6",
+      "icon.png": "174fa9d00037153981f97d15a6ea4d7b723f5e0e09a4059ec2b6b7d93ff56f1c",
+      "inhand-left.png": "376a8b4df46506421686e68338c4a9bd8588fe8ae2e921f500453d1d74801248",
+      "inhand-right.png": "e45d09f8969ec45587bab846431bbd9438ffed859531a76e9b66c45ec850c405",
+      "meta.json": "124c2550db8f912be8e9fdcb65c4d21284e1a8736617191780b877de8cc3acc8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_base.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_base.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by zeranov (disc:core_mene) for use by Monolith station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "d440dfbbac336026359f3e7d68b5481abe17e4beb430767cac3ff376fe98e58c",
+      "icon.png": "42257d7dbafb573f2c76c8f194964005f7dc0db53768013c338538802e6c057f",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "58fca9cc75e08b149ea3b44760485ca4427b0d0dd28db500a6193d7428f9a639"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_bleached.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_bleached.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by zeranov (disc:core_mene) for use by Monolith station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "6ff4e697499f1447acfafafb89bcc3e522636eba90a1e2281c58a35ac868ff4c",
+      "icon.png": "42257d7dbafb573f2c76c8f194964005f7dc0db53768013c338538802e6c057f",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "58fca9cc75e08b149ea3b44760485ca4427b0d0dd28db500a6193d7428f9a639"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_desert.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_desert.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "7dff875e23972dd6568203c8e7e67a59495163e065994c55660953fdc5dd8158",
+      "icon.png": "3623e091cd022c25c3f88b63f823b1ce9ebcb29eba3067fb48c0d8ce9a481a70",
+      "inhand-left.png": "9a43eceb7bc4998f6703e90b3a98a1ae7bb1d5ce0ec9a8577263200cb240ab43",
+      "inhand-right.png": "4cf6beaee3110251b2aae0babf5a411a7ede244c6cc20995b792d307f822eb82",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_worn.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/CCE/CCE_worn.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by zeranov (disc:core_mene) for use by Monolith station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "0ad675a778b6cd46020e8692d3d6a072ed12ded34da8c05b3126638e3efe1843",
+      "icon.png": "42257d7dbafb573f2c76c8f194964005f7dc0db53768013c338538802e6c057f",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "58fca9cc75e08b149ea3b44760485ca4427b0d0dd28db500a6193d7428f9a639"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_any.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_any.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a3c3c4c6dfc21b5b367ece57ede5e976fdae666f24d6fa1d91b36cc4ef1fab5f",
+      "icon.png": "4114a7967898ba4b8713def94813ce7dd44ff269e823e2c6dbdf8860cb846a68",
+      "meta.json": "2a3a6762d6ca8974de8a9ee56c355a326393afca4e63a402ee0c23c38c1f444f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_black.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_black.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b0ad548e81cef569bc8d5e114b0dc000113e3360e6030ddc097b1d00d37797f0",
+      "icon.png": "a7281ed765dd368219dd76214b94b5aab47f996f030ffb8865a09217c882aed0",
+      "meta.json": "2a3a6762d6ca8974de8a9ee56c355a326393afca4e63a402ee0c23c38c1f444f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_blue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "69c8fc488b429de374d318d1a64307333485207e22955109de024bf6f27a366c",
+      "icon.png": "0212546f1ec19d5de8c83d4fd1a3ebc5af6f16bd817db2d17fc3d9f463ca089c",
+      "meta.json": "2a3a6762d6ca8974de8a9ee56c355a326393afca4e63a402ee0c23c38c1f444f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_green_and_tan.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_green_and_tan.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "33d04f8ffcb5b557ca1e0a148b280215363557b9d3f14e911d1565e4423d8db4",
+      "icon.png": "03cd002836de803da9d8a0c0ba90200ede5e4b36d5adad1929d0a050c2ffb67d",
+      "inhand-left.png": "8de1d9439aea3a27860ca90919849a1d8d88ace524f2e86022afca0676feca52",
+      "inhand-right.png": "7c4b7e399ad143c5e0d9a6c0e035bd5e8c9d0f0a6ae0beeb4e9c8b9112220f18",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/Digital/digital_red.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "9238bb0f5231edc635407f474c01e10f061e380212984988118dfa7818a312b6",
+      "icon.png": "3a067910b739f4e254b843c947774434493d726ac90f516d4efbbaa405affeb8",
+      "inhand-left.png": "3ea4875f6b2c85cdf9bcd0526537610c43823c974ae7e97b82f4acccc8b3c309",
+      "inhand-right.png": "2bd23b425ae3d9c1ab7acf6d9418551d35dad47cba65fe8198ab39a0f5ba2c38",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/grassland.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/grassland.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "4af5206c4a7c7ed7aae7d9e2b2679fa045487f87bd026d6d5f9acefb34b7ed65",
+      "icon.png": "9524cdac6371251baef6802a0e77896b1ab4ed1036321b87e392eb25d9b01f82",
+      "inhand-left.png": "98d63415d14c1ec1ec6d6f73cb378c176c2e270509916b3c8c46a6f7be021566",
+      "inhand-right.png": "0ba41123c92df4ed35aa8469c8f03fe4f7e00dab73fb092fda2d5a733f2e275c",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/lampart_flag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/lampart_flag.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "22c0d5f3aa852a0ce479b7eb886a82fc80c96cd3509b1ae6db43f034cff2e1ce",
+      "icon.png": "1ffd335f891c815cde354d1030cbe66fd24a3d09e0220d46c4da9c906eabffef",
+      "inhand-left.png": "38cd09374472dc1cbba763684a55db4fc8cec6ea9e475e6cd11038d2d7fb0dc8",
+      "inhand-right.png": "a8a915fa9fbc6951ee81d7699cb4292dc13a7e949d5a81b72505070a92e15556",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/lampart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/lampart.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "1c628b9d8595d0a31b565d923ffbc4b32bd01c25f72e5b8215742d910628b356",
+      "icon.png": "05f0edb1b0d3a32761d93be00a858f750164a73a9bb91593beffe090ea1a51e7",
+      "inhand-left.png": "38cd09374472dc1cbba763684a55db4fc8cec6ea9e475e6cd11038d2d7fb0dc8",
+      "inhand-right.png": "a8a915fa9fbc6951ee81d7699cb4292dc13a7e949d5a81b72505070a92e15556",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/misko.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/misko.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "50c3b11caa8bd0d6533a37aa425486b6c03df9ff4bd92e4541f1ff581e42cf58",
+      "icon.png": "e077ac86717e7bba14a082a1c554b7f98443053805c6b5e1a33f766f114c9364",
+      "inhand-left.png": "98c5e2aa4f49f65aead7159878075e321774317fa0d213e7329c011c603cab5d",
+      "inhand-right.png": "fe267ef86e1364a46cc41315efd98ac37ed89c42101baef1366dd2938c644731",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/mudland.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/mudland.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "1f9ca00c96f4e4b4dbf928e52d1e5630dd1bda11e125dfced0f5a80606971709",
+      "icon.png": "9524cdac6371251baef6802a0e77896b1ab4ed1036321b87e392eb25d9b01f82",
+      "inhand-left.png": "98d63415d14c1ec1ec6d6f73cb378c176c2e270509916b3c8c46a6f7be021566",
+      "inhand-right.png": "0ba41123c92df4ed35aa8469c8f03fe4f7e00dab73fb092fda2d5a733f2e275c",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/summer_flora_flag.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/summer_flora_flag.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "5cb804c9b707336c97f8bd7544ac2638312c506533c0cc88bf915a4745b4b233",
+      "icon.png": "162064c0249045e98e2fbd991082d6a417f03744a56d0483ed88df2354bc6b3d",
+      "inhand-left.png": "b7e7db935b196ca8622a189ad521560a19102db0d8e3de45cced4f9b9f05e244",
+      "inhand-right.png": "b589fcef1b48b640745265d87fd011f4d441ad8e90a118a7957a00bdfabf53d1",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/summer_flora.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/summer_flora.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "99ac20f38cf9cc7630af26a70a7fde314d9e2dd9c00e972772587d2b1c99a93a",
+      "icon.png": "e5667c5375956a96f2ce1bec597d7fe206fafde0170b6ed7da7624ef46b4504b",
+      "inhand-left.png": "b7e7db935b196ca8622a189ad521560a19102db0d8e3de45cced4f9b9f05e244",
+      "inhand-right.png": "b589fcef1b48b640745265d87fd011f4d441ad8e90a118a7957a00bdfabf53d1",
+      "meta.json": "026edb1d579622cc2f068451e879b4f6c8f4343bf26de14ded7b65fc291cd520"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/combat-suits/white_urban.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/combat-suits/white_urban.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by SS14 S.T.A.L.K.E.R. RU for their own use and usage by Monolith Station with explicit permission (ignore CC-BY-SA-3.0 its there so the rsi validator doesnt fail checks)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "ca6750abb22322bdd90a4800a34dc8e9d4daf6b75c6e85402bf19b3b7f9020aa",
+      "icon.png": "3b0af0dd6b1dcba6436921033b516a8182066a2dfd9c885597817d27ff7aa9c2",
+      "meta.json": "2a3a6762d6ca8974de8a9ee56c355a326393afca4e63a402ee0c23c38c1f444f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/di-hauler.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/di-hauler.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Engineering Hazard uniform taken as HEAVY inspiration (Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 for ss14), sprites done by UnicornOnLSD (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "473bd1c3f00667b743bb10f2270ca547eab20e009d2fdd23456efac73016ed58",
+      "equipped-INNERCLOTHING.png": "c05b20e7973039cd2fa92fc81e4d261139d8f25806ff58fbe353c98a769a4459",
+      "icon.png": "ce007a638b469271a0ecb7b297631f5be5ffbe9c5275068d0ffa0cc23aa6856c",
+      "inhand-left.png": "142c6e83507353537dba3d023f5acc78cce75c9d0e6744f6d84e31d8d7a931c9",
+      "inhand-right.png": "71d1755e5b18905d072d60ca693e4b42e37734ca633db2eeaa77eb7457c849e4",
+      "meta.json": "4cfb4be82be08f84a4f339499765e8ae18d0e17b122759125259cf5e64c6578a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/mmc/jumpsuit.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/mmc/jumpsuit.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Engineering Hazard uniform taken as HEAVY inspiration (Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 for ss14), sprites done by UnicornOnLSD (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "7a7db43a3433b33c2dca9ca10ee481eb10168e3c3def22903ee3918ebb008b51",
+      "equipped-INNERCLOTHING.png": "6c50ed0a1151a6022e7c34cdade266c3fa3086224eb106fc2c2f86a3e2e9ad74",
+      "icon.png": "0f6d61799b44012b4534c986a2ae99ebe1f9f6b6ad2be3bd158afc9544065485",
+      "inhand-left.png": "b75385a1a961531dfc5924b37efdbfef71c6d2f6b87a53407b5684f5e8283e26",
+      "inhand-right.png": "b3d67280916fef63b16da69ce66490602ae82ec3f4d820b1715e480bd2309474",
+      "meta.json": "4cfb4be82be08f84a4f339499765e8ae18d0e17b122759125259cf5e64c6578a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/mmc/tactical_cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/mmc/tactical_cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "02faa83716cd74fd8cb701a256230a555a90c0c99fde4fc31a413a2153adb023",
+      "icon.png": "a7958ba56f2448ed22cd145d5531dc4279fdd6b7ec3567bd16e5a5416461f1ae",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/mmc/tactical_jeans.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/mmc/tactical_jeans.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b4eb8e43799a66cc8c5a6f98f271ea3942abd1de845ff4d21528d05f8bd7a311",
+      "icon.png": "65b78a100d1634fa8faf6b1bc6a949b427a919214d50e844194714339a6c113d",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/mmc/tactical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/mmc/tactical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "688b937eacb8d7a4264acdaa31a4c223e39dd9b991987b44e2d9572c094334a3",
+      "icon.png": "3a16d79ffc3bf480c3e0274c749252c67576033fc1526c5dee4040c1d5af8422",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/mmc/warm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/mmc/warm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "f72c58a28cc5617a8dfc6cc502365e75baa5710bec0fdf501fe34b259abac181",
+      "icon.png": "d5c780726aaaa6950acac25d975f7816c7db382c131295a13ae00f997dab8e20",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/rogue/shirtless.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/rogue/shirtless.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "451cecaad93857003f34dbb3e601eac73c100c8754b44656846a0834e0eba861",
+      "icon.png": "92976ab6f5ff074c8e289f9bccbc2fc36cf698ab4250dd5c45c7f60447a5e7bf",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/rogue/tactical_cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/rogue/tactical_cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "ed66c5ce53ae4d8429fdb698322ca0310bd0bb7543a0a346f6e45c8c97118919",
+      "icon.png": "77bc9448e55d6d855165679b2dc2b4e444e67e2dc546a21497278633e3ee3644",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/rogue/tactical_jeans.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/rogue/tactical_jeans.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "fd1669f2dfb6179eeb5d0eb772761828451083fa9352f14f91635650cb87c70f",
+      "icon.png": "fc6a6409141874ec610464f17b3b454f23237dc1052395e3f4452c6bf4765882",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/rogue/tactical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/rogue/tactical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "7bee10164c5e991cb6cdd056fc500cf95f8f557376504a4a35e6156bd0f3eda3",
+      "icon.png": "85eb2fb01e165186b413db20d209a33a020f23fd06adc1b3ed6f2acce37cf97f",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/rogue/warm.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/rogue/warm.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Ported from NSV13, optimized and recoloured by BluHNT",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "f72c58a28cc5617a8dfc6cc502365e75baa5710bec0fdf501fe34b259abac181",
+      "icon.png": "d5c780726aaaa6950acac25d975f7816c7db382c131295a13ae00f997dab8e20",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "8c120e023ceb25b4680305fdad1172ff82a3737ec37cc578b7d14abffd674570"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/trauma.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/trauma.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites made by @plethorian on discord for Monolith.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "29537d484da1467be0627a9f2a574f58268639078e956be44678defac9db3526",
+      "icon.png": "1bf3f85eb0b2b32332fb233d8cd5519edc506e6252a2fab532caa2103fd57044",
+      "inhand-left.png": "6394661cdac7a501958ed1c961d4c5d5fad2e2524663dedbf19dea406bc06910",
+      "inhand-right.png": "2e0593919a60f7f9ea1f8708263a54b95e9b1a2ad4309023da6930c43a041d1c",
+      "meta.json": "124c2550db8f912be8e9fdcb65c4d21284e1a8736617191780b877de8cc3acc8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/tsfmc_digital.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/tsfmc_digital.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Originally made by renee_aria on the Goob Station discord. Recolored by _starch_ (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "05b9beade5aac1def61b2887ffe44c0e48d24faa4b8be78115bfb2379d980657",
+      "icon.png": "cb74ce304a1a2aa84e7cd53440b96365b9769479ada68b2001e5ea0eca8736b2",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "9e450ec90b86244ca33c6a6d86afd4b650c154a962744fc1c8f68c4bc911c8cb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/tsfmc.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/tsfmc.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Originally made by renee_aria on the Goob Station discord. Recolored by _starch_ (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "7afdda7a89fdaa68905fc4fb466886a2408823b5cc0a273e42f3dd192035ce59",
+      "icon.png": "0988e36f5373baf2dd25a18e89e031668d7623044732fbf7477f128f5efcdd64",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "9e450ec90b86244ca33c6a6d86afd4b650c154a962744fc1c8f68c4bc911c8cb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/tsfmcdressuni.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/tsfmcdressuni.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/commit/30892aa892a2be846592b068ab71c606e2f0c5b7, recolored and modified by Athrun",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "7ed3e36897e2714ae509ab9c4287999dc7dd32dad487b3bfc52f05d0fa649ad2",
+      "icon.png": "1f2d31fd6c8e15eacdfce1e3957956c83d049b1503b76e0103bbdc54221660e8",
+      "inhand-left.png": "8ca43220e8c63163c2b373f226f0f256737888b68b21174ad42ad0b43cf9d52f",
+      "inhand-right.png": "657cd503dedd92630155ce51e04f4325275eefcf86001a1cbf94d104b2fccd15",
+      "meta.json": "21124cb8d52a8d05012a5ab24e109a7fe86076771dc83a49581fc434ebefd706"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/tsfmcengi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/tsfmcengi.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Originally made by renee_aria on the Goob Station discord. Recolored by _starch_ (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "cc25a5040799a2954c0616d65582aa7d795eeb9512ece9f0e76c6a74d555fd8c",
+      "icon.png": "4e1cf60ff730c6b67ba13755a8d076c135379c4d28614c4e7d8126450c063200",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "9e450ec90b86244ca33c6a6d86afd4b650c154a962744fc1c8f68c4bc911c8cb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/ussp_service_dress.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/ussp_service_dress.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from ParadiseSS13 https://github.com/ParadiseSS13/Paradise/pull/20669 by JustAdler for Starlight, ported to Mono by Goldmask990",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-monkey.png": "9395c383eb6c31e37b8753e2f17c1fd15e1d8118716740da9933e0ed0512f608",
+      "equipped-INNERCLOTHING.png": "590b01f0e8859e35f93cb738d53b62df6822f8336efa9cfb18bb8afa23d4b1f0",
+      "icon.png": "2e30f639703b09bc438088b7b77eacf0036d868b68344c8c8776b21dc3061a5b",
+      "inhand-left.png": "29222ddd0cc342698272711c62ed8e804411777fa517a66cc787ea0e32f80caf",
+      "inhand-right.png": "ceebc5dda99a84ad28e69984df50ac0b8af41ab0261166db383ae249beb1e036",
+      "meta.json": "927cae485e7a00d4df1ae8001f1eb547b81275326c8f209f2a8d1c09af89c072"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/ussp.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/ussp.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Aurora.3 at https://github.com/Aurorastation/Aurora.3/commit/988b9b29bcb40a6108d1f68c788dc81893750f0c",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "9cc14a20aec9893ed09710997380935aaa342b0852e100709779f7ff1f3a8ac6",
+      "icon.png": "37883d2ff70cb130d05c50a03b54bc700546cc3cae37b997f550035fc39060ca",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "335cf626a12f92d0f9c291914aff977ba67694da0d843f88ecff1e65b45a8ba5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/viper_group_turtleneck.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/viper_group_turtleneck.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Shiptest, modified for use by Ghost581",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-reptilian.png": "e8ed49626eb4c24dfba38a6407f747393d632946947da783c9076c7d9d8e0ef6",
+      "equipped-INNERCLOTHING.png": "4642a509e6ea6969048e66758558bea53af5d02bd18a06598188c6a26a61c5e1",
+      "icon.png": "9c70f1d47024f5839099a0511d6fdef6dafafd4a780b714db18e13cf45219d67",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "4967a398bd07a20f1aa08562e69d7de1c94ba6b74f2950263e644f32a2f95f01"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Clothing/Uniforms/Jumpsuit/viper_group_uniform.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Clothing/Uniforms/Jumpsuit/viper_group_uniform.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Hyenh, modified for use by Ghost581",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING-reptilian.png": "263b77f0e5b895e2816715851c63f5318abfc1304d282b9709ff5fbcbdb68505",
+      "equipped-INNERCLOTHING.png": "94c973a884f406632b1cc0df2c74de85f7d03879472e3eeea356394a248d3093",
+      "icon.png": "8b53a1e92dfde828136a48fff6d2be5261e31a129ce280e1f1d4de93769c85d3",
+      "inhand-left.png": "63c63a749e879353c2024c0ca2ffd7fd23b665a97b57b2a760b758376ea2eecf",
+      "inhand-right.png": "5bccd81e0f61daba555269d506b2f4e150f727774bcd55b18d5c6de568f2497d",
+      "meta.json": "b85aa24c08469aa5dc36e3a75ec17fd21decf2ed1a262ff03b864f45288ba44c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Companies/viper_group.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Companies/viper_group.rsi",
+    "category": "other",
+    "license": "CC-BY-3.0",
+    "copyright": "Viper Group Logo courtesy of blitz7211, Discord.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "ccf03d34ce76500f7e3275a15d0e6cf34c29ddfbb7d89fcde82ae7b29581b9a9",
+      "thevipergroup.png": "ad9277ce47740f9a24da1cc12af8e7c68678538dd924e9328a9c985a3b01823b"
+    },
+    "replaces": []
+  }
+]

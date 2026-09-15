@@ -1,0 +1,1071 @@
+[
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertmed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertmed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "31029685887b3e75e1206938c519ea98ec620fd2e75f485d3bb04d6a395988be",
+      "icon.png": "8ceb3cb0b20696b24444a54e27553c61a516f69b77dff8f60d5308c5bdef7761",
+      "inhand-left.png": "6462caaa9476bc450c04f762abc3c325d62607fe830aaaf21f824d34b5580402",
+      "inhand-right.png": "61518f44ac064dc58e4642407ae61135cd232fe5fec4faa92bc76e4a8bfb313a",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertmed.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ertmed.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ertsec.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ertsec.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "aa45c6fe67d5bdc74a8a90d76c8b011ced01f1975071be54045db622308692d8",
+      "icon.png": "0d5c3ae16bb3ded8aff45da70aa0d5221445519b9099d15cda8e43b3f758732d",
+      "inhand-left.png": "a90ad827b0d076fbc66ce5bd9ff711b5e3a80b50791ac06e2a5834d1497d01da",
+      "inhand-right.png": "f127aabdf9eff6d9c70d8b6ccc056f2df4a9dfe9447bca5bb3b8570e122fdf33",
+      "meta.json": "6cb633c967e100b47ca4a9852023816c7da992c2917c24573d561cd28718c755"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ertsec.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ertsec.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "55c231b343e1775aa1920e54ca8fa61c345a814a06ac135585b58e3871403d55",
+      "icon.png": "09ea13de267b6134274a2f105190608c33e878ab331ca045c0c2b46312cc2610",
+      "inhand-left.png": "8e507325c9417fcc545c9d744aef68056d5e9e86b4003c6b8aeb45f2e57a1e28",
+      "inhand-right.png": "4e0d9d0648a732f239c1636e7c68cc682f5e701368be4c417306fae3098f8f28",
+      "meta.json": "620b9c9a2f28fa503c1e642ca03cb902a5123bdf1f5279acc919ec298e7116fe"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/genetics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "holding-broken-equipped-BACKPACK.png": "ea286758d41f9991b422a02991cac2d4d82f0650570236c9d23e7abdf7176bdd",
+      "holding-broken.png": "a5fe456106af305bcd582116aa1558ee5057247e500ff5c5fbf031ed0e8d8f9b",
+      "holding-equipped-BACKPACK.png": "75a6b26df191e753844b57772593d173a8a99c85c68beb95d9ec69445e2bbae5",
+      "holding-unlit.png": "41faa85032e414b8ea10ffca4dd589d06a6fa979e7b6bdc267ae9d84580b38d2",
+      "holding.png": "dd99f9a0322ef88ec87051e725c8c575cd2a3bc3b7b14f0b07aa34da416e3f89",
+      "inhand-left.png": "bddc5e942c25122a774d6b95b8ccccd8dba8c216900b0ef7e44804db5bdc1feb",
+      "inhand-right.png": "93cb115885e037a9d780762614652c0ef20a72dad7b58726fbde6c5c7efd250b",
+      "meta.json": "3f72a090ad401b495541bcbcc236e79241fd979ab05c3f480aeb37b486a4d50c"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/holding.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/hydroponics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/hydroponics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "b61bdd793a8c40025f6c1052744d7b5bf6fa9d72e63594d44e383c34a0ae01c3",
+      "icon.png": "2c67efbc98b9b7db64fd961a39935998514a2ca01d139c337aadf1fc0cc3742d",
+      "inhand-left.png": "be9cd32c128dee0a25302aad514ec4e98c26e692bcc294bb48db8a508cd60637",
+      "inhand-right.png": "172ff5b84ed8ae139590b8b324fd209fadcb04ca10eeda0f0dd1ee145b9aa025",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/hydroponics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/hydroponics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/ian.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/ian.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RobbyTheFish(github) for ss14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "a36c2dd2681bf6d9b263e418ade9da7cf594ffe4d9472723d156148015aa915e",
+      "icon.png": "e8f4097108157e95e7e555e2880e89a80a85f6c16672d1aa18d0eca0fc11911e",
+      "inhand-left.png": "4b0965206ea715a6c77f22e9caf3a9ef44937b4588bc8f66685162855bb34fdd",
+      "inhand-right.png": "3f8cbd0c45d8f4ad8fb073f1cbce6b7736e96fbeae819fee4c9d1f82701fcb18",
+      "meta.json": "02db957b6a62645626e51e3e99ae6660806bf07883598ad477d1ca5cab344049"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/ian.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/ian.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "3644307356c6275a2b40c8ad77359b963d9867899c3a40d8e6e66f51ba21e054",
+      "icon.png": "aa06be77487b3a0a4b6122fd0e0b68a03d15a5d1a9ebf7b8193b4d12d32b67a1",
+      "inhand-left.png": "0f7c44871c4c5eb784722dd8ef9dab0d4e04d993ce1ec2c2d2d6b3b275ca90f4",
+      "inhand-right.png": "68715860423c0fbcfb8a74e5d50c770635d269411369dadad29149df5c2f2d28",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/medical.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/merc.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/merc.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "modified sprite from Jackal298 based on the sprite from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "cd2ed657c152c80de7c720d84c3c5cdec6732a1c30aba9cbdbaa0b4fe5aa09e2",
+      "icon.png": "f1eb1f082bd2fa9148d1e27e71be54a537f4d949903dab072e1c6b8d6f1c4f9b",
+      "inhand-left.png": "fb3ff9169252898d9d38e7469a7f68a5b4e6b86499f2e955564780c0d0010612",
+      "inhand-right.png": "e123c2e04e9f2a3fe93ece0bb43497cec09509ab5c5c03b901f30ab2b034dd6f",
+      "meta.json": "715138de19e6842bb1416b62399f2fcc0a12e7d53be40cce34d2b6beba8b2a23"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/merc.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/merc.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "0558d4d388876bdb61a77e8a58626d0e1fd7cab0529e92ea542e1342102cdd4a",
+      "icon.png": "61f8515dc9742406f513486839ae2fd365cf68e6881297162aa8c98ff602e778",
+      "inhand-left.png": "0db50840bbfc934b3e6e96dbd1267c8f9ec1fe94de96d0e44e3b4d4f42935846",
+      "inhand-right.png": "044cc69cb30a65c9e9b83a8672ba60589b6eae791b31cf4294e53a31de0698fb",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/mime.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "16ef7ffdfec36ff5ea00fcb991089cb6de6852594dea640de8a9aed60c79a8bf",
+      "icon.png": "cc3ef10a8005a7d83389da1f1372cba580785c95680a7bc8039e88829ee1f2c6",
+      "inhand-left.png": "9b2832269147fe1bd3e97646fa70243586a1031d24aaa0ae674fc7d900a1bcfd",
+      "inhand-right.png": "607896bfa83396bd89380499d2cc124a5cf2b8eb823280a411abc59ce9789e09",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/salvage.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "ab58ac147764951e215daae77eeab7a613da0d14a6bf2f64849db2f74b2056e9",
+      "icon.png": "b64da75fedd853ddc58d16f91e0b40eeb6a050af8d088abbe16a6531b8b8e1fc",
+      "inhand-left.png": "7eb3275c3882b595a2e7169091751cf0e413f4497d06cc9329388eb36793bfdd",
+      "inhand-right.png": "62e3d4b5e58016845f420c8fbce1531131b3dea22765689ebd9f6d77c4b694a5",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/science.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, tweak by @mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "c7e945a9fb213ac623be58618268b8ea5151a59ac8d8aaafc85b56b45fa4c31c",
+      "icon.png": "e46f2eb9d4aad673b32811ccc6ced35e1c718b3d2e9c4d974b23adb8855084b4",
+      "inhand-left.png": "e9393ada585104fb72d90f1992e83d15fb9962d11e81a7437124cc9608231662",
+      "inhand-right.png": "c67b996248fcbe39c9513e37bf4ef5608dc6b6a1e121fec3c12116bd9b939f92",
+      "meta.json": "2a20a6e75c549bc51e77287fa546607a8ecdcaa8e4fc0c11c3487c691dc212f6"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/security.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by gabova (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6ba471f32882b631284f60546390cd890648684dbead2908858669b08fd0440c",
+      "icon.png": "fb0fcb6825c047dbb13001ece861f6f3984c9fba3696172ebe5195c3d9d250ae",
+      "inhand-left.png": "64a274db87f342da0224dbd51d0fa68b8ff6c13b6bf8a54b889c3b372fe3f136",
+      "inhand-right.png": "fdfb2c73841d88e39503cfa14f4c54a92145516ddfb22bd6edea1b3592c01e5b",
+      "meta.json": "155bdb77afe1303924837b8808e25a48518f3268e084b106e27e829ae3bee181"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/syndicate.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8fd6f3307a30b0d1ca9160fa0cc2bb0c0dabf88f676721e8d68cff3a801348ca",
+      "icon.png": "5ed4853947b89b8e2e175fe0ace7d2878b16c48f6aceda4bbfac5e8d082febc6",
+      "inhand-left.png": "a8ede1bc4b16ddf001bc60d80284a4c8afb010b51b1f768e9ea879ff853ba8d1",
+      "inhand-right.png": "540c0da546e42801cb34251d74b41db2f6f99efae11bf6cd2164d2da60909729",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/virology.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Backpacks/waterbackpack.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Backpacks/waterbackpack.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/f7337f1aa9efdcc1403ca4771d638e0634074537, icon-filled by PS3MOIRA",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "09a4bf58a24d68a090f4f11ca5cb9e407ed0441f1b26b497ed984f616e7568b3",
+      "icon-filled.png": "c3f7c3d27a4cc39a0d8466d4032094952e242688784ed64ff38fb92025001cac",
+      "icon.png": "a956838b7ed20d5877997d367b44e292c19082ef147cdf4c39a6b7e275f898b9",
+      "inhand-left.png": "e59de81d74abb6d8a44cb50ef81163ffdab4a847f84aee35fb56c8f7257e5c9e",
+      "inhand-right.png": "fb8d143c207a1eb65e7ef2306ecb32a893923250a28c42dc1a43ae993203f1c9",
+      "meta.json": "e02f08dbe4f2b6f86194718fd997c635953186c8f411cf8585b288fddf6e7ce4"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/waterbackpack.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by KingFroozy (Github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "f0f41eb4844dd7a8c66b1e09fe0eddd884e19cb7d1c9bc2a46f6f548cc21cb0d",
+      "icon.png": "75a322ee068beea6adf2b00191165a3827ff4b45c68096c21a904c5e4ea2c736",
+      "inhand-left.png": "ce252bb4d2867115f43c2affb69b22aeb30a7c3e316db0582d57697c729f9667",
+      "inhand-right.png": "c751332a75de674a625c15b1903683c51034fb15351b08ec3456e02fee05ecf6",
+      "meta.json": "8341c31ed24f977bbe791c2846dda97d151c7b710f10c0bed65782b10fd0b44c"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/atmospherics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/atmospherics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Hülle#2562 (Discord), Resprited by MureixloL",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "37b6c08094791c59006dd5258b1f734627dafe59602d9c8426084401a56e3bcd",
+      "icon.png": "750d59243b2881e31bd10247e3babd9f82aa9781016838c2050f170948beb328",
+      "inhand-left.png": "acf9cda70050c4dd7217cf4961988cb17eff8f7998d8d62f949fb433b0bf7209",
+      "inhand-right.png": "ccaac9901d9a72a2232d4bc73344013a858b9e849d80933906ce15282290a36d",
+      "meta.json": "0550b564b778860127d873f1013d2cd6895b69ce968a767b85de2f306d5a4bca"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/brigmedic.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "b23dd47c96b8fec7059e4784ffe4f2535fea5e00bc8e36fbf04cf20365e2f9c5",
+      "icon.png": "6e366e5c624eb8fdd77c98917c6fa703ca4d6f992759469b4512a25b7172b390",
+      "inhand-left.png": "db84c7d9970b9182d0085dec9aed5afd4cba26269b839ef82c4993f85a44a322",
+      "inhand-right.png": "06278af90db35b6cdcf01b8b3ec8eb1de77a9a245745da131c6acc3fd74fca13",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/captain.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "7b607233ed0151058b42d73817c2b42dcd9c47a138d2e09a7f202e68f067ee63",
+      "icon.png": "59579d1ee4213d185383cc4fd818dd26628ee0cc8e0dbf1507926b7386157063",
+      "inhand-left.png": "81fae32c155b30b076b718b31dffc260b9358fe1ed5bd60fe5258abfa023bb17",
+      "inhand-right.png": "6b88307a3e67f2c200528834ecf1b453208fba900027d582f84cc69b705c3303",
+      "meta.json": "c2cfbbad73344d713026342bcec03ddf3a10f25426377e1f986d2b34e3d81f5a"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/cargo.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/cargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "91c733b37852bd5faee687aa76210d012cc3dd442a12ef56d30cc4a33ce8060f",
+      "icon.png": "66a5ab9abcfc2a7d2b699eafdee27179473e520cd62fb2cf34e8f2846778fdb5",
+      "inhand-left.png": "e78da569bb6f573bbcc0279749d1a65caec76804cf67704c90e94fe8d319bd4d",
+      "inhand-right.png": "26e87aa5fdbeba648502508d2b0a4c7cab9616c319dd335f7f3d659c1ebf6523",
+      "meta.json": "7d448bd7ba4becb6d179ac32cffe3ff337fe8dc2fdd6c86637f1f4f0953b64ae"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/chemistry.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "ebf81748463211b33422aeb010594691ccaad56fd5f0e5f38b152dae36c6a0e2",
+      "icon.png": "924bea196a2672f3b6bb6244d4db86b043ff5d0f7569303132eaf7d62ab9c78e",
+      "inhand-left.png": "71ef78b52b2bd80bc1ad01a3658a0661ce0467be45bf917b1cd7673b8fd28c6f",
+      "inhand-right.png": "1f1b5ba7ded89b06a1ef71be446042a1350e1804fda1cb3f5d8c0a0e507a3500",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/clown.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/duffel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/duffel.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "4ca4dff03a79faeb655f7f7c94ad72620d3434cab4a366560154dada6c2c0ad4",
+      "icon.png": "07b02702a82848ce9954824f4219a1acd5eeb53d9a8820fec0ae04a74b6f615c",
+      "inhand-left.png": "df5a4d8786e1f7733033a915668bd8d5854a1aa55410bc2c85be67d737c92148",
+      "inhand-right.png": "794e94f9522fe2279d6f992b7e13161646bd23ef20e397b8f79cfb1f7a9a727e",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/duffel.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/duffel.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "f67b728a3c94fb3c8b89608cd2f7b99d3d1b85704ffc31020fd6bf7fed4d7a14",
+      "icon.png": "16df37af15f25bfbfe838ebcc5a22f7fc353838beeaaaad9ae248dd3744a981f",
+      "inhand-left.png": "d2f8f3b09066f859fbaac0c07b5e3ce25afe144c01e36dbb72e0b27dcfa41299",
+      "inhand-right.png": "76267ae598dae686e0664452b0f883d62691406b9f0d7a42bfdebe800a57995f",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/engineering.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4, Resprited by Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "475352fd043052b8b2c9402459ec4538cedcd6d411ad7d87110a456d852e99a6",
+      "icon.png": "2c1fe14aa89a494da9b7f26a66a3de147be1f8d84428266e455f0d3f1c91356a",
+      "inhand-left.png": "81515178e98eb329c8f8fe0e20b5ff68e8b324f18ef11fef256c6e6dce3b1e2a",
+      "inhand-right.png": "600a585c08616bb358d67e0d5122890c1dcd59d413808e068af2bdb3d0127e38",
+      "meta.json": "78814e2bb71e0d5c9931bd0a7ae421bd09c57a6bec61cf005c72e38aede3d466"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/genetics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadelstation at commit https://github.com/Citadel-Station-13/Citadel-Station-13/commit/0a4a0fadb32e3245f8bc2ee03f88d776de1852b5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken-inhand-left.png": "c513ce92a8a571b97479f4ef183046e28b681ec2db0777e4012c6d4c5c798919",
+      "broken-inhand-right.png": "5387297ae575a510c3c04238f1e78c58cc79eda8e7775fb596d731334dec3846",
+      "broken.png": "2caea809e8ffe4ef7b5a4d5056c0d4a76bf435dae2c928d2f77c002e3592d6b4",
+      "equipped-BACKPACK.png": "cd385e56163a56e6cd5437c1ccf751e5a849edeb74ff0460323e45f4d4672a29",
+      "icon-unlit.png": "b38b89d31e432f64204508c66660ec928ae77272bafeb610541d5c6d1d1f48f6",
+      "icon.png": "41c628c263baa47b1b8fb31eb0ad7ec726dc8840a11868504f54f77738235f53",
+      "inhand-left.png": "bddc5e942c25122a774d6b95b8ccccd8dba8c216900b0ef7e44804db5bdc1feb",
+      "inhand-right.png": "93cb115885e037a9d780762614652c0ef20a72dad7b58726fbde6c5c7efd250b",
+      "meta.json": "17ad774e565a31da92f9fed888e175b73ce4d35b18f41d29289087bf0e4238ab"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/holding.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/hydroponics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/hydroponics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1. Modified by potato1234x (github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "123ad6b25c72d542f10b1e9103023c54095f41d7f23d3a7417a4918e99a58e54",
+      "icon.png": "126ba309e26fa1d2e1d5d31e5d97ee2e0c0b91e7ab7127b65e20d03762226fd2",
+      "inhand-left.png": "c8e01d9ac4d5a75bc8d40ff0986f5bb8b56b471b1ef19a8e29d98eb57a7aeff2",
+      "inhand-right.png": "c98be9076deb6c84085aaa099c18853b276be65417cbf5dad6251612c3147061",
+      "meta.json": "b62e56acd8815329e2f6cfe7f82fddb4c4de1da903b13fd5a22e9e7b9fa1d6b0"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/hydroponics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/hydroponics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "31c17729490b6a8389a64e3757c9099233dc1465a16952cf471b55fdecb87f40",
+      "icon.png": "c49c9364fbd3d9ac39c7dd0f143f8eaa86e8e2d88d6fc6e6726f2102682922b8",
+      "inhand-left.png": "21531247fd50912524d48f1adfebfac412ad72421779d209ea1eb7f4812f5531",
+      "inhand-right.png": "b09b4c51e5e81e9752fac2f5337f65e81ffa5afa2e4e05dc2c23d07577dada08",
+      "meta.json": "bf1854130981a4ff7dda042c50d55ab3eff16d83ca6c7837542c50284fab1364"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/medical.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8c0071da9b6079b69370309a567f12de3d8add367b4cbfd1e8b3addcb678ed71",
+      "icon.png": "0735b8d7d6061288cf023382019fdaec5eb742177e1a867a9edb0ce6d601fe12",
+      "inhand-left.png": "f4c9e42a3443c6f4f758112758f5fef96de88c4925a05b5fe7a0ce333cbc8372",
+      "inhand-right.png": "3f51ac8fa77944557d44922033da02bc848ee660cc42ee33b9c8e5c2cc80aa82",
+      "meta.json": "bf1854130981a4ff7dda042c50d55ab3eff16d83ca6c7837542c50284fab1364"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/mime.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/eeb99fcbde07bcf2e8bce93383744e3e142839df",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "67ccb714d7925db5609b3cb69430aef8d8018a8dc1279f017a3b5521b2732e50",
+      "icon.png": "3392a3f10abb55b00080ff000b20d1dde43eb69f5df114e97d3030f11c125778",
+      "inhand-left.png": "41ad24f8502f537b021ce1c445060f13b772dd2d746d2634bf84a85c076b69b3",
+      "inhand-right.png": "a8446c9df6a1cabcc2e726b47dbbfd21b3f69dc17d3fe1d67ac66e140b4a89e3",
+      "meta.json": "b13f9abc4d5e4373c3ded0cc97c14f10473d3c4053ee0063557d05071c32fd46"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/salvage.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "08104c1ac502cc1b572e15d87d2f98479bd34b17596bb51c00055edcaa973d37",
+      "icon.png": "5bc9bf7592f20b1ae99999683e296844aaebfbdc2dae5d62d54360f7035b835c",
+      "inhand-left.png": "7b623ddecb7a80bc59d8bef3ca4d5c0690f3049412e1c857dc5b1fe52fc7e44a",
+      "inhand-right.png": "46f5854466a67cfcd9de583c97bad52e07beed6ed7b8a3200e945bc66dc344a8",
+      "meta.json": "7d448bd7ba4becb6d179ac32cffe3ff337fe8dc2fdd6c86637f1f4f0953b64ae"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/science.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1, tweak by @mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "cb2aa1c4dc150e9cea94c51cc52c94d2fc639d72552008cfacaf34dc8ce59e67",
+      "icon.png": "5cd4c59d5ec4c16b98cd32b385f3fbbab09942fe964076bb6a9db375825f026a",
+      "inhand-left.png": "f06c6decf279d5dd74aad5d8b6cdde454ddf8e328903190f1b6fb9acea49934a",
+      "inhand-right.png": "07610f2bf682c779147c8353a044a9aa145c1a4b3606e96ab7835da1898de7e5",
+      "meta.json": "44f0fbb2efed4b114c02db2bd27f1adc2a15f371f55b835574bdf101b2d9e5da"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/security.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/security.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "ammo-equipped-BACKPACK.png": "542e7bd47888de41ec7bb98c1497fa8a44004e3555dc64ba19be48c2680d58d7",
+      "ammo-inhand-left.png": "a5c0152bcc36310664a15f848c6da434df0e7bcf98014ade6a32c596aa5e196e",
+      "ammo-inhand-right.png": "3a02883b230d2d13e0d51f55fd712cd9eee1e3a2bd7be7e359f7e5abaa4eb835",
+      "equipped-BACKPACK.png": "ae32a217b116ab31eb1d6497c89ce4eae6632f5fcae8ca0b4209a44728a1c0d0",
+      "icon-ammo.png": "263730d4072b834a611095b9c22ddf0fe74a35dab607b5e0ab44e7c366d4e555",
+      "icon-med.png": "5575e85fc5d44fe0a865d83dc8da9b913283e6b5a8222582c4f20a68e22e0e0a",
+      "icon.png": "42a476b6462cdca4a7f0e211cd85217636e5b57c0e86b54519a32d549621e58a",
+      "inhand-left.png": "c52f75a0ac3703855d5b866af8eea5e089740dee039ca2be8c733875f2a0fe7d",
+      "inhand-right.png": "566a1eb0ada21726cf31d4df0cac4ae24fae2e2e37f4c786cd3a99be08db1dca",
+      "med-equipped-BACKPACK.png": "6d5f998a20e731a7d1f557af1bf07a2e80e4ae26b835e26109f29debd2ef7db7",
+      "med-inhand-left.png": "a9442a3a3914078f40faa0e2077aba6d8f8ce71ec6270ea41a92375d0a6ec356",
+      "med-inhand-right.png": "ca7a7f33ea4f6635d285b55c2e07b3e09d1aaa93215cfff69a9cc14ed8a9f227",
+      "meta.json": "76dcc5eb62cb3d169fa0ec6688eb7e3dc532a9d443be0f2936c4118b85311ae5"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/syndicate.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/syndicate.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Duffels/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Duffels/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4, Resprited by Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8ffd0d3ed5986c544c904066c9444728ba4554d32341135c6e5e38ef3dd2e3bb",
+      "icon.png": "e7a009ca546a61b63f2f8a5f346936592704d3a71e9b88e9ecc4ddad36c0ee5a",
+      "inhand-left.png": "3e9734d81f6d46dbcb77a842ee96b36173393098cb15188e789b2b6b7d22172f",
+      "inhand-right.png": "6bb4fb06cf02aa2f9c94e51942167967217a9f9150f6d4376c47e749fb80b3e7",
+      "meta.json": "78814e2bb71e0d5c9931bd0a7ae421bd09c57a6bec61cf005c72e38aede3d466"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/virology.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by KingFroozy (Github) for SS14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "390a090c300031497c94a4c5aee5bf08b3b6f7aca969322ea4b0b22e295503f8",
+      "icon.png": "f85c76014530db659fde60650c3854a15cb0eb6c4df031c07cbfd58124896030",
+      "inhand-left.png": "58219007c14c8d70cf55b22b7e1af675f6f216144ca079e503d087d6ffb3d804",
+      "inhand-right.png": "d1c6cd3332e151185abd231c3d0014ffc64a92d03bc9b8e1af2ad5051fda8254",
+      "meta.json": "8341c31ed24f977bbe791c2846dda97d151c7b710f10c0bed65782b10fd0b44c"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/atmospherics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/atmospherics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/brigmedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/brigmedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by Hülle#2562 (Discord), Resprited by MureixloL",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "164bb60c0277da63133993e7b119e30c7dafbafca6eda5c062a5882a30f1968b",
+      "icon.png": "f10b5e4dfe0a1e5163798c5980a4d2c2b9d64948e7e61b195eb71035d88bec06",
+      "inhand-left.png": "9ee27138c1f29ab187587bc93172fa5153e9f0a15d50d6638c9a8d1745912f11",
+      "inhand-right.png": "7bfd0d28b7e14313c72b801c93160cf8a0ff32402b19c6c197f54f4d2dfe8cf2",
+      "meta.json": "0550b564b778860127d873f1013d2cd6895b69ce968a767b85de2f306d5a4bca"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/brigmedic.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/brigmedic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "7263cebefa05be92a4efcfea0c8dc77f2a0a0356985dcc3f828f376abf5ce1cf",
+      "icon.png": "1ea273ac76106c4b63111b554f39e245f77b08826e719e8cc246f68cc9114a74",
+      "inhand-left.png": "a66386c0a0d8ba3314724720abc26d0f84f3e87141d8f27a0679a82b679cc6bf",
+      "inhand-right.png": "0a3e4ff719fd8965397f6aae39bf3f935bd7bc10c8171a5365260e94bc7f4c75",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/captain.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/captain.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/cargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/cargo.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 by potato1234x (Github) for SS14, resprite by mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "021e9cc5c22dc37333cc2e81b5d231c7a86d1f9c5feebaad27687e35a1bf14f7",
+      "icon.png": "523f0cc9ff9dc02482c287807fdfd93154fbf1baeea450532eb381dcbdf9cbb3",
+      "inhand-left.png": "b233d8614c326b51fc28dbfbc794fc71317c5af52c63d82972d2046968e72ab9",
+      "inhand-right.png": "2c87ee5155932e4267ed1c2651330abba78de7a36a04e036c8e15489fd86bae1",
+      "meta.json": "c2cfbbad73344d713026342bcec03ddf3a10f25426377e1f986d2b34e3d81f5a"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/cargo.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/cargo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "6a927e71eea3ebfc50ee3f8b1dfdf83c04f2806259f824a47dc0f3bbfdb6df94",
+      "icon.png": "d2fc806bf48c28dc667ce6d13f374b4584b68e25da60ccc73374b31ab153c89c",
+      "inhand-left.png": "4d58dc36952e697cb664e57e6dfb711065607ef404f95200be86efdf4997af3b",
+      "inhand-right.png": "9cdb7b990499aa52c8ab00f0a59e8c3d7e24b8a65f495fec42b4461d5778de38",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/chemistry.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by лазік#7305",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2e55e18b4cdd396202db03657fc9bfa2b3ce62ea1ed22f369467cfb7eb2ce7bb",
+      "icon.png": "4b2547ebeb351ec6e90b1c0fcdf043317e8333ed50236e3b241cb75570b023db",
+      "inhand-left.png": "8e2692daf3ccd77700bd1996d13e1e683aed5be27bf672c5278752ed527442d1",
+      "inhand-right.png": "833bea7ffef88c5459c3c0594e1758fc43ceb2bc4b2c4c8a70a6b794b04da192",
+      "meta.json": "8592979715935f63878f4e758e9b2dfb1d942f30e8d7fe486f3b76d5e70165ff"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/clown.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/engineering.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/engineering.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "03a3fc2e15bd474681d20faaceec76fbe6618c12a39ea5310cc8ac76a0fd6421",
+      "icon.png": "98125841f401c227b2cbd7febea5fcbf20e0354778fad887a81065515bb8f669",
+      "inhand-left.png": "a7a47fc024a707e14ce28ba1b1c431543e37a19bb395511f027235ce8612bc7c",
+      "inhand-right.png": "6f4405c3ae7b909931ec7e29dc0685e3254c4c9fd0c716849b713c2fc8283955",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/engineering.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/engineering.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified from tgstation at commit https://github.com/tgstation/tgstation/commit/15c87fd15fe205e4fc71997e48311e06ff02a1d4, Resprited by Mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "aac6294acc14ffd75cf1a43fc2f8807c7157b4b88ff0894b506cfc4903caaaf1",
+      "icon.png": "7988f814a253843d54a7875fa6cf346448f04558ee87f861e7382d56caa78338",
+      "inhand-left.png": "a605f58e2b4c39c6e9d6d7ff964eaaea1922c5019b28c420fbde29df598d7060",
+      "inhand-right.png": "d045069d86ba73593994677b9a627132d2d4fa62fbf3572b13fdeec51dd56161",
+      "meta.json": "11d4862d9622de7daf45e811aa11236124c2cee62df8ba928a6432762cbc74fc"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/genetics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadelstation at commit https://github.com/Citadel-Station-13/Citadel-Station-13/commit/0a4a0fadb32e3245f8bc2ee03f88d776de1852b5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken-inhand-left.png": "c513ce92a8a571b97479f4ef183046e28b681ec2db0777e4012c6d4c5c798919",
+      "broken-inhand-right.png": "5387297ae575a510c3c04238f1e78c58cc79eda8e7775fb596d731334dec3846",
+      "broken.png": "6688a1220bf96fe0c4147349bb6f41cae2a76ba9396aece0038d8e811df29831",
+      "equipped-BACKPACK.png": "69440038236c6ec9cd7684b43547ed965eb6923d839f06831649b61293eacb27",
+      "icon-unlit.png": "69e7f9926455233de473d0a7cd3b5dfb58f8a473c2344ae51ed11c1c411d640a",
+      "icon.png": "cebe18e27200379fc8f757bbdbe4c54e7960437b62947679816966269d2f6bec",
+      "inhand-left.png": "bddc5e942c25122a774d6b95b8ccccd8dba8c216900b0ef7e44804db5bdc1feb",
+      "inhand-right.png": "93cb115885e037a9d780762614652c0ef20a72dad7b58726fbde6c5c7efd250b",
+      "meta.json": "6a4651ea9d8976a450198f8995f08ff4775b18b0ecdedf5471442f12173bd2aa"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/holding.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/hydroponics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/hydroponics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2079e094ca8f8197347329f8047525161012fda5d3e95a0b0b81d34f75c91588",
+      "icon.png": "2f184cb7e4b56c7ed715dc1421aacfc77de625697f5d80b88307def28abda39c",
+      "inhand-left.png": "c2832013bb546ad87025d11924309f27abc333c32856c32efddf4cc3d7d74cb6",
+      "inhand-right.png": "ee629a84f8066c798ebfa4865091e533e359696349497eeadaf3a67163e49cf7",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/hydroponics.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/hydroponics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/leather.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/leather.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation. icon from https://github.com/tgstation/tgstation/commit/c4ce2e965d33f3491173964fcbee3e43c0839bae , inhand-left and inhand-right from https://github.com/tgstation/tgstation/commit/a340fbac628722955b98c7d082bb8a3bb3ef664b , equipped-BACKPACK from https://github.com/tgstation/tgstation/commit/f13f1fba5350c90d1f09476471bb1cc296f0ad3b",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "79c41d8a50fc268ac7d814853f6e503d626b0c7eee6ee8374ca2331456bd2bdd",
+      "icon.png": "73569b34cea4b2712cbea2f869058cec5b0304749648b693a8fb1c6cb3c72fc8",
+      "inhand-left.png": "188358566508a7d1edae2dcd618512e630011ad79ffbdfc4c0a4773246e41461",
+      "inhand-right.png": "388a4609718b0f0c111b787b7e582662d1c16c8b97ff5d77632ada148d9d2cc6",
+      "meta.json": "70387fdc32162a3c6eec90512b2d89f68be7fd5b69f1bd5747ac4fc9df3011a4"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/leather.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/leather.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "c70c0bec50d63c0d824a22ea669e3d701c183ef1da6944c4cd3caccdd785bd93",
+      "icon.png": "c2f3388bdba9551ed4702f2be6293f94ce2632ed3e1acb7671d1daa5bad59024",
+      "inhand-left.png": "b0f07541b64571c8ac0766702e80c1608bcbbdbd2d302683371c4417df940d73",
+      "inhand-right.png": "1ac150a7e0fe329ddd1b01e3e12b3286f42fc32c97c5ef1f31f24693d441aeb5",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/medical.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by mureixlol (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "4daaedf26ebee3aa477e564d213b2cf7ee31f7a3d506c66c22383ab3d424e480",
+      "icon.png": "421d866fa3abf35164da9afa69bff04200070665a26e92f85d1051a12489ece9",
+      "inhand-left.png": "a3cea709ad409712ad0ed2982a80672d5c9a96d04054d05139b2bdee6893b5d4",
+      "inhand-right.png": "58f7c6631b4661f561791a9d7b3c6f4bf7a1b936ea46e2961d79d8df4a9f1e4a",
+      "meta.json": "f7e44218ec13a8ff4bc716b9f71c67afae598d4043d48dc93f3f1c1752c11bd9"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/mime.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/salvage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/salvage.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "911d5b8dff6a0205d110166dbee587a8604423e22ab21794bcf7848648980d43",
+      "icon.png": "be8191216af5e12edd1509efb7e6cfa68753d454066cdde1a4e848b138c37159",
+      "inhand-left.png": "ca017274dc462990385d1e23d53ad4c2f1882658e76a3c966d3305e007c0bd84",
+      "inhand-right.png": "ab85d3d41302522fc57842589cac7d440a7f2a6e4718e7fca176e6dcaeb8456b",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/salvage.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/salvage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/satchel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/satchel.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2c5708b8fc08696dc7496a20f43c1fbe1191b5ef5efeec356a3ea0b54e63611c",
+      "icon.png": "85a807b7b464d4b1dde3c84cffa623f770be57e0bceb01833c75541b7b9a81f8",
+      "inhand-left.png": "fec83dd1a073b8e6d0f3fb8f74e97ab2a91158301907e9bb8c541b2d9f4698c7",
+      "inhand-right.png": "c964995a964cf429f87884767a8d16318518c2573f22571c004770073be92865",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/satchel.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/satchel.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "902c1b05990df82a4869a7f9128312983c36790bca64974dada7c6e60f684ea6",
+      "icon.png": "9390daa1b1ce63925da89bdfb06084c0fe866f9efbc368250267d90c666971f3",
+      "inhand-left.png": "ceac3bb12a635bdc388eb1bdc3faa1ec7c056c50a3e508b224b47a7c31ad4e4a",
+      "inhand-right.png": "2cbd11dcf57ba77b5324957af487ddccbd0e726eebabc30e2743ec8a7e9b186b",
+      "meta.json": "d61e2afc8e6c717960c3e8f93ce924c906c4f1173a8af192a5b4221f61e1d8d8"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/science.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/Clothing/Back/Satchels/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Clothing/Back/Satchels/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/2e24b7af2221928e4b844a29408e821b60a5fe29, tweak by @mureixlol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "7fcf3355bfa09ff755ab2637443ff8aac8c0a023d08daadc960b0ef7b1720465",
+      "icon.png": "309ed26b11f67c3a550f3863d5808c3c959ec26e0992ac57ac582ce89424d178",
+      "inhand-left.png": "b7c39e14e8d0ea7bdb61a4976a5a106ceab155cf8af8fa79d59c52898c3e7556",
+      "inhand-right.png": "5150a1928615520c0c5fdf63b195b981254bbd1358e7277141aacdbad95f6fe0",
+      "meta.json": "2a20a6e75c549bc51e77287fa546607a8ecdcaa8e4fc0c11c3487c691dc212f6"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/security.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/security.rsi"
+    ]
+  }
+]

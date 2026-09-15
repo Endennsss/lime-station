@@ -33,7 +33,7 @@
     - type: Sprite
       layers:
         - state: red
-        - sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+        - sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: firstaid
     - type: RandomSpawner
       rarePrototypes:

@@ -8,7 +8,7 @@
     mode: SnapgridCenter
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/defib-cabinet.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Wallmounts/defib_cabinet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     offset: 0, -0.25
     layers:
     - state: frame

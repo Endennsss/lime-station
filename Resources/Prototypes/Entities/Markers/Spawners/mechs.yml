@@ -6,7 +6,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: Objects/Specific/Mech/mecha.rsi
+      - sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: ripley
   - type: ConditionalSpawner
     prototypes:
@@ -20,7 +20,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: Objects/Specific/Mech/mecha.rsi
+      - sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: honker
   - type: ConditionalSpawner
     prototypes:

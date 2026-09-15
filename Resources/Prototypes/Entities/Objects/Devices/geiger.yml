@@ -5,7 +5,7 @@
   description: A handheld device used for detecting and measuring radiation pulses.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Tools/geiger.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/geiger.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
       - state: geiger_base
       - state: geiger_on_idle
@@ -13,7 +13,7 @@
         shader: unshaded
         visible: false
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Tools/geiger.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Tools/geiger.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Geiger
     showControl: true
     showExamine: true

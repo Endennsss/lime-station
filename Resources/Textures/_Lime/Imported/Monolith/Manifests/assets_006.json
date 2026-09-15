@@ -1,0 +1,915 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Boots/heavy_boots.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Boots/heavy_boots.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "taken from workboots.rsi and resprited by LuciferMkshelter for goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "075ca8884a6090ae4d1b08cf755740e9115599c750eb232c5f74dac40f185c86",
+      "icon.png": "71bd03aeea70a9ddf69912e1fcffc45a8525403a1e86b1ea136df819ff4265f5",
+      "inhand-left.png": "978976e21802e61844aab605493844b51441aa2589c4707d4313ecea72bec26b",
+      "inhand-right.png": "60b8c771e5e146a4e477041037af9c890b94d00a71fa213e51794b88c1e97663",
+      "meta.json": "67d8b329e95293c75bb17dc80367cecbd1b2eab6851f6eda81577ef01ed93cdb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/atmostech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/atmostech.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "efad166b99ff22747fa14b9dbb51fc37c9c7e23bcad0dafa2b60e5401e977c12",
+      "boots.png": "79017a17b097eaad72ac61f375f245f19923724b151e05a7b1a24750b31fa5f3",
+      "equipped-FEET-sealed-vox.png": "9588d69dea00d0a22705486e102c095c76d7d23f97fe8bc8c923ea88ba92aef8",
+      "equipped-FEET-sealed.png": "1c9e8459e92f63f790d43082d6a2c47efa0236a467b85953deb29a7fbd79de52",
+      "equipped-FEET-vox.png": "382fc7f0dccd44d6c9eb6d461a9dbb8096f06de4f657e8f46e4c842e97e4bf86",
+      "equipped-FEET.png": "8c64bbd60a131f30bbbe445c4a5d0b27146870f847f842a78d6e6d2708ac8280",
+      "meta.json": "d5dc8179f9051356d161a246e087eacd24791ab19d7063abb2567092a446d6c1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/captain.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/captain.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "f7331d2887ba76d12be70d6b9308b318f6db035ba761d5dcfa94a9eff04d6ed2",
+      "boots.png": "d764970d7a9dda4ff5edb83746c54c22c3fa24543c2547155ed1d27a96677241",
+      "equipped-FEET-sealed-vox.png": "0205fbf729a6e109078870544c90a6d8c428065c3805fd592a5d69b73e23ee90",
+      "equipped-FEET-sealed.png": "5f317c2d5ae08505b9a22f5a39a3cfc5aede422dfd211d84a4a8717cc2c5a637",
+      "equipped-FEET-vox.png": "b1e3aa5ee4f3e3cd0517cdce808bae2e6c3df816319a4689a59dc0745e269133",
+      "equipped-FEET.png": "4f89e8f28d347bd03f2e2f9474d65ef61083b0033d9d59b0630a19340bdbb183",
+      "meta.json": "01290d198a2c07485da53f0c1ad00a1fdeec061b5d9ab8a251a9b77e37f59235"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/engineer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/engineer.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "32b28140a6fad0f59a7fe82055b66fa29dc167ee52e8ed4e36f68977798fa974",
+      "boots.png": "eaf47fe80a55733df9422a66cbad278f4e731c9cb9d1df79500867d77f078cd4",
+      "equipped-FEET-sealed-vox.png": "c82dbd68b0fc28ac85706fa8ceb71fd5d07e2a978d33959696d9c7eea3c4bdac",
+      "equipped-FEET-sealed.png": "dab6e1fc395a2b7ead3ef1f720e5ed86ec33b1688cf6d773fad0e9be38b5a5bd",
+      "equipped-FEET-vox.png": "7df96aeceedccd3d6eb532965590117fc4e4d53c8402c0444721855a7d87e481",
+      "equipped-FEET.png": "c594f3d7ae15d525f7f5692b9d7e73503c49e74b83513736ff673da1796cec04",
+      "meta.json": "316f3320644ba7f4681028e1970d3b27c8d76b3b1e4cc6bc14921e2801401aab"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/headofsecurity.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/headofsecurity.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "803cd5a472b177bd3241a11864e5c4b60a7d8934997b1777348caf18c6ecdc5e",
+      "boots.png": "404740d10659317fc37d2b52873df4e4e9301db42dc39b99349848fb5c8d2d11",
+      "equipped-FEET-sealed-vox.png": "f480f9d3b4e19df697d3d51d9aa08f7b1c61211fe66f545440dad0800d1e6ac9",
+      "equipped-FEET-sealed.png": "5f12a6946fd3379909e9908885770769452c3c43781433d085126e746d0e3542",
+      "equipped-FEET-vox.png": "129dc963ec5a4ed543cf821e491e4964b68a677dbf295f1ab038a208a888f173",
+      "equipped-FEET.png": "fc3239b6326fbe8698e3ae2387a65c50e8a0173af9252a27237d242fc9ac7307",
+      "meta.json": "01290d198a2c07485da53f0c1ad00a1fdeec061b5d9ab8a251a9b77e37f59235"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/paramedic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/paramedic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Baystation12 - https://github.com/Baystation12/Baystation12/pull/34564, equipped feet and equipped sealed ripped from a full suit sprite by JoeHammad, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "c5b68bc2981d0d67ef32d3dffca04f305970bcf9a547890ad70b4bf7f6fdb7e9",
+      "boots.png": "4cb92bf91b6ac5710f96e55e79fc7914f80d7baa138131bc372b7212873c121f",
+      "equipped-FEET-sealed-vox.png": "005900f263317f3470b13b9d6eb5a0436fec984c53627707f5e018f17d81a8e6",
+      "equipped-FEET-sealed.png": "125c2ce46521738a1f0cd342a1e333a1f3c7b98a303b7e89f9fd2f5b95ab4264",
+      "equipped-FEET-vox.png": "968410a20924d8c43e665d62b6fac2e5c9aa1fe7819bdbc88723bd7f78d4c22b",
+      "equipped-FEET.png": "35f55460839d70ef798fd219c18fa580c26721ff205d03334b21c53dd1d7ca10",
+      "meta.json": "500ed0a16e237c8059bd3fb5e3bf63b124b318c0f9d0c4a9c6c7f468394236cb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/researchdirector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/researchdirector.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "a36838a7c321d748ab36a8d9d7e29dce30268f758259cd8e54509546f6cb922d",
+      "boots.png": "0a80c7aaa35a6cc1d90893c599d36c0987622bc79dfcb270fdf46870467c0b70",
+      "equipped-FEET-sealed-vox.png": "b5d038acd2192efef12e3f7261e90f53362f6c66d8a2ea311afa6a5184ebd835",
+      "equipped-FEET-sealed.png": "996397c5966839c443414ee03bad245bb800c8520e7c9d92d254a0d7d058f067",
+      "equipped-FEET-vox.png": "b5d038acd2192efef12e3f7261e90f53362f6c66d8a2ea311afa6a5184ebd835",
+      "equipped-FEET.png": "a0540996df697ad6ccfc04b210e77159ac6bc65cc6de07134f936a15d4638180",
+      "meta.json": "01290d198a2c07485da53f0c1ad00a1fdeec061b5d9ab8a251a9b77e37f59235"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/security.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/security.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "boots-sealed.png": "e216b9395f2061f2ce5a4afc2cef743d38ca1376932169a690da20db5477da33",
+      "boots.png": "2b23187c10b5753c9c19d251bbf7a68dee8b5d0a6d6639afa68451ab6e64fec5",
+      "equipped-FEET-sealed-vox.png": "f67952e3b8d91166389a780d3c8236797a348ec84d927159a5400d2f113255c9",
+      "equipped-FEET-sealed.png": "450615e1609ba40aa76964ad666b928bb846a6f98763257fe02b555b2c5ff44b",
+      "equipped-FEET-vox.png": "532d91b5eaeaef63b05101e6493fbee614ce4247bfc64b412068d5b5e0f7e485",
+      "equipped-FEET.png": "032fb44fdcfe3752bda15f893ee34e0ccbb7efd983040021d38c64df5ef3953f",
+      "meta.json": "01290d198a2c07485da53f0c1ad00a1fdeec061b5d9ab8a251a9b77e37f59235"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Shoes/Modsuits/standard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Shoes/Modsuits/standard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109, Vox modifications by 10KE",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "boots-sealed.png": "9cb40fc71581497d05d70255e9cf4c66a91981086615d917c980cea28eab2ef3",
+      "boots.png": "ffedc4091f3aff77bafdaa47e87edc4b59db5a0c73afdd08dff1cd30d681aea3",
+      "equipped-FEET-sealed.png": "8e47098adb1460664ad5b40be024ec44bc6d08200003689f2765bdf4131679dd",
+      "equipped-FEET-vox.png": "17e5bb2fbbcc0ca5ff5d50c3834a416422bd5a50f8412fe9d7b12daaa8cf23be",
+      "equipped-FEET.png": "88c039ff312ea4772d7af567cea5b80c12b25b8427dccca20c7626d8b450b03c",
+      "meta.json": "b15304bd939bf8864440bf0aab288e5ac6a69dc9414a7d49fc4162d181d57bb1"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Clothing/Shoes/Modsuits/standard.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpsuit/diplomat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Uniforms/Jumpsuit/diplomat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a7e16f4ad42f6b148953dab57bfd545e23123d8f8516db30e25b8e72c10f1ff8",
+      "icon.png": "3e9793f601129d674700dc320c0b26e9a3a7b7546545aa508b1e67a9bdf2d878",
+      "meta.json": "3d8304c1e66b0131a47aa7f9275f00bb88718d876eca2936af0d986b2b373c83"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpsuit/navy_gold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Uniforms/Jumpsuit/navy_gold.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "2f6065fcaea80b401373e597a99f1e71814efa043646e176933b1a4b9d6cfb44",
+      "icon.png": "20795e04b79d6c7cab6d9a80d06bc7a2469a1edc53c4493dc90f2f913c069798",
+      "inhand-left.png": "a12e5dc3cf0c6bcdaa51d288d1eac43e42b09a49c591e8a6fbf4233b4a09f1a6",
+      "inhand-right.png": "c5af310fd7ef42f41205b143b16490a7e970f95c174a24e2a1b4fc00d21d84b4",
+      "meta.json": "31cf2516ceee29098736a71f1184db3da71bb397db39fa8b22b986ac639eb6d8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Clothing/Uniforms/Jumpsuit/specialoperations.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Clothing/Uniforms/Jumpsuit/specialoperations.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b52110b41ff690e1925465005fbfa3157afd4040ba94ec0b87810c627801427a",
+      "icon.png": "8071b754907c44992f916f28741216f49ae230a3e06bd4ec4ae76fc00724efea",
+      "meta.json": "fcfd6ec684ac207be37fd0943dbfe00b079684cb48c5ce632a2f71983eac0b9f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Effects/bluespace_lifeline.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Effects/bluespace_lifeline.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bluespace_lifeline.png": "7cc809188ac970cdd401f1e907fd337baddfa4c3fb50a2701adc5f4b8dfa9501",
+      "meta.json": "3dec186dbff06b13d4e24130859147b0f470da1c4441ecfae425c6b22b4fc7a8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Effects/portal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Effects/portal.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "471f43210480e37e0a16d7246a43e3fc17ea441239256f541b7d760bd2b8dd16",
+      "portal-chrono.png": "cebc3687c8124990e1581185bcdbeb4384aac8794854290ed901cc6efcd5cffc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Effects/stasis.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Effects/stasis.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "effect.png": "4fb3066f6cf1fd8c48231d451cdfc0d15dfd4f98d1e648b071cc1e8e95e83975",
+      "meta.json": "684ed39c4f1156f8b38856ff1aa38b102a7ed10289414051b7f0d693b7bb9298"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Effects/welding_effect.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Effects/welding_effect.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by UDaV73rus on the 'Tau Ceti Classic' SS13 codebase: https://github.com/TauCetiStation/TauCetiClassic/pull/6540. Sprites split into sparks+smoke by SabreML.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "exp_welding_sparks.png": "413bfdf9eab877aaf120b16a2cab7525e7b3844c333965b8ef6a0c740475a1f5",
+      "meta.json": "98a8e4a052edf584393eb17c64d239efd541c940af894f91ac53229d01b6be63",
+      "smoke.png": "d2e08f8047da4a5e4e15001a70d661b5d70d479d543804620123288b9ce2ae21",
+      "welding_sparks.png": "5d98b3fed62fd7c12a9016cbeceacee8b88467db92e7cd020fc66c2f5ad77cb1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Interface/Alerts/modpower.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Interface/Alerts/modpower.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "Taken from TG",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c96917e5fb66713ce7db930d0b6d65c9b61e2e6a08b88a0a6678ab72bacc89f3",
+      "modpower0.png": "39fc7703d0590ff2259e5babcf49a98f19ec97aac51c8c2e93514d1c41fc4e13",
+      "modpower1.png": "5b7fde9525d1a73674715b57300dc4689ffd2ada1479ded4dd02ecb765583483",
+      "modpower2.png": "fd7cc399aaefba1f2fe110e10d0c6bf7a8551a923cb9dc9cf9c5afd9dc88c2e2",
+      "modpower3.png": "322fc43ac0d85fcd5b76140c466d20ab51e96d43b75b4810fc1fe94d2bbd30e8",
+      "modpower4.png": "c14dab3da7b72bc682dc6c16a950ea7e808c0fee3d07c56d266ef09578c08267",
+      "modpower5.png": "c14dab3da7b72bc682dc6c16a950ea7e808c0fee3d07c56d266ef09578c08267"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Interface/Alerts/stasis.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Interface/Alerts/stasis.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "a04ec3a8bd725002f3ff6b020dc5e26bdc8dc89698bea8326eebb8ca911266c6",
+      "stasis.png": "630d096f6e71f504d55ff00cfe510b2d94f0fb5eae1327baa9dc2130c2990105",
+      "stasis_ru.png": "2e8f9478dc100fcb8a0ff05bfde0e5ecc79063cad8fc5ea90457136655e80dc4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Interface/Misc/job_icons.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Interface/Misc/job_icons.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Future taken from space stories  https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887 Blueshield, Nanotrasen Representative, and Trainer taken from Paradise @ https://github.com/ParadiseSS13/Paradise/commit/5a68c5f6d3b60ee82c06e0287d1eb8108d2e1fe2, Lambda by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "Future.png": "541058ad5e3466f7a4ed971ac5f469cf1b16ff98990aa36e2d47130dc15fdacb",
+      "Ghoul.png": "4cc20ef7bab8a7ac9d20bd628b2ced0eb19f98f5bf3e5570358f0e89f2ac9a86",
+      "HereticMaster.png": "5e7524e2c3b12ea7ab0a7651bd62386a6e5c6a52832bded9a288729785a86253",
+      "Mindcontrolled.png": "8556a94e28c13dc6121eb9f1880f4667fe68e5df2405f52f35d5c357f4d1051e",
+      "blueshield.png": "57f9e921910b8689eb8a00c22721cae1ec915c5d8a0139d6ba7636dc42739e0a",
+      "lambda.png": "1107482401780b12b240b1ec40ab048c42be47f1cd9ca03fc552532824fe45e1",
+      "meta.json": "454fe7faa8b9a6366f38e7f996c20affd1c9d944a7daedb5477392ec8038f40d",
+      "nanotrasenrepresentative.png": "5ec55a9e03812fedc75ed943be2951e404800b3a68b740747b7e7647d4012d24",
+      "trainer.png": "c3e6ff87bafd636c0fd61cf396bef77447fc0075ea8945d11dcb6e6db7b70694"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Interface/rnd-static.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Interface/rnd-static.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://www.pinterest.com/pin/681450987343974739/",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "52a1cd19083d99c55f0a0e1e218829ce58c91377f92c1a96f7c6f0c9eedec5c9",
+      "static.png": "0752298cd8ff21ff9c546893c81427a260236b84265af9f9828f0b6980a1de94"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Felinid/foxtail.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Felinid/foxtail.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "apparently splurt-station https://github.com/SPLURT-Station/S.P.L.U.R.T-Station-13/commit/96703f76bccd8fe6a96b78524efb97a9af661767",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base_fox_tail.png": "ba73ffafff127ab001acfcecbc03a496344c29191dc8ad50815737e3514a8d2a",
+      "base_fox_tail_tip.png": "11dcb16f405ad1a80a6a562b1e48a3474820a63fb9c1dfde149dc38d196fc59c",
+      "meta.json": "ddf2097bf555fa192d39fac9263b3d8a8a2ccb6fb71531bc12d7d7e119e0ca34"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/ears.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/ears.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference to markings ('patch') tracked to KasparoVy @ https://github.com/ParadiseSS13/Paradise/commit/3610cfd4ea7e9bffc804320851f0b0a625db1dba, meanwhile ears are made by Cael Aislinn in commit https://github.com/ParadiseSS13/Paradise/commit/9e4539fdce01f00ed7e47ca1174a1470ac5fe77c. Minor tweaks and '_near' versions by SX-7",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ears.png": "daee82e292298fa300584a37f19e2f92c3881219429f9c6d1a93547ba6da0c10",
+      "ears_near.png": "c67c6a6cf3d143f3677979a671f5484cfe818baf92c1d4020f23ac1177437851",
+      "inears.png": "0383a65a9366282cab35efd3551d844ffe07eebbbcb6ee9132e1b0bd3afadca5",
+      "inears_near.png": "2d925097250445867b970dd0dbe55136dcb4c3ff8f224f4b96ed9d4ffd0ab016",
+      "meta.json": "4043d558d00895eab6759b96950bd74de64f5dbf331700fcb677aecc6e11dd3c",
+      "outears.png": "bc01034ecbde961b92fc0188660e5b059ff2207f8b22798c83528828f9bc1f1d",
+      "outears_near.png": "fb4ee6b3f3e569e7df76ab274435db3ab36e15888a01735ebf6879816ebcb4ab",
+      "patch.png": "ff8ee04f124d50ca19fbf92376ece06a2eca18b10026d3df91914553eebe1840",
+      "patch_near.png": "15bab19fe263f8cc8e91d0fe74b922610e3caaed0130d863ef14ed00cab63f16"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/felinid_ears.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/felinid_ears.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Felinid ears made by @Vordenburg for Nyanotrasen @ https://github.com/Nyanotrasen/Nyanotrasen/pull/581/commits/77fe4c38589516ceef533de17cde56665ce970c7, modified by SX-7.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "basic_inner.png": "25f78757aaa387d84b50f98c86a46d4fd2591e15ac0d829221235dd84ad0d06e",
+      "basic_outer.png": "fa1f9168d40a2e5a5c9afa9bd437e935b4bb4aa6453fc5a81d6379f4c4a19a3d",
+      "curled_inner.png": "150caa3281747ed6aa4e52a1448d00504dfaf3984702a068141e5b64535fe9c3",
+      "curled_outer.png": "47ea0001ddf4f849e43f97af2d0351043f0e6f34c0b317292843eaa0be8994f5",
+      "droopy_inner.png": "dfa14b53450c9135f2b2736673b9133a272e94aa66cbd4cb64a0443a69e8a411",
+      "droopy_outer.png": "06b7e12da1b3e2088f6858f4eb3eae25895ece0f65fd41bb7056865b07924fd1",
+      "fuzzy_inner.png": "abb2ba45ca75ac493b72d1cd640b1f376ed03a17cbff81ddeda7bf465a9d860d",
+      "meta.json": "91c7a7f30ad2ca83d36a7e4981a6df981cb1a5484dc3e41734f9e4c25d3533fb",
+      "stubby_inner.png": "73095dba13061b7f5cd4ea98920f4d8bd28ea68bb0ee4557a23cca8578ed512b",
+      "stubby_outer.png": "dcdfe7144c60bcb0bb7e306b270e8a9d754197321c6b4edd8e0a28c807579672",
+      "tall_fuzz.png": "84bc152c3428e91b430066ba93f00447e8a290c7ad1c7e26adeff8546d5a44d6",
+      "tall_inner.png": "f2f78c2cdd86f6a36e611a4f35103202b97c497626e2a901d16d27e0e2c0db26",
+      "tall_outer.png": "e77ce5aa1b313d0543cc37db860292589c1cd35fb810012058090375979b0f09",
+      "torn_inner.png": "af254773fc041b1aa8a13a5f14424b4f3751b4563debd0df831e56e4f4339193",
+      "torn_outer.png": "06c88c3a6cb381d69713336f34d11e26b225731f2fec13a6370e2286f97704e5",
+      "wide_inner.png": "e01ad2d37c308147cd86649037075875570901b689139456a42e8f458ac7e674",
+      "wide_outer.png": "f76a525a96e7d5ea848b5012bd34bceccd6b0b3c2ff64db570c98560e7ba97a4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/head.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/head.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference tracked to KasparoVy @ https://github.com/ParadiseSS13/Paradise/commit/3610cfd4ea7e9bffc804320851f0b0a625db1dba. Minor tweaks by SX-7",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "bc5cc5717b59e697b27a6aaf49af325b5352ab9941fd1cd223fca645d6ba4778",
+      "muzzle.png": "59551de0d7367978dc9c28e3bd06f5a156aa5fbfbef4ac4175ce92c1458925a7",
+      "muzzle_large.png": "5e6e259f049449addc6aa739d8494a722bd5fc183055743b10ca11c1736d15c0",
+      "nose.png": "62a0905a30809f4872ce0d25d42a5f4f241c2ee51e6b571929b4341b3d321e5b",
+      "patch.png": "b5627f604c1c2f8809e0bc453e37580660557ab9d9646628bc8611f80e078b76",
+      "points.png": "ce61d770635ecb0f1fc8e09861f62811c97b51954833ebed0ac5bf77724ddbeb",
+      "tiger_face.png": "cc74a56efab5c44a9d6ebc3305a52c3065d79ef2fc3f75dc2d1c713bc284c6d1",
+      "tiger_head.png": "8d64a780dc26022b39aabf3748c60fbaad47d2ece243c8aad23e2682ceb3d09d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/leopard_tail.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/leopard_tail.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Bubberstation at: https://github.com/Bubberstation/Bubberstation/blob/40862b85a075d46417f73870663b0831b738edee/modular_skyrat/master_files/icons/mob/sprite_accessory/tails.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "m_tail_leopard_primary.png": "667fc61995a1a4a702cb933791cffc5374b66e71312a3b9ffece201147a05bfd",
+      "m_tail_leopard_primary_wag.png": "19c164935a77f9bd7dde6b3529e652e9adbb6bf2559e3f54a31694a099416941",
+      "m_tail_leopard_tertiary.png": "b3f26315b3e3ba07d65336ec1080d7abb4ee479bfe9525bb9b7bb960bcbb05c8",
+      "m_tail_leopard_tertiary_wag.png": "984dd1f0838699a7be39742bfc617779ff2dee674278d9d38432a765acd6d883",
+      "meta.json": "ca71e0895bfee6686603a293c3054918e426186435fe7def2f19e1c15eb5541d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/overlays.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/overlays.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference tracked to KasparoVy @ https://github.com/ParadiseSS13/Paradise/commit/3610cfd4ea7e9bffc804320851f0b0a625db1dba. Minor tweaks by SX-7",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e505ab70f124cde77a1f5fa4a456c96593133178b72b1fbabde32420f45d7c1d",
+      "patch.png": "a08da461bfba2d3d4c91e13848d2ec2273e8f4f5d1145a329474ae762f945779",
+      "points.png": "4e7671a71ce4ea05c41344929f84abe9ba1e592c726104312f6e86d401d77ed9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/tail_markings.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/tail_markings.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference tracked to Cael Aislinn in commit https://github.com/ParadiseSS13/Paradise/commit/9e4539fdce01f00ed7e47ca1174a1470ac5fe77c. Sprite reorganization by SX-7, but no changes to sprites themselves",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "d66a43b8f66f426437becf8257b95cb98e7a98b1ea302fe888fa7279a8255610",
+      "tail_anim_rings.png": "dee1a14d3a71d15df91702ebdf3a03e288d1fefac6a665aab0336cd89efbc1da",
+      "tail_rings.png": "8d90137b4ed14470dea75d594719da9ce48d4f78d277efdd31e6e21fb8e9a9aa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/tails.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/tails.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference tracked to Cael Aislinn in commit https://github.com/ParadiseSS13/Paradise/commit/9e4539fdce01f00ed7e47ca1174a1470ac5fe77c. Sprite reorganization by SX-7, but no changes to sprites themselves",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "5245b7a4122222a5817bc6bc47652115001cdcd827e8f7e9b9492052bb99d300",
+      "tail.png": "99cb290b68a1501422105c7a6c777ad031a29e381843f4ca4775cce8ad2843a9",
+      "tail_anim.png": "f51af59c4398d7e2647315e6d5d7a1e3b8e21a555134dae1c189ef8777fd159f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/Tajaran/torso.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/Tajaran/torso.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference tracked to KasparoVy @ https://github.com/ParadiseSS13/Paradise/commit/38717e3b034550b3c0a9f3c5f3c78a957dcad0d9. Minor tweaks by SX-7",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "belly.png": "883ba219641e25a605b3f2f250278acbcc38300289b647149d160225ac9615d5",
+      "crest.png": "7255a744989bb58f747b0510a1b3291af3f1269814d977b498be9363e621a404",
+      "fullbelly.png": "25e216aa82dbe782280b377274e316096ffcdbea6b2f298f9373d6d629c5f813",
+      "meta.json": "816992b04f74c711d82627b91c152831218b78cd6a974ed591be130d63d4a3a9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Customization/yowie_fur.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Customization/yowie_fur.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "BeeRobyn on discord & Github",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "3e84d74236d44bc8986dc28403d3566c4dda55ac5431bd41fbae73314abd70a6",
+      "yowie_fur.png": "3978a1e2606e6b6b7ba7655e2193331eff60863835010233b91c158b0f2d7907",
+      "yowie_fur_feet_left.png": "a9ab6d149e510a071c407bee292e447090288ebe3b39be17deb63c317909885b",
+      "yowie_fur_feet_right.png": "8693c331db69ee95ef9596a79cad205cb6667590f39fee9e9067d23b18424597"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Engineering/antique.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Engineering/antique.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "engineer.png": "f9f660056ce9c9e9a24b4e56fbf647b7fd5f8072057b69b34b35bc5c38547af4",
+      "engineer_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "engineer_e_r.png": "7d4e2bfe5d5360cadaf9d1685ee80cfd0a2209269d0ea5db891b0b165ab423a3",
+      "engineer_l.png": "55ea70f6bf50e3b02a4af5acc6d708eafcf4e70156bcdd90c088bab27b2b4e28",
+      "meta.json": "1a0699d3a363eb9a8b1c385842475fb27358bbbab17998b4dfc8664ce24d8b76"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Engineering/basic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Engineering/basic.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "engineer.png": "07b9793c6ed72aaba320ad0437f0b9fc9bf1e41b6356d05066dba34af258d7a9",
+      "engineer_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "engineer_e_r.png": "3b2e3f6445dfb594298a190aab863bef6fea924e05a26c4fb70ae22494e13f41",
+      "engineer_l.png": "339ba710ec714577bc0d7a902314eefb310881f766c2196f7d29207a605f95aa",
+      "meta.json": "15fb47e0274f348b54dd17f5f355fd0073f561b543b56370a8c190e1bf72d9c3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Engineering/cricket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Engineering/cricket.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "engineer.png": "e17f3e556d8ca92e217852d72f1625e4c96dd964bc764dda509ceff31f95864c",
+      "engineer_e.png": "478a04b6f7395647f73e64f43ffde4d7a9b7eb88667da9c09ecde416f5fd9046",
+      "engineer_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "engineer_l.png": "174532854ba85b3ca2d8ac4908968a0c7144483d7acc85981ff1e28382b03127",
+      "meta.json": "a4bce62c28680936c42e9471fe3e8db3f7865436833562ced866879fb74c8e10"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Engineering/noble.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Engineering/noble.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "engineer.png": "c19c3d958f54b7f7b476704c471c29de1037145abe35a2a05a75510f1a4e61f0",
+      "engineer_e.png": "1a5f3d78924f91a7ebe39ab4f87a494bb2b32db9c906ebb94f26bb7c4cb1a158",
+      "engineer_e_r.png": "7431b9c868ca00a5d6d1c380b8e18377ca0952792494a59267add02952d7dba4",
+      "engineer_l.png": "8dea44995c817863d0412366205d83e7fd27f198fcb55b77e1929caea5da8c14",
+      "meta.json": "332a171644818bafbc6d05c6a08e8d86cf6c7182b414e4c1fabca280377922a5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Engineering/rover.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Engineering/rover.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "engineer.png": "7ef942435f92eae2616c6c27a4ee09e5e5913fe43a6f7f6f4437a217b2809bae",
+      "engineer_e.png": "7efb22b2ff02eba49d0ca2897f308a63f237f3cf722addd6e141846b45f1851a",
+      "engineer_e_r.png": "37983e0af8cf2b03b1980777754697fa53684ba7b1432f949af337d388578a85",
+      "engineer_l.png": "7efb22b2ff02eba49d0ca2897f308a63f237f3cf722addd6e141846b45f1851a",
+      "meta.json": "c0740b7c43251bc297f06aba8360d9afe73bd1aeba95588841fb8b9c7b7bedae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Engineering/standart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Engineering/standart.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "engineer.png": "37295a95cb94f2c79f0f8e5f844fe4ea0dd5d88ad6b9706a45edc07c3fd40a04",
+      "engineer_e.png": "353fdab224e9b209dabfd7be35033bc420ae84fdc1d53f7bb2fab8b9e10fd348",
+      "engineer_e_r.png": "c6013f06ef51ce6187406f218c3acc57c5a1c40d18cd1934412a7c69695fc441",
+      "engineer_l.png": "5ae0e30e980878e7099950551385def6a46700cdd17c3cebccce44c49148280e",
+      "meta.json": "e4e7bd334b9547c21f049075ad86b23e32db23fe01c8210961849d1e8b62f9dc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/basic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/basic.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "0f72c25fd2db3e91d6122d92e1a021333b35fa87c422d5d5167fcb4c9861110c",
+      "janitor_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "janitor_e_r.png": "80f3f23ab3a5ece0f6f471d01b0eb0e790ee2b714784303d10ae635ea2896fb8",
+      "janitor_l.png": "abdbeb8729bdbac427bff4c5cb6e28548e8d5346d9d236389680ccecc7ae00f3",
+      "meta.json": "3b8d1570a9acb42f112442de39a6026a5a08ec5b16ca9355ae5f42679d9ca19a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/cricket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/cricket.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "d1a3242b408d566bec4b0ca421411c2bc02bda28d87675558730d5d6c436d1c6",
+      "janitor_e.png": "478a04b6f7395647f73e64f43ffde4d7a9b7eb88667da9c09ecde416f5fd9046",
+      "janitor_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "janitor_l.png": "174532854ba85b3ca2d8ac4908968a0c7144483d7acc85981ff1e28382b03127",
+      "meta.json": "9a2912bd4c7963febd3fd1605330de077c0f6778614d9c77d0df4a4f4dcef73f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/custodi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/custodi.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "70d77830ca8d062bc8de7f7354b513821f2c9f2f33d804285f6a8403c277f6a9",
+      "janitor_e.png": "ad434152bc2bfc4a1f350871cce73c3a2f83a7dea3c6d429082cb1ba5735f431",
+      "janitor_e_r.png": "8ebc5223d659976a229d8bbcdfbdbd76115d2629fe1a06b0fd30cce5d2ec3cc6",
+      "janitor_l.png": "ad434152bc2bfc4a1f350871cce73c3a2f83a7dea3c6d429082cb1ba5735f431",
+      "meta.json": "9a2912bd4c7963febd3fd1605330de077c0f6778614d9c77d0df4a4f4dcef73f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/mopbot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/mopbot.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "7a882ac4e74cc260661c65592c64c6304200dcd8baa45bbaedc409cab074e050",
+      "janitor_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "janitor_e_r.png": "80f3f23ab3a5ece0f6f471d01b0eb0e790ee2b714784303d10ae635ea2896fb8",
+      "janitor_l.png": "abdbeb8729bdbac427bff4c5cb6e28548e8d5346d9d236389680ccecc7ae00f3",
+      "meta.json": "1ed1de96c2af939ebd0c085553a8c6de48793d9fc84358aaa0ace648c3d6f51e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/noble.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/noble.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "c55fc39c2ff3bdd193b263cd56f1665843c3ebeffa4253c2520854fc26baa701",
+      "janitor_e.png": "645e9d59943e21ed569ba498bf601605ff4ecd9f816cc2239cf86107ff837b5d",
+      "janitor_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "janitor_l.png": "23b29ec55586c20cd99eae5f8a63ca21e28327a6261a41a5b3f2152489dca895",
+      "meta.json": "dbfa10b400ba4ef13739709c5703f222f17b6dec09481fd98d96783f23e73649"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/rover.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/rover.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "3a6fb17f683807f13859444bae21e373a0a2ceec5ed752f4a82dca4ab54364e9",
+      "janitor_e.png": "8e8c1a92164834bed3ee8ccd7ceb316d1d8418e891818309e006a1a726c6e3d5",
+      "janitor_e_r.png": "94eb12e7c64be13fe77a5b30cef3b5c63ffc4ce92c8075650309613d2945a6a2",
+      "janitor_l.png": "8e8c1a92164834bed3ee8ccd7ceb316d1d8418e891818309e006a1a726c6e3d5",
+      "meta.json": "9a2912bd4c7963febd3fd1605330de077c0f6778614d9c77d0df4a4f4dcef73f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Janitor/standart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Janitor/standart.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "janitor.png": "3d8f9635840ea50308b10ff6b30d3b23ffc05ac8c5931c4dce016546505f773f",
+      "janitor_e.png": "353fdab224e9b209dabfd7be35033bc420ae84fdc1d53f7bb2fab8b9e10fd348",
+      "janitor_e_r.png": "c6013f06ef51ce6187406f218c3acc57c5a1c40d18cd1934412a7c69695fc441",
+      "janitor_l.png": "5ae0e30e980878e7099950551385def6a46700cdd17c3cebccce44c49148280e",
+      "meta.json": "1ed1de96c2af939ebd0c085553a8c6de48793d9fc84358aaa0ace648c3d6f51e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/advanced.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/advanced.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "af957600c4cf8e96ddb770394ee648c82e6a29f5d2760976d2050efd1921e3db",
+      "medical_e.png": "adbb5444aac145c14179c53cf9011f4ff73edf186c55ad8995e968458a135e0f",
+      "medical_e_r.png": "dd72399709ff07d6a31b27d2b5836e899f79942c2cc6c47f58df37db4d10ea07",
+      "medical_l.png": "adbb5444aac145c14179c53cf9011f4ff73edf186c55ad8995e968458a135e0f",
+      "meta.json": "597e99842aeb9f631b7431767a64cf359ad11276183b6f30a588834ba72f834f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/cricket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/cricket.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "b5351857574de4d32c3831af1763a93b7aadb98573aefa42e5354c118e429d1e",
+      "medical_e.png": "478a04b6f7395647f73e64f43ffde4d7a9b7eb88667da9c09ecde416f5fd9046",
+      "medical_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "medical_l.png": "174532854ba85b3ca2d8ac4908968a0c7144483d7acc85981ff1e28382b03127",
+      "meta.json": "c904ac9f02ea42c0dd8c5d94e2eb83622eca7db1b715095692bc3c2f00c59f1c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/medbot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/medbot.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "d0ef274d385405be890c9fc7a331f306bc48e1951d4028f6af033a94ca2b22b3",
+      "medical_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "medical_e_r.png": "80f3f23ab3a5ece0f6f471d01b0eb0e790ee2b714784303d10ae635ea2896fb8",
+      "medical_l.png": "abdbeb8729bdbac427bff4c5cb6e28548e8d5346d9d236389680ccecc7ae00f3",
+      "meta.json": "a543b86ca78f910d22b97aa45bf4c6c5cb8b21f72bfb1aab7d045756ee413374"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/needles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/needles.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "875ca04595ea9bcfd7eee3b18ad069e5c1a46c7dd12d1a830b7b9eb54b28e1be",
+      "medical_e.png": "02bd0c5b1a186d3a63103f1bd4749ce9e3d7c3d508fe1b83b83b0d413ef9059c",
+      "medical_e_r.png": "02bd0c5b1a186d3a63103f1bd4749ce9e3d7c3d508fe1b83b83b0d413ef9059c",
+      "medical_l.png": "02bd0c5b1a186d3a63103f1bd4749ce9e3d7c3d508fe1b83b83b0d413ef9059c",
+      "meta.json": "28237cf3afabb7ac4935efd311eb305f05334bc434ae0fa12bcf47a00c222a7a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/noble.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/noble.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "85aaa85e9498f8d4ab1ee3910eff22932f4f66e1b0f40963cae6e2e3b72aecc2",
+      "medical_e.png": "33d38d26482f36f7a373e214112cfb69ad820497be013b18db65cdf0ebc38b6e",
+      "medical_e_r.png": "6b80401f05944651ced4689c1f71d464e5f53ea83f2b672e215b62bbd0ee13ab",
+      "medical_l.png": "73d24408592a8208043ebc9a9a2a2348cad4d5214e090913ea8ae878b387ab75",
+      "meta.json": "c904ac9f02ea42c0dd8c5d94e2eb83622eca7db1b715095692bc3c2f00c59f1c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/qualified.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/qualified.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "0b402c885f4b3785622c309ba43608b915f5df72df34fb39e332b1fd0b785446",
+      "medical_e.png": "ee40182d2d02a2fc3a921857cc900d6b07d72bc0c386693e5b989071336626ac",
+      "medical_e_r.png": "e562d29ed67cb83bb4e3381ead62ec04688c6b0087888f0e9af0cc30ddac7289",
+      "medical_l.png": "ee40182d2d02a2fc3a921857cc900d6b07d72bc0c386693e5b989071336626ac",
+      "meta.json": "c904ac9f02ea42c0dd8c5d94e2eb83622eca7db1b715095692bc3c2f00c59f1c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/rover.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/rover.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "9807d5b97a1e38dd5a754af185c2237bd521ac39a919949a6dea08bcc011461f",
+      "medical_e.png": "e396bf0d1c1eb5a7a22ae2b1722713772b39d394989f04e6c4a3791f95419383",
+      "medical_e_r.png": "05c53b998d06a7ab0258522fe0ae5d1c25fb226b01e9857edbf8b86c173e956a",
+      "medical_l.png": "e396bf0d1c1eb5a7a22ae2b1722713772b39d394989f04e6c4a3791f95419383",
+      "meta.json": "c904ac9f02ea42c0dd8c5d94e2eb83622eca7db1b715095692bc3c2f00c59f1c"
+    },
+    "replaces": []
+  }
+]

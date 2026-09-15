@@ -93,7 +93,7 @@
   description:  A bottle of crazy glue manufactured by Honk! Co.
   components:
   - type: Sprite
-    sprite: Objects/Fun/glue.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/glue.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
     layers:
     - state: icon
@@ -108,7 +108,7 @@
   - type: Glue
     consumptionUnit: 10
   - type: Item
-    sprite: Objects/Fun/glue.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Fun/glue.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Solution
     solution:
       reagents:

@@ -81,7 +81,7 @@
 - type: cargoProduct
   id: EngineeringRCDAmmo
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: ammo
   product: CrateRCDAmmo
   cost: 2500
@@ -91,7 +91,7 @@
 - type: cargoProduct
   id: EngineeringRCD
   icon:
-    sprite: _Lime/Imported/Goob/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Tools/rcd.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateRCD
   cost: 800
@@ -111,7 +111,7 @@
 - type: cargoProduct
   id: EngineeringSpaceHeater
   icon:
-    sprite: Structures/Piping/Atmospherics/Portable/portable_sheater.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Piping/Atmospherics/Portable/portable_sheater.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: sheaterOff
   product: CrateEngineeringSpaceHeater
   cost: 350

@@ -1,0 +1,1075 @@
+[
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Medical/standart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Medical/standart.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "medical.png": "3d7bdc752038da12d91e666df59ee1cbeb52566f8eb5124934c4da7e4f92d896",
+      "medical_e.png": "353fdab224e9b209dabfd7be35033bc420ae84fdc1d53f7bb2fab8b9e10fd348",
+      "medical_e_r.png": "c6013f06ef51ce6187406f218c3acc57c5a1c40d18cd1934412a7c69695fc441",
+      "medical_l.png": "5ae0e30e980878e7099950551385def6a46700cdd17c3cebccce44c49148280e",
+      "meta.json": "0ba808efa2092c1a40f84918d52a165d5bac859511d8685b497e51cd57758ce2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/advanced.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/advanced.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "260097aa7b1cb6f1a2fbb303f5f0a313950b7871634a439ee6e91272b4cd5cd2",
+      "miner.png": "eb1ca58593f445311b8541b87af2c0adc09d13d7e18a9060860d41e34049e828",
+      "miner_e.png": "f295f6abaef5c256c7a2f2b3c7cece0114e8a58fb5ee83fc47b5d9c547291b87",
+      "miner_e_r.png": "b78f201b0e2522b0c019d141a48874933cd49da972bd09c349a77664f3016881",
+      "miner_l.png": "d85330c94c73a2d15ebcda7191cac34927595eef4f11833f185d0f39c6fbfa89"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/basic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/basic.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "ddf12460cfa250d121502203c0d12c8bf3eadd9a3a578601bf72383a67afa31f",
+      "miner.png": "07b9793c6ed72aaba320ad0437f0b9fc9bf1e41b6356d05066dba34af258d7a9",
+      "miner_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "miner_e_r.png": "f353c66636ca1057036fe806fd006bfc5a37bb9aee61807e152f52db483d00c0",
+      "miner_l.png": "abdbeb8729bdbac427bff4c5cb6e28548e8d5346d9d236389680ccecc7ae00f3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/coffin.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/coffin.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "991df2183790ff9dad341467b6e31f3b6d936924c66d2cc439138f7c4f59f5d1",
+      "miner.png": "93bd3911ac97ed93ac6e972abbc52f6d5dc5776ab8e8081c50ada1e5f1d3d3d2",
+      "miner_e.png": "d48e3e8649d0ba608ae7f5665d9d117c7844106bd27b22e0c60afe72e2fdc204",
+      "miner_e_r.png": "d48e3e8649d0ba608ae7f5665d9d117c7844106bd27b22e0c60afe72e2fdc204",
+      "miner_l.png": "d48e3e8649d0ba608ae7f5665d9d117c7844106bd27b22e0c60afe72e2fdc204"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/cricket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/cricket.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c3e9cc4596409df8e483a656adf4ac513f6db77b5459191b45455a2f41f6e14e",
+      "miner.png": "4d87cdb60eadd6f630a4a8222c136d01cf61933be2a54214ab05b15a74452921",
+      "miner_e.png": "478a04b6f7395647f73e64f43ffde4d7a9b7eb88667da9c09ecde416f5fd9046",
+      "miner_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "miner_l.png": "174532854ba85b3ca2d8ac4908968a0c7144483d7acc85981ff1e28382b03127"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/lavaland.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/lavaland.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "d53069945cd997b7f11563fa7c8be86c195120f07b034adaa5dab8aa54771b54",
+      "miner.png": "0d86851b8c68f9d5d245d3ecd387621ac79ee20cbb3041852981e2d79a2f0d53",
+      "miner_e.png": "988d7401768e33ed1d4fb3ef79e866977d4bcee4e3fb2d2d6fc864959c8a4968",
+      "miner_e_r.png": "fb0f21f6774cc26f329140352861b0bdf3a11949dbabb4aebb5851a6252ae13f",
+      "miner_l.png": "3a7f49151c5d19c2d5aa0fdc0b612706259d673352789210e150e4333bfed7c9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/noble.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/noble.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "cb489bc72560e9c0bc2c3e69d44c601562050d2259926dc6be46065b35748c28",
+      "miner.png": "5d933e80d47de22ca209044a3c988fe3729c3d31f2868b0d12f71ecf6f0c30c4",
+      "miner_e.png": "b2ba17ee53a5737798a1eb0de305a40945221a7da418fb68dd89533a2e3c8ca8",
+      "miner_e_r.png": "1506a199bbc6adf6ac52c3149ead7b3d5eeccfc083ab6840bf09e8fd38c0327c",
+      "miner_l.png": "94b886fe6fbe8db898c8d8d94d52c6501514454311cf6f419590454fef4fbc4c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Miner/squat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Miner/squat.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "969b372846b16604af9ce0c2a269f32a3af22e8013578e51932fc9e8595784fa",
+      "miner.png": "a1be371ef3ebb8d54ebe19935ebf6ccc6a3e81eb24276ac9b6e92a9205f74daf",
+      "miner_e.png": "051536b47a993e15fe347ee60e3fe453243352e39ed282fc23c9104f71af2214",
+      "miner_e_r.png": "8c113d4ee7f5a61cf22920cff25b4aa95eddbb5933223713d5dc7d8b6b38cb47",
+      "miner_l.png": "10f9034b7adad449e49fcac21af16aee6762f79501428acd1a6a92a486011163"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/brobot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/brobot.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "7bddb0e5da2bc821bda0018e749b3f16680f6f7d3edbdb08bb931d39c2565340",
+      "service_e.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "service_e_r.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "service_l.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/cricket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/cricket.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "ed00f77f006f96cebf70e15f8f4e926e5853b7bbcf5e5573582ce409ea00409b",
+      "service_e.png": "478a04b6f7395647f73e64f43ffde4d7a9b7eb88667da9c09ecde416f5fd9046",
+      "service_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "service_l.png": "174532854ba85b3ca2d8ac4908968a0c7144483d7acc85981ff1e28382b03127"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/kent.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/kent.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "cc910188186460b388dcd6521ddfee4a16d528309b4d6df184d36f9db0222f36",
+      "service_e.png": "26f034e55c3bb77231902cd5052540a8dfa546139bf9b7a49451f43843debb4a",
+      "service_e_r.png": "e3f1ce8b106ea59203bbb199acc0649a2fb76f90759627f2114eab257b9b965c",
+      "service_l.png": "f9586c8b3a5b5345f916091a0381a1313dce19566bd588dc2a3234d3b4815376"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/noble.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/noble.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "39e40b7f18f40a0336c39280b8ebf7f989a67ace3dca852454d1eb11fe1c6ecb",
+      "service_e.png": "478a04b6f7395647f73e64f43ffde4d7a9b7eb88667da9c09ecde416f5fd9046",
+      "service_e_r.png": "638ea1478ee3d6962a46e0085eb7460bae4a09062588e5209730dc50d12c23b6",
+      "service_l.png": "174532854ba85b3ca2d8ac4908968a0c7144483d7acc85981ff1e28382b03127"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/rich.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/rich.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "6f7449b330dd0ff7102228d8b03ae27eeff5a851243e3700633e85668a00ccd4",
+      "service_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "service_e_r.png": "f353c66636ca1057036fe806fd006bfc5a37bb9aee61807e152f52db483d00c0",
+      "service_l.png": "339ba710ec714577bc0d7a902314eefb310881f766c2196f7d29207a605f95aa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/rover.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/rover.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "12ccf341326fb8660635813b1b46b5a9c1c0610327a098a94887a39a5822127b",
+      "service_e.png": "3c54a29cfa3ca9ffda20e3f61af2e69f6dc52f5d03bdac8945e14172f21fce7f",
+      "service_e_r.png": "6a252f20cba137015b240b33281a7ad5b514d329333935547241a2bb5a9623f3",
+      "service_l.png": "3c54a29cfa3ca9ffda20e3f61af2e69f6dc52f5d03bdac8945e14172f21fce7f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/standart.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/standart.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "e6435e7f5b21f0603a7b098b32bce97b92d904b5dd4f161dccfc4579f15c1cbb",
+      "service_e.png": "353fdab224e9b209dabfd7be35033bc420ae84fdc1d53f7bb2fab8b9e10fd348",
+      "service_e_r.png": "c6013f06ef51ce6187406f218c3acc57c5a1c40d18cd1934412a7c69695fc441",
+      "service_l.png": "5ae0e30e980878e7099950551385def6a46700cdd17c3cebccce44c49148280e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Silicon/Service/waitress.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Silicon/Service/waitress.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/ParadiseSS13/Paradise",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "02ae5b2f492c4b85d4b2e0eb36def2e53b5e72d9f07edaf00e4edd343b11a4fe",
+      "service.png": "47e146a926169f69416d514dc965039c87932968e4e97ca2a1a0fa391798bf8c",
+      "service_e.png": "cd220d2054d21786fe924bf624aee84ad939f828d8b01cd82d4d574bdcf26357",
+      "service_e_r.png": "f353c66636ca1057036fe806fd006bfc5a37bb9aee61807e152f52db483d00c0",
+      "service_l.png": "abdbeb8729bdbac427bff4c5cb6e28548e8d5346d9d236389680ccecc7ae00f3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Species/Tajaran/parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Species/Tajaran/parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Creator was not supplied, oldest reference tracked to Cael Aislinn in commit https://github.com/ParadiseSS13/Paradise/commit/9e4539fdce01f00ed7e47ca1174a1470ac5fe77c. Small changes made by SX-7. Names are as provided, sans torso_f front which is a combined version of modified torso_m front, and modified torso_f",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "head_f.png": "c533baf37882ee9bcd6228e8a7fdfd064484d8bc9820e5ada01da92bb6cc10ef",
+      "head_m.png": "aaaaa35ce45ba009a25347532a24533e499adda7a452314811a59f1aface30c3",
+      "l_arm.png": "930e591b29945e79effaca5e339aacbe74d5c57331035da33d5f47547f70f6a5",
+      "l_foot.png": "710996dadc6268ba506435dc09df2b927c68c673fad499a0f9194c2af3170699",
+      "l_hand.png": "35972c224fb252cead951818b66bb1a396e484842e209de799bcbf8183cb069d",
+      "l_leg.png": "0fc15dfb2e3acae015c358f388ed0716dd2f344cbcbd7d3df29882614db20bc0",
+      "meta.json": "f7476327e919d5c75b5048d646e40fd227a892a22d060dee94efc0e4b2f265df",
+      "r_arm.png": "90ba12e30e9948391f9157a57856287044a824b69c4ba71a2bb744096b47bdeb",
+      "r_foot.png": "f9377501f5465ef311e49bb897b9b5b6b625d9307b34cff55107466dc61e7cc3",
+      "r_hand.png": "432296bbfe5ec0d925d23043febd69c938d7b07452c8ef16847c304e585a0b7e",
+      "r_leg.png": "c171e17a72f73f47e61905cd14ea85c313abb1a0a17ba19fc63cebcd6c0bbae5",
+      "torso_f.png": "4f0e5f4fa34bda28c4134582d2933b2878d0c5fb51a40f3fd1c2121c38d4ddcf",
+      "torso_m.png": "9e22d9e5d65a7fcfac174afafbd7dcce2e4e556f2e7bb76b3e76474ae30dd20f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Species/Yowie/organs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Species/Yowie/organs.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation and cev-eris at https://github.com/tgstation/tgstation/commit/c4b7f3c41b6742aca260fe60cc358a778ba9b8c8 and https://github.com/discordia-space/CEV-Eris/commit/476e374cea95ff5e8b1603c48342bf700e2cd7af",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "appendix-inflamed.png": "be404913c53f69d2023d5c34082468c3302e5a226026959b12abf0696de6146d",
+      "appendix.png": "c4560626b93eeca7ca0bcefb0ee38e4fc0746db757ad985b45cf133be955d811",
+      "brain-inhand-left.png": "d7793cf13eb387d7cfb6e1b84a23f4aa2cf7c5e98f3008f185488e160c63a653",
+      "brain-inhand-right.png": "471f15241ffad0d2a22dc5830ac6ae705d2f5cf0fa21ff94f03b4143026034b6",
+      "brain.png": "095d6040c312c41e687820cfe7c6ee9229ee6b960456f34de759f95bbb4b630d",
+      "ears.png": "5fc22e528b80530f30bc6f4ed08b588e85056d0276ab31a3e6cbcfc8521a5268",
+      "eyeball-l.png": "2a6116eb6fcc7f19ac132e3d397d942c69517606a4e2290b2601b36cb20f637d",
+      "eyeball-r.png": "2e76d50e9f06b923741145369a009ac8012d2eebddef8ee05642954affe55c82",
+      "heart-off.png": "36d79be256623edbe1a955cefa90e16b6f2293585a50dd5d12258d7135cad51c",
+      "heart-on.png": "ee40410b959c17a47b22407d990f4f12c756646e7108dd1443cab677cb791898",
+      "kidney-l.png": "808d8542f75639fd035d37e704d4b90c99e654850435bc7187b30b81e85d3100",
+      "kidney-r.png": "ebc2d6ec55ef35f268fd7459be6aa907fa7ae60d0a132d20352a7ea2e1618065",
+      "liver.png": "fccd3332340f7b6c187a3560f7e21058e0887b2dd472c74164c4bdb75fb76c26",
+      "lung-l.png": "d64b12837b9fc5a92b287527f0a3282bbf085284454c7b7f5e5db8ddee342a26",
+      "lung-r.png": "154f77ee13e27dc88fa756d2bca572c21bbbb0ca26e9c7e92b5ab358708e8c8c",
+      "meta.json": "4d41c1a2c16305ad617ea16b5e184367b2baca61abf08a185ec2d148fc367ec1",
+      "muscle.png": "7a29eaad9beb0637757f811419a4db793f81dc35755aae812bea92f8c898298b",
+      "nerve.png": "2253b4983836e5d74f841af8cea60d24f1122f6e3bcef1da611655fb68dbfc33",
+      "stomach.png": "371f5e5bb686e02242213b475bedb4591093b241b2cfdace9dd2d7f91c8cd7da",
+      "tongue.png": "7cf714ce808ae1f6c1595ba12a15d4e92a3d8cff6100eca0320cda5e09b19fc5",
+      "vessel.png": "637ad0e3d2b6d79021547f2ccae9fcb1bea8337d7aaae31496aba8f6996fbd55"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Mobs/Species/Yowie/parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Mobs/Species/Yowie/parts.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites lovingly handcrafted by BeeRobynn https://github.com/BeeRobynn",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "6a7013ff52d80e0f2105242e641e7196c20ce3264867210fba717612e015d860",
+      "head_f.png": "af8d45f67942c18b1a876d5bcdcf1163c19cc82ad8e3f3f30644b485f4eff999",
+      "head_m.png": "af8d45f67942c18b1a876d5bcdcf1163c19cc82ad8e3f3f30644b485f4eff999",
+      "l_arm.png": "0466b50aecda72deed161bbb093837d5f4f536745fe286751aa3164a49c57ba6",
+      "l_foot.png": "beee0cbb764e534e6ac0ca73522f2b50b51e909a729f8f699554b381c34e1e5e",
+      "l_hand.png": "67df514372f1c8fd0308d26d7f4ba9572cb2314bcb8a556a2f1ef6e553b3dffc",
+      "l_leg.png": "00702da4231f18960b344b609d13c004193612a8dc46a9c9a0b565ea16861929",
+      "meta.json": "7d05ceeca273f15953f2ea5b66f43155c36191bc29e7c23de8be3b6ea2adb552",
+      "r_arm.png": "f43f3e99416207bd92927223367df62dfea8a4be7cd568a7731b65adebac1187",
+      "r_foot.png": "e985d352640cc0d392da743593b4335c1992b86f4fdaad5ea79b65d1ccd85485",
+      "r_hand.png": "593951c5aaa7a9d05192f99c94b3dc8e5ea188aaa1a188576df724982706fbae",
+      "r_leg.png": "7497ac55f05f06ba61709daa665c89b4f8282af9e24b54c03884e3e5347d463b",
+      "torso_f.png": "723f3365bf0f75c62bd8792af079bfdcf54e0461bf7f5bc2b7d767b9fc6e9643",
+      "torso_m.png": "723f3365bf0f75c62bd8792af079bfdcf54e0461bf7f5bc2b7d767b9fc6e9643"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/autosurgeon.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/autosurgeon.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken at https://github.com/tgstation/tgstation/commit/2d26ce62c273d025bed77a0e6c4bdc770b789bb0. MMC state edited by kasature90.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon-mmc.png": "116cd3bba9076ce4c5c9dbdc35d5b6a8fdf9121495bc4ad312727a0b5c9769da",
+      "icon-syndie.png": "36dd2559909d91ac52c7b72748cf55be9fc00c2787aac887e7cb961c007bdafb",
+      "icon.png": "7df413a23735ce7f9c8093e8b213085afd85f95212b3b5333d6c5b8ee1ac07c1",
+      "meta.json": "f3f0742a078c127ca931915b4658384f062bbd7e0d96be3ce31f7d9d85ce38b6"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Devices/autosurgeon.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/carp_caller.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/carp_caller.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "BasedUser@github, licensed CC-BY-SA-4.0 for all, except for space-wizards@github, funky-station@github, and their successor organizations - rights reserved",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "2e89cbfac9a11b4eba34b71fc9e48673823385ef7ee09b31ce15ba06388b75e0",
+      "lights_bottom.png": "c3e831320c696882c30889e5743afecea74299f767fa9083182c4e4f316ea918",
+      "lights_top.png": "d144655e099b2c0ddea072c48915f4ccdc33c11874cc6c0312cbc56d58c2401a",
+      "meta.json": "0790dfa5c163ef9206ef37a026e20192bc4dd6200837de97374dd87026028b21",
+      "thumper.png": "ad06d99b510cdbb788f99771c2293a767e261642f66f030650306db601ef6133",
+      "thumper_unpowered.png": "19da887923f3144ba351aea7a23ac37bac656960c6e5c8ff7c6c75bf17e201bc"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Devices/carp_caller.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/defib.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/defib.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by EmoGarbage404 (github) for Space Staiton 14 & Edited by XcenLegend (discord:xcenlegend)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "f96e8cc924dc1e71e377cdc13e6ee74fed3a547b73b0d9c117b3e5c8fd544348",
+      "icon_unfinished.png": "0b3897a9d730cbf0ac7e54266f5476f0cea6a8f13511375406cd52d93bbe692a",
+      "inhand-left.png": "b2f6b450dea59a14927dd18e66c0af717d35735406cd25129928da3c97f39d2c",
+      "inhand-right.png": "b2f6b450dea59a14927dd18e66c0af717d35735406cd25129928da3c97f39d2c",
+      "meta.json": "bc3ca47728ee34bc37df18303b6f98c24ebcaedc8db54a217780732949e4ad90",
+      "ready.png": "da6cc30e3f30570625d6126482666b35c2e1ec61db70cd23dc9539d4bd5ebdb4",
+      "screen.png": "a10883ab3437d41bff3fd6871b0906b797fcbadcea32ccd8eeddaf79bcb9b4ca"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/makeshift_jammer.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/makeshift_jammer.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Samples taken from remote_signaller.rsi and modified by LuciferMkshelter for goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "jammer.png": "e4f25b2bad9c6dda2b1c75e1998f99c08f8e355bf2cb3877fab0e6fed2500e79",
+      "meta.json": "158f7529b8e940fe2c38685c62c7e3df71f318f2f1aa4593aedd2bbca23e41ed"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/pda.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/pda.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887, PDA-Blueshield drawn by SolsticeOfTheWinter, pda-deathsquad Sprited by ShootsTheMoon",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "id_overlay.png": "828928d06bdd95cc50ae1fa0325d5a3a100dbe3fe67961bf56c0d0e3c1d62652",
+      "light_overlay.png": "2d740df75bfb167f94747d11f8f8e489adbc35cadb64fa0c29ceb28818edf6d3",
+      "meta.json": "36f341486eb4d73365d7bb23767174d8ab2094b8a4ba8439a880f660313b0826",
+      "pda-blueshield.png": "9c3f6486eb26d8c790f64dba947d3705f8eb6e5b34f9c952aa1eec5fd0aeaa9b",
+      "pda-chrono.png": "f48ab66e0357d5e91cc049c3e11d5f244c2bdc56dc69879c35d96d66b74b7bf9",
+      "pda-deathsquad.png": "d383a1583638f2ed92cbe527106de787dcf8d12ffebcad8fe6d3f3c5f455ef85",
+      "pda-heccd.png": "340b98febb0ce4a617f551ee98a95a87f571ad7a1a6ed149379951cf94b25be1",
+      "pda.png": "680a791970d9d6550a7088296b452016ee74885d686f1d03bf723bb73696b915"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/teleporter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/teleporter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "b9bf5b0ff88e225e1940decb641c839f8421fba2266ddedb53ff62c2eb199fcf",
+      "inhand-left.png": "f9e6a16e1594854119312781321ec9cc7c4fe318be4454e3e1df8a5a41868abd",
+      "inhand-right.png": "a181bf467c1d6971b3be3d7a5088be4ddb757c2f0f972151aac5490fc0bfd875",
+      "meta.json": "27453320f9b1765c36d9a0ae6e258fc3281f9222f3723e9aee32e3ee38d1e6c8"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Devices/teleporter.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/tideflipper.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/tideflipper.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by LuciferMkshelter for goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "43809389c6c4147d4e1ff5a029c12e4bb89812e5e22fc4848fd59d64b0a14e2b",
+      "icon_unfinished.png": "9e1cf71a03755dd6d555a16ee23612b7eeb3a35482a451d9e6ed56741c64cbd3",
+      "meta.json": "adc95a5e6753a331ad11409338fb93130ab9bc513139e9f073fbdde041dee65f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Devices/unique_teleporters.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Devices/unique_teleporters.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Renee - https://discord.com/channels/1202734573247795300/1288192265319223387/1288254493020131368",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "bso.png": "18841982dd03f9f780b950d390b42b6b9933684ff5446dedba8c95b379dbdc6f",
+      "meta.json": "abcb5881cc4967a6fc5521c109afab74ef0265277e7874f67e72655435c66423",
+      "ntr.png": "83cc823bb8997bfbe31affe68c7d2c25a15990f413026147e520073cbb6560ba",
+      "standard.png": "96b6445c06935544eb0d2facf05cc6201e81f4868983fba335b2da959f96c00e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Devices/unique_teleporters.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Materials/materials.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Materials/materials.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tg at https://github.com/tgstation/tgstation/blob/master/icons/obj/stack_objects.dmi.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "hex_1.png": "b8e8bdf58e0ff5ec97eb65a0478e8bf5e17336effcefc1bccb28f3187a32bfb6",
+      "meta.json": "ce4868161f25399cccf43a78d9f5e4a0c0c76af288d9ecf26aca710c073448cd",
+      "screw_1.png": "7f4278aab802d912ec06781b3fc9894337e571ada136b2903fb4c9fbd7aff83e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/bureaucracy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/bureaucracy.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "09a339edb20c7e5a95568bb02ebd2faf89036ea368e6504f2ab28adc5ce7dfdd",
+      "pen_future.png": "ccc5a2af4ddaf9aeabd92dbd38ace6dcaf699e63d7f1ecb38c2a06bb77606203"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/Crafting/scrap.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/Crafting/scrap.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by LuciferMkshelter for Goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "18fb03992907ba3533d6fdc11c74b421ca7fef7979f4a75550d87b9a45d3fda2",
+      "scrap.png": "ca946a10d602a79f14b8f681c2c679be06945132b5273bf2d6daaea68bb170f7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/Crafting/wooden_handle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/Crafting/wooden_handle.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae and rotated by @LuciferEOS for Goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "e1b361231259a2adeae97555a63aa5ccd6203c3f4e17ae40d3405d89aa77e20e",
+      "inhand-left.png": "516d6504314fed177ecde443ef910a463668480f0492c02cbdf63f03f0ba4d40",
+      "inhand-right.png": "3290fefa9bb65896d051aa14456a2491fb9a4049bcc3ce43366411aa14c56572",
+      "meta.json": "ddadc58a6bd4fb93332e1b64ea014f1c3579b8ae4828d1a08499446f08b2f0d6"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Misc/Crafting/wooden_handle.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/filter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/filter.rsi",
+    "category": "objects",
+    "license": "CC0-1.0",
+    "copyright": "Created by deltanedas (github) for Goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "0522637795197112b41b1d4fc43c0688cd5268aadfaff10eab2bff0e576a7199",
+      "meta.json": "8eaa9ff1c14cf933d6728ac4b6c5145871ed073b9c4035aa5f1eef7a0a701cee"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Misc/filter.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/id_cards.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/id_cards.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887, Executive sprited by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "executive-equipped-NECK.png": "7dfd8d35b2cdf95540a96472f21c6ff54fdd405dbf0effdff1b9ac3a0ac4d97f",
+      "executive-inhand-left.png": "32e201d452cc78ac64e0f90e8ab1fdc417bff06fc16494f9e249b8710157f14b",
+      "executive-inhand-right.png": "2fd70498eb00be44a8a72c7ba30e989b9427e77263b48a204c040c2a1640c2f2",
+      "executive.png": "cb407179ceebcaebd1589fe693583d3ffb112066436008463513dfb234fe7556",
+      "future.png": "c2fb172095624d81afd824bd6c0c35413998549bd322189178f37aa4c99f6ccc",
+      "idchrono.png": "ef83a770c518cfc56e19e07d432df574b33799c786a7d9a426af248399911bb1",
+      "meta.json": "da565e4e6e6eb5a217b0af96355fc2b515100971a61f21c2a7ecbd4151f92a8a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/nukeoverride.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/nukeoverride.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "232eb330f21e3a0b1c933893f2f020d9581b5c9f46d487621ab777f945228b47",
+      "meta.json": "569f8b21a06b5d509ecc8340c7d1a7de5004138f003c0ec460a00c6df371c40d"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Misc/nukeoverride.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Misc/sandevistan.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Misc/sandevistan.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "b9fb42969660cc46daab2da5c5474b498ffafa60b5e4329f22b89a8cd8693600",
+      "meta.json": "0bf779ce4ba1f03826263bdce545d48d5f208290bc4c3f7134f98a5c7001b02b"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Misc/sandevistan.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/ChronoLegionnaire/stasis_cage.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/ChronoLegionnaire/stasis_cage.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by RustedTim - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "icon.png": "20b892c5b8983ec882c34ef6b8a1b83d030be86d77649678b4b755212e721da2",
+      "inhand-left.png": "6ef5792b7ead95ee74248b92bf411b85a9b3bdb8aed8cdda9a3c3c72030b69fe",
+      "inhand-right.png": "b5da84d64363ac02da1daf6fd643c976f70636dae1b96c8d26dddfc32ab4e774",
+      "meta.json": "c1193476f67463b93f559e8f439e9f7738e0cb5bd5d154d62b481c706e96b199",
+      "stasis_cage-base.png": "c81c17bcd4785a1a241702a2ccacec0735c7cdad2f4434fd8735a5c3f8cd09f7",
+      "stasis_cage-closed.png": "b089f3ef289481b9aafa32c8f45d3e6a8ce851d172a0e8f7bc017ef0e3fe60d7",
+      "stasis_cage-opened.png": "020b982fee9f53c43253d0c0cf5634e99f4a997e4c50b1a945db1c6a5388e8d7"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/ChronoLegionnaire/stasis_cage.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Mech/clarke_construction.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Mech/clarke_construction.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at https://github.com/tgstation/tgstation/commit/91af16bcbfd2dd363a89d846ae2acd6d655083c2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "clarke0.png": "1cc141241d21cf2613653ca9119890a1aa889966388a473f715d905ba3067511",
+      "clarke1.png": "6f7945ee6657a758c1acf440f651fb2105c93362e2233bbd0c99082e4c7da711",
+      "clarke10.png": "f9404c29cda24efacee4cb78d93ae58bcbadb2063495f43e8a5c4e472365aad0",
+      "clarke11.png": "b3a0df465add427610fde09f58b3f1e2542530edb73fd72bd32c2f3051bb7844",
+      "clarke12.png": "2d0242023ffce47e4792389785dec38616ff24bc68641c03eefc430175d23aee",
+      "clarke13.png": "4816828d124f20aaa69e14d2e3b7d9734be69f31865521bfef3da35d128a802a",
+      "clarke14.png": "3ebff6673e0a51f2c9952b8cae4390efffeec275befed93519e8ef9d493bb51e",
+      "clarke15.png": "7df0040421b285951eb6bc63634d429b3f5548381d444a312079ef658a9d23e7",
+      "clarke16.png": "23522cd727b91719111c31555ec3baa302e61751e0fc000abf9ccd63803a06f0",
+      "clarke2.png": "fe5c6fa494ab7864c51d3282f2eaf4000d3d4394590210391cde55fd64ff1fe5",
+      "clarke3.png": "683c0ec01f02caa685f9d3157e97364cf709366827784a680809c0e09626919d",
+      "clarke4.png": "ba3fbe72fbf7ea2ca0063fdb1234595ed19a01db3cc5929e9cffc0de4002fe15",
+      "clarke5.png": "054c3d8fef8ad99475e81d2d6edf54a1ed735ada518392a73d0fe0897ecf8a48",
+      "clarke6.png": "a643f2f71e03c712527003275d290cef2431fa38967ece9689a6ced1c50f220d",
+      "clarke7.png": "035e8bb2f27b3a6fc935054332f1902a8c2a953e77c9b1b383975eae7a76a349",
+      "clarke8.png": "dfe26be267bf0a5b415135a764ced5d277f6cc0e255deebe7b93ca80ece775d0",
+      "clarke9.png": "720ee67b6e2e1eb219f0a1b2201db49c7d54f1a2130ae8d052e1683faec303e3",
+      "clarke_chassis.png": "1cc141241d21cf2613653ca9119890a1aa889966388a473f715d905ba3067511",
+      "clarke_harness+o.png": "8342e0eec5758c8348ef11cbf9e5a3f60cfa7c7d0766aee5ac9469c591e4895f",
+      "clarke_harness.png": "8342e0eec5758c8348ef11cbf9e5a3f60cfa7c7d0766aee5ac9469c591e4895f",
+      "clarke_head+o.png": "6d82570fc582f1f3b285ee4bb725a7ccccef1ba47ecebfc4fdaf72bd80763783",
+      "clarke_head.png": "bbbb8eab2e0ec95abc598e4e3b9280e58b257bd4c710f58501c51ff5422857e4",
+      "clarke_l_arm+o.png": "e0b02dae1b542c279902037635f32bfedcd1b085797fd18c72ac6e507eab31f4",
+      "clarke_l_arm.png": "caf1027496db57499b459e8c2eccdbdaaa8ff808d04573723d3110687315bab8",
+      "clarke_r_arm+o.png": "b6d0c73ab4dc0b78b614204ddf980302c0cadb534c7d4cb932318a1db87b3110",
+      "clarke_r_arm.png": "b241a8d10dd8abcfc87b4c6ec6cb45ccc15a5e2f75b8b9d80397163aa5519eb8",
+      "clarke_treads+o.png": "225a07925952787bb848c8b61098447c7324de75b73183b149dc9031b2169f91",
+      "clarke_treads.png": "225a07925952787bb848c8b61098447c7324de75b73183b149dc9031b2169f91",
+      "meta.json": "0f058a395b95820c34a0b3bca5a46557d211d7517acac7e7054b26bc3ce95c7c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Mech/clarke_construction.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Mech/durand_construction.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Mech/durand_construction.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at https://github.com/tgstation/tgstation/commit/91af16bcbfd2dd363a89d846ae2acd6d655083c2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "durand0.png": "ddd46e78d39a27db4f1b2b8cc9306e6ec2436add5abae2242d5011bf4900712b",
+      "durand1.png": "06de151ccb7009c9a224b2157dd7f948448275aec4839eb452ba45a07c747393",
+      "durand10.png": "4c39e8e06b5e88a3b7e6b984c1fa487b0231113527ae6f4e6104ceebcbd56a97",
+      "durand11.png": "eca42064e159bf278611584ca1fe7e52c0e5f6eae062145dae90fde9f29876ec",
+      "durand12.png": "e850585d9f2ca3cc0ffb1053b8cc59631cb5aca20da99f204bde5e8d785925d3",
+      "durand13.png": "f056acbf327b41dc1cd13b9c18c8f4f4c9b4e64d77f486c632d0559213019ef1",
+      "durand14.png": "7be3243467b997251622bb5dab1589951f0bdf685ad4c8c060a8a8f6b590cafa",
+      "durand15.png": "dbf63f80ac1a3a8b7d504f3a58fc1d01cf24481cbb819c8d2b04b84169b727bf",
+      "durand16.png": "6ed54e66e37e3ec9b4cc70578131c8c79909784b21bb7bf2de6ef78d3aede56c",
+      "durand17.png": "4238b5a1b5db5b948b60214a46d69d02f8f4cf80ecc9bc7c0f9e08045af4cffc",
+      "durand18.png": "b0e5c03bf75d37a5cec0f3272b587e57b380d199a61e4a5b2fd47c80b8f08bf6",
+      "durand2.png": "b97662bf578080f45f42e094d61caabb2e1a5bc8fbe12d387b67b81e94e9cc32",
+      "durand3.png": "07431c993604cae19b623ccec374f1b4e913922872da8f607c29b14132ac59b2",
+      "durand4.png": "031fd6bc2fa6995350d502ea960177779fd7340eec356bde166f96bcfd229ec3",
+      "durand5.png": "2e4ba21c25e059a7ee1edb13e22ef255b7971c436d61bd1d33033bc575ad0f4d",
+      "durand6.png": "e32b4a63688e1e150fd247cc50ab78f4b5bf0b6ea9abdd1aaae0fc6c419d4ced",
+      "durand7.png": "d5372cf93496cf59f3068be2950cc53a9606eaffe61c74fdd8d40dc05bdfb37a",
+      "durand8.png": "c2b477b5668db5ba662745bb50d51bdc7e979b1cddea2e32a33a6d0fd8051b90",
+      "durand9.png": "78fc0d6d045cfec45d0e8fe066604533aece90aa6abb51054c7be9f5f63faddf",
+      "durand_armor.png": "3c2e39ed9c95f6513b094386485ed990db5065a81bb511153738a7d89c4c130a",
+      "durand_chassis.png": "b97b27bcca7a56c32ead9dd5c9faf6f0b131ce920d38ed00e59a256721c6eccf",
+      "durand_harness+o.png": "42aa27a51cd6b2f67e0a1c6fb19b53dfcbfeb8288678527c7fa2cc1c392f0775",
+      "durand_harness.png": "5b85a95cbf17756828a2b4593c7e14558faa8ced2d1757d58edc5a0d69912bb5",
+      "durand_head+o.png": "798bcbbdc86e783fb7ba1d488da003142e8007e15cfd250015d80044a8fb4e1c",
+      "durand_head.png": "0db57524f4e027d873527fe0b3e398601cb5976444fc68b4656acf93cadca8fd",
+      "durand_l_arm+o.png": "0b8b21cab3b70d01b042754c0a6f133b992406044a5e710b269fd933f9d10abf",
+      "durand_l_arm.png": "2d63461c7923aeabbd941052279cac4900f26426f7d20a23f4187d9dd23d905e",
+      "durand_l_leg+o.png": "474dd746907cd8ca134c60f383294a18d5f360595ab00de95db4285dbdcd4082",
+      "durand_l_leg.png": "6dbda57432aac287b31674281a470499a5e9cab57de0bb17c71fc82ab16b7faa",
+      "durand_r_arm+o.png": "be1985dd012df269f6ab5a034abb8c3ec1119cd39bcd8d49e2ed006515411a6c",
+      "durand_r_arm.png": "5551bd323a042524b3289ef4b3dadd1699c1ce14333be1dc50c313f9773c3093",
+      "durand_r_leg+o.png": "fec4b2528152cfb3601a011314ea69234c3fb0ccc076dcfe4e547f38a3414f03",
+      "durand_r_leg.png": "e23989d2c39abf101cd4c15b1a3b4c06b2c8ecfaac6aaaacd9bcc65a02af4799",
+      "meta.json": "20adad0f60abc9ad5f2dd4d637cb3523686764356ef334cc1920fc6c2abc28dc"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Mech/durand_construction.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Mech/gygax_construction.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Mech/gygax_construction.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at https://github.com/tgstation/tgstation/commit/91af16bcbfd2dd363a89d846ae2acd6d655083c2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "gygax0.png": "b63944ab9c4973c0a7e7efa9b8c88c827e86e95d9dbfbc1d64fdae842543a27c",
+      "gygax1.png": "292ee3794004ecba12457cbc7584fd00c69ad252b85eac469667ac8f51cda794",
+      "gygax10.png": "75e4719fdf19db28199b382193acede3bb12c4455a628eb14a1a3c1553535779",
+      "gygax11.png": "b86b7f354892e0d3886c88b44d5bf2b27e3435aa01b67457845eb81fc8564a04",
+      "gygax12.png": "10d4be6f6bc1471f3c44196edb107096b3431bb0a94d7d94386820ddc724ba96",
+      "gygax13.png": "81874cac68c60731248442c6d49658cef198f756de3c86cf8e96ebe3cc455d76",
+      "gygax14.png": "81874cac68c60731248442c6d49658cef198f756de3c86cf8e96ebe3cc455d76",
+      "gygax15.png": "81874cac68c60731248442c6d49658cef198f756de3c86cf8e96ebe3cc455d76",
+      "gygax16.png": "f5d80d83f02017026abd311331df8286b7b016ca6ab1687ca3a17f9c6577b1c3",
+      "gygax17.png": "2dc48c0639e92c3594fcdae79e7ece5a4a5402a930d1dce52e7202d728b3bb24",
+      "gygax18.png": "38d4fe883fd866e87c95a88edf8040e0817b9ef1cd080b8fd807f54730cb309e",
+      "gygax19.png": "ce21ad6a4eda5d0bc0dec567b5377bef466dfc090b1952e9584a3d68f4fc5984",
+      "gygax2.png": "7ad6e410e110850d1450ab97535bc1f3f1eaae130f0ed2e6756cf4a79968fdbb",
+      "gygax20.png": "86e26806078e0e6da5809005286b80d116975353d76ff1676abe12975b4241ce",
+      "gygax3.png": "b4795b9afc43bb4298ce5ef4ab08862326ba5e887d18984a07ef5610cecae6c2",
+      "gygax4.png": "fa44cc47d89849402c43ce63315061dcb0f957c16109492f6ccff72f5843d870",
+      "gygax5.png": "16fa07822fbf5b6b73801638b4fe52fabdd562056d354b9028f10f90b1a57265",
+      "gygax6.png": "8b7c8559cce1a3e02e5683ba34c761ddc6f654223aa11945cdf967f4b24ef51e",
+      "gygax7.png": "c4be4e04a85bd7d6deb113b24d30db8c4fdae5b9d598f937dab77caa06b6fe9a",
+      "gygax8.png": "7a2f4d928cb44ca768f60640e84d80ed2d3f3d1dfaf2eb7f972c3786962963dc",
+      "gygax9.png": "904346f07b30d9a863d82a78404b0aba6e82dcd9f0a22c8b249f2a49ab6fea71",
+      "gygax_armor.png": "1cbc9162e44e8e45a4b961491696122739c4783e6bacbc29d0f00eab5c8860b9",
+      "gygax_chassis.png": "6a979363b50ac4dd7e7ace6a61bec98ea902f28cf5fa0f7e452249e34220bb10",
+      "gygax_harness+o.png": "733bf510809ff752eef27c0717323947cacab935594c9281d9a30eac34049ac9",
+      "gygax_harness.png": "fd8a375a3cdd59ff3f4bb8950ac9f0492ccb2236d60c146794b3e144216871f2",
+      "gygax_head+o.png": "ccd385dd4e9b8e65462d19d692b04dde53f0889aa55adbc204badcffba5e98c1",
+      "gygax_head.png": "19403ac872367d206ce6a7a688064b7118da75923a8a0b496fd060a87f6943b5",
+      "gygax_l_arm+o.png": "16927e6614d6254bff9c5bb732e108f5b7f479e36369f43cbd0edd5be4cf861a",
+      "gygax_l_arm.png": "48cd09d59a48910d38a4da1e5bcab3f10790ac739c393ba7d9d7c5b8b23ce133",
+      "gygax_l_leg+o.png": "9c5518356429a111b2d24304ef744891676e15dd77d882e4a44835b696ea4d13",
+      "gygax_l_leg.png": "5c575ed5b3b56e2732ebd97f97e2944e4b32add19a630c4c2e206650c3e420eb",
+      "gygax_r_arm+o.png": "4dcc00ac7c4c9573c4e0b1479614a18798131f365b1faa2c72421267e9bd6d95",
+      "gygax_r_arm.png": "aa91dabb623f99f143b56df4e60a2a050234a10e21325745c47f1f8d8f241d47",
+      "gygax_r_leg+o.png": "c58f3912f4b8d7677105c2e19c49c8ec302c307b953cb33aff6e533a145b0b8c",
+      "gygax_r_leg.png": "ee569939a913a63056a42aaf97e1f2f4aa25df1e125bca2d4b010d57f39d5da1",
+      "meta.json": "6ca649ff7d0f4302cc36eed5fb3f9fbfb5474123df8e68fd81d1667c75bd4aed"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Mech/gygax_construction.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Mech/ripleymkii_construction.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Mech/ripleymkii_construction.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at https://github.com/tgstation/tgstation/commit/91af16bcbfd2dd363a89d846ae2acd6d655083c2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "455dd1c4b0ab7a96c02731665ee9650156fee714fb81ff34cc58418038f1ab8d",
+      "ripleymkii0.png": "48befebb05b9e5c44f32e9a33d1fffa5dd55a85480ecd5e600ea1f879f918f53",
+      "ripleymkii1.png": "a587b980174dfce06f81ffc40ea64250c4e1e32684a9bac90c4edb3ac7efd642",
+      "ripleymkii10.png": "790d3005f2fa5854010f8324036e19a7127e8652358fe66529a8b10ebfd2e74e",
+      "ripleymkii11.png": "f82b575b86065a251537bd35af23a669e946df51929531bb360cdd9884046883",
+      "ripleymkii12.png": "04eb29610c0e7e5d2665bcb6231872097dec01a6c90a9f007c30b5435a1fa5e9",
+      "ripleymkii13.png": "04eb29610c0e7e5d2665bcb6231872097dec01a6c90a9f007c30b5435a1fa5e9",
+      "ripleymkii14.png": "04eb29610c0e7e5d2665bcb6231872097dec01a6c90a9f007c30b5435a1fa5e9",
+      "ripleymkii15.png": "05e950932ec83d0a3e510f392195ab03eb3769f1b6ffa619bf6c88a2fd03a43f",
+      "ripleymkii16.png": "6b7658366923f5a46a17f25b2f7ecaf1c31deb5e51a2e1662546dac0603743b1",
+      "ripleymkii17.png": "390b62011cff019966f92600e6f64d2a8de86ae57d8dba1b5c087d5d56335632",
+      "ripleymkii18.png": "a2737d84e03c16cc2cbfd5fb93d4ede5b019ea877763f0a72d45bc1e7832ce77",
+      "ripleymkii19.png": "9faeefd916479b823e2e9cc92ce3ec199aa2baea61af565e821c7fc020d1ac62",
+      "ripleymkii2.png": "028e92d2e6076e3360388f96137b39a8c636243b7de33a758c023972931a8dd3",
+      "ripleymkii20.png": "d2eb338e6e305f3d331407a29f80972cfd98909519c1fff9066c607b569a4c07",
+      "ripleymkii3.png": "f3995882f161eeee57dbabb1dc33cdaa00636df94dd6edd096c512de5d6e2612",
+      "ripleymkii4.png": "13a9565a5ce1d92ca5eb509dc0e24ab9980e9db284f136fc0a0d29a1b1304aeb",
+      "ripleymkii5.png": "140bfbb2743bd025ad318d55b4c78bf34d9c9916499d9981794d915ebac76404",
+      "ripleymkii6.png": "cf876b1013f799a9acb602f55891b6c4ddc4fc2513a2a3affb8fed1a0219bab3",
+      "ripleymkii7.png": "d4a513d36e9d8e35afb33b3bf166d3b5d2d4fc8c90891eb256058b3230b7450e",
+      "ripleymkii8.png": "1249053e81cb4573c09594836469df2f097cf0310b1a0431c632134f48d9fee4",
+      "ripleymkii9.png": "34307f2d6bcfd4e2c529b236cdf8fcb1017bfeb6a2dbc2be30a81752a6520c50",
+      "ripleymkii_chassis.png": "78104b03ffc84bb991e366e422cf426f660be11c0d69ba070ad904b2058da8b9",
+      "ripleymkii_harness+o.png": "12a8229ae9861263daae6ee54803965ba843308a3deebfb39c47c70a5d5f0766",
+      "ripleymkii_harness.png": "c57a041f351bf3f3cde031712101310557cf64aea469b0203ec2b163f8f86630",
+      "ripleymkii_l_arm+o.png": "ad73d3362511b7c9e0c83d2814b2e155c95531a8444bf0360a3f25e4099bd6e2",
+      "ripleymkii_l_arm.png": "6457beefaafe49ac688027e855579fe6797e39a1fc075f3b12e2533daae4d489",
+      "ripleymkii_l_leg+o.png": "310fa383b75261690093e437680e215ecdd509466a326a049ee64edd10cbff3c",
+      "ripleymkii_l_leg.png": "0b1ea2ffcc242384f43be9403a9ef531d3ab52308dcf1ee09dbf0bb13fcd3107",
+      "ripleymkii_r_arm+o.png": "dbc8e6ce13f3405220dcf3b75c077675b4ca285c1da6c8a0c246382c9aefbd05",
+      "ripleymkii_r_arm.png": "b67ee5100df7c8b6642a89a306c2a2d700d8a9c4aec97037cd8896c90382d7a0",
+      "ripleymkii_r_leg+o.png": "35f65619640c4c7248374334841924c47f2a20c7da8b485b97dd4d4954ab0f61",
+      "ripleymkii_r_leg.png": "774490500d15a0f6263de722382aa2aa28aff56966c36c533fb9848d012335d8",
+      "ripleymkii_upgrade_kit+o.png": "3b92bc2a6266e311890a5fde6f8b6298dad4dab9d246c38821b3ee1b94f698aa",
+      "ripleymkii_upgrade_kit.png": "bbb6cdaa43ee9576f1743757bcbff7a53cdc416f7ef38cf5a591f7d710b5b577"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Mech/ripleymkii_construction.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/autoinjector.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Medical/autoinjector.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from YogStation at https://github.com/yogstation13/Yogstation at b38f136e1e3b587de23956df450e6d320046bc2b, modified by a_person5660/ReggieTheRat, split to layers pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "cartridge1.png": "aab6b346effc0c634c7e7d522498270610e081c881ab9efc2964eff8c0f71f89",
+      "inhand-left.png": "26ea639dbd4820cdf3c138c7728226132cb10d6eeb36008879f97b54e89247db",
+      "inhand-right.png": "70856be4a457035fb53a147f3cfa200ea02dfaa202a69930b48864d13116488d",
+      "medical-base.png": "b8ab19762fa5f030390c2c6f11f2b8e985db7fd13ae00b5d3018fded3b1f0d9e",
+      "meta.json": "5280bb1eab892b8dfcf4bb6d1cc38c6800006ea70997b352b4b95ba7f4f26402",
+      "security-base.png": "763db8e620cee56de7ebc4073bbc3c850569cf5be63f3c8aa66dfa7f529c2a2e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/autoinjector.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/cartridge.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Medical/cartridge.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sprite by ReggieTheRat/a_person5660; reworked to work with layers by pheenty",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base.png": "efa25df6e22fa65637c8d5a87e6f956d4be6589e77579ff9a8d86a8ec5644850",
+      "filling.png": "d6abfc02669ee5ea28cd6099619a664c1caad319fc9b03f282f7ec225831d881",
+      "meta.json": "42838adf2c95bf933b2e5fd70298b1d554e9e58eec6dd9460eb7dbfb1f33f6ff"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/cartridge.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/centcomm_hypo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Medical/centcomm_hypo.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "hypo.png": "167f35a6ad434e1695e5142920211e0af5665ed7f088d5cf9ee655a0f2da1628",
+      "inhand-left.png": "a32653ac6d7482f7e25b34fc2e6e1dc187a2ad002611b1a26047c919ff4de3b0",
+      "inhand-right.png": "a32653ac6d7482f7e25b34fc2e6e1dc187a2ad002611b1a26047c919ff4de3b0",
+      "meta.json": "1cd98329b7caab6af2eb998397b27902ac9d529c45ace68e97496f18b3743d1b"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/centcomm_hypo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/medipen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Medical/medipen.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by SolsticeOfTheWinter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "dbfc739a018d505c3e5d922d3a1e571a558c17505e8d7eefdeef47c30b97c6d2",
+      "ntstimpen.png": "57ee120d88882c5da96de88e33fe5ea33c5000a06002647444aaa44b19a49a40",
+      "ntstimpen_empty.png": "3f4aab925afe229b6700d4ecebb8852bd35f0b1617437a28c8188daa2a60a5d3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/nt_implanter.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Medical/nt_implanter.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/PestoVerde322/tgstation/blob/37460afeeb24f84e591d538e40bb04e60aef9cf8/icons/obj/syringe.dmi, resprited by BombasterDS",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken.png": "ee5eed592be19dbf952a82f97994ad8ae7e76515758423cb03bef2187125e876",
+      "implanter0.png": "301713430bc36e6389e3a2d0c779b81cf9de8ad0eaf7be97f77262e4bc935e4a",
+      "implanter1.png": "8f43f9f4b0e9a58390084d1437887ad019b1bcee152ee03cf87189de36d8a110",
+      "meta.json": "3e4fd36d813589520d6d352246fbd23e04d340b119ea1f1e5273fc2a1dd643ed"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/nt_implanter.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Medical/stasipen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Medical/stasipen.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "meta.json": "4fd690bf997a169544d7c71ca0490a0ee335882ab16ca9528430119f5440ef82",
+      "stasipen.png": "f1f9036ef51ee9b21b583f7382677ed334f7ec1e71064863ca86193be402838f",
+      "stasipen_empty.png": "af13fbd2285603a128ae4a5862f6ccc7033c23da3228e4f673979c90f5928fe1"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Medical/stasipen.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Specific/Robotics/modsuit_parts.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Specific/Robotics/modsuit_parts.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From tgstation - https://github.com/tgstation/tgstation/pull/59109",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "boots.png": "e97921c4dfec58c4e50e305a36a06860d6ac26c58860a09011e890144d536b4f",
+      "chestplate.png": "b576eda31a8031cdd73eeca7f17c5c43b30b89671c6f3c00982bee17cbfac304",
+      "gauntlets.png": "bd9fdd1a1ff61b668cf369c06b282b24c9cc0306543115b9f5ffc6285db8f3f2",
+      "helmet.png": "70523f937c5e4e4fa66a6c4e2434e6a8220dbcdfac0e8114fe5658c4830f3364",
+      "meta.json": "a135aff9e14cc54ebd4c4d0c5d1cad8c9e17156899712cd8d4a29e8da60cb426",
+      "mod-core-standard.png": "6bd6d23706be616c3f20665a833e069a1c5481a95c26ca2bce2b5993cb956f3a",
+      "shell-boots.png": "1edfa9d31d255272c9f71099e2281ba0bc8fc389396147937b34ecc2ca3c7c67",
+      "shell-chestplate.png": "55fcad7590cf95d17b856a208061c40cceb0ba24c603ade632c07499f5130d56",
+      "shell-core-secured.png": "9d9b2824a9d59038f06d8a1340a670f9a9060537ba68d58398d838819847f8eb",
+      "shell-core.png": "524ffca644565c8e9cfc4e0241b5466bb07446cd07bcdc62d0d623a7f0c350ec",
+      "shell-gauntlets.png": "0d6d9d8f7b0d4f45cdbc9c688eafa0b16ff34a2fa23de0f0810ca4da52d7beb0",
+      "shell-helmet.png": "b7283ea5ccd9409f35ef250f70145e6dc261a09d4ec24cb93a1e5eb886cfa3b6",
+      "shell-secured.png": "25e9675f198b289285b4681609c014251cce00b798b868dca9749cfd9b59b7df",
+      "shell.png": "f64b8f925db3d0a01228c78b60f1750c17c61dbcd4495ecbcbcc5d5c620f6711",
+      "standard-plating.png": "de1558784232a6b3e297e52177790b468b3c997e65902fe79e8d9a79e1944dcb"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Specific/Robotics/modsuit_parts.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Storage/contra_satchel.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Storage/contra_satchel.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by xcenlegend for goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "d02122b18d2a79bf0e386818b2c7e010c2525d76710c04e9988c7cfac32063e1",
+      "icon_unfinished.png": "f9c5a61de698865a56c56ae32245c6ca4251176a89ed26dd9a36cd0522327a19",
+      "meta.json": "f9246bb37a69ab43438770739180e5184043d9be546fa1ddb18e7fb494c5a486"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Storage/grey_toolbox.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Storage/grey_toolbox.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from toolbox_yellow.rsi and resprited by LuciferMkshelter for Goobstation",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon-open.png": "a702bf07ee9a98df24ce243950636f3591129143c8af344a32f3fb3a7d89e759",
+      "icon-unfinished.png": "ddd9afcf1dce63f5a9624faecca44671ce1703a53cac8b40f775b7c956cfc57a",
+      "icon.png": "f4f6006d315faa53a04265bcd879526975a794f901272f2f7feabf411d5ee053",
+      "inhand-left.png": "8b4f6adbd2e3e338f4f3c0b43cbf2eb1a1b7ad177bd8dcb3803a86d0c43c6389",
+      "inhand-right.png": "ba5b4d44d647ddeaa8c9ea1b847f0419b655241c74618454cf8cde9df47ad91b",
+      "meta.json": "b59196a163a1541a00330ee330dba48d98f8dcf7b44e57da33edf7b2597379e7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Goobstation/Objects/Tanks/chronojet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Goobstation/Objects/Tanks/chronojet.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BombasterDS - https://github.com/MetalSage/space-stories-archive/commit/26812e79c19c5f998bcbc445afbdceea625bc887",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-SUITSTORAGE.png": "7b887eb9870ca57db5904e8e21a18c63ff01c0bfd3a258647a7fe71458ba5690",
+      "icon-on.png": "75374253caa79a59fd6a17cbf99a058e62bdc8dbdce5dce7b8100f8388a88791",
+      "icon.png": "551c12b3aa5029b47c122d3216570090eb800e22580ee6a7ee6f8fc5ab782142",
+      "meta.json": "158459de9ad22c04905fe392ef07a177cf2169dc72d443db6d0773b8eb0949dc",
+      "on-equipped-SUITSTORAGE.png": "b38705ef01e8c3a651c3f852529ecd50e6b62bd15a299e0dcd633df8ea3e7b76"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/Goobstation/Objects/Tanks/chronojet.rsi"
+    ]
+  }
+]

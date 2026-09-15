@@ -5,9 +5,9 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: Structures/Windows/exo-resin-borg.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Windows/xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: Structures/Windows/exo-resin-borg.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Windows/xenoborg.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: full
   - type: IconSmooth
     key: walls

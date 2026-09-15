@@ -124,7 +124,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: ripley
@@ -179,7 +179,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: honker
@@ -226,7 +226,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: hamtr
@@ -286,7 +286,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: vim

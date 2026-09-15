@@ -17,7 +17,7 @@
         sound:
           collection: MetalGlassBreak
   - type: Sprite
-    sprite: Structures/Wallmounts/fireaxe_cabinet.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Wallmounts/fireaxe_cabinet.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: cabinet
     - state: fireaxe

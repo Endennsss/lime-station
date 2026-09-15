@@ -27,9 +27,9 @@
   description: "It's a chicken head. Bok bok bok!"
   components:
   - type: Sprite
-    sprite: Clothing/Head/Misc/chickenhead.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Misc/chickenhead.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Misc/chickenhead.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Misc/chickenhead.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IngestionBlocker
   - type: IdentityBlocker
   - type: HideLayerClothing
@@ -106,9 +106,9 @@
   description: To be honest, those look ridiculous.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Misc/pwig.rsi
+    sprite: _Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Misc/pwig.rsi
+    sprite: _Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: HideLayerClothing
     slots:
     - HeadTop
@@ -152,9 +152,9 @@
   description: 'Best paired with the Skub Suit.'
   components:
   - type: Sprite
-    sprite: Clothing/Head/Misc/skubhead.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Misc/skubhead.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Misc/skubhead.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Misc/skubhead.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: IngestionBlocker
   - type: IdentityBlocker
   - type: HideLayerClothing
@@ -392,9 +392,9 @@
   description: On a closer inspection, it appears that it is made from optic fiber.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Misc/performer-wig.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Misc/performer-wig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: Clothing/Head/Misc/performer-wig.rsi
+    sprite: _Lime/Imported/Monolith/Clothing/Head/Misc/performer-wig.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: HideLayerClothing
     slots:
     - Hair

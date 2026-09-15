@@ -352,5 +352,5 @@
   suffix: HighSec
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/airlock-vault.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Doors/Airlocks/Standard/airlock-vault.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: "assembly"

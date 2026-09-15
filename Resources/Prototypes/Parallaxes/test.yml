@@ -26,13 +26,13 @@
       scale: "8, 8"
     - texture:
         !type:ImageParallaxTextureSource
-        path: "/Textures/Objects/Power/AME/ame_jar.rsi/jar.png"
+        path: "/Textures/_Lime/Imported/Monolith/Objects/Power/AME/ame_jar.rsi/jar.png" # Lime-Edit - текстуры Monolith с сохранением лицензии
       slowness: 0.0
       tiled: false
       scale: "2, 2"
     - texture:
         !type:ImageParallaxTextureSource
-        path: "/Textures/Objects/Power/AME/ame_jar.rsi/jar.png"
+        path: "/Textures/_Lime/Imported/Monolith/Objects/Power/AME/ame_jar.rsi/jar.png" # Lime-Edit - текстуры Monolith с сохранением лицензии
       slowness: 0.125
       tiled: false
       scale: "1, 1"

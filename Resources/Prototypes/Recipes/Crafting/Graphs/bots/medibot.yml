@@ -8,7 +8,7 @@
       steps:
       - tag: Medkit
         icon:
-          sprite: _Lime/Imported/Goob/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+          sprite: _Lime/Imported/Monolith/NF/Objects/Specific/Medical/firstaidkits.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: firstaid
         name: construction-graph-tag-medkit
       - tag: DiscreteHealthAnalyzer

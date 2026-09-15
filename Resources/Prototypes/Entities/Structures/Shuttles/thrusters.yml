@@ -200,7 +200,7 @@
     machinePartThrust: Manipulator
   - type: Sprite
     # Listen I'm not the biggest fan of the sprite but it was the most appropriate thing I could find.
-    sprite: Structures/Shuttles/gyroscope.rsi
+    sprite: _Lime/Imported/Monolith/NF/Structures/Shuttles/gyroscope.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     snapCardinals: true
     layers:
     - state: base
@@ -264,7 +264,7 @@
   - type: ApcPowerReceiver
     needsPower: false
   - type: Sprite
-    sprite: Structures/Shuttles/gyroscope.rsi
+    sprite: _Lime/Imported/Monolith/NF/Structures/Shuttles/gyroscope.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     snapCardinals: true
     layers:
     - state: base

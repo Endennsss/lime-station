@@ -5,9 +5,9 @@
   description: Engineering lace-up work boots for the especially blue-collar.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/workboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/workboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/workboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/workboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Matchbox
 
 - type: entity
@@ -17,9 +17,9 @@
   description: Nanotrasen-issue Security combat boots for combat scenarios or combat situations. All combat, all the time.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/jackboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/jackboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/jackboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/jackboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ClothingSlowOnDamageModifier
     modifier: 0.5
 
@@ -110,9 +110,9 @@
   name: winter boots
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterboots.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterboots.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingShoesBaseWinterBoots
@@ -120,9 +120,9 @@
   name: cargo winter boots
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootscargo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootscargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootscargo.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootscargo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingShoesBaseWinterBoots
@@ -130,9 +130,9 @@
   name: engineering winter boots
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootsengi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsengi.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootsengi.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsengi.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingShoesBaseWinterBoots
@@ -140,9 +140,9 @@
   name: medical winter boots
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootsmed.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsmed.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootsmed.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsmed.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: ClothingShoesBaseWinterBoots
@@ -150,9 +150,9 @@
   name: science winter boots
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootssci.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootssci.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssci.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingShoesBaseWinterBoots, ClothingShoesMilitaryBase, BaseSecurityContraband]
@@ -160,9 +160,9 @@
   name: security winter boots
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootssec.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssec.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootssec.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssec.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingShoesBaseWinterBoots, BaseSyndicateContraband]
@@ -171,9 +171,9 @@
   description: Durable heavy boots, looks like merch from "Syndieland".
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootssyndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssyndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootssyndicate.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootssyndicate.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   parent: [ClothingShoesBaseWinterBoots, BaseSlicingRefinable]
@@ -182,9 +182,9 @@
   description: Boots made out of dense webbing to help survive even the coldest of winters.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootsweb.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsweb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Clothing
-    sprite: _Lime/Imported/Goob/Clothing/Shoes/Boots/winterbootsweb.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Shoes/Boots/winterbootsweb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: FlavorProfile
     flavors:
       - cobwebs

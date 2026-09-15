@@ -147,7 +147,7 @@
 - type: cargoProduct
   id: LivestockMouse
   icon:
-    sprite: Mobs/Animals/mouse.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Animals/mouse.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon-0
   product: CrateNPCMouse
   cost: 4400

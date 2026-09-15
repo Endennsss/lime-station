@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: ArmorySmg
   icon:
-    sprite: Objects/Weapons/Guns/SMGs/wt550.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/SMGs/wt550.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateArmorySMG
   cost: 9000
@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: SecurityRiot
   icon:
-    sprite: _Lime/Imported/Goob/Clothing/OuterClothing/Armor/riot.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/OuterClothing/Armor/riot.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateSecurityRiot
   cost: 7500
@@ -71,7 +71,7 @@
 - type: cargoProduct
   id: ArmoryPistol
   icon:
-    sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Pistols/mk58.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   product: CrateArmoryPistols
   cost: 5200

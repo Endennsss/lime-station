@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "full"
+        },
+        {
+            "name": "silver0",
+            "directions": 4
+        },
+        {
+            "name": "silver1",
+            "directions": 4
+        },
+        {
+            "name": "silver2",
+            "directions": 4
+        },
+        {
+            "name": "silver3",
+            "directions": 4
+        },
+        {
+            "name": "silver4",
+            "directions": 4
+        },
+        {
+            "name": "silver5",
+            "directions": 4
+        },
+        {
+            "name": "silver6",
+            "directions": 4
+        },
+        {
+            "name": "silver7",
+            "directions": 4
+        }
+    ]
+}

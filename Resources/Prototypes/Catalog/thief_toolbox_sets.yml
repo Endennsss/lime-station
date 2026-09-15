@@ -76,7 +76,7 @@
   name: thief-backpack-category-communicator-name
   description: thief-backpack-category-communicator-description
   sprite:
-    sprite: Objects/Devices/communication.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: old-radio
   content:
   - EncryptionKeyStationMaster

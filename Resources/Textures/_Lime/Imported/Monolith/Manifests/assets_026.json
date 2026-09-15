@@ -1,0 +1,1011 @@
+[
+  {
+    "source": "Resources/Textures/_NF/Clothing/Wallet/leather.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Wallet/leather.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "The sprite base is taken from EricZilla (GitHub) on tgstation from https://github.com/tgstation/tgstation/pull/78761, edited by whatston3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "closed-black.png": "5c56fe23364dde10abf18944fe145be1edf2b580a45e40c62d5746d36ab406bb",
+      "closed-cash.png": "9915f539c2bd8ae059309b6f1ed72154d3095969af983791196d8ab9220e3ac2",
+      "closed-coin.png": "3b725ae97521a30eec9086476b0affafbaf4ec8e0a9bcea86747930065b8c535",
+      "closed-mail.png": "25bce2bd78697a4a1cff7fb14e80e2a314365ce052f1cd464209a0d7a790afe9",
+      "closed-paper.png": "ddeff272d91af78cfa3897a5c2a3d109a44493c41a32d3ed6a1b38cf9525ddd3",
+      "closed-pirate.png": "83db24aeb97ea59dd7af51f5531772382d8f60ae60739682a56acb739e4177ae",
+      "closed.png": "a18f700a550ac5217737b8198a10e0931506bfe434033c2f9af261204ab6238f",
+      "meta.json": "b2b13e7ce004937c2f0f20242d8f3cdec8c8472068c1b8dbd1f95533466b0d8e",
+      "open-black.png": "4947c43a48be12f4348b5724471ec09ff703b93e7466cfa1781884dd3057c84c",
+      "open-cash.png": "cd3f3ce3d0f4481d04bb6bbedbd2404f55f60d98b8a9ec81c64ad8521315ba55",
+      "open-coin.png": "fd79e6dca2bc8761bce7d86bd1a251613597329c3648b427caf6b1eaa463bc8c",
+      "open-mail.png": "662292f552dda1f4a03e8d940855ada17423e361dd61062f29d7ccc5a3358551",
+      "open-paper.png": "96f57655dc2f17731967fe7ee066b94efef839a1bd3d0af8878e7e40df778141",
+      "open-pirate.png": "67772a753eee065be502aef05a40a8c63b0d7a50adf644872e923b8ccbf7d99a",
+      "open.png": "e6db4fa72324036aa4dab00975f66d1bffe1eea4571997c849d34120afecbbe7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Doors/Airlocks/Glass/mercenary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Doors/Airlocks/Glass/mercenary.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified security door from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "d7cb0d5a66d8a03cc2b2329629573ca5975da3656c5192baf78c2e63b500e172",
+      "bolted_unlit.png": "42fa9b4abecd8772ee314c2d5c6921a717d37554df6cdef1ab7aa66993d7e5a6",
+      "closed.png": "2dd5bb280ba439c50aaddc4a5d2b74fc44d690c17b1f5c9153c3ba7e71053384",
+      "closed_unlit.png": "fc7bd6a5d77e9267858a74a52761d7c7b28e08337aba4f21b9952045fae0e6d4",
+      "closing.png": "7dae5f3950c242f4868c7873ee7ddb4d7381cc86ba4e8a65212461571f706f10",
+      "closing_unlit.png": "f4a62e37e1785335cb10d6b5bb28bd520a9ec17f41c4797edeea3d9a3254cdb7",
+      "deny_unlit.png": "b6b9508be6bcc298089f71f0ab667286e63498630e6feb3da170c27670064143",
+      "emergency_unlit.png": "a0083d0bef3a310be2c610c87d2e38e4f2bb4fef2f495f33791e5488223933c8",
+      "meta.json": "af683b163d407009fa95203ef6efc399dcc5d1f44d2424ce0d62993e8c2b9bea",
+      "open.png": "dc598aec65783d0f969b1cfee1a282b6b9099009d72b4654638f65962ed942be",
+      "opening.png": "911d6ab6e4a039cea73741804bb327cc7e02f5d8f9ae6547e1297593c2c772cd",
+      "opening_unlit.png": "ba21b7850bbb8e9fd3468a50c64c45166420c97e11bcd4eb90ac082a538aed2b",
+      "panel_closing.png": "fe32fed6379e754023dd91e18605cebb065daf2983a37d6df1a5c0925ff7c93e",
+      "panel_open.png": "99a656906474b7c66caa2c55b3a7cc6062ebc5782d2b1336d0d86c0d706c771c",
+      "panel_opening.png": "a22c276576ff639ceee2cf4f6e33fd710bc47d28c62a5d4935a23e53a96e2e81",
+      "sparks.png": "6ad0142c29904aa83142dc069466e381803d8d3ae25ff5e5ae32b73e8af6b3d3",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "3cc85ba08886535dfedf1f689e3290ce428cce143a0942fbda59a6c9477b6775"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Doors/Airlocks/Standard/mercenary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Doors/Airlocks/Standard/mercenary.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Modified security door from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "assembly.png": "ae3a9c289caff0af8b8387e115188c37b0f02765a9ca5a70a370174326d162de",
+      "bolted_unlit.png": "42fa9b4abecd8772ee314c2d5c6921a717d37554df6cdef1ab7aa66993d7e5a6",
+      "closed.png": "034e95a8d29cee0c9d3f82bb0a014db15c814b2f59d845d6629f06515c9ed5bc",
+      "closed_unlit.png": "fc7bd6a5d77e9267858a74a52761d7c7b28e08337aba4f21b9952045fae0e6d4",
+      "closing.png": "9736b83dcbe05c1b3dbf9e73423f82ecc9e5bd52a19155a6c040a9d71777411d",
+      "closing_unlit.png": "f4a62e37e1785335cb10d6b5bb28bd520a9ec17f41c4797edeea3d9a3254cdb7",
+      "deny_unlit.png": "b6b9508be6bcc298089f71f0ab667286e63498630e6feb3da170c27670064143",
+      "emergency_unlit.png": "a0083d0bef3a310be2c610c87d2e38e4f2bb4fef2f495f33791e5488223933c8",
+      "meta.json": "af683b163d407009fa95203ef6efc399dcc5d1f44d2424ce0d62993e8c2b9bea",
+      "open.png": "dc598aec65783d0f969b1cfee1a282b6b9099009d72b4654638f65962ed942be",
+      "opening.png": "9335ac4961291ad1c8f0a4e833fe2f22bafea4d96dcad30c918077e256e39694",
+      "opening_unlit.png": "ba21b7850bbb8e9fd3468a50c64c45166420c97e11bcd4eb90ac082a538aed2b",
+      "panel_closing.png": "fe32fed6379e754023dd91e18605cebb065daf2983a37d6df1a5c0925ff7c93e",
+      "panel_open.png": "99a656906474b7c66caa2c55b3a7cc6062ebc5782d2b1336d0d86c0d706c771c",
+      "panel_opening.png": "a22c276576ff639ceee2cf4f6e33fd710bc47d28c62a5d4935a23e53a96e2e81",
+      "sparks.png": "6ad0142c29904aa83142dc069466e381803d8d3ae25ff5e5ae32b73e8af6b3d3",
+      "sparks_broken.png": "7b3d9529d5bd19348b1582e6f82467226d906fb863133fc4b490d11d65def5ac",
+      "sparks_damaged.png": "e0fd702b70c8b07dcdbce87bd81f0e7eccd20bca9e3876d5e97b252d1f7ce576",
+      "sparks_open.png": "53487f8b6e559089011bc1a410427e078af47ac38272ec5d0e27ba4b86f733a0",
+      "welded.png": "3cc85ba08886535dfedf1f689e3290ce428cce143a0942fbda59a6c9477b6775"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/bloodcultbeams.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/bloodcultbeams.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken and modified from cev-eris at https://github.com/Citadel-Station-13/Citadel-Station-13/commit/06689416691093474d600924242f69eb7d223f3e and from https://github.com/tgstation/tgstation/blob/master/icons/effects/beam.dmi ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dark_red_lightning.png": "23a3ad671c3bc4b7c9f33c1f45f6de0659197a42496fb213b8a50c2d0ca5b9ec",
+      "meta.json": "ea6b59a55f54a8199099e29007499de93f5365cff49b2c4f3d383d55b1d513a1",
+      "red_lightning.png": "898d2d5154e48c8ac84dbe065c555af7e4a88c8921a5fb87ad77e9365e4e71ce"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/bloodcultprojectiles.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/bloodcultprojectiles.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/blob/master/icons/mob/actions/actions_cult.dmi ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "hand.png": "e2209c1d7e91c8f21f651af5cc0bb4102f6f3a917f5cbe1bbac4ecdc5108965d",
+      "meta.json": "6d5456b622820d6077142634a19218ef153834160777ea91e7ceebf33af36ead"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/creampie_64.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/creampie_64.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation at 0d9c9a8233dfc3fc55edc538955a761a6328bee0. creampie_moth by MilenVolf, creampie_arachnid by PixelTheKermit (Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "creampie_grimforged.png": "c65437e933af227df84fbc20e1e7c2297171c55739066b3ecf2756a561bfc6a1",
+      "meta.json": "51cce3b92d5db930c2dfb8ee66079164168ef939842477b1caf72bbac9eea7af"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/dragonspawn.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/dragonspawn.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by @Stagnation on frontier discord server",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "dragon.png": "f7515264888991ecff2299f85d925f7714b39477d369d503b035d4d77e86c529",
+      "meta.json": "0086500ce241a415f991b0dec5be678dae525bda5271899136ce36dbfea982fe"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/med_ssd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/med_ssd.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by dustylens (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "default0.png": "6fecb6d1dd875238881f673159b9ed9e0f42d5eed1577d7ad469bb0c68863c48",
+      "meta.json": "533f295abe76b96a81baad1377a5064ffd6f757c1afd73a9d8bef54ce5ca669d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/mobspawn.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/mobspawn.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by belay5 (discord), scrap bot sprite made by erhardsteinhauer (discord/github) using robot sprites taken from goonstation https://github.com/goonstation/goonstation/blob/master/icons/mob/robots.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "crab_bananium.png": "d47c227488807434111372594ac6f633d72688d738ca9bba6b15e51ccaf75b65",
+      "crab_coal.png": "636822dbdca050dd57c4e520fc7fc6f7b63d66143f52c6bdf0eeea1f422ddcb2",
+      "crab_gold.png": "45ec410a2ed505a2157650af79c730a3c844a0847baba043ca602b366527c58c",
+      "crab_plasma.png": "7e5d7b2b1dbf4abaa008e0bd2c06a08f6c2ed877a5241e777f29bb1ccd370431",
+      "crab_salt.png": "9baa76e14197f035e7bdb1defef70d45099315f9fb6db931f7595cac3353c572",
+      "golem.png": "6b51ddb3d8704d90327fa3c4ef00b16de6e3c036de08fe3caced8a752d47761e",
+      "meta.json": "625b31695e21ca2dc7b273603f2381ffb70a8019ab0fb4771261f5939e061403",
+      "scrapbot.png": "844b3665c6ec7df5185691de7704a3e1dfad5e7da958f8133dc0aed79feb9d48",
+      "scrapbot_laser.png": "1a020dc3d180cf5a576758d33590eead888487c4dec6929505889f8854dc8a86",
+      "scrapbot_threads.png": "707a35638875eae56e12c2aa9e9d1921491ffb9fa0ef211ad1a03631cfc17045",
+      "scrapbot_thrusters.png": "c32b7345f9f085e8c92fb5bb7426d9d29c4cf9f1bd8bfe72a17c7b781aa2957d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/speech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/speech.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Goblin speech bubble by ErhardSteinhauer, pal* taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24 and edited by Whatstone (Discord) | Mono goblin bubbles derivative of default0 and default3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "goblin0.png": "f1fd9b197329995fe3600218b1f38a4bd9f61f2f669cd6bbc560b9e807ff7ff6",
+      "goblin1.png": "fd20acac4d77964aeca2bcb73f49433b84fd8c04cb1a969b26f575d45d7c8be8",
+      "goblin2.png": "b564bd5d64bb0d97b9400b48b60423a45da8f0793a801ca98f342c8bc43f3011",
+      "meta.json": "72a0ea1770ba4a298e10cb023507ef20abf4b5d328d754eccbafa8df33e133b5",
+      "mono_goblin0.png": "41d3ce0de5aa3d8cc5daf99acd472c761d20d6a8805e796267ddfed7cba79aaf",
+      "mono_goblin3.png": "3ec52f9f672fbf8da2e1d3ac77ae48f6637cbfbc60a4424e469115a1c2a80762",
+      "pal0.png": "374846a285488f2d525592b52ea545b364f96211786452399cc581455574c788",
+      "pal1.png": "878180998cc388ac9c41f136ec41194d7875978dda03aba41b3006da2372ebf5",
+      "pal2.png": "3e68977ad93181f25db346afff8363959aa2eae8528705fdac64c6b53c39c092"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Effects/wet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Effects/wet.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by ErhardSteinhauer (github/discor) for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "f678cac914c0c1e35ee8891959bb8aae9d7db638aeae9a6e6fe2e134523a76a5",
+      "wet.png": "1e54ff1696c453eabdfac73ee9fb3bdef1e5b69e51d93ba6247ade291109fd62"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Faction/Clothing/Head/weedchurchbeanie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Faction/Clothing/Head/weedchurchbeanie.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "created by @terezi4real github",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "ea5dead5cb7b85a888996f9d2bd0750bdb480dc02fcd43b0091480cba988038a",
+      "icon.png": "681d2f4302035814afade98e43c22acea2c74e70e61b2ed8fa3af917ff5cb03b",
+      "inhand-left.png": "13b50b0c090679be8d2c8cf3c206ed8ab1d91411fc35c5d0343eec5c2f002eb0",
+      "inhand-right.png": "b9aa1721b797df2d2cb8dfde65f39dae684f39c80ff452479a82e757ca814ac8",
+      "meta.json": "9d13031e26b44c821b29e616f730b70450df8089d0ed3e8c9ae9e0e4a7c00812"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Faction/Clothing/Head/weedchurchbishop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Faction/Clothing/Head/weedchurchbishop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by @Everturning discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "077760e4e9ebecc2f3a35172a998efd8ca3f8ab78bb38abf353ded094eafb678",
+      "icon.png": "e57c867375d45e6d5cf3fead3d6d70f91c5fb829747fd221893470bbe9003b55",
+      "inhand-left.png": "7940e5b4f0adb4324c029163b6e0cc09e1bf5b09efbff44cf6bd6baaf13b03eb",
+      "inhand-right.png": "b32f399e21aaf31b9807b394f1d77e3814e66ab34325fa0158b87761902665b8",
+      "meta.json": "16b873a93f1606a6a0f7f0e329462fc6ae2d42cbcf38d692cdd72dacfec09c63"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Faction/Clothing/OuterClothing/weedchurchrobes.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Faction/Clothing/OuterClothing/weedchurchrobes.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @Everturning discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "945f2683ebac5897b0e8824fd32dc5792666aac30c145e3ec297978fffe12f02",
+      "icon.png": "8d5895eae771902688736c75fb1a2e4d7b04dec1d3e405ed59206fd8e56571cf",
+      "inhand-left.png": "08db33b65faf52b546bc4dd57a0fd91d54a6bb05a4382109db2370f50822d0d0",
+      "inhand-right.png": "6c81e55dec2abd66b218475b841f089769f9be8bf4fd0b1f629ed5ce4df4489b",
+      "meta.json": "2ae3481478ee193142523aa018d26f1bb9ea8d5a24021db956b1a498d785f831"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Faction/Objects/weejurnum.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Faction/Objects/weejurnum.rsi",
+    "category": "objects",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by @Everturning discord",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "bf9ea9abc22665bb0e3705716f82d6723802ae1f512df9672178a8d6b344af62",
+      "inhand-left.png": "973530daa11cc4ea394604bf98459353e123a76d57b5225f0ddf0d3c8e164114",
+      "inhand-right.png": "85124a705ba5d6dfb01b4d2bcac573779f6b8d7df012b73f7a84e214d983514e",
+      "meta.json": "fadce5625ad3dc7b5ec2b72d2b67a46d464606845b36105692f2ca45c903783c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Guidebook/large_icons/128x96.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Guidebook/large_icons/128x96.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sector_map by whatston3",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "4578b98a0d5a95f1e1f88b19acd050797d98a503c935db98bcead0bb8bb5ae36",
+      "sector_map.png": "ac3b76e7fb849217c30134ab08904a136b281eb8c12cb822309a2e2122255701"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Guidebook/shuttle_maps/128x96.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Guidebook/shuttle_maps/128x96.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "barge, eagle, hauler, phoenix, placebo, skipper, sparrow by Mygnol (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ambition.png": "574307c5a5813c97ea90943d24b8cc1127fdf0c6c897d6b6850211a161823441",
+      "apothecary.png": "06d70b9a6d1ba1b0b984f829e7dadd8dfa83a46721f7a188a2feb282996b758e",
+      "barge.png": "18f610821d44fc4b4a5e0a6c9d3f7d4abfcd1cb9601303cd468030c0c2b1acd8",
+      "bazaar.png": "3a5e04bbb569c00ddebaacac0452e802e44d6d054fbb9de943d37b26e7f48a0d",
+      "bocadillo.png": "92778c3ecb86a252ded522305a8e5017490cb2c678d343745213ff4c1492d2cf",
+      "brigand.png": "8e7c8fa93d546b5519a7a57c560f185a6300c3e1ff8d0131772d0de0963bee7c",
+      "bulker.png": "8f6963750ddded3d88251dc68e9a465f5da86cb2799f169ac1873a49093a4f65",
+      "ceres.png": "80c05e301235262f7539d22edfb436a021813dc19842898636cd505b942ef5c6",
+      "charon.png": "996d425a8e3ae6d732a3220465d03328ff0d2128410ce0a9a5f8bc66b6328494",
+      "chisel.png": "5946a8126e27b46067adf4a4624d5952e402327140742142c9f10686274b3972",
+      "comet.png": "cee53f3a5cca6574b182c8b4e29555b248ab772a641e54f3e57514a83be49637",
+      "construct.png": "027d971b1c2a7f5fce6ebfebcddc03282e5fc552feca1b0f866cea80b1c313a9",
+      "eagle.png": "fa0a2c78e1a55a3d7125e08ba4646997203869fa8f34684f684efd294d7b81eb",
+      "garden.png": "adb9fcc62f76fb1a4252e288c98b4771f49e92871c8ba504fde991f342e43dcd",
+      "gasbender.png": "ac4bc13db839846807197ef512cce393ab755a54550d8aeedca722e811ac0aab",
+      "harbormaster.png": "57e8a28251f7390523796fdd72cbdaac0f32d3dec6a6e1c52acd3acae0441abd",
+      "hauler.png": "7ef34e826725f435099ed2f549c7f9549cf1417d070e826602b3ee72c26d2009",
+      "honker.png": "7a9aab668679336b81c162d2570a84c11e3aa5d36b6d2a9f55d1dd6412a9215e",
+      "investigator.png": "97a891294f1bdc5927de0ec9fd8c190dd42591d61b7896ad9bb9fcc04f7edcde",
+      "kestrel.png": "4010344a1348d87eb91f634487cb04403e89d826b937925f599c35a488192ee7",
+      "kilderkin.png": "977cedd8d2145e9aec7662fe3749c926366419f64458c830d0192b0208b98af7",
+      "lantern.png": "bd7f3dece6b769745b25081130e8943a20797ea0d75c5d6b384d59966480a0f6",
+      "legman.png": "ecfae4fb9b20249d5f997f037275fd550ebd0edcc7d8fe12ee0ce010f6645019",
+      "liquidator.png": "913765a0d4e600109a932cc1cfa0d3c781c498a11c1b5a524878ee5c8a32347e",
+      "loader.png": "3a7f35cbe35d1c5bfb9104f081536eef98d3dc38858a60a274cecc3549b84880",
+      "meta.json": "7b5d0299f5d17359b4c69ea9fda4fed996ddcfce35187d54490679b105247d2e",
+      "pathfinder.png": "cd58993f42918a1bc5b2b2f9925dae707affeec9ed8136e9140dcca714af587b",
+      "phoenix.png": "f1f387e867fb88f52072877c4238b71ecd3ce4c725e750755b1640949f867303",
+      "pioneer.png": "181490f8f27a7ec1c0a3cf7d9ac52e5d277df41b60d26956ad86a4676c2102c4",
+      "placebo.png": "5b0359fe8e189e88fad927a0f585b8a3d611440e0fd66bc0b9d0ea8b6701334d",
+      "prospector.png": "91bbae04319596338ed4928aecbf9490d13e614fb557893afd6d77e47b4653fa",
+      "searchlight.png": "a471b9bc969ea1744af889aa0864765a9a57cf52ffa8d2e3140135b8145e0282",
+      "skipper.png": "180d78fb34f991c9c500effd5a0aec0afce54b61403614a32935110c17f81bcb",
+      "sparrow.png": "712c63e82d113668ed2bc5d8088958d1f20c29415d853da5089dbde2aebfc1ef",
+      "spirit.png": "861818dd5dc3b534befb97f2ea9754522bca5b5bf770f9dbb3fe548410675e12",
+      "stasis.png": "577368fc888431583bb448708c6a15b42606a4ccb65f158ec0ef9b62dac8b812",
+      "tide.png": "c245de54f0cee1d6b4e369f50bb0848d39e525b46efa6155c9bea9deb73e20f2",
+      "vagabond.png": "33bdc2921eef52dc63ce70824d390b1e0d0d659855591d67405c8e94bc8cec2d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Interface/icons.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Interface/icons.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/3d049e69fe71a0be2133005e65ea469135d648c8, ledger edited by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ledger.png": "dd65d7183393ee9cc3b629842f88b6164788a58f1e69de749132435b17a66b15",
+      "meta.json": "46c5e79f19bbc1cd8c2ec59749e1ca21cf5363ebc5ef412f96bbf8a54d829684"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Interface/Misc/cargo_destination_icons.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Interface/Misc/cargo_destination_icons.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by whatston3 (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "anomalous.png": "a32489a57295ce788d77fe630cb212e93e77127d81dba63ad5d9a95df512ec4b",
+      "beacon.png": "32be5e3461463e8404be044d9a823ac1ba8c5d69e8327a7b22d875bb67f0464b",
+      "cargo_a.png": "f45c9dc09579420891b68f78df363302941898942f85f9c9306bcd2634bebcb9",
+      "cargo_b.png": "97988fff0f1d2e0c3bf4118ffce9ae2553c6aa3c0d5c429fd9c2a79199e27904",
+      "cargo_c.png": "a011597fefa315eb14dcd0071247cb06546663a8c4ee378922c0dcb154c8c261",
+      "cargo_d.png": "34579d455f61da2ec53e67b504e3ae6406cc40539ef738c164c1d9ba9a428acd",
+      "cargo_e.png": "e69b9a5d0dc2eb8f21682a61fecd1488ab4b310fcc0a9bef4f57b944c1df2520",
+      "cargo_f.png": "2d37bb137cd819739d4bfe8d166f203cf8c9ee3eed762d9b1e16f3590a3b622d",
+      "cargo_g.png": "1d6f2f0a82df74939c3ddb183517ead468ccc7b83ccd6ad2df19bc77c0cfaede",
+      "cargo_h.png": "3a3294f106235d9abf9c5bdaeed9760cb2b06b813eddaba11148b44cc7bfd8cb",
+      "cargo_i.png": "72c51bcc180c455988cb27b963b52c99588f232d4ebdb07facd25ab2e415f1b4",
+      "cargo_j.png": "b321db306901729cc9d1bfdd853e11126d9f3a01dbfb22586e057c2573d57f98",
+      "cargo_k.png": "fd5ec754fee39498525b13bfa922325fc5ff604c6b314c031c6028f6f20c03f4",
+      "cargo_l.png": "7d0b4d30679a036660b542c9d9316c2039e42dbba77158c2f3b2ef492424f3e4",
+      "cargo_m.png": "9ec84452b3fc667491469e489921e72c86f879a6d45d7931d46a7f2624f9dd77",
+      "cargo_n.png": "046f0382bd842d1f42ca30443981aad80388ad2e74f61ac3897f058fa455750f",
+      "cargo_o.png": "c27df6cd278211e4995c6be59d32f8d751f0111d7539f5edd46985745d515d7d",
+      "cargo_other.png": "8586392958dbd8f4a10970431c9326dd4893c9e10778d4a5f1f7283b445af1bc",
+      "cargo_p.png": "8584c81a81141e78548c1833fbd9a0da154c951b3d157c612c42090e56971c05",
+      "cargo_priority_active.png": "b95fee55d65e1394fc6e5c02c47d72ed0605b8f4b53a5f97c3413916935b22c3",
+      "cargo_priority_inactive.png": "92fa58685aeeac8ef192703e26a0b6c974746e0e941096d3548c924b6eadca6f",
+      "cargo_q.png": "491b25150fcdec5ae980ec67e9aebbdec412141d7043be8b47c157f07f2843dc",
+      "cargo_r.png": "d75c1fbf63ca73e68b7f28e4a8be6e3d50c54beb0878e29ca5ea10f2dd93f80a",
+      "cargo_s.png": "cc84c3c5af62a7a70b9f049371eb09b4618688f7fafe91710b7e9be31b0a2232",
+      "cargo_t.png": "af0bdc50e1699d87e2a1346199be33984b00fb1dc36d8a9d8de6ccce341a5d16",
+      "cargo_u.png": "a2c8505da794b436c0a73bebb5c416ffb2ca397b5629c025557241d3afb98412",
+      "cargo_v.png": "9530ae4087bc48fc354ba0c1bc525ac14c3394e9cfc7eb65b34693555a4942a7",
+      "cargo_w.png": "cd2f159077b7dd8538fe896d3b6ca40ebfe3da055c0ad111f54f6a7a9d8f949e",
+      "cargo_x.png": "7287968d13d6fb72b7465b38ff3ef873dfcf949b1496f518dd6bd0a5a7c1701a",
+      "cargo_y.png": "c99482b4006484468addff232d127c93a96f35690046db5554a8de3796e6e3fd",
+      "cargo_z.png": "8a938fa3370df1dd71007c3f3442ae65e3555e3693977682555a124c8fadf15a",
+      "caseys.png": "2314fec1347f3802be82b08c6e855fc98769ea59aa51ff350f4a80fb1f2903da",
+      "courthouse.png": "82d9c899b3a50ffbe2c81db1777381453f8159d69408630abf60f11cf02831f3",
+      "edison.png": "25d10d0f88ad66ee778adfd7e30fda7e13e44f8cbb6abfcbca0716a063e1936c",
+      "frontier.png": "543f73a597f1757f6dcc7360cdae36ff31d288ff5bfb3e4f586941f5f59bcd96",
+      "lodge.png": "9f9303a06febc49dc4ddf22a6c90d2725d051d2e47df732330f813d68b16ed52",
+      "mchobo.png": "ada8e53a97c7b4bb5d413dc5643088344c30232e30ee2f928c66100ff7a25b66",
+      "medical_poi.png": "9e541d21ffb2ea23913855d582c73e69593f1e2baa4c28af1f36d1280dfedd59",
+      "meta.json": "6da3b94a1d2e1e2b3ff81c81425d4472569b4e05c0ab5f0601be81fe047c3a20",
+      "prison.png": "e850d6ed086a6c3e594d998f1be475ebf34bfc311078c4bf86f0c7c865207706",
+      "tinnias.png": "ab217ca83bdfef0d28286d55baa0d368ce07389540eca96d4532c25eb9181e2f",
+      "trade.png": "d2db8bfa13f3b611c984c46b2e6d9d3fd3700103cdb6241463ee76736bd80e2e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Interface/Misc/job_icons.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Interface/Misc/job_icons.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/blob/e71d6c4fba5a51f99b81c295dcaec4fc2f58fb19/icons/mob/screen1.dmi | Mercenary and Pilot icons made by erhardsteinhauer (discord). Pirate icons by _starch_ (discord).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "contractor.png": "22b3d3d94fa275e254b27ca43b6de2373d049ad7d79fbb4e1d96eafe716ae388",
+      "mailcarrier.png": "40ce5b39a4941e380b52efdf8baf0f32c1d3055ddd8bdebfffd617e8b0075264",
+      "mercenary.png": "d5e2870e32d9654c8ef7965e27b5dfcab9eae16156c5d6d3847e71f14a86cdcb",
+      "meta.json": "2930f2ab386d2545caa750a28cf96c3a491440a64efb3952172880decbbabf53",
+      "nfmsdoc.png": "e83b10edbe06c29bc2cde64e6d2bec97a64aa8ce9a52608391181bbf9db1488a",
+      "nfsdbailiff.png": "32d731856945c8f256011ea19ee90c90f61216acdd4dade0b3ef3e730e5af476",
+      "nfsdbrigmed.png": "d28159a9296424e61c8b7e3bc87848d3b9b2eb430dd6a2922dcdae1789940629",
+      "nfsdcadet.png": "2a1111a5a6931184431d2886f876fd51b0ced611c748b0f9221a1dfc2897b7c0",
+      "nfsddeputy.png": "e5f593e4a0668da270ea3f0de2f1217695ecfa86e9ac08c850c7bda8b8f5fef5",
+      "nfsddetective.png": "c21933bcd8cba3c7ea0a5685589c1125f45beb0d5a3267ddf270ef9d17231868",
+      "nfsdsergeant.png": "86bd55b0302cae414df9855ce6f632f281cafba2ceb4134e8ee237484af0d372",
+      "nfsdsheriff.png": "c998b5fb253c843f5c4775575b312f3352e9968a484ee1661bfd7e5a2ff40ec9",
+      "pilot.png": "bdde1d7b32c06e15fffede6a50745016328b50f47de85d27c94c3cdfd566cde7",
+      "pirate.png": "e6b48f7af6da0d3bfda3d1bba90b7a4fb4fa4aca80e54868368259c5e2b5a3cd",
+      "piratecaptain.png": "ac7492deb7800fbc8432897da4de6fbb962d9fc116af4f6feb4acc5efdeb99a1",
+      "piratefirstmate.png": "40e5daddfe31deca0a542d6094caaa4c8bc1be2c7a9f2e6d0af935f8da664ef8",
+      "publicaffairsliaison.png": "aa6db7eae3b8101734f1474c34758c19002539fa80065d1993520145fd651bdb",
+      "stationtrafficcontroller.png": "b704d23d3930940e48e8bb526715823700e92633519a06a218e622919f8d0296",
+      "valet.png": "7e5e9e7b08faf0f5e6167e4d74857a8c6dcbf86cef4e08c326f18ea5bde6a3f5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Markers/general.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Markers/general.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a879151ef04192ae2a791278ee882c1bce7c5062, cola and any sprite modified by potato1234x (github) for ss14, cut question mark from any.png by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "ce5c725d6e890ea33ebbf25648cae68abc62423d7f6369d5a1abb0c1c2570ed1",
+      "questionmark.png": "3ed9eab1934cac0675896e04a10674073cf29e103ba76386c812900dd0722423"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Markers/jobs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Markers/jobs.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by dvir001 (GitHub), Pilot&ERT Mail Carrier marker made by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ertmailcarrier.png": "62e20c7cf46f004565611c55240db1ddf3706e4ea3d10eeee390e5bfc722fab6",
+      "ertmailcarriereva.png": "40831b9c75db5418eafb28909b95381f41d5b3eb772d54d9b6e6e0184e9ebbf4",
+      "green.png": "3382ff4f5b6b4536f28b3febd49ad3710910cbcb54715f6d1d6d4f13d976a3a9",
+      "medic.png": "835ffbb5df82638e072b7129d705ece7029096cde142704fc4aab51114a81dd1",
+      "mercenary.png": "d9cab4937e73dce99e0e3b8ddf6660ffb9eb834a3c455e532eed112fbcfa9135",
+      "meta.json": "9f0847e608c78c4a8ca2036b055a7720cd74aec8b7b69d19c63a01cc1a7bf841",
+      "pilot.png": "31fa006a5bec26e077bb57718662926811b262457ab89110a874bef4897d61c4",
+      "securityguard.png": "82819c7fb11fc07f558c9ca4152a26a5670607ac94bbc76fe91e4c6eef4d94f4",
+      "stc.png": "400611d80b1a15ac4363fb4e1da42ac74c3225df05f89fd0a154ae3fd463b2da"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Markers/pacifiedzone.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Markers/pacifiedzone.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by BeatusCrow(github/discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "8678f96636b02089274767fc66cbb38f02ecf1eac10355286147c8f047039545",
+      "pacified_zone.png": "163882f9e591ae1653d1d42b782f8bf052359cdd9eca8266ff3522db29c434bb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/argocyte.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/argocyte.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sprites created by aleksh (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "8b4cb3c2007f45debc72edef8fe81153ba7c72046d0aa3a8ca9b23a02f162d16",
+      "unshaded.png": "67da6014f6b5681dcd880fe88d41cb6e68b226179cdde838678401d2f79b3ca0"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/Carps/holo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/Carps/holo.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/b143783881fb7418213026857cb8c569636e259e#diff-8dd94e19fdb2ff341b57e31bce101298, edited 'alive' to create 'crit' and 'dead' states | erhardsteinhauer edited mouth from regular carp to create holo carp unshaded mouth ",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alive.png": "7749bfa8e7f9ad05295ead5ea38b047a92c2fa77d51f73ae582a0817d12a285b",
+      "dead.png": "4e0d6ba1cccb0964bbd477e063731601df3adaf7a472d0f0651323bdd3d3c29d",
+      "dead_mouth.png": "dcdb5774443921fdce877f08f29e4b78577ff3f60cc238ada8307f1add14e700",
+      "icon.png": "d45ffbdedcdeaa6a648f003d3a93128c0aeca06168adfb7e583c057d23aeb336",
+      "meta.json": "ef30909d3a111c65189871e3c8b0dc979039434c36415a881daf54b3f67a63dc",
+      "mouth.png": "810cf839969a6f0fe034f15644b7a838db7664b8e6b231d8872969df9c5b2849"
+    },
+    "replaces": [
+      "Mobs/Aliens/Carps/holo.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/Carps/magic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/Carps/magic.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/commit/d3d351dea8d9420cee47514843a02158d0a7266f#diff-8dd94e19fdb2ff341b57e31bce101298, edited 'dead' to create 'crit' and 'dead' states",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "alive.png": "8c709fe4fe8031e013d263ac8061a764ba0ef9251526d72917e734fa6b0a33b7",
+      "dead.png": "663cbbddfe3e2dc415be8aae5df2cfaf663a951cdc2aa921eac14f7e63f83009",
+      "dead_mouth.png": "36504b045fbe69e358a0dce883d0789069aa174575809a810121ec7bde8b8631",
+      "gib.png": "d5571c3cd1a9086ad3fd4f43478ae07b59559bd8f92ed716aef245e00765de91",
+      "icon.png": "f2265ed6fec2a443c9b1b5acdc39324b0e81b0602dab4c4ad0b95be9e7ec2973",
+      "meta.json": "6a060ea60b7fa7662517caf3a0f7b524112445bb41baddb2c8f90f70531d2d25",
+      "mouth.png": "ea48340b4698410755e2293696a72d915823f84ec2c4507305cda023dcc07e3d"
+    },
+    "replaces": [
+      "Mobs/Aliens/Carps/magic.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/flesh_assimilated_miner.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/flesh_assimilated_miner.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Bashed together from ss14 spationaut suit and jared flesh monster by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "d74db816473e6a90a48775dc384848960ccdddb3389493050f30632941040c98",
+      "base_unshaded.png": "c7900a66df159ba146b763802bff7685578592784cadfb84b570e5debb0cb912",
+      "crit.png": "7cf56dd1ec7ae8c2ea70f6f9fa80e60ab9ab48f8f0a0e3ce668496bc79b1cd77",
+      "crit_unshaded.png": "e0dd6f596d7d1a53489917eea1c089c8e895bc99fb981cbd5f2dd57d6290dbe2",
+      "dead.png": "7cf56dd1ec7ae8c2ea70f6f9fa80e60ab9ab48f8f0a0e3ce668496bc79b1cd77",
+      "dead_unshaded.png": "2730ffa644ae3bcd52533b3c6e101d886c1f8a32c8c2a4c0c045ea3b0c90b5e1",
+      "meta.json": "633043d146052a88fdd4eafc0cececbff5c96084077510ea801da1dc2ec8c354"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/flesh.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/flesh.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Clamp, dead, golem, golem2, jared sprites made by wax391 (discord); maw sprite based on wax391 work, edited by erhardsteinhauer; horror taken from tgstation https://github.com/tgstation/tgstation/blob/master/icons/mob/simple/mob.dmi recolored and resprited by erhardsteinhauer; lover created by EmoGarbage404 (github) for space-station-14 (credit to Aleksh#7552 (discord) for original concepts and designs) resprited and rudimentary animated by erhardsteinhauer; spike sprites made by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "clamp.png": "ef2a1cfeb068f1f43029f8ce0f85d9600041765be97e8fa7aebba08b6241c2d8",
+      "dead.png": "6e749ea78354ffd3cb9eff497c21caa88fa777d418c138113f831a719d5e4a06",
+      "golem.png": "9c42899fbc8ad1af37e7c4d068ed5ec800847cb4e2c9bd85c938e024446774ca",
+      "golem2.png": "9f5a5001af9c7708b170ff64c616e007368e917f29371b868438171f2af6b991",
+      "horror.png": "1c9ddb24c6a0c22dad130fdb5ff01aa93984bbeecce1ac37e24a2aa3c634b4ba",
+      "jared.png": "83bcc82b9ef505a9ddafde7ec84860462fe8df56baa06105b982eace797eea15",
+      "lover.png": "c3a4c026a51cfeaf9bbe0965ff1634d7ed8e0027d71f3c353c1d9909bab98ff9",
+      "maw.png": "172592530ab1fbe03d9047ecbb94bb3d5b89043bd3dfbaf00fec7c8643340a8e",
+      "meta.json": "0413701545753ca3a64168df64961baa2be7f2f7f70a3ec3f3db5d70d85759f2",
+      "spike.png": "d4c3ad1cb6a4ad94512c39e7ed754d8993fb02de4294123179b65320a992b89b",
+      "spikeSolution1.png": "1e4477cbfa35eb68c61ba0836fa464d514836418476f0c20bb24b8e2848ddb72"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/grim_forged.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/grim_forged.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by GreaseMonk for frontier-station-14, credit to MatthewBadger (discord) for original concepts and designs",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dead.png": "04587c579cdb8d2c7b4d7555dd4add2f82c36abb3a04f175c289b87284b1d27d",
+      "flash.png": "8153c468fbea447f828ff5610d1842bafde5f1e7dd68c1e921d168d957035467",
+      "meta.json": "33925b3ec9dae3d8ef765e069fd0d5183bbbe49ce76fe9bc593409b494d8553e",
+      "move.png": "0ae717c1b1ea66c105c46b0a1eaa329ad8d96fd629afca1bbbbf31e85645b053",
+      "off.png": "625ab6358f4796f21b59a0c32fe2612e6aec41db5ebcc3e6e66d4befed253e5e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Aliens/snake.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Aliens/snake.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From user named CAROU in Discord | Split into layers and grayscaled by ErhardSteinhauer (duscord/Github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "alive.png": "cb059aee2e16fa47706d0ebd5b96354c9bdbac1e4f977dde46f00fae8d5bbe77",
+      "dead.png": "9773dffc5e9933dde4f8613e72cec7ccd4b4ab8113041e720826d3b11f9e365f",
+      "dead_mouth.png": "c2f86dff81799526dd59beed305e0b7eaf1b52fb499659bdf42f8342fc447b0d",
+      "icon.png": "5d052c624f2cf4d93eab69207fd37c61d082c558decbc68065590bdb5c28776f",
+      "meta.json": "2370b4bfd61516b5097e783ecc37251d3444dbfcc8433754a749f354364927c9",
+      "mouth.png": "3c23fdea9cc15ca5b81851c7a635bddf24f004450fe11717eb23fcdff73f64f1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Animals/rosy_mothroach.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Animals/rosy_mothroach.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fulpstation at https://github.com/fulpstation/fulpstation/commit/edb232b692ec9f356ec554ea1971da552b9bc447, edited by Whatstone (Discord). 'mothroach-moving' by MilenVolf, edited by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "0-equipped-HELMET.png": "f7751e6346161eb8ce42a855c391b23ea2aadc2cfbc048081df8c6798ffb4b75",
+      "icon.png": "f24ee05bf0b09e5529b27ebd612ea937d73a2c684c8596830dd2007d7fac4e66",
+      "inhand-left.png": "b6fc37606f906b828a2631acea299da40e649a1a156beea59d3af7a361053af3",
+      "inhand-right.png": "ea0f370756c2047402230b510fcb2a011c322a6d2af61986d8f257535436d99a",
+      "meta.json": "c169a4178eccfaed7b6d18d88d69a2a4218b7ebdf2cd85cc828886704ff963ef",
+      "mothroach-moving.png": "963c309b55552ccb2db0e42df3f63c5f87d4a45ad4ec80d12ac051453ee5cde3",
+      "mothroach.png": "d553d126fb6c04b3c81a978c89f8e17c1ac8f470cf49dd0bce3e39d6be37cee4",
+      "mothroach_dead.png": "a3dfa0aaf0033d991fdd9c1c0fe0b4a5b8884f7dd93ce98f03acfaaf1a048023",
+      "mothroach_lazy.png": "fee36d9f444bdcac16b5f78fe5016dfed0c2fb5adf0cb17859a040dec7ed2553",
+      "mothroach_sleep.png": "34f31eb39cb5ae05ecfb0495df81fb9fbad3fd5fd9c8ec8a2070443766fe6b7c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/BloodCult/ascended_cultist.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/BloodCult/ascended_cultist.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sprite taken from Tgstation (https://github.com/tgstation/tgstation/blob/master/icons/mob/simple/icemoon/icemoon_monsters.dmi) | Unshaded, dead and crit states made by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "ascended_cultist.png": "3eb9a58c318a19d69099389f48dbcd2500f3ae7aad05dec87ec87c61e9f3680c",
+      "ascended_cultist_unshaded.png": "717c0d131fe5674d171d454a5c8ea39869911582ae69566d3689023d434e5f29",
+      "crit.png": "92575ab263c9e21621a0ea2026194f2cbac919b12df816677eceab489e45e9ca",
+      "crit_unshaded.png": "335c8098067a84ee5a6422133e8fe7f993da6589577e7e06dc3718c4f93dc3b1",
+      "dead.png": "8c2e8b3c754cea385cda624b0077f9f205d1f65dc63378aea2087cbd2b189f39",
+      "dead_unshaded.png": "7fb9f566d20bd42dd31794544a077eacdfedc3bd722aaa965d1439544503c367",
+      "meta.json": "01e17a8377dc090c8294c7707eaf19ba7d191506821da14617204f776e4ad37a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/BloodCult/bloodcultleech.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/BloodCult/bloodcultleech.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited (bashed together) for SS14 New Frontier by erhardsteinhauer (discord), Based on abomination (https://github.com/space-wizards/space-station-14/tree/master/Resources/Textures/Mobs/Demons/abomination.rsi), goliath tentacle (https://github.com/tgstation/tgstation/blob/master/icons/mob/simple/lavaland/lavaland_monsters.dmi) and cult armor (https://github.com/tgstation/tgstation/blob/master/icons/obj/clothing/suits/armor.dmi)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "crit.png": "e2f7742cca37edffbcc54b3296f1155aad8c4737341f06c6a696bf0ad5e9d1b2",
+      "dead.png": "3bdf34b63082d1825a9873c7177136f146fbe037d3a27d72a5f3c08e7356ee3a",
+      "leech.png": "687680000de7e796e128175165b6a57100d625184c01d35d30183946797d5f6c",
+      "meta.json": "5f82addc73175268b097886085c49439ddc65222e88be225dce2ccd28b27d54a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/BloodCult/drainedone.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/BloodCult/drainedone.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by erhardsteinhauer (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "drained.png": "2a93f5392e02389e7cbe8ccbc438f20f897949a859a240e274db55854fedb0e1",
+      "icon.png": "3239cd45f218a410ec7cb904e7cacc1484b89296806edf27d9570a05767e6fa6",
+      "meta.json": "7aa7abf05570993e4a2f2e58ea503ddbadfb6394548c71f77643cd9b22e9e29d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/BloodCult/shade.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/BloodCult/shade.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sprite taken from nebula station (A general purpose SS13/Baystation12 fork) https://github.com/NebulaSS13/Nebula/blob/dev/icons/mob/simple_animal/shade.dmi | sprite for crit state made by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "crit.png": "51fb9984facbec8de9dbcfea9ffca3593f4a2514edfaa840528ab606323c4add",
+      "dead.png": "f428b409117c0766b5eb69d4977efd91a8b0e095148ef22df5ea3c2270946abf",
+      "meta.json": "1ebc5ab3a00672b5410b7071d480f6e9e21a9185c0b7fc26230502776a65d591",
+      "shade.png": "63c972010993866569473ed11fb9d0d76d97e008dd9c451dff764503f1fca62a",
+      "unshaded.png": "b8c5e553f80cc674d5ab99fa646d3d6c4770aa8d56e752156fd47e300007edd4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Customization/goblin_ears.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Customization/goblin_ears.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Sprited by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "goblin_ears_default.png": "e03d454d773361b5516d7886cbc48d75cdb55fefd718e4b414fc339c0352da85",
+      "goblin_ears_default_alt.png": "29ed5b968d8bf92c3ca0c51bf4f89456fc39e2aa883efa3306c6596136b90fbc",
+      "goblin_ears_long_01.png": "ee63fd5ab1b230f2d275251c653b4accd985156590d2f64e6192742b73f0c367",
+      "goblin_ears_long_02.png": "2a72449e8daadbc0d01a245ee077e1b69ea6001eafbd8fcee3d8fa977b7bbef6",
+      "meta.json": "74810fc354358032b84e7f4fc375483549d5b69aec01089cecf11aa825cc9f7a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Customization/goblin_noses.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Customization/goblin_noses.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Sprited by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "goblin_nose_crooked.png": "be1ec2c8e3ab73d0d2670825ea5d471581a7a80d89825f2e5c6933bafedb4e41",
+      "goblin_nose_default.png": "c90db93aa7f39b8a7150285d144b7c96fb608aeb6d43f3b380cbb813f14e7e7a",
+      "goblin_nose_long.png": "20a26ea5f4b718233ee2b1b04a4d9f360d1faec4cdd03c9f867873ea9c80d344",
+      "meta.json": "6addc9e9bb01d329a6c8a7824e714e44e155d88a4b9b18d3949de52e5b6db2ac"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Customization/goblin_tusks.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Customization/goblin_tusks.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Sprited by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "goblin_tusks_big.png": "59a5e8add243ff258b116b0b6057ffa73fb76647089ac7071bf4f336b989f95e",
+      "goblin_tusks_none.png": "c679cdf6a47b65588370eca17b39b01e443f6e14d55055eb5fe9b75ce23b2455",
+      "goblin_tusks_small.png": "38edbfca747d47ac8b8648ae9b01563ab254ff2141196b66b3201b4caa4a2c10",
+      "meta.json": "9ff3539011382ac3bafdf699831c58b403207aebe15c77ec06fa704030e6405d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/anki.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/anki.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "anki.png": "30b26ef4f6cd719d9a2978e47098b8420538c3f484803d2eeaa9164f39ccbde5",
+      "anki_dead.png": "50fd919aad1093821ed15cc72228b045570ad609b2c07bda22e2683df1173602",
+      "meta.json": "8d1eb87551085b13cd58c28273881cb35951f3a46cb856690bcca57d087add03"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/compy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/compy.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "compy.png": "b4ca7bb87dee95be5c1ea82015873e79a6a11f62d3dde891f28837276add0363",
+      "compy_dead.png": "2674cdaeb7c84a481f32c66b1ace14ecbd425467a466a2576163930ce6d9b0c0",
+      "meta.json": "59db7abe38445b7d12e6a1a12e98eb4d586e4048ff6e4378ee527cb713ad10ff"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/dilo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/dilo.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "dilo.png": "2d0280e74961f606bc095067c0231fe4ff51edaa48fe3a5aac491debbb883724",
+      "dilo_dead.png": "98143c445b2fe347d7b028c36a6583e2eb68b7d0e5291a3a8449154283f7fddf",
+      "meta.json": "6969e46b8ea9e789152a856c4c780b39c40730c1f3bfbae67bb4b8151632022f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/kentro.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/kentro.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "kentro.png": "868671b9450ed79f14e3fa61a9889a4e6fcfb15755f3fa698f472ff7e3250e93",
+      "kentro_dead.png": "1d85e3b7efde8123fe97e9cbe803288939f4a2322d0b75e7f7063d48d32fd923",
+      "meta.json": "3afb869777a099424a25c07bd4f1681bce5cd201876546b2f0f3d24be6494b7b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/para.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/para.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "adc3cdcda4016fc2da784cb3ec183c7a6ade6ad2b21a606b5d6844042ec9831d",
+      "para.png": "c22f04c9cfa34702400d5fb28defe2254e72945b9b2736fd98c5b5f6384d014d",
+      "para_dead.png": "b73329fb3be72c82fe51bc80b9923e2f1f1f994f1185257c2b8a19310d91616c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/raptor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/raptor.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "956ba515fdfabe516fbdfb741a5d3a43debf25741716305540a180a30e60645a",
+      "raptor.png": "3ffc4498427dbb0c73bf58071dcb1053c930e7214aed1e301a69cccfa70d593f",
+      "raptor_dead.png": "11071c5a5b798577cb54bcdc1769d17001233bb8ce728ed418f5dc73bcf0d942"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/spino.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/spino.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "8553f340a2d0b84fc8135c3251909e68b1f5645c2f0e5cd11d237311a4b517f0",
+      "spino.png": "db0c5dcb1230eb0ff887241301bf2e0a61d966889670e74de09ec7babb8eadff",
+      "spino_dead.png": "c8db8e6efd708a9a434da0771fe47f3b536b055529580482018706104df09665"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/stego.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/stego.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "68881700ca7e0ef7b03019d050c3ca0ac1c8856f18e0260d3b9767d7c0958749",
+      "stego.png": "0827d8ab1b53276724360b512f3a0f50232a5673051dcc5ac6c0bfde8b5b9864",
+      "stego_dead.png": "c2c5581ab85c7599e37b6d01d9d89570bd65ff08b7bd85d72a34d8b2aa5acf54"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/trex.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/trex.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "8da5d60f7cb89915ddb02a3af5be930d144ffc6a208f9c6323c3b56b046af322",
+      "trex.png": "4f2cdcdd5fea4914e7e3a60e80fb4b25cd71d852de103454f06e0bda4b6405af",
+      "trex_dead.png": "c0f7a41dfb207966b3874cc2ff9a86f178052e51f4d104159c2cac68784a059e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Dinosaurs/trike.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Dinosaurs/trike.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by belay5 (discord) for Space Station 14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "e5b110a5418a355dfcb80475913eefe62a1d4193d1905dc86dfdedaeb6adc640",
+      "trike.png": "40b5e90dc7b759104daa6a774638a113984e2c68e21d0c1e645b916d8a0f2c1a",
+      "trike_dead.png": "2ff24715c224bd514de3f29c27422beb42e692b929013243641fc3edfea05543"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Elemental/golems.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Elemental/golems.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from CEV-Eris commit 880e1a48125c971487ff4c79d0fd6aa4977795c2",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bananium_golem.png": "2ffee48d7e921d4b6341a8acb9582a26b6bda549563d4ab48329916800bcee6b",
+      "coal_golem.png": "48c6360367ef913ebf37210ae846e5c283a44e05cc2e6b3418f73d71de4c61a1",
+      "gold_golem.png": "3615b216c073cee5b01364eed1ed38f13ed828606582f2c534d1e67c9be4b4ee",
+      "iron_golem.png": "f59ff5c395cb4d922d3f1a66dffb1467164cde8aeb4aec4d09e44ff920384314",
+      "meta.json": "428b67d336f9a77c03ec310e945a5e43b9e5525c85da75502d417a79da2dc08b",
+      "plasma_golem.png": "feae182a569d73fc2fb4f900cf4e000be7f3e738430d14b02e2433e960f9fe6e",
+      "quartz_golem.png": "563527e597badd1c65f9c0563833c7832012ed4deb34230350f357d7bd28e029",
+      "salt_golem.png": "12ad1b6cda8e1c723afbe453ee59e2f8c6ddb10db3d4eef9e8350ab919cc1120",
+      "silver_golem.png": "9ec05219eb9b1030714f8b4c714dfba4aae26eb3f7a7d138966f7b85f64cdd12",
+      "uranium_golem.png": "7aea05d06ff35ee67e61683bc5055bb0071c14bc1a99387adf636d505c2e7fc8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Mobs/Elemental/orecrab.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Mobs/Elemental/orecrab.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by belay5 (discord 677967153139548202)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "bananium_crab.png": "164a76bcd366be87a4d6b0ae5b56cb8169237dfe75aebaf58460dc4b147a9a6b",
+      "coal_crab.png": "ff6522ca3c2971bcea416080edc14cd55cc28e7b60e583549e4f436e07f59241",
+      "gold_crab.png": "ec94385bb8dbb7dfccec80faa1e445d0f7a075aceb936755ccd781ff2661f1be",
+      "meta.json": "cefe504623746cafe5ef1d12e6327b45257fef29667b59f189bab446c4214207",
+      "plasma_crab.png": "bfdc348b9c605b1a8008d6ffcfabeedef7f8c143c1d6249449f07ce2e1ad7fc1",
+      "salt_crab.png": "a2981522951fd837b54d5671b7c6d5f7c1bec6091f7c4febc9b0f0a600cc23c4"
+    },
+    "replaces": []
+  }
+]

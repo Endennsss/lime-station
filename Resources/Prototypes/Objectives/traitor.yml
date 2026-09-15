@@ -56,7 +56,7 @@
   - type: Objective
     difficulty: 0.5
     icon:
-      sprite: Mobs/Ghosts/ghost_human.rsi
+      sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: icon
   - type: ObjectiveBlacklistRequirement
     blacklist:

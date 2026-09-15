@@ -79,7 +79,7 @@
   description: The start of your personal GHOST GANG!
   components:
   - type: Sprite
-    sprite: Mobs/Ghosts/ghost_human.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
     noRot: true
   - type: Item

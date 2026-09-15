@@ -14,7 +14,7 @@
       types:
         Heat: 10
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: fireball
       shader: unshaded
@@ -42,7 +42,7 @@
     radius: 3.0
     energy: 5.0
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: fireball
       shader: unshaded
@@ -165,7 +165,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: spell
       color: '#00FF00'
@@ -217,7 +217,7 @@
   description: Nooo, I don't wanna be door!
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: spell
       color: brown
@@ -238,7 +238,7 @@
   description: I COMMAND YOU TO LIVE!
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Projectiles/magic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Weapons/Guns/Projectiles/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: spell
       color: white

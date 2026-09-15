@@ -628,7 +628,7 @@
       - ReagentId: Allicin
         Quantity: 4
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/garlic.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/garlic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Produce
     plantId: GarlicPlants
   - type: Tag
@@ -1202,7 +1202,7 @@
     - Corn
     - Vegetable
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/corn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Produce
     plantId: CornPlants
   - type: Extractable
@@ -1226,7 +1226,7 @@
   description: Not a dang kernel left.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/corn.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/corn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: cob
   - type: Item
     size: Tiny
@@ -1550,7 +1550,7 @@
       - ReagentId: Bicaridine
         Quantity: 10
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/poppy.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/poppy.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Produce
     plantId: PoppyPlants
   - type: Extractable
@@ -1580,7 +1580,7 @@
       - ReagentId: Bicaridine
         Quantity: 10
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/lily.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/lily.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Produce
     plantId: LilyPlants
   - type: Extractable
@@ -1953,7 +1953,7 @@
   parent: ProduceBaseRuminant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/soybeans.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/soybeans.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Solution
     solution:
       reagents:
@@ -2017,7 +2017,7 @@
   parent: ProduceBaseRuminant
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/koibean.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/koibean.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Solution
     solution:
       reagents:
@@ -2650,7 +2650,7 @@
       - ReagentId: Vitamin
         Quantity: 3.5
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/cherry.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Produce
     plantId: CherryPlants
   - type: Extractable
@@ -2672,10 +2672,10 @@
   id: TrashCherryPit
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/cherry.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: pit
   - type: Item
-    sprite: Objects/Specific/Hydroponics/cherry.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/cherry.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     heldPrefix: pit
     size: Tiny
   - type: Tag

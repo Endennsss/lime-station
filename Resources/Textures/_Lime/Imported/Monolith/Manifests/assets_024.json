@@ -1,0 +1,933 @@
+[
+  {
+    "source": "Resources/Textures/_NF/Clothing/Head/Hoods/mccargocrown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Head/Hoods/mccargocrown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by gentlebutter",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "11cdbce3af5acf61318d8ebda1f23abf875f258a1d572399fd947aca425a04f0",
+      "icon.png": "54da933b85b71420886258eaa03c3563c4fc4d4075708dd92ea2779fc2784726",
+      "inhand-left.png": "07fc5ebe6b18f4b5b1f66313e77dc739e961c0a18ee5872719e96781c780068e",
+      "inhand-right.png": "066a332a2078850407d48e80a80ea7ec98ff9bdc989f6a8f56e35d9f32c7cd8d",
+      "meta.json": "15d9d024c1d6b922a8d61113fe423051548a446200aadedd76336a85a55dfc1d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Head/Hoods/rosy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Head/Hoods/rosy.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprites by gentlebutter (discord), edited by dustylens(github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-HELMET.png": "1e373ed5095f34079a23354d4092d23d2bf103e0778c35411932991bceed1e66",
+      "icon.png": "7760cf0c70678debdc9fd6ce1b889b625cb58efa8699e2fe735a5700f1a8cb71",
+      "meta.json": "76a63b71e8aa350d92dd95f2a1886da5c79e66d66da8564834e96355a893fb3a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Head/Misc/pwig.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Head/Misc/pwig.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, equipped-HELMET edited by whatstone",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-HELMET.png": "1fea21022445150512c1e34e7d2b051f6c17eb25ae76b5db5fc31bbc062edca8",
+      "icon.png": "b826d9a9d779a3080e4cad87fd32681a24567589c88cb3f6af62c262da5dcac2",
+      "inhand-left.png": "1a5a91b16ba7ba85e541cca6a7bf1ba7bbdd23d02058f4f87bc3fe736d230e0c",
+      "inhand-right.png": "f184f3cf8a18e8723d9b26b90679f4f78d430e6b75a8f2b07b4000ee374523f8",
+      "meta.json": "9589678a373add1cf9ecd96e0bf5c4ce8be2fd0e73c41c0cea06d3ee7d3a36f3"
+    },
+    "replaces": [
+      "Clothing/Head/Misc/pwig.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/arcadia.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/arcadia.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Nimfar11 (GitHub) for Space Station 14 | Modified by AjexRose for NewFrontier",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK.png": "44687ae65ab8d0003b13f8cd96e7fe0890971b9801d874afd1d41fcc43c9ead2",
+      "icon.png": "f592f78f5d35a30f79e54bc48cc891629e31374259cbf6328d219514da73ceb0",
+      "inhand-left.png": "692ea7288d403fccebc7cf776978305cb57c2438798ba0d121ffc490c4043e47",
+      "inhand-right.png": "7dd6fb5e53f32f7a8109166c1eab0c9445e7a0d29e79910f78eadd467a2a24a2",
+      "meta.json": "410bf6ce831e0d6457ec805699a1ee3b9f8284a7b469313338f7873db7d14da4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/clown_bald.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/clown_bald.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Reptilian edit by Nairod(Github). equipped-MASK-vox state taken from /vg/station at commit https://github.com/vgstation-coders/vgstation13/commit/4638130fab5ff0e9faa220688811349d3297a33e and slightly modified by Flareguy, vulp sprites edited by YERO",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-hamster.png": "207f4b5fffbe4ab444073cac08d976d2da2b764d095ccf1c28a6e570adf48e0f",
+      "equipped-MASK-reptilian.png": "bd0e50895925ee3842055f1ec0da5d5b136962e4535b2407307e00d6ea7b8a90",
+      "equipped-MASK-vox.png": "88efb47335d3780ae6cecf57772b958921dbc18970b1ecddc6aad84bf39a9bab",
+      "equipped-MASK-vulpkanin.png": "167d7efd94ae6c576775c314b72670f865524c26aa61a6dd3ec57e4f35cb7743",
+      "equipped-MASK.png": "a8f708980339209ee415eb6a8312285b2d3e5c33c9a24ef2f35dfc56d22635de",
+      "icon.png": "85e46fb09457efa85d9f7003b75802f300244671ae01f272cf2c6399c36f66a6",
+      "meta.json": "dc2121e23e82e95032f5693afa5bc3b88150b11b6ddd332febca1e4de32c004b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/cult_janitor_mask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/cult_janitor_mask.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGstation github https://github.com/tgstation/tgstation/commit/e89db4dd4f42377b0adafb06806a763314a89034 , edited by Alekshhh, recolored for New Frontier by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK.png": "4239ad293b58634a065a46d4db3f5ec2db681cb33c690c6effa745174cf13cef",
+      "icon.png": "66eae98d43fabe4745ee2f6ca4816e4615d2b86d371e2d370dc1308acf263a56",
+      "inhand-left.png": "019a73ef1fe414a0922ee258534daeb94944c4c964695fea08ff790d36c66e7e",
+      "inhand-right.png": "4c56c8e6f02fce8cce3e4a68ed4a4156ce2f21f7b7bcc61030037934d75935ad",
+      "meta.json": "a4091ee05ee267afe943c77bc29d8a44420c4dc84e0ce807db2e3b3e756ba512"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/facehuggerplushie.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/facehuggerplushie.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Paradise Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK.png": "a4ff6157af182b60a4d7d3436d2414eed6f4112007200e999e3760d116ee2081",
+      "icon.png": "f99758c9d505b6fddc4ff593c30382018b868d4f380c0f0bb4a6c73b6d7615c9",
+      "inhand-left.png": "e493810d1cd702fb0568696c1505f87590135976730c6c1a770ec65d69721429",
+      "inhand-right.png": "e7dc9ccaf3a2a7a174af7e336bdcf9f4251f640ebbd705ec6f252806d3f2bef8",
+      "meta.json": "ce7ff28d4be59163b32a9bef75bf55d78899fde5f1ca217737591c23bd36a0df"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/nfsd_sheriff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/nfsd_sheriff.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Server. Vox variants by whatston3 (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-reptilian.png": "bfd2cad2cc4079bade4240e64d66592241fcb289b5a54c49634336b8fb4e5fdd",
+      "equipped-MASK-vox.png": "756263650a76ba5a9192889d22c3aef331067b56efa484e66bc15baa1e5561a9",
+      "equipped-MASK-vulpkanin.png": "2e7bb3d7d098feb3b6a30d277978b0fd1fcddd55fe2c3a3443ea74dc1dfbecb5",
+      "equipped-MASK.png": "c2c03c176eee3f004d10432f39f7a86e8ef4438defa3ac3486070acd3f0d23c3",
+      "icon.png": "b70e7a6a938821f8acea9d2593b06622a67aab1c4fd04a43c142bcc6d22e0921",
+      "inhand-left.png": "3c29ebaaadf6f4f1baf51bf26e04c1a1f9984c7c91d0ba2be1c6702d3e8da15c",
+      "inhand-right.png": "775efd2a7b532cc3183e73e9e063d9ec919efb3758d258592ea7bc38ae9593f8",
+      "meta.json": "9fb42da0b7714aed1fda0d1639585e7fa6fae4dfc8b57d040e92b6788f7dd2b7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/nfsd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/nfsd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Server. vox variants by whatston3 (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-cat.png": "0dc288f08f3fe0740ec849ab82c4d9a3140fda5010aa8fcd9a9e1de297a70e63",
+      "equipped-MASK-reptilian.png": "d9dde37c56c57fdb0cea208d49b5c275843f93f15ae8da32d3b69c4010c7f4de",
+      "equipped-MASK-vox.png": "fda711193a8d0666a3fd67d39f7b03c482682e79a372dc3e7f114c5cba3ed103",
+      "equipped-MASK-vulpkanin.png": "8f53b667b33cb1271629d6c1b96c26a07f4515f5388ef5157ead038532c1f46a",
+      "equipped-MASK.png": "d22a2939fc0a4928c6a2ba0bcf0a4ebd2addf3d5edbac11acd695394a188379e",
+      "icon.png": "edd963560b9124b8dd875169f5e8138fa9dd381e5c077b523ddef2cf7ceb10a6",
+      "inhand-left.png": "b32d7094649248eb54b38da0249e740bad5a71dd82d1790942ca49e7675d6bd5",
+      "inhand-right.png": "c1fcea18a9ec233c2bacbc2916c681cb9fc80237bdaa1ee71f08047e8a713133",
+      "meta.json": "abe98bca55ac374f846162c8783796febdfd689aabe88c908f2274ceeaf3528f",
+      "up-equipped-MASK-vox.png": "a10b5d137304f36b99f727cba731f0514f72aabb60b510413cbdd2eea4792b8d",
+      "up-equipped-MASK.png": "8f53b667b33cb1271629d6c1b96c26a07f4515f5388ef5157ead038532c1f46a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/pilot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/pilot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e | Resprited for SS14 NF Pilot Job by erhardsteinhauer (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-MASK-vox.png": "e57711708f10662db74910b53de2ead31bea0a24e41366c9dd5f894b0746c322",
+      "equipped-MASK-vulpkanin.png": "1957c0f4bc6ce4ecec0451f8f0ee2aa23177a28b77eae67c128db20d126a88e4",
+      "equipped-MASK.png": "3ca9fd055a3319c9a6c4c3209b9acb8f354183ec4ce28c860504665a16adb69b",
+      "icon.png": "0188e71e1e8cfbf22247894130edd55b95caaab69ee3cbfb1b25dc344380ce53",
+      "inhand-left.png": "a297ea340024616d62e8be8685a31104b288e6cf34bb85b4c642c9c9144caea3",
+      "inhand-right.png": "f8cb4dd60519eb7f4e86e584c683941c514efcb4a669395d895bfd077da45dfd",
+      "meta.json": "607bda7912ee1ac34ffaf41be0fee164175ba80c731fca1b0dd883543cd065b3"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Mask/punkhalfmask.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Mask/punkhalfmask.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Resprited by erhardsteinhauer (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "decor-equipped-MASK.png": "bfef2925915e91bf5861ea953e96464bbb3b36bc064d5922cfa07af569aa667e",
+      "equipped-MASK.png": "dcce576b4515fc56c1dde557713163cc40071ef725e4dcf57f0621b074cc6f69",
+      "inhand-left.png": "bf94aa066b0977b055d16b813e7be7127ee55e8d55813505720f6e1cd3f45923",
+      "inhand-right.png": "70fd6bfd83f555a11b656700492e05178ebeb2f8a26aa31fbcacb80e41332a4c",
+      "meta.json": "c2048e9e858e2a7db3419d383309ce1d1da19e80193cc0c0d7c293e649a46939",
+      "up-equipped-MASK.png": "5d76b3aaf62cf5eee154c54a3a52d078e0d23b128b5c902b64a79f4085d70fd5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Bedsheets/Nfsd/nfsd_brigmed.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Bedsheets/Nfsd/nfsd_brigmed.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Server.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "602f5a32bf79a28056da23b1977d37396ee3bae3201446cbfacd87a444a878f1",
+      "inhand-left.png": "7852ed8b1a1967493e9968bf073b25f083ea7a927573418e3e923702ad777113",
+      "inhand-right.png": "e7e196f46e50cef00f977cd2ec6c9cfbbd89546809eb3e9fc5ecfb013ae6fea6",
+      "meta.json": "602e4b8abee4da32b62d72e0a1cf5971f70f300b0e60636f92725f44b039a093"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Bedsheets/Nfsd/nfsd_sheriff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Bedsheets/Nfsd/nfsd_sheriff.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Server.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "216498b4c4769b6cde285b8ec254ff13bbcb126a9900e23c8d07cba573467e04",
+      "inhand-left.png": "618e1506cd0a749ba126891908739404c8d251fe213888a37e0270d85dc8f906",
+      "inhand-right.png": "384f6b2bbce13b653e5844749f550d75b1250ad8f720d2b2ac76f8f267be7676",
+      "meta.json": "602e4b8abee4da32b62d72e0a1cf5971f70f300b0e60636f92725f44b039a093"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Bedsheets/Nfsd/nfsd.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Bedsheets/Nfsd/nfsd.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Server.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "97f25b8faeaded081ced0157144feeeb9d8d2e8672a232b2cc2b7bb9b61daf00",
+      "inhand-left.png": "accb066e7fc95f1a9f9ab19cc6f31729e1a07e501432aeeb6486035ea7c2354c",
+      "inhand-right.png": "e2bd24b7bcf103b08c9d20068d452849f6d5ba80fd47589d7a095bfd07452437",
+      "meta.json": "602e4b8abee4da32b62d72e0a1cf5971f70f300b0e60636f92725f44b039a093"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/bellcollar.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/bellcollar.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by mnemotechnician (GitHub, Frontier) for Frontier Station 14",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "2d7133873a2c9c5e394e1a9ee53822ca9b691ea9b0de8aeb289366f45427be0b",
+      "icon.png": "7193aaae4b60a2b6e0956df12773fcbcaddf38f4c2b956c672b45ec97e548ee4",
+      "inhand-left.png": "239d98ff1cb06b34c0dbbfc40518dcb3643c6f4cf22f91854e4089f7fc9e0d4e",
+      "inhand-right.png": "382954b3ba7f60f2c6f3487faa162acc303e069efbb98c7602dedfc114954cf7",
+      "meta.json": "d484a7c9eff16de6bce74a7c3ba2c6a11e8915413f43775abb2fc392cda78c5c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Cloaks/cloak_web.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Cloaks/cloak_web.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/blob/master/icons/obj/clothing/cloaks.dmi, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, edited by Dusty Lens",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "70798efff12eac8aeb0b4df8615f864803224ab74fdaa31d57fe2cfa14cb3e7e",
+      "icon.png": "c42cc592c77b4dccc31b7eadd2644d4677f56ad3aeb9974d7682c45914067016",
+      "inhand-left.png": "bb3c1644878383fa8902d75c0eee7d0ce8fa137ef5831e53764534df50b20ab8",
+      "inhand-right.png": "a25080750c1bd977fe6894b8faba27f758e3119e36a25960327774c3ef090331",
+      "meta.json": "2550f824694c41a8bcb2430abe44fd6f188c3d76a9f4c36f4f8a70142c6dee68"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Neck/Cloaks/cloak_web.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Cloaks/janitor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Cloaks/janitor.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/5a73e8f825ff279e82949b9329783a9e3070e2da, sprites in hand by PuroSlavKing (Github) and RudeyCoolLeet#3875, edited by dvir001 on github",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "115b590cd312830f77076730d37946956bebd1b89507d554b9ac5c1bb7e51512",
+      "icon.png": "f07a14364059e4e12f793a15c3a1be2dea48f3e731e046a93fb24935f0d5d002",
+      "inhand-left.png": "e75d7e58ce9bb71137e4e7a7b518b6c1d6df610be0aa55862502d194b4106bf5",
+      "inhand-right.png": "5c7521241044f657d933910d97db7c64b7c004bb97d0ba3096d1b7e53383065e",
+      "meta.json": "2b00479d0a39ac6399fee258b77b8e188e6f0c4d8404738a9e569c3f1244b4e5",
+      "plunger-equipped-NECK.png": "eab38500fcd677a9aa78c847e11630e02a803b726fbfe1bae0d6634be17739c0",
+      "plunger.png": "64feac1ccff0fc9a7d0a464b9d2c9be164e2606117db085d60ba12a4783353da"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Cloaks/rosy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Cloaks/rosy.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprites by gentlebutter (discord), edited by dustylens(github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "3bc58a19bb5985136e3daae1f5b43df1931e4fc561263f70a1dad469ea5a408b",
+      "icon.png": "a1529d2cdc6dfc0f292b0b36353f49162b95a26115425c7e17a50b6b7eb4efed",
+      "inhand-left.png": "60835b96f52449c32752dadcff44cebbaced69164779951ff05262232eb0ab9c",
+      "inhand-right.png": "d5ea43f9e960a498652738b2909fc84628287c7c0fa226448ef2d27a6d6162a0",
+      "meta.json": "d12ceebcf3fdaf92b112d66a3e7edbc26dd89934b7d00aaacab44660b66bf8a7"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Cloaks/sr.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Cloaks/sr.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by GentleButter for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "89d177b6caa35aea0f81a884f408f3859dbddd9b4a03d126c19c177dfd7271e1",
+      "icon.png": "6f66f5859ed8a8a964b71c961728aa1ad47905d099ec224f145579f29e8448df",
+      "inhand-left.png": "b710b069c176ab90d08ce81d2b686ee702634fea5a04b8001c98e9b4ccffd446",
+      "inhand-right.png": "5b994f029d0e06a5f62809e787075a5acbf2336d565d1d236c4d8756dc86597a",
+      "meta.json": "a4fa2cacdd1c180a03e6db9b26de9ffb098ab794e655a2fa590f136740566ccb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Mantles/bounty_hunter_mantle.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Mantles/bounty_hunter_mantle.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "made by emisse for ss14, recolored for mercenary by erhardsteinhauer (discord/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "dc6575e143e87f85c2d6dbca27be219cff64680c32919b41f784f16a319a1f14",
+      "icon.png": "79ac59e94a87d6842712fba02440f3db541a220ff0c159bf2657d2f41b6aae2d",
+      "meta.json": "9b02e2fe576e8919883c62df3893ede864d9045b00eb660ac513c4b110e3f372"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Mantles/sr.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Mantles/sr.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by GentleButter for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "a25b7d0a3161b3b3faa90f36bb0bc8049895d152d9ac33b9812a9edab9d58039",
+      "icon.png": "e2d0b32ab802e7859d5eef46e2f0fb56b9e6d51ddf73dd3f12c9bb7392efc74f",
+      "inhand-left.png": "b710b069c176ab90d08ce81d2b686ee702634fea5a04b8001c98e9b4ccffd446",
+      "inhand-right.png": "5b994f029d0e06a5f62809e787075a5acbf2336d565d1d236c4d8756dc86597a",
+      "meta.json": "a4fa2cacdd1c180a03e6db9b26de9ffb098ab794e655a2fa590f136740566ccb"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/blood_drop.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/blood_drop.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "aae00525eaa1e1da520f1fce4d02ebdeb4e960755e727ea500dc6b9371fbf673",
+      "icon.png": "556336326a4af2f0a1cb98ac37f225b779c52a46678d9e1ccf612cee99e09651",
+      "meta.json": "ad1d008b46c1760783ec2e9b3824379089caa4522766afa6c61732dd5dde18f4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/glorious_order.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/glorious_order.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "science, medical, cargo medal made by AsikKEsel, gold shield made by GhostPrince (Discord), blood drop made by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "2fb6d3eb9c7c66820dcf55bf7157b48912ccf730454c16db98e8bc93443050ce",
+      "icon.png": "fae551be998a756e2f0a5e2708fb0fc3f6aedb2ef3c4a735733dafeaac1fd507",
+      "meta.json": "877a1dee04afdf3039085ec723b9f0ecf90e3586a2fa73f5cc41e0160beb59a5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/shield_bronze.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/shield_bronze.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by GhostPrince (Discord) for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "5601e66f7b4e3c64fd964b8a01f7365589f74f4d31834d1ce90ecd1aef3ac6e5",
+      "icon.png": "662d22dc41116fa0f13ef85740cc4cc8a08a93f2bcaa89e0447e5eb9d640f3dc",
+      "meta.json": "7a6477c2b4df54179dcce42cd92f79e71ab5904c447c0d796f329f1259306a0a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/shield_civviegold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/shield_civviegold.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by GhostPrince (Discord) for Frontier Station, edited by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "c4821eeb314a02b7e204e7ce0a27891b7a24587ba33345fb9634e7d0f89bef0f",
+      "icon.png": "bf6f37f598be6d3e2bf23d9454fd8d5ab874d19129b58ea90ee45cccfbf87bba",
+      "meta.json": "bb961a29117d178190b80e83ffdd80d97990a59e7e3385056c046da84073487f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/shield_gold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/shield_gold.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by GhostPrince (Discord) for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "e99fa42c0f6d8a98cac715e6f73214d532fa9bb0324ae8a81bb3d92a5ff539d4",
+      "icon.png": "67803e36c70c150368431c309d276306df38e5a47b85811c2b92443b78f2c546",
+      "meta.json": "7a6477c2b4df54179dcce42cd92f79e71ab5904c447c0d796f329f1259306a0a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/shield_silver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/shield_silver.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by GhostPrince (Discord) for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "e06f7454a4beaad068fab96d4d2d79e5068c142605a506157e41d91d36d85605",
+      "icon.png": "bbaaf17bf976e35d53911f8ed292189cade730d5c5db9be03803bd1cc11480a6",
+      "meta.json": "7a6477c2b4df54179dcce42cd92f79e71ab5904c447c0d796f329f1259306a0a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/star_civviesilver.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/star_civviesilver.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by GhostPrince (Discord) for Frontier Station, edited by Whatstone (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "05d78d912cb009dc6dc0eeebbd485a38cb87bc9209ebee0e62aedabb096b6bb6",
+      "icon.png": "8dc41f50ae178b12bdf1078738a4e30613bc2600613d0eccaea2a6757d58de04",
+      "meta.json": "bb961a29117d178190b80e83ffdd80d97990a59e7e3385056c046da84073487f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Medals/star_gold.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Medals/star_gold.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by GhostPrince (Discord) for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "b0a620f8be25da918d361c655bb465766c8fd20e5a6f7fe71d673ac2dc61be58",
+      "icon.png": "ca00a1e087a2eb902a0b0362794223ab9455089c659eed2a51e881d61b5cb66f",
+      "meta.json": "7a6477c2b4df54179dcce42cd92f79e71ab5904c447c0d796f329f1259306a0a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Misc/ascended_cultist_amulet.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Misc/ascended_cultist_amulet.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified files from tg station (used amulet of the eye from https://github.com/tgstation/tgstation/blob/master/icons/mob/clothing/neck.dmi and rusty medalion from https://github.com/tgstation/tgstation/blob/master/icons/obj/antags/eldritch.dmi); edits made by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "852dd9b8828c35bddf32e0afed0618b515e0e5d6365e6e81de07315e6ac2b02c",
+      "icon.png": "1e7e50c6113d479dac4ac5b02c9474ec8dedd16eb3d1ea4d1baa4a5e40d56ade",
+      "inhand-left.png": "a2e8f65a7f335b6a5ce5c8f7d230ff94a703eb511e41e264fe1084bb714d904a",
+      "inhand-right.png": "b4a500026959b8bd8aac780259acacc70ffd873bae9c212cc77f43e6bcbefdd9",
+      "meta.json": "92bc5574e22b317934338431e6d4efda53310ab9aa5be0c7391bf386583ffd5e"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Misc/classic_poncho_web.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Misc/classic_poncho_web.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. equipped-OUTERCLOTHING-vox state taken from Paradise at https://github.com/ParadiseSS13/Paradise/blob/fce54deb01d465957691ba2907218d4af4830db2/icons/mob/clothing/species/vox/suit.dmi, edited by Dusty Lens",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "8f46af83da7dd718978fda4874ae94920db479bb1f07b6aafb79ba923b7b0c49",
+      "equipped-OUTERCLOTHING-vox.png": "42fdb42d70aa8ec9a810f2f437e05a68fa8b8ae5c10a683a9ef7066e0bf362f7",
+      "icon.png": "868600a95bae2d9df4dbdcf4596180014652b7804ca6a6d82227d69979a87adc",
+      "inhand-left.png": "0dc26073cc885c1511efe020d668fd67844e099dece324ce4b83919d6be4aeff",
+      "inhand-right.png": "0de8d6da365bb47deaefa78a8d1de29ba00e611b234f02c55855cb29b39f0336",
+      "meta.json": "cecc67196955b9594cc1fb2947eac046e40fd566274771205a364579bf943f11"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Neck/Misc/classic_poncho_web.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Misc/crucifix.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Misc/crucifix.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified files from the base SS14 (used bling.rsi and bible.rsi); edits made by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "5fc430cd75b58a139b2835d6ae4fc1710da4668cbb84c13554f9807d04115b61",
+      "icon.png": "9595ec9567e51053e335495c0745b82c4f7f4f558f62117b6651ed424de9ad9c",
+      "inhand-left.png": "6bb75a2d9ec8e9c772e8922ee93fb988bf97b57d16b9ab5da4f0c419d8e5cda1",
+      "inhand-right.png": "3c2664f19a7570d28ea0d4ba60798cfabc328cbc55df6d9b739b6cfe4c14e9f2",
+      "meta.json": "a15259f1583c363f549f8cf87b21fe44c58591ce343a5aad6377993bffb439c5"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Misc/mercenary_iff.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Misc/mercenary_iff.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK-off.png": "e573349b0a1a404778f0cb363d2075ae23591c87b9d6f75fb32e053d790fb6b2",
+      "equipped-NECK-on.png": "b7789ab54f9fe065a39e8c6df54997cff2eb8ead412abc7233ed3d4cd55dba10",
+      "icon-off.png": "844f413076766fb119499197b33f05254a497377fe13f322345e5b01ce96a67b",
+      "icon-on.png": "cb9e96936cecd0bea8954b4ea35899a0a689ee7c5dc8cf4bbf530bf2219ff014",
+      "meta.json": "060d4439737521bba9505d7a268daa806cc4518cd7b865d616724cf9184cecfc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Misc/poncho_web.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Misc/poncho_web.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, edited by Dusty Lens",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-NECK.png": "796af99bad7f10d76c7d5799e3f84d83ab10df8ef0ee12dad22d8d6829030eec",
+      "icon.png": "936cc4684ff51226aee2cacc20136c988410af5c612c08008e67018c927383f8",
+      "inhand-left.png": "a849b8bea649c65fd67dca606b146931fe7040a2b87dc6618da57aee8fcca611",
+      "inhand-right.png": "212a1c47e3963ef90cbba08b75f0c662b95c3d99f13a0319dcd5beee919ff8f9",
+      "meta.json": "d4d224797db043dcd99f31c030d3969dc5ffd2f3ae18632b2f5459536e9f8148"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Neck/Misc/poncho_web.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/chaplain_stole.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Scarfs/chaplain_stole.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by MrGreen06#0618 (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "12d16732ac3407338c4f69798b31502c9a26bb988eee32c4c53d1a8b07ba5959",
+      "icon.png": "b945d41de5bf7bba495aca776234ca7df32253f6b4153216fef562926aa5fd73",
+      "inhand-left.png": "5833d3b5d09ff9a0bbe208d12bc5eabb50db4c2756d65c250b70c9ed734f0032",
+      "inhand-right.png": "974460610449e41497c6ab7ff5858f8ad66d56c37f397e3861c358d71ab13ffa",
+      "meta.json": "35bba1c6d4593d3665db0bb4d874474cceb93681387681ee90429dbfb79f6a52"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Neck/Scarfs/pilot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Neck/Scarfs/pilot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Sprited by MrGreen06#0618 (discord) | Resprited for pilot by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-NECK.png": "32dd10a249d520a7182236279e4628a3c7f7ec47c7559d61813e0ae985015bf3",
+      "icon.png": "866f9119b5b7711a8303f25390a6183eb66d3b6a45d5f4d649c5c8faafb457d4",
+      "inhand-left.png": "7cf167c3723dbd9b2e539924937117672cacf42cc9b9696d05e53c0bdcff6241",
+      "inhand-right.png": "6363f00b110a606124316e113496ee4bb6072fa8ab49322cb033f6e71dbd0860",
+      "meta.json": "5133e000486c7b7c5430ccb61e4cbb2ddf8f1861ff08322275d8ab9a8da6c6bf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/bulletproof_vest_green.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Armor/bulletproof_vest_green.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "80c3ab88970959578eaaae0ee664e9a55ea81e7d9e442864035a79d85e04087c",
+      "icon.png": "5524e0fac6d25af37a7cecaed52b985f37bb2516558f8c292265e9abc7ac4fd3",
+      "inhand-left.png": "e332149e621a264a529efe07a46aa6fe09a33bae0fa4aefda5463f4ad842e748",
+      "inhand-right.png": "c5daded5040dbdbfab16157275902f043666494e482a8bb1d9a5d6b00465c949",
+      "meta.json": "09b0def0c02b4c715a9953f923e00b59d409961633f7c709f047dd5301f21074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/bulletproof_vest_orange.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Armor/bulletproof_vest_orange.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "58779452f525ed994b12ad752b41bcc1eadbea26184e44685eb801f5ffb6c0bb",
+      "icon.png": "6606a78233e459823349b282ff3683a7e53d5dfc0b4f9b2dcd17dbc11e67fdc6",
+      "inhand-left.png": "759d4b0af45820adab93815b0cbb8b5560d703ffe9604b6879ddab45aa10833a",
+      "inhand-right.png": "c87d88f10b0ec999a96acb0687dd720fd9ac383ea60b1205e03598e884233ed9",
+      "meta.json": "09b0def0c02b4c715a9953f923e00b59d409961633f7c709f047dd5301f21074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/bulletproof_vest_procedural_elite.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Armor/bulletproof_vest_procedural_elite.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation, edited and separated into layers by erhardsteinhauer (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base_OuterClothing_armor_01.png": "812ca1f912b54187d6b8bb22d8d741b8606cbdae08a7e0389299fe52df59b76d",
+      "decor_base_OuterClothing_armor_01.png": "bd48e84796f0598b661ded8c76f4f39781c9ebb495292d4595efb7a49e98aa44",
+      "decor_base_OuterClothing_armor_02.png": "af318b63f6b0b143c1d5414cb20a1d6f59974171454b6fc5fdc9c7d53e49b853",
+      "decor_base_OuterClothing_armor_03.png": "37a95865a069e2b5f2b21ad31ba3fe16485abaa5007b5469ac99e8f46270cc8c",
+      "decor_base_OuterClothing_armor_04.png": "5be3d3374a32b404be375288f433470bbbd3239b005d8dc0a5e3007f9c98f1b3",
+      "decor_base_OuterClothing_armor_05.png": "3684126c34841082b117c99f437411b4dd4184c0a0bf42dd91e0fdd37ed6edbf",
+      "mask_null.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "meta.json": "e281f9c5f99d825fca007e5ef2bbe57c3719522eab42648140e0de2a4d51664b",
+      "overlay_base_OuterClothing_armor_01.png": "15d02deb5813407eb83a7de8b2378bc10cd02b434bbd793e2750b3a7d91255c8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/bulletproof_vest_procedural.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Armor/bulletproof_vest_procedural.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation, edited and separated into layers by erhardsteinhauer (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base_OuterClothing_armor_01.png": "c0ec84182e363985bca4605ae55a8978f7ff5aecb0303442c5eb6d92da001d69",
+      "base_OuterClothing_armor_02.png": "463574d6ecd73bb9b065db901d3068986bf4681f1f134ad58c994c481aa102d5",
+      "base_OuterClothing_armor_03.png": "b00edb306fe7a11e3ef683e4c82adbcaf6030a26f494647e851003b7f07d8088",
+      "base_OuterClothing_armor_04.png": "91ccad5bcf7c217a0bb04fd92d0b7fe7d8fb63979d9413b2891734ffbd874d46",
+      "base_OuterClothing_armor_05.png": "bf12f810d22f41be2eb1d84ba9418d0f8e0ea4290e890ca27e02162d039fe46f",
+      "decor_base_OuterClothing_armor_01.png": "c154ac3f07e2491bcaab1e2d5970191720a4c9ba66ae34f09140b69327705e59",
+      "decor_base_OuterClothing_armor_02.png": "aac074cd50bb550f7f1d2bfcd9bb08d97c85a6f51a62bda4e2b7279f0c583d81",
+      "decor_base_OuterClothing_armor_03.png": "0e25f56aea82d3fb01b246fc6e81c7a2b91deebf48823caaf5111e5afcfeb075",
+      "decor_base_OuterClothing_armor_04.png": "222be25485f3d872ea26d305da0407cf5f2260e835ec5b215c4ac5f0a467fafe",
+      "decor_base_OuterClothing_armor_05.png": "3a5d8a7801345c5365492220550788a7e185b9b0415c8649eb9e4b16f9a92270",
+      "decor_base_OuterClothing_armor_06.png": "38cd22e6b8333a249f0d01ea70be0386ee0df0ddaa858fde1d5b5f9437e477e3",
+      "icon_armor_01.png": "46975b179dc74d4b5564ecb27fb597a976926ab0510a71274abe8a16d8cebe72",
+      "icon_armor_02.png": "c2005f1a023217ce9e378e3d97f5d6899b3ac1e95b60d64cb6ce32f929b6f138",
+      "icon_armor_03.png": "6ea35b86c195544c7ec5b787731a1ef20cb155bf8ba6f8e7d2003a0edf598090",
+      "icon_armor_04.png": "87d792abcbf95f3b0c13e2a960b3e132c2f568d699927e02326d1a0ae2e4bbf2",
+      "icon_armor_05.png": "97d12cd64079db30c085fb297c4720c98488cff59dbd6e9f9c3371ec979f4d73",
+      "inhand-left.png": "270d6e20cbf47d008a6140766f4fa29e79f899a73a43156da82886f845db9d84",
+      "inhand-right.png": "249c265692914aeafff5afc10f3714dab8170a1dc13f836a0828689036752072",
+      "mask_null.png": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "meta.json": "71132e98a814162fa47f6e508519aeb92e93b178e8d6d8191a01ea8f5a790a5f",
+      "overlay_base_OuterClothing_armor_01.png": "88a7ee50c9fdfe52cd4644cfd7b6a4e4ba4fdaaa1641b635b4aa9a5ec78e9bf2",
+      "overlay_base_OuterClothing_armor_02.png": "3a98338f791e0bf66d0089bee8ac3c30b98af3eb9c24c81ff3dcee005745d48e",
+      "overlay_base_OuterClothing_armor_03.png": "6e3752a6945a9c706797f9912ee04d6bfdc15a5d5adf8c374646a3cbfd034ae6",
+      "overlay_base_OuterClothing_armor_04.png": "e8927fd0939da138144f30f1e37271bd509ba2ebf735d9a833cc07d710ee1f33"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/bulletproof_vest_red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Armor/bulletproof_vest_red.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "5f310fb2b77c3bfbcfd96fb22c47979a43a65ac0f1e7a15fbf675566f058e3a0",
+      "icon.png": "ccee43004e707b9c7f3f6cc44a2a5b9c03da05535c4a19ad5d7e6177b654caac",
+      "inhand-left.png": "fe747414de2a90f9d6304eeef967a03bc74ad8f215a71b790456773179619e7e",
+      "inhand-right.png": "1dd495c32333756a44d03e4b0cd80540ce58e8554867262d86c0bff94f62cd12",
+      "meta.json": "09b0def0c02b4c715a9953f923e00b59d409961633f7c709f047dd5301f21074"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Armor/sr_carapace.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Armor/sr_carapace.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by GentleButter for Frontier Station",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "881ba5d07e5992ba94219b856e29a040119c9a5b144e152733e6df9bbde2f450",
+      "icon.png": "9de7ff4170d7459d05dd691d015dbac2b48a809f8ca67c14d274b7a76f9e3fd2",
+      "inhand-left.png": "f41f36bb51ffc86fa11578c9142bae43d387e3f537fb3d85c8f3e1624e0f75b4",
+      "inhand-right.png": "9764badedc9683a98c4cc0a6f10dcfaca9413b02dee2f2e2ff88312c360b6e7e",
+      "meta.json": "04a79002b0ec8cdd96d2b5c011a4eddd7272e3025b59ca86bf8d05f919fd2251"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Bio/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Bio/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e | recolored and fused with https://github.com/tgstation/tgstation/commit/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "97bbbf29d785747ae6768c48981637fd1f166d76875001e9278b97b9b264625a",
+      "icon.png": "6d99ed37711d60f72a5fa8136efbe0bdc53c512228a505a5f09e037f5bd3bc4d",
+      "inhand-left.png": "97fa7173e400935e64a66eeaf9aa94f63eb15ac826fd14092525a8e9e8ddc70b",
+      "inhand-right.png": "51249e703ff30471ad22f2aadcb741da44107ec8d0cf7d35bf1062f373de1c7c",
+      "meta.json": "8686ed48e6c52ffa85c100b4e75ac3a8f47b8b4c2c5b382832164be0c61f5b0c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/acid_raincoat_blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/acid_raincoat_blue.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Made by Github user Psychpsyo for Space Station 14 | resprited for acid raincoat by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "d13dc2f3b1a059b46a2b910b2ce65a4861f0efcf6a2e0705355d7cbd0e8ec355",
+      "icon.png": "55d9858927c66f0f9f76e34f5b270dc0475c8fa5ed587e33b48135e33e95b55e",
+      "inhand-left.png": "f8565b1f8b5fea99ae4a2752c45ce020993ae1ee7a49d66c65805630814669ad",
+      "inhand-right.png": "b4aae363c01d5ae799c244af8104d63d2b3c53c690b74e40cb3856da20bfcc35",
+      "meta.json": "32b9dd7fcc2f0115c44a4c7764767ea099ddd47835a9ed70f3d73e7e5638d967"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/acid_raincoat_green.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/acid_raincoat_green.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Made by Github user Psychpsyo for Space Station 14 | resprited for acid raincoat by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "988fee714e0f0e8e2df0528266c618b82b3ded881ae579cd99a9ab63f5eb7fa3",
+      "icon.png": "9fbc6330a69416421fe3fd219aa25de4d8c58e8b4dc85b96c0a37a4fe8e95397",
+      "inhand-left.png": "9e276d070bd1153ac1d9162376c4135318e89490669efc59d9b86b64827b68af",
+      "inhand-right.png": "37153214886c23b108a048b46ae1f63bf19e7c8aa65b53ef3f8c4ce7122596f9",
+      "meta.json": "32b9dd7fcc2f0115c44a4c7764767ea099ddd47835a9ed70f3d73e7e5638d967"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/acid_raincoat_magenta.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/acid_raincoat_magenta.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Made by Github user Psychpsyo for Space Station 14 | resprited for acid raincoat by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "561633ccebb04d29aaf2c1537bbafd3ad63379bac8984e38289e3e02d536a73a",
+      "icon.png": "9ec861fec205ac055820e3c21bee05f439c8929ccc0ba9bd62a6b70e754364d7",
+      "inhand-left.png": "72106272de996928e2b9c205a12ba091c5716cbb0d9f103757c2e35e0e4a6582",
+      "inhand-right.png": "e20209ec8e2c99fe8c4c833a247fc63ddb7131b42e4136d9118d54f818609e5a",
+      "meta.json": "32b9dd7fcc2f0115c44a4c7764767ea099ddd47835a9ed70f3d73e7e5638d967"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/acid_raincoat_yellow.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/acid_raincoat_yellow.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Made by Github user Psychpsyo for Space Station 14 | resprited for acid raincoat by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "56cb2e3d5e2d3c20fbe0ea013f88ba3943b1b519ed594f03faaf1932cdf40115",
+      "icon.png": "9a255b4f88392b08623fc7c5bb1a31d246e00eca719111ee8180e0e39b82cd4e",
+      "inhand-left.png": "3c5b2abed3ebda77a1624f71adb5f8c86f299f2beaf0fd8e56099bca9ee6b3f6",
+      "inhand-right.png": "299f75fd00708a5c7e15db7cafd01fc79147eae99deea177269d13387c6989b0",
+      "meta.json": "32b9dd7fcc2f0115c44a4c7764767ea099ddd47835a9ed70f3d73e7e5638d967"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/acid_raincoat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/acid_raincoat.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Made by Github user Psychpsyo for Space Station 14 | resprited for acid raincoat by erhardsteinhauer",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "168542379c1b6b6f2d090422ce1623fdd7bf4a01f6bd6cea225ac1a48eacc166",
+      "icon.png": "9e9972b1d2fd4c74c647cf41aa44b20f5c351d4805e3b4ad764fff0b003dd87a",
+      "inhand-left.png": "0e0b6fec13762a7609b346912f482d32994ea792427ec46d16c7a7faf18a6af3",
+      "inhand-right.png": "8c18d14303e6ee7b5e20c52ee97037fca8f88cc8ad37fc1d35900a65fdc7ba62",
+      "meta.json": "32b9dd7fcc2f0115c44a4c7764767ea099ddd47835a9ed70f3d73e7e5638d967"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/arcadia_trench.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/arcadia_trench.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken (labcoat_cso) from baystation13 at https://github.com/Baystation12/Baystation12/blob/dev/icons/obj/clothing/obj_suit.dmi | Recolored by erhardsteinhauer (github/discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "703cc7d19d0fa5042cc70ee9590e7b01bca0cfdbe8bc815e6d3480757d39e3d1",
+      "icon-open.png": "f6285d401b8c1cb014e4fceb43ba2b34890e0aaee0b91d687f7ef8f7919f75e3",
+      "icon.png": "10666d4f461feaa99bb31540cbbf29c560bd4facf5834faa84b0e0bb932e6a7c",
+      "inhand-left.png": "83b4148dad52e3c0b7819a50332b29479900897ac5d01e9c6a8d7cee9df279bb",
+      "inhand-right.png": "840c7d1275222b6606222a6275201a226cce3c4cca7f592250cee75f3926db25",
+      "meta.json": "7902ffbc70fbb1d6a61ff02fa8741d1bd035578efe63f3e22fe20183b1a8a7fb",
+      "open-equipped-OUTERCLOTHING.png": "26039e05e63e9c6f0670113dcf26681002451d6c7b0e9693d08c7b712d1e3ba0",
+      "open-inhand-left.png": "83b4148dad52e3c0b7819a50332b29479900897ac5d01e9c6a8d7cee9df279bb",
+      "open-inhand-right.png": "840c7d1275222b6606222a6275201a226cce3c4cca7f592250cee75f3926db25"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/OuterClothing/Coats/blazer_jamrock.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/OuterClothing/Coats/blazer_jamrock.rsi",
+    "category": "clothing",
+    "license": "CC0-1.0",
+    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/blob/master/icons/mob/clothing/suits/jacket.dmi",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "08c1e769599cd1cc0dc4571a3bec7d0c878d4194f87960d359867475164e0f37",
+      "icon.png": "d76e7fb259437939dc8a03301591a48edf7845a37060699723359ff62890b4e6",
+      "inhand-left.png": "cbe47466dea50c7a33963715a37b43adb49062998676284b81f54f29d1ce50e2",
+      "inhand-right.png": "cc134c24835b98059f73a79ae88d35ff9a850274d07e59a8fed335d65f4b07d1",
+      "meta.json": "d132b5156fd056287be497ed554c910c81fa11e7460ad6a8728947e1da1cfb21"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/OuterClothing/Coats/blazer_jamrock.rsi"
+    ]
+  }
+]

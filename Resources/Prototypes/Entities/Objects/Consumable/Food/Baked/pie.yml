@@ -12,7 +12,7 @@
     flavors:
       - sweet
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Solution
     solution:
       reagents: #Most of these are this with slight variations, not worth changing until we have the rest of the reagents
@@ -41,7 +41,7 @@
     flavors:
       - sweet
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Objects/Consumable/Food/Baked/pie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Solution
     solution:
       reagents:

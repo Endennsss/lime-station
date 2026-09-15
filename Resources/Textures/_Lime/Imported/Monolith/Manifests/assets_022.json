@@ -1,0 +1,995 @@
+[
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thruster_stealth.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thruster_stealth.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "e7107ba51b5d5c3111156cd3f35d85075f158e70b12809c86038d0f06a9bca5b",
+      "meta.json": "f80182088c82dac5d57291529be4ebfd6f6459776c8e9b6378512534002c4cf8",
+      "thrust.png": "c420caa5d17587693b16eddd195154217a3e709f8f27edcfa538960a51cf7ea3",
+      "thrust_burn_unshaded.png": "6e0ceabbb860fff9d41cdebcab397e24b4d5653b0cbd619defce1002ad9731b4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thrusternfsd_large.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thrusternfsd_large.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Base taken from https://github.com/tgstation/tgstation/blob/c0f54449f9cbe4ca84355e0251dc90d7c806fffb/icons/obj/fluff/2x2.dmi, thrust and thrust_burn_unshaded were made by AsnDen (github), edited by Honestly101 (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "546bcbdb7064fc0745d2a6360109ecd24c303907b93527202d0d988ff99ce8f3",
+      "meta.json": "56861574bdb763dee094ae06563442aa848f1e991deecbc2b56cdbd93ae3da81",
+      "thrust.png": "6f3a8effb16798730cd54435857a82381c042e40ceaafad7b3d984a4cbe48c83",
+      "thrust_burn_unshaded.png": "ab47386639430ca658dbdcf67e44391f119caeba6a8451dabf53e44b5f637c67"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thrusterrogue_large.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thrusterrogue_large.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Base taken from https://github.com/tgstation/tgstation/blob/c0f54449f9cbe4ca84355e0251dc90d7c806fffb/icons/obj/fluff/2x2.dmi, thrust and thrust_burn_unshaded were made by AsnDen (github), edited by Honestly101 (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "3fb80276706b4ae7c6de32ef13f8609c99a2994331036281b9c3914c9fcaa9cf",
+      "meta.json": "56861574bdb763dee094ae06563442aa848f1e991deecbc2b56cdbd93ae3da81",
+      "thrust.png": "a103c969fb38bf82a3575e90669062182c92f30462c9dd87760e3cb4723e6e7d",
+      "thrust_burn_unshaded.png": "1bf98373c80396195feb2dc2227bcddcc3c191f9529003511083656e8cc99aad"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thrusterrogue_stealth.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thrusterrogue_stealth.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Station.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "e7107ba51b5d5c3111156cd3f35d85075f158e70b12809c86038d0f06a9bca5b",
+      "meta.json": "f80182088c82dac5d57291529be4ebfd6f6459776c8e9b6378512534002c4cf8",
+      "thrust.png": "b0a1d8481307cf9aad02c74bd59e0ab6456bd3b34fd7f1514ee97ac71296d5d8",
+      "thrust_burn_unshaded.png": "0b3b86a85e3192a395aa1fa3bff51527ce14b5f672e14b709ec10cd8a99cbb02"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thrusterrogue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thrusterrogue.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Station, edited by Honestly101 (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "7a5de3ff7291f40d687ff5fdebec9cb4cb607b72f3d8b0fb30781897c61eb8ad",
+      "meta.json": "7a116e1e862cac5b5ff2cf85b9f2aa4eefd53bc093acf89bcefe18ffeae9f6bc",
+      "thrust.png": "b0a1d8481307cf9aad02c74bd59e0ab6456bd3b34fd7f1514ee97ac71296d5d8",
+      "thrust_burn_unshaded.png": "0b3b86a85e3192a395aa1fa3bff51527ce14b5f672e14b709ec10cd8a99cbb02"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thrusterussp_large.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thrusterussp_large.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Base taken from https://github.com/tgstation/tgstation/blob/c0f54449f9cbe4ca84355e0251dc90d7c806fffb/icons/obj/fluff/2x2.dmi, thrust and thrust_burn_unshaded were made by AsnDen (github), edited by Honestly101 (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "bd2f8c0164a8f5db6bd9a41bd2792e1de868b774c54a6815bda38456adc1e2ac",
+      "meta.json": "56861574bdb763dee094ae06563442aa848f1e991deecbc2b56cdbd93ae3da81",
+      "thrust.png": "a9b6e73eea93b0030cc6b647008657b7269fa02eca85ae7d8e0ba44c14a26e2b",
+      "thrust_burn_unshaded.png": "ec5f6189331c68a00e21ecf68d97655e224885bc497016dd13fb81dee5012686"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Shuttles/thrusterussp.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Shuttles/thrusterussp.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Created by Ghost Prince for use on Frontier Station, edited by Honestly101 (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "a4bf3ec43b61d9f9f02a623e418ee6b3c150a6a28d3e69c78f639dc2757494e3",
+      "meta.json": "7a116e1e862cac5b5ff2cf85b9f2aa4eefd53bc093acf89bcefe18ffeae9f6bc",
+      "thrust.png": "f15f94ad9c69c71ec881eac9cd2e4a05012476615e44dde7afe4acaf5e75ab3f",
+      "thrust_burn_unshaded.png": "43d7a99f6b03de9ccdd82e486c48f0b6ff1cc075fc11319f943a866c6705c60c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/steel_catwalk.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/steel_catwalk.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from SS13 Shiptest.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "catwalk_preview.png": "e14a35038e050ea02ace4b7eca66933476b712de751af1361ffea8906776ecf7",
+      "meta.json": "732f6bb0ad17f31e3e20517599aa4868af8f94adb57dc12f2ae08f02b67314d4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Storage/Crates/milequipment.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Storage/Crates/milequipment.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from cmss13 at https://github.com/cmss13-devs/cmss13/blob/7cb618c69b75873f3ce893022fe08d1233b3152d/icons/obj/structures/crates.dmi, edited with a US class II supply class symbol",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "263a46fea0fee8215daff247cd79859ca49205e0370b540b70b8f6005b3b053d",
+      "closed.png": "763b98bd031332fc5a7caa4a78feb4f75612370cd03e56794797ba918dcf39ce",
+      "icon.png": "71eefe5ee0ccb3bd38facc5fe19f6eac5ca4a1d6f9faa9d09173f5e73d02ba57",
+      "meta.json": "160c74f9e36871e4f23c24f8b18ddbe7138d37d34be313c5865acc182a5fdb61",
+      "open.png": "2e434db2d81ff047d17b21fba536633b3bb66767dbb09f422064485d83ca2131",
+      "welded.png": "29728691a4228033a8e43d1f856a77bd3c3ac1bbd4c09b179ed6d2404a4a73b1"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Storage/Crates/nanotrasen.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Storage/Crates/nanotrasen.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "by zeranov (disc:core_mene), tweaked by Onezero0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "dd7e10907d2664b64d52214e99476e3bfec6d7b15263269cf0a067f094fe75ff",
+      "closed.png": "7937cf5ba68572ed56ce8f82883317c87c5c0c1862429683a19e35af3cf12229",
+      "icon.png": "7a274a6a85ebebe76b690317584d86afe78dcc9f3680a5bfe259c9b22a468376",
+      "meta.json": "5a96a7903641797ae9dba200c8d7bcf66787a510ec5f370371f23140ccda5475",
+      "open.png": "a57b9127912e631b8613df2199494809c948e82433fdb9c6413fd6e2b6efe648",
+      "sparking.png": "ae9c8adaad25016aefd43bf460a6934e1328a1c36519ae301fa2b75daa26abf4",
+      "welded.png": "5c230a13bc25301d6cc21e8a37308f6ddb36780379798b6535f6d7dcfc7528ae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Storage/Crates/nt_ds.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Storage/Crates/nt_ds.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "by zeranov (disc:core_mene), tweaked by Onezero0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "57c9d4571c8fd2640a3b218c9e87044e1be3825a37c72b17fda2ed337c3a2faa",
+      "closed.png": "79977ed520cbe03a02a63485979e867a2c03aea040f716fb7c367f79f80ac55c",
+      "icon.png": "7c9959f58d504ba9d30d09004c6c616829403d7e062baf698a7cdaf688a5154b",
+      "meta.json": "5a96a7903641797ae9dba200c8d7bcf66787a510ec5f370371f23140ccda5475",
+      "open.png": "a57b9127912e631b8613df2199494809c948e82433fdb9c6413fd6e2b6efe648",
+      "sparking.png": "ae9c8adaad25016aefd43bf460a6934e1328a1c36519ae301fa2b75daa26abf4",
+      "welded.png": "5c230a13bc25301d6cc21e8a37308f6ddb36780379798b6535f6d7dcfc7528ae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Storage/Crates/pdv.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Storage/Crates/pdv.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Resprited by UnicornOnLSD (GitHub) for Monolith. Taken from syndicate crate by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "38bd96cefb234c7e3b3ffed27848105f2358a0ff161b97b2c262077a3b766e4f",
+      "closed.png": "1f06750627ad05e2ae9f3edff3c9de36291ddd853f07d7bcf26b897621bfcf60",
+      "icon.png": "9abf0fd3ac4174dfe5e4a7a18df1cd89781f477a85421973922a69bafb10996a",
+      "meta.json": "fe95b3728ad8ced872d00218036135e3c034066839a54a1afb2717f31675a7c2",
+      "open.png": "cc2808eafed0cd90da2e6f1b6cb47602b559982b950d3e5b1c0f1a3e57d70854",
+      "sparking.png": "ae9c8adaad25016aefd43bf460a6934e1328a1c36519ae301fa2b75daa26abf4",
+      "welded.png": "5c230a13bc25301d6cc21e8a37308f6ddb36780379798b6535f6d7dcfc7528ae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Storage/Crates/salvcargo.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Storage/Crates/salvcargo.rsi",
+    "category": "structures",
+    "license": "CC0-1.0",
+    "copyright": "Created by EmoGarbage404 (github) for Space Station 14. Edited by tonotom1 on github",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "base.png": "609f8c2c255acc356902e532dfdc5d8d72943ae7c5a6db7d72fcf27ed756fc14",
+      "closed.png": "115e29716a78c00cda01d5e7f2df74b798270483f5b45652e5e21046dd116faa",
+      "icon.png": "a6ed5749b0d9dfa5739bb2f739f78b55e82ea1d8ead0dfd96f3e3916c222203b",
+      "locked.png": "42cac25b47e17d2d75fb7b3fe9e11cf8578de2f0be6f045c6134faa87ac55ae1",
+      "meta.json": "3fba01b8e67938d8b32d6bc7651540913137842d03ffcfcfabd87cb17907554a",
+      "open.png": "0a710d502f82e560708018aa1646f86fd7da18bdc7ebb1c2462ebc83dee9e10b",
+      "sparking.png": "ae9c8adaad25016aefd43bf460a6934e1328a1c36519ae301fa2b75daa26abf4",
+      "unlocked.png": "537020dfd2bae260a3c4e1e3acde620e9f88d292c18350b7e9493a6cc3648f46",
+      "welded.png": "5c230a13bc25301d6cc21e8a37308f6ddb36780379798b6535f6d7dcfc7528ae"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Wallmounts/Addons/armor.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Wallmounts/Addons/armor.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Onezero0",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "armor-solid-broken-cornerL.png": "e3b5330241225b4df0f702b9770c86f8dbf0576a77ba13bc622c97308dff14c7",
+      "armor-solid-broken-cornerR.png": "5932d342eb15b77fcb2eb034aa0a48677f2a8deadbc7c02da91eb3dfa6bf08b5",
+      "armor-solid-broken.png": "ec94ef57eebc3255dc034e9b5962654d66edfe77cffdfe1055c48f2827f11d4e",
+      "armor-solid-cornerL.png": "8cd6dccadab5bcef361287cb6b4a34ed6308dbae2ff407ab2232388131d5b4f3",
+      "armor-solid-cornerR.png": "2ca01233e5126f68c5e3e37fe4fc874d7d926a1b48af978fa28d44fc67d0d596",
+      "armor-solid.png": "2d168f10b7ef3b87b1fe2a77023479260fb9bfd80c7173cedc670fac983f08f3",
+      "meta.json": "0196f822888f4e0ca60202271bf2f81ff9956fd3af312d70950367398941b760"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Wallmounts/emblems.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Wallmounts/emblems.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Drake_Industries_emblem & Drake_Industries_Emblem_Broken sprited by UnicornOnLSD (GitHub)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "Drake_Industries_Emblem.png": "ddadafda12f5e9373ac606ed5a68f7e049247130489edba098d9b71d8d9919f0",
+      "Drake_Industries_Emblem_Broken.png": "e6f66a72ca827f66a30e927fccd1176e60f5abb8a3b9b10faa4c88c7d845ce5c",
+      "Steel_Hammer_Emblem.png": "c35197b885cd8d1ef150e24e9cb349bee5f1fca676281b0792eb5ad4d4f70e45",
+      "Steel_Hammer_Emblem_Broken.png": "76bbaed786baf1ea4e73ff7ed0be4f395b6d898350259ffa2bd7da8f2b277aca",
+      "meta.json": "adef4b7d967c71a11191a4ff04f8d8b5d01db3d2e667ee5ea68020cee5ba1949"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Walls/monolithic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Walls/monolithic.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Kyres (noodle_buster on Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "2137cadcb1d83a1223d72ece0c1a87b66b40899a39cb6b0216fc8a3a2f8a41b6",
+      "reinf_over0.png": "63765abe2466a0a6b9a22fdee09c9464eaffdc6a97be9f29643eb90e7b484a81",
+      "reinf_over1.png": "b73d14a78e6d0d9494eabd24cbfaaea711667fd4ede15f70d599be2b99ad1908",
+      "reinf_over2.png": "63765abe2466a0a6b9a22fdee09c9464eaffdc6a97be9f29643eb90e7b484a81",
+      "reinf_over3.png": "410b5803882b6fb8b762bab299c63ca0d4978b2798611bcf0998b7a85577a0ac",
+      "reinf_over4.png": "0dca655344532d3b87a3b87c1d84b77388e5650f8123fbbec5fb04e97526aaa8",
+      "reinf_over5.png": "6605a5aa35af1cfb2f5af902e64de26e12f4cecd8723b4ba20ce874a7615d241",
+      "reinf_over6.png": "9cf83f41458295b29a065815e9cb748b1fe69b0117dfd80088b91b2b1604a6d1",
+      "reinf_over7.png": "00fcd96129121c37cb35eebab206b2903a18e2433e8f46b9221486701c37f5bc",
+      "rgeneric.png": "29df991711457e10848669a35276cb69ce1cce61e6cfaef30b7fefade5a5c240"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Walls/rplas_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Walls/rplas_diagonal.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/plastitanium_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "6abc9f7fb12a22833df1ea16230eceba8844d80ea1c21fb69671ba04d0ab34f7",
+      "state0.png": "0b75621bffd7a147ab17a44c6b103044ab4602ef11ccbf65384f9aac39613b5d",
+      "state1.png": "54fc16c4082b345301b5fa25354bea917a46ed73fe308351cfd0697805ac1eda"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Walls/rplas.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Walls/rplas.rsi",
+    "category": "walls",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By rye-rice (GitHub) and 20nypercent, modified by AftrLite (GitHub)",
+    "originalSource": "https://github.com/rye-rice/Shiptest/blob/30760c66503e00e13c20c6cc714e9c7df1a52565/icons/turf/walls/plastitanium_wall.dmi",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "9926247ef5503f710f7a14df4ae81302586d51c61d3c2684c8b84674518fa49a",
+      "meta.json": "c622d7ab23c50479e34f5541ece81238806596c32e27b6d23ea29044b8d5cb5c",
+      "plastitanium0.png": "aefe868924bd06c5518bb7f8076e46b319ff189d39fe396a22892b2d25f42c8e",
+      "plastitanium1.png": "9fca9f919001150f4a580ade2638d4b3303b571d172e2887f65738f8b874bd95",
+      "plastitanium2.png": "fd847958cd79244a66e0b6a562f306b1266ac95a6d017d7966e119f694654fdd",
+      "plastitanium3.png": "fff519f6bf52e54d743aa3f16441432f44f205d5935fae5c343f5100de0eb7db",
+      "plastitanium4.png": "1089cdf588d93745b5a13a4c03d3dc32fb80079fcca9884566eca043eabc4112",
+      "plastitanium5.png": "f3b58eb4205ee280de5067814ba3f8be891c0cd4b4e999aa5ef4d278706ec5e1",
+      "plastitanium6.png": "849638e3c8235b7665b9b4d87103f5d46984786780edaeca38bcd6512d3ba22e",
+      "plastitanium7.png": "c71d4d7c689b539cddd076cb455f81bea83f31ee9f16beca9c8d543df742672f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/white_steel_catwalk.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/white_steel_catwalk.rsi",
+    "category": "structures",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from SS13 Shiptest.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "catwalk_preview.png": "5b75ccead61b89144c2992d0f2ee1a0aff9d973c59c7f16933d7576e6d534a33",
+      "meta.json": "732f6bb0ad17f31e3e20517599aa4868af8f94adb57dc12f2ae08f02b67314d4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Windows/plasturanium_window_diagonal.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Windows/plasturanium_window_diagonal.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "c1f8bbeb7c10e33340794d6bfbdca54d3ddf2796519c2ac42b3b955e42c48f37",
+      "state0.png": "875840a310d82cdc7e8f8cc02387b4f08c791e4c94ef03a67852148dbe39ec74",
+      "state1.png": "ead1e01ba80a9c3ab5a24cb2a4bc2f8dbe55045223781e5f9ce0b27d2468ae5a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Structures/Windows/plasturanium_window.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Structures/Windows/plasturanium_window.rsi",
+    "category": "windows",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "By AftrLite (GitHub). Based on the anywall format by 20nypercent and rye-rice (GitHub).",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "8f004fe30bc1fbfed6f093c43a917edabf30016622da74155ca32a642e74a728",
+      "meta.json": "ea587ae9bd95a624c5c94ac84b152c9697f233eab4167e9f863021d16cce1e1b",
+      "ptwindow0.png": "54c7db91f91bccae826756c0377ec2721efa80f96d45407b712b0f784a42380e",
+      "ptwindow1.png": "4aa804f410db9d2b2b83246ca51e3e9b2cdd8ae500c0432c11b7324e309597c5",
+      "ptwindow2.png": "e095b724f0d67cc0f09e4bc9598b3012b501000ab60872894cc75729de29f8e0",
+      "ptwindow3.png": "6c847f6e0a2f1d4c1b4f96ffb6a3f45da02d7702c58342d8a90b9240cd760c0f",
+      "ptwindow4.png": "87ec41fb1de5b3d22904fdec1dde138e5f608c40a8b0f269c371aa7bb87dd33d",
+      "ptwindow5.png": "3c1d015cdf189dbf0598307c046b0d3d6969579c004bd42bae1b937e0a6dc543",
+      "ptwindow6.png": "f5885b0f4e2901e2dbe65ebb0785e134e04f857eff4cb11432137f61e4aba1f5",
+      "ptwindow7.png": "f060722af51a3e3d71de8d35865c9afa6f94a43a8a6d52d8447318751c37ff82"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_Mono/Tiles/planet/water.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Mono/Tiles/planet/water.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/tgstation/tgstation/tree/f116442e34fe3e941a1df474bb57bb410dd177a3/icons/turf lava sprites, hueshifted and modified by mirrorcult. Further color-edited by starch.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "full.png": "7c7bcc1ccffbf070274bae217ebe68fc66fcbc57122d31fedd23a54966216aa9",
+      "meta.json": "01261c7b31ea7a854384761f6230860da33e04768b18a674d3b42eda9ac337d2",
+      "water.png": "997858c7d8a130b48d741cc0dc08e05ff470beafe7f98b5760fcad6f7782328e",
+      "water0.png": "17320a72e8d4b5c677adc58071473cd87e8b7cf999c84ff16dcc8342e91b7e49",
+      "water1.png": "4a5cc4b8669aedd205780f348865bb91534f6d949cfe7e3d669d9a227e48c1d0",
+      "water2.png": "979356bce9d35c6a527bd34b56e35b585633cbb75264445a815e404c9c70ee30",
+      "water3.png": "b27697977ac0149fee5b05e8b8a32f8ddcef20e44be04706c88f154742427694",
+      "water4.png": "14b6c57c02beb01a71d21c4eee5ee529ac7ef50cdc2c30315a622d6debcf48cf",
+      "water5.png": "41aff5913aa6e844312b67680d2c30ab671ce57db83f7b420d313d75a3193228",
+      "water6.png": "702966eae13a5f83707ca9df3bab4c32665da04c9084e9e0b9fc9e9dc6e270f2",
+      "water7.png": "b487f3dfa790f58b382fd16b2bc2b8757a644676ffb564c7c8c6979854a47bf9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Actions/escapeinventory.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Actions/escapeinventory.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Duffelbag icon taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | Modified by Mnemotechnician (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "cancel-escape.png": "1e862291801e5d9b5d1314942e4401f267898bed8e2c8fff82cf3530acb43edd",
+      "meta.json": "85330d999a2a82d359c3cc5b8a2216cb4d1708727f30641d37f8909e90888961"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/arcadia.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/arcadia.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/7e4e9d432d88981fb9bb463970c5b98ce85c0abe Based and edited by SungYandy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "9d2bf708b46cb9c4187992bb0766d2492578bee421dff4cc80f2cbac9b62ff2e",
+      "icon.png": "9b3f9f959284ff0817e383d472b8af65ade8f94e83df373f881f74ad6fc2d9f0",
+      "inhand-left.png": "205ec822032744be5c589ad725a0bcabddc33455f1745bc19c836030f10209a7",
+      "inhand-right.png": "e8986b66e5af9146a624072c2b57b3135de3e43673506ab63ec82ab83c204e73",
+      "meta.json": "4adf861754e8afd20d30ba828431e1e58ffc4edfd3df35d54d7265e609d45195"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/clippy.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/clippy.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by gentlebutter(Discord) for fs14.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "ca784f686f2222fc8c37f46e109f66686573a4380cf04545069239b11c77184a",
+      "icon.png": "ac5694427b1291ca702a5e538002f682853b74e2f372ce7cf17f769f157fb870",
+      "inhand-left.png": "8996120eecc456645d12015fcd052d5d449eb6b222ef0700f4e20b482156ee97",
+      "inhand-right.png": "b0ec632c467b116630c2299aed2fcfa1b3b0d6ad93fb886b2447b05ce7df8dbc",
+      "meta.json": "1632be276ebabab1d1dc05ecda5148706586f80bb0cb8a9700628194ff9efcdc"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/ertmailcarrier.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/ertmailcarrier.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6, reskin by erhardsteinhauer (Discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "981f73cabfe69b489fb04dcb869b67de01891df3b41c6074a646c45751dffaa1",
+      "icon.png": "3574ed519c5188614b58c0a0758b51eb10b69d8ff0299129503131e0fc50da0d",
+      "inhand-left.png": "af7bfa17861cd7b515814f85e8297e96d66f59d313a83a4d0e9284d49136646d",
+      "inhand-right.png": "d790d7a6f3fe2beb68b29d48bcc968419788779b1b074a062fc25eb23f60a213",
+      "meta.json": "afcefa001ca27b92bd2b3ad1491be1f775509ea0a1a54d67aa26cc0dc5bc4109"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "holding-broken-equipped-BACKPACK.png": "ea286758d41f9991b422a02991cac2d4d82f0650570236c9d23e7abdf7176bdd",
+      "holding-broken.png": "a5fe456106af305bcd582116aa1558ee5057247e500ff5c5fbf031ed0e8d8f9b",
+      "holding-equipped-BACKPACK-unlit.png": "b8a690a78cbce051e5e94849e6f791d9bafbdf47c552c08c847cec6004209ddd",
+      "holding-equipped-BACKPACK.png": "c5df8c1e615876d45a793c374086b1d32937da2cfc157c5f95e7b5a498ad70bf",
+      "holding-unlit.png": "41faa85032e414b8ea10ffca4dd589d06a6fa979e7b6bdc267ae9d84580b38d2",
+      "holding.png": "dd99f9a0322ef88ec87051e725c8c575cd2a3bc3b7b14f0b07aa34da416e3f89",
+      "inhand-left-unlit.png": "f45c1b3a7451ba3899f2d3bb87190264ef43e1d93c15ce81b841e8b2ffadee92",
+      "inhand-left.png": "a306064592dd4c0cad805347dd4526465fcb237e415894cb691d362d40338a16",
+      "inhand-right-unlit.png": "870844aed8f01dadcf77e9631b1f65903f405a56d8c0df10fd0db14f3807d8ac",
+      "inhand-right.png": "d2be6fe2059a9fc553d7bcb4cd307996eb72b961eac0ec263cd37c244403e2e8",
+      "meta.json": "962787bc80b3a79be4abad8ab9c4a009d570bf0ebac214ba85e2335f3df73981"
+    },
+    "replaces": [
+      "Clothing/Back/Backpacks/holding.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Backpacks/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Backpacks/pilot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/pilot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | Resprited for pilot by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "f97ef0c71d3c25b426fd20b5ca017b1bfbf5c98f4cbdf5f5294c068249718a5c",
+      "icon.png": "40b9be98624b802e9b0f79e55bb60990f62bc992752e725343d80921c6b507a1",
+      "inhand-left.png": "161c392d36c5f00d582cde62083b577c21bf9b4dde7fe19a21fed7c5c6fa4d06",
+      "inhand-right.png": "ecd227d5f55ee7b4b293377e92b21ee0b26a125f5a1488c8b88ab2fde73be6af",
+      "meta.json": "abc7a85f0e9c30c228c041f24e9d715e6b82c3a90cb4c846c64271b22e07332c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Duffels/arcadia.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Duffels/arcadia.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | modified by AjexRose for NewFrontier",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "bffb31dccc16596b45cddf5ff8ac419490eb7ed4d9eb0f0cc58f29645c00f522",
+      "icon.png": "d2c458ef9a20618e8dbd4ab250236724400d79357391462c9fa080ccf02cbc39",
+      "inhand-left.png": "ad4d03201982bce47639bcdce1f6df6eb99f53fa26dcb213b9dc6265b3dcdcc0",
+      "inhand-right.png": "261d74a18e1100756cf1ab69ada51a944a5895bdcc8a7d56684f167e8d0ded47",
+      "meta.json": "c078c4ef6c73a9ceee93c9afc8349e03e2451a07ba162585ba1f929ace597e80"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Duffels/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Duffels/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadelstation at commit https://github.com/Citadel-Station-13/Citadel-Station-13/commit/0a4a0fadb32e3245f8bc2ee03f88d776de1852b5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken-inhand-left.png": "c513ce92a8a571b97479f4ef183046e28b681ec2db0777e4012c6d4c5c798919",
+      "broken-inhand-right.png": "5387297ae575a510c3c04238f1e78c58cc79eda8e7775fb596d731334dec3846",
+      "broken.png": "2caea809e8ffe4ef7b5a4d5056c0d4a76bf435dae2c928d2f77c002e3592d6b4",
+      "equipped-BACKPACK-unlit.png": "eee7e8daaed63c03e99c7ff22b9338c9a71d3494ce46898f91ea0a27a59b5d1a",
+      "equipped-BACKPACK.png": "3e092692c129e7ef29c7ba2d1cf1c5b7eb2bf67a72c0b70988082209a7b6f99e",
+      "icon-unlit.png": "b38b89d31e432f64204508c66660ec928ae77272bafeb610541d5c6d1d1f48f6",
+      "icon.png": "41c628c263baa47b1b8fb31eb0ad7ec726dc8840a11868504f54f77738235f53",
+      "inhand-left-unlit.png": "f45c1b3a7451ba3899f2d3bb87190264ef43e1d93c15ce81b841e8b2ffadee92",
+      "inhand-left.png": "a306064592dd4c0cad805347dd4526465fcb237e415894cb691d362d40338a16",
+      "inhand-right-unlit.png": "870844aed8f01dadcf77e9631b1f65903f405a56d8c0df10fd0db14f3807d8ac",
+      "inhand-right.png": "fdb39bcca9f84f6785257a3af92fbb5d21a49e119d1c2c26baf1af4f5ebc57e7",
+      "meta.json": "7c7e2751a10dda4facab69ebaf390958afa74bf94d5ee96bf6b75e0aee2c8b25"
+    },
+    "replaces": [
+      "Clothing/Back/Duffels/holding.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Duffels/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Duffels/mercenary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Duffels/mercenary.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | Resprited for mercenary by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "6cfd141f1fcd254bafd6717380ae912c41c29ea751c98dec6bbab9fac70e19e4",
+      "icon.png": "c924a86c75e6a88fa6c26737a4e7342f454fa5c224964e02d68ba6d17ee2e213",
+      "inhand-left.png": "044352840177905abb3c7e9fd9c70cbc518f7929bd26cf2ecb195feaa49bbbe8",
+      "inhand-right.png": "6819eef96dc9415dcbacb4e30f835ec045faa424e790d459aa824e564202aafe",
+      "meta.json": "2e4a0363039a7c6be7dad905769122b4a048594ced04332a8ca2be2ffdfa61cf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Duffels/pilot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Duffels/pilot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | Resprited for pilot by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "fa975334a5f1ecd9a9b272432e9d991443610ecaa9130eef40f1e951eb012580",
+      "icon.png": "beffff545ad83a6278002552902b781e31408b2e3cb023d9f2a625f34c80b4bf",
+      "inhand-left.png": "547646dcae36df58f318cb6d0ae65b83bc41417c2f036c7e09344ed2f0126928",
+      "inhand-right.png": "6f30969d98c77d46449768f0495847cf49307cb712731c5b7f9be53e9d7e39df",
+      "meta.json": "abc7a85f0e9c30c228c041f24e9d715e6b82c3a90cb4c846c64271b22e07332c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/atmospherics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/atmospherics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Based on sprite by @Zydras (github), resprited (colored) for Atmos Tech Job by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "2e2702d3b9ee4f1344a28328eedb6457fc652f6a965a26f46636edf4010c3768",
+      "icon.png": "de556ddc172e72e13c3bb967e73c21ddfa6a8d7d94c743e5b9134ae9e36b18cf",
+      "inhand-left.png": "98508a8946df7457b12912b6d8ec8be8fec3414f58abb91430495c38ff42cd4c",
+      "inhand-right.png": "809b2c1804f12a0576226e1dd0e941588b5a106ee870ba1848ff1219cc2a302e",
+      "meta.json": "cf128753e9c07c09382fa02b0620e3425a8479725147c0afcf1444cf4f6242c1"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/atmospherics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/chemistry.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/chemistry.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "ecf31c9cb0f3f33948c9347fc4404f23431236238e99c33fae355831ada0ccf7",
+      "icon.png": "c47c35586203ea8f03301f314aca6f0ff8fd05c8d304caf521bd6c9e4f572b8f",
+      "inhand-left.png": "6f9c876a6049d116e9aca4ba0969145d879f343ca7c3065b78c76bd32d7ec2f3",
+      "inhand-right.png": "e655a25c7cda89e5a125d7d10a9b41c0a87cabebf8df597688b92d9efc633a26",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/chemistry.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/clown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/clown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "c688734d9c58e451e180e675a13ecf221d942d1807a1e10c8bd403439c9e765f",
+      "icon.png": "9dee92414530716f13af830b645af597175dd1b20cf41e87a1d376e02cff51b5",
+      "inhand-left.png": "dd94aaf0e73ac1d06c8e9924eac7cf0a9a4423c04de25a07639ecdf147e3b674",
+      "inhand-right.png": "7187796054e7745e9467af5d1e656fbab31c22ebd879d291bd270e0db6edd8da",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/clown.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/color.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/color.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Original sprites by @Zydras (github), split into layers by erhardsteinhauer (discor/github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "base-equipped-BACKPACK.png": "c72a06a681a3583a0c3582420973cb8a2c0ca66211c5d1e906a3e49ce52d52c0",
+      "base-inhand-left.png": "87d1657cdd262dafaed33e5314be3ca199a8e92576ab2516c4dbe4d50e95de4c",
+      "base-inhand-right.png": "37ee3844d7aaa5b422498dc6d50faceaf42da41029ff49d026c558bde441ecb2",
+      "base-top-equipped-BACKPACK.png": "afba129eb127620ff00464d805666e119227a7c96a58a7e9f68d08587bf82ea9",
+      "base-top-inhand-left.png": "4c57e372f9ea2891e40436e10203d5c2546db895fdbe2c8a107f8c8652bedbce",
+      "base-top-inhand-right.png": "069cbcbfb69c3cef33efeeeb063f6be172cefad4bbd11f5ddccbddec22951791",
+      "clasp-equipped-BACKPACK.png": "e1604dae3cbf9037657a07d6e53a0a4841079bad72db85319ebfee2d0479191d",
+      "clasp-inhand-left.png": "f3d52e5ee437554d922f95ada8c88fabbeac8834a2075e866663c4a5da6312e1",
+      "clasp-inhand-right.png": "f1dec5ae6d197fbba2c7e19f6b3e71c562f92419378d58939b9ed4b2b43c8053",
+      "decor-accent-equipped-BACKPACK.png": "3612692a1a5f3072499de1396c341d375e093bcb40466a9a18c60378304d1996",
+      "decor-accent-inhand-left.png": "0c906522efc76185f8b993b0b7cc153541b24c880d8b2f35939800fa52ff0b2a",
+      "decor-accent-inhand-right.png": "0190633aa3df02d09c01088330b5f0383350452865b7ef562fcc69a068680327",
+      "decor-equipped-BACKPACK.png": "a61ee847aa90c1e58f2496b580c23c205ada181680559230b9437d7f3e7aff62",
+      "decor-inhand-left.png": "bba4411068285e29e6cbead80aeb7b10c8b444367c2567d32742f058ab4ed881",
+      "decor-inhand-right.png": "2fc43db9bfa33ffac0522ea6b4ae6aab1f157379c9988420f0b43faa67d6035c",
+      "icon-base-top.png": "f2e35060f606b7698fa79d8d3a4b2c2de581669e554edf78d3cd04ad2ccdf4ac",
+      "icon-base.png": "f49b58f743723f9a803559f44a57573babc18d292bc13d0c71d736570e55c295",
+      "icon-clasp.png": "0fde04f433b0dbb6bde0d7ea66a3f575447d1875a47a73acad2bb38970441f6a",
+      "icon-decor-accent.png": "9ac6135b9064fcfc08517155051da4fb0a25d98effbcf5b19d0f3b8448ce3b57",
+      "icon-decor.png": "2d971f5ab8eccc048ff8ed22f86892c20026dc580e13fc37346ba3227171382f",
+      "icon-sling.png": "d9d0944079d19962d9382332c8ca08f5b895512eb9c3afbac383045a029c5a62",
+      "meta.json": "d172e06d139f9ee12cf4b8e1351e6023581892f18ec699e6f5ed606e416e655a",
+      "sling-equipped-BACKPACK.png": "1616a1a3f6758955231b9b10148217b07c641e270b3b3779c9961338d1b2d3db"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/color.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/genetics.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/genetics.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "4a57a0bf95bc62521e8e2a9cd20f20c8753628ac3a9881064529da1bd2c25267",
+      "icon.png": "4154ba269c49e14edaf518a3754b503b29e21b6942222a779760ba4d7e4bd61f",
+      "inhand-left.png": "ba26770f072464d5ffba8bd47c5b13e28835966a082e024ebbf25c630805502f",
+      "inhand-right.png": "1c3cd351ace75bc1c33d6254dbd8173706f5ee470afe16d123db7f0681108bff",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/genetics.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Based on Citadelstation at commit https://github.com/Citadel-Station-13/Citadel-Station-13/commit/0a4a0fadb32e3245f8bc2ee03f88d776de1852b5 and tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Original sprite by @Zydras (github), resprited (colored) for bluespace bag by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken-inhand-left.png": "e11d9e704b8dc3d8f2b9f456e1d108d5c5ef7fcbc51127d9d6eeb3a86598b58e",
+      "broken-inhand-right.png": "991752ba1e0266fd450d5871b33d32e6f057d2d252ba5014e51669c6d657c414",
+      "broken.png": "0537f8e23b68cc755abdd186512b79087bd504ae6b32d67b075ab91054533a57",
+      "holding-equipped-BACKPACK-unlit.png": "2cbb941c2de26cb779afd2ad9119e3fa2793ff964bc7f11f5d2bd45db6300270",
+      "holding-equipped-BACKPACK.png": "f68a7f2209a46f9b5372bbe9610edf5e1ca3ba3c5a293b8522237aa70e9a4751",
+      "icon-unlit.png": "009ff204091516a790bfa0e53fed3fbf24000021616b6fb075f0c5758b46146b",
+      "icon.png": "d185d3f9f72fbd1afdb6ec3d26ee208f7fb7f2b36396f6de5d81ea209bc0549d",
+      "inhand-left-unlit.png": "64751c6fa98f6b3aba91d7ddc8075bbe339a302ab6872dde8c98c60c49e4e744",
+      "inhand-left.png": "94be29b8a165389a6b62f22882bc53edc252e5b42f810a406126c06cfb75c730",
+      "inhand-right-unlit.png": "225d336bddb76078e17ac36d3e4e9f7d9851d752b820586457fee2053e7c8816",
+      "inhand-right.png": "d47d9f20ea8164577d9b8b96abd3f418676ec668ab8ac80152dceb142bd411ac",
+      "meta.json": "d4a978151538359adefb6561e80c1a52f84c6a856ad965f9ce32c92e8be915ab"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/mailman.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/mailman.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Based on sprite by @Zydras (github), resprited (colored) for Mailperson Job by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "13ea8daddfba28b7769d04824077865f97fe9c92a0d5e59f87b063954db59d6a",
+      "icon.png": "879780597fd8d29edbf942f11ea42af8d3b9e878e1b37d58751feeee52786002",
+      "inhand-left.png": "4f2610c47d42c68ee1b118623c95ca88d30791024e92ec4d72e03dc545b20419",
+      "inhand-right.png": "caf75d12ba9edd7b6acd0118b26952b8d4a0674d244b1fa8a650f4d72eede1e0",
+      "meta.json": "47b987e89c0ada526fc22e994286774c112b3d0a66c7fba808f9d7621c928a1e"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/mailman.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/medical.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/medical.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "0dc50f99eaff9e735468a32e35ef3abf89de9ed746527c4a34bffd77166c81bb",
+      "icon.png": "fb2692b9995c6f8106c22e885063e97e0442bb8815c37f984c2c943cfabb759d",
+      "inhand-left.png": "bc7020d9229cc1e5a3bfc369f85ec963434427f6dad6a73bdf5f9c86c6d713da",
+      "inhand-right.png": "da8ccb959834e24a4d1a676ff3261572f37a29416971428c2481178bb86074ea",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/medical.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/messenger.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/messenger.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "de48724f2808788d78529bf2a4d57bc7a712b06d672d5917572dbf88b9b8e547",
+      "icon.png": "f3b0ce208edbc27b18013f93785c02aae4eb4d4270b7f26dd03221aab4668d7a",
+      "inhand-left.png": "315f2831fce4617fbd60162e815fb5e82d798b78a21e778f9eeaf41ceeec194d",
+      "inhand-right.png": "3d50db0bc51ae8329c9f61b80649fdb25c1d75b5776b0f8f5da01d75f068aef7",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/messenger.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/mime.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/mime.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Based on sprite by @Zydras (github), resprited (colored) for Mime Job by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "8d9a6f90b9a42f2e9616ddc783b8f16cf23488f5a88a25cec293cbc801b6940f",
+      "icon.png": "97069afd2f680c44169d77ac2342dff83ce95c1cc5f696ac94d6ec6c15bc2ce7",
+      "inhand-left.png": "4d27d36172e157f0fd861da01158bfa367b00ecc58b143cc5832add8437f05cd",
+      "inhand-right.png": "e03e527163d0b56c20ece728fa88c9442f593ded81e390cf2ee6e7b352e28b8e",
+      "meta.json": "ba73a7beef6cb7d6ab99618de2510cdeac24dfcdeee17db7616fdc86e6c706ea"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/mime.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/science.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/science.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "7f4832abd6b2b2e514549777ebdbb3406014af41cb1af0a1aa2d64ec522861a4",
+      "icon.png": "55d1f47c4e3a84527ce3e0cec5e9ab404b74fc5aee30e9606f2ee44ba157d979",
+      "inhand-left.png": "8abd30dc788ced174e8ef1fc7e352b56675f359d8c72eba98ebb22a88b3c9437",
+      "inhand-right.png": "47ca7248587c9ec33265c95cc75ba6f82c0d471edb7c9ba0bbadfc6997e0e54b",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/science.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Messenger/virology.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Messenger/virology.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/0345de358247afe0eb23ed0ff509b9b5f1995135 | Sprites by @Zydras (github)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "equipped-BACKPACK.png": "e8ed7722224cd8d1fecacea7aa19c24149fd10617d055c20aeab96261268abe9",
+      "icon.png": "52660f2a61fe8391468fc1562a01577e6f67ed33a92d773be2c1fa8ab1ba48e9",
+      "inhand-left.png": "0f1bd52e1489f33b6b7de26ae782f213ff9c8f67c8f960a7dc440248fbe30665",
+      "inhand-right.png": "5af729ce24c54a5b9b821950155bfbd8afd9c8b25c3d509b799a2f2c339509d3",
+      "meta.json": "25725249aa19d1b913f19d504573d6bb48c069f8eb1c1dcd6cbe841c2ed65c2c"
+    },
+    "replaces": [
+      "_Lime/Imported/Goob/NF/Clothing/Back/Messenger/virology.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Satchels/arcadia.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Satchels/arcadia.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "4139a99f1b7c081cbf6d921784fe00ac6f12dede921935528f318ff097a0fb64",
+      "icon.png": "4de9639b6c6f0d7a02d543853e7243e0163e643cb66f3f93be1cee3031793a24",
+      "inhand-left.png": "bb25174fe527bf1b740ed63811f4d25aa514e1d55d660904135264e5eba6c811",
+      "inhand-right.png": "8f2ccfe6ec90e7e15f30c9d686278514e9e0c548bae6419179950373f1c1110d",
+      "meta.json": "d3aaf4d7c3ebd43e00667bad4c3506d898a47cf5a039c77c011caed87a69d060"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Satchels/holding.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Satchels/holding.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from Citadelstation at commit https://github.com/Citadel-Station-13/Citadel-Station-13/commit/0a4a0fadb32e3245f8bc2ee03f88d776de1852b5",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": true,
+    "sha256": {
+      "broken-inhand-left.png": "c513ce92a8a571b97479f4ef183046e28b681ec2db0777e4012c6d4c5c798919",
+      "broken-inhand-right.png": "5387297ae575a510c3c04238f1e78c58cc79eda8e7775fb596d731334dec3846",
+      "broken.png": "6688a1220bf96fe0c4147349bb6f41cae2a76ba9396aece0038d8e811df29831",
+      "equipped-BACKPACK-unlit.png": "0b6ea9a6a1782d409e1950f32beb7d3619aeca23e4555a9015afa4d803bbb808",
+      "equipped-BACKPACK.png": "6ce0cf6c767586a9edfafc1e6d6a12598fe73df20d18a0300b09558b1e093698",
+      "icon-unlit.png": "69e7f9926455233de473d0a7cd3b5dfb58f8a473c2344ae51ed11c1c411d640a",
+      "icon.png": "cebe18e27200379fc8f757bbdbe4c54e7960437b62947679816966269d2f6bec",
+      "inhand-left-unlit.png": "f45c1b3a7451ba3899f2d3bb87190264ef43e1d93c15ce81b841e8b2ffadee92",
+      "inhand-left.png": "a306064592dd4c0cad805347dd4526465fcb237e415894cb691d362d40338a16",
+      "inhand-right-unlit.png": "870844aed8f01dadcf77e9631b1f65903f405a56d8c0df10fd0db14f3807d8ac",
+      "inhand-right.png": "d2be6fe2059a9fc553d7bcb4cd307996eb72b961eac0ec263cd37c244403e2e8",
+      "meta.json": "b2a24e71a0fc87ddb9cb5d0b0cd49e31292da31cb29e0f070d6093a94ab2297e"
+    },
+    "replaces": [
+      "Clothing/Back/Satchels/holding.rsi",
+      "_Lime/Imported/Goob/Clothing/Back/Satchels/holding.rsi"
+    ]
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Satchels/mercenary.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Satchels/mercenary.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | Resprited for mercenary by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "9a2f7ef389c73f52f744f499862917474a1a99ff45abebcdbadf998c679b858e",
+      "icon.png": "da9fea258a1c98518b5fa89798521b5abf81ef544e02a1add5ca398f54f5608b",
+      "inhand-left.png": "d5ce6ca7234c7ccb9b1eece8d1311135757d1c3c8ec8c00953c6c74e61c21196",
+      "inhand-right.png": "a99b0e4baa1b9663263c0f4d2542f7bdc4a6a7e2e1af478973d7de3ebda8481a",
+      "meta.json": "2e4a0363039a7c6be7dad905769122b4a048594ced04332a8ca2be2ffdfa61cf"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Back/Satchels/pilot.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Back/Satchels/pilot.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/547852588166c8e091b441e4e67169e156bb09c1 | Resprited for pilot by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BACKPACK.png": "e2d398f0ae4293b02c8356befeeb9674332d6dd23db9cfdfc20b9e7ed9bbe6b8",
+      "icon.png": "23c4429c5ba3ebbac594911cf08514d32982cd6f318365e7abf75558fa13f3b5",
+      "inhand-left.png": "b2d5f8a69360efdfd80b1241ee0a0d5eea97eb6766740e2818a6e9287682f7b6",
+      "inhand-right.png": "72152cc54bb25c890c791768e78f66e8b97e53c7bc512dbe927de9f65eb654fb",
+      "meta.json": "abc7a85f0e9c30c228c041f24e9d715e6b82c3a90cb4c846c64271b22e07332c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Belt/arcadia.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Belt/arcadia.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Original sprite taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e | modified by AjexRose for NewFrontier",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-BELT.png": "0d93a306c424910da8311576c2cf08aff9676626e68553aa298432117ffc678d",
+      "icon.png": "2deaa13e9c6cccf818102121bcea475522129182ebf4685026d26cdf35e26f84",
+      "inhand-left.png": "181d7ec7082728291b6c7a8f47071cce82f3d60dc9038bbf03e234c1961a149d",
+      "inhand-right.png": "5f7405ef5d93a0f2c5220efe6d6f051eb3d803dd1d11a63dead6f076b49e5693",
+      "meta.json": "9bb2be10ec3b4bb25be167bb9832f143c6f98bc09dec162f2eebe895b2e4ad69"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/_NF/Clothing/Belt/chaplain_sash_overlay.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/NF/Clothing/Belt/chaplain_sash_overlay.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified files from the base SS14 (bible.rsi: bible in-hand sprite; belt_overlay.rsi: pill sprite), sprites for stake, censer and crucifix are new; edits made by erhardsteinhauer (discord)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "book.png": "fa78b72fe5dd6c7cca0208bd75164960d2b80ec43cae331c60ff3b054e266302",
+      "bottle.png": "765892743263583948bf1ae0f667130928a84fb9f3e72577d8aad6396267dd73",
+      "censer.png": "60a5e063ab2cbdd5def4fdcd38c8efd804a3289691fbf15dd4fcab4242023db5",
+      "crucifix.png": "6ac799d9daa0a75ad58deac73971228eff174f9b8098b1672c35b1256f34cfb9",
+      "meta.json": "139cd9e7d8b85e7d8ddf7405709ab7193690151f77273663aab5c193e75a7170",
+      "stake.png": "5338d911afb07d3e743a4d5eded26e4a210b2df65a5d3d78d682f69789aaab72"
+    },
+    "replaces": []
+  }
+]

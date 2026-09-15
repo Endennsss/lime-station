@@ -104,7 +104,7 @@
   id: RipleyAPLU
   name: research-technology-ripley-aplu
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: ripley
   discipline: Industrial
   tier: 1
@@ -125,7 +125,7 @@
   id: Shuttlecraft
   name: research-technology-shuttlecraft
   icon:
-    sprite: Structures/Shuttles/gyroscope.rsi
+    sprite: _Lime/Imported/Monolith/NF/Structures/Shuttles/gyroscope.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: base
   discipline: Industrial
   tier: 2
@@ -190,7 +190,7 @@
   id: BluespaceStorage
   name: research-technology-bluespace-storage
   icon:
-    sprite: _Lime/Imported/Goob/Clothing/Back/Backpacks/holding.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Clothing/Back/Backpacks/holding.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: holding
   discipline: Industrial
   tier: 3

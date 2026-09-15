@@ -1,0 +1,861 @@
+[
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Armor/gladiator.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Armor/gladiator.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "b6c5bb0c73aa2dd08cd41014e21920a1e7ebcb888193071485420ec0e0cfd484",
+      "icon.png": "f48efc9e2b9cae3d91fda32a28665b9cdbed040d9ff58de230045d0610b489f6",
+      "inhand-left.png": "08bf68a05b9b9681193d0308e329e035e63903973b25065679510b3477b45d40",
+      "inhand-right.png": "9dad84bc95b5ff98050d2e09323ecc5a7d7b14ea0a40362e003afb152aced6fa",
+      "meta.json": "f39383722ef9987fbd857de11d664b9f662488a76d5c502b461ce6510c688add"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Armor/touseigusoku.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Armor/touseigusoku.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "1301fc08be17a20c3a00c17f63936ca3074568a542721cbcb4c656d0fc76827e",
+      "icon.png": "0b5401d4d43408980a25426f5ea7fe8566c656e3a29d7b2fb00580d5294c6965",
+      "inhand-left.png": "18be6b75536ae856dc982525725c35739948fb1e7164036ffbf2310bb4bf789a",
+      "inhand-right.png": "1c38f0af6235a32d16d5a52c8ab80f62b8ad50bf774636ca4a371b82915c335d",
+      "meta.json": "19f3859acf9c667dcbdd257bdd0f51a45a586fa948e4f4a058bd44999cdb3ce9"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Coats/mantis_jacket.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Coats/mantis_jacket.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "2dd5e5697c698e3af1d9c880299287596b034a31f85bade4a6591592c134bb36",
+      "icon.png": "5f945a021e6a8d2ef2e5afbfc326935f73e885b3b854247500543b4affa764da",
+      "inhand-left.png": "52d9d2b53def112bc9bcfea599e2877fb0454270835d84c61ad28dd680dfa33d",
+      "inhand-right.png": "9bb27431185b3a48352b5b00acd1c32153522bcb38928e32435ca9e64b754a2b",
+      "meta.json": "b68cae6add880bf4ec3efd3dd690aa789468182ea363c20ba3e8d3c85861c692"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/ReverseEngineering/juggernaut.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/ReverseEngineering/juggernaut.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by emisse for ss14, reverse engineered version modified by Hyenh",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "7df53a6704dcc9ea621305abe7327a4e0d2f5c4250f6608792835247d645023f",
+      "icon.png": "f443d491c66f2f0855d7f3e4b1c0c6a22ee62ac8bf23a7be99269d6dc5fe089c",
+      "inhand-left.png": "628feb6ecc8ae85c17cd7663778c79a31a4484adb5853579a8b4b1f6205eb959",
+      "inhand-right.png": "45579d3a5c1e6d991c6a634f4c7543c41d8207b75ecb8eff370c60e69b86cb4e",
+      "meta.json": "74dc4309161298106bacae93e3fc9bd9b75fad60c3072e76dfac7dd655ce198a"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/ReverseEngineering/syndicate.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/ReverseEngineering/syndicate.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "6a6b2e6a0025fc3346eb17937eff4c7407f3d80fb030f4eb1e1ea27aa090e5a7",
+      "icon.png": "ca64232ead37840659f20fab2612110dc01ace7379b02856bb50712d9c4e16ba",
+      "inhand-left.png": "c6c8cea842e1a4ff80c74191ec69c09179ad63110d446bd2c1edc2fc27819085",
+      "inhand-right.png": "bc8e3d80a5647d45139d376afa9fefee61715d10b7e98972f62c8e940bb4cccc",
+      "meta.json": "5386a74ed8b44315e47e25861849838766d4d136ff23e244abdcad55de7f9e5f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Robes/brown.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Robes/brown.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3d1a0a5b367a080c42fba0e85ce0382b2cbcb284 . Inhands were made for SS14 and available under the same license.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "4fc56eb24aa762beb62ae7ca88849a80f48a306dc8a762360410aed0f2aab227",
+      "icon.png": "7f0e3e7d7f69e760b1a7d98ddf9addc32de90a550d30ba9275cff4776b357bb3",
+      "meta.json": "0dbda89103b438e6527e7ab2e29170f6069b5829f283fecfdae676f95dbff00d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Robes/mystic.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Robes/mystic.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3d1a0a5b367a080c42fba0e85ce0382b2cbcb284 . Inhands were made for SS14 and available under the same license.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "cf3ceb62eb8c8e1ac8cc2954ee3beb88da1c200a2a7735f19cd7a3782bccafae",
+      "icon.png": "09380c58c9a65e27c4b3a1114e75bf5fe1cd4fa0c21c7aea99196c35ca95a417",
+      "meta.json": "0dbda89103b438e6527e7ab2e29170f6069b5829f283fecfdae676f95dbff00d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Robes/nun.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Robes/nun.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3d1a0a5b367a080c42fba0e85ce0382b2cbcb284 . Inhands were made for SS14 and available under the same license.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "2e2cfcbe6d73658b95b7492f3d5e00fb5d1815814ed3ac6a3c153b4dcec6925f",
+      "icon.png": "85e1b0c0bd7572b93a759a319ae116cf8513a1bbf588dc17eb1ed0c98395aeca",
+      "meta.json": "0dbda89103b438e6527e7ab2e29170f6069b5829f283fecfdae676f95dbff00d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Robes/techpriest.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Robes/techpriest.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3d1a0a5b367a080c42fba0e85ce0382b2cbcb284.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "e87afcd3be8d041579fa86291a0ecf463ab22f6a2de7432f08d7edadaf4c90a5",
+      "icon.png": "1389d90d7f9a3fc4e5057db4b9999993be543a85db533e442707df6f4fed133e",
+      "meta.json": "929aa848cd34b493d79c4c134f2beb9d9ce12892c61971588e08616f2b073048"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Robes/white.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Robes/white.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3d1a0a5b367a080c42fba0e85ce0382b2cbcb284 . Inhands were made for SS14 and available under the same license.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "96b3613d71600c7cc3bc95d9c9aa30c1958d61a1773eafc3071d3c1a7a46e4ff",
+      "icon.png": "f575b69e4b37d6a86fad6b633fcf3a29f45ddd2694099b81a688e151a7d079d3",
+      "meta.json": "0dbda89103b438e6527e7ab2e29170f6069b5829f283fecfdae676f95dbff00d"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/Suits/areopagite.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/Suits/areopagite.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/3d1a0a5b367a080c42fba0e85ce0382b2cbcb284.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "e40c9c23e6c5991cfe153c27989463c0ccded71664a5e5653515c69174d803a9",
+      "icon.png": "e8f29450f5c2a854e3ab5f228d0a8774854fb04822145620dd68ef3139fa81f9",
+      "meta.json": "69fdc33295067525ec5358a783c4b920d710014f30c2cdc88f3cdea196e01be4"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/WinterCoats/hyenh.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/WinterCoats/hyenh.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "fd1fb556ccde9ad60ae06656c85b69792bfd0c2852701c359c7fc1ecdd658511",
+      "icon.png": "7a22761fd7fa00efc04f1e152ee198b33e99b8d039a7ae901f6ade46914c132b",
+      "meta.json": "80202339e82727cd276775ebbd226512bd0f841ab146e394a1833d079fcb6f41"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/WinterCoats/long_winter_coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/WinterCoats/long_winter_coat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "ff846147dd29b14e55defce46a763e42e229cfe8d733c8e1bf85c9b1d165ceda",
+      "icon.png": "6d647f73073e2f62958db90d80eee10f9822e121bd66d979b27014457a5de71c",
+      "inhand-left.png": "4a2ffdf09b42225c76aeed3647b16a071b0f3f80e30a95cef4c7c9d8e90f6bd0",
+      "inhand-right.png": "5248e6804a13e24b8073651d057db7f40df56b59994465e06d165ed66bdc2022",
+      "meta.json": "d592664ba58ee3700e1b66b36bc86592b0aab572ff319827de6893549c18e425"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/WinterCoats/mail_winter_coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/WinterCoats/mail_winter_coat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "edba44d3c5a66d8477f0e2fb67b7da845e383ee0b845222c43b9b33feed33523",
+      "icon.png": "fe68a586babf45e4f1620f2b9a833d1d54f0b544588fd3becf8d22258d13a50d",
+      "inhand-left.png": "0e88918ff38e9405cadfa15dd5c66b335d45c2ad14e9b143880084ec9d1f3e31",
+      "inhand-right.png": "c8f97c0f1169547cf397183f383a39f4b5b7abde019c02a5ebad5bb3f3f85aa1",
+      "meta.json": "d592664ba58ee3700e1b66b36bc86592b0aab572ff319827de6893549c18e425"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/WinterCoats/mantis_winter_coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/WinterCoats/mantis_winter_coat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "fc880a16a10464e7e8b17c0ab4aba8fd7cb2e0679cb2675efd9eda1d56c8be65",
+      "icon.png": "6085ffabde008dab7a69a9d6199f59596976249356db2509b11aca798a1fd1d3",
+      "inhand-left.png": "43e2a48e2cd5a07406001e5a83cd9c386292337ff7517a3e5e8a4017a0473599",
+      "inhand-right.png": "fa44e19dcbb208a91fc98c5782cf0d9cd96d9661acd659e73961b83b4479e4a4",
+      "meta.json": "d592664ba58ee3700e1b66b36bc86592b0aab572ff319827de6893549c18e425"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/OuterClothing/WinterCoats/plaid_winter_coat.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/OuterClothing/WinterCoats/plaid_winter_coat.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Created by Hyenh#6078 (313846233099927552)",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-OUTERCLOTHING.png": "430c25da9b30626d36dedb8f5ab88e2c1aa537ac0412b6c813d3e58ce387490f",
+      "icon.png": "dd97fe5160091bf710cfa8bd8666890d814a30cf2354ba1cc628a78344c81a0d",
+      "inhand-left.png": "5144e40ebe2929d6fb21d9c3f31e6b3ad150776c47e09f45303107d7ef861129",
+      "inhand-right.png": "52de3462f625ed64d9409c8266b8b5aed4694e6a77c2a6a469368ea23a49b5aa",
+      "meta.json": "d592664ba58ee3700e1b66b36bc86592b0aab572ff319827de6893549c18e425"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Shoes/Boots/mantis_boots.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Shoes/Boots/mantis_boots.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-FEET.png": "d32bbe88c93aa43aaac8b906e0297d10bc6d117ee8fbcdafa89efb778a5024df",
+      "icon.png": "4628577b4372402327bb25a043de32f6cb8c9d4a4ecf8cd8bc848813bbe1d393",
+      "inhand-left.png": "ce842a1df0e21ba5a39b4257c4324fd08775d174315a2b21a1a3288b4432f13c",
+      "inhand-right.png": "d624db0d83a028f74b0d54aa69731d52f0376d92353e346b40eac53541eee7a1",
+      "meta.json": "dcb7050f1ab6986fa1d1eab86fedceefbf16eda570192e7ecca8b3e2820f92d2"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/arc.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/arc.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "sprite by hyenh",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "64ddbed0b094d42932d67145cab3d054327836d53baced3d3b01216b616d3435",
+      "icon.png": "cc5aaa71fde55d01cc4dd0d63621f1acc519519abc9048fa3d8914395573dc34",
+      "meta.json": "4db2851681f803761259826704207b4d27a318a1a5463baa0f0122a137628a79"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/geisha.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/geisha.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "f3d0c7ea4a1c43a37fcc4e61ced6a4267f63192e7e28341f2afbdc5027dfd2e9",
+      "icon.png": "2e524a6fcde6588be2c3b1e2c9adc1405a08e5b228e0e9e2a814f2b7582d42a5",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/gi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/gi.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "4f505f6a67668414bb4bcbf6702e48267e3b4d7a7b236f5fb86692641c541fb5",
+      "icon.png": "91917b02818f3a6e8d54f65c40ff728a547a24e410fbcd9cc7d2b7554c8b96dd",
+      "inhand-left.png": "0f8cceda84846befbeab64f81c89c9af715813086d46199ec462379624527db1",
+      "inhand-right.png": "f5278b3cf752322b8e899f37ebae611d099065fbad3f4f670bc7a17a86c1c93b",
+      "meta.json": "ad8e16e8587fb20843c4157f6bd1bc21779ab950ae1f817ffad4c77df33e404f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/hakama.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/hakama.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "71993164f286091ad3c8256a910fb87a7508f5357c9cb1e1315b33b655b0d440",
+      "icon.png": "69fe3aedb9d7ddff68701d89878f8fb58b650a5f1b76ca231bdf7e88f74be19b",
+      "inhand-left.png": "9dc02df3889205c933c3d3e8323cad92e9e49908d8beef808ff42165d80fe7d7",
+      "inhand-right.png": "ba01d541b4c58c5ceb54afe4b5684e43de41586f1606468434e09b24b63a4371",
+      "meta.json": "ad8e16e8587fb20843c4157f6bd1bc21779ab950ae1f817ffad4c77df33e404f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/jabroni.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/jabroni.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "4e198219baa3046d2f860a893841ddf4df1e3f9d4a309d19d4d5a16273720baf",
+      "icon.png": "54e405c988c14c4a519bedd66b48c8c996046a60a86132a3eb18cdc958aefea9",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/kimono-blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/kimono-blue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "9fd4e3e5c646998b9ab2c5dfb98af78e8448a58106caaca84be3f40cced615f6",
+      "icon.png": "c3fd25e5d388c6e861e72e7512cd436cd37b6fbf569b3d382ed6b468142e718e",
+      "inhand-left.png": "9256148b85a01bad52e2d3905ef7c860212f9cb8a5d75f09704f4b8f3d779436",
+      "inhand-right.png": "39e1692ba6fed3c81831074463e008a855120c59d04955dc07cd94705adcec96",
+      "meta.json": "ad8e16e8587fb20843c4157f6bd1bc21779ab950ae1f817ffad4c77df33e404f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/kimono-pink.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/kimono-pink.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Hyenh#6078",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "ab5c0e53d106848e43166b4fcc43c7e50eeec1d237fef14be60f8e8a356c22d0",
+      "icon.png": "27503b65af30ae70d5429068999108baa31390eae568cea3d4e7383372bd9a97",
+      "inhand-left.png": "aedd7c31c406c3e8c7fba470858fc966f4e383b148b843f7c170c19f26510161",
+      "inhand-right.png": "544e71fb59a25a471ac264f87da57163c81be8648ca25a2d3ca716cc3e80a19a",
+      "meta.json": "ad8e16e8587fb20843c4157f6bd1bc21779ab950ae1f817ffad4c77df33e404f"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/maid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/maid.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "ab4640be719b5f95bee460556b6c576540ef486088be84afc00e0a5b87e3f9cc",
+      "icon.png": "7dbf44c0e353fef5f08574a017eddf59002bca39cf101b6cb651505fa56d0b78",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/nurse.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/nurse.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TGstation github https://github.com/tgstation/tgstation/commit/988f795be2dee02a8252d3e584fbb94d43d4a965",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b97e00761356a8891fabcfeed3e6ac36a8fe9357696624227d9baafff228d6be",
+      "icon.png": "554dc41bf045dca011ffdb8c0c40b504c1807fa48e60394ed9ed77a82608acd9",
+      "inhand-left.png": "9e4dcb99188559622f53867b8dc515ce3208e1c9c7e05f34675a773efd8456ee",
+      "inhand-right.png": "c3fea3dce056622089c4ba69ab766f202f5b3fb385bdae63290704d467766391",
+      "meta.json": "3858e7718474663b8bfd090652868eea903048d60c7aa6e98bb87e9609aea518"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/black.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/black.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "d0be8f1150e337a72ce63c1d8a73157486a3fc92373565bf3d4eee2df0dab072",
+      "icon.png": "88a15b6e661d1cb45832e898f51ce8906a1aaae1baf47656f4203a09794bff6b",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/blue.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/blue.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a2e53989da1323a18ced6b61ebe800306cf66e3e65cac40a8bc6ec1a75656620",
+      "icon.png": "d33b43159bf8087a4033ad3e7955830dec70464db7db9ea51d3065a806af70eb",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/cyan.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/cyan.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "2da31c3bd998fe799839609de6a66216cc7052e553055b484a4d428c20efcb27",
+      "icon.png": "fc8f2c8858fa4a6079c71f6bbc6adf762d6d14f4fa42760a35cae0ece7e28ad4",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/green.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/green.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "fd10f6ef048f3fcc53f9a12b96a2a85f1be0bc7b3f8d838f5f5a5e7a21b8da8c",
+      "icon.png": "5d4f27a9bb8ce035d038ce90b169af4cf9ea21545793df940b97f5b3c112522d",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/orange.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/orange.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "a116c2de98af5d85dcd88e80c1bf7641684cdab4dda0c72da25d8c956884b584",
+      "icon.png": "0e471157ea28f8505e879071fcb2e422124140eafa8f378de08d4cd1c2964dc5",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/pink.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/pink.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b0bb35e7342e2767510a48e84c10cac807c97590643ba6ef15768ab029806a0c",
+      "icon.png": "b7d0075073f8cf9e265741e14a70beac2089d2c78f5ed8f859e5f081a8b9b8bb",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/purple.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/purple.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "94033fe164c4ff8dfb7b82f2d435895dbe6c0f34c53226f376348ab00678d126",
+      "icon.png": "adf240578c973f8c3ea1329b370cfa601765336b1c1454b612831b1777b60531",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Costume/Schoolgirl/red.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "fd94dde45ceb18a3dcf2f01f8d6e649e8c9bf5a6dd273f03d8bb0b7069abf629",
+      "icon.png": "d61afcc022d004ed7d1147f2e289719326432aaa8bb69ff265d778491bbcd415",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpskirt/mailman.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpskirt/mailman.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "4132346f3f3ebd1e094976cdc65911b0121e01b2e7ae8a508d6aa432db55edf6",
+      "icon.png": "8facef27bb8715451c8ad13f6cd5cefde02edc3493da62dc2fe9202a6f5e0f19",
+      "inhand-left.png": "4044042f678cdfa46bba2e3ba1c84353754aa553508b4f14f952c3e99244e8f4",
+      "inhand-right.png": "7a83bb1ec656b192586428a9cec4a4c10c50ea5938c225e9d68228f4677759ab",
+      "meta.json": "911d4ee678c5c576633f7f262cdbb7b22623e35a0af86676bb99f3cc9b18ddb6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpskirt/mantis_jumpskirt.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpskirt/mantis_jumpskirt.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "c760919e4e1f6d474daa741703ddb4438d957a4720b13a4b36f59c7577b5d485",
+      "icon.png": "11ff1e55b0cb41be7b55abea699c7459bb494d09155c83cb199e77c12d4d3ae7",
+      "inhand-left.png": "a56176f33f2d96a7522fce079a262d5b754298615b419390212ed63eba321b67",
+      "inhand-right.png": "051abe46606d3092fee302bd66976e8f8ff99164422e9044e7f873ca1ac1b9bf",
+      "meta.json": "5eb57ec45e793c9322bdb22f386c7661cff647460f9104a02233cf2a8d024a03"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpsuit/mailman.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpsuit/mailman.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "decc85b28395e22cd57ec8d0151a521b0ed614312fe83d513dcc6c87bf24956b",
+      "icon.png": "4e8cdfa1c6bfa7424ac2a412f5d593ae0dd2fd5b083ffff81441decace0c0b28",
+      "inhand-left.png": "272bb8b65c7b94deb51606483ccfe2f60238e00a6d54324798b0045270989d0b",
+      "inhand-right.png": "b1dedddbc9cfa5cc799e471e80c01e8f47398a6aeaa46fc3e7cdc89d755d2c6e",
+      "meta.json": "911d4ee678c5c576633f7f262cdbb7b22623e35a0af86676bb99f3cc9b18ddb6"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpsuit/mantis_uniform.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpsuit/mantis_uniform.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Huvy",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "c34cdc8b9ba5ee519e6637bb02bf81a8593b8963e53713f0649ec751e361e85f",
+      "icon.png": "9e785c4ac816c83039da50c0d80f9c61403982aaadf9e10996752d7e8a81bc30",
+      "inhand-left.png": "9d0f6100818112620efa99d113047791c1a0667958d5602f011a331f46abc922",
+      "inhand-right.png": "7d17df6bb8a9aaea8b3cfccf264e16871650589419f2af1fda4f6e70bf72b2c2",
+      "meta.json": "5eb57ec45e793c9322bdb22f386c7661cff647460f9104a02233cf2a8d024a03"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpsuit/prisonguard.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpsuit/prisonguard.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "Hyenh",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "693c688436b28c2441e7a40fcdfca128e9e4795690211f85b7ce8de333d84146",
+      "icon.png": "73e0ba7d9276399d3d5e1172ed932b7fbc84befd2cac8d4bcc39bc8ba065d5b6",
+      "inhand-left.png": "12372020bbee4e2caf782395872cb1b158f2bbe05b34beb6acb25a24e69a8868",
+      "inhand-right.png": "16da9854bd466d772a9b8faf8a42e1844b7026b679f053e4aae287129ff68a7e",
+      "meta.json": "fcb085b04900143bfeba016756752cffcc56f17fc352ea4ddd860289b4ab59ca"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpsuit/tshirtjeans.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpsuit/tshirtjeans.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Colin_Tel. I don't care what you do with this.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b30a45362dfb224f494bc6d41eaf615c6bade71b83c3e9c5ae31fa43a8faa74c",
+      "icon.png": "12c14fb57897e2c5bb585e4bc22210b5662a08e97186c0b174ca3e1b137889d9",
+      "meta.json": "b782dbfee0e24e1a1235286a5cbc5dc135da3c83756ca73bb8056b2e60d16256"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpsuit/tshirtjeansgray.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpsuit/tshirtjeansgray.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Colin_Tel. I don't care what you do with this.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "b7763984efb93edc7540a2b16a17459472b458f1083ea3f7aeec7d2ccfb6932b",
+      "icon.png": "40d41496a0d74a04a44a3156ff6a522574913204ac9db8f85d8034a7f382c21c",
+      "meta.json": "b782dbfee0e24e1a1235286a5cbc5dc135da3c83756ca73bb8056b2e60d16256"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Jumpsuit/tshirtjeanspeach.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Jumpsuit/tshirtjeanspeach.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by Colin_Tel. I don't care what you do with this.",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "404c50f05ca99a05833225368fd2a7980980d664ef5000c83dcc739833b43378",
+      "icon.png": "29dab44ee48463aea6513b6e42d2eb8d4b60d8f993b63b371cf68551cddee1bd",
+      "meta.json": "b782dbfee0e24e1a1235286a5cbc5dc135da3c83756ca73bb8056b2e60d16256"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Shorts/Color/red_female.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Shorts/Color/red_female.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "02ac5985e760b4a9170e10cfd909db030cf9c9f51bf1dc65bff0603237c2b030",
+      "icon.png": "1c819a38cdc76d073860ee30ea74975953aad46fc5adc32c106e4f531a45b634",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Clothing/Uniforms/Shorts/Color/red.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Clothing/Uniforms/Shorts/Color/red.rsi",
+    "category": "clothing",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "https://github.com/tgstation/tgstation/commit/beaea876ea426c0e215cee64619862dc19bd9cd8",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "equipped-INNERCLOTHING.png": "5b04e533a3c864f27117404b5c95e6e148398d2d2ca667b905e2e343630269b8",
+      "icon.png": "d5a659193137521c4630c6bb5d6d6eaa0748aa17908ef160ae8fe95f7a3d2128",
+      "meta.json": "62b097baa189902700709376bbaaa729fc4f0d33c9ae8bca06c063a37392200b"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Effects/unknown_humanoid.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Effects/unknown_humanoid.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "bbb23c29d92d2df6af9671edfbff2263b2a6b3fdd1bb841d0c8ecb3eca86ef3d",
+      "unknown_humanoid.png": "79e0a737a541e6bc1ddf152ddb0aeba8ef5878f7f7a4ea99d7dee2e29cd940fa"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Icons/psi.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Icons/psi.rsi",
+    "category": "other",
+    "license": "CC0-1.0",
+    "copyright": "the greeks",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "replacement": false,
+    "sha256": {
+      "meta.json": "031b66bc01d94fcee3cdcfc6aedfde7c45f7c540e2d6fe557365a3f4983c9052",
+      "psi.png": "80b0ff9b75088256b7e74edb935b2049a27e3ef1ae019ce34b5711dbb4ccef95"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Icons/verbiconfangs.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Icons/verbiconfangs.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "From Nyanotrasen",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "icon.png": "522119683d62484a5e72a49386e486c038dd7c0719d4183dd1b55771ff517770",
+      "meta.json": "5db4cad19ea34199fcb6cf458472f6edc6af92219847469308c4ec78b9961e19"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Mobs/Animals/mothroach.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Mobs/Animals/mothroach.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from fulpstation at https://github.com/fulpstation/fulpstation/commit/edb232b692ec9f356ec554ea1971da552b9bc447",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "0-equipped-HELMET.png": "bb626536dedb8cdb4204187bfeb5a0f4a1f61b90ea6fe386afc958456b4239e8",
+      "icon.png": "d7de5c99f10febbca386d1c42663ae766a06a603d325418582ad9ce4ecb87dfe",
+      "inhand-left.png": "72e58303fba9633241226a44703290d781ea762b77346915881190c4f6b8e3ec",
+      "inhand-right.png": "bebd279cde6b24d75ed52c188f60b233a811622d8ac3e94169fe01e23012da18",
+      "meta.json": "21a9c2053cdc5ab746ed75e1f21bf6f1c88768209e1984c57e0f5e126920f050",
+      "mothroach.png": "f0056264dee2dc9812afe6e9993ec795f21c241614200e4a414c88a3654a41ff",
+      "mothroach_dead.png": "b09484995e3e43e6c2dd081a96ae8a3182d631f86eb7032b6f9da1ce8cc92485",
+      "mothroach_lazy.png": "c5268e8e3d80df25bdd071d898b8d79ad19849128cc45f4b084ae732c82e0e0f",
+      "mothroach_sleep.png": "5748dc7d32e70de7efe5ae733a18d4b91fdda434a59add7ef86913768afa75c8"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Mobs/Customization/anytaur_masking_helpers.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Mobs/Customization/anytaur_masking_helpers.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Rane",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "replacement": false,
+    "sha256": {
+      "female_full.png": "54cdbf035c15b944cb8b072ae2585a8d19ddfe9ae4e4deef6e6ca62b36f6b851",
+      "female_none.png": "2b80749af3f3fe54a8f814bf92fe993909a6d8bb9ff299fde5d9d2cd96788e5a",
+      "female_top.png": "4fb83d9a7310cab97195eac0c3d0d20ae615218256962960cba1942a19444200",
+      "meta.json": "80a7ddec6719b60cf6b744140ad530de56dda1348d7e2f6a45c11202dd4f75e1",
+      "none.png": "06260b60093ee23f986fc9c11452478bbd31d85043611be73de6a33e51cf772c"
+    },
+    "replaces": []
+  },
+  {
+    "source": "Resources/Textures/Nyanotrasen/Mobs/Customization/felinid_ears.rsi",
+    "destination": "Resources/Textures/_Lime/Imported/Monolith/Nyanotrasen/Mobs/Customization/felinid_ears.rsi",
+    "category": "other",
+    "license": "CC-BY-SA-4.0",
+    "copyright": "@Vordenburg",
+    "originalSource": null,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "replacement": false,
+    "sha256": {
+      "basic_inner.png": "0da5d64f02f6e9708e200e2584f06ab7c02fb0a1efb9734e48a421fcac259ba0",
+      "basic_outer.png": "702da06971800b4a66fa5a51d0a283495eb148065221dd4b0c030d0a079fa6ce",
+      "curled_inner.png": "2654f096d611ff6ce6c8da9bba9443e09d147cb4fde10b29f580cf1d4597f0c9",
+      "curled_outer.png": "bdfe7c75e762d023375abfe3ce90e3ad288bcc70c0fd06bba7d44864251b3538",
+      "droopy_inner.png": "c0ef8d0f1ba2ac5a2888efff0a5371439d68d846261c4f313b42c3404d6a8b7d",
+      "droopy_outer.png": "e3427b7178d7a6823f4fa262d6f14f4bbdda98c91921b4cdc5ca15a0b548cd0b",
+      "fuzzy_inner.png": "ead1b65029548c60cefed98757555428e70508a6c82d072f3475f7b799ec9c85",
+      "meta.json": "116e6ab682b4519e44fa4719423b4d8220f70e9593b4566e045b8af1eb32f17b",
+      "stubby_inner.png": "9303d92eab28ce15f17facb4ee637cb9df33edc602ff42128ed8b701eae00dc2",
+      "stubby_outer.png": "4622dc6bac6a012eda73c16b3e8abe5fd7adfa8fb8262bca8dc5491d09048634",
+      "tall_fuzz.png": "174ce8173a2f2a85dc98c6ea8daa25eb056cb625ae25062180516557024e56f1",
+      "tall_inner.png": "eec8f3a709896133c2bc70853361f63dd014b6c1a569be9fdfe00cd14dffdd50",
+      "tall_outer.png": "44717563582eadd8157c0f6706aa9946715b9e3f0e3a80079256cab94bd5742f",
+      "torn_inner.png": "552f20c15a8631cf95158ea183b2b7a1c71ad87232fca85171dda0de7188da3d",
+      "torn_outer.png": "1b710c3cf793288524fdcc6a4517deb398d309c1c9bd97f5572a5f59c4d26482",
+      "wide_inner.png": "1279db4fa65e1afdd400a44c9810982a753649ab1112a33e8b37ac8e14af7d43",
+      "wide_outer.png": "79c605c6ee2d0aee7a86f090b3d8841796a8b8e876282cd2e3d038071bc77845"
+    },
+    "replaces": []
+  }
+]

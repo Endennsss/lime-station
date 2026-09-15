@@ -8,7 +8,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: Objects/Consumable/Drinks/dr_gibb.rsi
+      - sprite: _Lime/Imported/Monolith/Objects/Consumable/Drinks/dr_gibb.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
         state: icon
   - type: EntityTableSpawner
     table: !type:NestedSelector

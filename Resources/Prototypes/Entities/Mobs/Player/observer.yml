@@ -40,7 +40,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: Mobs/Ghosts/ghost_human.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     color: "#fff8"
     layers:
     - state: animated
@@ -173,7 +173,7 @@
   - type: Action
     clientExclusive: true
   - type: Sprite
-    sprite: Mobs/Ghosts/ghost_human.rsi
+    sprite: _Lime/Imported/Monolith/Mobs/Ghosts/ghost_human.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
   - type: InstantAction
@@ -187,7 +187,7 @@
   components:
   - type: Action
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/Clothing/Ears/Headsets/base.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     layers:
     - state: icon
       map: ["enum.ActionVisuals.Icon"]

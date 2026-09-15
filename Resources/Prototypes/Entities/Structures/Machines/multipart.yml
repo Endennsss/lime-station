@@ -6,7 +6,7 @@
   components:
     - type: MultipartMachineGhost
     - type: Sprite
-      sprite: Markers/cross.rsi
+      sprite: _Lime/Imported/Monolith/Markers/cross.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       layers:
         - state: green
       color: "#FFFFFF80"

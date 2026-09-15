@@ -7,9 +7,9 @@
   components:
   - type: Sprite
     drawdepth: SmallObjects
-    sprite: Structures/Walls/railing.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/railing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Icon
-    sprite: Structures/Walls/railing.rsi
+    sprite: _Lime/Imported/Monolith/Structures/Walls/railing.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Physics
     bodyType: Static
   - type: InteractionOutline

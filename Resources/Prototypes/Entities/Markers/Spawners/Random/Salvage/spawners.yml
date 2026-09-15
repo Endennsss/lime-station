@@ -306,7 +306,7 @@
   - type: Sprite
     layers:
     - state: pink
-    - sprite: Objects/Devices/communication.rsi
+    - sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: walkietalkie
   - type: EntityTableSpawner
     offset: 0.4
@@ -371,7 +371,7 @@
   - type: Sprite
     layers:
     - state: pink
-    - sprite: Objects/Devices/communication.rsi
+    - sprite: _Lime/Imported/Monolith/Objects/Devices/communication.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: walkietalkie
   - type: EntityTableSpawner
     offset: 0.4
@@ -479,7 +479,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Structures/Storage/tanks.rsi
+    - sprite: _Lime/Imported/Monolith/Structures/Storage/tanks.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
       state: fueltank-2
   - type: EntityTableSpawner
     table: !type:GroupSelector

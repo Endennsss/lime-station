@@ -18,7 +18,7 @@
   id: CritterMechs
   name: research-technology-critter-mechs
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: hamtr
   discipline: CivilianServices
   tier: 1
@@ -154,7 +154,7 @@
   id: HONKMech
   name: research-technology-honk-mech
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Mech/mecha.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: honker
   discipline: CivilianServices
   tier: 2

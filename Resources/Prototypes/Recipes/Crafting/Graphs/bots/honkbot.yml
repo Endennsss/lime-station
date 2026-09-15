@@ -8,12 +8,12 @@
       steps:
       - tag: HappyHonk
         icon:
-          sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+          sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: box
         name: construction-graph-tag-happy-honk-meal
       - tag: BikeHorn
         icon:
-            sprite: Objects/Fun/bikehorn.rsi
+            sprite: _Lime/Imported/Monolith/Objects/Fun/bikehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
             state: icon
         name: construction-graph-tag-clown-bike-horn
         doAfter: 2
@@ -41,12 +41,12 @@
       steps:
       - tag: CluwneHappyHonk
         icon:
-          sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+          sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: box
         name: construction-graph-tag-woeful-cluwne-meal
       - tag: CluwneHorn
         icon:
-          sprite: Objects/Fun/cluwnehorn.rsi
+          sprite: _Lime/Imported/Monolith/Objects/Fun/cluwnehorn.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
           state: icon
         name: construction-graph-tag-clowne-horn
         doAfter: 2

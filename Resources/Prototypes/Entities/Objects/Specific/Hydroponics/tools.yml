@@ -151,7 +151,7 @@
   description: A bag for botanists to easily move their huge harvests.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/Equipment/plant_bag.rsi
+    sprite: _Lime/Imported/Monolith/Objects/Specific/Hydroponics/Equipment/plant_bag.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: icon
   - type: Item
     storedRotation: -90

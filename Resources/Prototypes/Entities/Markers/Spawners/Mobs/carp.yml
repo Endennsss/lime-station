@@ -21,7 +21,7 @@
     layers:
     - state: green
     - state: icon
-      sprite: Mobs/Aliens/Carps/holo.rsi
+      sprite: _Lime/Imported/Monolith/NF/Mobs/Aliens/Carps/holo.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ConditionalSpawner
     prototypes:
     - MobCarpHolo
@@ -35,7 +35,7 @@
     layers:
     - state: green
     - state: icon
-      sprite: Mobs/Aliens/Carps/magic.rsi
+      sprite: _Lime/Imported/Monolith/NF/Mobs/Aliens/Carps/magic.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: ConditionalSpawner
     prototypes:
     - MobCarpMagic

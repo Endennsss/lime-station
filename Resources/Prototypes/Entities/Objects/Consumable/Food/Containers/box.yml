@@ -498,10 +498,10 @@
   description: The toy is more edible than the food.
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     state: box
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/clown.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
     heldPrefix: box
   - type: Storage
     maxItemSize: Normal
@@ -528,9 +528,9 @@
     - Trash
     - MimeHappyHonk
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/mime.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/mime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/mime.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/mime.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
 
 - type: entity
   id: HappyHonkNukie
@@ -540,9 +540,9 @@
   suffix: Toy Unsafe
   components:
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/nukie.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/nukie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/nukie.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/nukie.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: EntityTableContainerFill
     containers:
       storagebase: !type:NestedSelector
@@ -594,9 +594,9 @@
     - CluwneHappyHonk # BAD: Intentional removal of parent tag
     - BoxCardboard
   - type: Sprite
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: Item
-    sprite: _Lime/Imported/Goob/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Goob с сохранением лицензии
+    sprite: _Lime/Imported/Monolith/NF/Objects/Storage/Happyhonk/cluwne.rsi # Lime-Edit - текстуры Monolith с сохранением лицензии
   - type: EntityTableContainerFill
     containers:
       storagebase:
