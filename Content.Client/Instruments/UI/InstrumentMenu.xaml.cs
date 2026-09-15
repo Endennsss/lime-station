@@ -103,7 +103,7 @@ public sealed partial class InstrumentMenu : FancyWindow
         ctrl.Margin = new Thickness(5);
 
         formatted.AddMarkupOrThrow($"[bold]{name}[/bold]");
-        header.SetMessage(formatted, Color.FromHex("#A88B5E"));
+        header.SetMessage(formatted, Content.Client._Lime.Stylesheets.LimePalettes.IconNormal); // Lime-Edit - общий серый стиль
 
         panel.AddChild(ctrl);
 

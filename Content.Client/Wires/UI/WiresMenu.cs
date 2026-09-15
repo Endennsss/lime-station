@@ -43,7 +43,7 @@ namespace Content.Client.Wires.UI
             var back = new StyleBoxTexture
             {
                 Texture = panelTex,
-                Modulate = Color.FromHex("#25252A"),
+                Modulate = Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground, // Lime-Edit - общий серый стиль
             };
             back.SetPatchMargin(StyleBox.Margin.All, 10);
 
