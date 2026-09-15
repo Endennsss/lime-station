@@ -37,17 +37,20 @@ public sealed class WindowSheetlet<T> : Sheetlet<T>
             ExpandMarginBottom = 3,
             ContentMarginBottomOverride = 0,
         };
-        var backgroundBox = new StyleBoxTexture()
+        var backgroundBox = new StyleBoxFlat() // Lime-Edit - фон без встроенного фиолетового оттенка PNG
         {
-            Texture = sheet.GetTextureOr(windowCfg.WindowBackgroundPath, NanotrasenStylesheet.TextureRoot),
+            BackgroundColor = sheet.SecondaryPalette.Background,
+            BorderColor = sheet.PrimaryPalette.Background,
+            BorderThickness = new Thickness(2, 0, 2, 2),
         };
-        backgroundBox.SetPatchMargin(StyleBox.Margin.Horizontal | StyleBox.Margin.Bottom, 2);
-        backgroundBox.SetExpandMargin(StyleBox.Margin.Horizontal | StyleBox.Margin.Bottom, 2);
-        var borderedBackgroundBox = new StyleBoxTexture
+        backgroundBox.SetContentMarginOverride(StyleBox.Margin.Horizontal | StyleBox.Margin.Bottom, 2);
+        var borderedBackgroundBox = new StyleBoxFlat // Lime-Edit - рамка из общей палитры
         {
-            Texture = sheet.GetTextureOr(windowCfg.WindowBackgroundBorderedPath, NanotrasenStylesheet.TextureRoot),
+            BackgroundColor = sheet.SecondaryPalette.Background,
+            BorderColor = sheet.PrimaryPalette.Background,
+            BorderThickness = new Thickness(2),
         };
-        borderedBackgroundBox.SetPatchMargin(StyleBox.Margin.All, 2);
+        borderedBackgroundBox.SetContentMarginOverride(StyleBox.Margin.All, 2);
         var closeButtonTex = sheet.GetTextureOr(iconCfg.CrossIconPath, NanotrasenStylesheet.TextureRoot);
 
         var leftPanel = StyleBoxHelpers.OpenLeftStyleBox(sheet);

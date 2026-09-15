@@ -24,8 +24,8 @@ public abstract class CommonStylesheet : PalettedStylesheet, IButtonConfig, IWin
 
     ResPath IPanelConfig.GeometricPanelBorderPath => new("geometric_panel_border.svg.96dpi.png");
     ResPath IPanelConfig.BlackPanelDarkThinBorderPath => new("black_panel_dark_thin_border.png");
-    Color IPanelConfig.DeepPanelBackgroundColor => Color.FromHex("#1B1B1E");
-    Color IPanelConfig.DeepPanelBorderColor => Color.FromHex("#25252A");
+    Color IPanelConfig.DeepPanelBackgroundColor => SecondaryPalette.BackgroundDark; // Lime-Edit - глубокие панели из общей палитры
+    Color IPanelConfig.DeepPanelBorderColor => SecondaryPalette.Background; // Lime-Edit - нейтральная граница
 
     ResPath ITooltipConfig.TooltipBoxPath => new("tooltip.png");
     ResPath ITooltipConfig.WhisperBoxPath => new("whisper.png");
@@ -72,7 +72,7 @@ public abstract class CommonStylesheet : PalettedStylesheet, IButtonConfig, IWin
     ResPath IButtonConfig.MonotoneOpenRightButtonPath => new("Monotone/monotone_button_open_right.svg.96dpi.png");
     ResPath IButtonConfig.MonotoneOpenBothButtonPath => new("Monotone/monotone_button_open_both.svg.96dpi.png");
 
-    ColorPalette IButtonConfig.ButtonPalette => PrimaryPalette with { PressedElement = PositivePalette.PressedElement };
+    ColorPalette IButtonConfig.ButtonPalette => PrimaryPalette; // Lime-Edit - обычное нажатие без зелёного оттенка
     ColorPalette IButtonConfig.PositiveButtonPalette => PositivePalette;
     ColorPalette IButtonConfig.NegativeButtonPalette => NegativePalette;
 

@@ -1,4 +1,4 @@
-<controls:FancyWindow xmlns="https://spacestation14.io"
+<controls:FancyWindow xmlns="https://spacestation14.io" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
     xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
     xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
     xmlns:ui="clr-namespace:Content.Client.ParticleAccelerator.UI"
@@ -104,7 +104,7 @@
                     HorizontalAlignment="Center">
 
                     <PanelContainer.PanelOverride>
-                        <gfx:StyleBoxTexture Modulate="#202023"
+                        <gfx:StyleBoxTexture Modulate="{x:Static lime:LimePalettes.PanelInset}"
                             PatchMarginBottom="8"
                             PatchMarginLeft="8"
                             PatchMarginRight="8"

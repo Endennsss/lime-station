@@ -38,7 +38,7 @@ public sealed class LimeChatSheetlet : Sheetlet<PalettedStylesheet>
     public override StyleRule[] GetRules(PalettedStylesheet sheet, object config)
     {
         var fonts = new NotoFontFamilyStack(ResCache, "Display");
-        var speechBox = new StyleBoxFlat(sheet.SecondaryPalette.Background.WithAlpha(0.85f));
+        var speechBox = new StyleBoxEmpty(); // Lime-Edit - речь и эмоции без задней подложки
         return
         [
             E<OutputPanel>().Class(ChatText).Font(fonts.GetFont(13)),

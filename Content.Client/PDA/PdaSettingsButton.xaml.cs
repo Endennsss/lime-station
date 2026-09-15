@@ -10,15 +10,15 @@ public sealed partial class PdaSettingsButton : ContainerButton
 {
     public const string StylePropertyFgColor = "foregroundColor";
     public const string StylePropertyBgColor = "backgroundColor";
-    public const string NormalBgColor = "#313138";
-    public const string HoverColor = "#3E6C45";
-    public const string PressedColor = "#3E6C45";
+    public const string NormalBgColor = "#282828"; // Lime-Edit - нейтральные значения для старого стиля
+    public const string HoverColor = "#606060";
+    public const string PressedColor = "#484848";
     public const string DisabledFgColor = "#5a5a5a";
     public const string EnabledFgColor = "#FFFFFF";
 
     private readonly StyleBoxFlat _styleBox = new()
     {
-        BackgroundColor = Color.FromHex("#25252a")
+        BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground // Lime-Edit - общий серый стиль
     };
 
     public string? Text

@@ -17,7 +17,7 @@ public sealed partial class NetworkConfiguratorLinkMenu : FancyWindow
 {
     [Dependency] private IPrototypeManager _prototypeManager = default!;
 
-    private const string PanelBgColor = "#202023";
+    private const string PanelBgColor = "#202020"; // Lime-Edit - общий серый стиль
 
     private readonly LinksRender _links;
 

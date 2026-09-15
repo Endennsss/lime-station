@@ -1,5 +1,5 @@
 <controls:ChannelFilterPopup
-    xmlns="https://spacestation14.io"
+    xmlns="https://spacestation14.io" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
     xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
     xmlns:controls="clr-namespace:Content.Client.UserInterface.Systems.Chat.Controls">
     <PanelContainer Name="FilterPopupPanel" StyleClasses="BorderedWindowPanel">
@@ -10,7 +10,7 @@
                 <PanelContainer>
                     <!-- Begin custom background for TextEdit -->
                     <PanelContainer.PanelOverride>
-                        <gfx:StyleBoxFlat BackgroundColor="#323446"/>
+                        <gfx:StyleBoxFlat BackgroundColor="{x:Static lime:LimePalettes.PanelHighlight}"/>
                     </PanelContainer.PanelOverride>
                     <!-- End custom background -->
                     <TextEdit Name="HighlightEdit" MinHeight="150" Margin="5 5"/>

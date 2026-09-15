@@ -7,9 +7,9 @@ namespace Content.Client.UserInterface.Systems.Chat.Controls;
 
 public sealed class ChannelFilterButton : ChatPopupButton<ChannelFilterPopup>
 {
-    private static readonly Color ColorNormal = Color.FromHex("#7b7e9e");
-    private static readonly Color ColorHovered = Color.FromHex("#9699bb");
-    private static readonly Color ColorPressed = Color.FromHex("#789B8C");
+    private static readonly Color ColorNormal = Content.Client._Lime.Stylesheets.LimePalettes.IconNormal; // Lime-Edit - общий серый стиль
+    private static readonly Color ColorHovered = Content.Client._Lime.Stylesheets.LimePalettes.IconHovered; // Lime-Edit - общий серый стиль
+    private static readonly Color ColorPressed = Content.Client._Lime.Stylesheets.LimePalettes.IconPressed; // Lime-Edit - общий серый стиль
     private readonly TextureRect? _textureRect;
     private readonly ChatUIController _chatUIController;
 

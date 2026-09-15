@@ -133,7 +133,7 @@ namespace Content.Client.Stylesheets
                     new[]
                     {
                         new StyleProperty(TextureButton.StylePropertyTexture, textureCloseButton),
-                        new StyleProperty(Control.StylePropertyModulateSelf, Color.FromHex("#4B596A")),
+                        new StyleProperty(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.IconNormal), // Lime-Edit - нейтральный цвет старых контролов
                     }),
                 // Window close button hover.
                 new StyleRule(

@@ -14,7 +14,7 @@ public partial class PdaWindow : BaseWindow
     {
         get => Background.ActualModulateSelf.ToHex();
 
-        set => Background.ModulateSelfOverride = Color.FromHex(value, Color.White);
+        set => Background.ModulateSelfOverride = Content.Client._Lime.Stylesheets.LimePalettes.PanelBorder; // Lime-Edit - цвет предмета не переопределяет серую тему
     }
 
     public string? AccentHColor
@@ -23,7 +23,7 @@ public partial class PdaWindow : BaseWindow
 
         set
         {
-            AccentH.ModulateSelfOverride = Color.FromHex(value, Color.White);
+            AccentH.ModulateSelfOverride = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight; // Lime-Edit - нейтральный акцент
             AccentH.Visible = value != null;
         }
     }
@@ -34,7 +34,7 @@ public partial class PdaWindow : BaseWindow
 
         set
         {
-            AccentV.ModulateSelfOverride = Color.FromHex(value, Color.White);
+            AccentV.ModulateSelfOverride = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight; // Lime-Edit - нейтральный акцент
             AccentV.Visible = value != null;
         }
     }

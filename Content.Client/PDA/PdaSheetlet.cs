@@ -28,7 +28,7 @@ public sealed class PdaSheetlet : Sheetlet<NanotrasenStylesheet>
             E<PanelContainer>()
                 .Class("PdaContentBackground")
                 .Prop(PanelContainer.StylePropertyPanel, StyleBoxHelpers.SquareStyleBox(sheet))
-                .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252a")),
+                .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground), // Lime-Edit - общий серый стиль
 
             E<PanelContainer>()
                 .Class("PdaBackground")
@@ -38,7 +38,7 @@ public sealed class PdaSheetlet : Sheetlet<NanotrasenStylesheet>
             E<PanelContainer>()
                 .Class("PdaBackgroundRect")
                 .Prop(PanelContainer.StylePropertyPanel, StyleBoxHelpers.BaseStyleBox((sheet)))
-                .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#717059")),
+                .Prop(Control.StylePropertyModulateSelf, sheet.PrimaryPalette.Element), // Lime-Edit - корпус КПК без оливкового оттенка
 
             E<PanelContainer>()
                 .Class("PdaBorderRect")
@@ -47,35 +47,35 @@ public sealed class PdaSheetlet : Sheetlet<NanotrasenStylesheet>
             //PDA - Buttons
             E<PdaSettingsButton>()
                 .Pseudo(ContainerButton.StylePseudoClassNormal)
-                .Prop(PdaSettingsButton.StylePropertyBgColor, Color.FromHex(PdaSettingsButton.NormalBgColor))
+                .Prop(PdaSettingsButton.StylePropertyBgColor, sheet.SecondaryPalette.Background)
                 .Prop(PdaSettingsButton.StylePropertyFgColor, Color.FromHex(PdaSettingsButton.EnabledFgColor)),
 
             E<PdaSettingsButton>()
                 .Pseudo(ContainerButton.StylePseudoClassHover)
-                .Prop(PdaSettingsButton.StylePropertyBgColor, Color.FromHex(PdaSettingsButton.HoverColor))
+                .Prop(PdaSettingsButton.StylePropertyBgColor, sheet.PrimaryPalette.HoveredElement)
                 .Prop(PdaSettingsButton.StylePropertyFgColor, Color.FromHex(PdaSettingsButton.EnabledFgColor)),
 
             E<PdaSettingsButton>()
                 .Pseudo(ContainerButton.StylePseudoClassPressed)
-                .Prop(PdaSettingsButton.StylePropertyBgColor, Color.FromHex(PdaSettingsButton.PressedColor))
+                .Prop(PdaSettingsButton.StylePropertyBgColor, sheet.PrimaryPalette.PressedElement)
                 .Prop(PdaSettingsButton.StylePropertyFgColor, Color.FromHex(PdaSettingsButton.EnabledFgColor)),
 
             E<PdaSettingsButton>()
                 .Pseudo(ContainerButton.StylePseudoClassDisabled)
-                .Prop(PdaSettingsButton.StylePropertyBgColor, Color.FromHex(PdaSettingsButton.NormalBgColor))
+                .Prop(PdaSettingsButton.StylePropertyBgColor, sheet.PrimaryPalette.DisabledElement)
                 .Prop(PdaSettingsButton.StylePropertyFgColor, Color.FromHex(PdaSettingsButton.DisabledFgColor)),
 
             E<PdaProgramItem>()
                 .Pseudo(ContainerButton.StylePseudoClassNormal)
-                .Prop(PdaProgramItem.StylePropertyBgColor, Color.FromHex(PdaProgramItem.NormalBgColor)),
+                .Prop(PdaProgramItem.StylePropertyBgColor, sheet.SecondaryPalette.Background),
 
             E<PdaProgramItem>()
                 .Pseudo(ContainerButton.StylePseudoClassHover)
-                .Prop(PdaProgramItem.StylePropertyBgColor, Color.FromHex(PdaProgramItem.HoverColor)),
+                .Prop(PdaProgramItem.StylePropertyBgColor, sheet.PrimaryPalette.HoveredElement),
 
             E<PdaProgramItem>()
                 .Pseudo(ContainerButton.StylePseudoClassPressed)
-                .Prop(PdaProgramItem.StylePropertyBgColor, Color.FromHex(PdaProgramItem.HoverColor)),
+                .Prop(PdaProgramItem.StylePropertyBgColor, sheet.PrimaryPalette.PressedElement),
 
             //PDA - Text
             E<Label>()
@@ -86,7 +86,7 @@ public sealed class PdaSheetlet : Sheetlet<NanotrasenStylesheet>
             E<Label>()
                 .Class("PdaWindowFooterText")
                 .Prop(Label.StylePropertyFont, sheet.BaseFont.GetFont(10))
-                .Prop(Label.StylePropertyFontColor, Color.FromHex("#333d3b")),
+                .Prop(Label.StylePropertyFontColor, sheet.SecondaryPalette.TextDark), // Lime-Edit - читаемый нейтральный текст
         ];
     }
 }

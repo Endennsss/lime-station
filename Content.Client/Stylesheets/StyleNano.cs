@@ -91,24 +91,24 @@ namespace Content.Client.Stylesheets
         public const string StyleClassPopupMessageLarge = "PopupMessageLarge";
         public const string StyleClassPopupMessageLargeCaution = "PopupMessageLargeCaution";
 
-        public static readonly Color PanelDark = Color.FromHex("#1E1E22");
+        public static readonly Color PanelDark = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset; // Lime-Edit - общий серый стиль
 
-        public static readonly Color NanoGold = Color.FromHex("#A88B5E");
+        public static readonly Color NanoGold = Content.Client._Lime.Stylesheets.LimePalettes.IconNormal; // Lime-Edit - общий серый стиль
         public static readonly Color GoodGreenFore = Color.FromHex("#31843E");
         public static readonly Color ConcerningOrangeFore = Color.FromHex("#A5762F");
         public static readonly Color DangerousRedFore = Color.FromHex("#BB3232");
         public static readonly Color DisabledFore = Color.FromHex("#5A5A5A");
 
-        public static readonly Color ButtonColorDefault = Color.FromHex("#464966");
+        public static readonly Color ButtonColorDefault = Content.Client._Lime.Stylesheets.LimePalettes.Primary.Element; // Lime-Edit - общий серый стиль
         public static readonly Color ButtonColorDefaultRed = Color.FromHex("#D43B3B");
-        public static readonly Color ButtonColorHovered = Color.FromHex("#575b7f");
+        public static readonly Color ButtonColorHovered = Content.Client._Lime.Stylesheets.LimePalettes.Primary.HoveredElement; // Lime-Edit - общий серый стиль
         public static readonly Color ButtonColorHoveredRed = Color.FromHex("#DF6B6B");
-        public static readonly Color ButtonColorPressed = Color.FromHex("#3e6c45");
-        public static readonly Color ButtonColorDisabled = Color.FromHex("#30313c");
+        public static readonly Color ButtonColorPressed = Content.Client._Lime.Stylesheets.LimePalettes.Primary.PressedElement; // Lime-Edit - общий серый стиль
+        public static readonly Color ButtonColorDisabled = Content.Client._Lime.Stylesheets.LimePalettes.Primary.DisabledElement; // Lime-Edit - общий серый стиль
 
         public static readonly Color ButtonColorCautionDefault = Color.FromHex("#ab3232");
         public static readonly Color ButtonColorCautionHovered = Color.FromHex("#cf2f2f");
-        public static readonly Color ButtonColorCautionPressed = Color.FromHex("#3e6c45");
+        public static readonly Color ButtonColorCautionPressed = Content.Client.Stylesheets.Palette.Palettes.Red.PressedElement; // Lime-Edit - общий серый стиль
         public static readonly Color ButtonColorCautionDisabled = Color.FromHex("#602a2a");
 
         public static readonly Color ButtonColorGoodDefault = Color.FromHex("#3E6C45");
@@ -133,9 +133,9 @@ namespace Content.Client.Stylesheets
         public static readonly Color ExamineButtonColorContextDisabled = Color.FromHex("#5A5A5A");
 
         // Fancy Tree elements
-        public static readonly Color FancyTreeEvenRowColor = Color.FromHex("#25252A");
+        public static readonly Color FancyTreeEvenRowColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground; // Lime-Edit - общий серый стиль
         public static readonly Color FancyTreeOddRowColor = FancyTreeEvenRowColor * new Color(0.8f, 0.8f, 0.8f);
-        public static readonly Color FancyTreeSelectedRowColor = new Color(55, 55, 68);
+        public static readonly Color FancyTreeSelectedRowColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight; // Lime-Edit - общий серый стиль
 
         //Used by the APC and SMES menus
         public const string StyleClassPowerStateNone = "PowerStateNone";
@@ -154,7 +154,7 @@ namespace Content.Client.Stylesheets
         public const string StyleClassButtonColorRed = "ButtonColorRed";
         public const string StyleClassButtonColorGreen = "ButtonColorGreen";
 
-        public static readonly Color ChatBackgroundColor = Color.FromHex("#25252ADD");
+        public static readonly Color ChatBackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground.WithAlpha(221f / 255f); // Lime-Edit - общий серый стиль
 
         // i'm not sure what the missing symbols were referencing, and this is getting obseleted anyway so:
         public const string ButtonOpenRight = "OpenRight";
@@ -448,13 +448,13 @@ namespace Content.Client.Stylesheets
             placeholder.SetExpandMargin(StyleBox.Margin.All, -5);
             placeholder.Mode = StyleBoxTexture.StretchMode.Tile;
 
-            var itemListBackgroundSelected = new StyleBoxFlat { BackgroundColor = new Color(75, 75, 86) };
+            var itemListBackgroundSelected = new StyleBoxFlat { BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.Primary.HoveredElement }; // Lime-Edit - общий серый стиль
             itemListBackgroundSelected.SetContentMarginOverride(StyleBox.Margin.Vertical, 2);
             itemListBackgroundSelected.SetContentMarginOverride(StyleBox.Margin.Horizontal, 4);
             var itemListItemBackgroundDisabled = new StyleBoxFlat { BackgroundColor = new Color(10, 10, 12) };
             itemListItemBackgroundDisabled.SetContentMarginOverride(StyleBox.Margin.Vertical, 2);
             itemListItemBackgroundDisabled.SetContentMarginOverride(StyleBox.Margin.Horizontal, 4);
-            var itemListItemBackground = new StyleBoxFlat { BackgroundColor = new Color(55, 55, 68) };
+            var itemListItemBackground = new StyleBoxFlat { BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight }; // Lime-Edit - общий серый стиль
             itemListItemBackground.SetContentMarginOverride(StyleBox.Margin.Vertical, 2);
             itemListItemBackground.SetContentMarginOverride(StyleBox.Margin.Horizontal, 4);
             var itemListItemBackgroundTransparent = new StyleBoxFlat { BackgroundColor = Color.Transparent };
@@ -496,7 +496,7 @@ namespace Content.Client.Stylesheets
             var sliderFillBox = new StyleBoxTexture
             {
                 Texture = sliderFillTex,
-                Modulate = Color.FromHex("#3E6C45")
+                Modulate = Content.Client._Lime.Stylesheets.LimePalettes.Primary.PressedElement // Lime-Edit - общий серый стиль
             };
 
             var sliderBackBox = new StyleBoxTexture
@@ -810,15 +810,15 @@ namespace Content.Client.Stylesheets
 
                 Element<ContainerButton>().Class(ListContainer.StyleClassListContainerButton)
                     .Pseudo(ContainerButton.StylePseudoClassNormal)
-                    .Prop(Control.StylePropertyModulateSelf, new Color(55, 55, 68)),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight), // Lime-Edit - общий серый стиль
 
                 Element<ContainerButton>().Class(ListContainer.StyleClassListContainerButton)
                     .Pseudo(ContainerButton.StylePseudoClassHover)
-                    .Prop(Control.StylePropertyModulateSelf, new Color(75, 75, 86)),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.Primary.HoveredElement), // Lime-Edit - общий серый стиль
 
                 Element<ContainerButton>().Class(ListContainer.StyleClassListContainerButton)
                     .Pseudo(ContainerButton.StylePseudoClassPressed)
-                    .Prop(Control.StylePropertyModulateSelf, new Color(75, 75, 86)),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.Primary.HoveredElement), // Lime-Edit - общий серый стиль
 
                 Element<ContainerButton>().Class(ListContainer.StyleClassListContainerButton)
                     .Pseudo(ContainerButton.StylePseudoClassDisabled)
@@ -1023,7 +1023,7 @@ namespace Content.Client.Stylesheets
                 new StyleRule(new SelectorElement(typeof(ItemList), null, null, null), new[]
                 {
                     new StyleProperty(ItemList.StylePropertyBackground,
-                        new StyleBoxFlat {BackgroundColor = new Color(32, 32, 40)}),
+                        new StyleBoxFlat {BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset}), // Lime-Edit - общий серый стиль
                     new StyleProperty(ItemList.StylePropertyItemBackground,
                         itemListItemBackground),
                     new StyleProperty(ItemList.StylePropertyDisabledItemBackground,
@@ -1060,10 +1060,10 @@ namespace Content.Client.Stylesheets
                 new StyleRule(new SelectorElement(typeof(Tree), null, null, null), new[]
                 {
                     new StyleProperty(Tree.StylePropertyBackground,
-                        new StyleBoxFlat {BackgroundColor = new Color(32, 32, 40)}),
+                        new StyleBoxFlat {BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset}), // Lime-Edit - общий серый стиль
                     new StyleProperty(Tree.StylePropertyItemBoxSelected, new StyleBoxFlat
                     {
-                        BackgroundColor = new Color(55, 55, 68),
+                        BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight, // Lime-Edit - общий серый стиль
                         ContentMarginLeftOverride = 4
                     })
                 }),
@@ -1332,7 +1332,7 @@ namespace Content.Client.Stylesheets
                 }),
 
                 Element<PanelContainer>().Class(OptionButton.StyleClassOptionsBackground)
-                    .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat(Color.FromHex("#25252A"))),
+                    .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat(Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground)), // Lime-Edit - общий серый стиль
 
                 new StyleRule(new SelectorElement(typeof(PanelContainer), new []{ ClassHighDivider}, null, null), new []
                 {
@@ -1349,15 +1349,15 @@ namespace Content.Client.Stylesheets
                 // Different Background shapes ---
                 Element<PanelContainer>().Class(ClassAngleRect)
                     .Prop(PanelContainer.StylePropertyPanel, BaseAngleRect)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252A")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground), // Lime-Edit - общий серый стиль
 
                 Element<PanelContainer>().Class("BackgroundOpenRight")
                     .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenRight)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252A")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground), // Lime-Edit - общий серый стиль
 
                 Element<PanelContainer>().Class("BackgroundOpenLeft")
                     .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenLeft)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252A")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground), // Lime-Edit - общий серый стиль
                 // ---
 
                 // Dividers
@@ -1376,7 +1376,7 @@ namespace Content.Client.Stylesheets
 
                 Element<PanelContainer>().Class("WindowHeadingBackground")
                     .Prop("panel", new StyleBoxTexture(BaseButtonOpenLeft) { Padding = default })
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#1F1F23")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelInset), // Lime-Edit - нейтральный старый стиль
 
                 Element<PanelContainer>().Class("WindowHeadingBackgroundLight")
                     .Prop("panel", new StyleBoxTexture(BaseButtonOpenLeft) { Padding = default }),
@@ -1384,7 +1384,7 @@ namespace Content.Client.Stylesheets
                 // Window Header Help Button
                 Element<TextureButton>().Class(FancyWindow.StyleClassWindowHelpButton)
                     .Prop(TextureButton.StylePropertyTexture, resCache.GetTexture("/Textures/Interface/Nano/help.png"))
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#4B596A")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.IconNormal), // Lime-Edit - нейтральный старый стиль
 
                 Element<TextureButton>().Class(FancyWindow.StyleClassWindowHelpButton).Pseudo(ContainerButton.StylePseudoClassHover)
                     .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#7F3636")),
@@ -1395,11 +1395,11 @@ namespace Content.Client.Stylesheets
                 //The lengths you have to go through to change a background color smh
                 Element<PanelContainer>().Class("PanelBackgroundBaseDark")
                     .Prop("panel", new StyleBoxTexture(BaseButtonOpenBoth) { Padding = default })
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#1F1F23")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelInset), // Lime-Edit - нейтральный старый стиль
 
                 Element<PanelContainer>().Class("PanelBackgroundLight")
                     .Prop("panel", new StyleBoxTexture(BaseButtonOpenBoth) { Padding = default })
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#2F2F3B")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelHighlight), // Lime-Edit - нейтральный старый стиль
 
                 // Window Footer
                 Element<TextureRect>().Class("NTLogoDark")
@@ -1527,7 +1527,7 @@ namespace Content.Client.Stylesheets
                 //PDA - Backgrounds
                 Element<PanelContainer>().Class("PdaContentBackground")
                     .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenBoth)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#25252a")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground), // Lime-Edit - общий серый стиль
 
                 Element<PanelContainer>().Class("PdaBackground")
                     .Prop(PanelContainer.StylePropertyPanel, BaseButtonOpenBoth)
@@ -1535,13 +1535,13 @@ namespace Content.Client.Stylesheets
 
                 Element<PanelContainer>().Class("PdaBackgroundRect")
                     .Prop(PanelContainer.StylePropertyPanel, BaseAngleRect)
-                    .Prop(Control.StylePropertyModulateSelf, Color.FromHex("#717059")),
+                    .Prop(Control.StylePropertyModulateSelf, Content.Client._Lime.Stylesheets.LimePalettes.Primary.Element), // Lime-Edit - нейтральный старый стиль
 
                 Element<PanelContainer>().Class("PdaBorderRect")
                     .Prop(PanelContainer.StylePropertyPanel, AngleBorderRect),
 
                 Element<PanelContainer>().Class("BackgroundDark")
-                    .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat(Color.FromHex("#25252A"))),
+                    .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat(Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground)), // Lime-Edit - общий серый стиль
 
                 //PDA - Buttons
                 Element<PdaSettingsButton>().Pseudo(ContainerButton.StylePseudoClassNormal)
@@ -1611,14 +1611,14 @@ namespace Content.Client.Stylesheets
                 Element<PanelContainer>().Class("InsetBackground")
                     .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat
                     {
-                        BackgroundColor = Color.FromHex("#202023"),
+                        BackgroundColor = Content.Client._Lime.Stylesheets.LimePalettes.PanelInset, // Lime-Edit - общий серый стиль
                     }),
 
                 // Default fancy window border styles
                 Element<PanelContainer>().Class("DefaultBorderBottom")
                     .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat
                     {
-                        BorderColor= Color.FromHex("#3B3E56"),
+                        BorderColor= Content.Client._Lime.Stylesheets.LimePalettes.PanelBorder, // Lime-Edit - общий серый стиль
                         BorderThickness= new Thickness(0, 0, 0, 1),
                     }),
 
@@ -1626,7 +1626,7 @@ namespace Content.Client.Stylesheets
                 Element<PanelContainer>().Class("DefaultBorderTop")
                     .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat
                     {
-                        BorderColor= Color.FromHex("#3B3E56"),
+                        BorderColor= Content.Client._Lime.Stylesheets.LimePalettes.PanelBorder, // Lime-Edit - общий серый стиль
                         BorderThickness= new Thickness(0, 1, 0, 0),
                     }),
 

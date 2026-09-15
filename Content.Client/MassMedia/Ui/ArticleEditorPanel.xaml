@@ -1,10 +1,10 @@
-<Control xmlns="https://spacestation14.io"
+<Control xmlns="https://spacestation14.io" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
          xmlns:graphics="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
          MouseFilter="Stop">
     <PanelContainer StyleClasses="BackgroundPanelOpenLeft"/>
     <PanelContainer>
         <PanelContainer.PanelOverride>
-            <graphics:StyleBoxFlat BorderColor="#25252A" BorderThickness="0 0 0 3"/>
+            <graphics:StyleBoxFlat BorderColor="{x:Static lime:LimePalettes.PanelBackground}" BorderThickness="0 0 0 3"/>
         </PanelContainer.PanelOverride>
     </PanelContainer>
     <BoxContainer Orientation="Vertical" HorizontalExpand="True" VerticalExpand="True">
@@ -25,7 +25,7 @@
         <Control Name="TextEditPanel" VerticalExpand="True" Margin="11 0 11 0">
             <PanelContainer>
                 <PanelContainer.PanelOverride>
-                    <graphics:StyleBoxFlat BackgroundColor="#202023" BorderThickness="1" BorderColor="#3B3E56"/>
+                    <graphics:StyleBoxFlat BackgroundColor="{x:Static lime:LimePalettes.PanelInset}" BorderThickness="1" BorderColor="{x:Static lime:LimePalettes.PanelBorder}"/>
                 </PanelContainer.PanelOverride>
             </PanelContainer>
             <TextEdit Name="ContentField" Margin="0 1" Access="Public"/>
@@ -33,7 +33,7 @@
         <Control Name="PreviewPanel" Visible="False" VerticalExpand="True" Margin="11 0 11 0">
             <PanelContainer>
                 <PanelContainer.PanelOverride>
-                    <graphics:StyleBoxFlat BorderThickness="1" BorderColor="#3B3E56"/>
+                    <graphics:StyleBoxFlat BorderThickness="1" BorderColor="{x:Static lime:LimePalettes.PanelBorder}"/>
                 </PanelContainer.PanelOverride>
             </PanelContainer>
             <ScrollContainer HScrollEnabled="True">

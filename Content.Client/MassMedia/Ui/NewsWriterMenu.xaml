@@ -1,5 +1,5 @@
 <controls:FancyWindow
-    xmlns="https://spacestation14.io"
+    xmlns="https://spacestation14.io" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
     xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
     xmlns:ui="clr-namespace:Content.Client.MassMedia.Ui"
     xmlns:graphics="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
@@ -14,7 +14,7 @@
         <Control VerticalExpand="True" HorizontalExpand="True" Margin="10 10 10 0">
             <PanelContainer Name="MainPanel" HorizontalExpand="False" VerticalExpand="True">
                 <PanelContainer.PanelOverride>
-                    <graphics:StyleBoxFlat BackgroundColor="#202023" />
+                    <graphics:StyleBoxFlat BackgroundColor="{x:Static lime:LimePalettes.PanelInset}" />
                 </PanelContainer.PanelOverride>
             </PanelContainer>
             <ScrollContainer Name="ArticleListScrollbar" HorizontalExpand="True" VerticalExpand="True" HScrollEnabled="True">

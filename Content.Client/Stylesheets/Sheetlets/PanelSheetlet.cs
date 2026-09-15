@@ -62,7 +62,7 @@ public sealed class PanelSheetlet<T> : Sheetlet<T> where T : PalettedStylesheet,
             // TODO: this should probably be cleaned up but too many UIs rely on this hardcoded color so I'm scared to touch it
             E<PanelContainer>()
                 .Class("BackgroundDark")
-                .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat(Color.FromHex("#25252A"))),
+                .Prop(PanelContainer.StylePropertyPanel, new StyleBoxFlat(sheet.SecondaryPalette.Background)), // Lime-Edit - старый класс использует общую палитру
 
             // panels that have the same corner bezels as buttons
             E()

@@ -32,7 +32,7 @@ public sealed partial class StationAiFixerConsoleWindow : FancyWindow
 
     private readonly Dictionary<StationAiState, Color> _statusColors = new()
     {
-        [StationAiState.Empty] = Color.FromHex("#464966"),
+        [StationAiState.Empty] = Content.Client._Lime.Stylesheets.LimePalettes.Primary.Element, // Lime-Edit - общий серый стиль
         [StationAiState.Occupied] = Color.FromHex("#3E6C45"),
         [StationAiState.Rebooting] = Color.FromHex("#A5762F"),
         [StationAiState.Dead] = Color.FromHex("#BB3232"),

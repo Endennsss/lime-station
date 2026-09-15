@@ -1,5 +1,5 @@
 <screens:SeparatedChatGameScreen
-    xmlns="https://spacestation14.io"
+    xmlns="https://spacestation14.io" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
     xmlns:screens="clr-namespace:Content.Client.UserInterface.Screens"
     xmlns:menuBar="clr-namespace:Content.Client.UserInterface.Systems.MenuBar.Widgets"
     xmlns:actions="clr-namespace:Content.Client.UserInterface.Systems.Actions.Widgets"
@@ -28,7 +28,7 @@
         </LayoutContainer>
         <PanelContainer Name="SeparatedChatPanel" MinWidth="300">
             <PanelContainer.PanelOverride>
-                <graphics:StyleBoxFlat BackgroundColor="#2B2C3B" />
+                <graphics:StyleBoxFlat BackgroundColor="{x:Static lime:LimePalettes.PanelBackground}" />
             </PanelContainer.PanelOverride>
 
             <BoxContainer Orientation="Vertical" HorizontalExpand="True" SeparationOverride="10" Margin="10">

@@ -1,12 +1,12 @@
-<Control xmlns="https://spacestation14.io"
+<Control xmlns="https://spacestation14.io" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:lime="clr-namespace:Content.Client._Lime.Stylesheets"
          xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
          MaxWidth="400">
     <PanelContainer>
         <PanelContainer.PanelOverride>
             <gfx:StyleBoxFlat 
                 BorderThickness="2" 
-                BorderColor="#464966"
-                BackgroundColor="#25252A"
+                BorderColor="{x:Static lime:LimePalettes.PanelBorder}"
+                BackgroundColor="{x:Static lime:LimePalettes.PanelBackground}"
             />
         </PanelContainer.PanelOverride>
         <BoxContainer 

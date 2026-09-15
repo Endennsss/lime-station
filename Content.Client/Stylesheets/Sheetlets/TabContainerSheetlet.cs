@@ -14,8 +14,12 @@ public sealed class TabContainerSheetlet<T> : Sheetlet<T> where T: PalettedStyle
     {
         ITabContainerConfig tabCfg = sheet;
 
-        var tabContainerPanel = sheet.GetTextureOr(tabCfg.TabContainerPanelPath, NanotrasenStylesheet.TextureRoot)
-            .IntoPatch(StyleBox.Margin.All, 2);
+        var tabContainerPanel = new StyleBoxFlat(sheet.SecondaryPalette.Background) // Lime-Edit - вкладки без цветного фона PNG
+        {
+            BorderColor = sheet.PrimaryPalette.Background,
+            BorderThickness = new Thickness(2),
+        };
+        tabContainerPanel.SetContentMarginOverride(StyleBox.Margin.All, 2);
 
         var tabContainerBoxActive = new StyleBoxFlat(sheet.SecondaryPalette.Element);
         tabContainerBoxActive.SetContentMarginOverride(StyleBox.Margin.Horizontal, 5);

@@ -41,7 +41,7 @@ namespace Content.Client.Lobby.UI
             var back = new StyleBoxTexture
             {
                 Texture = panelTex,
-                Modulate = new Color(37, 37, 42)
+                Modulate = Content.Client._Lime.Stylesheets.LimePalettes.PanelBackground // Lime-Edit - нейтральный редактор персонажа
             };
             back.SetPatchMargin(StyleBox.Margin.All, 10);
 
