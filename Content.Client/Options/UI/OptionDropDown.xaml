@@ -1,6 +1,7 @@
 ﻿<Control xmlns="https://spacestation14.io">
-    <BoxContainer Orientation="Horizontal">
-        <Label Name="NameLabel" MinWidth="400" />
-        <OptionButton Name="Button" Access="Public" />
+    <!-- Lime-Edit - настройка помещается в узкую вкладку без фиксированной ширины подписи -->
+    <BoxContainer Orientation="Vertical">
+        <Label Name="NameLabel" ClipText="True" HorizontalExpand="True" />
+        <OptionButton Name="Button" Access="Public" HorizontalExpand="True" />
     </BoxContainer>
 </Control>

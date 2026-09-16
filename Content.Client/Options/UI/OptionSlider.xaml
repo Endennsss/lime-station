@@ -1,7 +1,10 @@
 <Control xmlns="https://spacestation14.io">
-    <BoxContainer Orientation="Horizontal">
-        <Label Name="NameLabel" MinWidth="400" />
-        <Slider Name="Slider" Access="Public" HorizontalExpand="True" />
-        <Label Name="ValueLabel" Access="Public" Margin="8 0 4 0" MinWidth="48" Align="Right" />
+    <!-- Lime-Edit - подпись над ползунком не отнимает фиксированные 400 пикселей -->
+    <BoxContainer Orientation="Vertical">
+        <Label Name="NameLabel" ClipText="True" HorizontalExpand="True" />
+        <BoxContainer Orientation="Horizontal">
+            <Slider Name="Slider" Access="Public" HorizontalExpand="True" />
+            <Label Name="ValueLabel" Access="Public" Margin="8 0 4 0" MinWidth="48" Align="Right" />
+        </BoxContainer>
     </BoxContainer>
 </Control>

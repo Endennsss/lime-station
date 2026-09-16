@@ -4,8 +4,8 @@
                 HorizontalExpand="True"
                 Rounded="True" />
         <SpinBox Name="SpinBox"
-                 HorizontalExpand="True"
-                 SizeFlagsStretchRatio="0.3"
+                 MinWidth="72"
+                 MaxWidth="96"
                  Margin="8 0" />
     </BoxContainer>
 </Control>

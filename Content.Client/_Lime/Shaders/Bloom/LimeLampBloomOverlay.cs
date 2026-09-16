@@ -1,4 +1,5 @@
 using System.Numerics;
+using Content.Client.Graphics;
 using Content.Shared._Lime.Shaders.Bloom;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
@@ -92,7 +93,7 @@ public sealed class LimeLampBloomOverlay : Overlay
             foreach (var entry in _visibleSprites)
             {
                 var sprite = entry.Comp;
-                if (!sprite.Visible || sprite.ContainerOccluded || _lampQuery.HasComp(entry) || sprite.PostShader != null)
+                if (!sprite.Visible || sprite.ContainerOccluded || _lampQuery.HasComp(entry) || HasBlockingEffect(sprite))
                     continue;
                 _emissiveQuery.TryComp(entry, out var settings);
                 if (settings != null)
@@ -154,6 +155,17 @@ public sealed class LimeLampBloomOverlay : Overlay
         var matrix = layerMatrix * sprite.LocalMatrix * Matrix3Helpers.CreateTransform(_transform.GetWorldPosition(entry), renderRotation);
         var color = sprite.Color * layer.Color * (settings?.Color ?? Color.White);
         _itemBloom.Add(texture, matrix, color, Math.Clamp(strength, 0f, 2f), Math.Clamp(radius, 0f, 2f));
+    }
+
+    private bool HasBlockingEffect(SpriteComponent sprite)
+    {
+        // Выделение при наведении не меняет источник свечения; скрытность и прочие эффекты исключаем.
+        foreach (var effect in _sprite.GetPostShaders(sprite))
+            if (effect.Id != ContentPostShaderIds.InteractionOutline &&
+                effect.Id != ContentPostShaderIds.TargetOutline &&
+                effect.Id != ContentPostShaderIds.DragDropOutline)
+                return true;
+        return false;
     }
 
     private void DrawHalo(DrawingHandleWorld handle, Vector2 center, Vector2 coreSize, float radius, float softness, Color color)

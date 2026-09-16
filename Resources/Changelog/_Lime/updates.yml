@@ -2,6 +2,14 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 6
+  author: Endennsss
+  time: '2026-09-16T18:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Свечение предметов больше не пропадает при наведении курсора.
+  - type: Fix
+    message: Ползунки, числовые поля и списки настроек больше не вытесняются за край длинными подписями.
 - id: 5
   author: Endennsss
   time: '2026-09-16T17:00:00+00:00'

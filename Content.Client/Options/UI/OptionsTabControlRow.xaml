@@ -1,18 +1,21 @@
 <Control xmlns="https://spacestation14.io"
          xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls">
     <controls:StripeBack HasBottomEdge="False">
-        <BoxContainer Orientation="Horizontal" Align="End" Margin="2">
+        <!-- Lime-Edit - длинная кнопка применения находится в отдельной строке -->
+        <BoxContainer Orientation="Vertical" Margin="2" SeparationOverride="4">
+            <BoxContainer Orientation="Horizontal" SeparationOverride="4">
             <Button Name="DefaultButton"
                     Text="{Loc 'ui-options-default'}"
                     TextAlign="Center"
-                    Margin="8 0" />
+                    HorizontalExpand="True" />
 
             <Button Name="ResetButton"
                     Text="{Loc 'ui-options-reset-all'}"
-                    StyleClasses="negative" />
+                    StyleClasses="negative" HorizontalExpand="True" />
+            </BoxContainer>
             <Button Name="ApplyButton"
                     Text="{Loc 'ui-options-apply'}"
-                    StyleClasses="OpenLeft" />
+                    HorizontalExpand="True" />
         </BoxContainer>
     </controls:StripeBack>
 </Control>
