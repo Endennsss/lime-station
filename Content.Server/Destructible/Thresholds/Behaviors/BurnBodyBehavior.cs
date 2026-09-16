@@ -32,6 +32,7 @@ public sealed partial class BurnBodyBehavior : IThresholdBehavior
         }
 
         var bodyIdentity = Identity.Entity(bodyId, system.EntityManager);
+        system.EntityManager.System<Content.Server._Lime.Dissolve.BurnAwaySystem>().NotifyBurn(bodyId); // Lime-Edit - анимация сгорания перед удалением тела
         sharedPopupSystem.PopupCoordinates(Loc.GetString(PopupMessage, ("name", bodyIdentity)), transformSystem.GetMoverCoordinates(bodyId), PopupType.LargeCaution);
 
         system.EntityManager.QueueDeleteEntity(bodyId);

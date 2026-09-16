@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 9
+  author: Endennsss
+  time: '2026-09-16T21:00:00+00:00'
+  changes:
+  - type: Add
+    message: При сгорании тела отображается плавное исчезновение его спрайта с огненной кромкой.
 - id: 8
   author: Endennsss
   time: '2026-09-16T20:00:00+00:00'
