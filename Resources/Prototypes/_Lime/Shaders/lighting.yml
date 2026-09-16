@@ -10,11 +10,11 @@
   blend_mode: add
 
 - type: shader
-  id: LimeItemBloom
+  id: LimeEmissiveBloom
   kind: source
-  path: /Textures/_Lime/Shaders/item_bloom.swsl
+  path: /Textures/_Lime/Shaders/emissive_bloom.swsl
 
 - type: shader
-  id: LimeItemBlur
-  kind: source
-  path: /Textures/_Lime/Shaders/item_blur.swsl
+  id: LimeEmissiveMask
+  kind: canvas
+  light_mode: unshaded
