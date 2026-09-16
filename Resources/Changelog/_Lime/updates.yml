@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 10
+  author: Endennsss
+  time: '2026-09-16T22:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Телепортационное исчезновение движется снизу вверх непрерывно, без ступенчатого пропадания строк спрайта.
 - id: 9
   author: Endennsss
   time: '2026-09-16T21:00:00+00:00'

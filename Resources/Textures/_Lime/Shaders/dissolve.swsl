@@ -28,9 +28,9 @@ void fragment()
     else
     {
         highp vec2 position = (UV - vec2(0.5)) / TEXTURE_PIXEL_SIZE / pixels_per_meter;
-        // Одна ячейка на пиксель SS14; TIME не используется, рисунок неподвижен.
-        position = (floor(position * 32.0) + vec2(0.5)) / 32.0;
-        highp vec2 noise_position = position * noise_scale + vec2(noise_seed, noise_seed * 0.73);
+        // Шум фиксируется по пикселям, но высота остаётся непрерывной для плавного движения кромки.
+        highp vec2 noise_grid = (floor(position * 32.0) + vec2(0.5)) / 32.0;
+        highp vec2 noise_position = noise_grid * noise_scale + vec2(noise_seed, noise_seed * 0.73);
         highp float noise = zNoise(noise_position) * 0.75 + zNoise(noise_position * 2.03 + vec2(7.1)) * 0.25;
         noise = clamp((noise - 0.25) * 2.0, 0.0, 1.0);
         highp float height = clamp(position.y / sprite_height + 0.5, 0.0, 1.0);
@@ -45,7 +45,10 @@ void fragment()
         }
 
         highp float remaining = noise - dissolve_amount;
-        if (remaining < 0.0)
+        highp float feather = direction > 0.5
+            ? max(1.5 / max(sprite_height * pixels_per_meter.y, 1.0), 0.008)
+            : 0.0;
+        if (remaining < -feather)
             discard;
 
         highp float edge = 1.0 - smoothstep(0.0, max(edge_width, 0.0001), remaining);
@@ -57,6 +60,7 @@ void fragment()
         highp float onset = smoothstep(0.0, 0.025, dissolve_amount);
         highp vec3 base = source.rgb * (1.0 - charred * char_strength * onset);
         highp vec3 glow = mix(edge_color.rgb, core_color.rgb, core) * edge_intensity;
-        COLOR = vec4(mix(base, glow, edge * onset), source.a);
+        highp float coverage = direction > 0.5 ? smoothstep(-feather, 0.0, remaining) : 1.0;
+        COLOR = vec4(mix(base, glow, edge * onset), source.a * coverage);
     }
 }
