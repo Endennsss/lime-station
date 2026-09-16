@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 12
+  author: Endennsss
+  time: '2026-09-17T12:00:00+00:00'
+  changes:
+  - type: Add
+    message: Добавлены добровольное ползание на R, кувырки во время движения и прыжки на пробел с расходом выносливости.
 - id: 11
   author: Endennsss
   time: '2026-09-17T00:00:00+00:00'

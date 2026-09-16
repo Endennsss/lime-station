@@ -101,6 +101,7 @@
   - type: SSDIndicator
   - type: StandingState
   - type: Crawler
+  - type: LimeMobility # Lime added - добровольное ползание и манёвры
   - type: Dna
   - type: MindContainer
   - type: MindExaminable

@@ -545,9 +545,12 @@ binds:
 - function: Arcade3
   type: State
   key: Z
-- function: ToggleKnockdown
+- function: LimeToggleProne # Lime-Edit
   type: State
-  key: C
+  key: R
+- function: LimeJump # Lime added - свободный прыжок
+  type: State
+  key: Space
 - function: OpenAbilitiesMenu
   type: State
   key: K
