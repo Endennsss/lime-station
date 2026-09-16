@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 7
+  author: Endennsss
+  time: '2026-09-16T19:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Свечение рисуется после слоя своего источника, а не под всеми объектами; более высокие слои перекрывают ореол.
 - id: 6
   author: Endennsss
   time: '2026-09-16T18:00:00+00:00'
