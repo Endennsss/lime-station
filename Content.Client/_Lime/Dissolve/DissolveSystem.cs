@@ -12,7 +12,6 @@ public sealed class DissolveSystem : EntitySystem
     [Dependency] private readonly IPrototypeManager _prototype = default!;
     [Dependency] private readonly SpriteSystem _sprite = default!;
     [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly TransformSystem _transform = default!;
 
     private static readonly ProtoId<ShaderPrototype> ShaderId = "LimeDissolve";
     private readonly List<EntityUid> _finished = [];
@@ -53,13 +52,6 @@ public sealed class DissolveSystem : EntitySystem
         // RT переиспользуется для спрайтов разных размеров. UV нельзя считать UV самого объекта.
         var pixelsPerMeter = args.Viewport.RenderScale * EyeManager.PixelsPerMeter / eye.Zoom;
         shader.SetParameter("pixels_per_meter", pixelsPerMeter);
-        var bounds = _sprite.GetLocalBounds((ent.Owner, args.Sprite));
-        var rotation = args.Sprite.NoRotation
-            ? args.Sprite.Rotation
-            : args.Sprite.Rotation + _transform.GetWorldRotation(ent.Owner) + eye.Rotation;
-        var height = MathF.Abs((float) Math.Sin(rotation.Theta)) * bounds.Width +
-            MathF.Abs((float) Math.Cos(rotation.Theta)) * bounds.Height;
-        shader.SetParameter("sprite_height", MathF.Max(height, 0.01f));
     }
 
     /// <summary>Animates from zero to one, hiding only the client sprite on completion.</summary>
@@ -102,11 +94,13 @@ public sealed class DissolveSystem : EntitySystem
                 continue;
             }
 
+            var finalFrameWasAvailable = dissolve.Amount == dissolve.To;
             dissolve.Elapsed += frameTime;
             var progress = Math.Clamp(dissolve.Elapsed / dissolve.Duration, 0f, 1f);
             dissolve.Amount = dissolve.From + (dissolve.To - dissolve.From) * progress;
             dissolve.Shader?.SetParameter("dissolve_amount", dissolve.Amount);
-            if (progress >= 1f)
+            // Оставляем конечную фазу на один кадр, чтобы кромка дошла до верхней границы.
+            if (progress >= 1f && finalFrameWasAvailable)
                 _finished.Add(uid);
         }
 
@@ -159,7 +153,6 @@ public sealed class DissolveSystem : EntitySystem
         shader.SetParameter("noise_seed", settings.Seed);
         shader.SetParameter("direction", (float) settings.Direction);
         shader.SetParameter("pixels_per_meter", new Vector2(EyeManager.PixelsPerMeter));
-        shader.SetParameter("sprite_height", 1f);
         sprite.PostShader = shader;
         sprite.RaiseShaderEvent = true;
         sprite.GetScreenTexture = false;

@@ -12,7 +12,6 @@ uniform highp float char_strength;
 uniform highp float noise_seed;
 uniform highp float direction;
 uniform highp vec2 pixels_per_meter;
-uniform highp float sprite_height;
 
 void fragment()
 {
@@ -33,7 +32,9 @@ void fragment()
         highp vec2 noise_position = noise_grid * noise_scale + vec2(noise_seed, noise_seed * 0.73);
         highp float noise = zNoise(noise_position) * 0.75 + zNoise(noise_position * 2.03 + vec2(7.1)) * 0.25;
         noise = clamp((noise - 0.25) * 2.0, 0.0, 1.0);
-        highp float height = clamp(position.y / sprite_height + 0.5, 0.0, 1.0);
+        // UV2 описывает сам PostShader-квад независимо от power-of-two размера временной текстуры.
+        // Движок оставляет вокруг спрайта по 10% поля при PostShadeScale = 1.25.
+        highp float height = clamp((UV2.y - 0.1) / 0.8, 0.0, 1.0);
         if (direction > 0.5)
         {
             // В PostShader UV.y=0 соответствует нижней стороне render target.
@@ -45,9 +46,7 @@ void fragment()
         }
 
         highp float remaining = noise - dissolve_amount;
-        highp float feather = direction > 0.5
-            ? max(1.5 / max(sprite_height * pixels_per_meter.y, 1.0), 0.008)
-            : 0.0;
+        highp float feather = direction > 0.5 ? max(fwidth(height) * 1.5, 0.008) : 0.0;
         if (remaining < -feather)
             discard;
 

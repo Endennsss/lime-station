@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 11
+  author: Endennsss
+  time: '2026-09-17T00:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Телепортационное исчезновение проходит одной непрерывной кромкой от нижней до верхней границы спрайта.
 - id: 10
   author: Endennsss
   time: '2026-09-16T22:00:00+00:00'
