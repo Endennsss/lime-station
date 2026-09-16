@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 8
+  author: Endennsss
+  time: '2026-09-16T20:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Телепортационное исчезновение проходит снизу вверх с узкой светящейся кромкой, без пропадания крупных частей спрайта в начале и конце.
 - id: 7
   author: Endennsss
   time: '2026-09-16T19:00:00+00:00'

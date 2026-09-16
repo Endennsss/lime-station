@@ -1,0 +1,62 @@
+light_mode unshaded;
+blend_mode normal;
+
+uniform highp float dissolve_amount;
+uniform highp float edge_width;
+uniform highp vec4 edge_color;
+uniform highp vec4 core_color;
+uniform highp float edge_intensity;
+uniform highp float noise_scale;
+uniform highp float char_width;
+uniform highp float char_strength;
+uniform highp float noise_seed;
+uniform highp float direction;
+uniform highp vec2 pixels_per_meter;
+uniform highp float sprite_height;
+
+void fragment()
+{
+    highp vec4 source = zTexture(UV);
+    if (source.a <= 0.0 || dissolve_amount >= 1.0)
+        discard;
+
+    // При нулевой фазе возвращаем исходный освещённый спрайт без кромки.
+    if (dissolve_amount <= 0.0)
+    {
+        COLOR = source;
+    }
+    else
+    {
+        highp vec2 position = (UV - vec2(0.5)) / TEXTURE_PIXEL_SIZE / pixels_per_meter;
+        // Одна ячейка на пиксель SS14; TIME не используется, рисунок неподвижен.
+        position = (floor(position * 32.0) + vec2(0.5)) / 32.0;
+        highp vec2 noise_position = position * noise_scale + vec2(noise_seed, noise_seed * 0.73);
+        highp float noise = zNoise(noise_position) * 0.75 + zNoise(noise_position * 2.03 + vec2(7.1)) * 0.25;
+        noise = clamp((noise - 0.25) * 2.0, 0.0, 1.0);
+        highp float height = clamp(position.y / sprite_height + 0.5, 0.0, 1.0);
+        if (direction > 0.5)
+        {
+            // В PostShader UV.y=0 соответствует нижней стороне render target.
+            if (direction > 1.5)
+                height = 1.0 - height;
+            // Шум ограничен узкой кромкой: начало и конец больше не съедают четверть спрайта.
+            highp float ripple = min(edge_width * 0.5, 0.02);
+            noise = clamp(height + (noise - 0.5) * ripple, 0.0, 1.0);
+        }
+
+        highp float remaining = noise - dissolve_amount;
+        if (remaining < 0.0)
+            discard;
+
+        highp float edge = 1.0 - smoothstep(0.0, max(edge_width, 0.0001), remaining);
+        if (edge_width <= 0.0)
+            edge = 0.0;
+        highp float core = 1.0 - smoothstep(0.0, max(edge_width * 0.3, 0.0001), remaining);
+        highp float charred = 1.0 - smoothstep(edge_width, edge_width + max(char_width, 0.0001), remaining);
+        // Плавно включаем кромку в начале, чтобы amount=0 не давал скачок цвета.
+        highp float onset = smoothstep(0.0, 0.025, dissolve_amount);
+        highp vec3 base = source.rgb * (1.0 - charred * char_strength * onset);
+        highp vec3 glow = mix(edge_color.rgb, core_color.rgb, core) * edge_intensity;
+        COLOR = vec4(mix(base, glow, edge * onset), source.a);
+    }
+}
