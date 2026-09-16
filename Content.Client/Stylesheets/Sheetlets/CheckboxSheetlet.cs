@@ -18,6 +18,12 @@ public sealed class CheckboxSheetlet<T> : Sheetlet<T> where T : PalettedStyleshe
 
         return
         [
+            // Lime added start - обесцвечиваем только иконку переключателя, сохраняя текст и состояния
+            E<TextureRect>()
+                .Class(CheckBox.StyleClassCheckBox)
+                .Prop(TextureRect.StylePropertyShader, IoCManager.Resolve<Robust.Shared.Prototypes.IPrototypeManager>()
+                    .Index(Content.Client._Lime.Stylesheets.LimeHudSheetlet.GreyscaleShader).Instance()),
+            // Lime added end
             E<TextureRect>()
                 .Class(CheckBox.StyleClassCheckBox)
                 .Prop(TextureRect.StylePropertyTexture, uncheckedTex),

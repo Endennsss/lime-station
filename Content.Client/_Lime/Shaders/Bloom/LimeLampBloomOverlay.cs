@@ -34,7 +34,8 @@ public sealed class LimeLampBloomOverlay : Overlay
 
     /// <summary>Global decorative intensity, from zero to one.</summary>
     public float Strength;
-    public override OverlaySpace Space => OverlaySpace.WorldSpaceBelowFOV;
+    // Ореолы рисуются над полом, но под спрайтами: предметы и персонажи перекрывают чужое свечение.
+    public override OverlaySpace Space => OverlaySpace.WorldSpaceBelowEntities;
     public override bool RequestScreenTexture => true;
 
     public LimeLampBloomOverlay()

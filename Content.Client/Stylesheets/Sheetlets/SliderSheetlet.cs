@@ -19,7 +19,7 @@ public sealed class SliderSheetlet<T> : Sheetlet<T> where T: PalettedStylesheet,
         var sliderFillBox = new StyleBoxTexture
         {
             Texture = sliderFillTex,
-            Modulate = sheet.PositivePalette.TextDark,
+            Modulate = sheet.PrimaryPalette.Element, // Lime-Edit - настройки не являются индикатором успеха
         };
 
         var sliderBackBox = new StyleBoxTexture

@@ -22,7 +22,7 @@ public sealed class WindowSheetlet<T> : Sheetlet<T>
         IWindowConfig windowCfg = sheet;
         IIconConfig iconCfg = sheet;
 
-        var headerStylebox = new StyleBoxTexture
+        var headerStylebox = new Content.Client._Lime.Stylesheets.LimeGrayStyleBoxTexture // Lime-Edit - нейтральный заголовок, включая панель песочницы
         {
             Texture = sheet.GetTextureOr(windowCfg.WindowHeaderTexturePath, NanotrasenStylesheet.TextureRoot),
             PatchMarginBottom = 3,

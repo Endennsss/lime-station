@@ -14,8 +14,11 @@ public sealed class LineEditSheetlet<T> : Sheetlet<T> where T : PalettedStyleshe
     {
         ILineEditConfig lineEditCfg = sheet;
 
-        var lineEditStylebox = sheet.GetTextureOr(lineEditCfg.LineEditPath, NanotrasenStylesheet.TextureRoot)
-            .IntoPatch(StyleBox.Margin.All, 3);
+        var lineEditStylebox = new Content.Client._Lime.Stylesheets.LimeGrayStyleBoxTexture // Lime-Edit - обесцвечиваем рамку, не текст ввода
+        {
+            Texture = sheet.GetTextureOr(lineEditCfg.LineEditPath, NanotrasenStylesheet.TextureRoot),
+        };
+        lineEditStylebox.SetPatchMargin(StyleBox.Margin.All, 3);
         lineEditStylebox.SetContentMarginOverride(StyleBox.Margin.Horizontal, 5);
 
         return

@@ -2,6 +2,14 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 5
+  author: Endennsss
+  time: '2026-09-16T17:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Ореолы свечения больше не рисуются поверх объектов и персонажей.
+  - type: Fix
+    message: Рамки полей ввода, заголовки окон, переключатели и ползунки настроек приведены к серой палитре.
 - id: 4
   author: Endennsss
   time: '2026-09-16T16:00:00+00:00'
