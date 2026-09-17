@@ -10,13 +10,16 @@ public sealed partial class LimeLampBloomSystem : EntitySystem
 {
     [Dependency] private readonly IConfigurationManager _configuration = default!;
     [Dependency] private readonly IOverlayManager _overlay = default!;
+    [Dependency] private readonly IEntityManager _entity = default!;
 
     private readonly List<LimeLampBloomOverlay> _passes = new();
     private float _strength = 0.45f;
+    private LimeBloomSourceCache _sourceCache = default!;
 
     public override void Initialize()
     {
         base.Initialize();
+        _sourceCache = new LimeBloomSourceCache(_entity);
         Subs.CVar(_configuration, LimeGraphicsCVars.LightBloomStrength, PreviewBloomStrength, true);
         Subs.CVar(_configuration, LimeGraphicsCVars.LightBloomEnabled, OnEnabled, true);
     }
@@ -60,7 +63,7 @@ public sealed partial class LimeLampBloomSystem : EntitySystem
 
     private void AddPass<T>(int minimumDepth, int maximumDepth)
     {
-        var pass = new LimeDepthBloomOverlay<T>(minimumDepth, maximumDepth) { Strength = _strength };
+        var pass = new LimeDepthBloomOverlay<T>(minimumDepth, maximumDepth, _sourceCache) { Strength = _strength };
         _passes.Add(pass);
         _overlay.AddOverlay(pass);
     }

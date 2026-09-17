@@ -7,31 +7,28 @@ using Robust.Shared.Enums;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Graphics.RSI;
 using Robust.Client.Utility;
+using Robust.Shared.Timing;
+using Robust.Shared.Map;
 
 namespace Content.Client._Lime.Shaders.Bloom;
 
 /// <summary>Draws compact lamp halos and multi-scale bloom of emissive sprite layers.</summary>
-public abstract class LimeLampBloomOverlay : Overlay
+internal abstract class LimeLampBloomOverlay : Overlay
 {
     [Dependency] private readonly IEntityManager _entity = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
-    [Dependency] private readonly IClyde _clyde = default!;
 
     private static readonly ProtoId<ShaderPrototype> HaloShader = "LimeLampHalo";
-    private static readonly ProtoId<ShaderPrototype> CoreShader = "LimeLampCore";
 
     private readonly EntityLookupSystem _lookup;
     private readonly TransformSystem _transform;
     private readonly SpriteSystem _sprite;
     private readonly EntityQuery<PointLightComponent> _lights;
     private readonly EntityQuery<SpriteComponent> _sprites;
-    private readonly HashSet<Entity<LimeLampBloomComponent>> _lamps = new();
-    private readonly HashSet<Entity<SpriteComponent>> _visibleSprites = new();
+    private readonly LimeBloomSourceCache _sourceCache;
     private readonly EntityQuery<LimeEmissiveBloomComponent> _emissiveQuery;
     private readonly EntityQuery<LimeLampBloomComponent> _lampQuery;
-    private readonly LimeEmissiveBloomPass _itemBloom;
     private readonly ShaderInstance _halo;
-    private readonly ShaderInstance _core;
     private readonly int _minimumDepth;
     private readonly int _maximumDepth;
 
@@ -39,10 +36,10 @@ public abstract class LimeLampBloomOverlay : Overlay
     public float Strength;
     // Каждый проход рисуется после своего слоя источников, но до следующего слоя объектов.
     public override OverlaySpace Space => OverlaySpace.WorldSpaceEntities;
-    public override bool RequestScreenTexture => true;
 
-    public LimeLampBloomOverlay(int minimumDepth, int maximumDepth)
+    public LimeLampBloomOverlay(int minimumDepth, int maximumDepth, LimeBloomSourceCache sourceCache)
     {
+        _sourceCache = sourceCache;
         _minimumDepth = minimumDepth;
         _maximumDepth = maximumDepth;
         IoCManager.InjectDependencies(this);
@@ -53,9 +50,7 @@ public abstract class LimeLampBloomOverlay : Overlay
         _sprites = _entity.GetEntityQuery<SpriteComponent>();
         _emissiveQuery = _entity.GetEntityQuery<LimeEmissiveBloomComponent>();
         _lampQuery = _entity.GetEntityQuery<LimeLampBloomComponent>();
-        _itemBloom = new LimeEmissiveBloomPass(_clyde, _prototype);
         _halo = _prototype.Index(HaloShader).InstanceUnique();
-        _core = _prototype.Index(CoreShader).Instance();
         ZIndex = maximumDepth + 1;
     }
 
@@ -63,10 +58,8 @@ public abstract class LimeLampBloomOverlay : Overlay
     {
         if (Strength <= 0f || args.Viewport.Eye == null)
             return false;
-        _visibleSprites.Clear();
-        _lookup.GetEntitiesIntersecting(args.MapId,
-            args.WorldAABB.Enlarged(Math.Max(2f, _itemBloom.GetPadding(args.Viewport))), _visibleSprites);
-        foreach (var entry in _visibleSprites)
+        var visibleSprites = _sourceCache.Get(args.MapId, args.WorldAABB.Enlarged(2f));
+        foreach (var entry in visibleSprites)
         {
             var sprite = entry.Comp;
             if (!MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || HasBlockingEffect(sprite))
@@ -84,15 +77,13 @@ public abstract class LimeLampBloomOverlay : Overlay
     protected override void Draw(in OverlayDrawArgs args)
     {
         var handle = args.WorldHandle;
-        _lamps.Clear();
-        _itemBloom.Clear();
-        // Поиск только у камеры; коллекции переиспользуются для всех кадров.
-        var bounds = args.WorldAABB.Enlarged(Math.Max(2f, _itemBloom.GetPadding(args.Viewport)));
-        _lookup.GetEntitiesIntersecting(args.MapId, bounds, _lamps);
         try
         {
-            foreach (var lamp in _lamps)
+            foreach (var entry in _sourceCache.Sources)
             {
+                if (!_lampQuery.TryComp(entry, out var bloom))
+                    continue;
+                var lamp = new Entity<LimeLampBloomComponent>(entry.Owner, bloom);
                 if (!lamp.Comp.Enabled || !_lights.TryComp(lamp, out var light) || !light.Enabled || light.Energy <= 0f)
                     continue;
                 if (!_sprites.TryComp(lamp, out var sprite) || !MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || HasBlockingEffect(sprite))
@@ -104,12 +95,11 @@ public abstract class LimeLampBloomOverlay : Overlay
                 handle.SetTransform(_transform.GetWorldMatrix(lamp));
                 var color = light.Color * lamp.Comp.BloomColor;
                 var intensity = Strength * Math.Clamp(lamp.Comp.CoreStrength, 0f, 2f);
-                DrawHalo(handle, lamp.Comp.MaskOffset, size, lamp.Comp.HaloRadius, lamp.Comp.Softness, color.WithAlpha(intensity * 0.35f));
-                handle.UseShader(_core);
-                handle.DrawTextureRect(texture, Box2.CenteredAround(lamp.Comp.MaskOffset, size), color.WithAlpha(intensity));
+                DrawLocalHalos(handle, lamp.Comp.MaskOffset, size, lamp.Comp.HaloRadius,
+                    lamp.Comp.Softness, color, intensity);
             }
 
-            foreach (var entry in _visibleSprites)
+            foreach (var entry in _sourceCache.Sources)
             {
                 var sprite = entry.Comp;
                 if (!MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || _lampQuery.HasComp(entry) || HasBlockingEffect(sprite))
@@ -119,18 +109,16 @@ public abstract class LimeLampBloomOverlay : Overlay
                 {
                     foreach (var key in settings.Layers)
                         if (_sprite.TryGetLayer(entry.AsNullable(), key, out var layer, false))
-                            CollectItemLayer(entry, layer, args.Viewport.Eye!.Rotation, settings);
+                            DrawItemLayer(handle, entry, layer, args.Viewport.Eye!.Rotation, settings);
                 }
                 else
                 {
                     // Нативные unshaded-слои включают индикаторы, энергооружие и предметы в руках.
                     foreach (var spriteLayer in sprite.AllLayers)
                         if (spriteLayer is SpriteComponent.Layer layer && layer.ShaderPrototype == SpriteSystem.UnshadedId)
-                            CollectItemLayer(entry, layer, args.Viewport.Eye!.Rotation, null);
+                            DrawItemLayer(handle, entry, layer, args.Viewport.Eye!.Rotation, null);
                 }
             }
-            if (ScreenTexture != null)
-                _itemBloom.Draw(args, ScreenTexture, Strength);
         }
         finally
         {
@@ -139,7 +127,7 @@ public abstract class LimeLampBloomOverlay : Overlay
         }
     }
 
-    private void CollectItemLayer(Entity<SpriteComponent> entry,
+    private void DrawItemLayer(DrawingHandleWorld handle, Entity<SpriteComponent> entry,
         SpriteComponent.Layer layer, Angle eyeRotation, LimeEmissiveBloomComponent? settings)
     {
         if (!layer.Visible || layer.Blank || layer.CopyToShaderParameters != null)
@@ -173,7 +161,10 @@ public abstract class LimeLampBloomOverlay : Overlay
             };
         var matrix = layerMatrix * sprite.LocalMatrix * Matrix3Helpers.CreateTransform(_transform.GetWorldPosition(entry), renderRotation);
         var color = sprite.Color * layer.Color * (settings?.Color ?? Color.White);
-        _itemBloom.Add(texture, matrix, color, Math.Clamp(strength, 0f, 2f), Math.Clamp(radius, 0f, 2f));
+        var size = (Vector2) texture.Size / EyeManager.PixelsPerMeter;
+        handle.SetTransform(matrix);
+        DrawLocalHalos(handle, Vector2.Zero, size, Math.Clamp(radius, 0f, 2f), 0.7f,
+            color, Strength * Math.Clamp(strength, 0f, 2f));
     }
 
     private bool HasBlockingEffect(SpriteComponent sprite)
@@ -200,12 +191,45 @@ public abstract class LimeLampBloomOverlay : Overlay
         handle.DrawRect(Box2.CenteredAround(center, coreSize + new Vector2(padding * 2f)), color);
     }
 
+    private void DrawLocalHalos(DrawingHandleWorld handle, Vector2 center, Vector2 coreSize, float radius,
+        float softness, Color color, float intensity)
+    {
+        // Три локальных прямоугольника заменяют дорогой полноэкранный blur.
+        DrawHalo(handle, center, coreSize, radius * 0.45f, softness, color.WithAlpha(intensity * 0.28f));
+        DrawHalo(handle, center, coreSize, radius * 0.9f, softness, color.WithAlpha(intensity * 0.14f));
+        DrawHalo(handle, center, coreSize, radius * 1.5f, softness, color.WithAlpha(intensity * 0.06f));
+    }
+
     protected override void DisposeBehavior()
     {
         _halo.Dispose();
-        _itemBloom.Dispose();
-        _visibleSprites.Clear();
-        _lamps.Clear();
         base.DisposeBehavior();
+    }
+}
+
+/// <summary>Собирает видимые источники один раз за кадр для всех depth-проходов.</summary>
+internal sealed class LimeBloomSourceCache
+{
+    private readonly EntityLookupSystem _lookup;
+    private readonly IGameTiming _timing;
+    private uint _frame = uint.MaxValue;
+
+    public readonly HashSet<Entity<SpriteComponent>> Sources = new();
+
+    public LimeBloomSourceCache(IEntityManager entity)
+    {
+        _lookup = entity.System<EntityLookupSystem>();
+        _timing = IoCManager.Resolve<IGameTiming>();
+    }
+
+    public HashSet<Entity<SpriteComponent>> Get(MapId mapId, Box2 bounds)
+    {
+        if (_frame == _timing.CurFrame)
+            return Sources;
+
+        _frame = _timing.CurFrame;
+        Sources.Clear();
+        _lookup.GetEntitiesIntersecting(mapId, bounds, Sources);
+        return Sources;
     }
 }

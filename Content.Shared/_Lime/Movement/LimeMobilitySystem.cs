@@ -6,6 +6,7 @@ using Content.Shared.Climbing.Components;
 using Content.Shared.Climbing.Systems;
 using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
+using Content.Shared.DoAfter;
 using Content.Shared.Gravity;
 using Content.Shared.Mobs.Systems;
 using Content.Shared.Movement.Components;
@@ -42,6 +43,7 @@ public sealed partial class LimeMobilitySystem : VirtualController
     [Dependency] private StandingStateSystem _standing = default!;
     [Dependency] private EntityLookupSystem _lookup = default!;
     [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private SharedDoAfterSystem _doAfter = default!;
 
     public override void Initialize()
     {
@@ -52,6 +54,7 @@ public sealed partial class LimeMobilitySystem : VirtualController
         SubscribeLocalEvent<LimeProneComponent, ComponentShutdown>(OnProneShutdown);
         SubscribeLocalEvent<LimeActiveManeuverComponent, UpdateCanMoveEvent>(OnManeuverCanMove);
         SubscribeLocalEvent<LimeMobilityComponent, KnockedDownEvent>(OnKnockedDown);
+        SubscribeLocalEvent<LimeProneComponent, LimeStandDoAfterEvent>(OnStandDoAfter);
 
         CommandBinds.Builder
             .Bind(LimeKeyFunctions.ToggleProne, InputCmdHandler.FromDelegate(OnProneInput, handle: false))
@@ -82,8 +85,16 @@ public sealed partial class LimeMobilitySystem : VirtualController
         if (!Resolve(entity, ref entity.Comp, false))
             return false;
 
-        if (HasComp<LimeProneComponent>(entity))
+        if (TryComp<LimeProneComponent>(entity, out var prone))
+        {
+            if (prone.IsStandingUp)
+            {
+                _doAfter.Cancel(prone.StandDoAfter);
+                return true;
+            }
+
             return TryStand(entity);
+        }
 
         if (TryGetDirection(entity, out var direction))
             return TryRoll((entity, entity.Comp), direction);
@@ -114,20 +125,51 @@ public sealed partial class LimeMobilitySystem : VirtualController
 
     public bool TryStand(Entity<LimeMobilityComponent?> entity)
     {
-        if (!Resolve(entity, ref entity.Comp, false) || HasComp<KnockedDownComponent>(entity))
+        if (!Resolve(entity, ref entity.Comp, false) || !TryComp<LimeProneComponent>(entity, out var prone) ||
+            !CanStand(entity, prone, false))
+            return false;
+
+        var args = new DoAfterArgs(EntityManager, entity, entity.Comp.StandDuration,
+            new LimeStandDoAfterEvent(), entity, target: entity)
+        {
+            BreakOnMove = true,
+            BreakOnDamage = true,
+            RequireCanInteract = false,
+        };
+        if (!_doAfter.TryStartDoAfter(args, out var id))
+            return false;
+
+        prone.StandDoAfter = id;
+        prone.IsStandingUp = true;
+        Dirty(entity.Owner, prone);
+        return true;
+    }
+
+    public bool CanStand(Entity<LimeMobilityComponent?> entity, LimeProneComponent prone, bool quiet = true)
+    {
+        if (!Resolve(entity, ref entity.Comp, false) || prone.IsStandingUp || HasComp<KnockedDownComponent>(entity) ||
+            HasComp<LimeActiveManeuverComponent>(entity))
             return false;
 
         if (_physics.GetEntitiesIntersectingBody(entity.Owner, StandingStateSystem.StandingCollisionLayer, false).Count > 0)
         {
-            _popup.PopupEntity(Loc.GetString("lime-mobility-cannot-stand"), entity.Owner, entity.Owner);
+            if (!quiet)
+                _popup.PopupEntity(Loc.GetString("lime-mobility-cannot-stand"), entity.Owner, entity.Owner);
             return false;
         }
-
-        if (!_standing.Stand(entity.Owner))
-            return false;
-
-        RemComp<LimeProneComponent>(entity.Owner);
         return true;
+    }
+
+    private void OnStandDoAfter(Entity<LimeProneComponent> entity, ref LimeStandDoAfterEvent args)
+    {
+        entity.Comp.StandDoAfter = null;
+        entity.Comp.IsStandingUp = false;
+        Dirty(entity);
+        if (args.Cancelled || !TryComp<LimeMobilityComponent>(entity, out var mobility) ||
+            !CanStand((entity.Owner, mobility), entity.Comp, false) || !_standing.Stand(entity))
+            return;
+
+        RemComp<LimeProneComponent>(entity);
     }
 
     public bool TryRoll(Entity<LimeMobilityComponent?> entity, Vector2 direction)
@@ -135,6 +177,7 @@ public sealed partial class LimeMobilitySystem : VirtualController
         if (!Resolve(entity, ref entity.Comp, false) || !CanRoll((entity.Owner, entity.Comp), direction, false))
             return false;
 
+        DoGoProne(entity.Owner);
         DoManeuver((entity.Owner, entity.Comp), LimeManeuverType.Roll, direction,
             entity.Comp.RollDistance, entity.Comp.RollDuration, entity.Comp.RollStaminaCost);
         entity.Comp.NextRoll = _timing.CurTime + TimeSpan.FromSeconds(entity.Comp.RollCooldown);
@@ -157,11 +200,14 @@ public sealed partial class LimeMobilitySystem : VirtualController
 
     public bool TryJump(Entity<LimeMobilityComponent?> entity)
     {
-        if (!Resolve(entity, ref entity.Comp, false) || !TryGetDirection(entity, out var direction) ||
-            !CanJump((entity.Owner, entity.Comp), direction, false))
+        if (!Resolve(entity, ref entity.Comp, false))
             return false;
 
-        if (TryFindVaultTarget(entity.Owner, direction, entity.Comp.JumpDistance, out var target) &&
+        TryGetDirection(entity, out var direction);
+        if (!CanJump((entity.Owner, entity.Comp), direction, false))
+            return false;
+
+        if (direction != Vector2.Zero && TryFindVaultTarget(entity.Owner, direction, entity.Comp.JumpDistance, out var target) &&
             _climb.TryLimeJumpVault(entity.Owner, target))
         {
             _stamina.TryTakeStamina(entity.Owner, entity.Comp.JumpStaminaCost, visual: false);
@@ -178,7 +224,7 @@ public sealed partial class LimeMobilitySystem : VirtualController
 
     public bool CanJump(Entity<LimeMobilityComponent?> entity, Vector2 direction, bool quiet = true)
     {
-        if (!Resolve(entity, ref entity.Comp, false) || direction == Vector2.Zero || !CanManeuver(entity, quiet))
+        if (!Resolve(entity, ref entity.Comp, false) || !CanManeuver(entity, quiet))
             return false;
 
         if (_timing.CurTime < entity.Comp.NextJump || _standing.IsDown(entity.Owner))
@@ -226,6 +272,7 @@ public sealed partial class LimeMobilitySystem : VirtualController
         active.Type = type;
         active.Direction = direction.Normalized();
         active.Speed = distance / duration;
+        active.StartTime = _timing.CurTime;
         active.EndTime = _timing.CurTime + TimeSpan.FromSeconds(duration);
         Dirty(entity.Owner, active);
         _blocker.UpdateCanMove(entity.Owner);
@@ -280,7 +327,14 @@ public sealed partial class LimeMobilitySystem : VirtualController
                 continue;
             }
 
-            _physics.SetLinearVelocity(uid, maneuver.Direction * maneuver.Speed, body: body);
+            var speed = maneuver.Speed;
+            if (maneuver.Type == LimeManeuverType.Roll && TryComp<LimeMobilityComponent>(uid, out var mobility))
+            {
+                var duration = Math.Max(mobility.RollDuration, 0.01f);
+                var progress = Math.Clamp((float) (_timing.CurTime - maneuver.StartTime).TotalSeconds / duration, 0f, 1f);
+                speed *= mobility.RollDeceleration * MathF.Pow(1f - progress, mobility.RollDeceleration - 1f);
+            }
+            _physics.SetLinearVelocity(uid, maneuver.Direction * speed, body: body);
         }
     }
 
@@ -290,11 +344,8 @@ public sealed partial class LimeMobilitySystem : VirtualController
         if (entity.Comp.Type == LimeManeuverType.Jump)
             _physics.SetBodyStatus(entity.Owner, body, BodyStatus.OnGround);
 
-        var roll = entity.Comp.Type == LimeManeuverType.Roll;
         RemComp<LimeActiveManeuverComponent>(entity.Owner);
         _blocker.UpdateCanMove(entity.Owner);
-        if (roll)
-            DoGoProne(entity.Owner);
     }
 
     private void OnRefreshProneSpeed(Entity<LimeProneComponent> entity, ref RefreshMovementSpeedModifiersEvent args)
