@@ -10,9 +10,9 @@ lowp vec4 sample_source(highp vec2 uv) {
     if (uv.x < 0.0 || uv.y < 0.0 || uv.x > 1.0 || uv.y > 1.0)
         return vec4(0.0);
 
-    lowp vec4 sample = zTexture(uv);
-    sample.rgb *= sample.a;
-    return sample;
+    lowp vec4 source_color = zTexture(uv);
+    source_color.rgb *= source_color.a;
+    return source_color;
 }
 
 void fragment() {
