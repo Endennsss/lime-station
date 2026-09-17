@@ -17,14 +17,15 @@ namespace Content.Client._Lime.Shaders.Bloom;
 internal abstract partial class LimeLampBloomOverlay : Overlay
 {
     private const float ResolutionScale = 0.25f;
-    private const float MinimumBlurMultiplier = 5f;
-    private const float RadiusBlurMultiplier = 5f;
+    private const float MinimumBlurRadius = 1.25f;
+    private const float MaximumBlurRadius = 12f;
 
     [Dependency] private IClyde _clyde = default!;
     [Dependency] private IEntityManager _entity = default!;
     [Dependency] private IPrototypeManager _prototype = default!;
 
     private static readonly ProtoId<ShaderPrototype> ExtractShader = "LimeBloomExtract";
+    private static readonly ProtoId<ShaderPrototype> BlurShader = "LimeBloomBlur";
     private static readonly ProtoId<ShaderPrototype> CompositeShader = "LimeBloomComposite";
 
     private readonly TransformSystem _transform;
@@ -35,6 +36,8 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
     private readonly LimeBloomSourceCache _sourceCache;
     private readonly OverlayResourceCache<CachedResources> _resources = new();
     private readonly ShaderInstance _extract;
+    private readonly ShaderInstance _blurHorizontal;
+    private readonly ShaderInstance _blurVertical;
     private readonly ShaderInstance _composite;
     private readonly int _minimumDepth;
     private readonly int _maximumDepth;
@@ -58,6 +61,8 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
         _emissiveQuery = _entity.GetEntityQuery<LimeEmissiveBloomComponent>();
         _lampQuery = _entity.GetEntityQuery<LimeLampBloomComponent>();
         _extract = _prototype.Index(ExtractShader).InstanceUnique();
+        _blurHorizontal = _prototype.Index(BlurShader).InstanceUnique();
+        _blurVertical = _prototype.Index(BlurShader).InstanceUnique();
         _composite = _prototype.Index(CompositeShader).InstanceUnique();
         ZIndex = maximumDepth + 1;
     }
@@ -100,7 +105,8 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
         EnsureTargets(resources, targetSize);
 
         var target = resources.Mask!;
-        var blur = resources.Blur!;
+        var ping = resources.Ping!;
+        var pong = resources.Pong!;
         var targetScale = targetSize / (Vector2) args.Viewport.Size;
         var renderScale = args.Viewport.RenderScale * targetScale;
         var worldToTarget = target.GetWorldToLocalMatrix(eye, renderScale);
@@ -123,12 +129,18 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
             if (!drewSource)
                 return;
 
-            var blurMultiplier = MinimumBlurMultiplier + Math.Clamp(maximumRadius, 0f, 2f) * RadiusBlurMultiplier;
-            _clyde.BlurRenderTarget(args.Viewport, target, blur, eye, blurMultiplier);
+            // Радиус переводится из мировых единиц в тексели quarter-resolution цели.
+            // Так свечение сохраняет мировой размер при смене разрешения, zoom и render scale.
+            var pixelsPerMeter = Vector2.TransformNormal(Vector2.UnitX, worldToTarget).Length();
+            var blurRadius = Math.Clamp(maximumRadius * pixelsPerMeter, MinimumBlurRadius, MaximumBlurRadius);
+            var texelSize = Vector2.One / (Vector2) targetSize;
+
+            DrawBlurPass(handle, target.Texture, ping, _blurHorizontal, texelSize, Vector2.UnitX, blurRadius);
+            DrawBlurPass(handle, ping.Texture, pong, _blurVertical, texelSize, Vector2.UnitY, blurRadius);
 
             handle.SetTransform(Matrix3x2.Identity);
             handle.UseShader(_composite);
-            handle.DrawTextureRect(target.Texture, args.WorldBounds, Color.White);
+            handle.DrawTextureRect(pong.Texture, args.WorldBounds, Color.White);
         }
         finally
         {
@@ -248,6 +260,29 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
         return true;
     }
 
+    private static void DrawBlurPass(DrawingHandleWorld handle, Texture source, IRenderTarget destination,
+        ShaderInstance shader, Vector2 texelSize, Vector2 direction, float radius)
+    {
+        shader.SetParameter("texel_size", texelSize);
+        shader.SetParameter("blur_direction", direction);
+        shader.SetParameter("blur_radius", radius);
+
+        handle.RenderInRenderTarget(destination, () =>
+        {
+            try
+            {
+                handle.SetTransform(Matrix3x2.Identity);
+                handle.UseShader(shader);
+                handle.DrawTextureRect(source, Box2.FromDimensions(Vector2.Zero, destination.Size), Color.White);
+            }
+            finally
+            {
+                handle.UseShader(null);
+                handle.SetTransform(Matrix3x2.Identity);
+            }
+        }, Color.Transparent);
+    }
+
     private bool IsRenderable(SpriteComponent sprite)
     {
         return MatchesDepth(sprite) && sprite.Visible && !sprite.ContainerOccluded && !HasBlockingEffect(sprite);
@@ -278,21 +313,27 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
 
     private void EnsureTargets(CachedResources resources, Vector2i size)
     {
-        if (resources.Mask?.Texture.Size == size && resources.Blur?.Texture.Size == size)
+        if (resources.Mask?.Texture.Size == size &&
+            resources.Ping?.Texture.Size == size &&
+            resources.Pong?.Texture.Size == size)
             return;
 
         resources.Mask?.Dispose();
-        resources.Blur?.Dispose();
+        resources.Ping?.Dispose();
+        resources.Pong?.Dispose();
         var format = new RenderTargetFormatParameters(RenderTargetColorFormat.Rgba8Srgb);
         var samples = new TextureSampleParameters { Filter = true };
         resources.Mask = _clyde.CreateRenderTarget(size, format, samples, "lime-bloom-mask");
-        resources.Blur = _clyde.CreateRenderTarget(size, format, samples, "lime-bloom-blur");
+        resources.Ping = _clyde.CreateRenderTarget(size, format, samples, "lime-bloom-ping");
+        resources.Pong = _clyde.CreateRenderTarget(size, format, samples, "lime-bloom-pong");
     }
 
     protected override void DisposeBehavior()
     {
         _resources.Dispose();
         _extract.Dispose();
+        _blurHorizontal.Dispose();
+        _blurVertical.Dispose();
         _composite.Dispose();
         base.DisposeBehavior();
     }
@@ -300,12 +341,14 @@ internal abstract partial class LimeLampBloomOverlay : Overlay
     private sealed class CachedResources : IDisposable
     {
         public IRenderTexture? Mask;
-        public IRenderTexture? Blur;
+        public IRenderTexture? Ping;
+        public IRenderTexture? Pong;
 
         public void Dispose()
         {
             Mask?.Dispose();
-            Blur?.Dispose();
+            Ping?.Dispose();
+            Pong?.Dispose();
         }
     }
 }

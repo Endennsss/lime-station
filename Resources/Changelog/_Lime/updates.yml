@@ -2,6 +2,12 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 16
+  author: Endennsss
+  time: '2026-09-17T21:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Bloom больше не повреждает освещение и поле зрения; размытие светящихся пикселей выполняется изолированно от движкового lighting pipeline.
 - id: 15
   author: Endennsss
   time: '2026-09-17T20:00:00+00:00'

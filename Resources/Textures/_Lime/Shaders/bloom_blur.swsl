@@ -1,0 +1,19 @@
+light_mode unshaded;
+blend_mode none;
+
+uniform highp vec2 texel_size;
+uniform highp vec2 blur_direction;
+uniform highp float blur_radius;
+
+void fragment() {
+    // Девятиточечное гауссово ядро сведено линейной фильтрацией к пяти выборкам.
+    highp vec2 step_uv = blur_direction * texel_size * (blur_radius / 3.23076923);
+    lowp vec4 glow = zTexture(UV) * 0.22702703;
+    glow += zTexture(UV + step_uv * 1.38461538) * 0.31621622;
+    glow += zTexture(UV - step_uv * 1.38461538) * 0.31621622;
+    glow += zTexture(UV + step_uv * 3.23076923) * 0.07027027;
+    glow += zTexture(UV - step_uv * 3.23076923) * 0.07027027;
+
+    mediump float energy = max(glow.r, max(glow.g, glow.b));
+    COLOR = vec4(max(glow.rgb, vec3(0.0)), clamp(max(glow.a, energy), 0.0, 1.0));
+}
