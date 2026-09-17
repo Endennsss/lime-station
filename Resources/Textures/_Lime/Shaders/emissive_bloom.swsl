@@ -1,18 +1,11 @@
 light_mode unshaded;
 blend_mode add;
 
-uniform sampler2D nearGlow;
-uniform sampler2D middleGlow;
-uniform sampler2D wideGlow;
-uniform sampler2D sceneTexture;
-uniform highp float strength;
-
 void fragment() {
-    highp vec3 glow = zTextureSpec(nearGlow, UV2).rgb * 0.50
-        + zTextureSpec(middleGlow, UV2).rgb * 0.32
-        + zTextureSpec(wideGlow, UV2).rgb * 0.18;
-    highp float energyGate = smoothstep(0.003, 0.015, zGrayscale_BT709(glow));
-    highp float sceneBrightness = zGrayscale_BT709(zTextureSpec(sceneTexture, FRAGCOORD.xy * SCREEN_PIXEL_SIZE).rgb);
-    highp float contrast = 1.0 - 0.35 * smoothstep(0.2, 0.85, sceneBrightness);
-    COLOR = vec4(max(glow, vec3(0.0)), clamp(strength * energyGate * contrast, 0.0, 1.0));
+    lowp vec4 glow = zTexture(UV);
+    mediump float energy = max(glow.r, max(glow.g, glow.b));
+    if (energy <= 0.001)
+        discard;
+
+    COLOR = vec4(max(glow.rgb, vec3(0.0)), clamp(max(glow.a, energy), 0.0, 1.0));
 }

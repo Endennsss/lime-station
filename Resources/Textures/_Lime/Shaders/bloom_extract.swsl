@@ -1,0 +1,14 @@
+light_mode unshaded;
+blend_mode add;
+
+uniform lowp vec4 bloom_color;
+uniform lowp float bloom_strength;
+
+void fragment() {
+    lowp vec4 source_color = zTexture(UV);
+    mediump float brightness = max(source_color.r, max(source_color.g, source_color.b)) * source_color.a;
+    mediump float bright_mask = smoothstep(0.06, 0.28, brightness);
+    lowp vec3 glow = source_color.rgb * source_color.a * bloom_color.rgb * bloom_strength * bright_mask;
+    lowp float alpha = clamp(max(glow.r, max(glow.g, glow.b)), 0.0, 1.0);
+    COLOR = vec4(glow, alpha);
+}

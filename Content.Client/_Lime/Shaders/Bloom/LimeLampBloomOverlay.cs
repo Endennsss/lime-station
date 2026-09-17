@@ -3,41 +3,49 @@ using Content.Client.Graphics;
 using Content.Shared._Lime.Shaders.Bloom;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
-using Robust.Shared.Enums;
-using Robust.Shared.Prototypes;
-using Robust.Shared.Graphics.RSI;
 using Robust.Client.Utility;
-using Robust.Shared.Timing;
+using Robust.Shared.Enums;
+using Robust.Shared.Graphics;
+using Robust.Shared.Graphics.RSI;
 using Robust.Shared.Map;
+using Robust.Shared.Prototypes;
+using Robust.Shared.Timing;
 
 namespace Content.Client._Lime.Shaders.Bloom;
 
-/// <summary>Draws compact lamp halos and multi-scale bloom of emissive sprite layers.</summary>
-internal abstract class LimeLampBloomOverlay : Overlay
+/// <summary>Builds and composites a quarter-resolution emissive bloom for one draw-depth interval.</summary>
+internal abstract partial class LimeLampBloomOverlay : Overlay
 {
-    [Dependency] private readonly IEntityManager _entity = default!;
-    [Dependency] private readonly IPrototypeManager _prototype = default!;
+    private const float ResolutionScale = 0.25f;
+    private const float MinimumBlurMultiplier = 5f;
+    private const float RadiusBlurMultiplier = 5f;
 
-    private static readonly ProtoId<ShaderPrototype> HaloShader = "LimeLampHalo";
+    [Dependency] private IClyde _clyde = default!;
+    [Dependency] private IEntityManager _entity = default!;
+    [Dependency] private IPrototypeManager _prototype = default!;
+
+    private static readonly ProtoId<ShaderPrototype> ExtractShader = "LimeBloomExtract";
+    private static readonly ProtoId<ShaderPrototype> CompositeShader = "LimeBloomComposite";
 
     private readonly TransformSystem _transform;
     private readonly SpriteSystem _sprite;
     private readonly EntityQuery<PointLightComponent> _lights;
-    private readonly EntityQuery<SpriteComponent> _sprites;
-    private readonly LimeBloomSourceCache _sourceCache;
     private readonly EntityQuery<LimeEmissiveBloomComponent> _emissiveQuery;
     private readonly EntityQuery<LimeLampBloomComponent> _lampQuery;
-    private readonly ShaderInstance _halo;
+    private readonly LimeBloomSourceCache _sourceCache;
+    private readonly OverlayResourceCache<CachedResources> _resources = new();
+    private readonly ShaderInstance _extract;
+    private readonly ShaderInstance _composite;
     private readonly int _minimumDepth;
     private readonly int _maximumDepth;
     private readonly int _groupIndex;
 
-    /// <summary>Global decorative intensity, from zero to one.</summary>
     public float Strength;
-    // Каждый проход рисуется после своего слоя источников, но до следующего слоя объектов.
+
+    // Каждый проход композитится после своей группы и перекрывается следующими объектами.
     public override OverlaySpace Space => OverlaySpace.WorldSpaceEntities;
 
-    public LimeLampBloomOverlay(int groupIndex, int minimumDepth, int maximumDepth, LimeBloomSourceCache sourceCache)
+    protected LimeLampBloomOverlay(int groupIndex, int minimumDepth, int maximumDepth, LimeBloomSourceCache sourceCache)
     {
         _groupIndex = groupIndex;
         _sourceCache = sourceCache;
@@ -47,78 +55,80 @@ internal abstract class LimeLampBloomOverlay : Overlay
         _transform = _entity.System<TransformSystem>();
         _sprite = _entity.System<SpriteSystem>();
         _lights = _entity.GetEntityQuery<PointLightComponent>();
-        _sprites = _entity.GetEntityQuery<SpriteComponent>();
         _emissiveQuery = _entity.GetEntityQuery<LimeEmissiveBloomComponent>();
         _lampQuery = _entity.GetEntityQuery<LimeLampBloomComponent>();
-        _halo = _prototype.Index(HaloShader).InstanceUnique();
+        _extract = _prototype.Index(ExtractShader).InstanceUnique();
+        _composite = _prototype.Index(CompositeShader).InstanceUnique();
         ZIndex = maximumDepth + 1;
     }
 
     protected override bool BeforeDraw(in OverlayDrawArgs args)
     {
-        if (Strength <= 0f || args.Viewport.Eye == null)
+        if (Strength <= 0f || args.Viewport.Eye == null || args.MapId == MapId.Nullspace)
             return false;
-        var visibleSprites = _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(2f), _groupIndex);
-        foreach (var entry in visibleSprites)
+
+        foreach (var entry in GetSources(args))
         {
             var sprite = entry.Comp;
-            if (!MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || HasBlockingEffect(sprite))
+            if (!IsRenderable(sprite))
                 continue;
+
             if (_lampQuery.HasComp(entry) || _emissiveQuery.HasComp(entry))
                 return true;
+
             foreach (var layer in sprite.AllLayers)
+            {
                 if (layer is SpriteComponent.Layer { Visible: true, Blank: false } spriteLayer &&
                     spriteLayer.ShaderPrototype == SpriteSystem.UnshadedId)
                     return true;
+            }
         }
+
         return false;
     }
 
     protected override void Draw(in OverlayDrawArgs args)
     {
+        var eye = args.Viewport.Eye;
+        if (eye == null)
+            return;
+
+        var targetSize = new Vector2i(
+            Math.Max(1, (int) MathF.Ceiling(args.Viewport.RenderTarget.Size.X * ResolutionScale)),
+            Math.Max(1, (int) MathF.Ceiling(args.Viewport.RenderTarget.Size.Y * ResolutionScale)));
+        var resources = _resources.GetForViewport(args.Viewport, static _ => new CachedResources());
+        EnsureTargets(resources, targetSize);
+
+        var target = resources.Mask!;
+        var blur = resources.Blur!;
+        var targetScale = targetSize / (Vector2) args.Viewport.Size;
+        var renderScale = args.Viewport.RenderScale * targetScale;
+        var worldToTarget = target.GetWorldToLocalMatrix(eye, renderScale);
         var handle = args.WorldHandle;
+        var sources = GetSources(args);
+        var drewSource = false;
+        var maximumRadius = 0f;
+
         try
         {
-            foreach (var entry in _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(2f), _groupIndex))
+            handle.RenderInRenderTarget(target, () =>
             {
-                if (!_lampQuery.TryComp(entry, out var bloom))
-                    continue;
-                var lamp = new Entity<LimeLampBloomComponent>(entry.Owner, bloom);
-                if (!lamp.Comp.Enabled || !_lights.TryComp(lamp, out var light) || !light.Enabled || light.Energy <= 0f)
-                    continue;
-                if (!_sprites.TryComp(lamp, out var sprite) || !MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || HasBlockingEffect(sprite))
-                    continue;
-
-                // Frame0 разрешает путь относительно /Textures, как в YAML SpriteSpecifier.
-                var texture = _sprite.Frame0(lamp.Comp.MaskSprite);
-                var size = (Vector2) texture.Size / EyeManager.PixelsPerMeter * Vector2.Clamp(lamp.Comp.MaskScale, new Vector2(0.01f), new Vector2(2f));
-                handle.SetTransform(_transform.GetWorldMatrix(lamp));
-                var color = light.Color * lamp.Comp.BloomColor;
-                var intensity = Strength * Math.Clamp(lamp.Comp.CoreStrength, 0f, 2f);
-                DrawLocalBloom(handle, texture, lamp.Comp.MaskOffset, size, lamp.Comp.HaloRadius,
-                    lamp.Comp.Softness, color, intensity);
-            }
-
-            foreach (var entry in _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(2f), _groupIndex))
-            {
-                var sprite = entry.Comp;
-                if (!MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || _lampQuery.HasComp(entry) || HasBlockingEffect(sprite))
-                    continue;
-                _emissiveQuery.TryComp(entry, out var settings);
-                if (settings != null)
+                foreach (var entry in sources)
                 {
-                    foreach (var key in settings.Layers)
-                        if (_sprite.TryGetLayer(entry.AsNullable(), key, out var layer, false))
-                            DrawItemLayer(handle, entry, layer, args.Viewport.Eye!.Rotation, settings);
+                    DrawLampMask(handle, entry, worldToTarget, ref drewSource, ref maximumRadius);
+                    DrawEmissiveMasks(handle, entry, eye.Rotation, worldToTarget, ref drewSource, ref maximumRadius);
                 }
-                else
-                {
-                    // Нативные unshaded-слои включают индикаторы, энергооружие и предметы в руках.
-                    foreach (var spriteLayer in sprite.AllLayers)
-                        if (spriteLayer is SpriteComponent.Layer layer && layer.ShaderPrototype == SpriteSystem.UnshadedId)
-                            DrawItemLayer(handle, entry, layer, args.Viewport.Eye!.Rotation, null);
-                }
-            }
+            }, Color.Transparent);
+
+            if (!drewSource)
+                return;
+
+            var blurMultiplier = MinimumBlurMultiplier + Math.Clamp(maximumRadius, 0f, 2f) * RadiusBlurMultiplier;
+            _clyde.BlurRenderTarget(args.Viewport, target, blur, eye, blurMultiplier);
+
+            handle.SetTransform(Matrix3x2.Identity);
+            handle.UseShader(_composite);
+            handle.DrawTextureRect(target.Texture, args.WorldBounds, Color.White);
         }
         finally
         {
@@ -127,15 +137,66 @@ internal abstract class LimeLampBloomOverlay : Overlay
         }
     }
 
-    private void DrawItemLayer(DrawingHandleWorld handle, Entity<SpriteComponent> entry,
-        SpriteComponent.Layer layer, Angle eyeRotation, LimeEmissiveBloomComponent? settings)
+    private void DrawLampMask(DrawingHandleWorld handle, Entity<SpriteComponent> entry, Matrix3x2 worldToTarget,
+        ref bool drewSource, ref float maximumRadius)
+    {
+        if (!_lampQuery.TryComp(entry, out var bloom) || !bloom.Enabled ||
+            !_lights.TryComp(entry, out var light) || !light.Enabled || light.Energy <= 0f ||
+            !IsRenderable(entry.Comp))
+            return;
+
+        var texture = _sprite.Frame0(bloom.MaskSprite);
+        var size = (Vector2) texture.Size / EyeManager.PixelsPerMeter *
+                   Vector2.Clamp(bloom.MaskScale, new Vector2(0.01f), new Vector2(2f));
+        var intensity = Strength * Math.Clamp(bloom.CoreStrength, 0f, 2f);
+        if (!SetExtractParameters(handle, light.Color * bloom.BloomColor, intensity))
+            return;
+
+        handle.SetTransform(_transform.GetWorldMatrix(entry) * worldToTarget);
+        handle.DrawTextureRect(texture, Box2.CenteredAround(bloom.MaskOffset, size), Color.White);
+        maximumRadius = Math.Max(maximumRadius, bloom.HaloRadius);
+        drewSource = true;
+    }
+
+    private void DrawEmissiveMasks(DrawingHandleWorld handle, Entity<SpriteComponent> entry, Angle eyeRotation,
+        Matrix3x2 worldToTarget, ref bool drewSource, ref float maximumRadius)
+    {
+        var sprite = entry.Comp;
+        if (!IsRenderable(sprite) || _lampQuery.HasComp(entry))
+            return;
+
+        _emissiveQuery.TryComp(entry, out var settings);
+        if (settings != null)
+        {
+            foreach (var key in settings.Layers)
+            {
+                if (_sprite.TryGetLayer(entry.AsNullable(), key, out var layer, false))
+                    DrawItemLayer(handle, entry, layer, eyeRotation, worldToTarget, settings,
+                        ref drewSource, ref maximumRadius);
+            }
+            return;
+        }
+
+        foreach (var spriteLayer in sprite.AllLayers)
+        {
+            if (spriteLayer is SpriteComponent.Layer layer && layer.ShaderPrototype == SpriteSystem.UnshadedId)
+                DrawItemLayer(handle, entry, layer, eyeRotation, worldToTarget, null,
+                    ref drewSource, ref maximumRadius);
+        }
+    }
+
+    private void DrawItemLayer(DrawingHandleWorld handle, Entity<SpriteComponent> entry, SpriteComponent.Layer layer,
+        Angle eyeRotation, Matrix3x2 worldToTarget, LimeEmissiveBloomComponent? settings,
+        ref bool drewSource, ref float maximumRadius)
     {
         if (!layer.Visible || layer.Blank || layer.CopyToShaderParameters != null)
             return;
+
         var strength = settings?.Strength ?? 1.3f;
         var radius = settings?.Radius ?? 1.5f;
         if (!float.IsFinite(strength) || !float.IsFinite(radius) || strength <= 0f || radius <= 0f)
             return;
+
         var sprite = entry.Comp;
         var rotation = _transform.GetWorldRotation(entry);
         var angle = (rotation + eyeRotation).Reduced().FlipPositive();
@@ -149,9 +210,11 @@ internal abstract class LimeLampBloomOverlay : Overlay
         if (texture == null)
             return;
 
-        // Используем те же стратегии поворота, что и нативный рендер спрайта, без изменения его слоёв.
-        var renderRotation = sprite.NoRotation ? -eyeRotation : rotation - (sprite.SnapCardinals ? angle.RoundToCardinalAngle() : Angle.Zero);
+        var renderRotation = sprite.NoRotation
+            ? -eyeRotation
+            : rotation - (sprite.SnapCardinals ? angle.RoundToCardinalAngle() : Angle.Zero);
         if (sprite.GranularLayersRendering)
+        {
             renderRotation = layer.RenderingStrategy switch
             {
                 LayerRenderingStrategy.Default => rotation,
@@ -159,68 +222,100 @@ internal abstract class LimeLampBloomOverlay : Overlay
                 LayerRenderingStrategy.SnapToCardinals => rotation - angle.RoundToCardinalAngle(),
                 _ => renderRotation
             };
-        var matrix = layerMatrix * sprite.LocalMatrix * Matrix3Helpers.CreateTransform(_transform.GetWorldPosition(entry), renderRotation);
+        }
+
+        var matrix = layerMatrix * sprite.LocalMatrix *
+                     Matrix3Helpers.CreateTransform(_transform.GetWorldPosition(entry), renderRotation) * worldToTarget;
         var color = sprite.Color * layer.Color * (settings?.Color ?? Color.White);
-        var size = (Vector2) texture.Size / EyeManager.PixelsPerMeter;
+        if (!SetExtractParameters(handle, color, Strength * Math.Clamp(strength, 0f, 2f)))
+            return;
+
         handle.SetTransform(matrix);
-        DrawLocalBloom(handle, texture, Vector2.Zero, size, Math.Clamp(radius, 0f, 2f), 0.7f,
-            color, Strength * Math.Clamp(strength, 0f, 2f));
+        handle.DrawTextureRect(texture,
+            Box2.CenteredAround(Vector2.Zero, (Vector2) texture.Size / EyeManager.PixelsPerMeter), Color.White);
+        maximumRadius = Math.Max(maximumRadius, radius);
+        drewSource = true;
+    }
+
+    private bool SetExtractParameters(DrawingHandleWorld handle, Color color, float intensity)
+    {
+        if (!float.IsFinite(intensity) || intensity <= 0f)
+            return false;
+
+        _extract.SetParameter("bloom_color", color);
+        _extract.SetParameter("bloom_strength", intensity);
+        handle.UseShader(_extract);
+        return true;
+    }
+
+    private bool IsRenderable(SpriteComponent sprite)
+    {
+        return MatchesDepth(sprite) && sprite.Visible && !sprite.ContainerOccluded && !HasBlockingEffect(sprite);
     }
 
     private bool HasBlockingEffect(SpriteComponent sprite)
     {
-        // Выделение при наведении не меняет источник свечения; скрытность и прочие эффекты исключаем.
+        // Выделение при наведении не отключает свечение; остальные post-shader эффекты исключают источник.
         foreach (var effect in _sprite.GetPostShaders(sprite))
+        {
             if (effect.Id != ContentPostShaderIds.InteractionOutline &&
                 effect.Id != ContentPostShaderIds.TargetOutline &&
                 effect.Id != ContentPostShaderIds.DragDropOutline)
                 return true;
+        }
         return false;
     }
 
-    private bool MatchesDepth(SpriteComponent sprite) => sprite.DrawDepth >= _minimumDepth && sprite.DrawDepth <= _maximumDepth;
-
-    private void DrawLocalBloom(DrawingHandleWorld handle, Texture texture, Vector2 center, Vector2 coreSize,
-        float radius, float softness, Color color, float intensity)
+    private List<Entity<SpriteComponent>> GetSources(in OverlayDrawArgs args)
     {
-        if (!float.IsFinite(radius) || !float.IsFinite(intensity) || radius <= 0f || intensity <= 0f)
-            return;
-
-        softness = float.IsFinite(softness) ? Math.Clamp(softness, 0f, 1f) : 0.5f;
-        DrawBloomBand(handle, texture, center, coreSize, radius * 0.12f, color, intensity * 0.50f);
-        DrawBloomBand(handle, texture, center, coreSize, radius * 0.25f, color,
-            intensity * 0.32f * (0.65f + softness * 0.35f));
-        DrawBloomBand(handle, texture, center, coreSize, radius * 0.45f, color,
-            intensity * 0.18f * (0.35f + softness * 0.65f));
+        return _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(3f), _groupIndex);
     }
 
-    private void DrawBloomBand(DrawingHandleWorld handle, Texture texture, Vector2 center, Vector2 coreSize,
-        float padding, Color color, float weight)
+    private bool MatchesDepth(SpriteComponent sprite)
     {
-        padding = Math.Clamp(padding, 0.02f, 0.8f);
-        var expandedSize = coreSize + new Vector2(padding * 2f);
-        var safeCore = Vector2.Max(coreSize, new Vector2(0.01f));
-        _halo.SetParameter("core_scale", safeCore / expandedSize);
-        _halo.SetParameter("sample_radius", Vector2.Min(new Vector2(padding) / safeCore * 0.85f, new Vector2(1f)));
-        _halo.SetParameter("bloom_color", color);
-        _halo.SetParameter("bloom_weight", weight);
-        handle.UseShader(_halo);
-        handle.DrawTextureRect(texture, Box2.CenteredAround(center, expandedSize), Color.White);
+        return sprite.DrawDepth >= _minimumDepth && sprite.DrawDepth <= _maximumDepth;
+    }
+
+    private void EnsureTargets(CachedResources resources, Vector2i size)
+    {
+        if (resources.Mask?.Texture.Size == size && resources.Blur?.Texture.Size == size)
+            return;
+
+        resources.Mask?.Dispose();
+        resources.Blur?.Dispose();
+        var format = new RenderTargetFormatParameters(RenderTargetColorFormat.Rgba8Srgb);
+        var samples = new TextureSampleParameters { Filter = true };
+        resources.Mask = _clyde.CreateRenderTarget(size, format, samples, "lime-bloom-mask");
+        resources.Blur = _clyde.CreateRenderTarget(size, format, samples, "lime-bloom-blur");
     }
 
     protected override void DisposeBehavior()
     {
-        _halo.Dispose();
+        _resources.Dispose();
+        _extract.Dispose();
+        _composite.Dispose();
         base.DisposeBehavior();
+    }
+
+    private sealed class CachedResources : IDisposable
+    {
+        public IRenderTexture? Mask;
+        public IRenderTexture? Blur;
+
+        public void Dispose()
+        {
+            Mask?.Dispose();
+            Blur?.Dispose();
+        }
     }
 }
 
-/// <summary>Собирает видимые источники один раз за кадр для всех depth-проходов.</summary>
+/// <summary>Собирает видимые источники один раз за кадр для всех проходов глубины.</summary>
 internal sealed class LimeBloomSourceCache
 {
     private readonly EntityLookupSystem _lookup;
     private readonly IGameTiming _timing;
-    private readonly Dictionary<IClydeViewport, ViewportSources> _viewports = new();
+    private readonly Dictionary<long, ViewportSources> _viewports = new();
 
     public LimeBloomSourceCache(IEntityManager entity)
     {
@@ -230,10 +325,10 @@ internal sealed class LimeBloomSourceCache
 
     public List<Entity<SpriteComponent>> Get(IClydeViewport viewport, MapId mapId, Box2 bounds, int groupIndex)
     {
-        if (!_viewports.TryGetValue(viewport, out var sources))
+        if (!_viewports.TryGetValue(viewport.Id, out var sources))
         {
             sources = new ViewportSources();
-            _viewports.Add(viewport, sources);
+            _viewports.Add(viewport.Id, sources);
         }
 
         if (sources.Frame == _timing.CurFrame && sources.MapId == mapId && sources.Bounds.Equals(bounds))
@@ -259,15 +354,14 @@ internal sealed class LimeBloomSourceCache
 
     private static int GetGroupIndex(int depth)
     {
-        if (depth <= (int) Content.Shared.DrawDepth.DrawDepth.SmallMobs) return 0;
-        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Walls && depth <= (int) Content.Shared.DrawDepth.DrawDepth.WallTops) return 1;
-        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Objects && depth <= (int) Content.Shared.DrawDepth.DrawDepth.SmallObjects) return 2;
-        if (depth == (int) Content.Shared.DrawDepth.DrawDepth.WallMountedItems) return 3;
-        if (depth == (int) Content.Shared.DrawDepth.DrawDepth.LargeObjects) return 4;
-        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Items && depth <= (int) Content.Shared.DrawDepth.DrawDepth.BelowMobs) return 5;
-        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Mobs && depth <= (int) Content.Shared.DrawDepth.DrawDepth.OverMobs) return 6;
-        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Doors && depth <= (int) Content.Shared.DrawDepth.DrawDepth.Overdoors) return 7;
-        if (depth > (int) Content.Shared.DrawDepth.DrawDepth.Overdoors && depth <= (int) Content.Shared.DrawDepth.DrawDepth.Overlays) return 8;
+        if (depth <= (int) Content.Shared.DrawDepth.DrawDepth.SmallMobs)
+            return 0;
+        if (depth <= (int) Content.Shared.DrawDepth.DrawDepth.LargeObjects)
+            return 1;
+        if (depth <= (int) Content.Shared.DrawDepth.DrawDepth.OverMobs)
+            return 2;
+        if (depth <= (int) Content.Shared.DrawDepth.DrawDepth.Overlays)
+            return 3;
         return -1;
     }
 
@@ -277,9 +371,6 @@ internal sealed class LimeBloomSourceCache
         public MapId MapId = MapId.Nullspace;
         public Box2 Bounds;
         public readonly HashSet<Entity<SpriteComponent>> All = new();
-        public readonly List<Entity<SpriteComponent>>[] Groups =
-        [
-            [], [], [], [], [], [], [], [], []
-        ];
+        public readonly List<Entity<SpriteComponent>>[] Groups = [[], [], [], []];
     }
 }

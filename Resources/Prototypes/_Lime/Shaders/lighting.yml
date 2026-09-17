@@ -1,7 +1,7 @@
 - type: shader
-  id: LimeLampHalo
+  id: LimeBloomExtract
   kind: source
-  path: /Textures/_Lime/Shaders/lamp_halo.swsl
+  path: /Textures/_Lime/Shaders/bloom_extract.swsl
 
 - type: shader
   id: LimeLampCore
@@ -10,7 +10,7 @@
   blend_mode: add
 
 - type: shader
-  id: LimeEmissiveBloom
+  id: LimeBloomComposite
   kind: source
   path: /Textures/_Lime/Shaders/emissive_bloom.swsl
 

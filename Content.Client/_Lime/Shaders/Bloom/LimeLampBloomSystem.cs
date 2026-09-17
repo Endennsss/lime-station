@@ -5,7 +5,7 @@ using Depth = Content.Shared.DrawDepth.DrawDepth;
 
 namespace Content.Client._Lime.Shaders.Bloom;
 
-/// <summary>Owns Lime's source-local decorative glow and user preferences.</summary>
+/// <summary>Owns Lime's quarter-resolution emissive bloom and user preferences.</summary>
 public sealed partial class LimeLampBloomSystem : EntitySystem
 {
     [Dependency] private readonly IConfigurationManager _configuration = default!;
@@ -43,14 +43,9 @@ public sealed partial class LimeLampBloomSystem : EntitySystem
             return;
 
         AddPass<FloorDepth>(0, int.MinValue, (int) Depth.SmallMobs);
-        AddPass<WallDepth>(1, (int) Depth.Walls, (int) Depth.WallTops);
-        AddPass<FurnitureDepth>(2, (int) Depth.Objects, (int) Depth.SmallObjects);
-        AddPass<LampDepth>(3, (int) Depth.WallMountedItems, (int) Depth.WallMountedItems);
-        AddPass<MachineDepth>(4, (int) Depth.LargeObjects, (int) Depth.LargeObjects);
-        AddPass<ItemDepth>(5, (int) Depth.Items, (int) Depth.BelowMobs);
-        AddPass<MobDepth>(6, (int) Depth.Mobs, (int) Depth.OverMobs);
-        AddPass<DoorDepth>(7, (int) Depth.Doors, (int) Depth.Overdoors);
-        AddPass<EffectDepth>(8, (int) Depth.Overdoors + 1, (int) Depth.Overlays);
+        AddPass<StructureDepth>(1, (int) Depth.Walls, (int) Depth.LargeObjects);
+        AddPass<ActorDepth>(2, (int) Depth.Items, (int) Depth.OverMobs);
+        AddPass<UpperDepth>(3, (int) Depth.Doors, (int) Depth.Overlays);
     }
 
     /// <summary>Previews intensity without changing gameplay light parameters.</summary>
@@ -69,12 +64,7 @@ public sealed partial class LimeLampBloomSystem : EntitySystem
     }
 
     private sealed class FloorDepth;
-    private sealed class WallDepth;
-    private sealed class FurnitureDepth;
-    private sealed class LampDepth;
-    private sealed class MachineDepth;
-    private sealed class ItemDepth;
-    private sealed class MobDepth;
-    private sealed class DoorDepth;
-    private sealed class EffectDepth;
+    private sealed class StructureDepth;
+    private sealed class ActorDepth;
+    private sealed class UpperDepth;
 }
