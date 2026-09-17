@@ -15,9 +15,10 @@ public sealed partial class LimeMobilityVisualsSystem : EntitySystem
     {
         base.Initialize();
         SubscribeLocalEvent<LimeActiveManeuverComponent, ComponentStartup>(OnStartup);
-        SubscribeLocalEvent<LimeActiveManeuverComponent, ComponentRemove>(OnRemove);
+        SubscribeLocalEvent<LimeActiveManeuverComponent, ComponentShutdown>(OnShutdown);
         SubscribeLocalEvent<LimeProneComponent, ComponentStartup>(OnProneStartup);
         SubscribeLocalEvent<LimeProneComponent, ComponentRemove>(OnProneRemove);
+        SubscribeLocalEvent<SpriteComponent, ComponentStartup>(OnSpriteStartup);
     }
 
     private void OnStartup(Entity<LimeActiveManeuverComponent> entity, ref ComponentStartup args)
@@ -26,18 +27,16 @@ public sealed partial class LimeMobilityVisualsSystem : EntitySystem
             return;
 
         var visuals = EnsureComp<LimeMobilityVisualsComponent>(entity);
-        visuals.BaseOffset = sprite.Offset;
-        visuals.BaseRotation = sprite.Rotation;
+        RemoveJumpOffset((entity.Owner, visuals), sprite);
     }
 
-    private void OnRemove(Entity<LimeActiveManeuverComponent> entity, ref ComponentRemove args)
+    private void OnShutdown(Entity<LimeActiveManeuverComponent> entity, ref ComponentShutdown args)
     {
         if (!TryComp<LimeMobilityVisualsComponent>(entity, out var visuals) ||
             !TryComp<SpriteComponent>(entity, out var sprite))
             return;
 
-        _sprites.SetOffset((entity.Owner, sprite), visuals.BaseOffset);
-        _sprites.SetRotation((entity.Owner, sprite), visuals.BaseRotation);
+        RemoveJumpOffset((entity.Owner, visuals), sprite);
         RemComp<LimeMobilityVisualsComponent>(entity.Owner);
     }
 
@@ -56,18 +55,47 @@ public sealed partial class LimeMobilityVisualsSystem : EntitySystem
             if (maneuver.Type == LimeManeuverType.Jump)
             {
                 var height = MathF.Sin(progress * MathF.PI) * 0.3f;
-                _sprites.SetOffset((uid, sprite), visuals.BaseOffset + new Vector2(0f, height));
+                var offset = sprite.Offset - visuals.AppliedOffset + new Vector2(0f, height);
+                visuals.AppliedOffset = new Vector2(0f, height);
+                _sprites.SetOffset((uid, sprite), offset);
+            }
+            else
+            {
+                RemoveJumpOffset((uid, visuals), sprite);
             }
         }
+    }
+
+    private void RemoveJumpOffset(Entity<LimeMobilityVisualsComponent> entity, SpriteComponent sprite)
+    {
+        if (entity.Comp.AppliedOffset == Vector2.Zero)
+            return;
+
+        _sprites.SetOffset((entity.Owner, sprite), sprite.Offset - entity.Comp.AppliedOffset);
+        entity.Comp.AppliedOffset = Vector2.Zero;
+    }
+
+    private void OnSpriteStartup(Entity<SpriteComponent> entity, ref ComponentStartup args)
+    {
+        if (TryComp<LimeMobilityVisualsComponent>(entity, out var visuals))
+            visuals.AppliedOffset = Vector2.Zero;
+
+        if (TryComp<LimeProneComponent>(entity, out _))
+            OnProneSpriteStartup(entity);
+    }
+
+    private void OnProneSpriteStartup(Entity<SpriteComponent> entity)
+    {
+        var visuals = EnsureComp<LimeProneVisualsComponent>(entity);
+        visuals.BaseDrawDepth = entity.Comp.DrawDepth;
+        _sprites.SetDrawDepth(entity.AsNullable(), (int) Depth.SmallMobs);
     }
 
     private void OnProneStartup(Entity<LimeProneComponent> entity, ref ComponentStartup args)
     {
         if (!TryComp<SpriteComponent>(entity, out var sprite))
             return;
-        var visuals = EnsureComp<LimeProneVisualsComponent>(entity);
-        visuals.BaseDrawDepth = sprite.DrawDepth;
-        _sprites.SetDrawDepth((entity.Owner, sprite), (int) Depth.SmallMobs);
+        OnProneSpriteStartup((entity.Owner, sprite));
     }
 
     private void OnProneRemove(Entity<LimeProneComponent> entity, ref ComponentRemove args)
@@ -83,8 +111,7 @@ public sealed partial class LimeMobilityVisualsSystem : EntitySystem
 [RegisterComponent]
 public sealed partial class LimeMobilityVisualsComponent : Component
 {
-    public Vector2 BaseOffset;
-    public Angle BaseRotation;
+    public Vector2 AppliedOffset;
 }
 
 [RegisterComponent]

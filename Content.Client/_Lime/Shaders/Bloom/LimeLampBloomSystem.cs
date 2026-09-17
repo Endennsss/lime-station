@@ -42,15 +42,15 @@ public sealed partial class LimeLampBloomSystem : EntitySystem
         if (!enabled)
             return;
 
-        AddPass<FloorDepth>(int.MinValue, (int) Depth.SmallMobs);
-        AddPass<WallDepth>((int) Depth.Walls, (int) Depth.WallTops);
-        AddPass<FurnitureDepth>((int) Depth.Objects, (int) Depth.SmallObjects);
-        AddPass<LampDepth>((int) Depth.WallMountedItems, (int) Depth.WallMountedItems);
-        AddPass<MachineDepth>((int) Depth.LargeObjects, (int) Depth.LargeObjects);
-        AddPass<ItemDepth>((int) Depth.Items, (int) Depth.BelowMobs);
-        AddPass<MobDepth>((int) Depth.Mobs, (int) Depth.OverMobs);
-        AddPass<DoorDepth>((int) Depth.Doors, (int) Depth.Overdoors);
-        AddPass<EffectDepth>((int) Depth.Overdoors + 1, (int) Depth.Overlays);
+        AddPass<FloorDepth>(0, int.MinValue, (int) Depth.SmallMobs);
+        AddPass<WallDepth>(1, (int) Depth.Walls, (int) Depth.WallTops);
+        AddPass<FurnitureDepth>(2, (int) Depth.Objects, (int) Depth.SmallObjects);
+        AddPass<LampDepth>(3, (int) Depth.WallMountedItems, (int) Depth.WallMountedItems);
+        AddPass<MachineDepth>(4, (int) Depth.LargeObjects, (int) Depth.LargeObjects);
+        AddPass<ItemDepth>(5, (int) Depth.Items, (int) Depth.BelowMobs);
+        AddPass<MobDepth>(6, (int) Depth.Mobs, (int) Depth.OverMobs);
+        AddPass<DoorDepth>(7, (int) Depth.Doors, (int) Depth.Overdoors);
+        AddPass<EffectDepth>(8, (int) Depth.Overdoors + 1, (int) Depth.Overlays);
     }
 
     /// <summary>Previews intensity without changing gameplay light parameters.</summary>
@@ -61,9 +61,9 @@ public sealed partial class LimeLampBloomSystem : EntitySystem
             pass.Strength = _strength;
     }
 
-    private void AddPass<T>(int minimumDepth, int maximumDepth)
+    private void AddPass<T>(int groupIndex, int minimumDepth, int maximumDepth)
     {
-        var pass = new LimeDepthBloomOverlay<T>(minimumDepth, maximumDepth, _sourceCache) { Strength = _strength };
+        var pass = new LimeDepthBloomOverlay<T>(groupIndex, minimumDepth, maximumDepth, _sourceCache) { Strength = _strength };
         _passes.Add(pass);
         _overlay.AddOverlay(pass);
     }

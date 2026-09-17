@@ -20,7 +20,6 @@ internal abstract class LimeLampBloomOverlay : Overlay
 
     private static readonly ProtoId<ShaderPrototype> HaloShader = "LimeLampHalo";
 
-    private readonly EntityLookupSystem _lookup;
     private readonly TransformSystem _transform;
     private readonly SpriteSystem _sprite;
     private readonly EntityQuery<PointLightComponent> _lights;
@@ -31,19 +30,20 @@ internal abstract class LimeLampBloomOverlay : Overlay
     private readonly ShaderInstance _halo;
     private readonly int _minimumDepth;
     private readonly int _maximumDepth;
+    private readonly int _groupIndex;
 
     /// <summary>Global decorative intensity, from zero to one.</summary>
     public float Strength;
     // Каждый проход рисуется после своего слоя источников, но до следующего слоя объектов.
     public override OverlaySpace Space => OverlaySpace.WorldSpaceEntities;
 
-    public LimeLampBloomOverlay(int minimumDepth, int maximumDepth, LimeBloomSourceCache sourceCache)
+    public LimeLampBloomOverlay(int groupIndex, int minimumDepth, int maximumDepth, LimeBloomSourceCache sourceCache)
     {
+        _groupIndex = groupIndex;
         _sourceCache = sourceCache;
         _minimumDepth = minimumDepth;
         _maximumDepth = maximumDepth;
         IoCManager.InjectDependencies(this);
-        _lookup = _entity.System<EntityLookupSystem>();
         _transform = _entity.System<TransformSystem>();
         _sprite = _entity.System<SpriteSystem>();
         _lights = _entity.GetEntityQuery<PointLightComponent>();
@@ -58,7 +58,7 @@ internal abstract class LimeLampBloomOverlay : Overlay
     {
         if (Strength <= 0f || args.Viewport.Eye == null)
             return false;
-        var visibleSprites = _sourceCache.Get(args.MapId, args.WorldAABB.Enlarged(2f));
+        var visibleSprites = _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(2f), _groupIndex);
         foreach (var entry in visibleSprites)
         {
             var sprite = entry.Comp;
@@ -79,7 +79,7 @@ internal abstract class LimeLampBloomOverlay : Overlay
         var handle = args.WorldHandle;
         try
         {
-            foreach (var entry in _sourceCache.Sources)
+            foreach (var entry in _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(2f), _groupIndex))
             {
                 if (!_lampQuery.TryComp(entry, out var bloom))
                     continue;
@@ -95,11 +95,11 @@ internal abstract class LimeLampBloomOverlay : Overlay
                 handle.SetTransform(_transform.GetWorldMatrix(lamp));
                 var color = light.Color * lamp.Comp.BloomColor;
                 var intensity = Strength * Math.Clamp(lamp.Comp.CoreStrength, 0f, 2f);
-                DrawLocalHalos(handle, lamp.Comp.MaskOffset, size, lamp.Comp.HaloRadius,
+                DrawLocalBloom(handle, texture, lamp.Comp.MaskOffset, size, lamp.Comp.HaloRadius,
                     lamp.Comp.Softness, color, intensity);
             }
 
-            foreach (var entry in _sourceCache.Sources)
+            foreach (var entry in _sourceCache.Get(args.Viewport, args.MapId, args.WorldAABB.Enlarged(2f), _groupIndex))
             {
                 var sprite = entry.Comp;
                 if (!MatchesDepth(sprite) || !sprite.Visible || sprite.ContainerOccluded || _lampQuery.HasComp(entry) || HasBlockingEffect(sprite))
@@ -163,7 +163,7 @@ internal abstract class LimeLampBloomOverlay : Overlay
         var color = sprite.Color * layer.Color * (settings?.Color ?? Color.White);
         var size = (Vector2) texture.Size / EyeManager.PixelsPerMeter;
         handle.SetTransform(matrix);
-        DrawLocalHalos(handle, Vector2.Zero, size, Math.Clamp(radius, 0f, 2f), 0.7f,
+        DrawLocalBloom(handle, texture, Vector2.Zero, size, Math.Clamp(radius, 0f, 2f), 0.7f,
             color, Strength * Math.Clamp(strength, 0f, 2f));
     }
 
@@ -180,24 +180,32 @@ internal abstract class LimeLampBloomOverlay : Overlay
 
     private bool MatchesDepth(SpriteComponent sprite) => sprite.DrawDepth >= _minimumDepth && sprite.DrawDepth <= _maximumDepth;
 
-    private void DrawHalo(DrawingHandleWorld handle, Vector2 center, Vector2 coreSize, float radius, float softness, Color color)
+    private void DrawLocalBloom(DrawingHandleWorld handle, Texture texture, Vector2 center, Vector2 coreSize,
+        float radius, float softness, Color color, float intensity)
     {
-        if (!float.IsFinite(radius) || radius <= 0f)
+        if (!float.IsFinite(radius) || !float.IsFinite(intensity) || radius <= 0f || intensity <= 0f)
             return;
-        // Ширина ореола ограничена в метрах, а не зависит от PointLight.Radius.
-        var padding = Math.Clamp(radius * 0.12f, 0.02f, 0.35f);
-        _halo.SetParameter("softness", float.IsFinite(softness) ? Math.Clamp(softness, 0f, 1f) : 0.5f);
-        handle.UseShader(_halo);
-        handle.DrawRect(Box2.CenteredAround(center, coreSize + new Vector2(padding * 2f)), color);
+
+        softness = float.IsFinite(softness) ? Math.Clamp(softness, 0f, 1f) : 0.5f;
+        DrawBloomBand(handle, texture, center, coreSize, radius * 0.12f, color, intensity * 0.50f);
+        DrawBloomBand(handle, texture, center, coreSize, radius * 0.25f, color,
+            intensity * 0.32f * (0.65f + softness * 0.35f));
+        DrawBloomBand(handle, texture, center, coreSize, radius * 0.45f, color,
+            intensity * 0.18f * (0.35f + softness * 0.65f));
     }
 
-    private void DrawLocalHalos(DrawingHandleWorld handle, Vector2 center, Vector2 coreSize, float radius,
-        float softness, Color color, float intensity)
+    private void DrawBloomBand(DrawingHandleWorld handle, Texture texture, Vector2 center, Vector2 coreSize,
+        float padding, Color color, float weight)
     {
-        // Три локальных прямоугольника заменяют дорогой полноэкранный blur.
-        DrawHalo(handle, center, coreSize, radius * 0.45f, softness, color.WithAlpha(intensity * 0.28f));
-        DrawHalo(handle, center, coreSize, radius * 0.9f, softness, color.WithAlpha(intensity * 0.14f));
-        DrawHalo(handle, center, coreSize, radius * 1.5f, softness, color.WithAlpha(intensity * 0.06f));
+        padding = Math.Clamp(padding, 0.02f, 0.8f);
+        var expandedSize = coreSize + new Vector2(padding * 2f);
+        var safeCore = Vector2.Max(coreSize, new Vector2(0.01f));
+        _halo.SetParameter("core_scale", safeCore / expandedSize);
+        _halo.SetParameter("sample_radius", Vector2.Min(new Vector2(padding) / safeCore * 0.85f, new Vector2(1f)));
+        _halo.SetParameter("bloom_color", color);
+        _halo.SetParameter("bloom_weight", weight);
+        handle.UseShader(_halo);
+        handle.DrawTextureRect(texture, Box2.CenteredAround(center, expandedSize), Color.White);
     }
 
     protected override void DisposeBehavior()
@@ -212,9 +220,7 @@ internal sealed class LimeBloomSourceCache
 {
     private readonly EntityLookupSystem _lookup;
     private readonly IGameTiming _timing;
-    private uint _frame = uint.MaxValue;
-
-    public readonly HashSet<Entity<SpriteComponent>> Sources = new();
+    private readonly Dictionary<IClydeViewport, ViewportSources> _viewports = new();
 
     public LimeBloomSourceCache(IEntityManager entity)
     {
@@ -222,14 +228,58 @@ internal sealed class LimeBloomSourceCache
         _timing = IoCManager.Resolve<IGameTiming>();
     }
 
-    public HashSet<Entity<SpriteComponent>> Get(MapId mapId, Box2 bounds)
+    public List<Entity<SpriteComponent>> Get(IClydeViewport viewport, MapId mapId, Box2 bounds, int groupIndex)
     {
-        if (_frame == _timing.CurFrame)
-            return Sources;
+        if (!_viewports.TryGetValue(viewport, out var sources))
+        {
+            sources = new ViewportSources();
+            _viewports.Add(viewport, sources);
+        }
 
-        _frame = _timing.CurFrame;
-        Sources.Clear();
-        _lookup.GetEntitiesIntersecting(mapId, bounds, Sources);
-        return Sources;
+        if (sources.Frame == _timing.CurFrame && sources.MapId == mapId && sources.Bounds.Equals(bounds))
+            return sources.Groups[groupIndex];
+
+        sources.Frame = _timing.CurFrame;
+        sources.MapId = mapId;
+        sources.Bounds = bounds;
+        sources.All.Clear();
+        foreach (var group in sources.Groups)
+            group.Clear();
+
+        _lookup.GetEntitiesIntersecting(mapId, bounds, sources.All);
+        foreach (var entry in sources.All)
+        {
+            var index = GetGroupIndex(entry.Comp.DrawDepth);
+            if (index >= 0)
+                sources.Groups[index].Add(entry);
+        }
+
+        return sources.Groups[groupIndex];
+    }
+
+    private static int GetGroupIndex(int depth)
+    {
+        if (depth <= (int) Content.Shared.DrawDepth.DrawDepth.SmallMobs) return 0;
+        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Walls && depth <= (int) Content.Shared.DrawDepth.DrawDepth.WallTops) return 1;
+        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Objects && depth <= (int) Content.Shared.DrawDepth.DrawDepth.SmallObjects) return 2;
+        if (depth == (int) Content.Shared.DrawDepth.DrawDepth.WallMountedItems) return 3;
+        if (depth == (int) Content.Shared.DrawDepth.DrawDepth.LargeObjects) return 4;
+        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Items && depth <= (int) Content.Shared.DrawDepth.DrawDepth.BelowMobs) return 5;
+        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Mobs && depth <= (int) Content.Shared.DrawDepth.DrawDepth.OverMobs) return 6;
+        if (depth >= (int) Content.Shared.DrawDepth.DrawDepth.Doors && depth <= (int) Content.Shared.DrawDepth.DrawDepth.Overdoors) return 7;
+        if (depth > (int) Content.Shared.DrawDepth.DrawDepth.Overdoors && depth <= (int) Content.Shared.DrawDepth.DrawDepth.Overlays) return 8;
+        return -1;
+    }
+
+    private sealed class ViewportSources
+    {
+        public uint Frame = uint.MaxValue;
+        public MapId MapId = MapId.Nullspace;
+        public Box2 Bounds;
+        public readonly HashSet<Entity<SpriteComponent>> All = new();
+        public readonly List<Entity<SpriteComponent>>[] Groups =
+        [
+            [], [], [], [], [], [], [], [], []
+        ];
     }
 }

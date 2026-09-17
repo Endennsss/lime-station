@@ -1,13 +1,40 @@
 light_mode unshaded;
 blend_mode add;
 
-uniform lowp float softness;
+uniform highp vec2 core_scale;
+uniform highp vec2 sample_radius;
+uniform lowp vec4 bloom_color;
+uniform lowp float bloom_weight;
+
+lowp vec4 sample_source(highp vec2 uv) {
+    if (uv.x < 0.0 || uv.y < 0.0 || uv.x > 1.0 || uv.y > 1.0)
+        return vec4(0.0);
+
+    lowp vec4 sample = zTexture(uv);
+    sample.rgb *= sample.a;
+    return sample;
+}
 
 void fragment() {
-    highp vec2 position = (UV2 - vec2(0.5)) * 2.0;
-    highp float distanceSquared = dot(position, position);
-    // Конечная граница исключает длинный размах и прямоугольную подложку.
-    highp float edge = max(0.0, 1.0 - distanceSquared);
-    highp float halo = pow(edge, mix(5.0, 2.0, softness));
-    COLOR = vec4(vec3(1.0), halo);
+    highp vec2 source_uv = (UV - vec2(0.5)) / core_scale + vec2(0.5);
+    highp vec2 diagonal = sample_radius * 0.70710678;
+
+    lowp vec4 glow = sample_source(source_uv) * 0.20;
+    glow += sample_source(source_uv + vec2(sample_radius.x, 0.0)) * 0.10;
+    glow += sample_source(source_uv - vec2(sample_radius.x, 0.0)) * 0.10;
+    glow += sample_source(source_uv + vec2(0.0, sample_radius.y)) * 0.10;
+    glow += sample_source(source_uv - vec2(0.0, sample_radius.y)) * 0.10;
+    glow += sample_source(source_uv + diagonal) * 0.10;
+    glow += sample_source(source_uv - diagonal) * 0.10;
+    glow += sample_source(source_uv + vec2(diagonal.x, -diagonal.y)) * 0.10;
+    glow += sample_source(source_uv + vec2(-diagonal.x, diagonal.y)) * 0.10;
+
+    mediump float luminance = max(glow.a, zGrayscale_BT709(glow.rgb));
+    mediump float threshold = smoothstep(0.01, 0.08, luminance);
+    if (threshold <= 0.0)
+        discard;
+
+    lowp vec3 color = glow.rgb * bloom_color.rgb * bloom_weight;
+    lowp float alpha = clamp(threshold * bloom_color.a * bloom_weight, 0.0, 1.0);
+    COLOR = vec4(color, alpha);
 }

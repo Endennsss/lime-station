@@ -2,6 +2,14 @@ Name: LimeUpdates
 AdminOnly: false
 Order: -1
 Entries:
+- id: 14
+  author: Endennsss
+  time: '2026-09-17T18:00:00+00:00'
+  changes:
+  - type: Fix
+    message: Bloom снова повторяет форму и цвет светящихся пикселей без тяжёлого полноэкранного размытия.
+  - type: Fix
+    message: Прыжок больше не поворачивает персонажа и гарантированно возвращает спрайт в исходное положение после приземления.
 - id: 13
   author: Endennsss
   time: '2026-09-17T16:00:00+00:00'
