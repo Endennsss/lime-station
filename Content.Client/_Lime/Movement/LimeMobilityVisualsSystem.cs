@@ -18,7 +18,6 @@ public sealed partial class LimeMobilityVisualsSystem : EntitySystem
         SubscribeLocalEvent<LimeActiveManeuverComponent, ComponentShutdown>(OnShutdown);
         SubscribeLocalEvent<LimeProneComponent, ComponentStartup>(OnProneStartup);
         SubscribeLocalEvent<LimeProneComponent, ComponentRemove>(OnProneRemove);
-        SubscribeLocalEvent<SpriteComponent, ComponentStartup>(OnSpriteStartup);
     }
 
     private void OnStartup(Entity<LimeActiveManeuverComponent> entity, ref ComponentStartup args)
@@ -73,15 +72,6 @@ public sealed partial class LimeMobilityVisualsSystem : EntitySystem
 
         _sprites.SetOffset((entity.Owner, sprite), sprite.Offset - entity.Comp.AppliedOffset);
         entity.Comp.AppliedOffset = Vector2.Zero;
-    }
-
-    private void OnSpriteStartup(Entity<SpriteComponent> entity, ref ComponentStartup args)
-    {
-        if (TryComp<LimeMobilityVisualsComponent>(entity, out var visuals))
-            visuals.AppliedOffset = Vector2.Zero;
-
-        if (TryComp<LimeProneComponent>(entity, out _))
-            OnProneSpriteStartup(entity);
     }
 
     private void OnProneSpriteStartup(Entity<SpriteComponent> entity)
